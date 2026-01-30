@@ -1,5 +1,5 @@
 
-# **Código Tributário** **Nacional**   Lei n° 5.172
+# **Código Tributário** **Nacional** Lei n° 5.172
 
 ```
 Dispõe sobre o Sistema Tributário Nacional e institui
@@ -7,24 +7,20 @@ normas gerais de direito tributário aplicáveis à União,
 Estados e Municípios.
 ```
 
-#### O PRESIDENTE DA REPÚBLICA
+## Disposição Preliminar
 
-Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
-
-### Disposição Preliminar
-
-**Art. 1 o** Esta Lei regula, com fundamento na Emenda Constitucional no 18,  
+**Art. 1°** Esta Lei regula, com fundamento na Emenda Constitucional no 18,  
 de 1o de dezembro de 1965, o sistema tributário nacional e estabelece,  
 com fundamento no art. 5o, inciso XV, alínea “b”, da Constituição Federal,  
 as normas gerais de direito tributário aplicáveis à União, aos Estados, ao  
 Distrito Federal e aos Municípios, sem prejuízo da respectiva legislação  
 complementar, supletiva ou regulamentar.
 
-### Livro Primeiro – Sistema Tributário Nacional
+## Livro Primeiro – Sistema Tributário Nacional
 
 ### Título I – Disposições Gerais
 
-**Art. 2 o** O sistema tributário nacional é regido pelo disposto na Emenda  
+**Art. 2°** O sistema tributário nacional é regido pelo disposto na Emenda  
 Constitucional no 18, de 1o de dezembro de 1965, em leis complementares,  
 em resoluções do Senado Federal e, nos limites das respectivas competências,  
 em leis federais, nas Constituições e em leis estaduais, e em leis municipais.
