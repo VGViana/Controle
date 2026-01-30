@@ -1282,6 +1282,7 @@ tributo devido, identificar o sujeito passivo e, sendo caso, propor a aplicaçã
 da penalidade cabível.  
 Parágrafo único. A atividade administrativa de lançamento é vinculada  
 e obrigatória, sob pena de responsabilidade funcional.
+^CTN-art142
 
 Lei no 5.172/1966 47
 
