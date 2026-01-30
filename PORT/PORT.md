@@ -2,4 +2,5 @@
 
 [[Coesão e Coerência]]
 
-[[Semântica, Tipos de Discurso e Tipologica]]
+[[Semântica, Tipos de Discurso e Tipologia]]
+
