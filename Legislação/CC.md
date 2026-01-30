@@ -6221,16 +6221,16 @@ Art. 1° Toda pessoa é capaz de direitos e deveres na ordem civil.
 põe a salvo, desde a concepção, os direitos do nascituro.
 ^cc-art2
 
-**Art. 3 o** São absolutamente incapazes de exercer pessoalmente os atos da vida civil:
-^cc-art3
+**Art. 3°** São absolutamente incapazes de exercer pessoalmente os atos da vida civil:
 
 I – os menores de dezesseis anos;  
 II – os que, por enfermidade ou deficiência mental, não tiverem o necessário  
-discernimento para a prática desses atos; ^6da58c
+discernimento para a prática desses atos; 
 
 ```
 III – os que, mesmo por causa transitória, não puderem exprimir sua vontade.
 ```
+^cc-art3
 
 **Art. 4 o** São incapazes, relativamente a certos atos, ou à maneira de os exercer:
 
