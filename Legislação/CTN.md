@@ -1294,15 +1294,16 @@ da obrigação.
 **Art. 144.** O lançamento reporta-se à data da ocorrência do fato gerador  
 da obrigação e rege-se pela lei então vigente, ainda que posteriormente  
 modificada ou revogada.  
-§ 1o Aplica-se ao lançamento a legislação que, posteriormente à ocor-  
+§ 1° Aplica-se ao lançamento a legislação que, posteriormente à ocor-  
 rência do fato gerador da obrigação, tenha instituído novos critérios de  
 apuração ou processos de fiscalização, ampliado os poderes de investigação  
 das autoridades administrativas, ou outorgado ao crédito maiores garantias  
 ou privilégios, exceto, neste último caso, para o efeito de atribuir respon-  
 sabilidade tributária a terceiros.  
-§ 2o O disposto neste artigo não se aplica aos impostos lançados por  
+§ 2° O disposto neste artigo não se aplica aos impostos lançados por  
 períodos certos de tempo, desde que a respectiva lei fixe expressamente a  
 data em que o fato gerador se considera ocorrido.
+^CTN-art144
 
 **Art. 145.** O lançamento regularmente notificado ao sujeito passivo só  
 pode ser alterado em virtude de:  
