@@ -1,4 +1,4 @@
-[[0. Conceitos Introdutórios e LINDB - Parte I]]
+[[0. Conceitos Introdutórios e LINDB]]
 
 [[1. Pessoas Naturais]]
 
