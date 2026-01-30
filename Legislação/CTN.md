@@ -1331,6 +1331,7 @@ provação do erro em que se funde, e antes de notificado o lançamento.
 § 2o Os erros contidos na declaração e apuráveis pelo seu exame serão  
 retificados de ofício pela autoridade administrativa a que competir a re-  
 visão daquela.
+^CTN-art147
 
 **Art. 148.** Quando o cálculo do tributo tenha por base, ou tome em con-  
 sideração, o valor ou o preço de bens, direitos, serviços ou atos jurídicos, a  
