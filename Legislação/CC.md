@@ -6217,7 +6217,7 @@ Da Personalidade e da Capacidade
 Art. 1° Toda pessoa é capaz de direitos e deveres na ordem civil.
 ^cc-art1
 
-**Art. 2 o** A personalidade civil da pessoa começa do nascimento com vida; mas a lei  
+**Art. 2°** A personalidade civil da pessoa começa do nascimento com vida; mas a lei  
 põe a salvo, desde a concepção, os direitos do nascituro.
 ^cc-art2
 
