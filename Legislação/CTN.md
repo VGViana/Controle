@@ -35,13 +35,13 @@ gerador da respectiva obrigação, sendo irrelevantes para qualificá-la:
 I – a denominação e demais características formais adotadas pela lei;  
 II – a destinação legal do produto da sua arrecadação.
 
-**Art. 5 o** Os tributos são impostos, taxas e contribuições de melhoria.
+**Art. 5°** Os tributos são impostos, taxas e contribuições de melhoria.
 
 ### Título II – Competência Tributária
 
 ### Capítulo I – Disposições Gerais
 
-**Art. 6 o** A atribuição constitucional de competência tributária compreen-  
+**Art. 6°** A atribuição constitucional de competência tributária compreen-  
 de a competência legislativa plena, ressalvadas as limitações contidas na  
 Constituição Federal, nas Constituições dos Estados e nas Leis Orgânicas  
 do Distrito Federal e dos Municípios, e observado o disposto nesta Lei.  
@@ -49,22 +49,19 @@ Parágrafo único. Os tributos cuja receita seja distribuída, no todo ou em
 parte, a outras pessoas jurídicas de direito público pertencem à competência  
 legislativa daquela a que tenham sido atribuídos.
 
-**Art. 7 o** A competência tributária é indelegável, salvo atribuição das fun-  
+**Art. 7°** A competência tributária é indelegável, salvo atribuição das fun-  
 ções de arrecadar ou fiscalizar tributos, ou de executar leis, serviços, atos  
 ou decisões administrativas em matéria tributária, conferida por uma  
-pessoa jurídica de direito público a outra, nos termos do § 3o do art. 18 da  
+pessoa jurídica de direito público a outra, nos termos do § 3° do art. 18 da  
 Constituição.  
-§ 1o A atribuição compreende as garantias e os privilégios processuais  
+§ 1° A atribuição compreende as garantias e os privilégios processuais  
 que competem à pessoa jurídica de direito público que a conferir.  
-§ 2o A atribuição pode ser revogada, a qualquer tempo, por ato unilateral  
+§ 2° A atribuição pode ser revogada, a qualquer tempo, por ato unilateral  
 da pessoa jurídica de direito público que a tenha conferido.
-
-12 Código Tributário Nacional
-
-§ 3o Não constitui delegação de competência o cometimento, a pessoas  
+§ 3° Não constitui delegação de competência o cometimento, a pessoas  
 de direito privado, do encargo ou da função de arrecadar tributos.
 
-**Art. 8 o** O não exercício da competência tributária não a defere a pessoa  
+**Art. 8°** O não exercício da competência tributária não a defere a pessoa  
 jurídica de direito público diversa daquela a que a Constituição a tenha  
 atribuído.
 
@@ -72,7 +69,7 @@ atribuído.
 
 ### Seção I – Disposições Gerais
 
-**Art. 9 o** É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:  
+**Art. 9°** É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:  
 I – instituir ou majorar tributos sem que a lei o estabeleça, ressalvado,  
 quanto à majoração, o disposto nos arts. 21, 26 e 65;  
 II – cobrar imposto sobre o patrimônio e a renda com base em lei pos-  
