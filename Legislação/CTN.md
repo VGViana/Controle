@@ -21,18 +21,16 @@ complementar, supletiva ou regulamentar.
 ### Título I – Disposições Gerais
 
 **Art. 2°** O sistema tributário nacional é regido pelo disposto na Emenda  
-Constitucional no 18, de 1o de dezembro de 1965, em leis complementares,  
+Constitucional no 18, de 1° de dezembro de 1965, em leis complementares,  
 em resoluções do Senado Federal e, nos limites das respectivas competências,  
 em leis federais, nas Constituições e em leis estaduais, e em leis municipais.
 
-Lei no 5.172/1966 11
-
-**Art. 3 o** Tributo é toda prestação pecuniária compulsória, em moeda ou  
+**Art. 3°** Tributo é toda prestação pecuniária compulsória, em moeda ou  
 cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito,  
 instituída em lei e cobrada mediante atividade administrativa plenamente  
 vinculada.
 
-**Art. 4 o** A natureza jurídica específica do tributo é determinada pelo fato  
+**Art. 4°** A natureza jurídica específica do tributo é determinada pelo fato  
 gerador da respectiva obrigação, sendo irrelevantes para qualificá-la:  
 I – a denominação e demais características formais adotadas pela lei;  
 II – a destinação legal do produto da sua arrecadação.
