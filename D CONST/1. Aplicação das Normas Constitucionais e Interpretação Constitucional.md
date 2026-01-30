@@ -1,0 +1,104 @@
+# 1. Aplicação das Normas Constitucionais no Tempo
+
+## 1.1 Revogação
+
+Quando uma nova Constituição é promulgada, ela revoga integralmente a Constituição anterior, bem como todas as normas infraconstitucionais que sejam materialmente incompatíveis com ela.
+
+## 1.2 Recepção
+
+Normas infraconstitucionais criadas antes da nova Constituição podem continuar em vigor, desde que sejam materialmente compatíveis com o novo texto constitucional. A mera incompatibilidade formal não impede essa recepção.
+
+## 1.3 Desconstitucionalização
+
+Normas constitucionais da Constituição anterior podem ser incorporadas como normas infraconstitucionais na nova ordem jurídica, mas apenas se houver previsão expressa nesse sentido.
+
+## 1.4 Inconstitucionalidade Superveniente
+
+Quando uma nova Constituição entra em vigor, as normas infraconstitucionais que sejam incompatíveis com ela não são automaticamente consideradas inconstitucionais. O Supremo Tribunal Federal (STF) não admite essa tese, pois o controle de constitucionalidade só pode ser realizado em relação a normas contemporâneas à Constituição vigente.
+
+## 1.5 Repristinação
+
+Refere-se à possibilidade de restabelecer normas que já haviam sido revogadas. No Brasil, esse fenômeno só ocorre se houver previsão expressa na nova legislação.
+
+## 1.6 Mutação Constitucional
+
+A mutação constitucional ocorre quando há uma nova interpretação da Constituição sem que seu texto seja alterado, permitindo sua adaptação a novas realidades sociais e jurídicas.
+
+---
+
+# 2. Interpretação Constitucional
+
+## 2.1 Competência para Interpretar a Constituição
+
+A interpretação da Constituição não é exclusiva de um Poder. Executivo, Legislativo e Judiciário têm competência para interpretar suas normas dentro de suas atribuições.
+
+---
+
+# 3. Métodos de Interpretação
+
+## 3.1 Método Jurídico ou Hermenêutico-Clássico
+
+Considera a Constituição como uma norma jurídica comum, devendo ser interpretada com base nos métodos tradicionais da hermenêutica: gramatical, histórico, sistemático, teleológico e genético.
+
+## 3.2 Método Tópico-Problematizante
+
+Parte-se da análise de um problema concreto para, então, buscar a interpretação normativa mais adequada.
+
+## 3.3 Método Hermenêutico-Concretizador
+
+A norma constitucional é o ponto de partida para a interpretação, que deve considerar sua aplicação à realidade social e jurídica.
+
+## 3.4 Método Científico-Espiritual (ou Integrativo)
+
+Leva em conta os valores implícitos na Constituição e busca interpretar suas normas de acordo com o contexto histórico, social e político do Estado.
+
+## 3.5 Método Normativo-Estruturante
+
+A norma não se limita ao texto escrito, mas também abrange os fatores legislativos, jurídicos e administrativos que influenciam sua aplicação e efetividade.
+
+---
+
+# 4. Princípios da Interpretação Constitucional
+
+## 4.1 Princípio da Unidade da Constituição
+
+A Constituição deve ser interpretada de forma global, sem que haja hierarquia entre suas normas, evitando contradições internas.
+
+🚨 _Não existem normas constitucionais originárias inconstitucionais!_
+
+## 4.2 Princípio da Máxima Efetividade
+
+A interpretação deve buscar conferir o máximo de eficácia às normas constitucionais, garantindo sua aplicabilidade prática.
+
+## 4.3 Princípio da Conformidade Funcional
+
+Nenhuma interpretação pode modificar as competências e funções estabelecidas pela Constituição para os diferentes Poderes do Estado.
+
+## 4.4 Princípio da Concordância Prática (ou da Harmonização)
+
+Quando há conflito entre normas constitucionais, a interpretação deve buscar uma solução equilibrada, garantindo a coexistência e eficácia de ambas.
+
+## 4.5 Princípio do Efeito Integrador
+
+A interpretação constitucional deve ter como objetivo a manutenção da unidade política e social do Estado.
+
+## 4.6 Princípio da Força Normativa da Constituição
+
+Todas as normas constitucionais possuem eficácia, ainda que em diferentes graus, devendo ser aplicadas sempre que possível.
+
+---
+
+# 5. Interpretação Conforme a Constituição
+
+A interpretação conforme ocorre quando uma norma infraconstitucional pode ter mais de um significado. Nesse caso, busca-se interpretar a norma de forma que esteja alinhada à Constituição, evitando declará-la inconstitucional.
+
+## 5.1 Regras da Interpretação Conforme
+
+### 5.1.1 Limitação
+
+A interpretação conforme não pode alterar o sentido original da norma.
+
+### 5.1.2 Tipos de Interpretação Conforme
+
+- - **Interpretação conforme com redução de texto**: parte da norma é excluída por ser inconstitucional.
+    - **Interpretação conforme sem redução de texto**: a norma permanece intacta, mas sua aplicação é direcionada a um sentido compatível com a Constituição.
