@@ -1257,6 +1257,7 @@ fiscalização, relacionados com a infração.
 
 **Art. 139.** O crédito tributário decorre da obrigação principal e tem a  
 mesma natureza desta.
+CTN#art13
 
 **Art. 140.** As circunstâncias que modificam o crédito tributário, sua ex-  
 tensão ou seus efeitos, ou as garantias ou os privilégios a ele atribuídos, ou  
