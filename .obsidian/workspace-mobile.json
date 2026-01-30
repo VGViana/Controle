@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FISCAL.md",
-                "mode": "source",
+                "file": "D CONST/0. Conceito, Poder Constituinte e Princípios Fundamentais.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FISCAL"
+              "title": "0. Conceito, Poder Constituinte e Princípios Fundamentais"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "D CONST/0. Conceito, Poder Constituinte e Princípios Fundamentais.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,11 +169,11 @@
   },
   "active": "0cd0a3f6e2cd8408",
   "lastOpenFiles": [
+    "D CONST/D CONST.md",
+    "FISCAL.md",
     "D CONST/0. Conceito, Poder Constituinte e Princípios Fundamentais.md",
     "/D CONST/0. Conceito, Poder Constituinte e Princípios Fundamentais.md",
     "0. Conceito, Poder Constituinte e Princípios Fundamentais.md",
-    "D CONST/D CONST.md",
-    "FISCAL.md",
     "D CIV/D CIV.md",
     "PORT/PORT.md",
     "D TRIB/D TRIB.md",
