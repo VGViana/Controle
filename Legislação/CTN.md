@@ -85,11 +85,11 @@ de educação e de assistência social, sem fins lucrativos, observados os re-
 quisitos fixados na Seção II deste Capítulo;  
 d) papel destinado exclusivamente à impressão de jornais, periódicos  
 e livros.  
-§ 1o O disposto no inciso IV não exclui a atribuição, por lei, às enti-  
+§ 1° O disposto no inciso IV não exclui a atribuição, por lei, às enti-  
 dades nele referidas, da condição de responsáveis pelos tributos que lhes  
 caiba reter na fonte, e não as dispensa da prática de atos, previstos em lei,  
 assecuratórios do cumprimento de obrigações tributárias por terceiros.  
-§ 2o O disposto na alínea “a” do inciso IV aplica-se, exclusivamente, aos  
+§ 2° O disposto na alínea “a” do inciso IV aplica-se, exclusivamente, aos  
 serviços próprios das pessoas jurídicas de direito público a que se refere  
 este artigo, e inerentes aos seus objetivos.
 
