@@ -6222,7 +6222,7 @@ põe a salvo, desde a concepção, os direitos do nascituro.
 ^cc-art2
 
 **Art. 3 o** São absolutamente incapazes de exercer pessoalmente os atos da vida civil:
-
+^cc-art3
 I – os menores de dezesseis anos;  
 II – os que, por enfermidade ou deficiência mental, não tiverem o necessário  
 discernimento para a prática desses atos;
