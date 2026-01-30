@@ -1,10 +1,5 @@
 
-# **Código Tributário** **Nacional** Lei n
-
-```
-o
-5.172/
-```
+# **Código Tributário** **Nacional**   Lei n° 5.172
 
 ```
 Dispõe sobre o Sistema Tributário Nacional e institui
