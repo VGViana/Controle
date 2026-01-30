@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D CIV/D CIV.md",
+                "file": "0. Conceito, Poder Constituinte e Princípios Fundamentais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D CIV"
+              "title": "0. Conceito, Poder Constituinte e Princípios Fundamentais"
             }
           }
         ]
@@ -169,21 +169,35 @@
   },
   "active": "0cd0a3f6e2cd8408",
   "lastOpenFiles": [
+    "D CONST/D CONST.md",
+    "0. Conceito, Poder Constituinte e Princípios Fundamentais.md",
     "FISCAL.md",
-    "README.md",
     "D CIV/D CIV.md",
+    "PORT/PORT.md",
+    "D TRIB/D TRIB.md",
+    "D ADM/D ADM.md",
+    "AUD/AUD.md",
+    "/PORT/PORT.md",
+    "/D TRIB/D TRIB.md",
+    "/D ADM/D ADM.md",
+    "/AUD/AUD.md",
+    "/D CONST/D CONST.md",
+    "PORT",
+    "D TRIB",
+    "D CONST",
+    "D ADM",
+    "AUD",
+    "/PORT",
+    "/D TRIB",
+    "/D CONST",
+    "/D ADM",
+    "/AUD",
+    "README.md",
     "/D CIV/D CIV.md",
-    "D CIV",
-    "/D CIV",
     "/FISCAL.md",
     "Sem título.md",
     "/Sem título.md",
     "/README.md",
-    "/contabilidade/CPC 00",
-    "/contabilidade",
-    "contabilidade/CPC 00/README.md",
-    "contabilidade/CPC 00",
-    "contabilidade",
-    "D Const"
+    "contabilidade/CPC 00/README.md"
   ]
 }
