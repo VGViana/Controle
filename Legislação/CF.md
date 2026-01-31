@@ -4849,10 +4849,9 @@ ao Distrito Federal cabem os impostos municipais.
 
 **Art. 148.** A <font color="#00b0f0">União</font>, <font color="#00b0f0">mediante lei complementar</font>, <font color="#ffff00">poderá instituir empréstimos compulsórios</font>:
 
-I – para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência;
+I – para atender a <font color="#00b0f0">despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência;</font>
 
-II – no caso de investimento público de caráter urgente e de relevante interesse  
-nacional, observado o disposto no art. 150, III, “b”.
+II – no caso de <font color="#00b0f0">investimento público de caráter urgente e de relevante interesse nacional</font>, observado o disposto no art. 150, III, “b”.
 
 Parágrafo único. A aplicação dos recursos provenientes de empréstimo compulsório  
 será vinculada à despesa que fundamentou sua instituição.
@@ -4909,6 +4908,8 @@ III – cobrar tributos:
 a) em relação a fatos geradores ocorridos antes do início da vigência da lei que  
 os houver instituído ou aumentado;  
 b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu  
+^CF-
+
 ou aumentou;  
 c) antes de decorridos noventa dias da data em que haja sido publicada a lei que  
 os instituiu ou aumentou, observado o disposto na alínea “b”;  
