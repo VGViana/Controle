@@ -4865,14 +4865,11 @@ III – poderão ter <font color="#00b0f0">alíquotas:  </font>
 	<font color="#00b0f0">	a) ad valorem</font>, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro;  
 	<font color="#00b0f0">b) específica</font>, tendo por base a unidade de medida adotada.  
 
-§ 3° A pessoa natural destinatária das operações de importação poderá ser equiparada a pessoa jurídica, na forma da lei.
+§ 3° A <font color="#7030a0">pessoa natural</font> <font color="#de7802">destinatária</font> das <font color="#de7802">operações de importação</font> poderá ser <font color="#00b0f0">equiparada a pessoa jurídica</font>, na forma da lei.
 
 § 4o A lei definirá as hipóteses em que as contribuições incidirão uma única vez.
 
-
-**Art. 149-A.** Os Municípios e o Distrito Federal poderão instituir contribuição, na  
-forma das respectivas leis, para o custeio do serviço de iluminação pública, observado  
-o disposto no art. 150, I e III. (EC no 39/2002)
+**Art. 149-A.** Os <font color="#6425d0">Municípios e o Distrito Federal</font> poderão instituir <font color="#de7802">contribuição, na forma das respectivas leis, para o custeio do serviço de iluminação pública</font>, observado o disposto no art. 150, I e III [[. (EC no 39/2002)
 
 Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na  
 fatura de consumo de energia elétrica.
