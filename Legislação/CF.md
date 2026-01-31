@@ -4824,19 +4824,14 @@ III – <font color="#ffff00">contribuição de melhoria, decorrente de obras p�
 **Art. 146.** Cabe à <font color="#245bdb">lei complementar</font>: (EC no 42/2003)
 
 I – dispor sobre <font color="#00b050">conflitos de competência</font>, <font color="#00b050">em matéria tributária</font>, entre a União, os Estados, o Distrito Federal e os Municípios;
-II – regular as limitações constitucionais ao poder de tributar;  
-III – estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
+II – regular as <font color="#00b050">limitações constitucionais</font> ao poder de tributar;  
+III – estabelecer <font color="#00b050">normas gerais em matéria de legislação tributária</font>, especialmente sobre:
 
-a) definição de tributos e de suas espécies, bem como, em relação aos impostos  
-discriminados nesta Constituição, a dos respectivos fatos geradores, bases de  
-cálculo e contribuintes;  
-b) obrigação, lançamento, crédito, prescrição e decadência tributários;  
-c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades  
-cooperativas;  
-d) definição de tratamento diferenciado e favorecido para as microempresas e  
-para as empresas de pequeno porte, inclusive regimes especiais ou simplificados  
-no caso do imposto previsto no art. 155, II, das contribuições previstas no art.  
-195, I e §§ 12 e 13, e da contribuição a que se refere o art. 239.  
+a) <font color="#00b050">definição de tributos</font> e de suas espécies, bem como, em relação aos impostos  
+discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;  
+b) <font color="#00b050">obrigação, lançamento, crédito, prescrição e decadência</font> tributários;  
+c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas;  
+d) <p align="justify">definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso do imposto previsto no art. 155, II, das contribuições previstas no art. 195, I e §§ 12 e 13, e da contribuição a que se refere o art. 239.  </p>
 Parágrafo único. A lei complementar de que trata o inciso III, “d”, também poderá  
 instituir um regime único de arrecadação dos impostos e contribuições da União, dos  
 Estados, do Distrito Federal e dos Municípios, observado que:
