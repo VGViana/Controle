@@ -4871,7 +4871,7 @@ III – poderão ter <font color="#00b0f0">alíquotas:  </font>
 
 **Art. 149-A.** Os <font color="#6425d0">Municípios e o Distrito Federal</font> poderão instituir <font color="#de7802">contribuição, na forma das respectivas leis, para o custeio do serviço de iluminação pública</font>, observado o disposto no art. 150, I e III [[CF#^cf-150-1]] [[CF#^CF-150-3b]]. (EC n° 39/2002)
 
-Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de energia elétrica.
+Parágrafo único. É <font color="#ffc000">facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de energia elétrica.</font>
 
 ### Seção II – Das Limitações do Poder de Tributar
 
@@ -5819,8 +5819,7 @@ parcialmente, sem prévia anuência do poder concedente.
 § 4o Não dependerá de autorização ou concessão o aproveitamento do potencial de  
 energia renovável de capacidade reduzida.
 
-**Art. 177.** Constituem monopólio da União: (EC no 9/95, EC no 33/2001 e  
-EC no 49/2006)
+**Art. 177.** Constituem monopólio da União: (EC no 9/95, EC no 33/2001 e EC no 49/2006)
 
 I – a pesquisa e a lavra das jazidas de petróleo e gás natural e outros hidrocarbo-  
 netos fluidos;
@@ -5856,18 +5855,15 @@ ritório nacional.
 às atividades de importação ou comercialização de petróleo e seus derivados, gás natural  
 e seus derivados e álcool combustível deverá atender aos seguintes requisitos:
 
-```
 I – a alíquota da contribuição poderá ser:
 a) diferenciada por produto ou uso;
-b) reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o
-disposto no art. 150, III, “b”;
+b) reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. 150, III, “b”;
 II – os recursos arrecadados serão destinados:
-a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás
+- a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás
 natural e seus derivados e derivados de petróleo;
 b) ao financiamento de projetos ambientais relacionados com a indústria do
 petróleo e do gás;
 c) ao financiamento de programas de infra-estrutura de transportes.
-```
 
 Da Ordem Econômica e Financeira 111
 
