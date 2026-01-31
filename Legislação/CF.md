@@ -4965,17 +4965,16 @@ cedência ou destino.
 ### Seção III – Dos Impostos da União
 
 **Art. 153.** Compete à União instituir impostos sobre: (EC no 20/98 e EC no 42/2003)
-
+^cf-
 I – importação de produtos estrangeiros;  
 II – exportação, para o exterior, de produtos nacionais ou nacionalizados;  
 III – renda e proventos de qualquer natureza;  
 IV – produtos industrializados;  
 V – operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mo-  
 biliários;
-
 VI – propriedade territorial rural;  
 VII – grandes fortunas, nos termos de lei complementar.  
-§ 1o É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos  
+§ 1° É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos  
 em lei, alterar as alíquotas dos impostos enumerados nos incisos I, II, IV e V.
 
 ```
