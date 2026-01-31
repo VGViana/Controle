@@ -4857,20 +4857,18 @@ Parágrafo único. A <font color="#de7802">aplicação dos recursos</font> prove
 
 § 1° Os <font color="#00b0f0">Estados, o Distrito Federal e os Municípios</font> instituirão <font color="#de7802">contribuição, cobrada de seus servidores, para o custeio, em benefício destes, do regime previdenciário</font> de que trata o art. 40[[CF#^cf-art40]], cuja <font color="#ff0000">alíquota não será inferior à da contribuição dos servidores titulares de cargos efetivos da União.</font>
 
-§ 2° As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
+§ 2° As <font color="#de7802">contribuições sociais e de intervenção no domínio econômico</font> de que trata o caput deste artigo:
 
-I – não incidirão sobre as receitas decorrentes de exportação;  
-II – incidirão também sobre a importação de produtos estrangeiros ou serviços;  
-III – poderão ter alíquotas:  
-	a) ad valorem, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro;  
-	b) específica, tendo por base a unidade de medida adotada.  
+I – <font color="#ff0000">não incidirão sobre as receitas decorrentes de exportação</font>;  
+II – i<font color="#00b0f0">ncidirão também sobre a importação de produtos estrangeiros</font> ou serviços;  
+III – poderão ter <font color="#00b0f0">alíquotas:  </font>
+	<font color="#00b0f0">	a) ad valorem</font>, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro;  
+	<font color="#00b0f0">b) específica</font>, tendo por base a unidade de medida adotada.  
 
-§ 3° A pessoa natural destinatária das operações de importação poderá ser equiparada  
-a pessoa jurídica, na forma da lei.
+§ 3° A pessoa natural destinatária das operações de importação poderá ser equiparada a pessoa jurídica, na forma da lei.
 
-```
 § 4o A lei definirá as hipóteses em que as contribuições incidirão uma única vez.
-```
+
 
 **Art. 149-A.** Os Municípios e o Distrito Federal poderão instituir contribuição, na  
 forma das respectivas leis, para o custeio do serviço de iluminação pública, observado  
