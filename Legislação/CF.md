@@ -4859,13 +4859,9 @@ Parágrafo único. A <font color="#de7802">aplicação dos recursos</font> prove
 
 **Art. 149.** Compete <font color="#00b0f0">exclusivamente à União</font> instituir <font color="#de7802">contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas</font>, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts.146, III [[CF#^cf-146-3]], e 150, I e III [[CF#^cf-150-1]] [[CF#^cf-150-3b]], e sem prejuízo do previsto no art. 195, § 6° [[CF#^cf-195-p6]], relativamente às contribuições a que alude o dispositivo. (EC no 33/2001, EC no 41/2003 e EC no 42/2003) 
 
-§ 1o Os Estados, o Distrito Federal e os Municípios instituirão contribuição, cobrada  
-de seus servidores, para o custeio, em benefício destes, do regime previdenciário de que  
-trata o art. 40, cuja alíquota não será inferior à da contribuição dos servidores titulares  
-de cargos efetivos da União.
+§ 1° Os Estados, o Distrito Federal e os Municípios instituirão contribuição, cobrada de seus servidores, para o custeio, em benefício destes, do regime previdenciário de que trata o art. 40, cuja alíquota não será inferior à da contribuição dos servidores titulares de cargos efetivos da União.
 
-§ 2o As contribuições sociais e de intervenção no domínio econômico de que trata  
-o caput deste artigo:
+§ 2° As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
 
 I – não incidirão sobre as receitas decorrentes de exportação;  
 II – incidirão também sobre a importação de produtos estrangeiros ou serviços;  
@@ -6172,9 +6168,7 @@ pansão da seguridade social, obedecido o disposto no art. 154, I.
 § 5o Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado  
 ou estendido sem a correspondente fonte de custeio total.
 
-§ 6o As contribuições sociais de que trata este artigo só poderão ser exigidas após  
-decorridos noventa dias da data da publicação da lei que as houver instituído ou modi-  
-ficado, não se lhes aplicando o disposto no art. 150, III, “b”.
+§ 6o As contribuições sociais de que trata este artigo só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando o disposto no art. 150, III, “b”.
 ^cf-195-p6
 
 § 7o São isentas de contribuição para a seguridade social as entidades beneficentes  
