@@ -5857,13 +5857,10 @@ I – a <font color="#ffc000">alíquota</font> da contribuição <font color="#f
 - a) <font color="#00b0f0">diferenciada por produto ou uso</font>;
 - b) <font color="#00b0f0">reduzida e restabelecida</font> <font color="#7030a0">por ato do Poder Executivo</font>, não se lhe aplicando o disposto no art. 150, III, “b”[[CF#^CF-150-3b]];
 II – os recursos arrecadados <font color="#d99694">serão destinados</font>:
-- a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás
-natural e seus derivados e derivados de petróleo;
-- b) ao financiamento de projetos ambientais relacionados com a indústria do
-petróleo e do gás;
-- c) ao financiamento de programas de infra-estrutura de transportes.
+- a) ao <font color="#d99694">pagamento de subsídios a preços ou transporte</font> de álcool combustível, gás natural e seus derivados e derivados de petróleo;
+- b) ao <font color="#d99694">financiamento de projetos ambientais relacionados</font> com a indústria do petróleo e do gás;
+- c) ao <font color="#d99694">financiamento de programas de infra-estrutura de transportes.</font>
 
-Da Ordem Econômica e Financeira 111
 
 **Art. 178.** A lei disporá sobre a ordenação dos transportes aéreo, aquático e terrestre,  
 devendo, quanto à ordenação do transporte internacional, observar os acordos firmados  
@@ -6105,9 +6102,7 @@ VII – caráter democrático e descentralizado da administração, mediante ges
 quadripartite, com participação dos trabalhadores, dos empregadores, dos aposentados  
 e do Governo nos órgãos colegiados.
 
-**Art. 195.** A seguridade social será financiada por toda a sociedade, de forma direta e  
-indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União,  
-dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:  
+**Art. 195.** A <font color="#de7802">seguridade social</font> será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:  
 (EC no 20/98, EC no 42/2003 e EC no 47/2005)
 
 I – do empregador, da empresa e da entidade a ela equiparada na forma da lei,  
