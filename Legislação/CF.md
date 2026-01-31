@@ -4836,11 +4836,8 @@ Parágrafo único. A lei complementar de que trata o inciso III, “d”, també
 
 I – será opcional para o contribuinte;  
 II – poderão ser estabelecidas condições de enquadramento diferenciadas por Estado;
-III – o recolhimento será unificado e centralizado e a distribuição da parcela de  
-recursos pertencentes aos respectivos entes federados será imediata, vedada qualquer  
-retenção ou condicionamento;
-IV – a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos  
-entes federados, adotado cadastro nacional único de contribuintes.
+III – o recolhimento será unificado e centralizado e a distribuição da parcela de recursos pertencentes aos respectivos entes federados será imediata, vedada qualquer retenção ou condicionamento;
+IV – a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos entes federados, adotado cadastro nacional único de contribuintes.
 
 **Art. 146-A.** Lei complementar poderá estabelecer critérios especiais de tributação,  
 com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo da competência  
