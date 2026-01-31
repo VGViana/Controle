@@ -4869,12 +4869,9 @@ III – poderão ter <font color="#00b0f0">alíquotas:  </font>
 
 § 4o A lei definirá as hipóteses em que as contribuições incidirão uma única vez.
 
-**Art. 149-A.** Os <font color="#6425d0">Municípios e o Distrito Federal</font> poderão instituir <font color="#de7802">contribuição, na forma das respectivas leis, para o custeio do serviço de iluminação pública</font>, observado o disposto no art. 150, I e III [[. (EC no 39/2002)
+**Art. 149-A.** Os <font color="#6425d0">Municípios e o Distrito Federal</font> poderão instituir <font color="#de7802">contribuição, na forma das respectivas leis, para o custeio do serviço de iluminação pública</font>, observado o disposto no art. 150, I e III [[CF#^cf-150-1]] [[CF#^CF-150-3b]]. (EC n° 39/2002)
 
-Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na  
-fatura de consumo de energia elétrica.
-
-94 Constituição da República Federativa do Brasil
+Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de energia elétrica.
 
 ### Seção II – Das Limitações do Poder de Tributar
 
