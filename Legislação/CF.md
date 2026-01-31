@@ -4821,18 +4821,14 @@ III – <font color="#ffff00">contribuição de melhoria, decorrente de obras p�
 § 2° As <font color="#ffff00">taxas</font> <font color="#ff0000">não poderão ter base de cálculo própria</font> de <font color="#ffff00">impostos</font>.
 
 
-**Art. 146.** Cabe à lei complementar: (EC no 42/2003)
+**Art. 146.** Cabe à <font color="#245bdb">lei complementar</font>: (EC no 42/2003)
 
-I – dispor sobre conflitos de competência, em matéria tributária, entre a União,  
-os Estados, o Distrito Federal e os Municípios;
+I – dispor sobre <font color="#00b050">conflitos de competência, em matéria tributária</font>, entre a União, os Estados, o Distrito Federal e os Municípios;
 
-II – regular as limitações constitucionais ao poder de tributar;  
-III – estabelecer normas gerais em matéria de legislação tributária, especialmente  
-sobre:
+II – regular as <font color="#00b050">limitações constitucionais</font> ao poder de tributar;  
+III – estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
 
-a) definição de tributos e de suas espécies, bem como, em relação aos impostos  
-discriminados nesta Constituição, a dos respectivos fatos geradores, bases de  
-cálculo e contribuintes;  
+	a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;  
 b) obrigação, lançamento, crédito, prescrição e decadência tributários;  
 c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades  
 cooperativas;  
