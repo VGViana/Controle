@@ -6102,18 +6102,16 @@ VII – caráter democrático e descentralizado da administração, mediante ges
 quadripartite, com participação dos trabalhadores, dos empregadores, dos aposentados  
 e do Governo nos órgãos colegiados.
 
-**Art. 195.** A <font color="#de7802">seguridade social</font> será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:  
+**Art. 195.** A <font color="#de7802">seguridade social</font> será <font color="#ffff00">financiada</font> por toda a sociedade, de forma direta e indireta, nos termos da lei, <font color="#7030a0">mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios</font>, e das <font color="#de7802">seguintes contribuições sociais</font>:  
 (EC no 20/98, EC no 42/2003 e EC no 47/2005)
 
-I – do empregador, da empresa e da entidade a ela equiparada na forma da lei,  
+I – <font color="#7030a0">do empregador, da empresa e da entidade </font>a ela equiparada na forma da lei,  
 incidentes sobre:
-
-a) a folha de salários e demais rendimentos do trabalho pagos ou creditados,  
-a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo  
+- a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo  
 empregatício;  
-b) a receita ou o faturamento;  
-c) o lucro;  
-II – do trabalhador e dos demais segurados da previdência social, não incidindo  
+- b) a receita ou o faturamento;  
+- c) o lucro;  
+	- II – do trabalhador e dos demais segurados da previdência social, não incidindo  
 contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência  
 social de que trata o art. 201;
 
