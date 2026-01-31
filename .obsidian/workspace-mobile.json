@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "3fef7d4647b82221",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cd0a3f6e2cd8408",
+  "active": "3fef7d4647b82221",
   "lastOpenFiles": [
     "D TRIB/2. Imunidades.md",
     "/CONT/14. CPC 00 - Estrutura Conceitual para Relatório Financeiro.md",
