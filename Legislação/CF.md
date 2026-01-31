@@ -4816,9 +4816,9 @@ Da Defesa do Estado e das Instituições Democráticas 91
 
 I – <font color="#ffff00">impostos</font>;  
 <p align="justify">II – <font color="#ffff00">taxas</font>, em razão do exercício do poder de polícia ou pela <font color="#ffff00">utilização</font>, <font color="#7030a0">efetiva ou potencial</font>, de serviços públicos <font color="#7030a0">específicos e divisíveis</font>, <font color="#de7802">restados ao contribuinte ou postos a sua disposição</font>;</p>
-<p align="justify">III – contribuição de melhoria, decorrente de obras públicas.  
-§ 1o Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultado à administração tributária, especialmente para conferir efetividade a esses objetivos, identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.</p>
-§ 2° As taxas não poderão ter base de cálculo própria de impostos.
+III – <font color="#ffff00">contribuição de melhoria, decorrente de obras públicas</font>.  
+<p align="justify">§ 1° Sempre que possível, os impostos terão c<font color="#245bdb">aráter pessoal</font> e serão graduados segundo a capacidade econômica do contribuinte, facultado à administração tributária, especialmente para conferir efetividade a esses objetivos, identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.</p>
+§ 2° As <font color="#ffff00">taxas</font> não poderão ter base de cálculo própria de impostos.
 
 
 **Art. 146.** Cabe à lei complementar: (EC no 42/2003)
