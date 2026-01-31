@@ -4823,12 +4823,13 @@ III – <font color="#ffff00">contribuição de melhoria, decorrente de obras p�
 
 **Art. 146.** Cabe à <font color="#245bdb">lei complementar</font>: (EC no 42/2003)
 
-I – dispor sobre <font color="#00b050">conflitos de competência, em matéria tributária</font>, entre a União, os Estados, o Distrito Federal e os Municípios;
-
-II – regular as <font color="#00b050">limitações constitucionais</font> ao poder de tributar;  
+I – dispor sobre <font color="#00b050">conflitos de competência</font>, <font color="#00b050">em matéria tributária</font>, entre a União, os Estados, o Distrito Federal e os Municípios;
+II – regular as limitações constitucionais ao poder de tributar;  
 III – estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
 
-	a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;  
+a) definição de tributos e de suas espécies, bem como, em relação aos impostos  
+discriminados nesta Constituição, a dos respectivos fatos geradores, bases de  
+cálculo e contribuintes;  
 b) obrigação, lançamento, crédito, prescrição e decadência tributários;  
 c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades  
 cooperativas;  
