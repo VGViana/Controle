@@ -6110,17 +6110,10 @@ incidentes sobre:
 - a) a <font color="#de7802">folha de salários e demais rendimentos</font> do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício;  
 - b) a <font color="#de7802">receita ou o faturamento</font>;  
 - c) o <font color="#de7802">lucro</font>;  
-	- II – do <font color="#6425d0">trabalhador e dos demais segurados</font> da previdência social, <font color="#d83931">não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201</font>[[CF#^15514c]];
+II – do <font color="#6425d0">trabalhador e dos demais segurados</font> da previdência social, <font color="#d83931">não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201</font>[[CF#^cf-art201]];
+III – sobre a <font color="#de7802">receita de concursos de prognósticos</font>;
+IV – do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar.
 
-```
-III – sobre a receita de concursos de prognósticos;
-```
-
-```
-Da Ordem Social 117
-```
-
-IV – do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar.  
 § 1o As receitas dos Estados, do Distrito Federal e dos Municípios destinadas à  
 seguridade social constarão dos respectivos orçamentos, não integrando o orçamento  
 da União.
