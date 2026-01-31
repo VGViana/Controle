@@ -4859,17 +4859,17 @@ Parágrafo único. A <font color="#de7802">aplicação dos recursos</font> prove
 
 **Art. 149.** Compete <font color="#00b0f0">exclusivamente à União</font> instituir <font color="#de7802">contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas</font>, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts.146, III [[CF#^cf-146-3]], e 150, I e III [[CF#^cf-150-1]] [[CF#^cf-150-3b]], e sem prejuízo do previsto no art. 195, § 6° [[CF#^cf-195-p6]], relativamente às contribuições a que alude o dispositivo. (EC no 33/2001, EC no 41/2003 e EC no 42/2003) 
 
-§ 1° Os Estados, o Distrito Federal e os Municípios instituirão contribuição, cobrada de seus servidores, para o custeio, em benefício destes, do regime previdenciário de que trata o art. 40, cuja alíquota não será inferior à da contribuição dos servidores titulares de cargos efetivos da União.
+§ 1° Os <font color="#00b0f0">Estados, o Distrito Federal e os Municípios</font> instituirão <font color="#de7802">contribuição, cobrada de seus servidores, para o custeio, em benefício destes, do regime previdenciário</font> de que trata o art. 40, cuja alíquota não será inferior à da contribuição dos servidores titulares de cargos efetivos da União.
 
 § 2° As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
 
 I – não incidirão sobre as receitas decorrentes de exportação;  
 II – incidirão também sobre a importação de produtos estrangeiros ou serviços;  
 III – poderão ter alíquotas:  
-a) ad valorem, tendo por base o faturamento, a receita bruta ou o valor da ope-  
-ração e, no caso de importação, o valor aduaneiro;  
-b) específica, tendo por base a unidade de medida adotada.  
-§ 3o A pessoa natural destinatária das operações de importação poderá ser equiparada  
+	a) ad valorem, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro;  
+	b) específica, tendo por base a unidade de medida adotada.  
+
+§ 3° A pessoa natural destinatária das operações de importação poderá ser equiparada  
 a pessoa jurídica, na forma da lei.
 
 ```
