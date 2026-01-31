@@ -4939,8 +4939,9 @@ fatura de consumo de energia elétrica.
 
 **Art. 150.** Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União,  
 aos Estados, ao Distrito Federal e aos Municípios: (EC no 3/93, EC no 42/2003 e EC no 75/2013)
-
 I – exigir ou aumentar tributo sem lei que o estabeleça;  
+^CF-art150
+
 II – instituir tratamento desigual entre contribuintes que se encontrem em situação  
 equivalente, proibida qualquer distinção em razão de ocupação profissional ou função  
 por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos  
