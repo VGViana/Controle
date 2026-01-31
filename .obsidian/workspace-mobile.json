@@ -21,10 +21,14 @@
             "id": "3fef7d4647b82221",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "D ADM/D ADM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "D ADM"
             }
           }
         ],
@@ -176,6 +180,9 @@
   },
   "active": "3fef7d4647b82221",
   "lastOpenFiles": [
+    "D ADM/4. Entidades Paraestatais e o 3° Setor.md",
+    "D ADM/D ADM.md",
+    "FISCAL.md",
     "D TRIB/2. Imunidades.md",
     "/CONT/14. CPC 00 - Estrutura Conceitual para Relatório Financeiro.md",
     "/CONT",
@@ -206,9 +213,6 @@
     "TI/5. SQL.md",
     "PORT/Semântica, Tipos de Discurso e Tipologia.md",
     "PORT/Interpretação Textual.md",
-    "D TRIB/8. Suspensão da Exigibilidade do Crédito Tributário.md",
-    "D CONST/3. DDIC 1.md",
-    "D CONST/2. TGDF.md",
     "/PORT",
     "TI",
     "CONT"
