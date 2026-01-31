@@ -4872,15 +4872,11 @@ Parágrafo único. É <font color="#ffc000">facultada a cobrança da contribuiç
 
 ### Seção II – Das Limitações do Poder de Tributar
 
-**Art. 150.** Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União,  
-aos Estados, ao Distrito Federal e aos Municípios: (EC no 3/93, EC no 42/2003 e EC no 75/2013)
-I – exigir ou aumentar tributo sem lei que o estabeleça;  
+**Art. 150.** Sem prejuízo de outras garantias asseguradas ao contribuinte, é <font color="#ff0000">vedado à União, aos Estados, ao Distrito Federal e aos Municípios</font>: (EC no 3/93, EC no 42/2003 e EC no 75/2013)
+I – <font color="#ffff00">exigir ou aumentar tributo sem lei</font> que o estabeleça;  
 ^cf-150-1
 
-II – instituir tratamento desigual entre contribuintes que se encontrem em situação  
-equivalente, proibida qualquer distinção em razão de ocupação profissional ou função  
-por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos  
-ou direitos;
+II – instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos;
 
 III – cobrar tributos:  
 a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado;
