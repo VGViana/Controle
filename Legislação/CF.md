@@ -6125,7 +6125,7 @@ a cada área a gestão de seus recursos.
 lecido em lei, não poderá contratar com o Poder Público nem dele receber benefícios  
 ou incentivos fiscais ou creditícios.
 
-§ 4o A <font color="#ffff00">lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão da seguridade social,</font> obedecido o disposto no art. 154, I[[CF#^cf-art154-1]].
+§ 4o A <font color="#ffff00">lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão da seguridade social,</font> obedecido o disposto no art. 154, I [[CF#^cf-art154-1]].
 
 § 5o Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado  
 ou estendido sem a correspondente fonte de custeio total.
@@ -8555,10 +8555,7 @@ os requisitos dos incisos I e II do referido artigo e que, nos últimos três an
 recebido recursos públicos, poderão continuar a recebê-los, salvo disposição legal em  
 contrário.
 
-**Art. 62.** A lei criará o Serviço Nacional de Aprendizagem Rural (SENAR) nos moldes  
-da legislação relativa ao Serviço Nacional de Aprendizagem Industrial (SENAI) e ao  
-Serviço Nacional de Aprendizagem do Comércio (SENAC), sem prejuízo das atribuições  
-dos órgãos públicos que atuam na área.
+**Art. 62.** A lei criará o Serviço Nacional de Aprendizagem Rural (SENAR) nos moldes da legislação relativa ao Serviço Nacional de Aprendizagem Industrial (SENAI) e ao Serviço Nacional de Aprendizagem do Comércio (SENAC), sem prejuízo das atribuições dos órgãos públicos que atuam na área.
 
 **Art. 63.** É criada uma Comissão composta de nove membros, sendo três do Poder  
 Legislativo, três do Poder Judiciário e três do Poder Executivo, para promover as come-  
