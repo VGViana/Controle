@@ -4882,11 +4882,11 @@ III – <font color="#ffff00">cobrar tributos</font>:
 - a) em relação a <font color="#00b050">fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado</font>;
 - b) no <font color="#00b050">mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou</font>;  
 ^CF-150-3b
-- c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea “b”;  
-IV – utilizar tributo com efeito de confisco;  
-V – estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos  
-interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de  
-vias conservadas pelo Poder Público;
+- c) <font color="#00b050">antes de decorridos noventa dias da data em que haja sido publicada a lei</font> que os instituiu ou aumentou, observado o disposto na alínea “b”;  
+
+IV – utilizar <font color="#ffff00">tributo com efeito de confisco</font>;
+
+V – <font color="#ffff00">estabelecer limitações ao tráfego de pessoas ou bens</font>, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público;
 
 VI – instituir impostos sobre:  
 a) patrimônio, renda ou serviços, uns dos outros;  
