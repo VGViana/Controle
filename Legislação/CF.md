@@ -6112,9 +6112,9 @@ incidentes sobre:
 - c) o <font color="#de7802">lucro</font>;  
 II – do <font color="#6425d0">trabalhador e dos demais segurados</font> da previdência social, <font color="#d83931">não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201</font>[[CF#^cf-art201]];
 III – sobre a <font color="#de7802">receita de concursos de prognósticos</font>;
-IV – do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar.
+IV – do <font color="#7030a0">importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar.</font>
 
-§ 1o As receitas dos Estados, do Distrito Federal e dos Municípios destinadas à  
+§ 1° As receitas dos Estados, do Distrito Federal e dos Municípios destinadas à  
 seguridade social constarão dos respectivos orçamentos, não integrando o orçamento  
 da União.
 
@@ -6127,8 +6127,7 @@ a cada área a gestão de seus recursos.
 lecido em lei, não poderá contratar com o Poder Público nem dele receber benefícios  
 ou incentivos fiscais ou creditícios.
 
-§ 4o A lei poderá instituir outras fontes destinadas a garantir a manutenção ou ex-  
-pansão da seguridade social, obedecido o disposto no art. 154, I.
+§ 4o A <font color="#ffff00">lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão da seguridade social,</font> obedecido o disposto no art. 154, I[[CF#^cf-art154-1]].
 
 § 5o Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado  
 ou estendido sem a correspondente fonte de custeio total.
