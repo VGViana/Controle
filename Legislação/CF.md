@@ -4876,16 +4876,13 @@ Parágrafo único. É <font color="#ffc000">facultada a cobrança da contribuiç
 I – <font color="#ffff00">exigir ou aumentar tributo sem lei</font> que o estabeleça;  
 ^cf-150-1
 
-II – instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos;
+II – i<font color="#ffff00">nstituir tratamento desigual</font> entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos;
 
-III – cobrar tributos:  
-a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado;
-b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu  
+III – <font color="#ffff00">cobrar tributos</font>:  
+- a) em relação a <font color="#00b050">fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado</font>;
+- b) no <font color="#00b050">mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou</font>;  
 ^CF-150-3b
-
-ou aumentou;  
-c) antes de decorridos noventa dias da data em que haja sido publicada a lei que  
-os instituiu ou aumentou, observado o disposto na alínea “b”;  
+- c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea “b”;  
 IV – utilizar tributo com efeito de confisco;  
 V – estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos  
 interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de  
