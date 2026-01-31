@@ -5021,10 +5021,8 @@ II – setenta por cento para o Município de origem.
 ```
 
 **Art. 154.** A União poderá instituir:
-
-I – mediante lei complementar, impostos não previstos no artigo anterior, desde  
-que sejam não-cumulativos e não tenham fato gerador ou base de cálculo próprios dos  
-discriminados nesta Constituição;
+I – mediante lei complementar, impostos não previstos no artigo anterior, desde que sejam não-cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição;
+^cf-art154-1
 
 II – na iminência ou no caso de guerra externa, impostos extraordinários, com-  
 preendidos ou não em sua competência tributária, os quais serão suprimidos, gradati-  
