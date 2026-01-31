@@ -6110,7 +6110,7 @@ incidentes sobre:
 - a) a <font color="#de7802">folha de salários e demais rendimentos</font> do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício;  
 - b) a <font color="#de7802">receita ou o faturamento</font>;  
 - c) o <font color="#de7802">lucro</font>;  
-	- II – do <font color="#6425d0">trabalhador e dos demais segurados</font> da previdência social, <font color="#d83931">não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201</font>[[CF#^cf-art201]];
+	- II – do <font color="#6425d0">trabalhador e dos demais segurados</font> da previdência social, <font color="#d83931">não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201</font>[[CF#^15514c]];
 
 ```
 III – sobre a receita de concursos de prognósticos;
@@ -6295,13 +6295,14 @@ VIII – colaborar na proteção do meio ambiente, nele compreendido o do trabal
 contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio finan-  
 ceiro e atuarial, e atenderá, nos termos da lei, a: (EC no 20/98, EC no 41/2003 e EC no 47/2005)
 ^cf-art201
+
 I – cobertura dos eventos de doença, invalidez, morte e idade avançada;  
 II – proteção à maternidade, especialmente à gestante;  
 III – proteção ao trabalhador em situação de desemprego involuntário;  
 IV – salário-família e auxílio-reclusão para os dependentes dos segurados de  
 baixa renda;
 V – pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro  
-e dependentes, observado o disposto no § 2o.
+e dependentes, observado o disposto no § 2o. ^15514c
 
 § 1o É vedada a adoção de requisitos e critérios diferenciados para a concessão de  
 aposentadoria aos beneficiários do regime geral de previdência social, ressalvados os  
