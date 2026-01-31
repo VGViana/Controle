@@ -4853,12 +4853,9 @@ I – para atender a <font color="#00b0f0">despesas extraordinárias, decorrente
 
 II – no caso de <font color="#00b0f0">investimento público de caráter urgente e de relevante interesse nacional</font>, observado o disposto no art. 150, III, “b”.[[CF#^CF-150-3b]]
 
-Parágrafo único. A aplicação dos recursos provenientes de empréstimo compulsório  
-será vinculada à despesa que fundamentou sua instituição.
+Parágrafo único. A <font color="#de7802">aplicação dos recursos</font> provenientes de empréstimo compulsório será <font color="#de7802">vinculada à despesa</font> que fundamentou sua instituição.
 
-**Art. 149.** Compete exclusivamente à União instituir contribuições sociais, de inter-  
-venção no domínio econômico e de interesse das categorias profissionais ou econômicas,  
-como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts.  
+**Art. 149.** Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts.  
 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6o, relativamente às con-  
 tribuições a que alude o dispositivo. (EC no 33/2001, EC no 41/2003 e EC no 42/2003)
 
