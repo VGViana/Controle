@@ -4888,19 +4888,14 @@ IV – utilizar <font color="#ffff00">tributo com efeito de confisco</font>;
 
 V – <font color="#ffff00">estabelecer limitações ao tráfego de pessoas ou bens</font>, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público;
 
-VI – instituir impostos sobre:  
-a) patrimônio, renda ou serviços, uns dos outros;  
-b) templos de qualquer culto;  
-c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações,  
-das entidades sindicais dos trabalhadores, das instituições de educação e de  
-assistência social, sem fins lucrativos, atendidos os requisitos da lei;  
-d) livros, jornais, periódicos e o papel destinado a sua impressão;  
-e) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras  
-musicais ou literomusicais de autores brasileiros e/ou obras em geral inter-  
-pretadas por artistas brasileiros bem como os suportes materiais ou arquivos  
-digitais que os contenham, salvo na etapa de replicação industrial de mídias  
-ópticas de leitura a laser.  
-§ 1o A vedação do inciso III, “b”, não se aplica aos tributos previstos nos arts. 148, I,  
+VI – <font color="#ffff00">instituir impostos</font> sobre:  
+- a) <font color="#ffff00">patrimônio, renda ou serviços</font>, uns dos outros;  
+- b) templos de qualquer culto;  
+- c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei;  
+- d) livros, jornais, periódicos e o papel destinado a sua impressão;  
+- e) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser.  
+
+§ 1° A vedação do inciso III, “b”, não se aplica aos tributos previstos nos arts. 148, I,  
 153, I, II, IV e V; e 154, II; e a vedação do inciso III, “c”, não se aplica aos tributos pre-  
 vistos nos arts. 148, I, 153, I, II, III e V; e 154, II, nem à fixação da base de cálculo dos  
 impostos previstos nos arts. 155, III, e 156, I.
