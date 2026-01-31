@@ -5664,9 +5664,6 @@ mentar. (EC no 19/98)
 
 § 1o A concessão de qualquer vantagem ou aumento de remuneração, a criação de  
 cargos, empregos e funções ou alteração de estrutura de carreiras, bem como a admissão
-
-Da Tributação e do Orçamento 107
-
 ou contratação de pessoal, a qualquer título, pelos órgãos e entidades da administração  
 direta ou indireta, inclusive fundações instituídas e mantidas pelo poder público, só  
 poderão ser feitas:
@@ -6178,6 +6175,7 @@ ou estendido sem a correspondente fonte de custeio total.
 § 6o As contribuições sociais de que trata este artigo só poderão ser exigidas após  
 decorridos noventa dias da data da publicação da lei que as houver instituído ou modi-  
 ficado, não se lhes aplicando o disposto no art. 150, III, “b”.
+^cf-195-§6
 
 § 7o São isentas de contribuição para a seguridade social as entidades beneficentes  
 de assistência social que atendam às exigências estabelecidas em lei.
