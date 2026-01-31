@@ -4966,16 +4966,15 @@ cedência ou destino.
 
 **Art. 153.** Compete à União instituir impostos sobre: (EC no 20/98 e EC no 42/2003)
 ^cf-art153
+
 I – importação de produtos estrangeiros;  
 II – exportação, para o exterior, de produtos nacionais ou nacionalizados;  
 III – renda e proventos de qualquer natureza;  
 IV – produtos industrializados;  
-V – operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mo-  
-biliários;
+V – operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários;
 VI – propriedade territorial rural;  
 VII – grandes fortunas, nos termos de lei complementar.  
-§ 1° É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos  
-em lei, alterar as alíquotas dos impostos enumerados nos incisos I, II, IV e V.
+§ 1° É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar as alíquotas dos impostos enumerados nos incisos I, II, IV e V. ^ca68c3
 
 ```
 § 2o O imposto previsto no inciso III:
