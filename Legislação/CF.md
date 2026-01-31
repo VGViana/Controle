@@ -4851,7 +4851,7 @@ ao Distrito Federal cabem os impostos municipais.
 
 I – para atender a <font color="#00b0f0">despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência;</font>
 
-II – no caso de <font color="#00b0f0">investimento público de caráter urgente e de relevante interesse nacional</font>, observado o disposto no art. 150, III, “b”.
+II – no caso de <font color="#00b0f0">investimento público de caráter urgente e de relevante interesse nacional</font>, observado o disposto no art. 150, III, “b”.[[CF#^CF-150-3b]]
 
 Parágrafo único. A aplicação dos recursos provenientes de empréstimo compulsório  
 será vinculada à despesa que fundamentou sua instituição.
@@ -4908,7 +4908,7 @@ III – cobrar tributos:
 a) em relação a fatos geradores ocorridos antes do início da vigência da lei que  
 os houver instituído ou aumentado;  
 b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu  
-^CF-
+^CF-150-3b
 
 ou aumentou;  
 c) antes de decorridos noventa dias da data em que haja sido publicada a lei que  
