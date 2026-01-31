@@ -5853,10 +5853,10 @@ ritório nacional.
 
 § 4° A lei que instituir <font color="#de7802">contribuição de intervenção no domínio econômico relativa às atividades de importação ou comercialização de petróleo e seus derivados</font>, gás natural e seus derivados e álcool combustível deverá atender aos seguintes requisitos:
 
-I – a alíquota da contribuição poderá ser:
-- a) diferenciada por produto ou uso;
-- b) reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. 150, III, “b”[[CF#^CF-150-3b]];
-II – os recursos arrecadados serão destinados:
+I – a <font color="#ffc000">alíquota</font> da contribuição <font color="#ffc000">poderá</font> ser:
+- a) <font color="#00b0f0">diferenciada por produto ou uso</font>;
+- b) <font color="#00b0f0">reduzida e restabelecida</font> <font color="#7030a0">por ato do Poder Executivo</font>, não se lhe aplicando o disposto no art. 150, III, “b”[[CF#^CF-150-3b]];
+II – os recursos arrecadados <font color="#d99694">serão destinados</font>:
 - a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás
 natural e seus derivados e derivados de petróleo;
 - b) ao financiamento de projetos ambientais relacionados com a indústria do
