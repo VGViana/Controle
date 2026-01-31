@@ -4837,6 +4837,8 @@ Parágrafo único. A lei complementar de que trata o inciso III, “d”, també
 I – será opcional para o contribuinte;  
 II – poderão ser estabelecidas condições de enquadramento diferenciadas por Estado;
 III – o recolhimento será unificado e centralizado e a distribuição da parcela de recursos pertencentes aos respectivos entes federados será imediata, vedada qualquer retenção ou condicionamento;
+^cf-146-3
+
 IV – a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos entes federados, adotado cadastro nacional único de contribuintes.
 
 **Art. 146-A.** Lei complementar poderá estabelecer critérios especiais de tributação,  
@@ -4855,7 +4857,7 @@ II – no caso de <font color="#00b0f0">investimento público de caráter urgent
 
 Parágrafo único. A <font color="#de7802">aplicação dos recursos</font> provenientes de empréstimo compulsório será <font color="#de7802">vinculada à despesa</font> que fundamentou sua instituição.
 
-**Art. 149.** Compete <font color="#00b0f0">exclusivamente à União</font> instituir <font color="#de7802">contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas</font>, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts.146, III [[CF#^cf-146-3]], e 150, I e III, e sem prejuízo do previsto no art. 195, § 6o, relativamente às contribuições a que alude o dispositivo. (EC no 33/2001, EC no 41/2003 e EC no 42/2003) 
+**Art. 149.** Compete <font color="#00b0f0">exclusivamente à União</font> instituir <font color="#de7802">contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas</font>, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts.146, III [[CF#^cf-146-3]], e 150, I e III[[CF#^cf-150-3]], e sem prejuízo do previsto no art. 195, § 6o, relativamente às contribuições a que alude o dispositivo. (EC no 33/2001, EC no 41/2003 e EC no 42/2003) 
 
 § 1o Os Estados, o Distrito Federal e os Municípios instituirão contribuição, cobrada  
 de seus servidores, para o custeio, em benefício destes, do regime previdenciário de que  
