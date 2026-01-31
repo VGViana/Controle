@@ -2629,9 +2629,7 @@ Da Organização dos Poderes 53
 IV – já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente  
 de sanção ou veto do Presidente da República.
 
-§ 2o Medida provisória que implique instituição ou majoração de impostos, exceto os  
-previstos nos arts. 153, I, II, IV, V, e 154, II, só produzirá efeitos no exercício financeiro  
-seguinte se houver sido convertida em lei até o último dia daquele em que foi editada.
+§ 2° <font color="#00b0f0">Medida provisória que implique</font> <font color="#de7802">instituição ou majoração de impostos</font>, <font color="#ff0000">exceto os previstos nos arts. 153, I, II, IV, V, e 154, II</font>  [[0. Conceito, Poder Constituinte e Princípios Fundamentais#^cf-art]], só produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada.
 
 § 3o As medidas provisórias, ressalvado o disposto nos §§ 11 e 12 perderão eficácia,  
 desde a edição, se não forem convertidas em lei no prazo de sessenta dias, prorrogável,  
