@@ -4847,11 +4847,9 @@ de a União, por lei, estabelecer normas de igual objetivo. (EC no 42/2003)
 Território não for dividido em Municípios, cumulativamente, os impostos municipais;  
 ao Distrito Federal cabem os impostos municipais.
 
-**Art. 148.** A União, mediante lei complementar, poderá instituir empréstimos com-  
-pulsórios:
+**Art. 148.** A <font color="#00b0f0">União</font>, <font color="#00b0f0">mediante lei complementar</font>, <font color="#ffff00">poderá instituir empréstimos compulsórios</font>:
 
-I – para atender a despesas extraordinárias, decorrentes de calamidade pública,  
-de guerra externa ou sua iminência;
+I – para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência;
 
 II – no caso de investimento público de caráter urgente e de relevante interesse  
 nacional, observado o disposto no art. 150, III, “b”.
