@@ -4815,7 +4815,7 @@ Da Defesa do Estado e das Instituições Democráticas 91
 **Art. 145.** A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:
 
 I – impostos;  
-
+	
 II – taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva  
 ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou  
 postos a sua disposição;
