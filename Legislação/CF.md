@@ -2604,9 +2604,8 @@ tados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado na
 distribuído pelo menos por cinco Estados, com não menos de três décimos por cento  
 dos eleitores de cada um deles.
 
-**Art. 62.** Em caso de relevância e urgência, o Presidente da República poderá adotar  
-medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso  
-Nacional. (EC no 32/2001)
+**Art. 62.** Em caso de <font color="#ffff00">relevância e urgência</font>, o <font color="#6425d0">Presidente da República</font> poderá adotar <font color="#245bdb">medidas provisórias, com força de lei</font>, devendo <font color="#7030a0">s</font><font color="#7030a0">ubmetê-las de imediato ao Congresso  </font>
+<font color="#7030a0">Nacional.</font> (EC no 32/2001)
 
 § 1o É vedada a edição de medidas provisórias sobre matéria:  
 I – relativa a:  
@@ -14821,7 +14820,7 @@ administração pública;
 
 **Art. 62**
 
-```
+
 Art. 62. Em caso de relevância e urgência, o Presidente da Repú-
 blica poderá adotar medidas provisórias, com força de lei, devendo
 submetê-las de imediato ao Congresso Nacional, que, estando em
@@ -14831,7 +14830,6 @@ Parágrafo único. As medidas provisórias perderão eficácia, desde
 a edição, se não forem convertidas em lei no prazo de trinta dias, a
 partir de sua publicação, devendo o Congresso Nacional disciplinar
 as relações jurídicas delas decorrentes.
-```
 
 **Art. 64**
 
