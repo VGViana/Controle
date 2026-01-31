@@ -4807,9 +4807,8 @@ Carreira, na forma da lei.
 
 Da Defesa do Estado e das Instituições Democráticas 91
 
-```
-TÍTULO VI –
-Da Tributação e do Orçamento
+
+# TÍTULO VI – Da Tributação e do Orçamento
 ```
 
 ##### CAPÍTULO I –
@@ -4832,14 +4831,10 @@ II – taxas, em razão do exercício do poder de polícia ou pela utilização,
 ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou  
 postos a sua disposição;
 
-III – contribuição de melhoria, decorrente de obras públicas.  
-§ 1o Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultado à administração tributária,  
-especialmente para conferir efetividade a esses objetivos, identificar, respeitados os  
-direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades  
-econômicas do contribuinte.
+<p align="justify">III – contribuição de melhoria, decorrente de obras públicas.  
+§ 1o Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultado à administração tributária, especialmente para conferir efetividade a esses objetivos, identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.</p>
 
-
-§ 2o As taxas não poderão ter base de cálculo própria de impostos.
+§ 2° As taxas não poderão ter base de cálculo própria de impostos.
 
 
 **Art. 146.** Cabe à lei complementar: (EC no 42/2003)
