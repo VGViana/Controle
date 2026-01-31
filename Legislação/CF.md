@@ -5851,19 +5851,17 @@ III – a estrutura e atribuições do órgão regulador do monopólio da União
 § 3o A lei disporá sobre o transporte e a utilização de materiais radioativos no ter-  
 ritório nacional.
 
-§ 4o A lei que instituir contribuição de intervenção no domínio econômico relativa  
-às atividades de importação ou comercialização de petróleo e seus derivados, gás natural  
-e seus derivados e álcool combustível deverá atender aos seguintes requisitos:
+§ 4° A lei que instituir <font color="#de7802">contribuição de intervenção no domínio econômico relativa às atividades de importação ou comercialização de petróleo e seus derivados</font>, gás natural e seus derivados e álcool combustível deverá atender aos seguintes requisitos:
 
 I – a alíquota da contribuição poderá ser:
-a) diferenciada por produto ou uso;
-b) reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. 150, III, “b”;
+- a) diferenciada por produto ou uso;
+- b) reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. 150, III, “b”[[CF#^CF-150-3b]];
 II – os recursos arrecadados serão destinados:
 - a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás
 natural e seus derivados e derivados de petróleo;
-b) ao financiamento de projetos ambientais relacionados com a indústria do
+- b) ao financiamento de projetos ambientais relacionados com a indústria do
 petróleo e do gás;
-c) ao financiamento de programas de infra-estrutura de transportes.
+- c) ao financiamento de programas de infra-estrutura de transportes.
 
 Da Ordem Econômica e Financeira 111
 
