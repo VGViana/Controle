@@ -1863,12 +1863,8 @@ prêmio de produtividade.
 § 8o A remuneração dos servidores públicos organizados em carreira poderá ser  
 fixada nos termos do § 4o.
 
-**Art. 40.** Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito  
-Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime  
-de previdência de caráter contributivo e solidário, mediante contribuição do respectivo  
-ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios  
-que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo. (EC no 3/93,  
-EC no 20/98, EC no 41/2003, EC no 47/2005 e EC no 88/2015)
+**Art. 40.** Aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo. (EC no 3/93, EC no 20/98, EC no 41/2003, EC no 47/2005 e EC no 88/2015)
+^cf-art40
 
 (^3) NE: o caput deste artigo teve a sua aplicação suspensa em caráter liminar, por força da ADI no 2.135.  
 Redação anterior: “A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua  
