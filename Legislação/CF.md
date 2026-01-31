@@ -6107,13 +6107,10 @@ e do Governo nos órgãos colegiados.
 
 I – <font color="#7030a0">do empregador, da empresa e da entidade </font>a ela equiparada na forma da lei,  
 incidentes sobre:
-- a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo  
-empregatício;  
-- b) a receita ou o faturamento;  
-- c) o lucro;  
-	- II – do trabalhador e dos demais segurados da previdência social, não incidindo  
-contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência  
-social de que trata o art. 201;
+- a) a <font color="#de7802">folha de salários e demais rendimentos</font> do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício;  
+- b) a <font color="#de7802">receita ou o faturamento</font>;  
+- c) o <font color="#de7802">lucro</font>;  
+	- II – do <font color="#6425d0">trabalhador e dos demais segurados</font> da previdência social, não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201;
 
 ```
 III – sobre a receita de concursos de prognósticos;
