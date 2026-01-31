@@ -4831,21 +4831,14 @@ a) <font color="#00b050">definição de tributos</font> e de suas espécies, bem
 discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;  
 b) <font color="#00b050">obrigação, lançamento, crédito, prescrição e decadência</font> tributários;  
 c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas;  
-d) <p align="justify">definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso do imposto previsto no art. 155, II, das contribuições previstas no art. 195, I e §§ 12 e 13, e da contribuição a que se refere o art. 239.  </p>
-Parágrafo único. A lei complementar de que trata o inciso III, “d”, também poderá  
-instituir um regime único de arrecadação dos impostos e contribuições da União, dos  
-Estados, do Distrito Federal e dos Municípios, observado que:
+d) definição de <font color="#00b050">tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte</font>, inclusive regimes especiais ou simplificados no caso do imposto previsto no art. 155, II, das contribuições previstas no art. 195, I e §§ 12 e 13, e da contribuição a que se refere o art. 239.  
+Parágrafo único. A lei complementar de que trata o inciso III, “d”, também poderá instituir um regime único de arrecadação dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios, observado que:
 
 I – será opcional para o contribuinte;  
-II – poderão ser estabelecidas condições de enquadramento diferenciadas por  
-Estado;
-
-Da Tributação e do Orçamento 93
-
+II – poderão ser estabelecidas condições de enquadramento diferenciadas por Estado;
 III – o recolhimento será unificado e centralizado e a distribuição da parcela de  
 recursos pertencentes aos respectivos entes federados será imediata, vedada qualquer  
 retenção ou condicionamento;
-
 IV – a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos  
 entes federados, adotado cadastro nacional único de contribuintes.
 
