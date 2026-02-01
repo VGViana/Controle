@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"D ADM\"  ",
@@ -50,10 +50,17 @@
       }
     },
     {
-      "query": "path:ti",
+      "query": "path:TI  ",
       "color": {
         "a": 1,
         "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:PORT  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7043598861549623,
-  "close": false
+  "scale": 0.9907037146357998,
+  "close": true
 }
