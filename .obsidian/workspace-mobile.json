@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D CIV/1. Pessoas Naturais.md",
-                "mode": "source",
+                "file": "D ADM/5. Poderes e Deveres.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Pessoas Naturais"
+              "title": "5. Poderes e Deveres"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "0cd0a3f6e2cd8408",
   "lastOpenFiles": [
-    "CC.md",
+    "D ADM/D ADM.md",
+    "FISCAL.md",
     "D CIV/1. Pessoas Naturais.md",
+    "CC.md",
     "D TRIB/7. Crédito tributário.md",
     "CONT/14. CPC 00 - Estrutura Conceitual para Relatório Financeiro.md",
     "/TI/5. SQL.md",
@@ -182,13 +184,11 @@
     "/D ADM/5. Poderes e Deveres.md",
     "/D ADM",
     "CONT/CONT.md",
-    "FISCAL.md",
     "PORT/PORT.md",
     "PORT/Semântica, Tipos de Discurso e Tipologia.md",
     "AUD/AUD.md",
     "AUD/0. Conceitos e Objetivos.md",
     "D ADM/4. Entidades Paraestatais e o 3° Setor.md",
-    "D ADM/D ADM.md",
     "D TRIB/2. Imunidades.md",
     "/CONT/14. CPC 00 - Estrutura Conceitual para Relatório Financeiro.md",
     "/CONT",
