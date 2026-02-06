@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUD/0. Conceitos e Objetivos.md",
+                "file": "FISCAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Conceitos e Objetivos"
+              "title": "FISCAL"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "0cd0a3f6e2cd8408",
   "lastOpenFiles": [
+    "AUD/0. Conceitos e Objetivos.md",
     "AUD/AUD.md",
     "FISCAL.md",
     "D CONST/1. Aplicação das Normas Constitucionais e Interpretação Constitucional.md",
@@ -203,7 +204,6 @@
     "CONT/14. CPC 00 - Estrutura Conceitual para Relatório Financeiro.md",
     "/TI/5. SQL.md",
     "/TI",
-    "CONT/CONT.md",
     "/PORT"
   ]
 }
