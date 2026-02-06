@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUD/0. Conceitos e Objetivos.md",
+                "file": "FISCAL.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Conceitos e Objetivos"
+              "title": "FISCAL"
             }
           }
         ]
@@ -169,11 +169,14 @@
   },
   "active": "0cd0a3f6e2cd8408",
   "lastOpenFiles": [
-    "AUD/AUD.md",
+    "CONT/CONT.md",
+    "15.. Princípios Contábeis.md",
+    "CONT/14. CPC 00 - Estrutura Conceitual para Relatório Financeiro.md",
     "FISCAL.md",
+    "AUD/AUD.md",
+    "AUD/0. Conceitos e Objetivos.md",
     "D CONST/D CONST.md",
     "D CONST/2. TGDF.md",
-    "AUD/0. Conceitos e Objetivos.md",
     "D CONST/1. Aplicação das Normas Constitucionais e Interpretação Constitucional.md",
     "D ADM/5. Poderes e Deveres.md",
     "/D TRIB/9. Extinção do Crédito Tributário.md",
@@ -200,9 +203,6 @@
     "D EMP",
     "/D EMP",
     "D ADM/D ADM.md",
-    "D CIV/1. Pessoas Naturais.md",
-    "CC.md",
-    "D TRIB/7. Crédito tributário.md",
     "/TI",
     "/PORT"
   ]
