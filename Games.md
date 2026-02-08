@@ -1,8 +1,8 @@
 ### 🟢 Narrativa / Impacto Inicial
 
-1. **Undertale**
+1. ~~**Undertale**~~
     
-2. **Disco Elysium**
+2. ~~**Disco Elysium**~~
     
 3. **The Walking Dead Season One**
     
@@ -154,3 +154,81 @@
 59. **Deus Ex: Human Revolution**
     
 60. **Deus Ex: Mankind Divided**
+
+## 🧠 JOGOS COM PLOT TWIST – ADIÇÕES (NÃO ESTAVAM NOS 60)
+
+### 🔥 FPS / SCI-FI / CONTROLE & ILUSÃO
+
+61. **System Shock 2**  
+    👉 Avô do BioShock. Twist ideológico puro.
+    
+62. **Deus Ex**  
+    👉 Conspiração, controle, escolha falsa.
+    
+63. **Deus Ex: Invisible War**  
+    👉 Continuação direta, fecha arcos importantes.
+    
+64. **Singularity**  
+    👉 Viaja no tempo + final recontextualizador.
+    
+65. **Black Mesa**  
+    👉 Não é twist explícito, mas muda a leitura de HL.
+    
+
+---
+
+### 🧠 PSICOLÓGICOS / EXISTENCIAIS (SEM PUZZLE CHATO)
+
+66. **SOMA**  
+    👉 Um dos **finais mais perturbadores da história**.
+    
+67. **Observer: System Redux**  
+    👉 Consciência, memória, identidade.
+    
+68. **Silent Hill 2**  
+    👉 Plot twist lendário (psicológico, não jumpscare).
+    
+69. **Alan Wake's American Nightmare**  
+    👉 Complementa o twist do Alan Wake.
+    
+
+---
+
+### 🎬 META / QUEBRA DE EXPECTATIVA
+
+70. **Metal Gear Solid 2: Sons of Liberty**  
+    👉 Um dos **maiores twists da história dos games**.
+    
+71. **Metal Gear Solid 3: Snake Eater**  
+    👉 Prequel emocional, final lendário.
+    
+72. **Spec Ops: The Line**  
+    👉 (Já zerou, mas entra como **referência máxima**).
+    
+
+---
+
+### 🧬 RPG / DRAMA COM REVELAÇÃO
+
+73. **Planescape: Torment**  
+    👉 “O que pode mudar a natureza de um homem?”
+    
+74. **Star Wars: Knights of the Old Republic II**  
+    👉 Twist moral e filosófico absurdamente bom.
+    
+75. **Pathologic 2**  
+    👉 Nada confortável. Tudo recontextualiza.
+    
+
+---
+
+### 🌍 MUNDO ABERTO COM VIRADA
+
+76. **Far Cry 2**  
+    👉 Anti-herói, anti-missão, anti-final feliz.
+    
+77. **Far Cry 5**  
+    👉 Final controverso, mas **plot twist real**.
+    
+78. **Watch Dogs**  
+    👉 Vigilância, controle, paranoia.
