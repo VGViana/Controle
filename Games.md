@@ -215,10 +215,7 @@
     
 74. **Star Wars: Knights of the Old Republic II**  
     👉 Twist moral e filosófico absurdamente bom.
-    
-75. **Pathologic 2**  
-    👉 Nada confortável. Tudo recontextualiza.
-    
+       
 
 ---
 
