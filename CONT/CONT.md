@@ -2,7 +2,8 @@
 
 [[6.Demonstração do Resultado do Exercício]]
 
-[[7. rESERVAS ]]
+[[7. Reservas e Dividendos]]
+
 
 
 
