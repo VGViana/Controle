@@ -3,3 +3,5 @@
 [[1. Conceitos básicos de BD]]
 
 [[5. SQL]]
+
+[[6. BI e DW]]
