@@ -12,4 +12,4 @@
 
 [[15. Princípios Contábeis]]
 
-[[16. Lei 6404/76]]
+[[16. Lei 6404]]
