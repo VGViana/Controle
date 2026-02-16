@@ -47,3 +47,19 @@ nnoremap <leader>tt :toggle-checklist-status<CR>
 
 " ---------- MODE CLEANUP ----------
 set clipboard=unnamedplus
+
+/* NVIM IMMERSION */
+
+.workspace-ribbon {
+  display: none !important;
+}
+
+.view-header {
+  opacity: 0.15;
+  transition: opacity 0.2s;
+}
+
+.view-header:hover {
+  opacity: 1;
+}
+
