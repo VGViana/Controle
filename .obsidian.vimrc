@@ -1,70 +1,49 @@
-" =========================
-" MOVIMENTO (markdown friendly)
-" =========================
 
-nmap j gj
-nmap k gk
-nmap H ^
-nmap L $
+" ==================================================
+" OBSIDIAN VIMRC — LAZYVIM STYLE
+" ==================================================
 
-nmap <leader>h :nohl<CR>
+" leader
+let mapleader=" "
 
-" =========================
-" CLIPBOARD
-" =========================
+" ---------- BASIC ----------
+nnoremap <leader>w :w<CR>
+nnoremap <leader>q :q<CR>
 
-set clipboard=unnamed
+" escape rápido (muscle memory)
+inoremap jk <Esc>
 
-" =========================
-" NAVEGAÇÃO ESTILO NEOVIM
-" =========================
+" ---------- TELESCOPE STYLE ----------
+" quick switcher
+nnoremap <leader>ff :quick_switcher:open<CR>
 
-exmap back obcommand app:go-back
-nmap <C-o> :back<CR>
+" search global (grep)
+nnoremap <leader>fg :search:open<CR>
 
-exmap forward obcommand app:go-forward
-nmap <C-i> :forward<CR>
+" headings / symbols
+nnoremap <leader>fh :quick_switcher:symbols<CR>
 
-" =========================
-" SPLITS
-" =========================
+" command palette
+nnoremap <leader>fp :command-palette:open<CR>
 
-exmap splitv obcommand workspace:split-vertical
-nmap <leader>v :splitv<CR>
+" ---------- NAVIGATION ----------
+" explorer reveal
+nnoremap <leader>e :file-explorer:reveal-active-file<CR>
 
-exmap splith obcommand workspace:split-horizontal
-nmap <leader>s :splith<CR>
+" graph view
+nnoremap <leader>g :graph:open<CR>
 
-" =========================
-" FOLDS
-" =========================
+" backlinks
+nnoremap <leader>b :backlink:open<CR>
 
-exmap togglefold obcommand editor:toggle-fold
-nmap za :togglefold<CR>
-nmap zo :togglefold<CR>
-nmap zc :togglefold<CR>
+" ---------- PANES (NVIM FEEL) ----------
+nnoremap <C-h> :workspace:focus-left<CR>
+nnoremap <C-l> :workspace:focus-right<CR>
+nnoremap <C-j> :workspace:focus-down<CR>
+nnoremap <C-k> :workspace:focus-up<CR>
 
-exmap unfoldall obcommand editor:unfold-all
-nmap zR :unfoldall<CR>
+" ---------- EDITING ----------
+nnoremap <leader>tt :toggle-checklist-status<CR>
 
-" =========================
-" SURROUND
-" =========================
-
-exmap surround_wiki surround [[ ]]
-map s[ :surround_wiki<CR>
-
-" =========================
-" LINKS
-" =========================
-
-map <A-p> :pasteinto<CR>
-
-" =========================
-" SPACE LEADER
-" =========================
-
-unmap <Space>
-nmap <Space>w :w<CR>
-nmap <Space>q :q<CR>
-
+" ---------- MODE CLEANUP ----------
+set clipboard=unnamedplus
