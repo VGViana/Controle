@@ -1,86 +1,70 @@
-" ================================
-" MOVIMENTO SUAVE (igual Obsidian)
-" ================================
+" =========================
+" MOVIMENTO (markdown friendly)
+" =========================
 
-" mover por linhas visuais (não quebrar parágrafo)
 nmap j gj
 nmap k gk
-
-" início e fim da linha
 nmap H ^
 nmap L $
 
-" ir para topo e final do arquivo
-nmap <leader>gg gg
-nmap <leader>G G
+nmap <leader>h :nohl<CR>
 
-
-" ================================
-" BUSCA MELHOR
-" ================================
-
-" limpar highlight
-nmap <F9> :nohl<CR>
-
-" centralizar resultado da busca
-nmap n nzz
-nmap N Nzz
-
-
-" ================================
-" NAVEGAÇÃO ENTRE NOTAS
-" ================================
-
-" voltar e avançar (igual navegador)
-exmap back obcommand app:go-back
-exmap forward obcommand app:go-forward
-nmap <C-o> :back<CR>
-nmap <C-i> :forward<CR>
-
-" abrir link sob cursor
-nmap gf <Plug>(vimrc-support-open-link)
-
-
-" ================================
-" LINKS RÁPIDOS [[ ]]
-" ================================
-
-" transformar seleção em [[link]]
-exmap surround_wiki surround [[ ]]
-vmap [[ :surround_wiki<CR>
-
-" criar link vazio
-nmap <leader>wl i[[]]<Esc>hi
-
-
-" ================================
-" HEADINGS
-" ================================
-
-" próximo heading
-nmap ]] /^#<CR>
-
-" heading anterior
-nmap [[ ?^#<CR>
-
-
-" ================================
+" =========================
 " CLIPBOARD
-" ================================
+" =========================
 
 set clipboard=unnamed
 
+" =========================
+" NAVEGAÇÃO ESTILO NEOVIM
+" =========================
 
-" ================================
-" QUALIDADE DE VIDA
-" ================================
+exmap back obcommand app:go-back
+nmap <C-o> :back<CR>
 
-" sair do insert com jj
-imap jj <Esc>
+exmap forward obcommand app:go-forward
+nmap <C-i> :forward<CR>
 
-" salvar rápido
-nmap <leader>w :w<CR>
+" =========================
+" SPLITS
+" =========================
 
-" sair rápido
-nmap <leader>q :q<CR>
+exmap splitv obcommand workspace:split-vertical
+nmap <leader>v :splitv<CR>
+
+exmap splith obcommand workspace:split-horizontal
+nmap <leader>s :splith<CR>
+
+" =========================
+" FOLDS
+" =========================
+
+exmap togglefold obcommand editor:toggle-fold
+nmap za :togglefold<CR>
+nmap zo :togglefold<CR>
+nmap zc :togglefold<CR>
+
+exmap unfoldall obcommand editor:unfold-all
+nmap zR :unfoldall<CR>
+
+" =========================
+" SURROUND
+" =========================
+
+exmap surround_wiki surround [[ ]]
+map s[ :surround_wiki<CR>
+
+" =========================
+" LINKS
+" =========================
+
+map <A-p> :pasteinto<CR>
+
+" =========================
+" SPACE LEADER
+" =========================
+
+unmap <Space>
+nmap <Space>w :w<CR>
+nmap <Space>q :q<CR>
 
