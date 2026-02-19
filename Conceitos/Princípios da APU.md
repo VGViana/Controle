@@ -12,6 +12,8 @@ Bizu: **<font color="#ff0000">LIMPE</font>**
 - **<font color="#00b0f0">E</font>ficiência**: (Incluído pela EC 19/98). Busca por resultados, <font color="#00b0f0">presteza, perfeição e rendimento funcional</font>.
 
 ## **2. Princípios Implícitos**
-- **Supremacia do Interesse Público**: O Estado tem prerrogativas sobre o particular (ex: desapropriação, poder de polícia).
+- **Supremacia do Interesse Público**: O Estado tem prerrogativas sobre o particular (ex: **[[fisco/D CONST/3. DDIC 1#1.17 Direito de propriedade|desapropriação]]**, **[[Poder de polícia]]**).
 - **Indisponibilidade do Interesse Público**: O agente não é dono da coisa pública, apenas gestor.
-- **Autotutela**: A administração pode anular seus atos ilegais e revogar os inoportunos (Súmula 473 STF).
+- **Autotutela**: A administração pode anular seus atos ilegais e revogar os inoportunos (**[[6. Atos Administrativos|Súmula 473 STF]]**).
+
+Para a integração com Direito Tributário, consulte: **[[Conexões de Direito Público]]**.
