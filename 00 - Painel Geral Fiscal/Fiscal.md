@@ -2,9 +2,8 @@
 tags: [dashboard, fiscal, master, ultimate]
 ---
 
-# 🏛️ WAR ROOM FISCAL (Ultimate Edition)
+# 🏛️ WAR ROOM FISCAL 
 
-Bem-vindo ao seu Centro de Comando Estratégico. Este não é apenas um índice, é uma ferramenta de aprovação.
 
 > [!abstract] Status da Missão
 > **Objetivo:** Aprovação nas Áreas Fiscais (SEFAZ/RFB/ISS)
