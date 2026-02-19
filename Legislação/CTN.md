@@ -583,7 +583,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 ### Seção I – Lançamento
 
-* Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento. ^ctn142  
+* Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo [[Conceitos/Lançamento Tributário|lançamento]]. ^ctn142  
 	> Ver: [[Conceitos/Lançamento Tributário|Lançamento Tributário]]
 
 	* Parágrafo único. A atividade administrativa de lançamento é vinculada e obrigatória. ^ctn142p
@@ -628,7 +628,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO III – SUSPENSÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 151. Suspendem a exigibilidade do crédito tributário: ^ctn151  
+* Art. 151. [[D TRIB/8. Suspensão da Exigibilidade do Crédito Tributário|Suspendem a exigibilidade]] do crédito tributário: ^ctn151  
 	> Ver: [[D TRIB/8. Suspensão da Exigibilidade do Crédito Tributário|Hipóteses de Suspensão]]
 
 	* I – moratória; ^ctn151i
@@ -667,7 +667,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO IV – EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 156. Extinguem o crédito tributário: ^ctn156  
+* Art. 156. [[D TRIB/9. Extinção do Crédito Tributário|Extinguem o crédito tributário]]: ^ctn156  
 	> Ver: [[D TRIB/9. Extinção do Crédito Tributário|Hipóteses de Extinção]]
 
 	* I – o pagamento; ^ctn156i
@@ -750,7 +750,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO V – EXCLUSÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 175. Excluem o crédito tributário: ^ctn175  
+* Art. 175. [[D TRIB/10. Exclusão do Crédito Tributário|Excluem o crédito tributário]]: ^ctn175  
 	> Ver: [[D TRIB/10. Exclusão do Crédito Tributário|Isenção e Anistia]]
 
 	* I – a isenção; ^ctn175i
