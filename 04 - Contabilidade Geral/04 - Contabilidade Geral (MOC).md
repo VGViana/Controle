@@ -25,4 +25,4 @@ Este MOC organiza os temas estruturantes da Contabilidade, focando na legislaç�
 📈 **Estratégia:** Domine o CPC 00 e a Lei 6404/76, pois são a base de 80% das questões fiscais de contabilidade.
 
 ---
-🔙 **[[00 - Painel Geral Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**
+🔙 **[[00 - Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**

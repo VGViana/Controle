@@ -24,4 +24,4 @@ Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN), 
 🎯 **Estratégia:** Memorize as exceções aos princípios da Legalidade e Anterioridade, tema preferido das bancas.
 
 ---
-🔙 **[[00 - Painel Geral Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**
+🔙 **[[00 - Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**

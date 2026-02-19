@@ -13,4 +13,4 @@ Conceitos fundamentais que perpassam diversas disciplinas.
 - **[[Demonstrações Contábeis]]**
 
 ---
-🔙 **[[00 - Painel Geral Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**
+🔙 **[[00 - Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**

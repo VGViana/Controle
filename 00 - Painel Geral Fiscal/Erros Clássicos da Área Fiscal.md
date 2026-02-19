@@ -32,4 +32,4 @@ Lista de armadilhas comuns, confusões conceituais e "pegadinhas" recorrentes da
     - Risco de Auditoria = Risco de Inerente x Risco de Controle x Risco de Detecção.
 
 ---
-🔙 **[[00 - Painel Geral Fiscal]]**
+🔙 **[[00 - Fiscal]]**
