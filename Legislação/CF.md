@@ -2,14 +2,6 @@ Tags:: #LEI
 Fonte:: [Constituição Federal de 1988 (CF1988)](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
 Data:: 22/12/2025 12:48:24
 
-Dica: Nosso canal do YouTube tem vários vídeos ensinando como utilizar o Obsidian, [inscreva-se!](https://www.youtube.com/@Navegamente) 
-
-> 
-> - [YouTube](https://www.youtube.com/@Navegamente) 
->
-
-
-***
 
 ### 🔗 Conexões Interdisciplinares (MOC)
 
