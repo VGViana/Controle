@@ -1179,6 +1179,7 @@ Ver também: [[Direitos Fundamentais]], [[Remédios Constitucionais]], [[Mandado
 
 ### 3.7.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 37 A 38)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 37 A 38)|Resumo]]
+Ver também: [[Administração Pública]], [[Princípios da Administração Pública]], [[Princípios da APU]], [[Agentes Públicos]], [[Responsabilidade Civil do Estado]], [[Controle da Administração Pública]]
 
 * Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^73a80b7
 
