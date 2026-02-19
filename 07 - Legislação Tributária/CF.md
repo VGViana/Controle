@@ -48,7 +48,7 @@ Data:: 22/12/2025 12:48:24
 #### 💻 Tecnologia & Outros
 - **TI:** [[10 - Tecnologia da Informação]], [[0. Piramide DIKW, Metadados, Ciclo de vida, Dados abertos]], [[1. Conceitos básicos de BD]], [[5. SQL]], [[6. BI e DW]]
 - **Português:** [[08 - Português]], [[Coesão e Coerência]], [[Interpretação Textual]], [[Semântica, Tipos de Discurso e Tipologia]], [[Resolução de Provas]]
-- **Geral:** [[FISCAL]], [[A fazer]], [[Conquistas]], [[README]], [[Games]]
+- **Geral:** [[fisco/00 - Painel Geral Fiscal/FISCAL]], [[A fazer]], [[Conquistas]], [[README]], [[Games]]
 
 ***
 

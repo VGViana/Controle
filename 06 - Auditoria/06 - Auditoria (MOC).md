@@ -21,4 +21,4 @@ Este MOC organiza os temas de Auditoria, com foco em Auditoria Governamental e I
 🔍 **Foco Fiscal:** Atenção às normas da INTOSAI e do TCU, fundamentais para o controle da arrecadação e despesa.
 
 ---
-🔙 **[[00 - Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**
+🔙 **[[fisco/00 - Painel Geral Fiscal/Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**

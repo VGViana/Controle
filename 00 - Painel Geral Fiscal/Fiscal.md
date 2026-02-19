@@ -32,4 +32,4 @@ Este é o centro de comando para sua preparação na Área Fiscal. O objetivo é
 - **[[99 - Conceitos Gerais/99 - Conceitos Gerais (MOC)|99 - Conceitos Gerais]]**
 
 ---
-🔙 **[[00 - Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**
+🔙 **[[fisco/00 - Painel Geral Fiscal/Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**
