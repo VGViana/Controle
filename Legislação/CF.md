@@ -3500,13 +3500,13 @@ Ver também: [[D TRIB]], [[1. Princípios]], [[2. Imunidades]], [[Poder Tributá
 
 		* a) patrimônio, renda ou serviços, uns dos outros; ([[2. Imunidades|Recíproca]]) ^a0e7496
 
-		* b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^3cbcecd
+		* b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; ([[2. Imunidades|Religiosa]]) (Redação dada pela Emenda Constitucional n° 132, de 2023) ^3cbcecd
 
-		* c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei; ^5c54b10
+		* c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei; ([[2. Imunidades|Condicionada]]) ^5c54b10
 
-		* d) livros, jornais, periódicos e o papel destinado a sua impressão. ^2a0afa3
+		* d) livros, jornais, periódicos e o papel destinado a sua impressão. ([[2. Imunidades|Objetiva/Cultural]]) ^2a0afa3
 
-		* e) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser. (Incluída pela Emenda Constitucional n° 75, de 15.10.2013) ^4f8f979
+		* e) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser. ([[2. Imunidades|Musical]]) (Incluída pela Emenda Constitucional n° 75, de 15.10.2013) ^4f8f979
 
 	* § 1° A vedação do inciso [[#^b33d22a|III]], [[#^876c2fe|b]], não se aplica aos tributos previstos nos arts. [[#^620e5fa|148]], [[#^c68a571|I]], [[#^b48cd87|153]], [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^b6b5f55|IV]] e [[#^913e692|V]]; e [[#^f00bcde|154]], [[#^b614f29|II]]; e a vedação do inciso [[#^b33d22a|III]], [[#^b248955|c]], não se aplica aos tributos previstos nos arts. [[#^620e5fa|148]], [[#^c68a571|I]], [[#^b48cd87|153]], [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^f267e04|III]] e [[#^913e692|V]]; e [[#^f00bcde|154]], [[#^b614f29|II]], nem à fixação da base de cálculo dos impostos previstos nos arts. [[#^c99e88e|155]], [[#^8f30158|III]], e [[#^2e16bcd|156]], [[#^876d590|I]]. (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) ^c3fc35a
 
