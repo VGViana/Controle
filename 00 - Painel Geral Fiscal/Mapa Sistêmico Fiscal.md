@@ -4,14 +4,16 @@ tags: [mapa, sistêmico, conexões]
 
 # 🗺️ Mapa Sistêmico Fiscal
 
+🏠 **[Home](../README.md)** | 📊 **[Painel Geral](./Fiscal.md)**
+
 Este mapa conecta os pontos vitais entre as disciplinas, revelando a "Constituição Navegável" do seu estudo.
 
 ## 🔗 Conexões Interdisciplinares Chave
 
 ### 🏛️ Tríade do Direito Público
-- **Constitucional ↔ Tributário**: O Sistema Tributário Nacional (STN) é um capítulo da CF/88. Os [[01 - Direito Tributário/1. Princípios|Princípios Tributários]] são, na verdade, garantias fundamentais do contribuinte (Limitações ao Poder de Tributar).
+- **Constitucional ↔ Tributário**: O Sistema Tributário Nacional (STN) é um capítulo da CF/88. Os **[Princípios Tributários](../01%20-%20Direito%20Tributário/1.%20Princípios.md)** são, na verdade, garantias fundamentais do contribuinte (Limitações ao Poder de Tributar).
 - **Constitucional ↔ Administrativo**: A Administração Pública obedece aos princípios do art. 37 (LIMPE). O Direito Administrativo concretiza as normas constitucionais de organização do Estado.
-- **Administrativo ↔ Tributário**: O lançamento tributário é um [[03 - Direito Administrativo/6. Atos Administrativos|Ato Administrativo]] vinculado. A fiscalização decorre do Poder de Polícia.
+- **Administrativo ↔ Tributário**: O lançamento tributário é um **[Ato Administrativo](../03%20-%20Direito%20Administrativo/6.%20Atos%20Administrativos.md)** vinculado. A fiscalização decorre do Poder de Polícia.
 
 ### 💼 Ciclo Contábil-Fiscal
 - **Contabilidade ↔ Auditoria**: A auditoria verifica a conformidade das demonstrações contábeis (BP, DRE) com as normas (CPCs).
@@ -37,4 +39,4 @@ Este mapa conecta os pontos vitais entre as disciplinas, revelando a "Constitui�
 - **Auditoria**: Procedimentos de auditoria, Matriz de risco.
 
 ---
-🔙 **[[fisco/00 - Painel Geral Fiscal/Fiscal]]**
+🔙 **[Painel Geral](./Fiscal.md)** | 🏠 **[Home](../README.md)**
