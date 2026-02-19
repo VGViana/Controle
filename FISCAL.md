@@ -21,3 +21,4 @@ tags: []
 [[CONT]]
 
 [[D EMPR]]
+![[gráfico obsidian.png]]
