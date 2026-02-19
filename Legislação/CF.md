@@ -3363,11 +3363,11 @@ Ver também: [[D TRIB]], [[1. Princípios]], [[2. Imunidades]], [[Poder Tributá
 ### 6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C)|Resumo]]
 
-* Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos: ^432aea3
+* Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes [[Poder Tributário|tributos]]: ^432aea3
 
 	* I - impostos; ^4b1092b
 
-	* II - taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição; ^e963a1c
+	* II - taxas, em razão do exercício do [[Poder de polícia|poder de polícia]] ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição; ^e963a1c
 
 	* III - contribuição de melhoria, decorrente de obras públicas. ^126ca94
 
@@ -3385,11 +3385,11 @@ Ver também: [[D TRIB]], [[1. Princípios]], [[2. Imunidades]], [[Poder Tributá
 
 	* II - regular as limitações constitucionais ao poder de tributar; ^3cfa12c
 
-	* III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre: ^7443bc3
+	* III - estabelecer normas gerais em matéria de [[D TRIB|legislação tributária]], especialmente sobre: ^7443bc3
 
 		* a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes; ^cf4dc47
 
-		* b) obrigação, lançamento, crédito, prescrição e decadência tributários; ^5f58dad
+		* b) obrigação, [[Lançamento Tributário|lançamento]], [[7. Crédito tributário|crédito]], prescrição e decadência tributários; ^5f58dad
 
 		* c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas, inclusive em relação aos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]]; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^138b265
 
