@@ -76,7 +76,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)|Resumo]]
 Ver também: [[0. Conceito, Poder Constituinte e Princípios Fundamentais]], [[D CONST]], [[Estado]]
 
-* Art. 1° A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: ^77575b2
+* Art. 1° [[0. Conceito, Poder Constituinte e Princípios Fundamentais|A República Federativa do Brasil]], formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: ^77575b2
 
 	* I - a soberania; ^358f0d8
 
