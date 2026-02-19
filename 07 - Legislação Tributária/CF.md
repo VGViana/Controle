@@ -3302,9 +3302,11 @@ Ver também: [[01 - Direito Tributário]], [[1. Princípios]], [[2. Imunidades]]
 
 ## 6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162)|Resumo]]
+Ver também: [[01 - Direito Tributário (MOC)|Direito Tributário]], [[Conexões de Direito Público]], [[Poder Tributário]]
 
 ### 6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C)|Resumo]]
+Ver: [[01 - Direito Tributário/1. Princípios|Princípios Tributários]], [[CTN#Art. 1º|CTN Art. 1º]]
 
 * Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes [[Poder Tributário|tributos]]: ^432aea3
 

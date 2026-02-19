@@ -9,7 +9,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 > [!abstract] Informações Gerais
 > **Fonte:** Lei nº 5.172/1966  
 > **Natureza:** Norma geral de direito tributário ([[CF#^art146|CF/88, art. 146]])  
-> **MOC Pai:** [[01 - Direito Tributário/D TRIB|Direito Tributário]]
+> **MOC Pai:** [[01 - Direito Tributário (MOC)|Direito Tributário]]  
+> **Conexões:** [[Conexões de Direito Público]], [[Poder Tributário]]
 
 ---
 
