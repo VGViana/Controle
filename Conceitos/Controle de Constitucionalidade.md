@@ -1,4 +1,4 @@
-# **6. Controle de Constitucionalidade**
+# **Controle de Constitucionalidade**
 
 O Controle de Constitucionalidade é o mecanismo que garante a supremacia da Constituição, invalidando normas infraconstitucionais que a contrariem.
 
