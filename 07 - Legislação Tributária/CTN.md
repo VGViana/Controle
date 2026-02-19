@@ -11,6 +11,12 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 > **Natureza:** Norma geral de direito tributário ([[CF#^art146|CF/88, art. 146]])  
 > **MOC Pai:** [[01 - Direito Tributário (MOC)|Direito Tributário]]  
 > **Conexões:** [[Conexões de Direito Público]], [[Poder Tributário]]
+> **Jurisprudência:** [[Jurisprudência Fiscal (STF e STJ)]] (O CTN é antigo, cuidado com artigos não recepcionados).
+
+> [!danger] ☢️ Radar de Bancas (Mapa de Calor)
+> **FGV/Cebraspe:** Amam **[[CTN#^ctn113|Art. 113]]** (Obrigação Principal x Acessória), **[[CTN#^ctn121|Art. 121]]** (Sujeito Passivo) e **[[CTN#^ctn135|Art. 135]]** (Responsabilidade de Sócios).
+> **FCC/Vunesp:** Decoreba de **Prazos** (Prescrição e Decadência - Arts. 173 e 174) e **Causas de Suspensão/Extinção** (Arts. 151 e 156).
+> **Pegadinha Clássica:** A multa não paga vira Dívida Ativa, mas não vira Tributo (Art. 3º).
 
 ---
 

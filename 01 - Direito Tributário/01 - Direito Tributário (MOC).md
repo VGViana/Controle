@@ -18,6 +18,9 @@ Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN), 
 - **[10. Exclusão do Crédito Tributário](./10.%20Exclusão%20do%20Crédito%20Tributário.md)**: Isenção e Anistia.
 
 ## **3. Pontes Conceituais e Tributos em Espécie**
+- **[Jurisprudência Fiscal (STF e STJ)](../99%20-%20Conceitos%20Gerais/Jurisprudência%20Fiscal%20(STF%20e%20STJ).md)**: Súmulas Vinculantes e Teses (Crucial para FGV/Cebraspe).
+- **[LALUR e Lucro Real](../99%20-%20Conceitos%20Gerais/LALUR%20e%20Lucro%20Real.md)**: A conexão definitiva com a Contabilidade.
+- **[SPED e Tecnologia Fiscal](../99%20-%20Conceitos%20Gerais/SPED%20-%20Sistema%20Público%20de%20Escrituração%20Digital.md)**: A conexão com TI e Obrigações Acessórias.
 - **[Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md)**: Relação entre Direito Tributário, Administrativo e Constitucional.
 - **[Pacto Federativo e Tributação](../99%20-%20Conceitos%20Gerais/Pacto%20Federativo%20e%20Tributação.md)**: Autonomia dos entes e repartição de receitas.
 - **[02 - Direito Constitucional](../02%20-%20Direito%20Constitucional/02%20-%20Direito%20Constitucional%20(MOC).md)**: Fundamento de validade do Sistema Tributário Nacional.

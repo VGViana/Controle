@@ -3,6 +3,11 @@ Fonte:: [Constituição Federal de 1988 (CF1988)](https://www.planalto.gov.br/cc
 Data:: 22/12/2025 12:48:24
 ***
 
+> [!danger] ☢️ Radar de Bancas (Mapa de Calor)
+> **FGV/Cebraspe:** Foco total em **[[CF#^30f4637|Art. 5º]]** (Direitos Individuais), **[[CF#^38a499e|Art. 146]]** (Lei Complementar), **[[CF#^197f612|Art. 150]]** (Limitações - Princípios e Imunidades) e **[[CF#^1a749c5|Art. 156-A]]** (Reforma Tributária).
+> **FCC/Vunesp:** Decoreba de **Competências Privativas (Art. 22)** e **Repartição de Receitas (Art. 157-162)**.
+> **Jurisprudência:** Veja [[Jurisprudência Fiscal (STF e STJ)]] para Súmulas Vinculantes que derrubam a literalidade.
+
 <table border="0" cellpadding="0" cellspacing="0" width="70%"> <tr> <td width="14%"> <p align="center"> <img alt="Brastra.gif (4376 bytes)" height="82" src="https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif" width="74"/></img> </p> </td> <td width="86%"> <p align="center"> <font color="808000" face="Arial"> <strong> <big> <big> Presidência da República</big></big><br/></br> <big> Casa Civil<br/></br> </big> Subchefia para Assuntos Jurídicos</strong></span></p> </td> </tr> </table>
 
 CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988
