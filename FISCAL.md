@@ -25,6 +25,3 @@ Bem-vindo ao seu sistema jurídico interconectado para concursos da área fiscal
 
 ## **📝 Disciplinas Instrumentais**
 - **[[PORT]]**: Língua Portuguesa e Redação Oficial.
-
----
-🎯 **Meta:** Transformar o conhecimento em competência tributária.
