@@ -38,6 +38,7 @@ graph TD
 
 ### 🛠️ Diferenciais Produtivos
 - **MOCs (Maps of Content):** Notas que aglutinam links para evitar o "buraco negro" de arquivos soltos.
+- **Notas-Ponte (Bridge Notes):** Notas interdisciplinares (ex: [[Conexões de Direito Público]], [[Pacto Federativo e Tributação]]) que conectam conceitos de matérias diferentes, fundamental para a "Constituição Naveável".
 - **Backlinks Semânticos:** Uso extensivo de `[[Link]]` para navegação bidirecional no Obsidian.
 - **Atomicidade:** Notas curtas e focadas em um único conceito para facilitar a transclusão.
 

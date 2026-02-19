@@ -19,6 +19,7 @@ Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN), 
 
 ## **3. Pontes Conceituais e Tributos em Espécie**
 - **[Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md)**: Relação entre Direito Tributário, Administrativo e Constitucional.
+- **[Pacto Federativo e Tributação](../99%20-%20Conceitos%20Gerais/Pacto%20Federativo%20e%20Tributação.md)**: Autonomia dos entes e repartição de receitas.
 - **[02 - Direito Constitucional](../02%20-%20Direito%20Constitucional/02%20-%20Direito%20Constitucional%20(MOC).md)**: Fundamento de validade do Sistema Tributário Nacional.
 - **[03 - Direito Administrativo](../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC).md)**: Poder de Polícia como fato gerador de taxas.
 

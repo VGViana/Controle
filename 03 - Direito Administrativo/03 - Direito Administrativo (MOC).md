@@ -17,9 +17,10 @@ Este MOC organiza os temas de Direito Administrativo, focando na organização e
 - **[6. Atos Administrativos](./6.%20Atos%20Administrativos.md)**: Elementos (Competência, Finalidade, Forma, Motivo, Objeto).
 
 ## **3. Conceitos Transversais**
+- **[Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md)**: Interface com Direito Constitucional e Tributário.
+- **[Pacto Federativo e Tributação](../99%20-%20Conceitos%20Gerais/Pacto%20Federativo%20e%20Tributação.md)**: Relação entre a organização do Estado e a competência fiscal.
 - **[Administração Pública](../99%20-%20Conceitos%20Gerais/Administração%20Pública.md)**: Central de conceitos básicos.
 - **[Princípios da Administração Pública](../99%20-%20Conceitos%20Gerais/Princípios%20da%20Administração%20Pública.md)**: LIMPE e princípios implícitos.
-- **[Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md)**: Interface com Direito Constitucional e Tributário.
 
 ## **4. Agentes e Hierarquia**
 - **[Agentes Públicos](../99%20-%20Conceitos%20Gerais/Agentes%20Públicos.md)**: Natureza do vínculo com o Estado.
