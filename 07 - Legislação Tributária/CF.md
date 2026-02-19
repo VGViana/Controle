@@ -12,7 +12,7 @@ Data:: 22/12/2025 12:48:24
 - [[3. DDIC 1]]
 - [[4. DDIC 2]]
 - [[5. Direitos Sociais]]
-- [[D CONST]]
+- [[02 - Direito Constitucional]]
 - [[Controle de Constitucionalidade]]
 
 #### ⚖️ Legislação Relacionada
@@ -36,18 +36,18 @@ Data:: 22/12/2025 12:48:24
 - [[Conexões de Direito Público]]
 
 #### 💼 Outros Ramos do Direito
-- **Administrativo:** [[D ADM]], [[2. Org Adm 1]], [[3. Org Adm 2]], [[4. Entidades Paraestatais e o 3° Setor]], [[5. Poderes e Deveres]], [[6. Atos Administrativos]]
-- **Tributário:** [[D TRIB]], [[1. Princípios]], [[2. Imunidades]], [[7. Crédito tributário]], [[8. Suspensão da Exigibilidade do Crédito Tributário]], [[9. Extinção do Crédito Tributário]], [[10. Exclusão do Crédito Tributário]], [[Poder Tributário]], [[Lançamento Tributário]], [[Processo Administrativo Tributário (PAT)]]
-- **Civil:** [[D CIV]], [[0. Conceitos Introdutórios e LINDB]], [[1. Pessoas Naturais]], [[2. Pessoas Jurídicas]], [[3. Bens]]
-- **Empresarial:** [[D EMPR]], [[0. Definições especiais, Teoria da Empresa e Empresário]], [[1. Registro, Escrituração, Preposto e Estabelecimento]]
+- **Administrativo:** [[03 - Direito Administrativo]], [[2. Org Adm 1]], [[3. Org Adm 2]], [[4. Entidades Paraestatais e o 3° Setor]], [[5. Poderes e Deveres]], [[6. Atos Administrativos]]
+- **Tributário:** [[01 - Direito Tributário]], [[1. Princípios]], [[2. Imunidades]], [[7. Crédito tributário]], [[8. Suspensão da Exigibilidade do Crédito Tributário]], [[9. Extinção do Crédito Tributário]], [[10. Exclusão do Crédito Tributário]], [[Poder Tributário]], [[Lançamento Tributário]], [[Processo Administrativo Tributário (PAT)]]
+- **Civil:** [[11 - Direito Civil]], [[0. Conceitos Introdutórios e LINDB]], [[1. Pessoas Naturais]], [[2. Pessoas Jurídicas]], [[3. Bens]]
+- **Empresarial:** [[12 - Direito EmpresarialR]], [[0. Definições especiais, Teoria da Empresa e Empresário]], [[1. Registro, Escrituração, Preposto e Estabelecimento]]
 
 #### 📊 Auditoria & Contabilidade
-- **Auditoria:** [[AUD]], [[0. Conceitos e Objetivos]], [[1. Auditoria Interna]], [[Auditoria Governamental]]
-- **Contabilidade:** [[CONT]], [[14. CPC 00 - Estrutura Conceitual para Relatório Financeiro]], [[15. Princípios Contábeis]], [[16. Lei 6404]], [[5. Balanço Patrimonial]], [[6.Demonstração do Resultado do Exercício]], [[7. Reservas e Dividendos]], [[8. Demonstração de lucros ou prejuízos acumulados (DLPA)]], [[9. Demonstração das Mutações do Patrimônio Líquido (DMPL)]], [[Escrituração Contábil]], [[Regime de Competência]], [[Demonstrações Contábeis]]
+- **Auditoria:** [[06 - Auditoria]], [[0. Conceitos e Objetivos]], [[1. Auditoria Interna]], [[Auditoria Governamental]]
+- **Contabilidade:** [[04 - Contabilidade Geral]], [[14. CPC 00 - Estrutura Conceitual para Relatório Financeiro]], [[15. Princípios Contábeis]], [[16. Lei 6404]], [[5. Balanço Patrimonial]], [[6.Demonstração do Resultado do Exercício]], [[7. Reservas e Dividendos]], [[8. Demonstração de lucros ou prejuízos acumulados (DLPA)]], [[9. Demonstração das Mutações do Patrimônio Líquido (DMPL)]], [[Escrituração Contábil]], [[Regime de Competência]], [[Demonstrações Contábeis]]
 
 #### 💻 Tecnologia & Outros
-- **TI:** [[TI]], [[0. Piramide DIKW, Metadados, Ciclo de vida, Dados abertos]], [[1. Conceitos básicos de BD]], [[5. SQL]], [[6. BI e DW]]
-- **Português:** [[PORT]], [[Coesão e Coerência]], [[Interpretação Textual]], [[Semântica, Tipos de Discurso e Tipologia]], [[Resolução de Provas]]
+- **TI:** [[10 - Tecnologia da Informação]], [[0. Piramide DIKW, Metadados, Ciclo de vida, Dados abertos]], [[1. Conceitos básicos de BD]], [[5. SQL]], [[6. BI e DW]]
+- **Português:** [[08 - Português]], [[Coesão e Coerência]], [[Interpretação Textual]], [[Semântica, Tipos de Discurso e Tipologia]], [[Resolução de Provas]]
 - **Geral:** [[FISCAL]], [[A fazer]], [[Conquistas]], [[README]], [[Games]]
 
 ***
@@ -66,7 +66,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 # 1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)|Resumo]]
-Ver também: [[0. Conceito, Poder Constituinte e Princípios Fundamentais]], [[D CONST]], [[Estado]]
+Ver também: [[0. Conceito, Poder Constituinte e Princípios Fundamentais]], [[02 - Direito Constitucional]], [[Estado]]
 
 * Art. 1° [[0. Conceito, Poder Constituinte e Princípios Fundamentais|A República Federativa do Brasil]], formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: ^77575b2
 
@@ -3347,7 +3347,7 @@ Ver também: [[Administração Pública]], [[Princípios da Administração Púb
 
 # 6. TÍTULO VI - DA TRIBUTAÇÃO E DO ORÇAMENTO (ARTS. 145 A 169)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6. TÍTULO VI - DA TRIBUTAÇÃO E DO ORÇAMENTO (ARTS. 145 A 169)|Resumo]]
-Ver também: [[D TRIB]], [[1. Princípios]], [[2. Imunidades]], [[Poder Tributário]], [[CTN]], [[Conexões de Direito Público]]
+Ver também: [[01 - Direito Tributário]], [[1. Princípios]], [[2. Imunidades]], [[Poder Tributário]], [[CTN]], [[Conexões de Direito Público]]
 
 ## 6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162)|Resumo]]
@@ -3377,7 +3377,7 @@ Ver também: [[D TRIB]], [[1. Princípios]], [[2. Imunidades]], [[Poder Tributá
 
 	* II - regular as limitações constitucionais ao poder de tributar; ^3cfa12c
 
-	* III - estabelecer normas gerais em matéria de [[D TRIB|legislação tributária]], especialmente sobre: ^7443bc3
+	* III - estabelecer normas gerais em matéria de [[01 - Direito Tributário|legislação tributária]], especialmente sobre: ^7443bc3
 
 		* a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes; ^cf4dc47
 

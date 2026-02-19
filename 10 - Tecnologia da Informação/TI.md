@@ -19,9 +19,9 @@ Este MOC organiza os temas de TI aplicados ao Fisco, com foco em análise de dad
     - OLAP vs. OLTP.
 
 ## **4. Pontes Interdisciplinares**
-- **[[AUD]]**: Auditoria em sistemas de informação e cruzamento de dados.
-- **[[D ADM]]**: Lei de Acesso à Informação (LAI) e Transparência.
-- **[[Conceitos/Auditoria Governamental]]**: Uso de Big Data na fiscalização tributária.
+- **[[06 - Auditoria]]**: Auditoria em sistemas de informação e cruzamento de dados.
+- **[[03 - Direito Administrativo]]**: Lei de Acesso à Informação (LAI) e Transparência.
+- **[[99 - Conceitos Gerais/Auditoria Governamental]]**: Uso de Big Data na fiscalização tributária.
 
 ---
 🖥️ **Foco Fiscal:** Domine **SQL** e **Modelagem Dimensional**, ferramentas essenciais para o Auditor Fiscal moderno no combate à evasão.

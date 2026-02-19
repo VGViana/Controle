@@ -17,9 +17,9 @@ Este MOC organiza os temas estruturantes da Contabilidade, focando na legislaç�
 - **[[7. Reservas e Dividendos]]**: Reservas de Lucros, Capital e distribuição de dividendos.
 
 ## **4. Pontes Interdisciplinares**
-- **[[AUD]]**: Auditoria das Demonstrações Financeiras.
-- **[[D TRIB]]**: Contabilidade Tributária e ajustes fiscais (LALUR).
-- **[[Conceitos/Regime de Competência]]**: Base para o lançamento por homologação.
+- **[[06 - Auditoria]]**: Auditoria das Demonstrações Financeiras.
+- **[[01 - Direito Tributário]]**: Contabilidade Tributária e ajustes fiscais (LALUR).
+- **[[99 - Conceitos Gerais/Regime de Competência]]**: Base para o lançamento por homologação.
 
 ---
 📈 **Estratégia:** Domine o CPC 00 e a Lei 6404/76, pois são a base de 80% das questões fiscais de contabilidade.

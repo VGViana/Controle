@@ -9,7 +9,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 > [!abstract] Informações Gerais
 > **Fonte:** Lei nº 5.172/1966  
 > **Natureza:** Norma geral de direito tributário ([[CF#^art146|CF/88, art. 146]])  
-> **MOC Pai:** [[D TRIB/D TRIB|Direito Tributário]]
+> **MOC Pai:** [[01 - Direito Tributário/D TRIB|Direito Tributário]]
 
 ---
 
@@ -28,7 +28,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 * Art. 2º O sistema tributário nacional é regido pelo disposto na Emenda Constitucional nº 18, de 1º de dezembro de 1965, em leis complementares, em resoluções do Senado Federal e, nos limites das respectivas competências, em leis federais, nas Constituições e em leis estaduais, e em leis municipais. ^ctn2
 
 * Art. 3º Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada. ^ctn3  
-	> Ver: [[D TRIB/1. Princípios|Conceito de Tributo e Princípios]]
+	> Ver: [[01 - Direito Tributário/1. Princípios|Conceito de Tributo e Princípios]]
 
 * Art. 4º A natureza jurídica específica do tributo é determinada pelo fato gerador da respectiva obrigação, sendo irrelevantes para qualificá-la: ^ctn4
 	* I – a denominação e demais características formais adotadas pela lei; ^ctn4i
@@ -43,7 +43,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 * Art. 6º A atribuição constitucional de competência tributária compreende a competência legislativa plena, ressalvadas as limitações contidas na Constituição Federal, nas Constituições dos Estados e nas Leis Orgânicas do Distrito Federal e dos Municípios, e observado o disposto nesta Lei. ^ctn6  
-	> Ver: [[Conceitos/Poder Tributário|Poder e Competência Tributária]]
+	> Ver: [[99 - Conceitos Gerais/Poder Tributário|Poder e Competência Tributária]]
 
 	* Parágrafo único. Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público pertencerá à competência legislativa daquela a que tenham sido atribuídos. ^ctn6p
 
@@ -62,7 +62,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 ### Seção I – Disposições Gerais
 
 * Art. 9º É vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^ctn9  
-	> Ver: [[D TRIB/2. Imunidades|Imunidades Tributárias]]
+	> Ver: [[01 - Direito Tributário/2. Imunidades|Imunidades Tributárias]]
 
 	* I – instituir ou majorar tributo sem que a lei o estabeleça, ressalvado, quanto à majoração, o disposto nos arts. [[#^ctn21]] , [[#^ctn26]] e [[#^ctn65]];  
 	* II – cobrar imposto sobre o patrimônio e a renda com base em lei posterior à data inicial do exercício financeiro a que corresponda;  
@@ -305,7 +305,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 # CAPÍTULO IV – TAXAS
 
 * Art. 77. As taxas cobradas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, no âmbito de suas respectivas atribuições, têm como fato gerador o exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição. ^ctn77  
-	> Ver: [[Conceitos/Poder de polícia|Poder de Polícia]]
+	> Ver: [[99 - Conceitos Gerais/Poder de polícia|Poder de Polícia]]
 
 	* Parágrafo único. A taxa não pode ter base de cálculo ou fato gerador idênticos aos que correspondam a imposto nem ser calculada em função do capital das empresas. ^ctn77p
 
@@ -438,7 +438,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 * Art. 113. A obrigação tributária é principal ou acessória. ^ctn113  
-	> Ver MOC: [[D TRIB/D TRIB|Direito Tributário]]
+	> Ver MOC: [[01 - Direito Tributário/D TRIB|Direito Tributário]]
 
 	* § 1º A obrigação principal surge com a ocorrência do fato gerador, tem por objeto o pagamento de tributo ou penalidade pecuniária e extingue-se juntamente com o crédito dela decorrente. ^ctn113p1
 	* § 2º A obrigação acessória decorre da legislação tributária e tem por objeto as prestações, positivas ou negativas, nela previstas no interesse da arrecadação ou da fiscalização dos tributos. ^ctn113p2
@@ -571,7 +571,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 * Art. 139. O crédito tributário decorre da obrigação principal e tem a mesma natureza desta. ^ctn139  
-	> Ver: [[D TRIB/7. Crédito tributário|Teoria do Crédito Tributário]]
+	> Ver: [[01 - Direito Tributário/7. Crédito tributário|Teoria do Crédito Tributário]]
 
 * Art. 140. As circunstâncias que modificam o crédito tributário, sua extensão ou seus efeitos, não afetam a obrigação tributária que lhe deu origem. ^ctn140
 
@@ -583,8 +583,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 ### Seção I – Lançamento
 
-* Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo [[Conceitos/Lançamento Tributário|lançamento]]. ^ctn142  
-	> Ver: [[Conceitos/Lançamento Tributário|Lançamento Tributário]]
+* Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo [[99 - Conceitos Gerais/Lançamento Tributário|lançamento]]. ^ctn142  
+	> Ver: [[99 - Conceitos Gerais/Lançamento Tributário|Lançamento Tributário]]
 
 	* Parágrafo único. A atividade administrativa de lançamento é vinculada e obrigatória. ^ctn142p
 
@@ -628,8 +628,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO III – SUSPENSÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 151. [[D TRIB/8. Suspensão da Exigibilidade do Crédito Tributário|Suspendem a exigibilidade]] do crédito tributário: ^ctn151  
-	> Ver: [[D TRIB/8. Suspensão da Exigibilidade do Crédito Tributário|Hipóteses de Suspensão]]
+* Art. 151. [[01 - Direito Tributário/8. Suspensão da Exigibilidade do Crédito Tributário|Suspendem a exigibilidade]] do crédito tributário: ^ctn151  
+	> Ver: [[01 - Direito Tributário/8. Suspensão da Exigibilidade do Crédito Tributário|Hipóteses de Suspensão]]
 
 	* I – moratória; ^ctn151i
 	* II – o depósito do seu montante integral; ^ctn151ii
@@ -667,8 +667,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO IV – EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 156. [[D TRIB/9. Extinção do Crédito Tributário|Extinguem o crédito tributário]]: ^ctn156  
-	> Ver: [[D TRIB/9. Extinção do Crédito Tributário|Hipóteses de Extinção]]
+* Art. 156. [[01 - Direito Tributário/9. Extinção do Crédito Tributário|Extinguem o crédito tributário]]: ^ctn156  
+	> Ver: [[01 - Direito Tributário/9. Extinção do Crédito Tributário|Hipóteses de Extinção]]
 
 	* I – o pagamento; ^ctn156i
 	* II – a compensação; ^ctn156ii
@@ -750,8 +750,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO V – EXCLUSÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 175. [[D TRIB/10. Exclusão do Crédito Tributário|Excluem o crédito tributário]]: ^ctn175  
-	> Ver: [[D TRIB/10. Exclusão do Crédito Tributário|Isenção e Anistia]]
+* Art. 175. [[01 - Direito Tributário/10. Exclusão do Crédito Tributário|Excluem o crédito tributário]]: ^ctn175  
+	> Ver: [[01 - Direito Tributário/10. Exclusão do Crédito Tributário|Isenção e Anistia]]
 
 	* I – a isenção; ^ctn175i
 	* II – a anistia. ^ctn175ii

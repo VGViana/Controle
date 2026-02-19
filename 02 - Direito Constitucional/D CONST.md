@@ -27,8 +27,8 @@ Este MOC organiza os temas estruturantes do Direito Constitucional, servindo com
 
 ## **4. Pontes Interdisciplinares**
 - **[[Conexões de Direito Público]]**: Relação entre Direito Constitucional, Administrativo e Tributário.
-- **[[D TRIB]]**: Interface com o Sistema Tributário Nacional.
-- **[[D ADM]]**: Interface com a Organização Administrativa.
+- **[[01 - Direito Tributário]]**: Interface com o Sistema Tributário Nacional.
+- **[[03 - Direito Administrativo]]**: Interface com a Organização Administrativa.
 
 ---
 🚨 **Atenção:** Priorize o entendimento do Art. 1º ao 5º da CF/88, base para as competências fiscais.

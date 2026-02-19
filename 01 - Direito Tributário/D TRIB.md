@@ -3,7 +3,7 @@
 Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN), com foco em concursos da área fiscal (FGV, CEBRASPE, FCC).
 
 ## **0. Legislação e Normas Gerais**
-- **[[Legislação/CTN|Código Tributário Nacional (CTN)]]**: Norma geral de direito tributário.
+- **[[07 - Legislação Tributária/CTN|Código Tributário Nacional (CTN)]]**: Norma geral de direito tributário.
 
 ## **1. Limitações ao Poder de Tributar**
 - **[[1. Princípios]]**: Legalidade, Anterioridade (Anual/Nonagesimal), Irretroatividade, Capacidade Contributiva e Não-Confisco.
@@ -17,8 +17,8 @@ Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN), 
 
 ## **3. Pontes Conceituais e Tributos em Espécie**
 - **[[Conexões de Direito Público]]**: Relação entre Direito Tributário, Administrativo e Constitucional.
-- **[[D CONST]]**: Fundamento de validade do Sistema Tributário Nacional.
-- **[[D ADM]]**: Poder de Polícia como fato gerador de taxas.
+- **[[02 - Direito Constitucional]]**: Fundamento de validade do Sistema Tributário Nacional.
+- **[[03 - Direito Administrativo]]**: Poder de Polícia como fato gerador de taxas.
 
 ---
 🎯 **Estratégia:** Memorize as exceções aos princípios da Legalidade e Anterioridade, tema preferido das bancas.
