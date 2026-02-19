@@ -128,6 +128,7 @@ Ver também: [[0. Conceito, Poder Constituinte e Princípios Fundamentais]], [[D
 
 # 2. TÍTULO II - DOS DIREITOS E GARANTIAS FUNDAMENTAIS (ARTS. 5 A 17)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2. TÍTULO II - DOS DIREITOS E GARANTIAS FUNDAMENTAIS (ARTS. 5 A 17)|Resumo]]
+Ver também: [[Direitos Fundamentais]], [[Remédios Constitucionais]], [[Mandado de Segurança]], [[Abuso de Poder]], [[5. Direitos Sociais]]
 
 ## 2.1. CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (ART. 5)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.1. CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (ART. 5)|Resumo]]
