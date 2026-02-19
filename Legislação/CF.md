@@ -11,6 +11,55 @@ Dica: Nosso canal do YouTube tem vários vídeos ensinando como utilizar o Obsid
 
 ***
 
+### 🔗 Conexões Interdisciplinares (MOC)
+
+#### 🏛️ Direito Constitucional & Teoria
+- [[0. Conceito, Poder Constituinte e Princípios Fundamentais]]
+- [[1. Aplicação das Normas Constitucionais e Interpretação Constitucional]]
+- [[2. TGDF]]
+- [[3. DDIC 1]]
+- [[4. DDIC 2]]
+- [[5. Direitos Sociais]]
+- [[D CONST]]
+- [[Controle de Constitucionalidade]]
+
+#### ⚖️ Legislação Relacionada
+- [[CTN]]
+
+#### 📝 Conceitos Fundamentais
+- [[Administração Pública]]
+- [[Agentes Públicos]]
+- [[Direitos Fundamentais]]
+- [[Estado]]
+- [[Princípios da Administração Pública]]
+- [[Remédios Constitucionais]]
+- [[Mandado de Segurança]]
+- [[Abuso de Poder]]
+- [[Controle da Administração Pública]]
+- [[Entidades Administrativas]]
+- [[Hierarquia e Disciplina]]
+- [[Poder de polícia]]
+- [[Responsabilidade Civil do Estado]]
+- [[Ato Administrativo]]
+- [[Conexões de Direito Público]]
+
+#### 💼 Outros Ramos do Direito
+- **Administrativo:** [[D ADM]], [[2. Org Adm 1]], [[3. Org Adm 2]], [[4. Entidades Paraestatais e o 3° Setor]], [[5. Poderes e Deveres]], [[6. Atos Administrativos]]
+- **Tributário:** [[D TRIB]], [[1. Princípios]], [[2. Imunidades]], [[7. Crédito tributário]], [[8. Suspensão da Exigibilidade do Crédito Tributário]], [[9. Extinção do Crédito Tributário]], [[10. Exclusão do Crédito Tributário]], [[Poder Tributário]], [[Lançamento Tributário]], [[Processo Administrativo Tributário (PAT)]]
+- **Civil:** [[D CIV]], [[0. Conceitos Introdutórios e LINDB]], [[1. Pessoas Naturais]], [[2. Pessoas Jurídicas]], [[3. Bens]]
+- **Empresarial:** [[D EMPR]], [[0. Definições especiais, Teoria da Empresa e Empresário]], [[1. Registro, Escrituração, Preposto e Estabelecimento]]
+
+#### 📊 Auditoria & Contabilidade
+- **Auditoria:** [[AUD]], [[0. Conceitos e Objetivos]], [[1. Auditoria Interna]], [[Auditoria Governamental]]
+- **Contabilidade:** [[CONT]], [[14. CPC 00 - Estrutura Conceitual para Relatório Financeiro]], [[15. Princípios Contábeis]], [[16. Lei 6404]], [[5. Balanço Patrimonial]], [[6.Demonstração do Resultado do Exercício]], [[7. Reservas e Dividendos]], [[8. Demonstração de lucros ou prejuízos acumulados (DLPA)]], [[9. Demonstração das Mutações do Patrimônio Líquido (DMPL)]], [[Escrituração Contábil]], [[Regime de Competência]], [[Demonstrações Contábeis]]
+
+#### 💻 Tecnologia & Outros
+- **TI:** [[TI]], [[0. Piramide DIKW, Metadados, Ciclo de vida, Dados abertos]], [[1. Conceitos básicos de BD]], [[5. SQL]], [[6. BI e DW]]
+- **Português:** [[PORT]], [[Coesão e Coerência]], [[Interpretação Textual]], [[Semântica, Tipos de Discurso e Tipologia]], [[Resolução de Provas]]
+- **Geral:** [[FISCAL]], [[A fazer]], [[Conquistas]], [[README]], [[Games]]
+
+***
+
 <table border="0" cellpadding="0" cellspacing="0" width="70%"> <tr> <td width="14%"> <p align="center"> <img alt="Brastra.gif (4376 bytes)" height="82" src="https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif" width="74"/></img> </p> </td> <td width="86%"> <p align="center"> <font color="808000" face="Arial"> <strong> <big> <big> Presidência da República</big></big><br/></br> <big> Casa Civil<br/></br> </big> Subchefia para Assuntos Jurídicos</strong></font></p> </td> </tr> </table>
 
 CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988
