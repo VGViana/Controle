@@ -6,7 +6,7 @@ tags: []
 
 # **Master**
 
-Bem-vindo ao seu sistema jurídico interconectado para concursos da área fiscal. Este vault foi estruturado para atuar como uma **Constituição Navegável**, integrando os ramos do Direito Público e as disciplinas acessórias.
+Sistema jurídico interconectado para concursos da área fiscal. Este vault foi estruturado para atuar como uma **Constituição Navegável**, integrando os ramos do Direito Público e as disciplinas acessórias.
 
 ## **🏛️ Núcleo Jurídico (Direito Público)**
 - **[[D CONST]]**: Fundamentos, Poder Constituinte e Controle de Constitucionalidade.
