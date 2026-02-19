@@ -63,5 +63,3 @@ Como este vault é editado via **Neovim**, aqui estão os gatilhos rápidos para
 ---
 <p align="center">
   <i>"O conhecimento é a única ferramenta que se afia enquanto é usada."</i><br>
-  <b>Desenvolvido com 🧠 e 💻 via Gemini CLI.</b>
-</p>
