@@ -26,3 +26,6 @@ Este MOC organiza os temas de Direito Administrativo, focando na organização e
 ---
 💡 **Foco Fiscal:** Atenção especial ao **Poder de Polícia** (Art. 78, CTN) e aos **Atos Administrativos**, que fundamentam o lançamento tributário.
 
+
+---
+🔙 **[[00 - Painel Geral Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**

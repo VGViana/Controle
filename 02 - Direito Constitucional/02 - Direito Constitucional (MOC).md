@@ -33,3 +33,6 @@ Este MOC organiza os temas estruturantes do Direito Constitucional, servindo com
 ---
 🚨 **Atenção:** Priorize o entendimento do Art. 1º ao 5º da CF/88, base para as competências fiscais.
 
+
+---
+🔙 **[[00 - Painel Geral Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**

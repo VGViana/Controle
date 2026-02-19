@@ -25,3 +25,6 @@ Este MOC organiza os temas de TI aplicados ao Fisco, com foco em análise de dad
 
 ---
 🖥️ **Foco Fiscal:** Domine **SQL** e **Modelagem Dimensional**, ferramentas essenciais para o Auditor Fiscal moderno no combate à evasão.
+
+---
+🔙 **[[00 - Painel Geral Fiscal]]** | 🗺️ **[[Mapa Sistêmico Fiscal]]**
