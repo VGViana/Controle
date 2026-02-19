@@ -1,27 +1,15 @@
 ---
 id: CTN
-aliases: []
-tags: []
----
-
-
----
-Tags:: #LEI #CTN #DireitoTributário
-Fonte:: Lei nº 5.172/1966
----
----
-Tags:: #MOC #CTN #DireitoTributário
+aliases: [Código Tributário Nacional, Lei 5172]
+tags: [LEI, CTN, DireitoTributário, MOC]
 ---
 
 # Código Tributário Nacional (CTN)
 
-> Lei nº 5.172/1966  
-> Norma geral de direito tributário (CF/88, art. [[Constituição Federal de 1988 (CF1988)#^art146|146]])
-
----
-
-
-# CÓDIGO TRIBUTÁRIO NACIONAL (CTN)
+> [!abstract] Informações Gerais
+> **Fonte:** Lei nº 5.172/1966  
+> **Natureza:** Norma geral de direito tributário ([[Constituição Federal de 1988 (CF1988)#^art146|CF/88, art. 146]])  
+> **MOC Pai:** [[D TRIB/D TRIB|Direito Tributário]]
 
 ---
 
@@ -39,7 +27,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 * Art. 2º O sistema tributário nacional é regido pelo disposto na Emenda Constitucional nº 18, de 1º de dezembro de 1965, em leis complementares, em resoluções do Senado Federal e, nos limites das respectivas competências, em leis federais, nas Constituições e em leis estaduais, e em leis municipais. ^ctn2
 
-* Art. 3º Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada. ^ctn3
+* Art. 3º Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada. ^ctn3  
+	> Ver: [[D TRIB/1. Princípios|Conceito de Tributo e Princípios]]
 
 * Art. 4º A natureza jurídica específica do tributo é determinada pelo fato gerador da respectiva obrigação, sendo irrelevantes para qualificá-la: ^ctn4
 	* I – a denominação e demais características formais adotadas pela lei; ^ctn4i
@@ -53,7 +42,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
-* Art. 6º A atribuição constitucional de competência tributária compreende a competência legislativa plena, ressalvadas as limitações contidas na Constituição Federal, nas Constituições dos Estados e nas Leis Orgânicas do Distrito Federal e dos Municípios, e observado o disposto nesta Lei. ^ctn6
+* Art. 6º A atribuição constitucional de competência tributária compreende a competência legislativa plena, ressalvadas as limitações contidas na Constituição Federal, nas Constituições dos Estados e nas Leis Orgânicas do Distrito Federal e dos Municípios, e observado o disposto nesta Lei. ^ctn6  
+	> Ver: [[Conceitos/Poder Tributário|Poder e Competência Tributária]]
 
 	* Parágrafo único. Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público pertencerá à competência legislativa daquela a que tenham sido atribuídos. ^ctn6p
 
@@ -61,7 +51,7 @@ Tags:: #MOC #CTN #DireitoTributário
 
 	* § 1º A atribuição compreende as garantias e os privilégios processuais que competem à pessoa jurídica de direito público que a conferir. ^ctn7p1
 	* § 2º A atribuição pode ser revogada, a qualquer tempo, por ato unilateral da pessoa jurídica de direito público que a tenha conferido. ^ctn7p2
-	* § 3º Não constitui delegação de competência o cometimento, a pessoas de direito privado, do encargo ou da função de arrecadar tributos. ^ctn7p3
+	* § 3º Não constitui delegação de competência o cometimento, a pessoas de direito público, do encargo ou da função de arrecadar tributos. ^ctn7p3
 
 * Art. 8º O não-exercício da competência tributária não a defere a pessoa jurídica de direito público diversa daquela a que a Constituição a tenha atribuído. ^ctn8
 
@@ -71,7 +61,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 ### Seção I – Disposições Gerais
 
-* Art. 9º É vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^ctn9
+* Art. 9º É vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^ctn9  
+	> Ver: [[D TRIB/2. Imunidades|Imunidades Tributárias]]
 
 	* I – instituir ou majorar tributo sem que a lei o estabeleça, ressalvado, quanto à majoração, o disposto nos arts. [[#^ctn21]] , [[#^ctn26]] e [[#^ctn65]];  
 	* II – cobrar imposto sobre o patrimônio e a renda com base em lei posterior à data inicial do exercício financeiro a que corresponda;  
@@ -122,7 +113,7 @@ Tags:: #MOC #CTN #DireitoTributário
 
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
-* Art. 16. Imposto é o tributo cuja obrigação tem por fato gerador uma situação independente de qualquer atividade estatal específica, relativa ao contribuinte. ^ctn16
+* Art. 16. Imposto é o tributo cuja obrigação tem por fato gerador uma situation independente de qualquer atividade estatal específica, relativa ao contribuinte. ^ctn16
 
 * Art. 17. Os impostos componentes do sistema tributário nacional são exclusivamente os que constam deste Título, com as competências e limitações nele previstas. ^ctn17
 
@@ -313,7 +304,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 # CAPÍTULO IV – TAXAS
 
-* Art. 77. As taxas cobradas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, no âmbito de suas respectivas atribuições, têm como fato gerador o exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição. ^ctn77
+* Art. 77. As taxas cobradas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, no âmbito de suas respectivas atribuições, têm como fato gerador o exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição. ^ctn77  
+	> Ver: [[Conceitos/Poder de polícia|Poder de Polícia]]
 
 	* Parágrafo único. A taxa não pode ter base de cálculo ou fato gerador idênticos aos que correspondam a imposto nem ser calculada em função do capital das empresas. ^ctn77p
 
@@ -445,7 +437,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
-* Art. 113. A obrigação tributária é principal ou acessória. ^ctn113
+* Art. 113. A obrigação tributária é principal ou acessória. ^ctn113  
+	> Ver MOC: [[D TRIB/D TRIB|Direito Tributário]]
 
 	* § 1º A obrigação principal surge com a ocorrência do fato gerador, tem por objeto o pagamento de tributo ou penalidade pecuniária e extingue-se juntamente com o crédito dela decorrente. ^ctn113p1
 	* § 2º A obrigação acessória decorre da legislação tributária e tem por objeto as prestações, positivas ou negativas, nela previstas no interesse da arrecadação ou da fiscalização dos tributos. ^ctn113p2
@@ -455,14 +448,14 @@ Tags:: #MOC #CTN #DireitoTributário
 
 ## CAPÍTULO II – FATO GERADOR
 
-* Art. 114. Fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência. ^ctn114
+* Art. 114. Fato gerador da obrigação principal é a situation definida em lei como necessária e suficiente à sua ocorrência. ^ctn114
 
-* Art. 115. Fato gerador da obrigação acessória é qualquer situação que, na forma da legislação aplicável, impõe a prática ou a abstenção de ato que não configure obrigação principal. ^ctn115
+* Art. 115. Fato gerador da obrigação acessória é qualquer situation que, na forma da legislação aplicável, impõe a prática ou a abstenção de ato que não configure obrigação principal. ^ctn115
 
 * Art. 116. Salvo disposição de lei em contrário, considera-se ocorrido o fato gerador e existentes os seus efeitos: ^ctn116
 
-	* I – tratando-se de situação de fato, desde o momento em que se verifiquem as circunstâncias materiais necessárias a que produza os efeitos que normalmente lhe são próprios; ^ctn116i
-	* II – tratando-se de situação jurídica, desde o momento em que esteja definitivamente constituída, nos termos de direito aplicável. ^ctn116ii
+	* I – tratando-se de situation de fato, desde o momento em que se verifiquem as circunstâncias materiais necessárias a que produza os efeitos que normalmente lhe são próprios; ^ctn116i
+	* II – tratando-se de situation jurídica, desde o momento em que esteja definitivamente constituída, nos termos de direito aplicável. ^ctn116ii
 
 	* Parágrafo único. A autoridade administrativa poderá desconsiderar atos ou negócios jurídicos praticados com a finalidade de dissimular a ocorrência do fato gerador do tributo. ^ctn116p
 
@@ -492,7 +485,7 @@ Tags:: #MOC #CTN #DireitoTributário
 * Art. 121. Sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo ou penalidade pecuniária. ^ctn121
 
 	* Parágrafo único. O sujeito passivo da obrigação principal diz-se:  
-		I – contribuinte, quando tenha relação pessoal e direta com a situação que constitua o respectivo fato gerador;  
+		I – contribuinte, quando tenha relação pessoal e direta com a situation que constitua o respectivo fato gerador;  
 		II – responsável, quando, sem revestir a condição de contribuinte, sua obrigação decorra de disposição expressa de lei. ^ctn121p
 
 * Art. 122. Sujeito passivo da obrigação acessória é a pessoa obrigada às prestações que constituam o seu objeto. ^ctn122
@@ -505,7 +498,7 @@ Tags:: #MOC #CTN #DireitoTributário
 
 * Art. 124. São solidariamente obrigadas: ^ctn124
 
-	* I – as pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação principal; ^ctn124i
+	* I – as pessoas que tenham interesse comum na situation que constitua o fato gerador da obrigação principal; ^ctn124i
 	* II – as pessoas expressamente designadas por lei. ^ctn124ii
 
 	* Parágrafo único. A solidariedade referida neste artigo não comporta benefício de ordem. ^ctn124p
@@ -577,7 +570,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
-* Art. 139. O crédito tributário decorre da obrigação principal e tem a mesma natureza desta. ^ctn139
+* Art. 139. O crédito tributário decorre da obrigação principal e tem a mesma natureza desta. ^ctn139  
+	> Ver: [[D TRIB/7. Crédito tributário|Teoria do Crédito Tributário]]
 
 * Art. 140. As circunstâncias que modificam o crédito tributário, sua extensão ou seus efeitos, não afetam a obrigação tributária que lhe deu origem. ^ctn140
 
@@ -589,7 +583,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 ### Seção I – Lançamento
 
-* Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento. ^ctn142
+* Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento. ^ctn142  
+	> Ver: [[Conceitos/Lançamento Tributário|Lançamento Tributário]]
 
 	* Parágrafo único. A atividade administrativa de lançamento é vinculada e obrigatória. ^ctn142p
 
@@ -633,7 +628,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 # CAPÍTULO III – SUSPENSÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 151. Suspendem a exigibilidade do crédito tributário: ^ctn151
+* Art. 151. Suspendem a exigibilidade do crédito tributário: ^ctn151  
+	> Ver: [[D TRIB/8. Suspensão da Exigibilidade do Crédito Tributário|Hipóteses de Suspensão]]
 
 	* I – moratória; ^ctn151i
 	* II – o depósito do seu montante integral; ^ctn151ii
@@ -671,7 +667,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 # CAPÍTULO IV – EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 156. Extinguem o crédito tributário: ^ctn156
+* Art. 156. Extinguem o crédito tributário: ^ctn156  
+	> Ver: [[D TRIB/9. Extinção do Crédito Tributário|Hipóteses de Extinção]]
 
 	* I – o pagamento; ^ctn156i
 	* II – a compensação; ^ctn156ii
@@ -719,7 +716,7 @@ Tags:: #MOC #CTN #DireitoTributário
 
 * Art. 172. A lei pode autorizar a autoridade administrativa a conceder, por despacho fundamentado, remissão total ou parcial do crédito tributário, atendendo: ^ctn172
 
-	* I – à situação econômica do sujeito passivo;  
+	* I – à situation econômica do sujeito passivo;  
 	* II – ao erro ou ignorância excusáveis do sujeito passivo;  
 	* III – à diminuta importância do crédito tributário;  
 	* IV – a considerações de equidade;  
@@ -753,7 +750,8 @@ Tags:: #MOC #CTN #DireitoTributário
 
 # CAPÍTULO V – EXCLUSÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 175. Excluem o crédito tributário: ^ctn175
+* Art. 175. Excluem o crédito tributário: ^ctn175  
+	> Ver: [[D TRIB/10. Exclusão do Crédito Tributário|Isenção e Anistia]]
 
 	* I – a isenção; ^ctn175i
 	* II – a anistia. ^ctn175ii
@@ -786,7 +784,6 @@ Tags:: #MOC #CTN #DireitoTributário
 		d) sob condição do pagamento do tributo no prazo fixado. ^ctn181i
 
 # CAPÍTULO VI – GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO
-# CAPÍTULO VI – GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO
 
 ## Seção I – Disposições Gerais
 
@@ -837,7 +834,7 @@ Tags:: #MOC #CTN #DireitoTributário
 
 # DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-* Art. 194. A legislação tributária aplica-se às pessoas naturais ou jurídicas, contribuintes ou não. ^ctn194
+* Art. 194. A legislation tributária aplica-se às pessoas naturais ou jurídicas, contribuintes ou não. ^ctn194
 
 * Art. 195. Para os efeitos da legislação tributária, não têm aplicação quaisquer disposições excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais. ^ctn195
 
@@ -855,127 +852,7 @@ Tags:: #MOC #CTN #DireitoTributário
 	* VI – os síndicos;  
 	* VII – quaisquer outras entidades ou pessoas designadas por lei. ^ctn197i
 
-* Art. 198. Sem prejuízo do disposto na legislação criminal, é vedada a divulgação de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo. ^ctn198
-
-	* § 1º Excetuam-se do disposto neste artigo:  
-		I – requisição de autoridade judiciária;  
-		II – solicitações de autoridade administrativa no interesse da Administração Pública;  
-		III – intercâmbio de informações entre administrações tributárias. ^ctn198p1
-
-* Art. 199. A Fazenda Pública da União e as dos Estados, DF e Municípios prestar-se-ão mutuamente assistência para fiscalização dos tributos respectivos. ^ctn199
-
-* Art. 200. As autoridades administrativas federais poderão requisitar o auxílio da força pública estadual. ^ctn200
-
-* Art. 201. Constitui dívida ativa da Fazenda Pública aquela definida como tributária ou não tributária na lei própria. ^ctn201
-
-* Art. 202. O termo de inscrição da dívida ativa indicará obrigatoriamente: ^ctn202
-
-	* I – o nome do devedor;  
-	* II – a quantia devida;  
-	* III – a origem e natureza do crédito;  
-	* IV – a data da inscrição;  
-	* V – o número do processo administrativo. ^ctn202i
-
-* Art. 203. A omissão de qualquer dos requisitos do artigo anterior é causa de nulidade da inscrição. ^ctn203
-
-* Art. 204. A dívida regularmente inscrita goza de presunção de certeza e liquidez. ^ctn204
-
-* Art. 205. A lei poderá exigir que a prova da quitação de determinado tributo seja feita por certidão negativa. ^ctn205
-
-* Art. 206. Tem os mesmos efeitos da certidão negativa aquela em que conste a existência de créditos não vencidos ou com exigibilidade suspensa. ^ctn206
-
-* Art. 207. Independentemente de disposição legal permissiva, será dispensada a prova de quitação de tributos para a prática de ato indispensável para evitar a caducidade de direito. ^ctn207
-
-* Art. 208. A certidão negativa será sempre expedida nos termos em que tenha sido requerida. ^ctn208
-
-* Art. 209. A certidão negativa expedida com dolo ou fraude que contenha erro contra a Fazenda Pública responsabiliza pessoalmente o funcionário. ^ctn209
-
-* Art. 210. Os prazos fixados nesta Lei contam-se excluindo o dia do início e incluindo o do vencimento. ^ctn210
-
-* Art. 211. Os prazos só se iniciam ou vencem em dia de expediente normal na repartição. ^ctn211
-
-* Art. 212. Os tributos federais aplicam-se no Distrito Federal e nos Territórios. ^ctn212
-
-* Art. 213. Os Estados e Municípios aplicarão suas normas tributárias nos respectivos territórios. ^ctn213
-
-* Art. 214. Esta Lei entra em vigor na data de sua publicação. ^ctn214
-
-* Art. 215. Revogam-se as disposições em contrário. ^ctn215
-
-* Art. 216. O disposto nesta Lei não exclui a aplicação de leis especiais. ^ctn216
-
-* Art. 217. Aplicam-se às contribuições sociais as normas gerais de direito tributário. ^ctn217
-
-* Art. 218. Esta Lei será citada como Código Tributário Nacional. ^ctn218
-
-## Seção I – Disposições Gerais
-
-* Art. 183. A enumeração das garantias atribuídas ao crédito tributário não exclui outras que sejam expressamente previstas em lei. ^ctn183
-
-* Art. 184. Sem prejuízo dos privilégios especiais sobre determinados bens, o crédito tributário prefere a qualquer outro, seja qual for a natureza ou o tempo de constituição deste, ressalvados os créditos decorrentes da legislação do trabalho ou do acidente de trabalho. ^ctn184
-
-	* Parágrafo único. Na falência:  
-		I – o crédito tributário não prefere aos créditos extraconcursais ou às importâncias passíveis de restituição;  
-		II – prefere aos créditos com garantia real até o limite do bem gravado;  
-		III – prefere aos créditos quirografários e subordinados. ^ctn184p
-
----
-
-## Seção II – Preferências
-
-* Art. 185. Presume-se fraudulenta a alienação ou oneração de bens ou rendas, quando ao tempo da alienação o sujeito passivo estava inscrito em dívida ativa. ^ctn185
-
-	* Parágrafo único. O disposto neste artigo não se aplica na hipótese de terem sido reservados bens suficientes ao total pagamento da dívida inscrita. ^ctn185p
-
-* Art. 185-A. Na hipótese de o devedor tributário, devidamente citado, não pagar nem apresentar bens à penhora no prazo legal, o juiz determinará a indisponibilidade de seus bens e direitos. ^ctn185a
-
----
-
-## Seção III – Concurso de Credores
-
-* Art. 186. O crédito tributário prefere a qualquer outro, ressalvados os créditos decorrentes da legislação do trabalho ou do acidente de trabalho. ^ctn186
-
-* Art. 187. A cobrança judicial do crédito tributário não é sujeita a concurso de credores ou habilitação em falência. ^ctn187
-
-	* Parágrafo único. O concurso de preferência somente se verifica entre pessoas jurídicas de direito público. ^ctn187p
-
-* Art. 188. São extraconcursais os créditos tributários decorrentes de fatos geradores ocorridos após a decretação da falência. ^ctn188
-
-* Art. 189. São pagos preferencialmente a quaisquer outros os créditos tributários vencidos ou vincendos relativos a bens e serviços adquiridos na massa falida. ^ctn189
-
-* Art. 190. A cobrança judicial do crédito tributário será feita na forma da lei própria. ^ctn190
-
-* Art. 191. A concessão de recuperação judicial depende da apresentação de prova de quitação de todos os tributos. ^ctn191
-
-* Art. 191-A. A concessão de recuperação judicial depende da apresentação da prova de quitação de todos os tributos ou da prova de suspensão de sua exigibilidade. ^ctn191a
-
-* Art. 192. Nenhuma sentença de julgamento de partilha ou adjudicação será proferida sem prova da quitação de todos os tributos relativos aos bens do espólio. ^ctn192
-
-* Art. 193. Salvo quando expressamente autorizado por lei, nenhum departamento da administração pública celebrará contrato ou aceitará proposta em concorrência pública sem prova da quitação de todos os tributos devidos. ^ctn193
-
----
-
-# DISPOSIÇÕES FINAIS E TRANSITÓRIAS
-
-* Art. 194. A legislação tributária aplica-se às pessoas naturais ou jurídicas, contribuintes ou não. ^ctn194
-
-* Art. 195. Para os efeitos da legislação tributária, não têm aplicação quaisquer disposições excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais. ^ctn195
-
-	* Parágrafo único. Os livros obrigatórios e os comprovantes dos lançamentos neles efetuados serão conservados até que ocorra a prescrição dos créditos tributários. ^ctn195p
-
-* Art. 196. A autoridade administrativa que proceder ou presidir a quaisquer diligências de fiscalização lavrará os termos necessários para que se documente o início do procedimento. ^ctn196
-
-* Art. 197. Mediante intimação escrita, são obrigados a prestar à autoridade administrativa todas as informações de que disponham com relação aos bens, negócios ou atividades de terceiros: ^ctn197
-
-	* I – os tabeliães, escrivães e demais serventuários de ofício;  
-	* II – os bancos, casas bancárias, Caixas Econômicas e demais instituições financeiras;  
-	* III – as empresas de administração de bens;  
-	* IV – os corretores, leiloeiros e despachantes oficiais;  
-	* V – os inventariantes;  
-	* VI – os síndicos;  
-	* VII – quaisquer outras entidades ou pessoas designadas por lei. ^ctn197i
-
-* Art. 198. Sem prejuízo do disposto na legislação criminal, é vedada a divulgação de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo. ^ctn198
+* Art. 198. Sem prejuízo do disposto na legislação criminal, é vedada a divulgação de informação obtida em razão do ofício sobre a situation econômica ou financeira do sujeito passivo. ^ctn198
 
 	* § 1º Excetuam-se do disposto neste artigo:  
 		I – requisição de autoridade judiciária;  

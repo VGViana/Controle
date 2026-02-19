@@ -2,6 +2,9 @@
 
 Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN), com foco em concursos da área fiscal (FGV, CEBRASPE, FCC).
 
+## **0. Legislação e Normas Gerais**
+- **[[Legislação/CTN|Código Tributário Nacional (CTN)]]**: Norma geral de direito tributário.
+
 ## **1. Limitações ao Poder de Tributar**
 - **[[1. Princípios]]**: Legalidade, Anterioridade (Anual/Nonagesimal), Irretroatividade, Capacidade Contributiva e Não-Confisco.
 - **[[2. Imunidades]]**: Recíproca (Pacto Federativo), Religiosa, Partidária/Sindical e de Imprensa.
