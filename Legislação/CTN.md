@@ -20,24 +20,6 @@ Tags:: #MOC #CTN #DireitoTributário
 
 ---
 
-## Estrutura
-
-- [[Livro I - Sistema Tributário Nacional]]
-- [[Livro II - Normas Gerais de Direito Tributário]]
-
----
-
-## Núcleo Mais Cobrado
-
-- Conceito de tributo → [[Livro I - Sistema Tributário Nacional#^ctn3]]
-- Competência tributária → [[Livro I - Sistema Tributário Nacional#^ctn6]]
-- Imunidades → [[Livro I - Sistema Tributário Nacional#^ctn9]]
-- Obrigação tributária → [[Livro II - Normas Gerais de Direito Tributário#^ctn113]]
-- Lançamento → [[Livro II - Normas Gerais de Direito Tributário#^ctn142]]
-- Suspensão → [[Livro II - Normas Gerais de Direito Tributário#^ctn151]]
-- Extinção → [[Livro II - Normas Gerais de Direito Tributário#^ctn156]]
-- Decadência → [[Livro II - Normas Gerais de Direito Tributário#^ctn173]]
-- Prescrição → [[Livro II - Normas Gerais de Direito Tributário#^ctn174]]
 
 # CÓDIGO TRIBUTÁRIO NACIONAL (CTN)
 
