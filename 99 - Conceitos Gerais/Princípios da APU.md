@@ -17,3 +17,16 @@ Bizu: **<span style="color:#ff0000">LIMPE</span>**
 - **Autotutela**: A administração pode anular seus atos ilegais e revogar os inoportunos (**[[6. Atos Administrativos|Súmula 473 STF]]**).
 
 Para a integração com Direito Tributário, consulte: **[[Conexões de Direito Público]]**.
+
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  PrincpiosdaAPU("Princípios da APU")
+  style PrincpiosdaAPU fill:#f9f,stroke:#333,stroke-width:4px
+  4EntidadesParaestataiseo3Setor("4. Entidades Paraestatais e o 3° Setor") --> PrincpiosdaAPU
+  CF("CF") --> PrincpiosdaAPU
+  0ConceitosIntrodutrioseLINDB("0. Conceitos Introdutórios e LINDB") --> PrincpiosdaAPU
+  PrincpiosdaAPU --> Poderdepolcia("Poder de polícia")
+  PrincpiosdaAPU --> 6AtosAdministrativos("6. Atos Administrativos")
+  PrincpiosdaAPU --> ConexesdeDireitoPblico("Conexões de Direito Público")
+```

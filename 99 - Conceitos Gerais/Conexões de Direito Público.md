@@ -27,3 +27,19 @@ As normas tributárias estão sujeitas ao **Controle de Constitucionalidade**.
 O Art. 150 da CF/88 traz as "Garantias Fundamentais do Contribuinte", que são desdobramentos dos **[[0. Conceito, Poder Constituinte e Princípios Fundamentais#3. Elementos das Constituições (segundo José Afonso da Silva)|Direitos Fundamentais]]** (Elementos Limitativos).
 - **Irretroatividade:** Proteção da segurança jurídica e do ato jurídico perfeito.
 - **Capacidade Contributiva:** Desdobramento do Princípio da Igualdade (Isonomia).
+
+
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  ConexesdeDireitoPblico("Conexões de Direito Público")
+  style ConexesdeDireitoPblico fill:#f9f,stroke:#333,stroke-width:4px
+  1Princpios("1. Princípios") --> ConexesdeDireitoPblico
+  2Imunidades("2. Imunidades") --> ConexesdeDireitoPblico
+  10ExclusodoCrditoTributrio("10. Exclusão do Crédito Tributário") --> ConexesdeDireitoPblico
+  0ConceitoPoderConstituinteePrincpiosFundamentais("0. Conceito, Poder Constituinte e Princípios Fundamentais") --> ConexesdeDireitoPblico
+  3DDIC1("3. DDIC 1") --> ConexesdeDireitoPblico
+  5DireitosSociais("5. Direitos Sociais") --> ConexesdeDireitoPblico
+  5PodereseDeveres("5. Poderes e Deveres") --> ConexesdeDireitoPblico
+  3OrgAdm2("3. Org Adm 2") --> ConexesdeDireitoPblico
+```

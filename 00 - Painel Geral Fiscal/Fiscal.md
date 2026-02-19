@@ -35,3 +35,11 @@ Este é o centro de comando para sua preparação na Área Fiscal. O objetivo é
 
 ---
 🔙 **[Painel Geral](./Fiscal.md)** | 🗺️ **[Mapa Sistêmico Fiscal](./Mapa%20Sistêmico%20Fiscal.md)**
+
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  Fiscal("Fiscal")
+  style Fiscal fill:#f9f,stroke:#333,stroke-width:4px
+  ErrosClssicosdareaFiscal("Erros Clássicos da Área Fiscal") --> Fiscal
+```

@@ -904,3 +904,20 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 * Art. 217. Aplicam-se às contribuições sociais as normas gerais de direito tributário. ^ctn217
 
 * Art. 218. Esta Lei será citada como Código Tributário Nacional. ^ctn218
+
+
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  CTN("CTN")
+  style CTN fill:#f9f,stroke:#333,stroke-width:4px
+  CF("CF") --> CTN
+  CTN --> 1Princpios("1. Princípios")
+  CTN --> PoderTributrio("Poder Tributário")
+  CTN --> 2Imunidades("2. Imunidades")
+  CTN --> Poderdepolcia("Poder de polícia")
+  CTN --> 7Crditotributrio("7. Crédito tributário")
+  CTN --> LanamentoTributrio("Lançamento Tributário")
+  CTN --> 8SuspensodaExigibilidadedoCrditoTributrio("8. Suspensão da Exigibilidade do Crédito Tributário")
+  CTN --> 9ExtinodoCrditoTributrio("9. Extinção do Crédito Tributário")
+```

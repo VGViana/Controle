@@ -16,3 +16,14 @@
 - Tipicidade.
 ---
 - **Controle**: Pode ser anulado pela própria Administração (Autotutela) ou pelo Judiciário (Inafastabilidade de Jurisdição).
+
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  AtoAdministrativo("Ato Administrativo")
+  style AtoAdministrativo fill:#f9f,stroke:#333,stroke-width:4px
+  7Crditotributrio("7. Crédito tributário") --> AtoAdministrativo
+  4DDIC2("4. DDIC 2") --> AtoAdministrativo
+  6AtosAdministrativos("6. Atos Administrativos") --> AtoAdministrativo
+  Estado("Estado") --> AtoAdministrativo
+```

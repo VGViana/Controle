@@ -33,3 +33,11 @@ Lista de armadilhas comuns, confusões conceituais e "pegadinhas" recorrentes da
 
 ---
 🔙 **[[fisco/00 - Painel Geral Fiscal/Fiscal]]**
+
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  ErrosClssicosdareaFiscal("Erros Clássicos da Área Fiscal")
+  style ErrosClssicosdareaFiscal fill:#f9f,stroke:#333,stroke-width:4px
+  ErrosClssicosdareaFiscal --> Fiscal("Fiscal")
+```

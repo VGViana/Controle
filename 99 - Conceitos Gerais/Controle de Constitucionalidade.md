@@ -35,3 +35,13 @@ O Controle de Constitucionalidade é o mecanismo que garante a supremacia da Con
 
 ---
 🚨 **Foco Fiscal:** O controle de constitucionalidade é frequentemente utilizado para contestar a criação ou majoração de tributos que violam os **[[1. Princípios|Princípios Constitucionais Tributários]]**.
+
+
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  ControledeConstitucionalidade("Controle de Constitucionalidade")
+  style ControledeConstitucionalidade fill:#f9f,stroke:#333,stroke-width:4px
+  9ExtinodoCrditoTributrio("9. Extinção do Crédito Tributário") --> ControledeConstitucionalidade
+  ControledeConstitucionalidade --> 1Princpios("1. Princípios")
+```

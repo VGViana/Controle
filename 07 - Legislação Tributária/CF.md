@@ -7005,3 +7005,18 @@ Ver também: [[01 - Direito Tributário]], [[1. Princípios]], [[2. Imunidades]]
 * Art. 138. Até 2032, qualquer criação, alteração ou prorrogação de vinculação legal ou constitucional de receitas a despesas, inclusive na hipótese de aplicação mínima de montante de recursos, não poderá resultar em crescimento anual da respectiva despesa primária superior à variação do limite de despesas primárias, na forma prevista na lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022. (Incluído pela Emenda Constitucional n° 135, de 2024)
 
 * Brasília, 5 de outubro de 1988.
+
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  CF("CF")
+  style CF fill:#f9f,stroke:#333,stroke-width:4px
+  CF --> 0ConceitoPoderConstituinteePrincpiosFundamentais("0. Conceito, Poder Constituinte e Princípios Fundamentais")
+  CF --> Estado("Estado")
+  CF --> DireitosFundamentais("Direitos Fundamentais")
+  CF --> RemdiosConstitucionais("Remédios Constitucionais")
+  CF --> MandadodeSegurana("Mandado de Segurança")
+  CF --> AbusodePoder("Abuso de Poder")
+  CF --> 5DireitosSociais("5. Direitos Sociais")
+  CF --> AdministraoPblica("Administração Pública")
+```
