@@ -1,5 +1,5 @@
 # **Lançamento Tributário**
-- **Natureza Jurídica**: Ato administrativo vinculado e obrigatório (Art. 142 CTN).
-- **Vínculo**: É a formalização da obrigação tributária em crédito.
-- **Controle**: Por ser um **[[Ato Administrativo]]**, submete-se à **[[Princípios da Administração Pública|Legalidade]]** estrita e ao controle judicial (Inafastabilidade de Jurisdição).
-- **Tipos**: De Ofício, Por Declaração e **[[7. Crédito tributário#LANÇAMENTO POR HOMOLOGAÇÃO|Por Homologação]]**.
+- **Natureza Jurídica**: **[[6. Atos Administrativos|Ato administrativo]]** vinculado e obrigatório (Art. 142 CTN).
+- **Vínculo**: É a formalização da obrigação tributária em crédito. Para a integração entre Lançamento e competências administrativas, veja: **[[Conexões de Direito Público]]**.
+- **Controle**: Por ser um **[[6. Atos Administrativos|Ato Administrativo]]**, submete-se à **[[Princípios da Administração Pública|Legalidade]]** estrita e ao controle judicial (**[[4. DDIC 2#1.4 Inafastabilidade de jurisdição|Inafastabilidade de Jurisdição]]**).
+- **Tipos**: **[[7. Crédito tributário#LANÇAMENTO DE OFÍCIO - ex officio|De Ofício]]**, **[[7. Crédito tributário#LANÇAMENTO POR DECLARAÇÃO - misto|Por Declaração]]** e **[[7. Crédito tributário#LANÇAMENTO POR HOMOLOGAÇÃO|Por Homologação]]**.
