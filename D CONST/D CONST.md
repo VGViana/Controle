@@ -14,6 +14,10 @@ Este MOC organiza os temas estruturantes do Direito Constitucional, servindo com
     - Eficácia das Normas (Plena, Contida, Limitada).
     - Métodos e Princípios de Interpretação (Unidade, Máxima Efetividade, Harmonização).
     - Interpretação Conforme a Constituição.
+- **[[6. Controle de Constitucionalidade]]**
+    - Controle Difuso vs. Concentrado.
+    - Ações Diretas (ADI, ADC, ADO, ADPF).
+    - Pressupostos e Efeitos.
 
 ## **3. Organização do Estado e Poderes**
 - **[[2. TGDF]]**: Teoria Geral do Direito Fundamental.
