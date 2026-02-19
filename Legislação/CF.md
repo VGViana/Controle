@@ -305,25 +305,25 @@ Ver também: [[Direitos Fundamentais]], [[Remédios Constitucionais]], [[Mandado
 
 	* LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel; ^8166269
 
-	* LXVIII - conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder; ^16da261
+	* LXVIII - conceder-se-á [[Remédios Constitucionais|"habeas-corpus"]] sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder; ^16da261
 
-	* LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data ", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público; ^1f431d6
+	* LXIX - conceder-se-á [[Mandado de Segurança|mandado de segurança]] para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data ", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público; ^1f431d6
 
-	* LXX - o mandado de segurança coletivo pode ser impetrado por: ^30595c2
+	* LXX - o [[Mandado de Segurança|mandado de segurança coletivo]] pode ser impetrado por: ^30595c2
 
 		* a) partido político com representação no Congresso Nacional; ^2dd330b
 
 		* b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados; ^d110a08
 
-	* LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania; ^7e4ddbc
+	* LXXI - conceder-se-á [[Remédios Constitucionais|mandado de injunção]] sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania; ^7e4ddbc
 
-	* LXXII - conceder-se-á "habeas-data": ^ce16bec
+	* LXXII - conceder-se-á [[Remédios Constitucionais|"habeas-data"]]: ^ce16bec
 
 		* a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; ^84c1650
 
 		* b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo; ^afbacac
 
-	* LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência; ^f17d449
+	* LXXIII - qualquer cidadão é parte legítima para propor [[Remédios Constitucionais|ação popular]] que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência; ^f17d449
 
 	* LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos; ^f7530d0
 
@@ -1181,11 +1181,11 @@ Ver também: [[Direitos Fundamentais]], [[Remédios Constitucionais]], [[Mandado
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 37 A 38)|Resumo]]
 Ver também: [[Administração Pública]], [[Princípios da Administração Pública]], [[Princípios da APU]], [[Agentes Públicos]], [[Responsabilidade Civil do Estado]], [[Controle da Administração Pública]]
 
-* Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^73a80b7
+* Art. 37. A [[Administração Pública|administração pública direta e indireta]] de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos [[Princípios da Administração Pública|princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência]] e, também, ao seguinte: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^73a80b7
 
-	* I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^93f564e
+	* I - os [[Agentes Públicos|cargos, empregos e funções públicas]] são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^93f564e
 
-	* II - a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^9e785ae
+	* II - a investidura em cargo ou emprego público depende de aprovação prévia em [[Agentes Públicos|concurso público]] de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^9e785ae
 
 	* III - o prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período; ^3bf6bba
 
@@ -1249,7 +1249,7 @@ Ver também: [[Administração Pública]], [[Princípios da Administração Púb
 
 	* § 5° A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento. ^5f619e2
 
-	* § 6° As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa. ^3c79595
+	* § 6° As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos [[Responsabilidade Civil do Estado|responderão pelos danos que seus agentes]], nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa. ^3c79595
 
 	* § 7° A lei disporá sobre os requisitos e as restrições ao ocupante de cargo ou emprego da administração direta e indireta que possibilite o acesso a informações privilegiadas. (Incluído pela Emenda Constitucional n° 19, de 1998) ^2c2b9b3
 
@@ -1932,7 +1932,7 @@ Ver também: [[Administração Pública]], [[Princípios da Administração Púb
 ### 4.1.9. SEÇÃO IX - DA FISCALIZAÇÃO CONTÁBIL, FINANCEIRA E ORÇAMENTÁRIA (ARTS. 70 A 75)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.9. SEÇÃO IX - DA FISCALIZAÇÃO CONTÁBIL, FINANCEIRA E ORÇAMENTÁRIA (ARTS. 70 A 75)|Resumo]]
 
-* Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder. ^5c8ce1a
+* Art. 70. A [[Auditoria Governamental|fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União]] e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder. ^5c8ce1a
 
 	* Parágrafo único. Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^ef2c75d
 
