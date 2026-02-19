@@ -1,15 +1,15 @@
 # **Princípios da Administração Pública**
 
 ## **1. Princípios Expressos (Art. 37, CF/88)**
-Bizu: **<font color="#ff0000">LIMPE</font>**
+Bizu: **<span style="color:#ff0000">LIMPE</span>**
 
-- **<font color="#00b0f0">L</font>egalidade**: A administração só pode fazer o que a lei permite (vinculação positiva). Para o particular, vale a autonomia da vontade (faz tudo que a lei não proíbe).
-- **<font color="#00b0f0">I</font>mpessoalidade**:
+- **<span style="color:#00b0f0">L</span>egalidade**: A administração só pode fazer o que a lei permite (vinculação positiva). Para o particular, vale a autonomia da vontade (faz tudo que a lei não proíbe).
+- **<span style="color:#00b0f0">I</span>mpessoalidade**:
     - Finalidade pública (não favorecer/prejudicar ninguém);
     - Vedação à promoção pessoal (obras levam nome do órgão, não do prefeito).
-- **<font color="#00b0f0">M</font>oralidade**: Ética, honestidade e boa-fé. Ação deve ser legal E moral.
-- **<font color="#00b0f0">P</font>ublicidade**: Transparência dos atos (regra). Sigilo é exceção (segurança da sociedade/Estado).
-- **<font color="#00b0f0">E</font>ficiência**: (Incluído pela EC 19/98). Busca por resultados, <font color="#00b0f0">presteza, perfeição e rendimento funcional</font>.
+- **<span style="color:#00b0f0">M</span>oralidade**: Ética, honestidade e boa-fé. Ação deve ser legal E moral.
+- **<span style="color:#00b0f0">P</span>ublicidade**: Transparência dos atos (regra). Sigilo é exceção (segurança da sociedade/Estado).
+- **<span style="color:#00b0f0">E</span>ficiência**: (Incluído pela EC 19/98). Busca por resultados, <span style="color:#00b0f0">presteza, perfeição e rendimento funcional</span>.
 
 ## **2. Princípios Implícitos**
 - **Supremacia do Interesse Público**: O Estado tem prerrogativas sobre o particular (ex: **[[fisco/D CONST/3. DDIC 1#1.17 Direito de propriedade|desapropriação]]**, **[[Poder de polícia]]**).
