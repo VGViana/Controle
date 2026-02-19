@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-# **Vault Fisco: Master MOC**
+# **Master**
 
 Bem-vindo ao seu sistema jurídico interconectado para concursos da área fiscal. Este vault foi estruturado para atuar como uma **Constituição Navegável**, integrando os ramos do Direito Público e as disciplinas acessórias.
 
