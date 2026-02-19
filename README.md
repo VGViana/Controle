@@ -10,16 +10,16 @@
 ## 🗺️ Mapa de Conteúdo (Navegação Rápida)
 *Clique nos links abaixo para saltar direto para os módulos no repositório.*
 
-| ID | Disciplina | Foco Principal | Status |
-| :--- | :--- | :--- | :--- |
-| 📊 | **[00 - Painel Geral](./fisco/00%20-%20Painel%20Geral%20Fiscal)** | Dashboard & MOC Central | 🟢 Ativo |
-| ⚖️ | **[01 - D. Tributário](./fisco/01%20-%20Direito%20Tributário)** | CTN, CF e Jurisprudência | 🟡 Revisão |
+| ID  | Disciplina                                                              | Foco Principal                     | Status      |
+| :-- | :---------------------------------------------------------------------- | :--------------------------------- | :---------- |
+| 📊  | **[00 - Painel Geral](./fisco/00%20-%20Painel%20Geral%20Fiscal)**       | Dashboard & MOC Central            | 🟢 Ativo    |
+| ⚖️  | **[01 - D. Tributário](./fisco/01%20-%20Direito%20Tributário)**         | CTN, CF e Jurisprudência           | 🟡 Revisão  |
 | 🏛️ | **[02 - D. Constitucional](./fisco/02%20-%20Direito%20Constitucional)** | Organização do Estado & Tributação | ⚪ Planejado |
-| 📋 | **[03 - D. Administrativo](./fisco/03%20-%20Direito%20Administrativo)** | Licitações & Atos | ⚪ Planejado |
-| 🔢 | **[04 - Contabilidade](./fisco/04%20-%20Contabilidade%20Geral)** | Geral e Avançada (CPC) | 🟠 Em curso |
-| 🔍 | **[06 - Auditoria](./fisco/06%20-%20Auditoria)** | Normas e Testes | ⚪ Planejado |
-| 📜 | **[07 - Legislação](./fisco/07%20-%20Legislação%20Tributária)** | ICMS/ISS/IPI | ⚪ Planejado |
-| 💻 | **[10 - T.I.](./fisco/10%20-%20Tecnologia%20da%20Informação)** | Banco de Dados & Python | 🟢 Ativo |
+| 📋  | **[03 - D. Administrativo](./fisco/03%20-%20Direito%20Administrativo)** | Licitações & Atos                  | ⚪ Planejado |
+| 🔢  | **[04 - Contabilidade](./fisco/04%20-%20Contabilidade%20Geral)**        | Geral e Avançada (CPC)             | 🟠 Em curso |
+| 🔍  | **[06 - Auditoria](./fisco/06%20-%20Auditoria)**                        | Normas e Testes                    | ⚪ Planejado |
+| 📜  | **[07 - Legislação](./fisco/07%20-%20Legislação%20Tributária)**         | ICMS/ISS/IPI                       | ⚪ Planejado |
+| 💻  | **[10 - T.I.](./fisco/10%20-%20Tecnologia%20da%20Informação)**          | Banco de Dados & Python            | 🟢 Ativo    |
 
 ---
 
