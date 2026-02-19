@@ -3480,25 +3480,25 @@ Ver também: [[D TRIB]], [[1. Princípios]], [[2. Imunidades]], [[Poder Tributá
 
 * Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^95551ec
 
-	* I - exigir ou aumentar tributo sem lei que o estabeleça; ^e4ddfcf
+	* I - exigir ou aumentar tributo sem lei que o estabeleça; ([[1. Princípios|Legalidade]]) ^e4ddfcf
 
-	* II - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos; ^43dd743
+	* II - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos; ([[1. Princípios|Isonomia]]) ^43dd743
 
 	* III - cobrar tributos: ^b33d22a
 
-		* a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado; ^30defe1
+		* a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado; ([[1. Princípios|Irretroatividade]]) ^30defe1
 
-		* b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou; (Vide Emenda Constitucional n° 3, de 1993) ^876c2fe
+		* b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou; ([[1. Princípios|Anterioridade Comum]]) ^876c2fe
 
-		* c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea [[#^876c2fe|b]]; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^b248955
+		* c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea [[#^876c2fe|b]]; ([[1. Princípios|Anterioridade Nonagesimal]]) ^b248955
 
-	* IV - utilizar tributo com efeito de confisco; ^c952495
+	* IV - utilizar tributo com efeito de confisco; ([[1. Princípios|Não-Confisco]]) ^c952495
 
-	* V - estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público; ^28a73c9
+	* V - estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público; ([[1. Princípios|Liberdade de Tráfego]]) ^28a73c9
 
-	* VI - instituir impostos sobre: (Vide Emenda Constitucional n° 3, de 1993) ^96e48c4
+	* VI - instituir [[2. Imunidades|impostos]] sobre: (Vide Emenda Constitucional n° 3, de 1993) ^96e48c4
 
-		* a) patrimônio, renda ou serviços, uns dos outros; ^a0e7496
+		* a) patrimônio, renda ou serviços, uns dos outros; ([[2. Imunidades|Recíproca]]) ^a0e7496
 
 		* b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^3cbcecd
 
