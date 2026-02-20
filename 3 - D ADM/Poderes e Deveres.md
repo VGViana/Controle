@@ -212,3 +212,72 @@ Além disso, **<mark style="background:#a3be8c">o STF recentemente decidiu que a
     - **Coercibilidade**
     - **Discricionariedade**
     - **Autoexecutoriedade**
+
+## **6.5 Poderes administrativos:** 
+- **Delegação do poder de polícia:** 
+    - Para as entidades administrativas de direito público (autarquias e fundações autárquicas), em todas as suas fases;
+    - Para entidades de direito privado (empresas públicas, sociedades de economia mista e fundações públicas de direito privado):  <span style="color:#fb4934">**consentimento, fiscalização e sanção.**
+</span>
+    **🚫<span style="color:#fb4934">NÃO é possível delegar o poder de polícia a particulares!**
+</span>
+**<mark style="background:#d4b106">6.5.1 Entendimento do STF</mark>:** É constitucional a delegação do poder de polícia, **por meio de lei**, a pessoas jurídicas de **direito  privado**  **integrantes da Administração Pública indireta** de <mark style="background:#ff4d4f">**capital social majoritariamente público**</mark> que **prestem  exclusivamente serviço público** de atuação própria do Estado e em **regime não concorrencial.**
+
+- **Sanções de polícia e seus limites:**
+    - Princípio da <span style="color:#b8bb26">**legalidade**</span>;
+    - <span style="color:#b8bb26">**Devido processo lega**l</span>;
+    - Princípios da <span style="color:#b8bb26">**razoabilidade** e da **proporcionalidade**</span>;
+    - <span style="color:#b8bb26">**Prescreve em cinco anos**</span> a ação punitiva da Administração Pública federal:
+        - inicia-se da <span style="color:#b8bb26">**data** em que o **ato** foi **praticado**</span>;
+        - para a <span style="color:#b8bb26">**instauração** do **processo de apuração</span>.**
+
+**6️.5.2 <mark style="background:#d4b106">Súmula 467 - STJ</mark>:**  “Prescreve em cinco anos, **contados do término do processo administrativo,** a **pretensão** da Administração Pública **de promover a execução** da multa por infração ambiental.” 
+
+- **Taxa de polícia:**
+    - Para <span style="color:#fe8019">**custeio**</span> do exercício do poder de polícia;
+    - Basta a **<span style="color:#fe8019">existência de órgão e estrutura</span>** competente para realizar a fiscalização.  
+        
+- **Abuso de Poder:**
+    - <span style="color:#fb4934">**Excesso de poder</span>:**   
+        - **Extrapola** suas competências;
+        - **Vício** de <span style="color:#fb4934">**competência**</span>;
+        - **Sanável**, em regra.
+    - <span style="color:#d3869b">**Desvio de poder</span>:**  
+        - **Fim diverso** da lei ou do interesse público;
+        - **Vício** de <span style="color:#d3869b">**finalidade**</span>;
+        - <span style="color:#d3869b">**Insanável**</span>.
+
+# **7️. Abuso de Poder:** 
+
+_“O abuso de poder se divide em <u>duas espécies</u>:_
+
+_a) **Excesso de poder:** quando a autoridade atua extrapolando os limites da sua **competência;**_
+
+_b) **Desvio de poder (ou desvio de finalidade):** quando a autoridade pratica um ato que é de sua competência, mas o utiliza para uma **finalidade diversa** da prevista ou contrária ao interesse público.”_ _(ALEXANDRE, Ricardo; DEUS, João de. Direito Administrativo Esquematizado.1ª ed. São Paulo: Método, 2015.E-book. P.246)_ 
+
+- **Uso do Poder Administrativo**: Deve ser exercido **apenas na medida necessária** para atingir os fins públicos, sempre respeitando os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.
+    
+- **Abuso de Poder**: Ocorre quando há desvio na atuação do agente público, sendo uma **espécie de ilegalidade**. Pode se manifestar de duas formas principais:
+    
+    1. **Excesso de Poder**: Quando o agente público atua **fora dos limites** da sua competência.
+    2. **Desvio de Poder (ou de Finalidade)**: Quando o agente age **dentro da sua competência**, mas de forma **contrária à finalidade pública** estabelecida na lei.
+- **Exemplos de Excesso de Poder:**
+    
+    - Aplicação de sanção por autoridade **sem competência** para isso.
+    - Concessão de licença a um servidor por autoridade **não autorizada**.
+- **Exemplos de Desvio de Poder:**
+    
+    - Remover um servidor **com objetivo punitivo** e não por necessidade administrativa.
+    - Desapropriação de um bem **para favorecer um particular**, e não para interesse público legítimo.
+- **Manifestações do Abuso de Poder:**
+    
+    - **Por condutas comissivas (fazer)**: Ação indevida do agente público.
+    - **Por condutas omissivas (não fazer)**: Quando a autoridade se omite no dever de agir.
+- **Consequências do Abuso de Poder:**
+    
+    - O ato será considerado **arbitrário, ilícito e passível de responsabilização** civil, penal e administrativa.
+    - A vítima pode recorrer ao **direito de petição** (art. 5º, XXXIV, CF) para contestar o abuso.
+    - **Mandado de segurança** pode ser utilizado para corrigir ilegalidades praticadas por abuso de poder (art. 5º, LXIX, CF).
+
+- **FDP** tem **CEP**
+    - **F**inalidade **D**esvio de **P**oder
+    - **C**ompetência **E**xcesso de **P**oder

@@ -234,35 +234,35 @@ _§ 5º Não constitui desvio de finalidade a mera expansão ou a alteração d
 <span style="color:#d3869b">**STJ -** Se a desconsideração incidir sobre uma Sociedade Limitada, os sócios administradores respondem integralmente com o seu patrimônio pelas dívidas contraídas pela sociedade.</span>
 
   
-**STJ ->** não se pode admitir que a execução esteja limitada às quotas sociais de cada sócio. Isso seria temerário, indevido e resultaria na desestabilização do instituto da desconsideração da personalidade jurídica, até porque nos dispositivos legais sobre o tema não há qualquer restrição acerca de a execução contra os sócios ser limitada às suas respectivas quotas sociais.
+<span style="color:#d3869b">**STJ ->** não se pode admitir que a execução esteja limitada às quotas sociais de cada sócio. Isso seria temerário, indevido e resultaria na desestabilização do instituto da desconsideração da personalidade jurídica, até porque nos dispositivos legais sobre o tema não há qualquer restrição acerca de a execução contra os sócios ser limitada às suas respectivas quotas sociais.</span>
 
-**De 👀 na Jurisprudência!**
-
+<span style="color:#d3869b">**De 👀 na Jurisprudência!**
+</span>
 - **Enunciado 7 da I Jornada de Direito Civil do CJF:** “Só se aplica a desconsideração da personalidade jurídica quando houver a prática de ato irregular, e limitadamente, aos administradores ou sócios que nela hajam incorrido”.
 - **Enunciado 281 da IV Jornada de Direito Civil do CJF:** “A aplicação da teoria da desconsideração, descrita no art. 50 do Código Civil, prescinde da demonstração de insolvência da pessoa jurídica.
 - **Enunciado 282 da IV Jornada de Direito Civil do CJF:** “O encerramento irregular das atividades da pessoa jurídica, por si só, não basta para caracterizar abuso de personalidade jurídica.
 - **Enunciado 283 da IV Jornada de Direito Civil do CJF:** “É cabível a desconsideração da personalidade jurídica denominada ‘inversa’ para alcançar bens de sócio que se valeu da pessoa jurídica para ocultar ou desviar bens pessoais, com prejuízo a terceiros”.
 - **Enunciado 284 da IV Jornada de Direito Civil do CJF:** Art. 50. As pessoas jurídicas de direito privado sem fins lucrativos ou de fins não-econômicos estão abrangidas no conceito de abuso da personalidade jurídica”.
-- **STJ -** Se a desconsideração incidir sobre uma Sociedade Limitada, os sócios administradores respondem integralmente com o seu patrimônio pelas dívidas contraídas pela sociedade.
-- **STJ -** Não se pode admitir que a execução esteja limitada às quotas sociais de cada sócio. Isso seria temerário, indevido e resultaria na desestabilização do instituto da desconsideração da personalidade jurídica, até porque nos dispositivos legais sobre o tema não há qualquer restrição acerca de a execução contra os sócios ser limitada às suas respectivas quotas sociais.
+- <span style="color:#d3869b">**STJ</span> -** Se a desconsideração incidir sobre uma Sociedade Limitada, os sócios administradores respondem integralmente com o seu patrimônio pelas dívidas contraídas pela sociedade.
+- <span style="color:#d3869b">**STJ</span> -** Não se pode admitir que a execução esteja limitada às quotas sociais de cada sócio. Isso seria temerário, indevido e resultaria na desestabilização do instituto da desconsideração da personalidade jurídica, até porque nos dispositivos legais sobre o tema não há qualquer restrição acerca de a execução contra os sócios ser limitada às suas respectivas quotas sociais.
     
 
-**2. DOMICÍLIO:**
+# **<mark style="background:#d4b106">2. DOMICÍLIO</mark>:**
 
 >> Sede jurídica, onde os credores podem demandar o cumprimento das obrigações.
 
-**2.1. Classificações**
+## **2.1. Classificações**
 
-1. **Domicílio voluntário** - aquele escolhido voluntariamente pela pessoa - O domicílio da pessoa natural é o lugar onde ela estabelece a sua residência com ânimo definitivo (artigo 70, CC)
-2. **Domicílio profissional** - local onde a pessoa exerce sua profissão - É também domicílio da pessoa natural, quanto às relações concernentes à profissão, o lugar onde esta é exercida; Se a pessoa exercitar profissão em lugares diversos, cada um deles constituirá domicílio para as relações que lhe corresponderem.  (artigo 72, CC)
-3. **Domicílio necessário ou legal** - domicílio definido em lei para determinadas pessoas - Têm domicílio necessário o incapaz, o servidor público, o militar, o marítimo e o preso (artigo 76, CC) 
+1. <mark style="background:#afc7d9">**Domicílio voluntário**</mark> - aquele escolhido voluntariamente pela pessoa - O domicílio da pessoa natural é o lugar onde ela estabelece a sua residência com ânimo definitivo (artigo 70, CC)
+2. <mark style="background:#9254de">**Domicílio profissional**</mark> - local onde a pessoa exerce sua profissão - É também domicílio da pessoa natural, quanto às relações concernentes à profissão, o lugar onde esta é exercida; Se a pessoa exercitar profissão em lugares diversos, cada um deles constituirá domicílio para as relações que lhe corresponderem.  (artigo 72, CC)
+3. <mark style="background:#fff88f">**Domicílio necessário ou legal**</mark> - domicílio definido em lei para determinadas pessoas - Têm domicílio necessário o incapaz, o servidor público, o militar, o marítimo e o preso (artigo 76, CC) 
     1. Domicílio do incapaz - domicílio do seu representante ou assistente;
     2. Domicílio do servidor público - o lugar em que exercer permanentemente suas funções;
     3. Domicílio do militar - onde servir, e, sendo da Marinha ou da Aeronáutica, a sede do comando a que se encontrar imediatamente subordinado;
     4. Domicílio do marítimo, onde o navio estiver matriculado;
     5. Domicílio do preso - o lugar em que cumprir a sentença. 
 
-**2.2. Domicílio das Pessoas Jurídicas**
+## **2.2. Domicílio das Pessoas Jurídicas**
 
 **a) Direito Público: art. 75, incisos I, II e III, CC.**
 
@@ -272,9 +272,9 @@ _§ 5º Não constitui desvio de finalidade a mera expansão ou a alteração d
 
 **b) Demais Pessoas Jurídicas (art. 75, IV, CC)**
 
-- **Regra:** o lugar onde elegerem domicílio especial nos seus estatutos ou atos constitutivos.
-- Na omissão, o local onde funcionam as respectivas diretorias e administrações. Ou seja: domicílio da pessoa jurídica de direito privado é a sua sede**, indicada em seu estatuto, contrato social ou ato constitutivo equivalente,** se não houver essa fixação, **a lei atua supletivamente,** ao considerar como seu domicílio _“o lugar onde funcionarem as respectivas diretorias e administrações”,_ ou, então, se possuir filiais em diversos lugares, “cada um deles será considerado domicílio para os atos nele praticados” (art. 75, IV e parágrafo 1º. do CC).
-- **Súmula 363 STF** - A pessoa jurídica de direito privado pode ser demandada no domicílio da agência, ou estabelecimento, em que se praticou o ato.
+- <span style="color:#b8bb26">**Regra</span>:** o lugar onde elegerem domicílio especial nos seus estatutos ou atos constitutivos.
+- Na omissão, o local onde funcionam as respectivas diretorias e administrações. Ou seja: domicílio da pessoa jurídica de direito privado é a sua sede**, indicada em seu estatuto, contrato social ou ato constitutivo equivalente,** se <span style="color:#fb4934">não houver essa fixação, **a lei atua supletivamente</span>,** ao considerar como seu domicílio _“o lugar onde funcionarem as respectivas diretorias e administrações”,_ ou, então, se possuir filiais em diversos lugares, “cada um deles será considerado domicílio para os atos nele praticados” (art. 75, IV e parágrafo 1º. do CC).
+- <span style="color:#fb4934">**Súmula 363 STF**</span> - A pessoa jurídica de direito privado pode ser demandada no domicílio da agência, ou estabelecimento, em que se praticou o ato.
 
 **c) Pluralidade de estabelecimentos:**
 

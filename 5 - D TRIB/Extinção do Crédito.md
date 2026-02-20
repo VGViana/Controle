@@ -173,3 +173,132 @@ Súmula STJ 653 - O pedido de <span style="color:#fb4934">**parcelamento fiscal*
 - 🚨 O **parcelamento de ofício**, realizado pela Administração, **NÃO** interromperá a prescrição!
 
 Súmula STJ 314 - Em execução fiscal, <mark style="background:#fff88f">não localizados bens penhoráveis, suspende-se o processo por um ano</mark>, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.
+
+## **<span style="color:#83a598"><u>1.6. Prescrição</u></span>**
+
+⚠️ Assunto de extrema importância!
+
+<span style="color:#fb4934">**<mark style="background:#d4b106">Perda do direito de AÇÃO</mark></span>.**
+
+- Impossibilita que a Administração Tributária <u>cobre o valor do tributo judicialmente</u>;
+- **PRAZO PARA QUE O FISCO REALIZE A COBRANÇA DO TRIBUTO;  
+    **
+- Lei complementar;
+- Pode ocorrer **de <span style="color:#83a598">OFÍCIO**</span> pelo juiz.  
+    
+
+Súmula STJ 622 - A notificação do auto de infração faz cessar a contagem da decadência para a constituição do crédito tributário; exaurida a instância administrativa com o decurso do prazo para a impugnação ou com a notificação de seu julgamento definitivo e esgotado o prazo concedido pela Administração para o pagamento voluntário, **inicia-se o prazo prescricional para a cobrança judicial.**  
+  
+<mark style="background:#d4b106">**Regra Geral**</mark>: <font color="#953734">**5 anos a partir data de constituição definitiva do crédito tributário.**</font>
+
+<mark style="background:#d4b106">**Exceções</mark>:** **Tributos lançados por HOMOLOGAÇÃO.**
+
+- <span style="color:#fb4934">**5 anos contados da:**
+    - **<mark style="background:#d4b106">Data do vencimento</mark>** **da obrigação tributária;**
+    - **Da data da** **<mark style="background:#d4b106">entrega da declaração</mark>, quando ocorrer posteriormente ao vencimento.**</span>
+
+⚠️ **Muita atenção:**
+
+- <span style="color:#b8bb26">**Interrupção do prazo prescricional**</span> - **DECORE TODAS AS HIPÓTESES!**  
+    
+
+_Art. 174, CTN._
+
+_Parágrafo único._ <mark style="background:#d4b106">**_A prescrição se interrompe</mark>:_**
+
+_I – pelo_ <span style="color:#fe8019">_despacho do juiz_</span> _que ordenar a citação em execução fiscal;_
+
+_II - pelo protesto <span style="color:#fe8019">judicial</span> ou <span style="color:#fe8019">extrajudicial</span>;_ 
+
+_III - por qualquer ato judicial que constitua em mora o devedor;_
+
+_IV - por qualquer ato inequívoco_ <span style="color:#fe8019">_ainda que extrajudicial</span>_, que importe em reconhecimento do débito pelo devedor.
+
+  
+🚨 A interrupção da prescrição "devolve" o prazo prescricional de 5 anos, este será reiniciado.
+
+⚠️ Não caia em pegadinhas: o momento da interrupção ocorrerá no momento do DESPACHO do juiz. As bancas tendem a trocar pela data da citação, assim, te levando ao erro. Não caia nessa!
+
+**⚠️ Protesto judicial ou extrajudicial** - todos os atos que constituem o devedor em mora (notificações, intimações...).
+
+**⚠️ Atenção!** O protesto será <u>judicial ou extrajudicial!</u>
+
+**⚠️ Atenção!** Interromperá a prescrição qualquer ATO do devedor que <u>reconheça a sua dívida</u>, até atos **extrajudiciais**!
+
+Súmula STJ 653 - O pedido de <span style="color:#fb4934">**parcelamento fiscal**</span>, ainda que indeferido, <span style="color:#fb4934">**interrompe o prazo prescricional</span>,** pois caracteriza confissão extrajudicial do débito.
+
+- 🚨 O **parcelamento de ofício**, realizado pela Administração, **NÃO** interromperá a prescrição!
+
+⚠️ **Muita atenção:**
+
+- <span style="color:#b8bb26">**Suspensão do prazo prescricional**</span>
+
+🚨 A suspensão da prescrição paralisa o prazo prescricional de 5 anos, este será continuado pelo **tempo restante** ao encerrar o motivo da suspensão.
+
+**🚨 DECORE:** caso haja <mark style="background:#d4b106">**<u>suspensão da exigibilidade do crédito tributário</u>**, também, haverá suspensão do prazo prescricional.</mark>  
+
+**⚠️ Decore o seguinte inciso:**
+
+_Art. 2º, § 3º, da Lei 6.830/1980 (LEF) - A inscrição, que se constitui no ato de controle administrativo da legalidade, será feita pelo órgão competente para apurar a liquidez e certeza do crédito e_ <span style="color:#fe8019">_suspenderá a prescrição</span>,_ _para todos os efeitos de direito, <span style="color:#fe8019">por 180 dias</span>__, ou_ **_até a distribuição da execução fiscal,_** _se esta ocorrer antes de findo aquele prazo._
+
+- <mark style="background:#d4b106">Segundo a literalidade da LEF:</mark> Inscrição do crédito tributário em dívida ativa - suspende a prescrição pelo <span style="color:#fb4934">**prazo de 180 dias ou até a distribuição da ação fiscal.**</span>  
+    
+- Segundo a jurisprudência do STJ: A suspensão do lapso prescricional de 180 (cento e oitenta) dias prevista no art. 2º, § 3º, da Lei 6.830 <span style="color:#fb4934">**somente é aplicável às dívidas de natureza não tributária.** </span>
+
+  
+**⚠️ Atenção** - <span style="color:#fb4934">**Prescrição Intercorrente**</span>
+
+_Art. 40 da Lei 6.830/1980 (LEF) - O Juiz suspenderá o curso da execução,_ <u>**_enquanto não for localizado o devedor ou encontrados bens sobre os quais possa recair a penhora</u>_**_, e, nesses casos,_ **<span style="color:#d3869b">_não correrá o prazo de prescrição.</span>_**
+
+_§ 2º - Decorrido o_ <span style="color:#d3869b">**_prazo máximo de 1 (um) ano</span>_**_, sem que seja localizado o devedor ou encontrados bens penhoráveis, o Juiz_ **_ordenará o arquivamento dos autos._**
+
+Súmula STJ 314 - Em execução fiscal, <mark style="background:#d4b106">não localizados bens penhoráveis, suspende-se o processo por um ano</mark>, findo o qual se <u>inicia o prazo da prescrição quinquenal intercorrente</u>.
+
+## **<span style="color:#83a598">1.7. Prazo decadencial e prescricional das contribuições para Seguridade Social</span>**
+
+Súmula Vinculante 8 - São <span style="color:#fb4934">**inconstitucionais**</span> o parágrafo único do artigo 5º do Decreto-Lei nº 1.569/1977 e os artigos 45 e 46 da Lei nº 8.212/1991, que tratam da prescrição e decadência do crédito tributário (10+10).
+
+## **<span style="color:#83a598">1.8. Consignação em pagamento</span>**
+
+- Ocorre quando o contribuinte é <span style="color:#fe8019">impedido de pagar o tributo</span>, de forma que ele recorrerá ao <span style="color:#fe8019">Poder Judiciário</span> para que possa fazer o depósito do valor e, assim, impedir a fluência de juros e multas até que a ação seja resolvida;
+- O sujeito passivo irá realizar o depósito **do <mark style="background:#d4b106">valor que entender devido</mark>;**
+- Valor consignado judicialmente - será convertido em renda;
+- Se for julgada improcedente - o contribuinte deverá pagar a diferença, assim como os juros e penalidades;
+- A extinção do crédito tributário não é realizada pela consignação em si, mas sim quando a consignação for julgada **PROCEDENTE.**
+
+⚠️ **Decore** os casos em pode haver consignação! 👇
+
+_Art. 164, CTN. A importância de crédito tributário pode ser consignada judicialmente pelo sujeito passivo, nos casos:_
+
+_I - de recusa de recebimento, ou subordinação deste ao pagamento de outro tributo ou de penalidade, ou ao cumprimento de obrigação acessória;_
+
+_II - de subordinação do recebimento ao cumprimento de exigências administrativas sem fundamento legal;_
+
+_III - de exigência, por mais de uma pessoa jurídica de direito público, de tributo idêntico sobre um mesmo fato gerador._
+
+_§ 1º A consignação só pode versar sobre o crédito que o consignante se propõe pagar._
+
+_§ 2º Julgada procedente a consignação, o pagamento se reputa efetuado e a importância consignada é convertida em renda; julgada improcedente a consignação no todo ou em parte, cobra-se o crédito acrescido de juros de mora, sem prejuízo das penalidades cabíveis._
+
+## **<span style="color:#83a598">1.9. Pagamento antecipado e a posterior homologação</span>**
+
+- Crédito não é extinto com o pagamento antecipado;
+- Extinção do crédito ocorre **apenas** com a homologação!
+
+## **<span style="color:#83a598">1.10. Conversão do depósito em renda</span>**
+
+- O valor do depósito do montante total, que é exigido pela Administração Tributária, é transformado em renda por causa de sentença favorável ao pleito do contribuinte.
+
+## **<span style="color:#83a598">1.11. Decisão administrativa final</span>**
+
+- **Favorável** ao sujeito passivo - extinto o crédito tributário;
+- **Desfavorável** ao sujeito passivo - ou irá pagar o valor do crédito, ou poderá interpor ação judicial.
+
+## **<span style="color:#83a598">1.12. Decisão judicial transitada em julgado</span>**
+
+- **Favorável** ao sujeito passivo - extinto o crédito tributário;
+- **Desfavorável** ao sujeito passivo - **deverá** pagar o valor do crédito.
+
+## **<span style="color:#83a598">1.13. Dação em pagamento em bens imóveis</span>**
+
+- Deve haver lei específica.
