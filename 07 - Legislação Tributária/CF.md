@@ -3307,7 +3307,7 @@ Ver também: [01 - Direito Tributário](01 - Direito Tributário.md), [1. Princ�
 
 ## 6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162)
 [Resumo](NavegaLei/Constituição Federal de 1988 (CF1988.md)/MOC/6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162.md).md)
-Ver também: [Direito Tributário](01 - Direito Tributário (MOC.md).md), [Conexões de Direito Público](Conexões de Direito Público.md), [Poder Tributário](Poder Tributário.md)
+Ver também: [Direito Tributário](01 - Direito Tributário (MOC).md, [Conexões de Direito Público](Conexões de Direito Público.md), [Poder Tributário](Poder Tributário.md)
 
 ### 6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C)
 [Resumo](NavegaLei/Constituição Federal de 1988 (CF1988.md)/MOC/6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C.md).md)

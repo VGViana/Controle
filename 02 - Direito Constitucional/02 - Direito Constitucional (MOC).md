@@ -30,8 +30,8 @@ Este MOC organiza os temas estruturantes do Direito Constitucional, servindo com
 ## 4. Pontes Interdisciplinares
 - [Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md): Relação entre Direito Constitucional, Administrativo e Tributário.
 - [Pacto Federativo e Tributação](../99%20-%20Conceitos%20Gerais/Pacto%20Federativo%20e%20Tributação.md): Interface entre federalismo e competência tributária.
-- [01 - Direito Tributário](../01%20-%20Direito%20Tributário/01%20-%20Direito%20Tributário%20(MOC.md).md): Interface com o Sistema Tributário Nacional.
-- [03 - Direito Administrativo](../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC.md).md): Interface com a Organização Administrativa.
+- [01 - Direito Tributário](../01%20-%20Direito%20Tributário/01%20-%20Direito%20Tributário%20(MOC).md: Interface com o Sistema Tributário Nacional.
+- [03 - Direito Administrativo](../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC).md: Interface com a Organização Administrativa.
 
 ---
 Atenção: Priorize o entendimento do Art. 1º ao 5º da CF/88, base para as competências fiscais.

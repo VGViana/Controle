@@ -19,8 +19,8 @@ Este MOC organiza os temas estruturantes da Contabilidade, focando na legislaç�
 - [7. Reservas e Dividendos](./7.%20Reservas%20e%20Dividendos.md): Reservas de Lucros, Capital e distribuição de dividendos.
 
 ## 4. Pontes Interdisciplinares
-- [06 - Auditoria](../06%20-%20Auditoria/06%20-%20Auditoria%20(MOC.md).md): Auditoria das Demonstrações Financeiras.
-- [01 - Direito Tributário](../01%20-%20Direito%20Tributário/01%20-%20Direito%20Tributário%20(MOC.md).md): Contabilidade Tributária e ajustes fiscais (LALUR.md).
+- [06 - Auditoria](../06%20-%20Auditoria/06%20-%20Auditoria%20(MOC).md: Auditoria das Demonstrações Financeiras.
+- [01 - Direito Tributário](../01%20-%20Direito%20Tributário/01%20-%20Direito%20Tributário%20(MOC).md: Contabilidade Tributária e ajustes fiscais (LALUR.md).
 - [Regime de Competência](../99%20-%20Conceitos%20Gerais/Regime%20de%20Competência.md): Base para o lançamento por homologação.
 
 ---

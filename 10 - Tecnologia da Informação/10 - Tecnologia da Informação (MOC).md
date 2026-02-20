@@ -21,8 +21,8 @@ Este MOC organiza os temas de TI aplicados ao Fisco.
 - OLAP vs. OLTP.
 
 ## 4. Pontes Interdisciplinares
-- [06 - Auditoria](../06%20-%20Auditoria/06%20-%20Auditoria%20(MOC.md).md): Auditoria em sistemas e cruzamento de dados.
-- [03 - Direito Administrativo](../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC.md).md): LAI e Transparência.
+- [06 - Auditoria](../06%20-%20Auditoria/06%20-%20Auditoria%20(MOC).md: Auditoria em sistemas e cruzamento de dados.
+- [03 - Direito Administrativo](../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC).md: LAI e Transparência.
 
 ---
 > [!info] Foco Fiscal

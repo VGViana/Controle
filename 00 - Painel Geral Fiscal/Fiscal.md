@@ -31,23 +31,23 @@ tags: [dashboard, fiscal, master, ultimate]
 ## Módulos
 
 ### Jurídico
-- [Direito Tributário](01 - Direito Tributário (MOC.md).md)
-- [Direito Constitucional](02 - Direito Constitucional (MOC.md).md)
-- [Direito Administrativo](03 - Direito Administrativo (MOC.md).md)
-- [Legislação Tributária](07 - Legislação Tributária (MOC.md).md)
-- [Direito Civil](11 - Direito Civil (MOC.md).md)
-- [Direito Empresarial](12 - Direito Empresarial (MOC.md).md)
+- [Direito Tributário](01 - Direito Tributário (MOC).md
+- [Direito Constitucional](02 - Direito Constitucional (MOC).md
+- [Direito Administrativo](03 - Direito Administrativo (MOC).md
+- [Legislação Tributária](07 - Legislação Tributária (MOC).md
+- [Direito Civil](11 - Direito Civil (MOC).md
+- [Direito Empresarial](12 - Direito Empresarial (MOC).md
 
 ### Exatas e Contábeis
-- [Contabilidade Geral](04 - Contabilidade Geral (MOC.md).md)
-- [Contabilidade Avançada](05 - Contabilidade Avançada (MOC.md).md)
-- [Auditoria](06 - Auditoria (MOC.md).md)
-- [Raciocínio Lógico](09 - Raciocínio Lógico (MOC.md).md)
+- [Contabilidade Geral](04 - Contabilidade Geral (MOC).md
+- [Contabilidade Avançada](05 - Contabilidade Avançada (MOC).md
+- [Auditoria](06 - Auditoria (MOC).md
+- [Raciocínio Lógico](09 - Raciocínio Lógico (MOC).md
 
 ### Suporte
-- [Tecnologia da Informação](10 - Tecnologia da Informação (MOC.md).md)
-- [Português](08 - Português (MOC.md).md)
-- [Conceitos Gerais](99 - Conceitos Gerais (MOC.md).md)
+- [Tecnologia da Informação](10 - Tecnologia da Informação (MOC).md
+- [Português](08 - Português (MOC).md
+- [Conceitos Gerais](99 - Conceitos Gerais (MOC).md
 
 ---
 

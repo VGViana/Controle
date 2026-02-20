@@ -22,7 +22,7 @@ Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN).
 - [LALUR e Lucro Real](../99%20-%20Conceitos%20Gerais/LALUR%20e%20Lucro%20Real.md): Conexão com Contabilidade.
 - [SPED e Tecnologia Fiscal](../99%20-%20Conceitos%20Gerais/SPED%20-%20Sistema%20Público%20de%20Escrituração%20Digital.md): Conexão com TI.
 - [Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md): Tributário, Administrativo e Constitucional.
-- [D. Constitucional](../02%20-%20Direito%20Constitucional/02%20-%20Direito%20Constitucional%20(MOC.md).md): Fundamento de validade do STN.
+- [D. Constitucional](../02%20-%20Direito%20Constitucional/02%20-%20Direito%20Constitucional%20(MOC).md: Fundamento de validade do STN.
 
 ---
 > [!info] Estratégia

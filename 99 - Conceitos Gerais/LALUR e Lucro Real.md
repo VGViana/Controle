@@ -1,6 +1,6 @@
 # **LALUR e Lucro Real: A Ponte Fiscal-Contábil**
 
-Esta é a nota-chave para entender a integração entre **[Contabilidade](04 - Contabilidade Geral (MOC.md).md)** e **[Legislação Tributária](07 - Legislação Tributária (MOC.md).md)**. FGV e Cebraspe adoram cobrar o ajuste, não apenas o cálculo.
+Esta é a nota-chave para entender a integração entre **[Contabilidade](04 - Contabilidade Geral (MOC).md** e **[Legislação Tributária](07 - Legislação Tributária (MOC).md**. FGV e Cebraspe adoram cobrar o ajuste, não apenas o cálculo.
 
 ---
 
@@ -51,4 +51,4 @@ graph TD
     CPC32[CPC 32 - IR Diferido] -.-> LALUR
 ```
 
-Ver também: [Demonstrações Contábeis](Demonstrações Contábeis.md), [Regime de Competência](Regime de Competência.md), [05 - Contabilidade Avançada (MOC.md)](05 - Contabilidade Avançada (MOC.md).md)
+Ver também: [Demonstrações Contábeis](Demonstrações Contábeis.md), [Regime de Competência](Regime de Competência.md), [05 - Contabilidade Avançada (MOC.md)](05 - Contabilidade Avançada (MOC).md
