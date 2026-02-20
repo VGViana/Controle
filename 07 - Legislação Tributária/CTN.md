@@ -8,10 +8,10 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 > [!abstract] Informações Gerais
 > **Fonte:** Lei nº 5.172/1966  
-> **Natureza:** Norma geral de direito tributário ([[CF#^art146|CF/88, art. 146]].md)  
-> **MOC Pai:** [[01 - Direito Tributário (MOC|Direito Tributário]].md  
+> **Natureza:** Norma geral de direito tributário ([[CF#^art146|CF/88, art. 146]]  
+> **MOC Pai:** [[01 - Direito Tributário (MOC)|Direito Tributário]].md  
 > **Conexões:** [[Conexões de Direito Público|Conexões de Direito Público]], [[Poder Tributário|Poder Tributário]]
-> **Jurisprudência:** [[Jurisprudência Fiscal (STF e STJ|Jurisprudência Fiscal (STF e STJ.md)]].md) (O CTN é antigo, cuidado com artigos não recepcionados.md).
+> **Jurisprudência:** [[Jurisprudência Fiscal (STF e STJ|Jurisprudência Fiscal (STF e STJ.md)]] (O CTN é antigo, cuidado com artigos não recepcionados.md).
 
 > [!danger] ☢️ Radar de Bancas (Mapa de Calor)
 > **FGV/Cebraspe:** Amam **[[CTN#^ctn113|Art. 113]]** (Obrigação Principal x Acessória.md), **[[CTN#^ctn121|Art. 121]]** (Sujeito Passivo.md) e **[[CTN#^ctn135|Art. 135]]** (Responsabilidade de Sócios.md).

@@ -8,7 +8,7 @@ O exercício do **[[5. Poderes e Deveres#**6. Poder de polícia:|Poder de Políc
 - **Conexão:** A taxa de polícia exige o exercício efetivo ou potencial do poder fiscalizatório.
 
 ## **2. Princípio da Legalidade**
-A **[[Princípios da Administração Pública#Expressos (Art. 37, CF|Legalidade Administrativa]].md)** (Art. 37, CF.md) reflete-se no **[[1. Princípios#1.1 Princípio da legalidade|Princípio da Legalidade Tributária]]** (Art. 150, I, CF.md).
+A **[[Princípios da Administração Pública#Expressos (Art. 37, CF|Legalidade Administrativa]]** (Art. 37, CF.md) reflete-se no **[[1. Princípios#1.1 Princípio da legalidade|Princípio da Legalidade Tributária]]** (Art. 150, I, CF.md).
 - **Tributário:** Exige lei em sentido estrito para criar ou aumentar tributos.
 - **Administrativo:** O administrador só pode fazer o que a lei autoriza.
 - **Exceções:** Atenção às exceções de legalidade em Tributário (II, IE, IPI, IOF.md) que permitem alteração de alíquotas por ato do Executivo (decretos.md), o que se conecta ao **[[5. Poderes e Deveres#5. Poder regulamentar ou normativo:|Poder Regulamentar]]**.
@@ -24,7 +24,7 @@ As normas tributárias estão sujeitas ao **Controle de Constitucionalidade**.
 - **Conexão:** Normas que violam as **Limitações ao Poder de Tributar** são materialmente inconstitucionais.
 
 ## **5. Direitos Fundamentais e o Contribuinte**
-O Art. 150 da CF/88 traz as "Garantias Fundamentais do Contribuinte", que são desdobramentos dos **[[0. Conceito, Poder Constituinte e Princípios Fundamentais#3. Elementos das Constituições (segundo José Afonso da Silva|Direitos Fundamentais]].md)** (Elementos Limitativos.md).
+O Art. 150 da CF/88 traz as "Garantias Fundamentais do Contribuinte", que são desdobramentos dos **[[0. Conceito, Poder Constituinte e Princípios Fundamentais#3. Elementos das Constituições (segundo José Afonso da Silva|Direitos Fundamentais]]** (Elementos Limitativos.md).
 - **Irretroatividade:** Proteção da segurança jurídica e do ato jurídico perfeito.
 - **Capacidade Contributiva:** Desdobramento do Princípio da Igualdade (Isonomia).
 

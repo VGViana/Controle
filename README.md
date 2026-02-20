@@ -6,11 +6,11 @@ Sistema de estudos para Area Fiscal (SEFAZ/RFB/ISS). Foco em bancas de alto nive
 
 ## Indice de Conteudo
 - [[00 - Painel Geral Fiscal/Fiscal|Area Fiscal (Painel)]]
-- [[01 - Direito Tributário/01 - Direito Tributário (MOC|Direito Tributario]].md)
-- [[02 - Direito Constitucional/02 - Direito Constitucional (MOC|Direito Constitucional]].md)
-- [[03 - Direito Administrativo/03 - Direito Administrativo (MOC|Direito Administrativo]].md)
-- [[04 - Contabilidade Geral/04 - Contabilidade Geral (MOC|Contabilidade Geral]].md)
-- [[10 - Tecnologia da Informação/10 - Tecnologia da Informação (MOC|Tecnologia da Informacao]].md)
+- [[01 - Direito Tributário/01 - Direito Tributário (MOC)|Direito Tributario]]
+- [[02 - Direito Constitucional/02 - Direito Constitucional (MOC)|Direito Constitucional]]
+- [[03 - Direito Administrativo/03 - Direito Administrativo (MOC)|Direito Administrativo]]
+- [[04 - Contabilidade Geral/04 - Contabilidade Geral (MOC)|Contabilidade Geral]]
+- [[10 - Tecnologia da Informação/10 - Tecnologia da Informação (MOC)|Tecnologia da Informacao]]
 
 ---
 

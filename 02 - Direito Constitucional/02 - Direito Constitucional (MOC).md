@@ -29,8 +29,8 @@ Navegacao estruturada dos temas da CF/88.
 ## 4. Conexoes Interdisciplinares
 - [[../99 - Conceitos Gerais/Conexões de Direito Público|Conexoes de Direito Publico]]: Relacao com Tributario e Administrativo.
 - [[../99 - Conceitos Gerais/Pacto Federativo e Tributação|Pacto Federativo e Tributacao]]: Competencias fiscais.
-- [[../01 - Direito Tributário/01 - Direito Tributário (MOC|Direito Tributario]].md): Interface STN.
-- [[../03 - Direito Administrativo/03 - Direito Administrativo (MOC|Direito Administrativo]].md): Organizacao Administrativa.
+- [[../01 - Direito Tributário/01 - Direito Tributário (MOC)|Direito Tributario]]: Interface STN.
+- [[../03 - Direito Administrativo/03 - Direito Administrativo (MOC)|Direito Administrativo]]: Organizacao Administrativa.
 
 ---
 > [!info] Foco

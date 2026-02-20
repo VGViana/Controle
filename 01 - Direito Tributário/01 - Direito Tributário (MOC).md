@@ -18,10 +18,10 @@ Sumario estruturado do Sistema Tributario Nacional (STN).
 - [[./10. Exclusão do Crédito Tributário|Exclusao]]: Isencao e Anistia.
 
 ## 3. Conexoes Interdisciplinares
-- [[../99 - Conceitos Gerais/Jurisprudência Fiscal (STF e STJ|Jurisprudencia Fiscal]].md): Sumulas e Teses.
+- [[../99 - Conceitos Gerais/Jurisprudência Fiscal (STF e STJ|Jurisprudencia Fiscal]]: Sumulas e Teses.
 - [[../99 - Conceitos Gerais/LALUR e Lucro Real|LALUR e Lucro Real]]: Conexao com Contabilidade.
 - [[../99 - Conceitos Gerais/SPED - Sistema Público de Escrituração Digital|SPED e Tecnologia Fiscal]]: Conexao com TI.
-- [[../02 - Direito Constitucional/02 - Direito Constitucional (MOC|Direito Constitucional]].md): Fundamento de validade do STN.
+- [[../02 - Direito Constitucional/02 - Direito Constitucional (MOC)|Direito Constitucional]]: Fundamento de validade do STN.
 
 ---
 > [!info] Foco

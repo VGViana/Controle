@@ -38,4 +38,4 @@ Como o Fisco te pega usando o SPED:
 - **XML:** Formato padrão de intercâmbio de dados.
 - **Web Services:** Comunicação máquina-a-máquina para autorização de notas em tempo real.
 
-Ver também: [[10 - Tecnologia da Informação (MOC|10 - Tecnologia da Informação (MOC.md)]].md, [[Lançamento Tributário|Lançamento Tributário]], [[Poder de polícia|Poder de polícia]]
+Ver também: [[10 - Tecnologia da Informação (MOC)|10 - Tecnologia da Informação (MOC.md)]].md, [[Lançamento Tributário|Lançamento Tributário]], [[Poder de polícia|Poder de polícia]]

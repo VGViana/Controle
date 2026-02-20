@@ -15,8 +15,8 @@ Este MOC organiza os temas de Auditoria, com foco em Auditoria Governamental e I
 - [[../99%20-%20Conceitos%20Gerais/Auditoria%20Governamental|Auditoria Governamental]]: Ferramenta de controle da gestão pública.
 
 ## 3. Conexões Estratégicas
-- [[../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC|03 - Direito Administrativo]].md: Controle da Administração Pública (Externo e Interno.md).
-- [[../04%20-%20Contabilidade%20Geral/04%20-%20Contabilidade%20Geral%20(MOC|04 - Contabilidade Geral]].md: Auditoria das Demonstrações Contábeis.
+- [[../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC)|03 - Direito Administrativo]].md: Controle da Administração Pública (Externo e Interno.md).
+- [[../04%20-%20Contabilidade%20Geral/04%20-%20Contabilidade%20Geral%20(MOC)|04 - Contabilidade Geral]].md: Auditoria das Demonstrações Contábeis.
 - [[../99%20-%20Conceitos%20Gerais/Controle%20da%20Administração%20Pública|Controle da Administração Pública]]: Base normativa para a Auditoria Fiscal.
 
 ---

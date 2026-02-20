@@ -12,15 +12,15 @@ Navegacao tecnica das Normas Internacionais (IFRS/CPC).
 ## 2. Demonstracoes Contabeis (DCs)
 - [[./5. Balanço Patrimonial|Balanco Patrimonial]]: Estrutura e grupos de contas.
 - [[./6.Demonstração do Resultado do Exercício|Demonstracao do Resultado do Exercito]]: Apuracao do lucro/prejuizo.
-- [[./8. Demonstração de lucros ou prejuízos acumulados (DLPA|Demonstracao de lucros ou prejuizos acumulados (DLPA)]].md): Destinacao do resultado.
-- [[./9. Demonstração das Mutações do Patrimônio Líquido (DMPL|Demonstracao das Mutacoes do Patrimonio Liquido (DMPL)]].md): Evolucao do PL.
+- [[./8. Demonstração de lucros ou prejuízos acumulados (DLPA|Demonstracao de lucros ou prejuizos acumulados (DLPA)]]: Destinacao do resultado.
+- [[./9. Demonstração das Mutações do Patrimônio Líquido (DMPL|Demonstracao das Mutacoes do Patrimonio Liquido (DMPL)]]: Evolucao do PL.
 
 ## 3. Patrimonio Liquido e Reservas
 - [[./7. Reservas e Dividendos|Reservas e Dividendos]]: Reservas de Lucros, Capital e distribuicao de dividendos.
 
 ## 4. Conexoes Interdisciplinares
-- [[../06 - Auditoria/06 - Auditoria (MOC|Auditoria]].md): Auditoria das DCs.
-- [[../01 - Direito Tributário/01 - Direito Tributário (MOC|Direito Tributario]].md): Ajustes fiscais (LALUR).
+- [[../06 - Auditoria/06 - Auditoria (MOC)|Auditoria]]: Auditoria das DCs.
+- [[../01 - Direito Tributário/01 - Direito Tributário (MOC)|Direito Tributario]]: Ajustes fiscais (LALUR).
 - [[../99 - Conceitos Gerais/Regime de Competência|Regime de Competencia]]: Base para lancamento por homologacao.
 
 ---

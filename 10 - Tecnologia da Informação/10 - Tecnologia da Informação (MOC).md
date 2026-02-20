@@ -21,8 +21,8 @@ Sumario estruturado de TI aplicada a Auditoria Fiscal.
     - OLAP vs. OLTP.
 
 ## 4. Conexoes Interdisciplinares
-- [[../06 - Auditoria/06 - Auditoria (MOC|Auditoria]].md): Auditoria em sistemas e cruzamento de dados.
-- [[../03 - Direito Administrativo/03 - Direito Administrativo (MOC|Direito Administrativo]].md): LAI e Transparencia.
+- [[../06 - Auditoria/06 - Auditoria (MOC)|Auditoria]]: Auditoria em sistemas e cruzamento de dados.
+- [[../03 - Direito Administrativo/03 - Direito Administrativo (MOC)|Direito Administrativo]]: LAI e Transparencia.
 - [[../99 - Conceitos Gerais/Auditoria Governamental|Auditoria Governamental]]: Big Data na fiscalizacao tributaria.
 
 ---

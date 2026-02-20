@@ -6,13 +6,9 @@ Data:: 22/12/2025 12:48:24
 > [!danger] ☢️ Radar de Bancas (Mapa de Calor)
 > **FGV/Cebraspe:** Foco total em **[[CF#^30f4637|Art. 5º]]** (Direitos Individuais.md), **[[CF#^38a499e|Art. 146]]** (Lei Complementar.md), **[[CF#^197f612|Art. 150]]** (Limitações - Princípios e Imunidades.md) e **[[CF#^1a749c5|Art. 156-A]]** (Reforma Tributária.md).
 > **FCC/Vunesp:** Decoreba de **Competências Privativas (Art. 22)** e **Repartição de Receitas (Art. 157-162)**.
-> **Jurisprudência:** Veja [[Jurisprudência Fiscal (STF e STJ|Jurisprudência Fiscal (STF e STJ.md)]].md) para Súmulas Vinculantes que derrubam a literalidade.
+> **Jurisprudência:** Veja [[Jurisprudência Fiscal (STF e STJ|Jurisprudência Fiscal (STF e STJ.md)]] para Súmulas Vinculantes que derrubam a literalidade.
 
-<table border="0" cellpadding="0" cellspacing="0" width="70%"> <tr> <td width="14%"> <p align="center"> <img alt="Brastra.gif (4376 bytes)" height="82" src="https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif" width="74"/></img> </p> </td> <td width="86%"> <p align="center"> <font color="808000" face="Arial"> <strong> <big> <big> Presidência da República</big></big><br/></br> <big> Casa Civil<br/></br> </big> Subchefia para Assuntos Jurídicos</strong></span></p> </td> </tr> </table>
 
-CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%"> <tr> <td align="center" width="20%"> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc91.htm"> Vide Emenda Constitucional n° 91, de 2016</a></span></p> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"><a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc106.htm">Vide Emenda Constitucional n° 106, de 2020</a></span></p> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"><a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc107.htm">Vide Emenda Constitucional n° 107, de 2020</a></span></p> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htmart3">(Vide Emenda Constitucional n° 132, de 2023)</a> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htmart23">Vigência</a></span></p> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htmart4">(Vide Emenda Constitucional n° 132, de 2023)</a> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htmart23">Vigência</a></span></p> </td> <td align="center" width="26%"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/quadro_emc.htm"> Emendas Constitucionais</a></span></td> <td align="center" width="54%"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/quadro_ecr.htm"> Emendas Constitucionais de Revisão</a></span></td> </tr> <tr> <td colspan="3" width="100%"> <p align="center" style="margin-top: 20px; margin-bottom:20px"> <font face="Arial" size="2"> <a href="tmp.htmladct"> Ato das Disposições Constitucionais Transitórias</a></span></p> <p align="center" style="margin-top: 9px"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/quadro_DEC.htm"> Atos decorrentes do disposto no § 3° do art. 5°</a></span></p> <p align="center"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/indicetematico44.doc"> <font face="Arial" size="2"> ÍNDICE TEMÁTICO</span></a></p> </td> </tr> </table>
 
 Texto compilado
 
@@ -3307,7 +3303,7 @@ Ver também: [[01 - Direito Tributário|01 - Direito Tributário]], [[1. Princí
 
 ## 6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162)
 [[NavegaLei/Constituição Federal de 1988 (CF1988|Resumo]]/MOC/6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162.md).md)
-Ver também: [[01 - Direito Tributário (MOC|Direito Tributário]].md, [[Conexões de Direito Público|Conexões de Direito Público]], [[Poder Tributário|Poder Tributário]]
+Ver também: [[01 - Direito Tributário (MOC)|Direito Tributário]].md, [[Conexões de Direito Público|Conexões de Direito Público]], [[Poder Tributário|Poder Tributário]]
 
 ### 6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C)
 [[NavegaLei/Constituição Federal de 1988 (CF1988|Resumo]]/MOC/6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C.md).md)
@@ -3430,33 +3426,33 @@ Ver: [[01 - Direito Tributário/1. Princípios|Princípios Tributários]], [[CTN
 
 * Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^95551ec
 
-	* I - exigir ou aumentar tributo sem lei que o estabeleça; ([[1. Princípios|Legalidade]].md) ^e4ddfcf
+	* I - exigir ou aumentar tributo sem lei que o estabeleça; ([[1. Princípios|Legalidade]] ^e4ddfcf
 
-	* II - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos; ([[1. Princípios|Isonomia]].md) ^43dd743
+	* II - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos; ([[1. Princípios|Isonomia]] ^43dd743
 
 	* III - cobrar tributos: ^b33d22a
 
-		* a.md) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado; ([[1. Princípios|Irretroatividade]].md) ^30defe1
+		* a.md) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado; ([[1. Princípios|Irretroatividade]] ^30defe1
 
-		* b.md) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou; ([[1. Princípios|Anterioridade Comum]].md) ^876c2fe
+		* b.md) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou; ([[1. Princípios|Anterioridade Comum]] ^876c2fe
 
-		* c.md) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea [[#^876c2fe|b]]; ([[1. Princípios|Anterioridade Nonagesimal]].md) ^b248955
+		* c.md) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea [[#^876c2fe|b]]; ([[1. Princípios|Anterioridade Nonagesimal]] ^b248955
 
-	* IV - utilizar tributo com efeito de confisco; ([[1. Princípios|Não-Confisco]].md) ^c952495
+	* IV - utilizar tributo com efeito de confisco; ([[1. Princípios|Não-Confisco]] ^c952495
 
-	* V - estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público; ([[1. Princípios|Liberdade de Tráfego]].md) ^28a73c9
+	* V - estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público; ([[1. Princípios|Liberdade de Tráfego]] ^28a73c9
 
 	* VI - instituir [[2. Imunidades|impostos]] sobre: (Vide Emenda Constitucional n° 3, de 1993.md) ^96e48c4
 
-		* a.md) patrimônio, renda ou serviços, uns dos outros; ([[2. Imunidades|Recíproca]].md) ^a0e7496
+		* a.md) patrimônio, renda ou serviços, uns dos outros; ([[2. Imunidades|Recíproca]] ^a0e7496
 
-		* b.md) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; ([[2. Imunidades|Religiosa]].md) (Redação dada pela Emenda Constitucional n° 132, de 2023.md) ^3cbcecd
+		* b.md) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; ([[2. Imunidades|Religiosa]] (Redação dada pela Emenda Constitucional n° 132, de 2023.md) ^3cbcecd
 
-		* c.md) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei; ([[2. Imunidades|Condicionada]].md) ^5c54b10
+		* c.md) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei; ([[2. Imunidades|Condicionada]] ^5c54b10
 
-		* d.md) livros, jornais, periódicos e o papel destinado a sua impressão. ([[2. Imunidades|Objetiva/Cultural]].md) ^2a0afa3
+		* d.md) livros, jornais, periódicos e o papel destinado a sua impressão. ([[2. Imunidades|Objetiva/Cultural]] ^2a0afa3
 
-		* e.md) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser. ([[2. Imunidades|Musical]].md) (Incluída pela Emenda Constitucional n° 75, de 15.10.2013.md) ^4f8f979
+		* e.md) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser. ([[2. Imunidades|Musical]] (Incluída pela Emenda Constitucional n° 75, de 15.10.2013.md) ^4f8f979
 
 	* § 1° A vedação do inciso [[#^b33d22a|III]], [[#^876c2fe|b]], não se aplica aos tributos previstos nos arts. [[#^620e5fa|148]], [[#^c68a571|I]], [[#^b48cd87|153]], [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^b6b5f55|IV]] e [[#^913e692|V]]; e [[#^f00bcde|154]], [[#^b614f29|II]]; e a vedação do inciso [[#^b33d22a|III]], [[#^b248955|c]], não se aplica aos tributos previstos nos arts. [[#^620e5fa|148]], [[#^c68a571|I]], [[#^b48cd87|153]], [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^f267e04|III]] e [[#^913e692|V]]; e [[#^f00bcde|154]], [[#^b614f29|II]], nem à fixação da base de cálculo dos impostos previstos nos arts. [[#^c99e88e|155]], [[#^8f30158|III]], e [[#^2e16bcd|156]], [[#^876d590|I]]. (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003.md) ^c3fc35a
 
