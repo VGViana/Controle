@@ -67,7 +67,7 @@
         **Limite estabelecido pelo STF para a multa moratória**: 20% do valor do tributo.
         
 
-**2. Imunidades Tributárias**
+# **2. Imunidades Tributárias**
 
 - **CF/88:** 
     - _**Art. 150, CF.** Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:_
@@ -80,4 +80,4 @@
         
          _b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes ;_
         
-        _c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos,_ **_atendidos os requisitos da lei;_**
+        _c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos,_ *<span style="color:#fe8019">*_atendidos os requisitos da lei;</span>_**

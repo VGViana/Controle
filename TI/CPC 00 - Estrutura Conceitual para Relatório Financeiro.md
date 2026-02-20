@@ -56,3 +56,51 @@ A definição de patrimônio líquido é uma definição residual, pois: represe
 
 - **⚠️ Reconhecimento →** É o processo de incorporação de um item que atende aos critérios para ser **considerado um elemento das demonstrações** contábeis 
 - **⚠️ Desreconhecimento  →**  O desreconhecimento ocorre quando um ativo ou passivo **deixa de fazer parte das demonstrações** contábeis de uma entidade.
+
+## **1.1 Mensuração**
+
+É o processo de **determinação dos valores monetários** em que os elementos das demonstrações contábeis são apresentados.
+
+![[Bases de Mensuração CPC 00.png]]
+
+## **1.2 Fatores a serem considerados ao selecionar a base de mensuração**
+
+As características de melhoria têm implicação na base de mensuração. Vale ressaltar que a tempestividade não tem implicação específica.
+
+⚠️ **<span style="color:#fb4934">O custo de gerar a informação é uma restrição sempre presente</span>** na entidade no processo de elaboração e divulgação de relatório contábil-financeiro.
+
+⚠️ E quando houver mais de uma base de mensuração? É recomendado:
+
+- utilizar **<u>uma única base de mensuração</u>** tanto para o ativo ou passivo no balanço patrimonial como para as respectivas receitas e despesas na demonstração do resultado e na demonstração do resultado abrangente; e
+- **<u>fornecer informações adicionais</u>** nas notas explicativas, **<u>aplicando base de mensuração diferente</u>.**
+
+E se a informação **<span style="color:#83a598">for mais relevante ou resultam em representação fidedigna</span>**:
+
+- Base de mensuração do **<span style="color:#83a598">valor corrente</span>** para o ativo ou passivo no balanço patrimonial; e
+- Base de mensuração diferente das respectivas receitas e despesas na demonstração do resultado e na demonstração do resultado abrangente.
+
+## **1.3 Apresentação e Divulgação**
+
+- CPC 00 | 7.2 A comunicação efetiva de informações nas demonstrações contábeis **torna essas informações mais relevantes e contribui para uma** **representação fidedigna** **de ativos, passivos, patrimônio líquido, receitas e despesas da entidade.** Também aprimora a **compreensibilidade e comparabilidade** das informações nas demonstrações contábeis. A comunicação efetiva de informações nas demonstrações contábeis requer:
+    - (a) concentrar-se em princípios e objetivos de divulgação e apresentação em vez de concentrar-se em regras;
+    - (b) classificar informações de maneira a agrupar itens similares e separar itens diferentes; e
+    - (c) agregar informações de tal modo que não sejam obscurecidas por detalhes desnecessários ou por agregação excessiva.
+
+## **1.4 Compensação**
+
+- CPC 00 | 7.10 Compensação ocorre quando a entidade reconhece e mensura tanto ativo como passivo como unidades de **conta separadas**, **mas as agrupa em um único valor líquido no balanço patrimonial**. Compensação classifica diferentes itens em conjunto e, **portanto, geralmente não é adequado.**
+- CPC 00 | 7.11 Compensar ativos e passivos é diferente de tratar um conjunto de direitos e obrigações como uma única unidade de conta (ver itens de 4.48 a 4.55).
+
+## **1.5 Conceito de Capital**
+
+- **Capital Financeiro**
+    - A manutenção do capital financeiro **não requer a adoção de uma base específica** de mensuração.
+        - Definição → conjunto de **recursos financeiros disponíveis** para a entidade aplicar na realização de suas atividades.
+        - Objetivo → **proteger o poder aquisitivo** do capital investido.
+        - Cálculo do Lucro → calculados com base na manutenção ou no **aumento do** **valor monetário do capital**.
+
+- **Capital Físico**
+    - A manutenção do capital físico **requer a adoção do custo corrente como base de mensuração**.
+        - Definição → **capacidade produtiva** da entidade, representada pelos ativos físicos que ela possui e utiliza na realização de suas atividades.
+        - Objetivo → **proteger ou aumentar a capacidade produtiva** ou operacional da entidade.
+        - Cálculo do Lucro → calculados considerando a manutenção ou o **aumento da capacidade produtiva**.
