@@ -29,17 +29,6 @@ Por meio do Business Intelligence, é possível transformar grandes volumes de d
 
 **O armazém de dados**, ou **Data Warehouse**, é um **repositório centralizado** onde informações de diferentes fontes são armazenadas e consolidadas. Essa estrutura facilita a análise e a extração de insights a partir dos dados coletados. Os Data Warehouses são projetados para lidar com dados históricos e atuais, permitindo uma visão ampla e detalhada dos negócios. Isso é crucial para o desenvolvimento de estratégias e aprimoramento dos processos empresariais.
 
-## **3.1 Quatro Características Essenciais dos Data Warehouse** são:
-
-- <span style="color:#b8bb26">**Integração**:</span> consolidação de dados de **diversas fontes**;
-- **<span style="color:#83a598">Não volatilidade</span>**: os dados são armazenados de forma **permanente e imutável**;
-- <span style="color: #d79921">**Orientado por assunto**: c</span>onsiste em organizar os dados em torno de **temas específicos**;
-- **<span style="color:#d3869b">Variável no Tempo</span>**: permite o armazenamento de **dados históricos** e **atuais** para análise e tomada de decisões.
-
-# **3. Data Warehouse (armazém de dados)**
-
-**O armazém de dados**, ou **Data Warehouse**, é um **repositório centralizado** onde informações de diferentes fontes são armazenadas e consolidadas. Essa estrutura facilita a análise e a extração de insights a partir dos dados coletados. Os Data Warehouses são projetados para lidar com dados históricos e atuais, permitindo uma visão ampla e detalhada dos negócios. Isso é crucial para o desenvolvimento de estratégias e aprimoramento dos processos empresariais.
-
 ## **3.1 Quatro Características Essenciais dos Data Warehouse**:
 
 - <span style="color:#b8bb26">**Integração**</span>: consolidação de dados de **diversas fontes**;
