@@ -57,6 +57,6 @@
 - **Eficácia <span style="color:#d3869b">Diagonal*</span>* → <span style="color:#d3869b">**particular x particular*</span>*, porém **<span style="color:#d3869b">com muita desigualdade entre as partes*</span>*
     - Ex: relação de **consumo**, **trabalhista**, etc
 
-⚠️ **Aplicação** da norma é **dirigida à autoridade**; **observação** é para seus **destinatários**.
+⚠️ **<span style="color:#83a598">Aplicação*</span>* da norma é **<span style="color:#83a598">dirigida à autoridade</span>**; **<span style="color:#b8bb26">observação</span>** é para seus **<span style="color:#b8bb26">destinatários</span>**.
 
 Se os destinatários a observam completamente, a autoridade sequer precisará aplicar a norma
