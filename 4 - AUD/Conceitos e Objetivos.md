@@ -141,14 +141,14 @@ Também é classificada como:
     
     - Pode ser reduzido, mas nunca eliminado.
     - É uma função da **EFICÁCIA do procedimento de auditoria** e de sua aplicação pelo auditor.
-- **Risco de Distorção Relevante:** Risco de que as DCs contenham **DISTORÇÃO RELEVANTE antes da auditoria**.
+- <span style="color:#d3869b">**Risco de Distorção Relevante</span>:** Risco de que as DCs contenham **DISTORÇÃO RELEVANTE <mark style="background:#fff88f">antes</mark> da auditoria**.
     
     - Este risco é composto pelo **Risco Inerente** e **Risco de Controle**.
 
 ![[Risco de distorção relevante.png]]
 
-⚠️ Os riscos de distorção relevante **no nível da afirmação** são avaliados para que se determine a natureza, a época e a extensão dos **procedimentos adicionais de auditoria** necessários para a obtenção de evidência de auditoria apropriada e suficiente.
+⚠️ Os riscos de distorção relevante **no <span style="color:#d3869b">nível da afirmação**</span> são avaliados para que se determine a natureza, a época e a extensão dos **<span style="color:#d3869b">procedimentos adicionais de auditoria</span>** necessários para a obtenção de evidência de auditoria apropriada e suficiente.
 
-⚠️ O **risco inerente** é **MAIS ALTO** para algumas afirmações e classes relacionadas de transações, saldos contábeis e divulgações, como para **cálculos complexos** ou contas compostas de valores derivados de estimativas contábeis sujeitas à **incerteza significativa de estimativa**.
+⚠️ O <span style="color:#fb4934">**risco inerente** é **MAIS ALTO**</span> para algumas afirmações e classes relacionadas de transações, saldos contábeis e divulgações, como para **cálculos complexos** ou contas compostas de valores derivados de estimativas contábeis sujeitas à **incerteza significativa de estimativa**.
 
-⚠️ Circunstâncias **EXTERNAS** que dão origem a riscos de negócios podem influenciar o **risco** **INERENTE**.
+⚠️ Circunstâncias <span style="color:#83a598">**EXTERNAS**</span> que dão origem a riscos de negócios podem influenciar o **risco** **<mark style="background:#fff88f">INERENTE</mark>**.

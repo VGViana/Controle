@@ -116,3 +116,94 @@ Obs: **<span style="color:#fb4934">Incapacidade => Menoridade</span>**. A **eman
 • Sentenças que decretam a nulidade ou anulação do casamento, bem como separação judicial, restabelecimento da sociedade conjugal e divórcio (<span style="color:#fb4934">lembrando que com a edição da EC n° 66/2010, não se exige mais a prévia separação prévia para a efetivação do divórcio</span>).
 
 • Atos judiciais ou extrajudiciais que declaram ou reconhecem a filiação.
+
+# <span style="color:#d3869b">**1. DIREITOS DA PERSONALIDADE:** </span>
+
+>> São os direitos individuais (subjetivos) da pessoa de controlar o uso de seu corpo, nome, imagem, aparência ou quaisquer outros aspectos constitutivos da sua identidade.
+
+- **Com exceção das hipóteses previstas em lei são intransmissíveis e irrenunciáveis, não podendo o seu exercício sofrer limitação voluntária.**
+
+## **<span style="color:#d3869b">1.1. Características dos Direitos da Personalidade</span>:**
+
+- **Intransmissibilidade** 
+- **Indisponibilidade** 
+- **Vitaliciedade**
+- **Imprescritibilidade**
+- **Irrenunciabilidade** 
+- **Extrapatrimonialidade**
+- **Caráter absoluto** 
+- **Inerência** 
+
+🔦 <mark style="background:#fff88f">Súmula 147 do STF</mark>: É **imprescritível** a ação de investigação de paternidade, **m<span style="color:#fb4934">as não o é a de petição de herança</span>.** 
+
+- Estão previstos nos **arts. 11 a 21, CC que não exaurem a matéria (são exemplificativos)**. O Código Civil disciplina:
+    - Direito à disposição ao próprio corpo: arts. 13 e 14, CC 
+        - <span style="color:#fb4934"><mark style="background:rgba(240, 107, 5, 0.2)">**DESPENCA EM PROVA</mark></span>!! =>** **É<u> possível a disposição gratuita do próprio corpo, no todo ou em parte, para depois da morte</u> (art. 14, CC)**.
+
+## <span style="color:#d3869b">**1.2. Proteção ao Nome**</span>
+
+- O pseudônimo utilizado para atividades lícitas tem a mesma proteção que se dá ao nome
+- Artigo 17 -  O nome da pessoa não pode ser empregado por outrem em publicações ou representações que a exponham ao desprezo público, <mark style="background:#d4b106">ainda quando não haja intenção difamatória. </mark>
+
+# <span style="color:#d3869b">**2. AUSÊNCIA**</span>
+
+- Procedimento de Ausência - casos em que não é possível presumir a morte da pessoa natural, que desaparece do seu domicílio
+
+## <span style="color:#fe8019">**2.1. 1ª Fase - Curadoria dos bens do ausente -** _artigos 22 a 25_
+</span>
+- Será declarada a ausência e nomeado curador pelo juiz:
+    - **A requerimento de qualquer interessado ou do MP**, quando uma pessoa desaparecer do seu domicílio sem que dela haja notícia, sem deixar representante ou procurados a quem caiba administrar os bens;
+    - Quando o ausente deixar mandatário que não queira ou não possa exercer ou continuar o mandado, ou se seus poderes forem insuficientes.
+- **<span style="color:#b8bb26">Curador</span>:**
+    - será o cônjuge do ausente, desde que não esteja separado judicialmente, ou de fato por mais de 02 anos antes da declaração da ausência.
+    - na falta do cônjuge - pais ou descendentes (nesta ordem); entre os descendentes, os mais próximos têm preferência
+    - na falta das pessoas acima descritas, o juiz escolhe
+
+## <span style="color:#fe8019">**2.2. 2ª Fase - Sucessão Provisória -** _artigos 26 a 36_</span>
+
+- Decorrido **01 ano** (se não não tiver deixado representante ou procurador) ou **03 anos** (se tiver deixado representante ou procurador) da **arrecadação dos bens do ausente**, 
+- Efeitos da sentença que declara a sucessão provisória - <mark style="background:rgba(240, 107, 5, 0.2)">**180 dias**</mark> depois de publicada
+- **<span style="color:#b8bb26">Interessados</span>:**
+    - cônjuge não separado judicialmente
+    - herdeiros presumidos, legítimos ou testamentários
+    - os que tiverem sobre os bens do ausente direito dependente de sua morte
+    - credores de obrigações vencidas e não pagas
+- a partilha é feita de <span style="color:#fb4934">**forma provisória**</span>;
+    - os herdeiros **se imitem na posse** dos bens do ausente; 
+    - os herdeiros, para se imitirem na posse dos bens, darão garantias de restituição 
+        - E quem não pode dar garantia? - será excluído, mantendo-se os bens que lhe caberiam sob a administração do curador ou outro herdeiro designado pelo juiz e que preste a garantia
+        - <mark style="background:rgba(74, 82, 199, 0.2)">Ascendentes, descendentes e cônjuge</mark> - <span style="color:#fb4934">**NÃO PRECISAM**</span> prestar garantia
+- O descendente, ascendente ou cônjuge que for sucessor provisório do ausente, fará seus todos os frutos e rendimentos dos bens que a este couberem; os outros sucessores, porém, deverão capitalizar metade desses frutos e rendimento
+    - Se o ausente aparecer - provador que a ausência foi voluntária e injustificada - perderá, em favor do sucessor, sua parte nos frutos e rendimentos. 
+
+## <span style="color:#fe8019">**2.3. 3ª Fase - Sucessão Definitiva -** _artigos 37 a 39_</span>
+
+- Passados **10 anos** da abertura da sucessão provisória **OU** provando-se que o ausente tem **80 anos de idade** e que de **05 anos** datam as últimas notícias dele 
+- na abertura já se concede a **propriedade plena** dos bens aos herdeiros e <span style="color:#fb4934">se **declara a morte (presumida)**</span> do ausente.
+- Regressando o ausente <span style="color:#fe8019">**nos dez anos seguintes à abertura da sucessão definitiva</span>,** ou algum de seus descendentes ou ascendentes, terão direito:
+    - _aos bens existentes no estado em que se acharem,_
+    - _os sub-rogados em seu lugar, ou_
+    - _o preço que os herdeiros e demais interessados houverem recebido pelos bens alienados depois daquele tempo._
+
+# <span style="color:#d3869b">**3. De 👀 na jurisprudência:**</span>
+
+- <span style="color:#b8bb26">**Súmula 37, STJ</span> -** São cumuláveis as indenizações por danos morais e materiais oriundos do mesmo fato.
+- <span style="color:#b8bb26">**Súmula** **221, STJ</span> -** São civilmente responsáveis pelo ressarcimento de dano, decorrente de publicação pela imprensa, <mark style="background:#fff88f">tanto o autor do escrito quanto o  proprietário do veículo de divulgação.</mark>
+- <span style="color:#b8bb26">**Súmula STJ 403</span> - _”Independe de prova_** _do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais.”_
+- <span style="color:#b8bb26">**Súmula 642-STJ</span> -** _O direito à indenização por danos morais_ **transmite-se com o falecimento do titular,** _possuindo os herdeiros da vítima_ **legitimidade ativa** _para ajuizar ou prosseguir a ação indenizatória."_
+- **Jurisprudência em Teses nº 130 do STJ:** _A ampla liberdade de informação, opinião e crítica jornalística reconhecida constitucionalmente à imprensa_ **não é um direito absoluto, encontrando limitações, tais como a preservação dos direitos da personalidade**
+- **Jurisprudência em Teses nº 137 do STJ:** _A pretensão de reconhecimento de ofensa a direito da personalidade_ **é imprescritível.**
+- **Enunciado n. 4 da I Jornada de Direito Civil do CJF:** _O exercício dos direitos da personalidade_ **pode sofrer limitação voluntária**_, desde que_ **não seja permanente nem geral.**
+- **Enunciado n. 278 da IV Jornada de Direito Civil do CJF:** _A publicidade que divulgar, sem autorização, qualidades inerentes a determinada pessoa,_ **ainda que sem mencionar seu nome,** _mas sendo capaz de identificá-la, constitui violação a direito da personalidade._
+- **REsp 1297660/RS:** _O uso não autorizado da_ **imagem de menores de idade gera dano moral in re ipsa.**
+- **REsp 1630851/SP:** _A voz humana_ **e****ncontra proteção nos direitos da personalidade**_, seja como direito autônomo ou como parte integrante do direito à imagem ou do direito à identidade pessoal._
+    
+- **STF ->** O caso das biografias não autorizadas: o STF entendeu que o controle só pode ser _a posteriori_, do contrário se configuraria Censura, o que é vedado pelo ordenamento.
+    
+- **STJ ->** O **uso não autorizado da imagem de atleta** em cartaz de **propaganda** de evento esportivo, ainda que sem finalidade lucrativa ou comercial, **enseja reparação por danos morais, independentemente da comprovação de prejuízo**
+    
+- **Enunciado 531 da VI Jornada de Direito Civil do CJF**: A tutela da dignidade da pessoa humana na sociedade da informação inclui o direito ao Esquecimento.
+    
+- <span style="color:#fb4934">**CUIDADO</span> -** o STF entende que NÃO HÁ direito subjetivo ao esquecimento (_a<span style="color:#fe8019">tentar-se ao comando da questão_</span>).  
+    
+- <mark style="background:rgba(240, 107, 5, 0.2)">**Súmula 331</mark> – STF** **– É legítima a incidência de Imposto de Transmissão _Causa Mortis_ em Inventário de Morte Presumida.**
