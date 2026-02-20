@@ -153,6 +153,40 @@ Também é classificada como:
 
 ⚠️ Circunstâncias <span style="color:#83a598">**EXTERNAS**</span> que dão origem a riscos de negócios podem influenciar o **risco** **<mark style="background:#fff88f">INERENTE</mark>**.
 
-**1 PRINCÍPIOS FUNDAMENTAIS** _(_⚠️ _Os princípios fundamentais de ética estão **IMPLÍCITOS** no Código de Ética e na NBC PA 01!)_
+**1 PRINCÍPIOS FUNDAMENTAIS** _(_⚠️ _Os princípios fundamentais de ética estão <mark style="background:#fff88f">**IMPLÍCITOS</mark>** no Código de Ética e na NBC PA 01!)_
 
-![[Princípios fundamentais da ética profissional do auditor.png]]
+![[Princípios fundamentais da ética profissional do auditor.png]]💡
+
+**BIZU: <span style="color:#83a598">3 CO IN OB</span>**
+
+- **COmpetência e zelo profissional**
+
+- **COnfidencialidade**
+
+- **COmportamento ou conduta profissional**
+
+- **INtegridade**
+
+- **OBjetividade**
+
+# **2. CARACTERÍSTICAS INERENTES AO AUDITOR**
+
+<span style="color:#83a598">**Julgamento Profissional</span>: <u>APLICAÇÃO</u>** do <span style="color:#83a598">**treinamento**, **conhecimento** e **experiência**</span> dentro do contexto da auditoria.
+
+- **Exige-se que o auditor elabore documentação de auditoria** **suficiente** para possibilitar que <u>**outro auditor experiente**</u>, <span style="color:#fb4934">sem nenhuma ligação prévia com a auditoria</span>, **entenda os julgamentos profissionais significativos** exercidos para se atingir as conclusões sobre assuntos significativos surgidos durante a auditoria.
+- Não deve ser usado como justificativa para decisões que, de outra forma, **não são sustentadas pelos fatos e circunstâncias do trabalho nem por evidência** de auditoria apropriada e suficiente.
+
+<span style="color:#fe8019">**Ceticismo Profissional</span>:** <u>**POSTURA**</u> que inclui uma <span style="color:#fe8019">**mente questionadora e alerta**</span> para condições que possam indicar **possível distorção** devido a erro ou fraude e uma <span style="color:#fe8019">**avaliação crítica das evidências**</span> de auditoria.
+
+- Inclui estar alerta, **por exemplo**, a:
+    - Evidências de auditoria que **contradigam outras evidências** de auditoria.
+    - Informações que **coloquem em dúvida a confiabilidade** dos documentos e resposta a indagações a serem usadas como evidências de auditoria.
+    - Condições que **possam indicar possível fraude**.
+    - Circunstâncias que sugiram a necessidade de procedimentos de auditoria **além dos exigidos pelas NBCs TA**.
+- Manter o ceticismo profissional durante o trabalho é **necessário**, por exemplo, para <span style="color:#83a598">**reduzir o risco de**</span>:
+    
+    - **Negligenciar** circunstâncias <span style="color:#fb4934">**incomuns**</span>.
+    - **Generalização <span style="color:#fb4934">excessiva**</span> ao tirar conclusões a partir das observações.
+    - Usar **premissas inapropriadas** ao determinar a natureza, a época e a extensão dos procedimentos e avaliar os seus resultados.
+
+❗O exercício do ceticismo profissional está sujeito a **ameaças** provenientes de tendências <span style="color:#fb4934">**conscientes e inconscientes** </span>do auditor.

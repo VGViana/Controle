@@ -1,0 +1,168 @@
+# **<mark style="background:#fff88f">DAS PESSOAS JURÍDICAS</mark>**
+
+**<span style="color:#83a598">1. CONCEITO</span>** 
+
+- **Pessoa Jurídica (moral ou coletiva)** é a união de pessoas naturais (físicas) <span style="color:#fb4934">ou</span> de patrimônios, com o objetivo de atingir certos fins (_affectio societatis)_, reconhecida pela lei como sujeito de direitos e obrigações.
+- Possui personalidade jurídica <u>**própria e individual, distinta da dos membros que a compõem**</u> (Princípio Contábil da Entidade).
+- Aplica-se a elas, no que couber, **a <span style="color:#fb4934">proteção dos direitos da personalidade da pessoa natural.** </span>
+
+# **<span style="color:#83a598">2. PRESSUPOSTOS DE EXISTÊNCIA</span>**
+
+- **Vontade** humana criadora (affectio societatis);
+- **Licitude** dos objetivos;
+- Obediência aos **requisitos legais** (existência e capacidade reconhecidas pela lei)**.** 
+
+# **3. NATUREZA JURÍDICA**
+
+- <mark style="background:#fff88f">**Corrente majoritária</mark> =>** <mark style="background:#9254de">**Teoria da Realidade Técnica**</mark> (a pessoa jurídica existe de fato e não como mera abstração).
+
+# **4. CARACTERÍSTICAS** 
+
+- existência distinta da de seus membros;
+- patrimônio próprio e diverso do de seus integrantes;
+- responsabilidade civil e criminal;
+- ilegitimidade para certos atos (ex.: fazer testamento). 
+
+# **5. CLASSIFICAÇÃO PRINCIPAL** 
+
+- <mark style="background:#a3be8c">**Pessoas Jurídicas de Direito Público</mark>** 
+    - **Interno (art. 41, CC):**
+        - União
+        - Estados, DF e Territórios
+        - Municípios
+        - Autarquias (inclusive associações públicas)
+        - Demais entidades de caráter público criadas por lei
+    -  **Externo (art. 42, CC):**
+        - Estados estrangeiros
+        - Todas as pessoas que forem regidas pelo direito internacional público
+
+- <mark style="background:#a8c7c8">**Pessoas Jurídicas de Direito Privado </mark>(art. 44, CC)**
+    - Associações
+    - Sociedades
+    - Fundações
+    - Organizações religiosas
+    - Partidos políticos
+    - Empreendimentos de economia solidária (<span style="color:#fb4934">novidade - incluído pela Lei nº 15.068/2024</span>)
+
+- <mark style="background:#bdae93">**Grupos Despersonalizados</mark> (art. 75, CPC)**
+    - **Conjunto de direitos e obrigações, pessoas e bens**, <span style="color:#fe8019">**sem personalidade jurídica</span>,** mas com capacidade processual (representação) => **sociedades em comum** (sociedade de fato ou irregulares), massa falida, espólio, herança jacente e vacante, etc.
+    - **São eles** **(**artigo 75, CPC**):**
+        - Massa falida
+        - Herança jacente ou vacante
+        - Espólio
+        - Sociedades e Associações irregulares ou de fato
+        - Condomínio
+        - Outros entes organizados sem personalidade jurídica
+
+👉 Obs.: <u>**empresas públicas e sociedades de economia mista <mark style="background:#ff4d4f">são integrantes da administração indireta</mark>**</u>, no entanto <mark style="background:#a3be8c">**são consideradas como pessoas jurídicas de direito privado**</mark>, pois foram criadas pelo Estado <u>como instrumento de sua atuação no domínio econômico.</u>
+
+**✔️ Enunciado 142 da III Jornada de Direito Civil do CJF:** “Os partidos políticos, os sindicatos e as associações religiosas **possuem natureza associativa,** aplicando-se-lhes o Código Civil."
+
+**✔️ Enunciado 143 da III Jornada de Direito Civil do CJF:** " A liberdade de funcionamento das organizações religiosas não afasta o controle de legalidade e legitimidade constitucional de seu registro, nem a possibilidade de reexame, pelo Judiciário, da compatibilidade de seus atos com a lei e com seus estatutos."
+
+**>> A Sociedade de Economia Mista** é uma espécie de <span style="color:#fb4934">**pessoa jurídica de direito privado</span>,** com criação autorizada por lei, que integra o rol dos entes jurídicos pertencentes à administração pública indireta. É constituída para prestar seus serviços no campo da atividade econômica privada ou serviços de interesse coletivo, sob a forma de <mark style="background:#ff4d4f">sociedade anônima</mark>, observando os termos e limites fixados pela legislação e pela Constituição Federal. Apesar de possuir como sócio majoritário ente público, <mark style="background:#ff4d4f">não goza de incentivos fiscais</mark>, é na prática tratada como uma empresa privada qualquer.
+
+**>> Empresa Pública** **-> art. 5°, II do Decreto-Lei n° 200/1967: "**_entidade dotada de <u>**personalidade jurídica de direito privado</u>**, com **<u>patrimônio próprio e capital exclusivo da União</u>**, criado por lei para a exploração de atividade econômica que o Governo seja levado a exercer por força de contingência ou de conveniência administrativa_ <mark style="background:#afc7d9">_podendo revestir-se de qualquer das formas admitidas em direito_</mark>".
+
+<mark style="background:#ff4d4f">**Atenção:**</mark>
+
+- **<span style="color:#fb4934">Sociedade de Economia Mista – Sociedade Anônima (Obrigatoriamente</span>)**
+- <span style="color:#83a598">**Empresa Pública - poderá adotar qualquer forma societária**</span> 
+
+<span style="color:#fb4934">***Sociedade de Economia Mista não se sujeita à Falência***</span>
+
+>> Segundo entendimento doutrinário majoritário, as sociedades de economia mista, ainda que atuem na área econômica, **não estão sujeitas à falência** <mark style="background:#ff4d4f">(embora seus bens sejam penhoráveis e executáveis e a pessoa jurídica que a controla responda, subsidiariamente, pelas suas obrigações)</mark>.
+
+>> Isso porque a nova lei de falências (Lei n° 11.101/2005, que regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária) **declara expressamente**, em seu **art. 2°, I, que: “Esta lei não se aplica à empresa pública e sociedade de economia mista”.**
+
+  
+**🚨Empresa Individual de Responsabilidade Limitada** **(EIRELI - Lei n° 12.441/11):**
+
+- Vale lembrar que a <span style="color:#fb4934"><u>**EIRELI NÃO é mais considerada pessoa jurídica**,</u></span> a partir da entrada em vigor da Lei 14.195/2021. 
+
+**>> Principal diferença entre as pessoas jurídicas de direito privado e direito público:** <span style="color:#fe8019">**disponibilidade patrimonial.**</span> **Os bens das pessoas jurídicas de direito privado são disponíveis e sujeitas a penhora e usucapião.**
+
+Os bens das pessoas jurídica de **direito público são impenhoráveis e imprescritíveis** (impossibilidade de usucapião), **embora os dominicais possam ser alienados, quando presentes os requisitos legais.**
+
+**6. INÍCIO da PJ:**
+
+**I - Ato Constitutivo:** ato jurídico unilateral inter vivos ou causa mortis (fundações) ou ato jurídico bilateral ou plurilateral (associações e sociedades). 
+
+- **Fundações** => escritura pública ou testamento.
+- **Associações** => Estatuto.
+- **Sociedade** (simples ou empresárias) => Contrato Social ou Estatuto Social. 
+
+**II - Registro Público:** inscrição dos contratos, estatutos ou compromissos no seu registro peculiar:
+
+- **Sociedade empresária** => Junta comercial;
+- **Demais pessoas jurídicas de direito privado** => Registro civil das pessoas jurídicas;
+- **Sociedade simples de advogados** => Registro na Ordem dos Advogados do Brasil.
+
+**=> MUITO COBRADO:** A **existência da pessoa jurídica de direito privado inicia-se com a inscrição do ato constitutivo no respectivo registro** (art. 45, CC). Requisitos: art. 46, CC.
+
+>> **_Algumas pessoas jurídicas necessitam de autorização do executivo._**
+
+**7. EXTINÇÃO DA PJ:**
+
+- **Convencional:** dissolução deliberada de seus membros, conforme quorum previsto nos estatutos ou na lei; 
+- **Legal:** hipóteses em que a lei determina;
+- **Administrativa:** dependem de autorização do governo e praticam atos nocivos ou contrários aos seus fins;
+- **Natural:** morte de seus membros e não ficou estabelecido se prosseguirá com seus herdeiros; decurso de prazo (quando for constituída por prazo);
+- **Dissolução judicial.** Após a dissolução a personalidade da pessoa jurídica ainda pode subsistir para fins de liquidação (pagamento de dívidas e partilha do remanescente entre os sócios). Após o encerramento da liquidação => cancelamento da inscrição da pessoa jurídica no respectivo registro (art. 51, CC). 
+
+**⏳Prazo decadencial:** 03 anos - para requerer anulação do ato constitutivo da PJ em virtude de defeito
+
+**8.** **ASSOCIAÇÕES:**
+
+- É a união de pessoas, **sem finalidade lucrativa** (seu objetivo pode ser moral, cultural, esportivo, beneficente, etc.).
+- Liberdade de associação para fins lícitos (art. 5°, XVII, CF/88).
+- Entre os associados não há direitos e obrigações recíprocas. Registro do Estatuto. Incluem-se os sindicatos.
+- Igualdade de direitos entre os associados → categorias de associados com vantagens especiais podem ser instituídas pelo estatuto.
+- Qualidade de associado → **é INSTRANSMISSÍVEL, se o estatuto não disser o contrário**
+- **Exclusão de associado -** justa causa + procedimento que assegure o direito de defesa e de recurso.
+- **Enunciado 534 da VI Jornada de Direito Civil da CJF**: “As Associações podem desenvolver atividade econômica, desde que não haja finalidade lucrativa”.
+
+**9.** **FUNDAÇÕES:**
+
+- Dotação especial de bens livres, destinada a um determinado fim (finalidade específica, conforme previsto no artigo 62, parágrafo único, CC)
+- **Instituição -** por escritura pública ou testamento
+- **Elementos Fundamentais**:
+    - patrimônio (dotação de bens livres que passam a ser inalienáveis);
+    - finalidade: especificação dos objetivos (em regra imutáveis e sem finalidade lucrativa, previstos no parágrafo único, do art. 62, CC).
+- Insuficiência de bens para sua constituição - salvo disposição em contrário do instituidor, os bens serão incorporados a outra fundação que tenha finalidade igual ou semelhante.
+- **Finalidade (**rol taxativo**):**
+    - assistência social
+    - cultura, defesa e conservação do patrimônio histórico e artístico
+    - educação
+    - saúde
+    - segurança alimentar e nutricional
+    - defesa, preservação e conservação do meio ambiente e promoção do desenvolvimento sustentável 
+    - pesquisa científica, desenvolvimento de tecnologias alternativas, modernização de sistemas de gestão, produção e divulgação de informações e conhecimentos técnicos e científicos
+    - promoção da ética, da cidadania, da democracia e dos direitos humanos
+    - atividades religiosas
+
+**9.1 Atuação do  Ministério Público Estadual**
+
+- Elaboração do Estatuto - caso não tenha sido elaborado no prazo estipulado pelo instituidor ou, não havendo prazo, em **180 dias**
+- **Fiscalização**
+    - **Art. 66** – Velará pelas fundações o Ministério Público do Estado onde situadas.
+    - §2º - Se estenderem a atividade por mais de um estado, caberá o encargo, em cada um desses, ao respectivo Ministério Público.
+
+**9.2. Alteração do Estatuto da Fundação**
+
+**Art. 67.** Para que se possa alterar o estatuto da fundação é mister:
+
+I- Seja deliberada por **dois terços** dos competentes.
+
+II- Não contrarie ou desvirtue o fim da fundação (a finalidade da fundação é inalterável)
+
+III- Seja aprovada pelo Ministério Público no **prazo de 45 dias**. O Juiz, a requerimento do interessado, poderá suprir a omissão ou denegação do Ministério Público
+
+**10. De 👀 na Jurisprudência!**
+
+- **Súmula 227 do STJ:** “A pessoa jurídica **pode sofrer dano moral**” _(restrita às hipóteses de ferimento à sua honra objetiva, isto é, o conceito que goza no meio social: patrimônio, reputação, bom nome, etc.)._
+- **STJ ->** a pessoa jurídica de direito público **não tem direito à indenização por danos morais relacionados à violação da honra ou da imagem.** 
+    - O **informativo nº 125 do Jurisprudência em Teses do STJ** vai nessa direção ao dizer que _**"a pessoa jurídica de direito público não é titular de direito à indenização por dano moral relacionado à ofensa de sua honra ou imagem, porquanto, tratando-se de direito fundamental, seu titular imediato é o particular e o reconhecimento desse direito ao Estado acarreta a subversão da ordem natural dos direitos fundamentais".**_
+    - **⚠️MAS ATENÇÃO!** Os julgados mais relevantes que deram origem a tal interpretação foram o REsp nº 1.258.389/PB, relatado pelo ministro Luis Felipe Salomão, e o REsp nº 1.505.923/PR, relatado pelo ministro Herman Benjamin;
+    - Ocorre que, atualmente, o assunto **NÃO SE ENCONTRA PACIFICADO**, eis que, ao analisar o REsp nº 1.722.423/RJ, conhecido como "Caso Jorgina de Freitas", a segunda turma do STJ, por unanimidade, e seguindo o voto do relator, ministro Herman Benjamin, **decidiu que é cabível indenização por danos morais em face de pessoa jurídica de direito público quando o que está em discussão é a própria credibilidade da instituição;** 
+    - Ressalta-se, contudo, que o STJ não decidiu qual o valor de indenização por danos morais que seria cabível no caso concreto, remetendo os autos novamente ao TRF2 para respectiva decisão, sendo assim, nada obstante tal decisão proferida a um caso concreto, ainda é cedo para afirmar que o posicionamento do STJ tenha mudado acerca do tema envolvendo dano moral e pessoa jurídica de direito público.
