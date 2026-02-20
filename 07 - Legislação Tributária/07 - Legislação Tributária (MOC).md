@@ -1,10 +1,10 @@
-# **MOC - Legislação Tributária**
+# **MOC - L T**
 
-🏠 **[Home](../README.md)** | 📊 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)**
+ **[H](../README.)** |  **[P G](../%-%P%G%/.)**
 
-## 📜 Normas Fundamentais
-- **[Código Tributário Nacional (CTN)](./CTN.md)**
-- **[Constituição Federal (CF)](./CF.md)**
+##  N 
+- **[C T N (CTN)](./CTN.)**
+- **[C  (C)](./C.)**
 
 ---
-🔙 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)** | 🗺️ **[Mapa Sistêmico Fiscal](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)**
+ **[P G](../%-%P%G%/.)** | ️ **[M S ](../%-%P%G%/M%S%.)**

@@ -1,32 +1,32 @@
-# **Princípios da Administração Pública**
+# **P  A P**
 
-## **1. Princípios Expressos (Art. 37, CF/88)**
-Bizu: **<span style="color:#ff0000">LIMPE</span>**
+## **. P E (A. , C/)**
+Bz: **< y=":#">LIMPE</>**
 
-- **<span style="color:#00b0f0">L</span>egalidade**: A administração só pode fazer o que a lei permite (vinculação positiva). Para o particular, vale a autonomia da vontade (faz tudo que a lei não proíbe).
-- **<span style="color:#00b0f0">I</span>mpessoalidade**:
-    - Finalidade pública (não favorecer/prejudicar ninguém);
-    - Vedação à promoção pessoal (obras levam nome do órgão, não do prefeito).
-- **<span style="color:#00b0f0">M</span>oralidade**: Ética, honestidade e boa-fé. Ação deve ser legal E moral.
-- **<span style="color:#00b0f0">P</span>ublicidade**: Transparência dos atos (regra). Sigilo é exceção (segurança da sociedade/Estado).
-- **<span style="color:#00b0f0">E</span>ficiência**: (Incluído pela EC 19/98). Busca por resultados, <span style="color:#00b0f0">presteza, perfeição e rendimento funcional</span>.
+- **< y=":#">L</>**: A    z      ( ). P  ,      (z      ).
+- **< y=":#">I</>**:
+    -   ( / );
+    - V    (    ,   ).
+- **< y=":#">M</>**: É,   -. A    E .
+- **< y=":#">P</>**: T   (). S   (  /E).
+- **< y=":#">E</>**: (I  EC /). B  , < y=":#">z,    </>.
 
-## **2. Princípios Implícitos**
-- **Supremacia do Interesse Público**: O Estado tem prerrogativas sobre o particular (ex: **[[fisco/D CONST/3. DDIC 1#1.17 Direito de propriedade|desapropriação]]**, **[[Poder de polícia]]**).
-- **Indisponibilidade do Interesse Público**: O agente não é dono da coisa pública, apenas gestor.
-- **Autotutela**: A administração pode anular seus atos ilegais e revogar os inoportunos (**[[6. Atos Administrativos|Súmula 473 STF]]**).
+## **. P I**
+- **S  I P**: O E      (: **[[/D CONST/. DDIC #. D  |]]**, **[[P  ]]**).
+- **I  I P**: O       ,  .
+- **A**: A           (**[[. A A|S  ST]]**).
 
-Para a integração com Direito Tributário, consulte: **[[Conexões de Direito Público]]**.
+P    D T, : **[[C  D P]]**.
 
-## 🕸️ Grafo Local
-```mermaid
-graph LR
-  PrincpiosdaAPU("Princípios da APU")
-  style PrincpiosdaAPU fill:#f9f,stroke:#333,stroke-width:4px
-  4EntidadesParaestataiseo3Setor("4. Entidades Paraestatais e o 3° Setor") --> PrincpiosdaAPU
-  CF("CF") --> PrincpiosdaAPU
-  0ConceitosIntrodutrioseLINDB("0. Conceitos Introdutórios e LINDB") --> PrincpiosdaAPU
-  PrincpiosdaAPU --> Poderdepolcia("Poder de polícia")
-  PrincpiosdaAPU --> 6AtosAdministrativos("6. Atos Administrativos")
-  PrincpiosdaAPU --> ConexesdeDireitoPblico("Conexões de Direito Público")
+## ️ G L
+```
+ LR
+  PAPU("P  APU")
+  y PAPU :#,:#,-:
+  EPS(". E P    S") --> PAPU
+  C("C") --> PAPU
+  CILINDB(". C I  LINDB") --> PAPU
+  PAPU --> P("P  ")
+  PAPU --> AA(". A A")
+  PAPU --> CDP("C  D P")
 ```

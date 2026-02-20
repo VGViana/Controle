@@ -1,9 +1,9 @@
-# **MOC - Raciocínio Lógico**
+# **MOC - R L**
 
-🏠 **[Home](../README.md)** | 📊 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)**
+ **[H](../README.)** |  **[P G](../%-%P%G%/.)**
 
-## 🧠 Tópicos
-- *Tópicos a serem adicionados*
+## 🧠 T
+- *T   *
 
 ---
-🔙 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)** | 🗺️ **[Mapa Sistêmico Fiscal](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)**
+ **[P G](../%-%P%G%/.)** | ️ **[M S ](../%-%P%G%/M%S%.)**

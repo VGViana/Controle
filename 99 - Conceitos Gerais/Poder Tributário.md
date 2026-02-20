@@ -1,34 +1,34 @@
-## **Poder Tributário**
-- **Conceito**: Faculdade do **[[Estado]]** de instituir, fiscalizar e arrecadar tributos.
-- **Limites**: O poder de tributar não é absoluto, encontrando limites nos **[[Direitos Fundamentais]]** e nos **[[1. Princípios|Princípios Constitucionais Tributários]]**.
-- **Poder de Polícia Tributário**: Manifesta-se na fiscalização (obrigação acessória). O exercício efetivo do **[[Poder de Polícia]]** fundamenta a cobrança de Taxas.
+## **P T**
+- **C**:   **[[E]]**  , z   .
+- **L**: O      ,    **[[D ]]**   **[[. P|P C T]]**.
+- **P  P T**: M-  z ( ). O    **[[P  P]]**     T.
 
 ---
 
-## **Competência vs. Capacidade Tributária**
-A distinção é essencial para provas fiscais:
+## **C . C T**
+A      :
 
-| Característica | **Competência Tributária** | **Capacidade Tributária Ativa** |
+| C | **C T** | **C T A** |
 | :--- | :--- | :--- |
-| **Natureza** | Política e Legislativa | Administrativa e Executiva |
-| **Poder** | Criar/Instituir o tributo | Arrecadar e Fiscalizar |
-| **Delegabilidade** | **Indelegável** (Art. 7º CTN) | **Delegável** para outras PJ de Direito Público |
-| **Fundamento** | Constituição Federal (Rígida) | Lei Ordinária ou Ato Administrativo |
+| **Nz** | P  L | A  E |
+| **P** | C/I   | A  z |
+| **D** | **I** (A.  CTN) | **D**   PJ  D P |
+| **** | C  (R) | L O  A A |
 
-> [!tip] Conexão com Administrativo
-> A delegação da **Capacidade Tributária Ativa** é um exemplo de **Descentralização Administrativa**, onde a PJ política delega a execução a uma PJ administrativa (ex: autarquia).
+> [!] C  A
+> A   **C T A**     **Dz A**,   PJ       PJ  (: ).
 
 
-## 🕸️ Grafo Local
-```mermaid
-graph LR
-  PoderTributrio("Poder Tributário")
-  style PoderTributrio fill:#f9f,stroke:#333,stroke-width:4px
-  CTN("CTN") --> PoderTributrio
-  CF("CF") --> PoderTributrio
-  3Bens("3. Bens") --> PoderTributrio
-  0DefiniesespeciaisTeoriadaEmpresaeEmpresrio("0. Definições especiais, Teoria da Empresa e Empresário") --> PoderTributrio
-  PoderTributrio --> Estado("Estado")
-  PoderTributrio --> DireitosFundamentais("Direitos Fundamentais")
-  PoderTributrio --> 1Princpios("1. Princípios")
+## ️ G L
+```
+ LR
+  PT("P T")
+  y PT :#,:#,-:
+  CTN("CTN") --> PT
+  C("C") --> PT
+  B(". B") --> PT
+  DTEE(". D , T  E  E") --> PT
+  PT --> E("E")
+  PT --> D("D ")
+  PT --> P(". P")
 ```

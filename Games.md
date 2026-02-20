@@ -1,231 +1,231 @@
-### 🟢 Narrativa / Impacto Inicial
+### 🟢 N / I I
 
-1. ~~**Undertale**~~
+. **U**
     
-2. ~~**Disco Elysium**~~
+. **D Ey**
     
-3. **The Walking Dead Season One**
+. **T W D S O**
     
-4. **Life Is Strange**
+. **L I S**
     
-5. **Papers, Please**
-    
-
----
-
-### 🔵 FPS / Estilo BioShock
-
-6. **Prey**
-    
-7. **Metro 2033 Redux**
-    
-8. **Metro: Last Light Redux**
-    
-9. **Metro Exodus**
-    
-10. **Wolfenstein: The New Order**
-    
-11. **Wolfenstein: The New Colossus**
-    
-12. **Alan Wake**
-    
-13. **Control Ultimate Edition**
+. **P, P**
     
 
 ---
 
-### 🟠 Ação Cinematográfica
+###  PS / E BS
 
-14. **Tomb Raider**
+. **Py**
     
-15. **Rise of the Tomb Raider**
+. **M  R**
     
-16. **Shadow of the Tomb Raider**
+. **M: L L R**
     
-17. **Batman: Arkham Asylum**
+. **M E**
     
-18. **Batman: Arkham City**
+. **W: T N O**
     
-19. **Batman: Arkham Knight**
+. **W: T N C**
     
-20. **Max Payne**
+. **A W**
     
-21. **Max Payne 2: The Fall of Max Payne**
-    
-22. **Max Payne 3**
-    
-23. **Metal Gear Solid V: Ground Zeroes**
-    
-24. **Metal Gear Solid V: The Phantom Pain**
-    
-25. **Uncharted: Legacy of Thieves Collection**
-    
-26. **A Plague Tale: Innocence**
-    
-27. **A Plague Tale: Requiem**
+. **C U E**
     
 
 ---
 
-### 🔴 Mundo Aberto / Drama
+### 🟠 A C
 
-28. **Yakuza 0**
+. **T R**
     
-29. **Yakuza Kiwami**
+. **R   T R**
     
-30. **Sleeping Dogs: Definitive Edition**
+. **S   T R**
     
-31. **Assassin's Creed IV: Black Flag**
+. **B: A Ay**
     
-32. **Grand Theft Auto V**
+. **B: A Cy**
     
-33. **Red Dead Redemption 2**
+. **B: A K**
     
-34. **Mafia II**
+. **M Py**
     
-35. **L.A. Noire**
+. **M Py : T   M Py**
+    
+. **M Py **
+    
+. **M G S V: G Z**
+    
+. **M G S V: T P P**
+    
+. **U: Ly  T C**
+    
+. **A P T: I**
+    
+. **A P T: R**
     
 
 ---
 
-### 🟣 RPG Ocidental
+###  M A / D
 
-36. **Mass Effect**
+. **Yz **
     
-37. **Mass Effect 2**
+. **Yz K**
     
-38. **Mass Effect 3**
+. **S D: D E**
     
-39. **The Witcher 2: Assassins of Kings**
+. **A' C IV: B **
     
-40. **The Witcher 3: Wild Hunt**
+. **G T A V**
     
-41. **Dragon Age: Origins**
+. **R D R **
     
-42. **Fallout: New Vegas**
+. **M II**
     
-43. **Divinity: Original Sin 2**
+. **L.A. N**
+    
+
+---
+
+### 🟣 RPG O
+
+. **M E**
+    
+. **M E **
+    
+. **M E **
+    
+. **T W : A  K**
+    
+. **T W : W H**
+    
+. **D A: O**
+    
+. **: N V**
+    
+. **Dy: O S **
     
 
 ---
 
 ### 🟣 JRPG
 
-44. **Persona 4 Golden**
+. **P  G**
     
-45. **Persona 5 Royal**
+. **P  Ry**
     
-46. **NieR Replicant ver.1.22474487139...**
+. **NR R .....**
     
-47. **NieR: Automata**
+. **NR: A**
     
-48. **Final Fantasy IX**
+. ** y IX**
     
-49. **Final Fantasy X HD Remaster**
+. ** y X HD R**
     
-50. **Final Fantasy VII Remake Intergrade**
-    
-
----
-
-### ⚫ Horror / Tensão
-
-51. **Alien: Isolation**
-    
-52. **Resident Evil 2**
-    
-53. **Resident Evil 4**
-    
-54. **Dead Space**
+. ** y VII R I**
     
 
 ---
 
-### 🟡 Extras Essenciais
+###  H / T
 
-55. **Detroit: Become Human**
+. **A: I**
     
-56. **Heavy Rain**
+. **R E **
     
-57. **Hades**
+. **R E **
     
-58. **Far Cry 3**
+. **D S**
     
-59. **Deus Ex: Human Revolution**
-    
-60. **Deus Ex: Mankind Divided**
 
-## 🧠 JOGOS COM PLOT TWIST – ADIÇÕES (NÃO ESTAVAM NOS 60)
+---
 
-### 🔥 FPS / SCI-FI / CONTROLE & ILUSÃO
+### 🟡 E E
 
-61. **System Shock 2**  
-    👉 Avô do BioShock. Twist ideológico puro.
+. **D: B H**
     
-62. **Deus Ex**  
-    👉 Conspiração, controle, escolha falsa.
+. **Hy R**
     
-63. **Deus Ex: Invisible War**  
-    👉 Continuação direta, fecha arcos importantes.
+. **H**
     
-64. **Singularity**  
-    👉 Viaja no tempo + final recontextualizador.
+. ** Cy **
     
-65. **Black Mesa**  
-    👉 Não é twist explícito, mas muda a leitura de HL.
+. **D E: H R**
+    
+. **D E: M D**
+
+## 🧠 JOGOS COM PLOT TWIST  ADIÇÕES (NÃO ESTAVAM NOS )
+
+###  PS / SCI-I / CONTROLE & ILUSÃO
+
+. **Sy S **  
+     A  BS. T  .
+    
+. **D E**  
+     C, ,  .
+    
+. **D E: I W**  
+     C ,   .
+    
+. **Sy**  
+     V   +  z.
+    
+. **B M**  
+     N   ,      HL.
     
 
 ---
 
 ### 🧠 PSICOLÓGICOS / EXISTENCIAIS (SEM PUZZLE CHATO)
 
-66. **SOMA**  
-    👉 Um dos **finais mais perturbadores da história**.
+. **SOMA**  
+     U  **    **.
     
-67. **Observer: System Redux**  
-    👉 Consciência, memória, identidade.
+. **O: Sy R**  
+     C, , .
     
-68. **Silent Hill 2**  
-    👉 Plot twist lendário (psicológico, não jumpscare).
+. **S H **  
+     P   (,  ).
     
-69. **Alan Wake's American Nightmare**  
-    👉 Complementa o twist do Alan Wake.
+. **A W' A N**  
+     C    A W.
     
 
 ---
 
-### 🎬 META / QUEBRA DE EXPECTATIVA
+###  META / QUEBRA DE EXPECTATIVA
 
-70. **Metal Gear Solid 2: Sons of Liberty**  
-    👉 Um dos **maiores twists da história dos games**.
+. **M G S : S  Ly**  
+     U  **     **.
     
-71. **Metal Gear Solid 3: Snake Eater**  
-    👉 Prequel emocional, final lendário.
+. **M G S : S E**  
+     P ,  .
     
-72. **Spec Ops: The Line**  
-    👉 (Já zerou, mas entra como **referência máxima**).
+. **S O: T L**  
+     (J z,    ** **).
     
 
 ---
 
 ### 🧬 RPG / DRAMA COM REVELAÇÃO
 
-73. **Planescape: Torment**  
-    👉 “O que pode mudar a natureza de um homem?”
+. **P: T**  
+     O     z   ?
     
-74. **Star Wars: Knights of the Old Republic II**  
-    👉 Twist moral e filosófico absurdamente bom.
+. **S W: K   O R II**  
+     T     .
        
 
 ---
 
-### 🌍 MUNDO ABERTO COM VIRADA
+###  MUNDO ABERTO COM VIRADA
 
-76. **Far Cry 2**  
-    👉 Anti-herói, anti-missão, anti-final feliz.
+. ** Cy **  
+     A-, -, - z.
     
-77. **Far Cry 5**  
-    👉 Final controverso, mas **plot twist real**.
+. ** Cy **  
+      ,  **  **.
     
-78. **Watch Dogs**  
-    👉 Vigilância, controle, paranoia.
+. **W D**  
+     V, , .

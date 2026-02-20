@@ -1,41 +1,41 @@
-# **SPED - Sistema Público de Escrituração Digital**
+# **SPED - S P  E D**
 
-A modernização da administração tributária que transformou a fiscalização em um processo de **auditoria de dados**. Fundamental para TI e Legislação Tributária.
+A z       z     **  **.   TI  L T.
 
 ---
 
-## 1. O Que é o SPED?
-Instituído pelo Decreto nº 6.022/2007, é um instrumento que unifica as atividades de recepção, validação, armazenamento e autenticação de livros e documentos que integram a escrituração contábil e fiscal dos empresários.
-- **Objetivo:** Mais controle, menos burocracia (papel), cruzamento de dados automático.
+## . O Q   SPED?
+I  D  ./,         , , z               .
+- **O:** M ,   (), z   .
 
-## 2. Pilares do SPED (Módulos)
+## . P  SPED (M)
 
-### A. Documentos Fiscais Eletrônicos (DF-e)
-A existência jurídica da mercadoria/serviço agora é digital (XML assinado).
-- **NF-e (Nota Fiscal Eletrônica):** Modelo 55. Substitui a nota modelo 1/1A.
-- **NFC-e (Consumidor):** Substitui o Cupom Fiscal.
-- **CT-e (Conhecimento de Transporte):** Logística.
-- **MDF-e (Manifesto):** Agrupa CT-es para agilizar a fiscalização em barreiras.
+### A. D  E (D-)
+A    /    (XML ).
+- **N- (N  E):** M . S    /A.
+- **NC- (C):** S  C .
+- **CT- (C  T):** L.
+- **MD- (M):** A CT-  z  z  .
 
-### B. Escriturações Fiscais (EFD)
-- **EFD-ICMS/IPI (SPED Fiscal):** Detalha todas as operações de entrada e saída, apuração de impostos e inventário.
-- **EFD-Contribuições:** PIS/COFINS (regime não-cumulativo).
-- **EFD-Reinf:** Retenções na fonte (substitui parte da DIRF).
+### B. E  (ED)
+- **ED-ICMS/IPI (SPED ):** D       ,     .
+- **ED-C:** PIS/COINS ( -).
+- **ED-R:** R   (   DIR).
 
-### C. Escriturações Contábeis (ECD e ECF)
-- **ECD (Escrituração Contábil Digital):** É o "Diário" e "Razão" digitais. Substitui os livros em papel.
-- **ECF (Escrituração Contábil Fiscal):** Substitui a DIPJ. É aqui que se faz o **[[LALUR e Lucro Real]]** digitalmente.
-    - *Cruzamento Crítico:* A ECF recupera os saldos da ECD. Se a contabilidade não bater com o fiscal, a malha fina é automática.
+### C. E C (ECD  EC)
+- **ECD (E C D):** É  "D"  "Rz" . S    .
+- **EC (E C ):** S  DIPJ. É    z  **[[LALUR  L R]]** .
+    - *Cz C:* A EC     ECD. S       ,     .
 
-## 3. Cruzamento de Dados (Auditoria Eletrônica)
-Como o Fisco te pega usando o SPED:
-1.  **Cartão de Crédito (e-Financeira) vs. Faturamento (NFC-e):** Se a venda no cartão for maior que a nota emitida → Sonegação.
-2.  **Entradas (XML Fornecedor) vs. Saídas (Estoque):** Se comprou e não vendeu/não tem no estoque → Venda sem nota.
-3.  **Créditos Indevidos:** O sistema valida se a nota de entrada citada no SPED Fiscal realmente existe na base da Receita (chave de acesso).
+## . Cz  D (A E)
+C       SPED:
+.  **C  C (-) .  (NC-):** S            S.
+.  **E (XML ) . S (E):** S    /     V  .
+.  **C I:** O          SPED       R (  ).
 
-## 4. Conexão com TI (Tecnologia da Informação)
-- **Assinatura Digital (Certificado Digital):** Garante Autenticidade, Integridade e Não-Repúdio (ICP-Brasil).
-- **XML:** Formato padrão de intercâmbio de dados.
-- **Web Services:** Comunicação máquina-a-máquina para autorização de notas em tempo real.
+## . C  TI (T  I)
+- **A D (C D):** G A, I  N-R (ICP-B).
+- **XML:**      .
+- **W S:** C --  z     .
 
-Ver também: [[10 - Tecnologia da Informação (MOC)]], [[Lançamento Tributário]], [[Poder de polícia]]
+V : [[ - T  I (MOC)]], [[L T]], [[P  ]]

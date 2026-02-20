@@ -1,65 +1,65 @@
 ---
-tags: [dashboard, fiscal, master, ultimate]
+: [, , , ]
 ---
 
-# Área Fiscal
+# Á 
 
-[[./Fiscal.md|Painel]] | [[../README.md|Home]]
-
----
-
-## Estratégia e Fundamentos
-- [[Bancas]]
-- [[Jurisprudência Fiscal (STF e STJ)]]
-- [[Erros Clássicos da Área Fiscal]]
-- [[Mapa Sistêmico Fiscal]]
+[[./.|P]] | [[../README.|H]]
 
 ---
 
-## Constituição Navegável
-- [[CF]] (Constituição Federal)
-- [[CTN]] (Código Tributário Nacional)
-- [[Pacto Federativo e Tributação]]
-
-## Notas-Ponte
-- [[LALUR e Lucro Real]]
-- [[SPED - Sistema Público de Escrituração Digital]]
-- [[Conexões de Direito Público]]
+## E  
+- [[B]]
+- [[J  (ST  STJ)]]
+- [[E C  Á ]]
+- [[M S ]]
 
 ---
 
-## Módulos
+## C N
+- [[C]] (C )
+- [[CTN]] (C T N)
+- [[P   T]]
 
-### Jurídico
-- [[01 - Direito Tributário (MOC)|Direito Tributário]]
-- [[02 - Direito Constitucional (MOC)|Direito Constitucional]]
-- [[03 - Direito Administrativo (MOC)|Direito Administrativo]]
-- [[07 - Legislação Tributária (MOC)|Legislação Tributária]]
-- [[11 - Direito Civil (MOC)|Direito Civil]]
-- [[12 - Direito Empresarial (MOC)|Direito Empresarial]]
-
-### Exatas e Contábeis
-- [[04 - Contabilidade Geral (MOC)|Contabilidade Geral]]
-- [[05 - Contabilidade Avançada (MOC)|Contabilidade Avançada]]
-- [[06 - Auditoria (MOC)|Auditoria]]
-- [[09 - Raciocínio Lógico (MOC)|Raciocínio Lógico]]
-
-### Suporte
-- [[10 - Tecnologia da Informação (MOC)|Tecnologia da Informação]]
-- [[08 - Português (MOC)|Português]]
-- [[99 - Conceitos Gerais (MOC)|Conceitos Gerais]]
+## N-P
+- [[LALUR  L R]]
+- [[SPED - S P  E D]]
+- [[C  D P]]
 
 ---
 
-## Grafo de Conexões
-```mermaid
-graph TD
-  Central[Índice] --> Metodologia[Metodologia]
-  Central --> Jurisprudencia[Jurisprudência]
-  Central --> LALUR[LALUR]
-  Central --> SPED[SPED]
-  LALUR --> Contabilidade
-  LALUR --> Tributario
-  Jurisprudencia --> Tributario
-  Jurisprudencia --> Constitucional
+## M
+
+### J
+- [[ - D T (MOC)|D T]]
+- [[ - D C (MOC)|D C]]
+- [[ - D A (MOC)|D A]]
+- [[ - L T (MOC)|L T]]
+- [[ - D C (MOC)|D C]]
+- [[ - D E (MOC)|D E]]
+
+### E  C
+- [[ - C G (MOC)|C G]]
+- [[ - C A (MOC)|C A]]
+- [[ - A (MOC)|A]]
+- [[ - R L (MOC)|R L]]
+
+### S
+- [[ - T  I (MOC)|T  I]]
+- [[ - P (MOC)|P]]
+- [[ - C G (MOC)|C G]]
+
+---
+
+## G  C
+```
+ TD
+  C[Í] --> M[M]
+  C --> J[J]
+  C --> LALUR[LALUR]
+  C --> SPED[SPED]
+  LALUR --> C
+  LALUR --> T
+  J --> T
+  J --> C
 ```

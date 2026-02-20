@@ -1,12 +1,12 @@
-# **MOC - Português**
+# **MOC - P**
 
-🏠 **[Home](../README.md)** | 📊 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)**
+ **[H](../README.)** |  **[P G](../%-%P%G%/.)**
 
-## ✍️ Temas de Português
-- **[Interpretação Textual](./Interpretação%20Textual.md)**
-- **[Coesão e Coerência](./Coesão%20e%20Coerência.md)**
-- **[Semântica, Tipos de Discurso e Tipologia](./Semântica,%20Tipos%20de%20Discurso%20e%20Tipologia.md)**
-- **[Resolução de Provas](./Resolução%20de%20Provas.md)**
+## ️ T  P
+- **[I T](./I%T.)**
+- **[C  C](./C%%C.)**
+- **[S, T  D  T](./S,%T%%D%%T.)**
+- **[R  P](./R%%P.)**
 
 ---
-🔙 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)** | 🗺️ **[Mapa Sistêmico Fiscal](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)**
+ **[P G](../%-%P%G%/.)** | ️ **[M S ](../%-%P%G%/M%S%.)**

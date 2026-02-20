@@ -1,45 +1,45 @@
-# **Conexões de Direito Público (CONST, ADM, TRIB)**
+# **C  D P (CONST, ADM, TRIB)**
 
-Esta nota serve como ponte conceitual entre os ramos do Direito Público, integrando temas recorrentes em provas fiscais (FGV, CEBRASPE, FCC).
+E          D P,       (GV, CEBRASPE, CC).
 
-## **1. Poder de Polícia e Tributação**
-O exercício do **[[5. Poderes e Deveres#**6. Poder de polícia:|Poder de Polícia]]** (Direito Administrativo) é o fato gerador para a instituição de **Taxas** (Direito Tributário).
-- **Referência:** Art. 78 do CTN e Art. 145, II, da CF/88.
-- **Conexão:** A taxa de polícia exige o exercício efetivo ou potencial do poder fiscalizatório.
+## **. P  P  T**
+O   **[[. P  D#**. P  :|P  P]]** (D A)         **T** (D T).
+- **R:** A.   CTN  A. , II,  C/.
+- **C:** A            z.
 
-## **2. Princípio da Legalidade**
-A **[[Princípios da Administração Pública#Expressos (Art. 37, CF)|Legalidade Administrativa]]** (Art. 37, CF) reflete-se no **[[1. Princípios#1.1 Princípio da legalidade|Princípio da Legalidade Tributária]]** (Art. 150, I, CF).
-- **Tributário:** Exige lei em sentido estrito para criar ou aumentar tributos.
-- **Administrativo:** O administrador só pode fazer o que a lei autoriza.
-- **Exceções:** Atenção às exceções de legalidade em Tributário (II, IE, IPI, IOF) que permitem alteração de alíquotas por ato do Executivo (decretos), o que se conecta ao **[[5. Poderes e Deveres#5. Poder regulamentar ou normativo:|Poder Regulamentar]]**.
+## **. P  L**
+A **[[P  A P#E (A. , C)|L A]]** (A. , C) -  **[[. P#. P  |P  L T]]** (A. , I, C).
+- **T:** E         .
+- **A:** O    z     z.
+- **E:** A      T (II, IE, IPI, IO)         E (),      **[[. P  D#. P   :|P R]]**.
 
-## **3. Organização do Estado e Competências**
-A **[[0. Conceito, Poder Constituinte e Princípios Fundamentais#3. Princípios Fundamentais|Organização do Estado]]** define as competências dos entes federados (União, Estados, DF e Municípios).
-- **Pacto Federativo:** Protegido pela **[[2. Imunidades#1. Imunidades Tributárias|Imunidade Recíproca]]**, que veda a tributação de impostos sobre patrimônio, renda ou serviços entre os entes.
-- **Autonomia FAP:** A autonomia Financeira, Administrativa e Política dos entes (Art. 18, CF) é sustentada pela sua competência tributária própria.
+## **. Oz  E  C**
+A **[[. C, P C  P #. P |Oz  E]]**       (U, E, D  M).
+- **P :** P  **[[. I#. I T|I R]]**,        ,      .
+- **A AP:** A  , A  P   (A. , C)       .
 
-## **4. Controle de Constitucionalidade e Matéria Tributária**
-As normas tributárias estão sujeitas ao **Controle de Constitucionalidade**.
-- **Exemplo:** O STF utiliza o controle para definir o alcance de princípios como a **Anterioridade** e o **Não-Confisco**.
-- **Conexão:** Normas que violam as **Limitações ao Poder de Tributar** são materialmente inconstitucionais.
+## **. C  C  M T**
+A      **C  C**.
+- **E:** O ST z           **A**   **N-C**.
+- **C:** N    **L  P  T**   .
 
-## **5. Direitos Fundamentais e o Contribuinte**
-O Art. 150 da CF/88 traz as "Garantias Fundamentais do Contribuinte", que são desdobramentos dos **[[0. Conceito, Poder Constituinte e Princípios Fundamentais#3. Elementos das Constituições (segundo José Afonso da Silva)|Direitos Fundamentais]]** (Elementos Limitativos).
-- **Irretroatividade:** Proteção da segurança jurídica e do ato jurídico perfeito.
-- **Capacidade Contributiva:** Desdobramento do Princípio da Igualdade (Isonomia).
+## **. D    C**
+O A.   C/ z  "G   C",     **[[. C, P C  P #. E  C ( J A  S)|D ]]** (E L).
+- **I:** P        .
+- **C C:** D  P  I (I).
 
 
-## 🕸️ Grafo Local
-```mermaid
-graph LR
-  ConexesdeDireitoPblico("Conexões de Direito Público")
-  style ConexesdeDireitoPblico fill:#f9f,stroke:#333,stroke-width:4px
-  1Princpios("1. Princípios") --> ConexesdeDireitoPblico
-  2Imunidades("2. Imunidades") --> ConexesdeDireitoPblico
-  10ExclusodoCrditoTributrio("10. Exclusão do Crédito Tributário") --> ConexesdeDireitoPblico
-  0ConceitoPoderConstituinteePrincpiosFundamentais("0. Conceito, Poder Constituinte e Princípios Fundamentais") --> ConexesdeDireitoPblico
-  3DDIC1("3. DDIC 1") --> ConexesdeDireitoPblico
-  5DireitosSociais("5. Direitos Sociais") --> ConexesdeDireitoPblico
-  5PodereseDeveres("5. Poderes e Deveres") --> ConexesdeDireitoPblico
-  3OrgAdm2("3. Org Adm 2") --> ConexesdeDireitoPblico
+## ️ G L
+```
+ LR
+  CDP("C  D P")
+  y CDP :#,:#,-:
+  P(". P") --> CDP
+  I(". I") --> CDP
+  ECT(". E  C T") --> CDP
+  CPCP(". C, P C  P ") --> CDP
+  DDIC(". DDIC ") --> CDP
+  DS(". D S") --> CDP
+  PD(". P  D") --> CDP
+  OA(". O A ") --> CDP
 ```
