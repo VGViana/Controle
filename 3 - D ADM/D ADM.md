@@ -1,3 +1,3 @@
 [[Entidades Paraestatais e o 3° Setor]]
 
-[[Pode]]
+[[Poderes e Deveres]]
