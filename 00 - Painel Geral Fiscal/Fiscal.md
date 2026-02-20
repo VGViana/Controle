@@ -6,7 +6,7 @@
 
 ## Estrategia e Fundamentos
 - [[Bancas|Bancas]]
-- [[../99 - Conceitos Gerais/Jurisprudência Fiscal (STF e STJ|Jurisprudencia Fiscal (STF e STJ)]]
+- [[../99 - Conceitos Gerais/Jurisprudência Fiscal (STF e STJ)|Jurisprudencia Fiscal (STF e STJ)]]
 - [[Erros Clássicos da Área Fiscal|Erros Classicos da Area Fiscal]]
 - [[Mapa Sistêmico Fiscal|Mapa Sistemico Fiscal]]
 
