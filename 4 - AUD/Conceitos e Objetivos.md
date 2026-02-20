@@ -190,3 +190,4 @@ Também é classificada como:
     - Usar **premissas inapropriadas** ao determinar a natureza, a época e a extensão dos procedimentos e avaliar os seus resultados.
 
 ❗O exercício do ceticismo profissional está sujeito a **ameaças** provenientes de tendências <span style="color:#fb4934">**conscientes e inconscientes** </span>do auditor.
+
