@@ -89,22 +89,95 @@
 - **<span style="color:#fb4934">Controle judicial**;</span>
 - Poderes:
     - **<span style="color:#fb4934">de Polícia;</span>**
-    - **disciplinar;**
+    - <span style="color:#fb4934">**disciplinar;**</span>
 - **Fundamentos**:
-    - **Presunção de legitimidade**;
-    - **Supremacia do interesse público**;
-    - **Urgência.**
-- **Exigibilidade:**
-    -  Meios **indiretos** de coação;
-    - O **administrado** executa a medida.
-- **Executoriedade:**
-    - Coação **direta** ou **material;**
-    - **Uso da força;**
-    - A **administração** executa a medida.
+    - **<span style="color:#fb4934">Presunção de legitimidade</span>**;
+    - **<span style="color:#fb4934">Supremacia do interesse público</span>**;
+    - **<span style="color:#fb4934">Urgência</span>.**
+- **<span style="color:#fb4934">Exigibilidade</span>:**
+    -  Meios **<span style="color:#fb4934">indiretos</span>** de coação;
+    - O **<span style="color:#fb4934">administrado</span>** executa a medida.
+- **<span style="color:#fb4934">Executoriedade:</span>**
+    - Coação **<span style="color:#fb4934">direta</span>** ou **<span style="color:#fb4934">material</span>;**
+    - **<span style="color:#fb4934">Uso da força;</span>**
+    - A **<span style="color:#fb4934">administração</span>** executa a medida.
 
-**4.4 Tipicidade:**
+## **<span style="color:#b8bb26">4.4 Tipicidade:</span>**
 
-- Previsão **legal**;
-- **Finalidade** do ato;
-- **Não existe** ato **totalmente discricionário**;
-- **Não existe** ato inominado **unilateral**
+- Previsão *<span style="color:#b8bb26">*legal</span>**;
+- **<span style="color:#b8bb26">Finalidade</span>** do ato;
+- **<span style="color:#b8bb26">Não existe</span>** ato **totalmente discricionário**;
+- **<span style="color:#b8bb26">Não existe</span>** ato inominado **unilateral**
+
+# **5. Elementos de formação:**
+
+- Requisitos ou aspectos de **<span style="color:#d3869b">validade</span>**;
+- **Elementos <span style="color:#d3869b">ESSENCIAIS*</span>*: _**(<span style="color:#fe8019">BIZU! Com Fi For M Ob</span>)**_  
+    - **Competência**;
+    - **Finalidade;**
+    - **Forma;**
+    - **Motivo;**
+    - **Objeto.** 
+- **Elementos <span style="color:#83a598">ACESSÓRIOS/ACIDENTAIS</span>**:
+    - <span style="color:#83a598">**Ampliam**</span> ou **<span style="color:#83a598">restringem*</span>* os efeitos jurídicos do ato;
+    - Referem-se ao **<span style="color:#fe8019">OBJETO*</span>* do **<span style="color:#fe8019">ato discricionário*</span>*;
+    - **<span style="color:#83a598">Termo*</span>*;
+    - <span style="color:#83a598">**Condição**:
+    - **Modo** ou **encargo**.</span>
+
+## **5.1 Competência (sujeito)**:
+
+- **<span style="color:#83a598">Poder legal</span>** conferido ao agente para o **desempenho de suas atribuições**;
+- Elemento **<span style="color:#83a598">vinculado</span>;**
+- Exercício **<span style="color:#83a598">obrigatório;</span>**
+- **<span style="color:#83a598">Irrenunciáveis</span>;**
+- **<span style="color:#83a598">Intransferíveis/inderrogáveis;</span>**
+- **<span style="color:#83a598">Imodificáveis</span>;**
+- **<span style="color:#83a598">Imprescritíveis;</span>**
+- **<span style="color:#83a598">Improrrogável</span>;**
+- **<span style="color:#83a598">Critérios de distribuição</span>:**
+    - matéria;
+    - território;
+    - grau hierárquico;
+    - tempo;
+    - fracionamento.
+- **<span style="color:#83a598">Delegação</span>:**
+    - quando **<span style="color:#fb4934">não houver impedimento legal**</span>, para órgãos ou agentes, **subordinados ou não;**
+    - presente a **<span style="color:#83a598">hierarquia</span>:**
+        - ato **<span style="color:#83a598">unilateral</span>**; 
+        - ordem superior **independente da anuência** do delegado;
+        - **<span style="color:#83a598">vertical</span>.**
+    - **<span style="color:#fb4934">ausência*</span>* de **hierarquia**:
+        - **depende** da **concordância** do delegado;
+        - ato **<span style="color:#fb4934">bilateral</span>;**
+        - **<span style="color:#fb4934">horizontal</span>.**
+- **Avocação:**
+    - atrair para si **competência do subordinado**;
+    - existência de **hierarquia;**
+    - **excepcional;**
+    - **motivos relevantes;**
+    - **temporária;**
+    - **vedada** para **competência exclusiva** do subordinado.
+
+**_Se liga!_**  **Não podem ser objeto de delegação: (_Bizu! 🥕 CE  NO_** u **_RA_)**
+
+- Edição de **atos de caráter NOrmativo;**
+- Decisão de **Recursos Administrativos;**
+- Matérias de **Competência Exclusiva** do órgão ou autoridade**.**
+
+**5.2 Finalidade**: 
+
+- **Geral**: **interesse público**;
+- **Específica**: objetivo diretamente **previsto na lei;**
+- Elemento **vinculado.**
+
+**5.3 Forma**:
+
+- Sentido **estrito**:
+    - modo de **exteriorização** do ato.
+- Sentido **amplo**:
+    - **formalidades** do processo de formação da vontade;
+    - princípio do **devido processo legal.**
+- Elemento **vinculado;**
+- **Princípio da Solenidade:**
+    - forma **específica** prevista na **lei.**
