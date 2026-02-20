@@ -182,8 +182,6 @@
 - **Princípio da Solenidade:**
     - forma **<span style="color:#83a598">específica</span>** prevista na **lei.**
 
-# **5. Elementos de formação:**
-
 ## **<span style="color:#fe8019">5.4 Motivo:</span>**
 
 - **<span style="color:#d3869b">Situação*</span>* de **<span style="color:#d3869b">direito</span>** ou de **<span style="color:#d3869b">fato</span>** que **<span style="color:#83a598">determina</span>** ou <span style="color:#83a598">**autoriza**</span> a realização do **ato** administrativo;
@@ -225,15 +223,16 @@
 - **<span style="color:#fe8019">Objeto*</span>*: **<span style="color:#83a598">fim imediato</span>** (direto) do ato;
 - <span style="color:#fe8019">**Finalidade*</span>*:  **<span style="color:#83a598">resultado desejado</span>**, **<span style="color:#83a598">fim mediato</span>** (indireto).
 
-**💡****<span style="color:#fb4934">_Se liga!_*</span>*   Segundo **Maria S. Z. Di Pietro:**
+**💡<span style="color:#fb4934">_Se liga!_*</span>*   Segundo **Maria S. Z. Di Pietro:**
 
-- **Objeto natural:** efeito jurídico que o ato produz, decorrente da própria natureza do ato, previsto em lei;
-- **Objeto acidental/acessório:** efeito jurídico que o ato produz em decorrência de cláusulas acessórias inseridas, tais como:
-    - **termo:** data de início ou término da eficácia do ato;
-        - evento **FUTURO** e **CERTO.**
-    - **condição:**
-        - evento **FUTURO** e **INCERTO;**
-        - **suspensiva:**  **suspende** o início da eficácia do ato **até o cumprimento da condição**;
-        - **resolutiva:** **cessa** a produção dos **efeitos jurídicos** do ato **após o** **adimplemento da condição.**
-    - **encargo/modo:** obrigação ou ônus para que o destinatário usufrua do benefício do ato;
-    - **somente pode ocorrer em atos discricionários.**
+
+- **<span style="color:#fe8019">Objeto natural:</span>** efeito jurídico que o ato produz, decorrente da própria natureza do ato, previsto em lei;
+- **<span style="color:#fe8019">Objeto acidental/acessório:</span>** efeito jurídico que o ato produz em decorrência de cláusulas acessórias inseridas, tais como:
+    - **<span style="color:#d3869b">termo:</span>** data de início ou término da eficácia do ato;
+        - evento **<span style="color:#d3869b">FUTURO*</span>* e **<span style="color:#d3869b">CERTO.</span>**
+    - **<span style="color:#d3869b">condição</span>:**
+        - evento **<span style="color:#d3869b">FUTURO** </span>e **<span style="color:#d3869b">INCERTO;</span>**
+        - **<span style="color:#d3869b">suspensiva:</span>**  **suspende** o início da eficácia do ato **<span style="color:#83a598">até o cumprimento da condição</span>**;
+        - **resolutiva:** **cessa** a produção dos **efeitos jurídicos** do ato **<span style="color:#d3869b">após o</span>** **<span style="color:#d3869b">adimplemento da condição.</span>**
+    - **<span style="color:#83a598">encargo/modo</span>:** obrigação ou ônus para que o destinatário usufrua do benefício do ato;
+    - **<span style="color:#b8bb26">somente pode ocorrer em atos discricionários.</span>**
