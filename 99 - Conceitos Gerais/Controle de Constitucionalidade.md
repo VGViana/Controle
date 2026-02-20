@@ -34,7 +34,7 @@ O Controle de Constitucionalidade é o mecanismo que garante a supremacia da Con
 4. **ADPF (Arguição de Descumprimento de Preceito Fundamental)**: Caráter subsidiário, utilizada quando não couber ADI ou ADC (ex: leis municipais ou leis pré-constitucionais).
 
 ---
-**Foco Fiscal:** O controle de constitucionalidade é frequentemente utilizado para contestar a criação ou majoração de tributos que violam os **[Princípios Constitucionais Tributários](1. Princípios.md)**.
+**Foco Fiscal:** O controle de constitucionalidade é frequentemente utilizado para contestar a criação ou majoração de tributos que violam os **[[1. Princípios|Princípios Constitucionais Tributários]]**.
 
 
 ## Grafo Local

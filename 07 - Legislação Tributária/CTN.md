@@ -8,13 +8,13 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 > [!abstract] Informações Gerais
 > **Fonte:** Lei nº 5.172/1966  
-> **Natureza:** Norma geral de direito tributário ([CF/88, art. 146](CF#^art146.md).md)  
-> **MOC Pai:** [Direito Tributário](01 - Direito Tributário (MOC).md  
-> **Conexões:** [Conexões de Direito Público](Conexões de Direito Público.md), [Poder Tributário](Poder Tributário.md)
-> **Jurisprudência:** [Jurisprudência Fiscal (STF e STJ.md)](Jurisprudência Fiscal (STF e STJ.md).md) (O CTN é antigo, cuidado com artigos não recepcionados.md).
+> **Natureza:** Norma geral de direito tributário ([[CF#^art146|CF/88, art. 146]].md)  
+> **MOC Pai:** [[01 - Direito Tributário (MOC|Direito Tributário]].md  
+> **Conexões:** [[Conexões de Direito Público|Conexões de Direito Público]], [[Poder Tributário|Poder Tributário]]
+> **Jurisprudência:** [[Jurisprudência Fiscal (STF e STJ|Jurisprudência Fiscal (STF e STJ.md)]].md) (O CTN é antigo, cuidado com artigos não recepcionados.md).
 
 > [!danger] ☢️ Radar de Bancas (Mapa de Calor)
-> **FGV/Cebraspe:** Amam **[Art. 113](CTN#^ctn113.md)** (Obrigação Principal x Acessória.md), **[Art. 121](CTN#^ctn121.md)** (Sujeito Passivo.md) e **[Art. 135](CTN#^ctn135.md)** (Responsabilidade de Sócios.md).
+> **FGV/Cebraspe:** Amam **[[CTN#^ctn113|Art. 113]]** (Obrigação Principal x Acessória.md), **[[CTN#^ctn121|Art. 121]]** (Sujeito Passivo.md) e **[[CTN#^ctn135|Art. 135]]** (Responsabilidade de Sócios.md).
 > **FCC/Vunesp:** Decoreba de **Prazos** (Prescrição e Decadência - Arts. 173 e 174) e **Causas de Suspensão/Extinção** (Arts. 151 e 156).
 > **Pegadinha Clássica:** A multa não paga vira Dívida Ativa, mas não vira Tributo (Art. 3º).
 
@@ -35,7 +35,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 * Art. 2º O sistema tributário nacional é regido pelo disposto na Emenda Constitucional nº 18, de 1º de dezembro de 1965, em leis complementares, em resoluções do Senado Federal e, nos limites das respectivas competências, em leis federais, nas Constituições e em leis estaduais, e em leis municipais. ^ctn2
 
 * Art. 3º Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada. ^ctn3  
-	> Ver: [Conceito de Tributo e Princípios](01 - Direito Tributário/1. Princípios.md)
+	> Ver: [[01 - Direito Tributário/1. Princípios|Conceito de Tributo e Princípios]]
 
 * Art. 4º A natureza jurídica específica do tributo é determinada pelo fato gerador da respectiva obrigação, sendo irrelevantes para qualificá-la: ^ctn4
 	* I – a denominação e demais características formais adotadas pela lei; ^ctn4i
@@ -50,7 +50,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 * Art. 6º A atribuição constitucional de competência tributária compreende a competência legislativa plena, ressalvadas as limitações contidas na Constituição Federal, nas Constituições dos Estados e nas Leis Orgânicas do Distrito Federal e dos Municípios, e observado o disposto nesta Lei. ^ctn6  
-	> Ver: [Poder e Competência Tributária](99 - Conceitos Gerais/Poder Tributário.md)
+	> Ver: [[99 - Conceitos Gerais/Poder Tributário|Poder e Competência Tributária]]
 
 	* Parágrafo único. Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público pertencerá à competência legislativa daquela a que tenham sido atribuídos. ^ctn6p
 
@@ -69,9 +69,9 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 ### Seção I – Disposições Gerais
 
 * Art. 9º É vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^ctn9  
-	> Ver: [Imunidades Tributárias](01 - Direito Tributário/2. Imunidades.md)
+	> Ver: [[01 - Direito Tributário/2. Imunidades|Imunidades Tributárias]]
 
-	* I – instituir ou majorar tributo sem que a lei o estabeleça, ressalvado, quanto à majoração, o disposto nos arts. [#^ctn21](#^ctn21.md) , [#^ctn26](#^ctn26.md) e [#^ctn65](#^ctn65.md);  
+	* I – instituir ou majorar tributo sem que a lei o estabeleça, ressalvado, quanto à majoração, o disposto nos arts. [[#^ctn21|#^ctn21]] , [[#^ctn26|#^ctn26]] e [[#^ctn65|#^ctn65]];  
 	* II – cobrar imposto sobre o patrimônio e a renda com base em lei posterior à data inicial do exercício financeiro a que corresponda;  
 	* III – estabelecer limitações ao tráfego, no território nacional, de pessoas ou mercadorias, por meio de tributos interestaduais ou intermunicipais;  
 	* IV – cobrar impostos sobre:
@@ -91,20 +91,20 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 ### Seção II – Disposições Especiais
 
-* Art. 12. O disposto na alínea a do inciso IV do [#^ctn9](#^ctn9.md), observado o disposto nos seus §§ 1º e 2º, é extensivo às autarquias criadas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, tão-somente no que se refere ao patrimônio, à renda ou aos serviços vinculados às suas finalidades essenciais, ou delas decorrentes. ^ctn12
+* Art. 12. O disposto na alínea a do inciso IV do [[#^ctn9|#^ctn9]], observado o disposto nos seus §§ 1º e 2º, é extensivo às autarquias criadas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, tão-somente no que se refere ao patrimônio, à renda ou aos serviços vinculados às suas finalidades essenciais, ou delas decorrentes. ^ctn12
 
-* Art. 13. O disposto na alínea a do inciso IV do [#^ctn9](#^ctn9.md) não se aplica aos serviços públicos concedidos, cujo tratamento tributário é estabelecido pelo poder concedente, no que se refere aos tributos de sua competência, ressalvado o que dispõe o parágrafo único. ^ctn13
+* Art. 13. O disposto na alínea a do inciso IV do [[#^ctn9|#^ctn9]] não se aplica aos serviços públicos concedidos, cujo tratamento tributário é estabelecido pelo poder concedente, no que se refere aos tributos de sua competência, ressalvado o que dispõe o parágrafo único. ^ctn13
 
-	* Parágrafo único. Mediante lei especial e tendo em vista o interesse comum, a União pode instituir isenção de tributos federais, estaduais e municipais para os serviços públicos que conceder, observado o disposto no § 1º do [#^ctn9](#^ctn9.md). ^ctn13p
+	* Parágrafo único. Mediante lei especial e tendo em vista o interesse comum, a União pode instituir isenção de tributos federais, estaduais e municipais para os serviços públicos que conceder, observado o disposto no § 1º do [[#^ctn9|#^ctn9]]. ^ctn13p
 
-* Art. 14. O disposto na alínea c do inciso IV do [#^ctn9](#^ctn9.md) é subordinado à observância dos seguintes requisitos pelas entidades nele referidas: ^ctn14
+* Art. 14. O disposto na alínea c do inciso IV do [[#^ctn9|#^ctn9]] é subordinado à observância dos seguintes requisitos pelas entidades nele referidas: ^ctn14
 
 	* I – não distribuírem qualquer parcela de seu patrimônio ou de suas rendas, a qualquer título; ^ctn14i
 	* II – aplicarem integralmente, no País, os seus recursos na manutenção dos seus objetivos institucionais; ^ctn14ii
 	* III – manterem escrituração de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão. ^ctn14iii
 
-	* § 1º Na falta de cumprimento do disposto neste artigo, ou no § 1º do [#^ctn9](#^ctn9.md), a autoridade competente pode suspender a aplicação do benefício. ^ctn14p1
-	* § 2º Os serviços a que se refere a alínea c do inciso IV do [#^ctn9](#^ctn9.md) são exclusivamente os diretamente relacionados com os objetivos institucionais das entidades de que trata este artigo. ^ctn14p2
+	* § 1º Na falta de cumprimento do disposto neste artigo, ou no § 1º do [[#^ctn9|#^ctn9]], a autoridade competente pode suspender a aplicação do benefício. ^ctn14p1
+	* § 2º Os serviços a que se refere a alínea c do inciso IV do [[#^ctn9|#^ctn9]] são exclusivamente os diretamente relacionados com os objetivos institucionais das entidades de que trata este artigo. ^ctn14p2
 
 * Art. 15. Somente a União, nos seguintes casos excepcionais, pode instituir empréstimos compulsórios: ^ctn15
 
@@ -243,7 +243,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 * Art. 44. A base de cálculo do imposto é o montante, real, arbitrado ou presumido, da renda ou dos proventos tributáveis. ^ctn44
 
-* Art. 45. Contribuinte do imposto é o titular da disponibilidade a que se refere o art. [#^ctn43](#^ctn43.md). ^ctn45
+* Art. 45. Contribuinte do imposto é o titular da disponibilidade a que se refere o art. [[#^ctn43|#^ctn43]]. ^ctn45
 
 	* Parágrafo único. A lei pode atribuir à fonte pagadora da renda ou dos proventos tributáveis a condição de responsável pelo imposto cuja retenção e recolhimento lhe caibam. ^ctn45p
 
@@ -259,7 +259,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 * Art. 47. A base de cálculo do imposto é: ^ctn47
 
-	* I – no caso do inciso I do artigo anterior, o preço normal, como definido no inciso II do art. [#^ctn20](#^ctn20.md); ^ctn47i
+	* I – no caso do inciso I do artigo anterior, o preço normal, como definido no inciso II do art. [[#^ctn20|#^ctn20]]; ^ctn47i
 	* II – no caso do inciso II do artigo anterior, o valor da operação de que decorrer a saída da mercadoria; ^ctn47ii
 	* III – no caso do inciso III do artigo anterior, o preço da arrematação. ^ctn47iii
 
@@ -312,13 +312,13 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 # CAPÍTULO IV – TAXAS
 
 * Art. 77. As taxas cobradas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, no âmbito de suas respectivas atribuições, têm como fato gerador o exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição. ^ctn77  
-	> Ver: [Poder de Polícia](99 - Conceitos Gerais/Poder de polícia.md)
+	> Ver: [[99 - Conceitos Gerais/Poder de polícia|Poder de Polícia]]
 
 	* Parágrafo único. A taxa não pode ter base de cálculo ou fato gerador idênticos aos que correspondam a imposto nem ser calculada em função do capital das empresas. ^ctn77p
 
 * Art. 78. Considera-se poder de polícia a atividade da administração pública que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato. ^ctn78
 
-* Art. 79. Os serviços públicos a que se refere o art. [#^ctn77](#^ctn77.md) consideram-se: ^ctn79
+* Art. 79. Os serviços públicos a que se refere o art. [[#^ctn77|#^ctn77]] consideram-se: ^ctn79
 
 	* I – utilizados pelo contribuinte:  
 		a) efetivamente, quando por ele usufruídos a qualquer título;  
@@ -392,9 +392,9 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 * Art. 103. Salvo disposição em contrário, entram em vigor: ^ctn103
 
-	* I – os atos administrativos a que se refere o inciso I do art. [#^ctn100](#^ctn100.md), na data da sua publicação; ^ctn103i
-	* II – as decisões a que se refere o inciso II do art. [#^ctn100](#^ctn100.md), quanto a seus efeitos normativos, 30 (trinta.md) dias após a data da sua publicação; ^ctn103ii
-	* III – os convênios a que se refere o inciso IV do art. [#^ctn100](#^ctn100.md), na data neles prevista. ^ctn103iii
+	* I – os atos administrativos a que se refere o inciso I do art. [[#^ctn100|#^ctn100]], na data da sua publicação; ^ctn103i
+	* II – as decisões a que se refere o inciso II do art. [[#^ctn100|#^ctn100]], quanto a seus efeitos normativos, 30 (trinta.md) dias após a data da sua publicação; ^ctn103ii
+	* III – os convênios a que se refere o inciso IV do art. [[#^ctn100|#^ctn100]], na data neles prevista. ^ctn103iii
 
 * Art. 104. Entram em vigor no primeiro dia do exercício seguinte àquele em que ocorra a sua publicação os dispositivos de lei, referentes a impostos sobre o patrimônio ou a renda, que: ^ctn104
 
@@ -445,7 +445,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 * Art. 113. A obrigação tributária é principal ou acessória. ^ctn113  
-	> Ver MOC: [Direito Tributário](01 - Direito Tributário/D TRIB.md)
+	> Ver MOC: [[01 - Direito Tributário/D TRIB|Direito Tributário]]
 
 	* § 1º A obrigação principal surge com a ocorrência do fato gerador, tem por objeto o pagamento de tributo ou penalidade pecuniária e extingue-se juntamente com o crédito dela decorrente. ^ctn113p1
 	* § 2º A obrigação acessória decorre da legislação tributária e tem por objeto as prestações, positivas ou negativas, nela previstas no interesse da arrecadação ou da fiscalização dos tributos. ^ctn113p2
@@ -578,7 +578,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 * Art. 139. O crédito tributário decorre da obrigação principal e tem a mesma natureza desta. ^ctn139  
-	> Ver: [Teoria do Crédito Tributário](01 - Direito Tributário/7. Crédito tributário.md)
+	> Ver: [[01 - Direito Tributário/7. Crédito tributário|Teoria do Crédito Tributário]]
 
 * Art. 140. As circunstâncias que modificam o crédito tributário, sua extensão ou seus efeitos, não afetam a obrigação tributária que lhe deu origem. ^ctn140
 
@@ -590,8 +590,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 ### Seção I – Lançamento
 
-* Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo [lançamento](99 - Conceitos Gerais/Lançamento Tributário.md). ^ctn142  
-	> Ver: [Lançamento Tributário](99 - Conceitos Gerais/Lançamento Tributário.md)
+* Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo [[99 - Conceitos Gerais/Lançamento Tributário|lançamento]]. ^ctn142  
+	> Ver: [[99 - Conceitos Gerais/Lançamento Tributário|Lançamento Tributário]]
 
 	* Parágrafo único. A atividade administrativa de lançamento é vinculada e obrigatória. ^ctn142p
 
@@ -635,8 +635,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO III – SUSPENSÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 151. [Suspendem a exigibilidade](01 - Direito Tributário/8. Suspensão da Exigibilidade do Crédito Tributário.md) do crédito tributário: ^ctn151  
-	> Ver: [Hipóteses de Suspensão](01 - Direito Tributário/8. Suspensão da Exigibilidade do Crédito Tributário.md)
+* Art. 151. [[01 - Direito Tributário/8. Suspensão da Exigibilidade do Crédito Tributário|Suspendem a exigibilidade]] do crédito tributário: ^ctn151  
+	> Ver: [[01 - Direito Tributário/8. Suspensão da Exigibilidade do Crédito Tributário|Hipóteses de Suspensão]]
 
 	* I – moratória; ^ctn151i
 	* II – o depósito do seu montante integral; ^ctn151ii
@@ -674,8 +674,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO IV – EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 156. [Extinguem o crédito tributário](01 - Direito Tributário/9. Extinção do Crédito Tributário.md): ^ctn156  
-	> Ver: [Hipóteses de Extinção](01 - Direito Tributário/9. Extinção do Crédito Tributário.md)
+* Art. 156. [[01 - Direito Tributário/9. Extinção do Crédito Tributário|Extinguem o crédito tributário]]: ^ctn156  
+	> Ver: [[01 - Direito Tributário/9. Extinção do Crédito Tributário|Hipóteses de Extinção]]
 
 	* I – o pagamento; ^ctn156i
 	* II – a compensação; ^ctn156ii
@@ -757,8 +757,8 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 
 # CAPÍTULO V – EXCLUSÃO DO CRÉDITO TRIBUTÁRIO
 
-* Art. 175. [Excluem o crédito tributário](01 - Direito Tributário/10. Exclusão do Crédito Tributário.md): ^ctn175  
-	> Ver: [Isenção e Anistia](01 - Direito Tributário/10. Exclusão do Crédito Tributário.md)
+* Art. 175. [[01 - Direito Tributário/10. Exclusão do Crédito Tributário|Excluem o crédito tributário]]: ^ctn175  
+	> Ver: [[01 - Direito Tributário/10. Exclusão do Crédito Tributário|Isenção e Anistia]]
 
 	* I – a isenção; ^ctn175i
 	* II – a anistia. ^ctn175ii

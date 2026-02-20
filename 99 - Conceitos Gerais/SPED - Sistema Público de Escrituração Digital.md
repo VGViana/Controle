@@ -24,7 +24,7 @@ A existência jurídica da mercadoria/serviço agora é digital (XML assinado).
 
 ### C. Escriturações Contábeis (ECD e ECF)
 - **ECD (Escrituração Contábil Digital):** É o "Diário" e "Razão" digitais. Substitui os livros em papel.
-- **ECF (Escrituração Contábil Fiscal.md):** Substitui a DIPJ. É aqui que se faz o **[LALUR e Lucro Real](LALUR e Lucro Real.md)** digitalmente.
+- **ECF (Escrituração Contábil Fiscal.md):** Substitui a DIPJ. É aqui que se faz o **[[LALUR e Lucro Real|LALUR e Lucro Real]]** digitalmente.
     - *Cruzamento Crítico:* A ECF recupera os saldos da ECD. Se a contabilidade não bater com o fiscal, a malha fina é automática.
 
 ## 3. Cruzamento de Dados (Auditoria Eletrônica)
@@ -38,4 +38,4 @@ Como o Fisco te pega usando o SPED:
 - **XML:** Formato padrão de intercâmbio de dados.
 - **Web Services:** Comunicação máquina-a-máquina para autorização de notas em tempo real.
 
-Ver também: [10 - Tecnologia da Informação (MOC.md)](10 - Tecnologia da Informação (MOC).md, [Lançamento Tributário](Lançamento Tributário.md), [Poder de polícia](Poder de polícia.md)
+Ver também: [[10 - Tecnologia da Informação (MOC|10 - Tecnologia da Informação (MOC.md)]].md, [[Lançamento Tributário|Lançamento Tributário]], [[Poder de polícia|Poder de polícia]]

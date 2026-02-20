@@ -1,7 +1,7 @@
 # **Demonstrações Contábeis**
-- **Conjunto**: **[BP](5. Balanço Patrimonial.md)**, **[DRE](6.Demonstração do Resultado do Exercício.md)**, **[DMPL](9. Demonstração das Mutações do Patrimônio Líquido.md)**, etc.
-- **Objetivo**: Transparência e prestação de contas (Reflexo do **[Princípio da Publicidade](Princípios da Administração Pública.md)**.md).
-- **Uso Fiscal**: São os documentos principais analisados no **[Lançamento Tributário](Lançamento Tributário.md)** por homologação.
+- **Conjunto**: **[[5. Balanço Patrimonial|BP]]**, **[[6.Demonstração do Resultado do Exercício|DRE]]**, **[[9. Demonstração das Mutações do Patrimônio Líquido|DMPL]]**, etc.
+- **Objetivo**: Transparência e prestação de contas (Reflexo do **[[Princípios da Administração Pública|Princípio da Publicidade]]**.md).
+- **Uso Fiscal**: São os documentos principais analisados no **[[Lançamento Tributário|Lançamento Tributário]]** por homologação.
 
 ## Grafo Local
 ```mermaid

@@ -1,34 +1,34 @@
 # MOC - Direito Administrativo
 
-[Home](../README.md) | [Painel](../00 - Painel Geral Fiscal/Fiscal.md)
+[[../README|Home]] | [[../00 - Painel Geral Fiscal/Fiscal|Painel]]
 
 Sumario estruturado da Organizacao Administrativa e Atos.
 
 ## 1. Organizacao Administrativa
-- [Org Adm 1](./2. Org Adm 1.md): Conceitos iniciais.
-- [Org Adm 2](./3. Org Adm 2.md): Administracao Indireta.
-- [Entidades Paraestatais e o 3 Setor](./4. Entidades Paraestatais e o 3° Setor.md): A, B, C, D, E.
+- [[./2. Org Adm 1|Org Adm 1]]: Conceitos iniciais.
+- [[./3. Org Adm 2|Org Adm 2]]: Administracao Indireta.
+- [[./4. Entidades Paraestatais e o 3° Setor|Entidades Paraestatais e o 3 Setor]]: A, B, C, D, E.
 
 ## 2. Atos e Poderes
-- [Poderes e Deveres](./5. Poderes e Deveres.md)
+- [[./5. Poderes e Deveres|Poderes e Deveres]]
     - **Poder de Policia**: Vinculo com Fato Gerador de Taxas.
     - **Poder Regulamentar**: Execucao de leis.
     - **Abuso de Poder**: Excesso e Desvio.
-- [Atos Administrativos](./6. Atos Administrativos.md): Elem. (Com, For, Obj, Mot, Fin).
+- [[./6. Atos Administrativos|Atos Administrativos]]: Elem. (Com, For, Obj, Mot, Fin).
 
 ## 3. Conexoes Interdisciplinares
-- [Conexoes de Direito Publico](../99 - Conceitos Gerais/Conexões de Direito Público.md): Interface D.C. e Tributario.
-- [Pacto Federativo e Tributacao](../99 - Conceitos Gerais/Pacto Federativo e Tributação.md): Reparticao e Fiscalizacao.
-- [Agentes Publicos](../99 - Conceitos Gerais/Agentes Públicos.md): Conceitos fundamentais.
-- [Principios da APU](../99 - Conceitos Gerais/Princípios da APU.md): LIMPE e Implicitos.
+- [[../99 - Conceitos Gerais/Conexões de Direito Público|Conexoes de Direito Publico]]: Interface D.C. e Tributario.
+- [[../99 - Conceitos Gerais/Pacto Federativo e Tributação|Pacto Federativo e Tributacao]]: Reparticao e Fiscalizacao.
+- [[../99 - Conceitos Gerais/Agentes Públicos|Agentes Publicos]]: Conceitos fundamentais.
+- [[../99 - Conceitos Gerais/Princípios da APU|Principios da APU]]: LIMPE e Implicitos.
 
 ## 4. Agentes e Controle
-- [Agentes Publicos](../99 - Conceitos Gerais/Agentes Públicos.md): Natureza do vinculo.
-- [Hierarquia e Disciplina](../99 - Conceitos Gerais/Hierarquia e Disciplina.md): Controle interno.
+- [[../99 - Conceitos Gerais/Agentes Públicos|Agentes Publicos]]: Natureza do vinculo.
+- [[../99 - Conceitos Gerais/Hierarquia e Disciplina|Hierarquia e Disciplina]]: Controle interno.
 
 ---
 > [!info] Foco
 > Priorizar Poder de Policia (Art. 78 CTN) e Atos Administrativos (Amostra em questoes FGV).
 
 ---
-[Painel](../00 - Painel Geral Fiscal/Fiscal.md) | [Mapa](../00 - Painel Geral Fiscal/Mapa Sistêmico Fiscal.md)
+[[../00 - Painel Geral Fiscal/Fiscal|Painel]] | [[../00 - Painel Geral Fiscal/Mapa Sistêmico Fiscal|Mapa]]
