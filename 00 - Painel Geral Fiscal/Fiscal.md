@@ -6,13 +6,13 @@ tags: [dashboard, fiscal, master, ultimate]
 
 > [!abstract] Status
 > **Objetivo:** Aprovação na Área Fiscal
-> **Bancas:** [[Metodologia de Guerra Fiscal|FGV, Cebraspe, FCC, VUNESP]]
+> **Bancas:** [[Bancas|FGV, Cebraspe, FCC, VUNESP]]
 > **Arquitetura:** Constituição Navegável e Cruzamento Contábil-Fiscal
 
 ---
 
 ## Estratégia e Fundamentos
-- **[[Metodologia de Guerra Fiscal]]** (Análise por banca)
+- **[[Bancas]]** (Análise por banca)
 - **[[Jurisprudência Fiscal (STF e STJ)]]** (Súmulas e Teses)
 - **[[Erros Clássicos da Área Fiscal]]** (Pontos de atenção)
 - **[[Mapa Sistêmico Fiscal]]** (Visão de conjunto)
