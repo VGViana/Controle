@@ -152,3 +152,7 @@ Também é classificada como:
 ⚠️ O <span style="color:#fb4934">**risco inerente** é **MAIS ALTO**</span> para algumas afirmações e classes relacionadas de transações, saldos contábeis e divulgações, como para **cálculos complexos** ou contas compostas de valores derivados de estimativas contábeis sujeitas à **incerteza significativa de estimativa**.
 
 ⚠️ Circunstâncias <span style="color:#83a598">**EXTERNAS**</span> que dão origem a riscos de negócios podem influenciar o **risco** **<mark style="background:#fff88f">INERENTE</mark>**.
+
+**1 PRINCÍPIOS FUNDAMENTAIS** _(_⚠️ _Os princípios fundamentais de ética estão **IMPLÍCITOS** no Código de Ética e na NBC PA 01!)_
+
+![[Princípios fundamentais da ética profissional do auditor.png]]

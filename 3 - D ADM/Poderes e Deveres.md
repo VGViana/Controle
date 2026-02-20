@@ -157,14 +157,14 @@
     - <span style="color:#fe8019">**Executoriedade**</span>: **meios diretos** de coação (ex.: apreensão de mercadorias)
 - **<span style="color:#d3869b">Coercibilidade</span>** (obrigatório, independe da vontade do administrado).
 
-**6.2 Caráter do poder de polícia**:
+## **6.2 Caráter do poder de polícia**:
 
-- **Normativo**: geral, abstrato, caráter preventivo;  
+- **<span style="color:#83a598">Normativo</span>**: geral, abstrato, caráter preventivo;  
     
-- **Concreto**: atingem pessoas determinadas;  
+- **<span style="color:#b8bb26">Concreto</span>**: atingem pessoas determinadas;  
     
-- **Preventivo**: atos de consentimento (licença-vinculado; autorização-discricionário);  
+- **<font color="#7f7f7f">Preventivo</font>**: atos de consentimento (licença-vinculado; autorização-discricionário);  
     
-- **Repressivo**: consequência de uma infração (ex.: multa);  
+- **<span style="color:#fb4934">Repressivo</span>**: consequência de uma infração (ex.: multa);  
     
-- **Fiscalização**: verificar o cumprimento das normas.
+- **<font color="#1f497d">Fiscalização</font>**: verificar o cumprimento das normas.

@@ -75,3 +75,101 @@ _Art. 172, CTN. A lei pode autorizar a autoridade administrativa a conceder, por
 <mark style="background:#fff88f">_V - a condições peculiares a determinada região do território da entidade tributante._</mark>
 
 _Parágrafo único. O despacho referido neste artigo não gera direito adquirido, aplicando-se, quando cabível, o disposto no artigo 155._
+
+## **<span style="color:#83a598"><u>1.5. Decadência</u></span>**  
+
+⚠️ Assunto de **extrema importância!**
+
+<span style="color:#fb4934">**<mark style="background:#fff88f">Perda do direito de CONSTITUIR</mark>** **O CRÉDITO TRIBUTÁRIO.**</span>
+
+- O direito à constituição do crédito, uma vez decaído, não poderá ser gerado novamente por qualquer forma de lançamento, mesmo que por confissão de dívida, declaração de débitos ou qualquer outra espécie;  
+    
+- **PRAZO PARA QUE O FISCO REALIZE O LANÇAMENTO;  
+    **
+- Lei complementar.  
+    
+
+⚠️ Caso o sujeito passivo realize o pagamento do crédito decaído, **haverá o direito à restituição.**  
+
+- **Contagem**  
+
+- <mark style="background:#fff88f">**Regra Geral**</mark>: <span style="color:#fb4934">**5 anos a partir de 1º de janeiro do ano seguinte à realização do fato gerador</span>;**
+- Não se aplica aos tributos lançados por homologação!
+- <mark style="background:#fff88f">**Exceções**</mark>:
+    - <u>**Antecipação do prazo - de contagem</u>;**
+        - <span style="color:#fb4934">**5 anos a partir da notificação ao contribuinte**</span> quando realizada por qualquer medida preparatória direcionada ao lançamento - <span style="color:#83a598">**NOTIFICAÇÃO</span>.**  
+            
+    - <u>**Anulação do lançamento</u>;**  
+        - <span style="color:#83a598">**Vício formal**</span> - deve haver novo lançamento - <span style="color:#fb4934">**5 anos a partir da data da decisão definitiva que anulou o primeiro lançamento.**</span>
+    - <u>**Tributos lançados por HOMOLOGAÇÃO**</u>
+        - <span style="color:#fb4934">**5 anos contados da ocorrência do Fato Gerador.**</span>
+
+ ⚠️ **Muita atenção:**  
+
+- - Tributos <u>**lançados por homologação**</u> em que:
+        - <mark style="background:#fff88f">**Sujeito NÃO declara e NÃO paga o tributo**</mark> - **<span style="color:#fb4934">5 anos a partir do ano seguinte ao que o lançamento poderia ter sido realizado</span>;**
+        - <mark style="background:#fff88f">**Sujeito declara e NÃO paga o tributo**</mark> - **<span style="color:#fb4934">o crédito está constituído e, neste caso, corre o prazo PRESCRICIONAL de 5 anos a partir da data da declaração ou do vencimento (o que for posterior)</span>;**
+        - <mark style="background:#fff88f">**Sujeito age com dolo, fraude ou simulação**</mark> - **<span style="color:#fb4934">5 anos a partir do ano seguinte ao que o lançamento poderia ter sido realizado.</span>**
+
+Súmula STJ 555 - Quando não houver declaração do débito, o prazo decadencial quinquenal para o Fisco constituir o crédito tributário conta-se exclusivamente na forma do art. 173, I, do CTN, nos casos em que a legislação atribui ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa.
+
+Súmula STJ 436 - A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+Ainda, saiba que os prazos **apenas iniciam ou vencem em dias de expediente normal.**
+
+## **<span style="color:#83a598"><u>1.6. Prescrição</u></span>**
+
+⚠️ Assunto de extrema importância!
+
+**Perda do direito de AÇÃO.**
+
+- Impossibilita que a Administração Tributária <u>cobre o valor do tributo judicialmente</u>;
+- **PRAZO PARA QUE O FISCO REALIZE A COBRANÇA DO TRIBUTO;  
+    **
+- Lei complementar;
+- Pode ocorrer <span style="color:#83a598">**de OFÍCIO**</span> pelo juiz.  
+    
+
+Súmula STJ 622 - A notificação do auto de infração faz cessar a contagem da decadência para a constituição do crédito tributário; exaurida a instância administrativa com o decurso do prazo para a impugnação ou com a notificação de seu julgamento definitivo e esgotado o prazo concedido pela Administração para o pagamento voluntário, **inicia-se o prazo prescricional para a cobrança judicial.**  
+  
+<mark style="background:#fff88f">**Regra Geral**</mark>: <span style="color:#fb4934">**5 anos a partir data de constituição definitiva do crédito tributário.**</span>
+
+<mark style="background:#fff88f">**Exceções</mark>:** <u>**Tributos lançados por HOMOLOGAÇÃO</u>.**
+
+- <span style="color:#fb4934">**5 anos contados da:**
+    - **<mark style="background:#fff88f">Data do vencimento</mark>** **da obrigação tributária;**
+    - **Da data da** **<mark style="background:#fff88f">entrega da declaração</mark>****, quando ocorrer posteriormente ao vencimento.**</span>
+
+⚠️ **Muita atenção:**
+
+- <span style="color:#b8bb26">**Interrupção do prazo prescricional**</span> - **DECORE TODAS AS HIPÓTESES!**  
+    
+
+_Art. 174, CTN._
+
+_Parágrafo único._ <mark style="background:#fff88f">**_A prescrição se interrompe</mark>:_**
+
+_I – pelo_ <span style="color:#fe8019">_despacho do juiz_</span> _que ordenar a citação em execução fiscal;_
+
+_II - pelo protesto <span style="color:#fe8019">judicial</span> ou <span style="color:#fe8019">extrajudicial</span>;_ 
+
+_III - por qualquer ato judicial que constitua em <span style="color:#fe8019">mora o devedor</span>;_
+
+_IV - por qualquer <span style="color:#fe8019">ato inequívoco_</span> _<span style="color:#fe8019">ainda que extrajudicial</span>_, que importe em <span style="color:#fe8019">reconhecimento do débito pelo devedor</span>.
+
+  
+🚨 A interrupção da prescrição "devolve" o prazo prescricional de 5 anos, este será reiniciado.
+
+⚠️ Não caia em pegadinhas: o momento da interrupção ocorrerá no momento do DESPACHO do juiz. As bancas tendem a trocar pela data da citação, assim, te levando ao erro. Não caia nessa!
+
+**⚠️ Protesto judicial ou extrajudicial** - todos os atos que constituem o devedor em mora (notificações, intimações...).
+
+**⚠️ Atenção!** O protesto será judicial ou extrajudicial!
+
+**⚠️ Atenção!** Interromperá a prescrição qualquer ATO do devedor que reconheça a sua dívida, até atos **extrajudiciais**!
+
+Súmula STJ 653 - O pedido de <span style="color:#fb4934">**parcelamento fiscal**</span>, ainda que indeferido, <span style="color:#fb4934">**interrompe o prazo prescricional</span>,** pois caracteriza confissão extrajudicial do débito.
+
+- 🚨 O **parcelamento de ofício**, realizado pela Administração, **NÃO** interromperá a prescrição!
+
+Súmula STJ 314 - Em execução fiscal, <mark style="background:#fff88f">não localizados bens penhoráveis, suspende-se o processo por um ano</mark>, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.
