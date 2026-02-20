@@ -182,3 +182,58 @@
 - **Princípio da Solenidade:**
     - forma **<span style="color:#83a598">específica</span>** prevista na **lei.**
 
+# **5. Elementos de formação:**
+
+## **<span style="color:#fe8019">5.4 Motivo:</span>**
+
+- **<span style="color:#d3869b">Situação*</span>* de **<span style="color:#d3869b">direito</span>** ou de **<span style="color:#d3869b">fato</span>** que **<span style="color:#83a598">determina</span>** ou <span style="color:#83a598">**autoriza**</span> a realização do **ato** administrativo;
+- **<span style="color:#d3869b">Situação</span>** de **<span style="color:#d3869b">direito</span>:** 
+    - **<span style="color:#d3869b">requisitos*</span>* previstos em **lei.**
+    - **<span style="color:#d3869b">Situação*</span>* de **<span style="color:#d3869b">fato</span>:**
+        - **<span style="color:#d3869b">concretização</span>** do pressuposto de **<span style="color:#d3869b">direito</span>** no "mundo real".
+
+**<span style="color:#fb4934">_Se liga!_</span>**   Segundo **<mark style="background:#9254de">Celso Antônio Bandeira de Mello</mark>:**
+
+- **<span style="color:#d3869b">Motivo</span>:** situação **objetiva, real, empírica, externa ao agente;  
+    **
+- **<span style="color:#d3869b">Motivação</span>:  intenção, vontade, propósito do agente** que editou o ato;
+    - subjetiva, interna e psicológica do agente.
+
+**<mark style="background:#afc7d9">_Não confunda!</mark>_**
+
+- **<span style="color:#d3869b">Motivação</span>** é a **demonstração dos motivos** (**justificativa do ato**)! Portanto, nem todos os atos precisam ter motivação:
+    -  **<span style="color:#fb4934">exoneração*</span>* de ocupante de **<span style="color:#fb4934">cargo de provimento em comissão.</span>**
+- **<span style="color:#d3869b">Motivo*</span>* é **elemento de formação** do ato, logo, <u>presente em todos os atos!</u>
+
+<span style="color:#fb4934">**_Importante saber!</span>_** 
+
+- Motivação **<span style="color:#d3869b">contextual</span>**: a própria autoridade enumera os motivos de forma expressa;
+- Motivação **<span style="color:#d3869b">aliunde*</span>*, ou **<span style="color:#d3869b">por referência _(per relationem)</span>_**:  referência a um documento anterior, utilizando-o como fonte de suas razões para decidir.
+- **<span style="color:#d3869b">Teoria dos motivos determinantes</span>:** a **<span style="color:#d3869b">validade do ato se vincula aos motivos</span>** indicados como seu fundamento:
+    - Aplicado aos atos **<span style="color:#d3869b">discricionários</span>** ou **<span style="color:#d3869b">vinculados*</span>*;
+    - **<span style="color:#d3869b">Motivação</span> <span style="color:#fb4934">obrigatória</span> ou não**;
+    - **<span style="color:#d3869b">Motivos</span>** indicados **<span style="color:#d3869b">inexistentes</span>** ou **<span style="color:#d3869b">falsos</span>**: **<span style="color:#fb4934">ato NULO</span>.**
+
+## **<span style="color:#fe8019">5.5 Objeto (conteúdo)**:</span>
+
+- **<span style="color:#83a598">Efeito</span>** jurídico do ato;
+- <span style="color:#83a598">**Vinculado*</span>* ou **<span style="color:#83a598">discricionário</span>;**
+- **<span style="color:#83a598">Lícito, possível, certo e moral.</span>**
+
+<span style="color:#83a598">**_Não confunda!_** </span>
+
+- **<span style="color:#fe8019">Objeto*</span>*: **<span style="color:#83a598">fim imediato</span>** (direto) do ato;
+- <span style="color:#fe8019">**Finalidade*</span>*:  **<span style="color:#83a598">resultado desejado</span>**, **<span style="color:#83a598">fim mediato</span>** (indireto).
+
+**💡****<span style="color:#fb4934">_Se liga!_*</span>*   Segundo **Maria S. Z. Di Pietro:**
+
+- **Objeto natural:** efeito jurídico que o ato produz, decorrente da própria natureza do ato, previsto em lei;
+- **Objeto acidental/acessório:** efeito jurídico que o ato produz em decorrência de cláusulas acessórias inseridas, tais como:
+    - **termo:** data de início ou término da eficácia do ato;
+        - evento **FUTURO** e **CERTO.**
+    - **condição:**
+        - evento **FUTURO** e **INCERTO;**
+        - **suspensiva:**  **suspende** o início da eficácia do ato **até o cumprimento da condição**;
+        - **resolutiva:** **cessa** a produção dos **efeitos jurídicos** do ato **após o** **adimplemento da condição.**
+    - **encargo/modo:** obrigação ou ônus para que o destinatário usufrua do benefício do ato;
+    - **somente pode ocorrer em atos discricionários.**
