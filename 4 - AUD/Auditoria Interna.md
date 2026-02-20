@@ -60,3 +60,42 @@
     - a **verificação** e a **comunicação** de **<span style="color:#fb4934">eventuais limitações ao alcance dos procedimentos</span>** da Auditoria Interna, a serem aplicados, considerando o volume ou a complexidade das transações e das operações;
     - a **extensão da responsabilidade do auditor interno** no uso dos trabalhos de especialistas.
     - ⚠️ A **análise dos riscos** **<span style="color:#fb4934"><u>não</u> é uma etapa isolada</span>** e deve ser feita na fase de **<span style="color: #d79921">PLANEJAMENTO</span>** dos trabalhos.
+
+## **1.1  PROCEDIMENTOS DE AUDITORIA**
+
+- **E****xames e investigações** que permitem ao auditor interno obter subsídios suficientes para **fundamentar suas conclusões e recomendações** à administração da entidade.
+-  Desdobrados entre os testes de observância e os testes substantivos:
+    - Testes de <span style="color:#d3869b">**OBSERVÂNCIA**</span>:
+        - visam à obtenção de<span style="color:#d3869b"> **razoável segurança**</span> de que **<u>os controles internos</u>** estabelecidos pela administração estão **<u>em efetivo funcionamento</u>.**
+        - tipos de procedimentos:  
+            a) <span style="color:#d3869b">**inspeção** </span>– verificação de registros, documentos e ativos tangíveis;  
+            b) <span style="color:#d3869b">**observação</span>** – acompanhamento de processo ou procedimento quando de sua execução; e   
+            c) <span style="color:#d3869b">**investigação e confirmação** </span>– obtenção de informações perante <u>pessoas físicas ou jurídicas conhecedoras d</u>as transações e das operações, dentro ou fora da entidade.
+    - Testes **<span style="color:#d3869b">SUBSTANTIVOS</span>**:
+        - visam à obtenção de evidência quanto à **suficiência, exatidão e **validade** _<span style="color:#fb4934">(SEV</span>)_ dos dados produzidos pelos **sistemas de informação da entidade**
+
+|                                                                                  |                                                                                                                       |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **TESTES DE OBSERVÂNCIA**                                                        | **TESTES SUBSTANTIVOS**                                                                                               |
+| Avaliação dos Controles internos                                                 | Avaliação dos dados produzidos pelos sistemas de informação quanto à<br><br>- Suficiência<br>- Exatidão<br>- Validade |
+| Procedimentos:<br><br>- Inspeção<br>- Observação<br>- Investigação e confirmação |                                                                                                                       |
+
+- No processo de obtenção de informações sobre os assuntos relacionados aos objetivos e ao alcance da Auditoria Interna, deve ser observado que: 
+    - Informação Sufi<span style="color:#d3869b">**ciente**</span> = factual e convin<span style="color:#d3869b">**cente**</span>
+    - Informação <span style="color:#83a598">**A**</span>dequada = <span style="color:#83a598">**A**</span>lcançável
+    - Informação <span style="color:#fe8019">**Re**</span>levante = dá suporte às conclusões e às <span style="color:#fe8019">**re**</span>comendações (do auditor)
+    - Informação <span style="color:#fb4934">**Útil**</span> = auxilia o atingimento de <span style="color:#fb4934">**metas**</span> (da entidade)
+
+## **1.2 RISCOS DE AUDITORIA INTERNA**
+
+- Relacionados à **<span style="color:#fb4934">possibilidade de não se atingir, de forma satisfatória, o objetivo dos trabalhos</span>** e devem ser analisados na fase de **<span style="color:#fb4934"><u>planejamento</u></span>.** Devem ser considerados, principalmente, os seguintes aspectos:
+    - a **verificação** e a **comunicação** de **<span style="color:#fb4934">eventuais limitações ao alcance dos procedimentos</span>** da Auditoria Interna, a serem aplicados, considerando o volume ou a complexidade das transações e das operações;
+    - a **<span style="color:#fb4934">extensão da responsabilidade*</span>* do auditor interno no uso dos trabalhos de especialistas.
+    - ⚠️ A **análise dos riscos** **<span style="color:#fb4934"><u>não</u> é uma etapa isolada</span>** e deve ser feita na fase de **PLANEJAMENTO** dos trabalhos.
+
+## **1.3 RELATÓRIO DE AUDITORIA INTERNA**
+
+- Documento que apresenta o <span style="color:#83a598">**resultado</span> dos trabalhos** da auditoria interna.
+- Deve ser redigido com **<u>OBJETIVIDADE e IMPARCIALIDADE</u>**, de forma a expressar as **CONCLUSÕES**, <span style="color:#83a598">**RECOMENDAÇÕES** e **PROVIDÊNCIAS</span>** a serem tomadas pela administração da entidade.
+- **<u>Relatório PARCIAL</u>:** Utilizado quando constatadas **<span style="color:#fb4934">impropriedades/irregularidades/ilegalidades</span>** que necessitem <u>**providências imediatas**</u> da administração da entidade, e que não possam aguardar o final dos exames.
+- Deve ser apresentado **<span style="color:#d3869b">a quem tenha solicitado o trabalho**</span> ou a quem este autorizar, devendo ser **<span style="color:#d3869b">preservada a confidencialidade**</span> do seu conteúdo.
