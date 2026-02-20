@@ -294,3 +294,4 @@
 **STF** - admite-se o _habeas corpus_ **<span style="color:#d3869b">_coletivo_*</span>*.  
 
 **STJ** - pode haver _habeas corpus_ quanto às **<span style="color:#d3869b">medidas protetivas** às mulheres relacionadas na Lei Maria da Penha.</span>
+

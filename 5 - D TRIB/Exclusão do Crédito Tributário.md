@@ -29,55 +29,55 @@ _Art. 177._ **<u>_Salvo disposição de lei em contrário_</u>**_,_ **_a_** **<s
 
 <span style="color:#fe8019">_I -_ **_às taxas e às contribuições de melhoria_**_</span>;_
 
-_II -_ **_aos tributos instituídos posteriormente à sua concessão_**_._
+<span style="color:#fe8019">_II -_ **_aos tributos instituídos posteriormente à sua concessão_**</span>_._
 
 Fique atento!
 
 - **Regra geral** - isenção não será extensiva às taxas e às contribuições de melhoria;
-- **Exceção** - caso previsto em lei, poderá haver isenção para taxas e contribuições de melhoria. Por isso, não se pode afirmar que a isenção não abrange taxas e contribuições de melhoria, já que há essa hipótese. Portanto, questões que afirma isso (que não há isenção para taxas e contribuições de melhoria), podem ser consideradas erradas.
+- **Exceção** - <u>caso previsto em lei,</u> poderá haver isenção para taxas e contribuições de melhoria. Por isso, não se pode afirmar que a isenção não abrange taxas e contribuições de melhoria, já que há essa hipótese. Portanto, questões que afirma isso (que não há isenção para taxas e contribuições de melhoria), podem ser consideradas erradas.
 
-_Art. 178 - A isenção,_ **_salvo se concedida por prazo certo e em função de determinadas condições_**_,_ **_pode ser revogada ou modificada por lei, a qualquer tempo_**_, observado o disposto no inciso III do art. 104._
+_Art. 178 - A isenção,_ **<span style="color:#fe8019">_salvo se concedida por prazo certo e em função de determinadas condições_</span>**_,_ **_pode ser revogada ou modificada por lei, a qualquer tempo_**_, observado o disposto no inciso III do art. 104._
 
 Se a isenção for concedida com algum tipo de contrapartida, ela não pode ser suprimida livremente. Caso contrário, o estado tem total liberdade para revogá-la a qualquer momento.
 
 Vejamos o que diz o STF:
 
-**Súmula 544, STF:** Isenções tributárias concedidas, **sob condição onerosa**, **não podem ser livremente suprimidas.**
+**Súmula 544, STF:** Isenções tributárias concedidas, **sob condição onerosa**, **<span style="color:#fe8019">não podem ser livremente suprimidas</span>.**
 
 ⚠️ **Atenção - A isenção sob condição onerosa é bastante explorada em provas, na forma que o examinador dispõe de um caso prático e afirma que a isenção foi suprimida pela autoridade administrativa. Neste caso, você deve saber se a isenção foi concedida sob condição onerosa ou não. Caso tenha sido, ela não poderá ser livremente suprimida, no caso, o sujeito passivo tem direito à isenção pelo prazo certo que foi estabelecido. Agora, se a isenção não foi concedida sob condição onerosa, ela poderá ser livremente suprimida, independente do prazo.**
 
 - **Regra** - isenção pode ser livremente suprimida;
-- **Exceção** - isenções onerosas NÃO podem ser livremente suprimidas -> **DIREITO ADQUIRIDO.**
+- **Exceção** - isenções onerosas<span style="color:#fe8019"> NÃO podem ser livremente suprimidas -</span>> **DIREITO ADQUIRIDO.**
 
-_Art. 179. A isenção,_ **_quando_** **_não concedida em caráter geral_**_, é efetivada, em cada caso, por_ **_despacho da autoridade administrativa_**_, em requerimento com o qual o interessado faça prova do preenchimento das condições e do cumprimento dos requisitos previstos em lei ou contrato para sua concessão._
+_Art. 179. A isenção,_ <span style="color:#fe8019">**_quando_** **_não concedida em caráter geral_**_,</span> é efetivada, em cada caso, por_ **<span style="color:#fe8019">_despacho da autoridade administrativa_</span>**_, em requerimento com o qual o interessado faça prova do preenchimento das condições e do cumprimento dos requisitos previstos em lei ou contrato para sua concessão._
 
 **Tipos de isenção:**
 
-Caráter **Geral** **->** concedida a todos, portanto o sujeito passivo não precisa comprovar determinados requisitos.
+<span style="color:#d3869b">Caráter **Geral** **->** concedida a todos</span>, portanto o sujeito passivo não precisa comprovar determinados requisitos.
 
-Caráter **I****ndividual** **>** depende da comprovação do sujeito passivo de que ele preenche os requisitos necessários em lei. Neste caso, a sua concessão fica condicionada ao **despacho da autoridade administrativa**.
+<span style="color:#83a598">Caráter **Individual** </span>**>** depende da comprovação do sujeito passivo de que ele preenche os requisitos necessários em lei. Neste caso, a sua concessão <span style="color:#fe8019">fica condicionada ao **despacho da autoridade administrativa**.</span>
 
 Despachos que concedem isenção por período certo de tempo, devem ser renovados antes que o prazo da isenção expire.
 
 Caso seja comprovado posteriormente que o contribuinte não cumpria de fato os requisitos, poderá ser cobrado o crédito acrescido de juros de mora e com possibilidade de imposição de penalidade em caso de dolo ou simulação do contribuinte.
 
-**1.2. Anistia**
+## **1.2. Anistia**
 
-_Art. 180. A anistia_ **_abrange exclusivamente as infrações cometidas anteriormente à vigência da lei que a concede_**_,_ **_não se aplicando_**_:_
+_Art. 180. A anistia_ **<span style="color:#fe8019">_abrange exclusivamente as infrações cometidas <u>anteriormente à vigência da lei que a concede_</u>**_,_ **_não se aplicando_**_:_</span>
 
-⚠️ **Atenção - DECORE que a anistia** **APENAS** **PODE SER CONCEDIDA PARA INFRAÇÕES COMETIDAS ANTERIORMENTE À VIGÊNCIA DA LEI QUE A INSTITUI.**
+⚠️ **Atenção - DECORE que a anistia** <span style="color:#fe8019">**APENAS**</span> **PODE SER CONCEDIDA PARA INFRAÇÕES COMETIDAS ANTERIORMENTE À VIGÊNCIA DA LEI QUE A INSTITUI.**
 
 Ora, se você conceder anistia para alguma penalidade que ainda não aconteceu, você estaria incentivando os contribuintes a cometerem a penalidade. Por isso, a lógica desse marco temporal.
 
 ⚠️ **Atenção - DECORE** os casos em que **A ANISTIA NÃO SE APLICARÁ**:
 
-_I - aos_ **_atos qualificados em lei como crimes ou contravenções_** _e aos que,_ **_mesmo sem essa qualificação_**_, sejam_ **_praticados com dolo, fraude ou simulação_** _pelo sujeito passivo ou por terceiro em benefício daquele;_
+_I - aos_ **<span style="color:#fe8019">_atos qualificados em lei como crimes ou contravenções_</span>** _e aos que,_ **<u>_mesmo sem essa qualificação_*</u>*_, sejam_ **<span style="color:#fe8019">_praticados com dolo, fraude ou simulação_*</span>* _pelo sujeito passivo ou por terceiro em benefício daquele;_
 
 - Crimes ou contravenções;
 - Atos praticados com dolo, fraude ou simulação (não precisa ser crime ou contravenção);
 - Pode ser feito tanto pelo sujeito passivo como também por terceiro.
 
-_II -_ **_salvo disposição em contrário_**_, às_ **_infrações resultantes de conluio entre duas ou mais pessoas naturais ou jurídicas_**_._
+_II -_ <u>**_salvo disposição em contrário_**</u>_, <span style="color:#fe8019">às_ **_infrações resultantes de conluio entre duas ou mais pessoas naturais ou jurídicas_**</span>_._
 
 ⚠️ **Atenção!** Muito cuidado com essa ressalva no início!
 
