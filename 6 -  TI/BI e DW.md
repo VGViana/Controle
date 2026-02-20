@@ -1,0 +1,13 @@
+# **1. Business Intelligence**
+
+> “O conceito de Business Intelligence com o entendimento de que é inteligência de negócios ou inteligência empresarial que compõe-se de um conjunto de metodologias de gestão, implementadas através de ferramentas de software, cuja função é proporcionar ganhos nos processos decisórios gerenciais e da alta administração. Ferramentas que integram em um só lugar todas as informações necessárias ao processo decisório” Angeloni e Reis (2006)
+
+- Business Intelligence permite que os responsáveis pelas decisões tenham as informações certas, na hora certa e no lugar certo, capacitando-os a **tomar melhores decisões** corporativas.
+- As aplicações de BI incluem sistemas de **suporte à decisão,** consultas, relatórios, análises OLAP (On-Line Analytical Processing), análises estatísticas, previsões, mineração de dados (Data Mining);
+
+## **1.1 Tipos de Análises**
+
+- **Análise Descritiva:** é o exame de dados ou conteúdo, geralmente realizado manualmente, para responder à pergunta “<span style="color:#b8bb26">**O que aconteceu</span>?**” (ou O que está acontecendo?). Normalmente utiliza visualizações como gráficos de barras, gráficos de linha, tabelas.
+- **Análise de Diagnóstico**: é uma forma de análise avançada que examina dados ou conteúdo para responder à pergunta: “<span style="color:#b8bb26">**Por que isso aconteceu?**</span>” Caracteriza-se por técnicas como detalhamento, mineração de dados e correlações.
+- **Análise Preditiva**: é uma forma de análise avançada que examina dados ou conteúdo utilizada para prever cenários, respondendo à pergunta: “<span style="color:#b8bb26">**O que vai acontecer?**</span>”.
+- **Análise Prescritiva**: é uma forma de análise avançada que examina dados ou conteúdo para responder à pergunta “O que deve ser feito?” ou “<span style="color:#b8bb26">**O que podemos fazer para fazer acontecer?**</span>”, e é caracterizada por técnicas como análise de gráficos, simulação, processamento de eventos complexos e machine learning.

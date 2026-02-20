@@ -47,3 +47,64 @@
     - <u>_após o decurso do prazo_</u> o juiz:
         - **ato vinculado:**  **<span style="color:#83a598">defere o pedido</span>** ou **<span style="color:#83a598">manda*</span>* a administração **<span style="color:#83a598">deferir*</span>*;
         - **ato discricionário**: **<span style="color:#83a598">prazo para a manifestação</span>** da administração.
+
+# **4. Atributos:**
+
+- **<span style="color:#83a598">Presunção de legitimidade ou veracidade (presente em todos os atos administrativos);**</span>
+- <span style="color:#d3869b">**Imperatividade;</span>**
+- <span style="color:#fb4934">**Autoexecutoriedade;**</span>
+- **<span style="color:#b8bb26">Tipicidade</span> (presente em todos os atos administrativos).**
+
+## <span style="color:#83a598"> **4.1 Presunção de legitimidade ou veracidade:**</span>
+
+- **Legitimidade:** ato em conformidade com a lei;
+- **Veracidade:** fatos verdadeiros;
+- **Fundamentos:**
+    - Necessidade de **celeridade**;
+    - <span style="color:#83a598">**Legalidade;**</span>
+    - **<span style="color:#83a598">Fé de ofício</span>** aos documentos;
+- **Consequências**:
+    - **<span style="color:#83a598">Produção de efeitos</span>** enquanto não decretada a invalidade do ato;
+    - **<span style="color:#83a598">Autoexecutoriedade**;</span>
+    - **<span style="color:#83a598">Inversão do ônus da prova</span>**;
+    - *<span style="color:#83a598">*Presunção relativa</span>**;
+    - **<span style="color:#83a598">Controle judicial</span>**.
+
+## <span style="color:#d3869b">**4.2 Imperatividade**</span>
+
+- **Imposição** de **<span style="color:#d3869b">obrigações a terceiros</span>;**
+- **<span style="color:#d3869b">Poder extroverso</span>;**
+- **Depende** de **<span style="color:#d3869b">previsão legal</span>;**
+- **Fundamento:**
+    -  <span style="color:#d3869b">**Supremacia do interesse público</span>;**
+- **Atos que impõem <span style="color:#d3869b">obrigações/restrições</span>;**
+- **<span style="color:#fb4934">Ausentes</span>:**
+    - **<span style="color:#d3869b">Atos negociais</span>;**
+    - **<span style="color:#d3869b">Atos enunciativos</span>.**
+
+## **<span style="color:#fb4934">4.3 Autoexecutoriedade:</span>**
+
+- **<span style="color:#fb4934">Execução imediata e direta</span>** pela administração, **<span style="color:#fb4934">sem necessidade de ordem judicial</span>;**
+- Uso da força permitido;
+- **<span style="color:#fb4934">Controle judicial**;</span>
+- Poderes:
+    - **<span style="color:#fb4934">de Polícia;</span>**
+    - **disciplinar;**
+- **Fundamentos**:
+    - **Presunção de legitimidade**;
+    - **Supremacia do interesse público**;
+    - **Urgência.**
+- **Exigibilidade:**
+    -  Meios **indiretos** de coação;
+    - O **administrado** executa a medida.
+- **Executoriedade:**
+    - Coação **direta** ou **material;**
+    - **Uso da força;**
+    - A **administração** executa a medida.
+
+**4.4 Tipicidade:**
+
+- Previsão **legal**;
+- **Finalidade** do ato;
+- **Não existe** ato **totalmente discricionário**;
+- **Não existe** ato inominado **unilateral**

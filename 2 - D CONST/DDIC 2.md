@@ -404,7 +404,7 @@
 ## **1.3 AÇÃO POPULAR**
 
 - LXXIII - qualquer cidadão é parte legítima para propor **<span style="color: #d79921">ação popular</span>** que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;
-- **<span style="color: #d79921">Finalidades*</span>* da ação popular:
+- **<span style="color: #d79921">Finalidades**</span> da ação popular:
 
 	- Anular ato lesivo que ofenda:  
 	- ao patrimônio público (administração direta ou indireta);  
@@ -412,22 +412,22 @@
 	- ao meio ambiente; e  
 	- ao patrimônio histórico e cultural.
 
--  **Legitimados ativos** **(quem impetra - entra com a ação)**: todos os cidadãos brasileiros possuem legitimidade para ingressar com uma ação desse tipo;
-    - **Legitimados passiva****:** administração pública, beneficiários do ato lesivo, e pessoas jurídicas cujo nome o ato lesivo foi praticado;
-    - A competência de julgamento da Ação Popular é do **juízo de primeiro grau da Justiça Federal ou Estadual**, dependendo da esfera administrativa que realizou o ato contrário ao direito ou sua omissão. Em ambos os casos a ação é acompanhada pelo Ministério Público;
+-  **<span style="color: #d79921">Legitimados ativos</span>** **(quem impetra - entra com a ação)**: todos os cidadãos brasileiros possuem legitimidade para ingressar com uma ação desse tipo;
+    - **<span style="color: #d79921">Legitimados passiva</span>:** administração pública, beneficiários do ato lesivo, e pessoas jurídicas cujo nome o ato lesivo foi praticado;
+    - <span style="color: #d79921">A competência de julgamento da Ação Popular</span> é do **<span style="color: #d79921">juízo de primeiro grau da Justiça Federal ou Estadual*</span>*, dependendo da esfera administrativa que realizou o ato contrário ao direito ou sua omissão. Em ambos os casos a ação é acompanhada pelo Ministério Público;
     - O Ministério Público possui importante papel na ação popular, mas antes vamos gravar que ele não poderá impetrar uma ação popular, apenas os cidadãos poderão fazê-lo. Mas o MP poderá agir como substituto processual, no caso de omissão do autor, ou como sucessor do autor, no caso de desistência desse da ação.
 
 **STF** - não há a necessidade de dano pecuniário para que possa haver a impetração de ação popular, basta que haja o dano decorrente do ato lesivo.
 
-- **1.4 AÇÃO CIVIL PÚBLICA**
+## **1.4 AÇÃO CIVIL PÚBLICA**
 
-- - Finalidade: (mais ampla que Ação Popular);
-    - Proteger os interesses sociais:
-    - Difusos de coletividade indeterminada de pessoas; e
-    - Coletivos de grupo determinado;
-    - **Legitimados ativos****:** Ministério Público, pela Defensoria Pública, pela União, os estados, municípios, autarquias, empresas públicas, fundações, sociedades de economia mista e associações interessadas, desde que constituídas há pelo menos um ano;
-    - **Legitimados passivos****:** qualquer pessoa física ou jurídica que cause danos ao meio ambiente, aos consumidores em geral, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico;
-    - A competência da ação civil pública, assim como nos casos da Ação Popular, é da Justiça Estadual ou Federal, e em ambas as Ações, em caso de improcedência do pedido em primeira instância, permite-se recurso à instância de segundo grau.
+- Finalidade: (mais ampla que Ação Popular);
+- Proteger os interesses sociais:
+- Difusos de coletividade indeterminada de pessoas; e
+- Coletivos de grupo determinado;
+- **Legitimados ativos****:** Ministério Público, pela Defensoria Pública, pela União, os estados, municípios, autarquias, empresas públicas, fundações, sociedades de economia mista e associações interessadas, desde que constituídas há pelo menos um ano;
+- **<span style="color:#b8bb26">Legitimados passivos</span>***:** qualquer pessoa física ou jurídica que cause danos ao meio ambiente, aos consumidores em geral, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico;
+- A competência da ação civil pública, assim como nos casos da Ação Popular, é da Justiça Estadual ou Federal, e em ambas as Ações, em caso de improcedência do pedido em primeira instância, permite-se recurso à instância de segundo grau.
 
 **STF** - O Ministério Público possui legitimidade para impetrar ação civil pública no caso de **reajuste de mensalidades escolares**, no caso do **preço de passagens em transporte público**, no caso de **contratação de serviços hospitalares** privados sem haver licitação e que possa resultar em lesão ao patrimônio público.
 
