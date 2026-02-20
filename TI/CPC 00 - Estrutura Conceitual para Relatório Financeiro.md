@@ -28,3 +28,31 @@ Em muitas circunstâncias, a essência de fenômeno econômico e sua forma leg
 - **Capacidade de** **V****erificação →** Capacidade de verificação significa que **<u>diferentes observadores bem informados e independentes podem chegar ao consenso</u>**, embora não a acordo necessariamente completo, de que a representação específica é representação fidedigna.
 - **Compreensibilidade →** Apresentar e caracterizar as informações de **<u>maneira clara e concisa</u>**.
 - **Comparabilidade →** Permite aos usuários identificar e compreender similaridades e diferenças entre itens.
+
+## **1.1 Demonstrações Contábeis e a Entidade que Reporta.**
+
+- **Continuidade Operaciona****l**
+    - As demonstrações contábeis são normalmente elaboradas com base na suposição de que a entidade que reporta **está em continuidade operacional e continuará** em operação no futuro previsível.
+
+- **Demonstrações Contábeis Consolidadas**
+    - As demonstrações contábeis consolidadas são relatórios financeiros que apresentam a posição financeira, o desempenho e os fluxos de caixa de um grupo econômico c**omo se fosse uma única entidade**.
+    - Demonstrações contábeis consolidadas **<span style="color:#fb4934">não se destinam</span>** a fornecer **informações separadas** sobre ativos, passivos, patrimônio líquido, receitas e despesas de qualquer controlada específica.
+
+- **Demonstrações Contábeis Não Consolidadas**
+    - Mais conhecidas como demonstrações contábeis individuais. Uma empresa que é controladora de um grupo econômico divulga suas demonstrações contábeis individuais e as DCs consolidadas do grupo. As DCs **não consolidadas** destinam-se a fornecer informações sobre os ativos, passivos, patrimônio líquido, receitas e despesas da controladora.
+
+**1.2 Elementos das Demonstrações Contábeis** 
+
+- **Posição Financeira:** Definida pelos **ativos, passivos e PL**
+- **Desempenho Financeiro** (contas de <span style="color:#83a598">**resultado*</span>*): Receitas (↑PL) e Despesas (↓PL).
+
+![[Ativos e Passivos CPC 00.png]]
+
+## **Patrimônio Líquido**
+
+A definição de patrimônio líquido é uma definição residual, pois: representa o **valor residual dos ativos** da entidade depois de <span style="color:#fb4934">**deduzidos**</span> todos os seus **passivos**.
+
+![[receitas e despesas cpc 00.png]]
+
+- **⚠️ Reconhecimento →** É o processo de incorporação de um item que atende aos critérios para ser **considerado um elemento das demonstrações** contábeis 
+- **⚠️ Desreconhecimento  →**  O desreconhecimento ocorre quando um ativo ou passivo **deixa de fazer parte das demonstrações** contábeis de uma entidade.

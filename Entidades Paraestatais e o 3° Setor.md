@@ -62,3 +62,47 @@ Ex: entidades do **“Sistema S”** - <span style="color:#83a598">SESI, SENAI, 
 **OS** - c**O**m **S**ervidor
 
 O**SC**IP - **S**em "**C**"ervidor
+
+# **<span style="color:#d3869b">3. ENTIDADES DE APOIO</span>:** 
+
+- pessoas jurídicas de **<span style="color:#d3869b">direito privado, sem fins lucrativos</span>**, instituídas por **<u>servidores públicos</u>**, porém em nome próprio, sob a forma de **<span style="color:#d3869b">fundação, associação ou cooperativa</span>,** para a prestação, em <u>caráter privado</u>, de **serviços sociais <span style="color:#fb4934">não</span> exclusivos** do Estado, mantendo **<span style="color:#d3869b">vínculo jurídico</span>** com entidades da administração <u>direta ou indireta</u>, em regra por meio de **<span style="color:#d3869b">CONVÊNIO</span>**.
+    - Atuam comumente em **<span style="color:#d3869b">hospitais públicos e universidades públicas</span>**.
+
+# **4. Regime de Parcerias:**
+
+- **Regime de Parcerias**: Criado pela Lei 13.019/2014 para estabelecer regras de cooperação entre a administração pública e organizações da sociedade civil.
+- **Objetivo**: Facilitar a execução de **atividades** ou **projetos** de interesse público de forma mútua e colaborativa.
+- **Instrumentos Jurídicos**:
+    - **Termo de Colaboração**: Quando há transferência de recursos públicos com maior ingerência do governo.
+    - **Termo de Fomento**: Quando a iniciativa parte da organização da sociedade civil.
+    - **Acordo de Cooperação**: Quando não há transferência de recursos financeiros.
+- **Abrangência**: União, estados, Distrito Federal, municípios e suas respectivas entidades da administração indireta.
+- **Quem pode participar**: Organizações da sociedade civil, incluindo associações e fundações privadas sem fins lucrativos.
+
+# **<span style="color: #d79921">5. Chamamento Público (Lei 13.019/2014)</span>:**
+
+- **Chamamento Público**: Regra para seleção de organizações da sociedade civil antes da celebração de **termo de colaboração** ou **termo de fomento**.
+- **Exceções**: Não é exigido em casos de **dispensa, inexigibilidade e emendas parlamentares**.
+- **Acordo de Cooperação**: Em regra, **não exige chamamento público**, exceto quando envolver **comodato, doação de bens ou compartilhamento de recurso patrimonial**.
+- **Critérios de Avaliação**: Devem ser claros, objetivos e simplificados, incluindo **objetivos, metas, custos e indicadores quantitativos e qualitativos**.
+
+**5.1 Edital de Convocação**: Deve conter, no mínimo:
+
+- - Programação orçamentária;
+    - Objeto da parceria;
+    - Datas, prazos e formas de apresentação;
+    - Critérios de seleção e julgamento;
+    - Valor previsto;
+    - Recurso administrativo;
+    - Minuta do instrumento da parceria.
+
+**5.2 Chamamento público não realizado**: Quando os recursos são provenientes de **emendas parlamentares**, a legislação determina que não há necessidade de chamamento público.
+
+**5.3 Chamamento público dispensável**: A administração **pode decidir** se realiza ou não o chamamento nos seguintes casos:
+
+- - **Urgência** por paralisação ou risco de paralisação de atividades essenciais (prazo de até **180 dias**);
+    - **Guerra, calamidade pública, grave perturbação da ordem pública ou ameaça à paz social**;
+    - **Programa de proteção a pessoas ameaçadas** ou situações que comprometam sua segurança;
+    - **Atividades em educação, saúde e assistência social**, desde que realizadas por entidades previamente credenciadas pelo órgão gestor.
+
+**5.4 Chamamento público inexigível**: Ocorre quando há **inviabilidade de competição**, ou seja, quando **apenas uma entidade** pode atender ao objeto da parceria devido à **natureza singular do serviço** ou de suas metas.
