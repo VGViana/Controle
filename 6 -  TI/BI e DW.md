@@ -35,3 +35,56 @@ Por meio do Business Intelligence, é possível transformar grandes volumes de d
 - **<span style="color:#83a598">Não volatilidade</span>**: os dados são armazenados de forma **permanente e imutável**;
 - <span style="color: #d79921">**Orientado por assunto**: c</span>onsiste em organizar os dados em torno de **temas específicos**;
 - **<span style="color:#d3869b">Variável no Tempo</span>**: permite o armazenamento de **dados históricos** e **atuais** para análise e tomada de decisões.
+
+# **3. Data Warehouse (armazém de dados)**
+
+**O armazém de dados**, ou **Data Warehouse**, é um **repositório centralizado** onde informações de diferentes fontes são armazenadas e consolidadas. Essa estrutura facilita a análise e a extração de insights a partir dos dados coletados. Os Data Warehouses são projetados para lidar com dados históricos e atuais, permitindo uma visão ampla e detalhada dos negócios. Isso é crucial para o desenvolvimento de estratégias e aprimoramento dos processos empresariais.
+
+## **3.1 Quatro Características Essenciais dos Data Warehouse**:
+
+- <span style="color:#b8bb26">**Integração**</span>: consolidação de dados de **diversas fontes**;
+- <span style="color:#fb4934">**Não volatilidade**:</span> os dados são armazenados de forma **permanente e imutável**;
+- **Orientado por assunto**: consiste em organizar os dados em torno de **temas específicos**;
+- **Variável no Tempo**: permite o armazenamento de **dados históricos** e **atuais** para análise e tomada de decisões.
+
+**3.2 Processo de Data Warehouse**
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+|DIVERSAS FONTE DE DADOS|➡️|ETL|➡️|DATA WAREHOUSE|➡️|APRESENTAÇÃO|
+
+Basicamente, o **processo de Data Warehousing** segue da seguinte forma:
+
+- Extração: os **dados são coletados** de diferentes sistemas e fontes;
+- Transformação: os dados extraídos são **limpos, padronizados e enriquecidos**;
+- Carregamento: os dados transformados são **inseridos** no Data Warehouse;
+- Análise: os dados armazenados são **analisados** para gerar insights e relatórios.
+
+**3.3 Abordagem Kimball vs. Inmon**
+
+Existem duas abordagens principais no desenvolvimento de data warehouses:
+
+**🔸 Abordagem Inmon**
+
+- Top-down: enfatiza a criação de um **modelo de dados corporativo unificado antes** de projetar as soluções específicas.
+
+**🔸** **Abordagem Kimball**
+
+- Bottom-Up: concentra-se no desenvolvimento de soluções específicas e na **integração posterior** dessas soluções em um modelo de dados corporativo.
+
+![[Kimball X Inmon.png]]
+
+**4. Processo de ETL**
+
+- Extração: É o processo de **coletar e extrair dados** de diversas fontes heterogêneas, como sistemas operacionais, bancos de dados e arquivos.
+- Transformação: Envolve a **limpeza, padronização, enriquecimento** e aplicação de regras de negócio aos dados extraídos para garantir a qualidade e a consistência das informações.
+- Carga: Consiste em **inserir os dados transformados** no data warehouse ou em outro sistema de armazenamento de dados, permitindo que sejam utilizados para análises e geração de relatórios.
+
+### **4.1 Pipeline de Dados (Diferenças)**
+
+|                |                                                                     |                                                           |
+| -------------- | ------------------------------------------------------------------- | --------------------------------------------------------- |
+|                | Processamento de Fluxo                                              | Processamento em Lote                                     |
+| **Frequência** | Executados **continuamente**.                                       | Executados com **pouca frequência**.                      |
+| **Computação** | Exigem **baixo** poder de computação.                               | Exigem **alto** poder de computação por um curto período. |
+| **Conexão**    | Precisam de conexões de **rede confiáveis** e de **baixa latência** | Executadas geralmente **fora dos horários de pico**.      |
