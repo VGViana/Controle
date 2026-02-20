@@ -1,5 +1,5 @@
 ---
-tags: [mapa, sistêmico, conexões]
+
 ---
 
 # Mapa Sistêmico Fiscal

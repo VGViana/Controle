@@ -1,7 +1,7 @@
 ---
 id: CTN
 aliases: [Código Tributário Nacional, Lei 5172]
-tags: [LEI, CTN, DireitoTributário, MOC]
+
 ---
 
 # Código Tributário Nacional (CTN)

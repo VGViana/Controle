@@ -1,5 +1,5 @@
 ---
-tags: [erros, pegadinhas, revisão]
+
 ---
 
 # ⚠️ Erros Clássicos da Área Fiscal

@@ -1,5 +1,5 @@
 ---
-tags: [metodologia, estratégia, bancas]
+
 priority: Critical
 ---
 
