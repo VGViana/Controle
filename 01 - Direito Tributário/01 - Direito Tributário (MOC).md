@@ -1,33 +1,32 @@
-# **MOC - Direito Tributário**
+# MOC - Direito Tributário
 
-🏠 **[Home](../README.md)** | 📊 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)**
+[[../README.md|Home]] | [[../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md|Painel Geral]]
 
-Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN), com foco em concursos da área fiscal (FGV, CEBRASPE, FCC).
+Este MOC organiza os temas estruturantes do Sistema Tributário Nacional (STN).
 
-## **0. Legislação e Normas Gerais**
-- **[Código Tributário Nacional (CTN)](../07%20-%20Legislação%20Tributária/CTN.md)**: Norma geral de direito tributário.
+## 0. Legislação e Normas Gerais
+- **[[../07%20-%20Legislação%20Tributária/CTN.md|Código Tributário Nacional (CTN)]]**: Norma geral.
 
-## **1. Limitações ao Poder de Tributar**
-- **[1. Princípios](./1.%20Princípios.md)**: Legalidade, Anterioridade (Anual/Nonagesimal), Irretroatividade, Capacidade Contributiva e Não-Confisco.
-- **[2. Imunidades](./2.%20Imunidades.md)**: Recíproca (Pacto Federativo), Religiosa, Partidária/Sindical e de Imprensa.
+## 1. Limitações ao Poder de Tributar
+- **[[./1.%20Princípios.md|1. Princípios]]**: Legalidade, Anterioridade, Irretroatividade, Capacidade Contributiva e Não-Confisco.
+- **[[./2.%20Imunidades.md|2. Imunidades]]**: Recíproca, Religiosa, Partidária/Sindical e de Imprensa.
 
-## **2. Crédito Tributário**
-- **[7. Crédito tributário](./7.%20Crédito%20tributário.md)**: Lançamento, natureza e cobrança.
-- **[8. Suspensão da Exigibilidade do Crédito Tributário](./8.%20Suspensão%20da%20Exigibilidade%20do%20Crédito%20Tributário.md)**: Moratória, Depósito, Recursos, Liminares, Parcelamento.
-- **[9. Extinção do Crédito Tributário](./9.%20Extinção%20do%20Crédito%20Tributário.md)**: Pagamento, Decadência, Prescrição, Remissão.
-- **[10. Exclusão do Crédito Tributário](./10.%20Exclusão%20do%20Crédito%20Tributário.md)**: Isenção e Anistia.
+## 2. Crédito Tributário
+- **[[./7.%20Crédito%20tributário.md|7. Crédito tributário]]**: Lançamento e natureza.
+- **[[./8.%20Suspensão%20da%20Exigibilidade%20do%20Crédito%20Tributário.md|8. Suspensão]]**: Moratória, Depósito, Recursos, Liminares, Parcelamento.
+- **[[./9.%20Extinção%20do%20Crédito%20Tributário.md|9. Extinção]]**: Pagamento, Decadência, Prescrição, Remissão.
+- **[[./10.%20Exclusão%20do%20Crédito%20Tributário.md|10. Exclusão]]**: Isenção e Anistia.
 
-## **3. Pontes Conceituais e Tributos em Espécie**
-- **[Jurisprudência Fiscal (STF e STJ)](../99%20-%20Conceitos%20Gerais/Jurisprudência%20Fiscal%20(STF%20e%20STJ).md)**: Súmulas Vinculantes e Teses (Crucial para FGV/Cebraspe).
-- **[LALUR e Lucro Real](../99%20-%20Conceitos%20Gerais/LALUR%20e%20Lucro%20Real.md)**: A conexão definitiva com a Contabilidade.
-- **[SPED e Tecnologia Fiscal](../99%20-%20Conceitos%20Gerais/SPED%20-%20Sistema%20Público%20de%20Escrituração%20Digital.md)**: A conexão com TI e Obrigações Acessórias.
-- **[Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md)**: Relação entre Direito Tributário, Administrativo e Constitucional.
-- **[Pacto Federativo e Tributação](../99%20-%20Conceitos%20Gerais/Pacto%20Federativo%20e%20Tributação.md)**: Autonomia dos entes e repartição de receitas.
-- **[02 - Direito Constitucional](../02%20-%20Direito%20Constitucional/02%20-%20Direito%20Constitucional%20(MOC).md)**: Fundamento de validade do Sistema Tributário Nacional.
-- **[03 - Direito Administrativo](../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC).md)**: Poder de Polícia como fato gerador de taxas.
+## 3. Pontes Conceituais e Tributos em Espécie
+- **[[../99%20-%20Conceitos%20Gerais/Jurisprudência%20Fiscal%20(STF%20e%20STJ).md|Jurisprudência Fiscal]]**: Súmulas e Teses.
+- **[[../99%20-%20Conceitos%20Gerais/LALUR%20e%20Lucro%20Real.md|LALUR e Lucro Real]]**: Conexão com Contabilidade.
+- **[[../99%20-%20Conceitos%20Gerais/SPED%20-%20Sistema%20Público%20de%20Escrituração%20Digital.md|SPED e Tecnologia Fiscal]]**: Conexão com TI.
+- **[[../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md|Conexões de Direito Público]]**: Tributário, Administrativo e Constitucional.
+- **[[../02%20-%20Direito%20Constitucional/02%20-%20Direito%20Constitucional%20(MOC).md|D. Constitucional]]**: Fundamento de validade do STN.
 
 ---
-🎯 **Estratégia:** Memorize as exceções aos princípios da Legalidade e Anterioridade, tema preferido das bancas.
+> [!info] Estratégia
+> Focar nas exceções aos princípios da Legalidade e Anterioridade.
 
 ---
-🔙 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)** | 🗺️ **[Mapa Sistêmico Fiscal](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)**
+[[../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md|Painel Geral]] | [[../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md|Mapa Sistêmico]]
