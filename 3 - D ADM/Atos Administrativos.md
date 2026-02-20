@@ -25,28 +25,25 @@
 
 # **2. Fatos administrativos:** 
 
-- - Três sentidos:
-        - **atividade material** decorrente de um **ato administrativo**;
-        - **atuação administrativa** que produz **efeitos** **jurídicos indiretamente**;
-        - **evento da natureza** que produz **efeitos jurídicos**.
-    - **Não possuem** como **finalidade** a produção de **efeitos jurídicos** (conquanto, eventualmente,   
-        possam decorrer efeitos jurídicos deles);
-    - **Não há manifestação ou declaração de vontade**, com conteúdo jurídico, da administração   
-        pública;
-    - **Não** faz sentido falar em “**presunção de legitimidade**” de fatos administrativos;
-    - **Não existe revogação ou anulação** de fatos administrativos;
-    - **Não** faz sentido falar em **fatos administrativos discricionários e vinculados.  
-          
+- Três sentidos:
+	- **<span style="color:#83a598">atividade material</span>** decorrente de um **ato administrativo**;
+	- **<span style="color:#83a598">atuação administrativa</span>** que produz **efeitos** **jurídicos indiretamente**;
+	- **<span style="color:#83a598">evento da natureza</span>** que produz **efeitos jurídicos**.
+- **<span style="color:#fb4934">Não possuem</span>** como *<span style="color:#fb4934">*finalidade*</span>* a produção de **efeitos jurídicos** (conquanto, eventualmente,   
+	possam decorrer efeitos jurídicos deles);
+- **<span style="color:#fb4934">Não há manifestação ou declaração de vontade*</span>*, com conteúdo jurídico, da administração pública;
+- **<span style="color:#fb4934">Não</span>** faz sentido falar em “*<u>*presunção de legitimidade*</u>*” de fatos administrativos;
+- **<span style="color:#fb4934">Não existe revogação ou anulação**</span> de fatos administrativos;
+- **<span style="color:#fb4934">Não</span>** faz sentido falar em **<span style="color:#fb4934">fatos administrativos discricionários e vinculados.</span>  
         **
 
-**3. Silêncio administrativo:  
-**
+# **3. Silêncio administrativo:**
 
-- - **Omissão da administração** quando há o **dever de se pronunciar**;
-- Dependem de **previsão legal**;
-    -  a lei prescreve que o **silêncio significa manifestação positiva** (anuência tácita);
-    -  a lei dispõe que a **omissão significa manifestação denegatória** (pedido negado).
-- **Omissão da lei quanto aos resultados do silêncio:**
-    - _após o decurso do prazo_ o juiz:
-        - **ato vinculado:**  **defere o pedido** ou **manda** a administração **deferir**;
-        - **ato discricionário**: **prazo para a manifestação** da administração.
+- **<span style="color:#83a598">Omissão da administração</span>** quando há o **dever de se pronunciar**;
+- Dependem de <span style="color:#83a598">**previsão legal**;</span>
+    -  a lei prescreve que o **<span style="color:#83a598">silêncio significa manifestação positiva</span>** (anuência tácita);
+    -  a lei dispõe que a **<span style="color:#83a598">omissão significa manifestação denegatória</span>** (pedido negado).
+- **<span style="color:#83a598">Omissão da lei quanto aos resultados do silêncio</span>:**
+    - <u>_após o decurso do prazo_</u> o juiz:
+        - **ato vinculado:**  **<span style="color:#83a598">defere o pedido</span>** ou **<span style="color:#83a598">manda*</span>* a administração **<span style="color:#83a598">deferir*</span>*;
+        - **ato discricionário**: **<span style="color:#83a598">prazo para a manifestação</span>** da administração.
