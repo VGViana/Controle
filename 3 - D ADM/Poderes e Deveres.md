@@ -74,5 +74,54 @@
 - **Deveres do administrador<span style="color:#83a598"> (PEPA)</span>:**
     - Dever de **Prestar contas;**
     - Dever de **Eficiência;**
-    - Dever de **P****robidade**
-    - Dever de **A****gir.**
+    - Dever de **Probidade**
+    - Dever de **Agir.**
+
+# **4. Poder disciplinar:**
+
+- - Incide sobre:
+        - **Servidores públicos;**
+        - Particulares com **vínculo especial** com o poder público**.**
+- Em parte <span style="color:#d3869b">**vinculado</span>:**
+    - **Poder-dever** de  <span style="color:#d3869b">**instaurar o procedimento administrativo**</span>;
+    - <span style="color:#d3869b">**Responsabilizar**</span> o agente faltoso.
+- Em parte <span style="color:#b8bb26">**discricionário</span>:**
+    - <span style="color:#b8bb26">**Tipificação**</span> da falta;
+    - <span style="color:#b8bb26">**Escolha e gradação**</span> da penalidade.
+- <span style="color:#fb4934">**Direito de defesa**</span>:
+    - <span style="color:#fb4934">**Contraditório**</span> e a <span style="color:#fb4934">**ampla defesa**</span>;
+- <span style="color:#83a598">**Motivação**</span> dos atos de aplicação de penalidades
+
+<mark style="background:rgba(240, 107, 5, 0.2)">**Atenção:**</mark>
+
+- **Diferença principal**:
+    - **Poder Disciplinar**: Aplica-se a quem tem **vínculo específico** com a Administração.
+    - **Poder de Polícia**: Aplica-se a **todos os cidadãos**, independentemente de vínculo.
+
+**💡** <span style="color:#fb4934">_**Se liga!</span>**_  Há <mark style="background:rgba(136, 49, 204, 0.2)">divergência sobre a discricionaridade</mark>, alguns autores entendem que **esse poder é sempre vinculado.**
+
+# **5. Poder regulamentar ou normativo:**
+
+- **<span style="color:#b8bb26">Prerrogativa</span>** conferida à Administração Pública <span style="color:#b8bb26">**para editar atos gerais**</span> <span style="color:#fb4934">**APENAS**</span> para **complementar as leis** e **permitir a sua efetiva aplicação**.
+    - **Poder conferido ao chefe do Poder Executivo** para a edição de normas complementares à lei (decretos), permitindo a sua fiel execução.  
+          
+        
+- **Decretos <span style="color:#fb4934">regulamentares/executivos</span>:**
+    - Competência <span style="color:#fb4934">**indelegável**</span>;
+    - Somente sobre <span style="color:#fb4934">**leis administrativas**</span>;
+    - Para <span style="color:#fb4934">**garantir isonomia**</span> dos procedimentos administrativos.  
+          
+        
+- Decretos <span style="color:#83a598">**autônomos**</span>:
+    - **Previsão <span style="color:#83a598">constitucional**</span>;
+    - Tratam de <span style="color:#83a598">**matérias não disciplinadas em lei</span>;**
+    - <span style="color:#83a598">**Organização e funcionamento**</span> da administração, **<span style="color:#fb4934">ressalvados os casos</span>**:
+        - que impliquem <span style="color:#fb4934">**aumento de despesa</span>;**
+        - <span style="color:#fb4934">**criação ou extinção**</span> de **órgãos públicos**; ou
+        - <span style="color:#fb4934">**extinção**</span> de **cargo/função vago**.
+    - <span style="color:#83a598">**Delegáveis**</span> p/ Ministros de Estado, PGR, AGU.  
+          
+        
+## 5.1: **Decretos Autônomos:** 
+-  não se trata de uma autorização genérica para edição de regulamentos autônomos, pois só se aplica nos casos das alíneas “a” e “b” do inc. VI, art. 84, da Constituição Federal.
+- por decorrerem diretamente da Constituição Federal, essas são hipóteses restritas de decretos como atos normativos primários;
