@@ -2,43 +2,41 @@
 tags: [dashboard, fiscal, master, ultimate]
 ---
 
-# Painel Central - Área Fiscal
+# Área Fiscal
 
-> [!abstract] Status
-> **Objetivo:** Aprovação na Área Fiscal
-> **Bancas:** [[Bancas|FGV, Cebraspe, FCC, VUNESP]]
-> **Arquitetura:** Constituição Navegável e Cruzamento Contábil-Fiscal
+[[./Fiscal.md|Painel]] | [[../README.md|Home]]
 
 ---
 
 ## Estratégia e Fundamentos
-- **[[Bancas]]** (Análise por banca)
-- **[[Jurisprudência Fiscal (STF e STJ)]]** (Súmulas e Teses)
-- **[[Erros Clássicos da Área Fiscal]]** (Pontos de atenção)
-- **[[Mapa Sistêmico Fiscal]]** (Visão de conjunto)
+- [[Bancas]]
+- [[Jurisprudência Fiscal (STF e STJ)]]
+- [[Erros Clássicos da Área Fiscal]]
+- [[Mapa Sistêmico Fiscal]]
 
 ---
 
-## Núcleo: Constituição Navegável
-- **[[CF]] (Constituição Federal)**
-- **[[CTN]] (Código Tributário Nacional)**
-- **[[Pacto Federativo e Tributação]]**
+## Constituição Navegável
+- [[CF]] (Constituição Federal)
+- [[CTN]] (Código Tributário Nacional)
+- [[Pacto Federativo e Tributação]]
 
-## Notas-Ponte (Interdisciplinar)
-- **Contabilidade / Tributário:** [[LALUR e Lucro Real]]
-- **TI / Tributário:** [[SPED - Sistema Público de Escrituração Digital]]
-- **Direito Público:** [[Conexões de Direito Público]]
+## Notas-Ponte
+- [[LALUR e Lucro Real]]
+- [[SPED - Sistema Público de Escrituração Digital]]
+- [[Conexões de Direito Público]]
 
 ---
 
-## Módulos de Estudo
+## Módulos
 
 ### Jurídico
 - [[01 - Direito Tributário (MOC)|Direito Tributário]]
 - [[02 - Direito Constitucional (MOC)|Direito Constitucional]]
 - [[03 - Direito Administrativo (MOC)|Direito Administrativo]]
 - [[07 - Legislação Tributária (MOC)|Legislação Tributária]]
-- [[11 - Direito Civil (MOC)|Direito Civil]] | [[12 - Direito Empresarial (MOC)|Direito Empresarial]]
+- [[11 - Direito Civil (MOC)|Direito Civil]]
+- [[12 - Direito Empresarial (MOC)|Direito Empresarial]]
 
 ### Exatas e Contábeis
 - [[04 - Contabilidade Geral (MOC)|Contabilidade Geral]]
@@ -52,12 +50,11 @@ tags: [dashboard, fiscal, master, ultimate]
 - [[99 - Conceitos Gerais (MOC)|Conceitos Gerais]]
 
 ---
-[[Fiscal.md|Painel]] | [[../README.md|Home]]
 
 ## Grafo de Conexões
 ```mermaid
 graph TD
-  Central[Painel Central] --> Metodologia[Metodologia]
+  Central[Índice] --> Metodologia[Metodologia]
   Central --> Jurisprudencia[Jurisprudência]
   Central --> LALUR[LALUR]
   Central --> SPED[SPED]
