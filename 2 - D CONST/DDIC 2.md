@@ -64,39 +64,110 @@
     - Criação ou aumento de <u>tributos</u>💡
     - Mudança de <u>regime estatutário</u>
 
-- **Ato Jurídico Perfeito** - o direito foi exercido de acordo com as regras da lei vigente ao tempo da execução do ato. A situação jurídica foi consolidada e não poderá ser desconstituída (alterada) se houver mudança na lei. Não confundir com a expectativa de direito, aqui não houve o cumprimento de todos os requisitos exigidos em lei, há uma mera expectativa de consolidação da situação.
--  **Coisa julgada** - não há mais a possibilidade de recurso, há uma decisão final irrecorrível.
+- <span style="color:#83a598">**Ato Jurídico Perfeito**</span> - o direito foi exercido de acordo com as regras da lei vigente ao tempo da execução do ato. A <span style="color:#83a598">situação jurídica foi consolidada e não poderá ser desconstituída (alterada) se houver mudança na lei</span>. Não confundir com a <u>expectativa de direito</u>, aqui não houve o cumprimento <u>de todos</u> os requisitos exigidos em lei, há uma mera expectativa de consolidação da situação.
+-  <span style="color:#d3869b">**Coisa julgada**</span> - não há mais a possibilidade de recurso, há uma <span style="color:#d3869b">decisão final irrecorrível.</span>
 
-**1.6 Princípio do juiz natural**
+## **1.6 Princípio do juiz natural**
 
-- Não pode haver tribunal ou juízo de exceção, apenas as pessoas **com competência** prevista constitucionalmente poderão ser juízes ou órgãos julgadores. Ou seja, não se pode escolher aleatoriamente, fora dos requisitos constitucionais, quem será o julgador de um determinado processo. Você não pode chegar no fórum e escolher qual juiz irá julgar seu processo, não é?
+- <span style="color:#fb4934">Não pode haver tribunal ou juízo de exceção</span>, apenas as pessoas **com competência** <u>prevista constitucionalmente</u> poderão ser juízes ou órgãos julgadores. Ou seja, não se pode escolher aleatoriamente, fora dos requisitos constitucionais, quem será o julgador de um determinado processo. Você não pode chegar no fórum e escolher qual juiz irá julgar seu processo, não é?
 
-**ATENÇÃO! Tal princípio abrange todas as pessoas, físicas e jurídicas, assim como, nacionais e estrangeiras.**
+<span style="color:#fb4934">**ATENÇÃO!</span> Tal princípio abrange todas as pessoas, físicas e jurídicas, assim como, nacionais e estrangeiras.**
 
 **STF** - o princípio do **juiz natural** não está limitado apenas ao Judiciário, mas a todos os julgadores previstos na CF/88.
 
-**STF** - há o **princípio do promotor natural** que é aquele escolhido através de requisitos legais para atuar no processo.
+**STF** - há o <span style="color:#83a598">**princípio do promotor natural**</span> que é aquele escolhido através de requisitos legais para atuar no processo.
 
-**1.7 Júri popular**
+## **1.7 Júri popular**
 
-- É importante que saibamos as **principais características** do tribunal do júri, quais são:
+- É importante que saibamos as <span style="color:#d3869b">**principais características**</span> do tribunal do júri, quais são:
 
-- - **plenitude de defesa;**
-    - **sigilo das votações;**
-    - **soberania dos vereditos; e** 
-    - **competência para o julgamento dos crimes dolosos contra a vida.**
+<span style="color:#fb4934">- **plenitude de defesa;**
+- **sigilo das votações;**
+- **soberania dos vereditos; e** 
+- **competência para o julgamento dos crimes dolosos contra a vida.**</span>
 
 **STF** - não pode a **legislação estadual** criar órgão que invada a competência do tribunal do júri.
 
 **STF** - o **crime de latrocínio** (roubo seguido de morte) é de competência do **juiz singular.**
 
-- Quando houver **foro especial** delimitado pela **CF/88**, a competência do tribunal do júri não subsistirá. Mas, se o foro for delimitado pela **Constituição Estadual,** a competência do tribunal do júri prevalecerá.
+- Quando houver **foro especial** delimitado pela **CF/88**, a <span style="color:#fb4934"><u>competência do tribunal do júri não subsistirá.</u></span> Mas, se o foro for delimitado pela **Constituição Estadual,** a <span style="color:#b8bb26"><u>competência do tribunal do júri prevalecerá.</u></span>
 
 **STF** - **vereadores** que cometerem crimes dolosos contra a vida serão julgados pelo **tribunal do júri**, mesmo que haja foro especial decorrente da Constituição Estadual.
 
-**STF** - a soberania do tribunal do júri não afasta a recorribilidade das suas decisões, quando for manifestamente contrária às provas dos autos.
+**STF** - a soberania do tribunal do júri não afasta a recorribilidade das suas decisões, quando for <span style="color:#fb4934"><u>manifestamente contrária às provas dos autos.</u></span>
 
-**1.8 Princípio da legalidade**
+## **1.8 Princípio da legalidade**
 
-- **Princípio da reserva legal** - apenas **lei em sentido estrito** (editada pelo Poder Legislativo) poderá definir crimes e comutar penas. Não pode ser criado crime através de medida provisória (espécie normativa elaborada pelo Presidente da República) e nem comutar penas.
-- **Anterioridade da lei penal** - apenas será considerado crime se a conduta for tipificada por lei **anterior à ação.**
+- **Princípio da reserva legal** - apenas **<span style="color:#fb4934">lei em sentido estrito</span>** (editada pelo Poder Legislativo) poderá definir crimes e comutar penas. Não pode ser criado crime através de medida provisória (espécie normativa elaborada pelo Presidente da República) e nem comutar penas.
+- **Anterioridade da lei penal** - apenas será considerado crime se a conduta for tipificada por lei **<span style="color:#fb4934"><u>anterior à ação</u></span>.**
+
+## **1.1 Irretroatividade da lei**
+
+- As leis penais incriminadoras **não podem atingir fatos pretéritos (que já ocorreram)**, ou seja, não podem considerar condutas que ocorreram **antes da sua entrada em vigência como crimes.**
+- **Lei que for benéfica** **poderá retroagir** e, assim, atingir condutas que ocorreram antes da sua entrada em vigor. Ex: Se alguém estiver preso por ter cometido uma conduta que era considerada como crime por uma lei e, no caso, for criada outra lei que desconsidere tal conduta como criminosa, então, a pessoa será imediatamente solta (a lei que desconsiderou tal conduta como crime irá retroagirá).
+
+**Grave:**
+
+- **lei penal incriminadora - não pode retroagir;**
+- **lei penal benéfica - pode retroagir.**
+
+**STF** - não pode haver a **combinação de leis no tempo** mesmo que para beneficiar o réu.
+
+**1.2 Imprescritibilidade e inafiançabilidade** 
+
+- São **crimes inafiançáveis**:
+
+- - **racismo;**
+    - **ação de grupos armados;**
+    - **tráfico, terrorismo, tortura; e** 
+    - **crimes hediondos.**
+
+**Muito importante:**
+
+- **Imprescritíveis** (RAÇÃO)
+
+- - RAcismo;
+    - AÇÃO de grupos armados.
+
+-  **Insuscetíveis de graça** (3TH não tem graça)
+
+- - Tráfico;
+    - Terrorismo;
+    - Tortura;
+    - Hediondos.
+
+**STF** - reconheceu que houve omissão por parte do Poder Legislativo quanto à tipificação dos crimes de **homofobia e transfobia**. E até que sejam tipificados, tais condutas terão as **mesmas penas dadas ao crime de racismo.**
+
+**STF** - o crime de **injúria racial** foi considerado uma espécie do crime de racismo, também sendo **imprescritível**.
+
+**1.3 Intranscendência das penas**
+
+- Os **efeitos penais não poderão ser transmitidos para outras pessoas que não sejam as que cometeram a conduta criminosa;**  
+- **A reparação de danos poderão ser transmitidas para os sucessores** de quem causou o dano, mas **no limite do patrimônio transferido.**
+
+**1.4 Individualização da pena**
+
+- As **características pessoais** do agente devem ser consideradas quando houver a **individualização das penas.** Por exemplo, crianças, mulheres e idosos ficam em estabelecimento prisional diferente dos demais. A execução das penas deve ser feita em locais adequados a cada indivíduo, **considerando-se a idade, gênero e o delito do apenado.**
+
+**STF** - é **inconstitucional** a proibição da progressão de regime aos crimes hediondos.
+
+**STF** - não havendo estabelecimento prisional adequado ao cumprimento da pena pelo agente, este não poderá permanecer em estabelecimento prisional mais gravoso.
+
+**ATENÇÃO! Fique ligado:**
+
+- **pena de morte**, esta é permitida nos casos de **guerra declarada;**
+- **pena de banimento** não foi aceita pela **CF/88.**
+
+🚨 Tenha atenção às **hipóteses de extradição:**
+
+- **Brasileiros natos** não serão extraditados!!
+- **Brasileiros naturalizados** poderão ser extraditados apenas em duas hipóteses:
+- praticou **crime comum** **antes da naturalização;**
+- teve envolvimento comprovado em **tráfico ilícito de entorpecentes e drogas afins**, **a qualquer momento.**
+
+**1.4.1 Tipos de extradição:**
+
+- Extradição **ativa** - governo brasileiro **solicita** a entrega de um indivíduo a outro país.
+- Extradição **passiva** - **é solicitado** ao governo brasileiro a extradição de um indivíduo.
+- Não é admitida a extradição por crime político ou de opinião.
+- Cabe ao STF definir um crime como político.
