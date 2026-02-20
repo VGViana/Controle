@@ -10,3 +10,5 @@ tags: []
 [[8. Suspensão da Exigibilidade do Crédito]]
 
 [[Extinção do Crédito]]
+
+[[Exclusão do Crédito Tributário]]

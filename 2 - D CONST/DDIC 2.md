@@ -241,11 +241,56 @@
 
 **STF** - é **<span style="color:#d3869b">lícita</span>** a prisão civil do **devedor de alimentos.**
 
-- No caso do **devedor de alimentos**, a prisão ocorrerá **apenas quando** houver o **inadimplemento for voluntário e inescusável** da obrigação de alimentos. **Esse é o único caso de prisão civil adotado no Brasil.** ⚠️
+- No caso do **<span style="color:#d3869b">devedor de alimentos</span>**, a prisão ocorrerá **apenas quando** houver o **<span style="color:#d3869b"><u>inadimplemento for voluntário e inescusável</u></span>** da obrigação de alimentos. **<span style="color:#fe8019">Esse é o único caso de <u>prisão civil</u> adotado no Brasil</span>.** ⚠️
 -  Algumas provas ainda cobram a literalidade do inciso LXVII: _não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel;_
 
-**IMPORTANTE!** Saibamos que o Brasil assinou o **Pacto de San Jose da Costa Rica****,** este possui efeito supralegal (essa norma está abaixo da CF/88, mas acima das normas infraconstitucionais, portanto deve ser respeitada pelas demais normas do ordenamento). O que significa que, apenas a prisão civil por alimentos poderá ocorrer. Apesar da norma constitucional do inciso LXVII ainda existir e não ter sido modificada, não poderá haver a produção de normas que regeriam a prisão civil do depositário infiel.
+**IMPORTANTE!** Saibamos que o Brasil assinou o **<span style="color:#b8bb26">Pacto de San Jose da Costa Rica</span>,** este possui <span style="color:#b8bb26"><u>efeito supralegal</u></span> (essa norma está abaixo da CF/88, mas acima das normas infraconstitucionais, portanto deve ser respeitada pelas demais normas do ordenamento). O que significa que, apenas a prisão civil por alimentos poderá ocorrer. Apesar da norma constitucional do inciso LXVII ainda existir e não ter sido modificada, não poderá haver a produção de normas que regeriam a prisão civil do depositário infiel.
 
-**Então, devemos levar para a prova** que a literalidade do inciso LXVII subsiste, mas apenas é válida para a prisão por dívida alimentícia (voluntária e inescusável). **A prisão do depositário infiel não é mais aceita no ordenamento brasileiro.**
+**<span style="color:#fe8019">Então, devemos levar para a prova</span>** que a literalidade do inciso LXVII subsiste, mas apenas é válida para a prisão por <u>dívida alimentícia</u> (voluntária e inescusável). **A prisão do <u>depositário infiel</u> não é mais aceita no ordenamento brasileiro.**
 
-**ATENÇÃO! Os remédios constitucionais serão estudados futuramente com mais detalhes, ok!**
+## **1.1 Documentos gratuitos para a defesa do cidadão**
+
+- <u>Apenas aos reconhecidamente pobres</u>, serão gratuitos: **<span style="color:#fe8019"><u>registro civil de nascimento e certidão de óbito</u></span>**. Porém, o STF pacificou entendimento que a **<span style="color:#fe8019">todos os cidadãos serão disponibilizados, gratuitamente, tais documentos, assim como a primeira certidão;</span>**
+- Dentre os **<span style="color:#fe8019"><span style="color:#d3869b">remédios constitucionais</span>*</span>*, o <span style="color:#d3869b">_habeas corpus e o habeas data_ são gratuitos a todos os cidadãos;</span>
+- Ações necessárias ao <u>exercício da cidadania</u>;
+- Aos que comprovarem insuficiência de recursos: <span style="color:#fb4934">**assistência jurídica gratuita**.</span>
+
+**STF** - os **<span style="color:#fe8019">estrangeiros hipossuficientes</span>** estão imunes ao pagamento de taxas para o registro de <u>regularização migratória</u>.
+
+## **1.2 Tratados internacionais**
+
+- Os **<span style="color:#fe8019">tratados internacionais**</span> sobre *<span style="color:#b8bb26"><u>*direitos humanos**,</u></span> quando aprovados por **3/5** dos membros **de cada Casa do Congresso Nacional**, em **dois turnos** de votação, **serão internalizados pelo ordenamento com equivalência de** **<span style="color:#fe8019">emendas constitucionais</span>.**
+
+- Caso o tratado discuta sobre **<span style="color:#b8bb26">direitos humanos</span>**, mas não passe pelo rito das **<span style="color:#fe8019">emendas constitucionais</span>,** eles terão **<span style="color:#b8bb26">_status supralegal_</span>**, ou seja, abaixo da Constituição e acima das demais leis. Porém, **se <span style="color:#d3869b">não tratar de direitos humanos*</span>*, o _status_ será de **<span style="color:#d3869b">lei ordinária</span>.**
+
+## **1.3 Remédios Constitucionais**
+
+- _**HABEAS CORPUS**_
+
+- - LXVIII - conceder-se-á <span style="color:#d3869b">"**habeas-corpus**"</span> sempre que alguém **sofrer ou se achar ameaçado de sofrer** <u>violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder</u>;
+    - Finalidade: **<span style="color:#d3869b">Proteger a liberdade locomoção</span>;**
+    - Formas: **repressivo** (a violência ou coação está ocorrendo); ou **preventivo** (a violência ou coação não ocorrem ainda, há uma ameaça);
+    - Tem **natureza penal;**
+    - **<span style="color:#d3869b">Legitimidade ativa</span>** **(quem impetra - entra com a ação)**: qualquer pessoa física ou jurídica, Ministério Público, Defensoria Pública - **legitimidade universal;**
+    - **<span style="color:#d3869b">Legitimidade Passiva</span>** - é impetrado contra **<span style="color:#d3869b">autoridade pública ou privada</span>** que determinou a violência ou a coação;
+    - **<span style="color:#d3869b">Sujeito paciente</span>** **(aquele que sofre violência ou coação contra a sua liberdade de locomoção): apenas pessoa física;**
+    - **<span style="color:#d3869b">Não pode o _habeas corpus_ ser impetrado em favor de pessoa jurídica</span>!** Mas, poderá a pessoa jurídica impetrar _habeas corpus_ em favor de pessoa física;
+    - **Juiz pode concedê-lo de <u>ofício,</u> ou seja, o magistrado não está subordinado à causa de pedir e aos pedidos formulados;**
+    - **<span style="color:#d3869b">Inadmissível impetração sucessiva</span> -** é preciso julgar o 1º para dar entrada no 2º, **salvo ilegalidade flagrante;**
+    - **<span style="color:#d3869b">Não é necessário advogado</span>** (único remédio que dispensa) **<span style="color:#d3869b">e é gratuito;</span>**
+    - **<span style="color:#d3869b">Incabível contra</span>**:
+	    - decisões do STF;
+        - suspensão direitos políticos;
+        - pena em processo administrativo disciplinar;
+        - quebra de sigilo que não resulte em prisão;
+        - pena de multa, se já extinta a pena de liberdade;
+        - para discutir as punições disciplinares militares;
+        - para pleitear visita íntima.
+
+**STF** - em caso de **<span style="color:#d3869b">quebra de sigilo bancário** que possa causar a prisão da pessoa</span>, cabe _habeas corpus_. Mas se a quebra de sigilo ocorrer em processo administrativo, não caberá _habeas corpus_, afinal, não poderá uma sentença administrativa levar à prisão.
+
+**STF** - pode haver _habeas corpu_s em relação às **<span style="color:#d3869b">medidas cautelares*</span>* que se forem violadas podem resultar em prisão.
+
+**STF** - admite-se o _habeas corpus_ **<span style="color:#d3869b">_coletivo_*</span>*.  
+
+**STJ** - pode haver _habeas corpus_ quanto às **<span style="color:#d3869b">medidas protetivas** às mulheres relacionadas na Lei Maria da Penha.</span>
