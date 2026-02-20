@@ -21,12 +21,12 @@ Ex: entidades do **“Sistema S”** - <span style="color:#83a598">SESI, SENAI, 
 - Tem os processos julgados pela **<span style="color:#83a598">justiça estadual</span>**, conforme o **<span style="color: #d79921">STF</span>**;
 - **<span style="color:#fb4934">Não</span>** precisam realizar **<u>concurso público</u>** nem **<u>licitações</u>**.
 
-## **1.2 ORGANIZAÇÃO SOCIAL (OS)**
+## **<span style="color:#b8bb26">1.2 ORGANIZAÇÃO SOCIAL (OS)</span>**
 
-- “Qualificação jurídica dada a pessoa jurídica de **direito privado**, **sem fins lucrativos**, instituída por iniciativa de particulares, e que recebe delegação do Poder Público, mediante **CONTRATO DE GESTÃO,** para desempenhar serviço público de natureza social.”
-- A **qualificação da OS** se dá por meio de **Decreto Executivo** - do Ministério da área específica - além disso, é um **ato discricionário** do poder público;
-- Pensadas para absorver as atividades **não exclusivas** de Estado que até então eram realizadas por Entidades Estatais;
-- Seu órgão de deliberação superior (Conselho de Administração) tem que ter **representantes do Poder Público**, **representantes da própria OS** e **representantes da comunidade**, de notória capacidade profissional e idoneidade moral.
-- O **fomento** pelo Poder Público poderá abranger, por exemplo, algumas das seguintes medidas: **destinação de recursos orçamentários e bens necessários ao cumprimento do contrato de gestão,** mediante **permissão de uso e** **cessão especial de servidores públicos, com ônus para a origem**; 
-- Segundo **STF**: **OS** **não** precisa **realizar concurso,** basta um **processo seletivo objetivo e impessoal;**
-- **Áreas de atuação: preservação do meio ambiente, cultura, saúde, pesquisa científica, ensino e desenvolvimento tecnológico.**
+- “Qualificação jurídica dada a pessoa jurídica de **<span style="color:#b8bb26">direito privado</span>**, **<span style="color:#fb4934">sem fins lucrativos</span>**, instituída por iniciativa de particulares, e que recebe delegação do Poder Público, mediante **<span style="color:#b8bb26"><mark style="background:rgba(240, 200, 0, 0.2)">CONTRATO DE GESTÃO</mark></span>,** para desempenhar serviço público de natureza social.”
+- A **qualificação da OS** se dá por meio de **<span style="color: #d79921">Decreto Executivo</span>** - do <span style="color: #d79921">Ministério da área específica</span> - além disso, é um **<u>ato discricionário</u>** do poder público;
+- Pensadas para absorver as atividades **<span style="color:#fb4934">não exclusivas</span>** de Estado que até então eram realizadas por Entidades Estatais;
+- Seu órgão de deliberação superior (<span style="color: #d79921">Conselho de Administração</span>) tem que ter **representantes do Poder Público**, **representantes da própria OS** e **representantes da comunidade**, de <u>notória capacidade profissional e idoneidade moral</u>.
+- O **<span style="color:#b8bb26">fomento</span>** pelo Poder Público poderá abranger, por exemplo, algumas das seguintes medidas: **<span style="color:#b8bb26">destinação de recursos orçamentários e bens necessários ao cumprimento do contrato de gestão</span>,** mediante **permissão de uso e** **<span style="color:#b8bb26">cessão especial de servidores públicos, com <u>ônus para a origem</u></span>**; 
+- Segundo **STF**: **<span style="color:#fb4934">OS</span>** **<span style="color:#fb4934">não</span>** precisa **realizar concurso,** basta um **<span style="color: #d79921">processo seletivo objetivo e impessoal;</span>**
+- **Áreas de atuação: <span style="color: #d79921">preservação do meio ambiente, cultura, saúde, pesquisa científica, ensino e desenvolvimento tecnológico.**</span>
