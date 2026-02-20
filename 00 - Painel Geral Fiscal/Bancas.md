@@ -3,11 +3,11 @@ tags: [metodologia, estratégia, bancas]
 priority: Critical
 ---
 
-# ⚔️ Metodologia de Guerra Fiscal (Ultimate)
+# Metodologia de Guerra Fiscal (Ultimate)
 
 Este documento define a doutrina de combate para as principais bancas da Área Fiscal. Seu vault deve ser adaptado para pensar como o examinador.
 
-## 🎯 Perfil das Bancas e Como Usar o Vault
+## Perfil das Bancas e Como Usar o Vault
 
 ### 🦁 FGV (Fundação Getúlio Vargas)
 > *"A banca da Interpretação e dos Casos Práticos Complexos"*
@@ -26,7 +26,7 @@ Este documento define a doutrina de combate para as principais bancas da Área F
     - Em TI, focar em **Governança (COBIT/ITIL)** e Segurança da Informação.
     - Economia e Finanças Públicas costumam ser pesadas.
 
-### 📋 FCC (Fundação Carlos Chagas)
+### FCC (Fundação Carlos Chagas)
 > *"A banca da Lei Seca e do Cálculo Rápido"*
 - **Estilo:** Copia e cola da lei (literalidade) em Direito. Questões de Contabilidade gigantescas que exigem velocidade.
 - **No Vault:**

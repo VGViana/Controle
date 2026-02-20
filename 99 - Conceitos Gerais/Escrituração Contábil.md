@@ -4,7 +4,7 @@
 - **Foco Fiscal**: Serve de base para a apuração do Lucro Real (IRPJ/CSLL) e para a verificação de omissão de receitas.
 - **Vínculo**: A falsificação da escrituração configura crime contra a ordem tributária e **[[Abuso de Poder]]** se praticada por **[[Agentes Públicos]]** para ocultar ilícitos.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   EscrituraoContbil("Escrituração Contábil")

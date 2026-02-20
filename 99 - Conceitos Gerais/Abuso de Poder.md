@@ -6,7 +6,7 @@
 - **Consequência**: Torna o **[[6. Atos Administrativos|Ato Administrativo]]** nulo e passível de controle via **[[4. DDIC 2#1.2 Direito à informação|Mandado de Segurança]]**.
 - **Contexto**: Para a relação entre abuso e fiscalização, veja **[[Conexões de Direito Público]]**.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   AbusodePoder("Abuso de Poder")

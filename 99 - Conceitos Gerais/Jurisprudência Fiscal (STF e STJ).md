@@ -7,7 +7,7 @@ Esta nota consolida o entendimento dos tribunais superiores (STF/STJ) essencial 
 
 ---
 
-## 🏛️ Súmulas Vinculantes (STF) - "Tem que Decorar"
+## Súmulas Vinculantes (STF) - "Tem que Decorar"
 *Links diretos para conceitos do vault*
 
 | Súmula | Tema | Resumo do Entendimento | Conexão |
@@ -24,7 +24,7 @@ Esta nota consolida o entendimento dos tribunais superiores (STF/STJ) essencial 
 
 ---
 
-## ⚖️ Teses de Repercussão Geral (STF) & Recursos Repetitivos (STJ)
+## Teses de Repercussão Geral (STF) & Recursos Repetitivos (STJ)
 
 ### 1. Imunidades
 - **Imunidade Recíproca (Empresas Estatais):** Estende-se a Empresas Públicas e SEM prestadoras de serviço público em regime de monopólio e sem fins lucrativos. ([[2. Imunidades]], [[4. Entidades Paraestatais e o 3° Setor]])
@@ -42,7 +42,7 @@ Esta nota consolida o entendimento dos tribunais superiores (STF/STJ) essencial 
 
 ---
 
-## 🧠 Radar de Mudanças Recentes (Reforma Tributária)
+## Radar de Mudanças Recentes (Reforma Tributária)
 *Atenção à EC 132/2023 - Reforma Tributária*
 - **IVA Dual (IBS + CBS):** O novo modelo funde tributos (PIS/COFINS/IPI/ICMS/ISS) e traz novos fatos geradores.
 - **Princípio do Destino:** A tributação passa a ser no destino, não na origem.

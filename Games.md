@@ -1,4 +1,4 @@
-### 🟢 Narrativa / Impacto Inicial
+### Narrativa / Impacto Inicial
 
 1. ~~**Undertale**~~
     
@@ -34,7 +34,7 @@
 
 ---
 
-### 🟠 Ação Cinematográfica
+### Ação Cinematográfica
 
 14. **Tomb Raider**
     
@@ -141,7 +141,7 @@
 
 ---
 
-### 🟡 Extras Essenciais
+### Extras Essenciais
 
 55. **Detroit: Become Human**
     
@@ -155,7 +155,7 @@
     
 60. **Deus Ex: Mankind Divided**
 
-## 🧠 JOGOS COM PLOT TWIST – ADIÇÕES (NÃO ESTAVAM NOS 60)
+## JOGOS COM PLOT TWIST – ADIÇÕES (NÃO ESTAVAM NOS 60)
 
 ### 🔥 FPS / SCI-FI / CONTROLE & ILUSÃO
 
@@ -177,7 +177,7 @@
 
 ---
 
-### 🧠 PSICOLÓGICOS / EXISTENCIAIS (SEM PUZZLE CHATO)
+### PSICOLÓGICOS / EXISTENCIAIS (SEM PUZZLE CHATO)
 
 66. **SOMA**  
     👉 Um dos **finais mais perturbadores da história**.

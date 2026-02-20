@@ -29,7 +29,7 @@ O Art. 150 da CF/88 traz as "Garantias Fundamentais do Contribuinte", que são d
 - **Capacidade Contributiva:** Desdobramento do Princípio da Igualdade (Isonomia).
 
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   ConexesdeDireitoPblico("Conexões de Direito Público")

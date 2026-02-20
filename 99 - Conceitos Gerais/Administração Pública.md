@@ -4,7 +4,7 @@
 - **[[4. Entidades Paraestatais e o 3° Setor|3° Setor]]**: Entidades paraestatais (OS, OSCIP, Sistema S).
 - **Princípios**: Regida pelo **[[Princípios da Administração Pública|LIMPE]]**.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   AdministraoPblica("Administração Pública")

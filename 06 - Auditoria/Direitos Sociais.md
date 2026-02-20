@@ -1,6 +1,6 @@
 
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   DireitosSociais("Direitos Sociais")

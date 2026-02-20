@@ -913,7 +913,7 @@ tags: [LEI, CTN, DireitoTributário, MOC]
 * Art. 218. Esta Lei será citada como Código Tributário Nacional. ^ctn218
 
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   CTN("CTN")

@@ -4,7 +4,7 @@
 - **Controle**: Por ser um **[[6. Atos Administrativos|Ato Administrativo]]**, submete-se à **[[Princípios da Administração Pública|Legalidade]]** estrita e ao controle judicial (**[[4. DDIC 2#1.4 Inafastabilidade de jurisdição|Inafastabilidade de Jurisdição]]**).
 - **Tipos**: **[[7. Crédito tributário#LANÇAMENTO DE OFÍCIO - ex officio|De Ofício]]**, **[[7. Crédito tributário#LANÇAMENTO POR DECLARAÇÃO - misto|Por Declaração]]** e **[[7. Crédito tributário#LANÇAMENTO POR HOMOLOGAÇÃO|Por Homologação]]**.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   LanamentoTributrio("Lançamento Tributário")

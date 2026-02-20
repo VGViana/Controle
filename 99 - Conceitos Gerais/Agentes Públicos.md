@@ -6,7 +6,7 @@
 	- **Teto Salarial**: Subsídio dos Ministros do STF.
 - **Responsabilidade**: Respondem civil, penal e administrativamente (**[[Abuso de Poder]]**).
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   AgentesPblicos("Agentes Públicos")

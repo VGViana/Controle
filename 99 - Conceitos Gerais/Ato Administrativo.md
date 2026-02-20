@@ -17,7 +17,7 @@
 ---
 - **Controle**: Pode ser anulado pela própria Administração (Autotutela) ou pelo Judiciário (Inafastabilidade de Jurisdição).
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   AtoAdministrativo("Ato Administrativo")

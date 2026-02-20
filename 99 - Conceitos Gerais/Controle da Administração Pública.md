@@ -4,7 +4,7 @@
 - **Controle Judicial**: Focado na legalidade. Utiliza os **[[Remédios Constitucionais]]** (Ex: **[[fisco/D CONST/4. DDIC 2#1.2 Direito à informação|Mandado de Segurança]]**).
 - **Autotutela**: **[[6. Atos Administrativos|Súmula 473 STF]]** - Administração anula atos ilegais e revoga atos inoportunos.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   ControledaAdministraoPblica("Controle da Administração Pública")

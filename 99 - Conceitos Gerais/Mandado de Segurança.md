@@ -4,7 +4,7 @@
 - **Pressuposto**: Ilegalidade ou **[[Abuso de Poder]]** praticado por autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
 - **Prazo decadencial**: 120 dias.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   MandadodeSegurana("Mandado de Segurança")

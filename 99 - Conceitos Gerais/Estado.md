@@ -3,7 +3,7 @@
 - **Forma de Estado**: [[0. Conceito, Poder Constituinte e Princípios Fundamentais#Panorama Brasileiro Atual:|Federação]] (entes possuem autonomia FAP).
 - **Atuação**: Manifesta sua vontade por meio de **[[Ato Administrativo]]** e é limitado pelos **[[Direitos Fundamentais]]**.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   Estado("Estado")

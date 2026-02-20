@@ -14,7 +14,7 @@ Para a aplicação destes princípios no âmbito tributário (como a legalidade 
 - **Supremacia do Interesse Público**: (ver **[[Poder de polícia]]**)
 - **Razoabilidade**: (ver **[[fisco/D CONST/1. Aplicação das Normas Constitucionais e Interpretação Constitucional#4. Princípios da Interpretação Constitucional|Interpretação Constitucional]]**)
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   PrincpiosdaAdministraoPblica("Princípios da Administração Pública")

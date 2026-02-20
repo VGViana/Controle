@@ -3,7 +3,7 @@
 - **Efeito**: As reclamações e recursos no PAT são causas de **[[8. Suspensão da Exigibilidade do Crédito Tributário|Suspensão da Exigibilidade]]** (Art. 151, III, CTN).
 - **Controle**: Manifestação da **Autotutela** da Administração, permitindo a revisão de atos ilegais.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   ProcessoAdministrativoTributrioPAT("Processo Administrativo Tributário (PAT)")

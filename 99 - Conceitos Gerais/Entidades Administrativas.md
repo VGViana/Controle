@@ -5,7 +5,7 @@
 - **[[4. Entidades Paraestatais e o 3° Setor]]**: Entidades paraestatais (OS, OSCIP, Serviços Sociais Autônomos).
 - **Vínculo**: Não há hierarquia com a Administração Direta, apenas controle finalístico (supervisão ministerial).
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   EntidadesAdministrativas("Entidades Administrativas")

@@ -4,7 +4,7 @@
 - **Poder de Polícia**: O Auditor Fiscal, ao realizar a auditoria direta no contribuinte, exerce o **[[fisco/Conceitos/Poder de polícia|Poder de Polícia]]** administrativo.
 - **Integração**: Para a relação entre Auditoria e Lançamento, veja: **[[Conexões de Direito Público]]**.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   AuditoriaGovernamental("Auditoria Governamental")

@@ -6,7 +6,7 @@
 - **Taxas**: O exercício do Poder de Polícia é fato gerador de **[[1. Princípios|Taxas]]** (Art. 145, II, CF). Veja integração em: **[[Conexões de Direito Público]]**.
 - **Vínculo**: Relaciona-se com a **[[2. TGDF#▶️ Eficácia horizontal x Eficácia vertical|Eficácia Vertical]]** dos direitos fundamentais.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   Poderdepolcia("Poder de polícia")

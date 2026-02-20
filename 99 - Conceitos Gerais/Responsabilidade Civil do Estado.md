@@ -5,7 +5,7 @@
 - **Ação de Regresso**: O Estado processa o **[[Agentes Públicos|Agente]]** em caso de dolo ou culpa.
 - **Integração**: Veja a relação com danos fiscais em: **[[Conexões de Direito Público]]**.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   ResponsabilidadeCivildoEstado("Responsabilidade Civil do Estado")

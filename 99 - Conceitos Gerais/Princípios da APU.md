@@ -18,7 +18,7 @@ Bizu: **<span style="color:#ff0000">LIMPE</span>**
 
 Para a integração com Direito Tributário, consulte: **[[Conexões de Direito Público]]**.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   PrincpiosdaAPU("Princípios da APU")

@@ -40,7 +40,7 @@ A auditoria fiscal cruza o LALUR com a **DRE**.
 - **Teste de Adição:** Verificar se todas as despesas indedutíveis (ex: alimentação de sócios) foram adicionadas.
 - **Teste de Exclusão:** Verificar se a compensação de prejuízos respeitou a trava de 30%.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph TD
     DRE[DRE Contábil] --> LALUR[LALUR / ECF]

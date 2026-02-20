@@ -19,7 +19,7 @@ A distinção é essencial para provas fiscais:
 > A delegação da **Capacidade Tributária Ativa** é um exemplo de **Descentralização Administrativa**, onde a PJ política delega a execução a uma PJ administrativa (ex: autarquia).
 
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   PoderTributrio("Poder Tributário")

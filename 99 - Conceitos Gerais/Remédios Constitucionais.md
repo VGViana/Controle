@@ -6,7 +6,7 @@
 	- **[[Ação Popular]]**: Patrimônio público e moralidade.
 	- **[[Ação Civil Pública]]**: Interesses difusos e coletivos.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   RemdiosConstitucionais("Remédios Constitucionais")

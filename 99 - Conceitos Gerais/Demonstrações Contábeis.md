@@ -3,7 +3,7 @@
 - **Objetivo**: Transparência e prestação de contas (Reflexo do **[[Princípios da Administração Pública|Princípio da Publicidade]]**).
 - **Uso Fiscal**: São os documentos principais analisados no **[[Lançamento Tributário]]** por homologação.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   DemonstraesContbeis("Demonstrações Contábeis")

@@ -5,7 +5,7 @@
 	- **2ª Geração**: Liberdades positivas (Direitos Sociais, Econômicos e Culturais). Ex: **[[5. Direitos Sociais|Art. 6º]]**.
 - **Eficácia**: Aplicam-se na vertical (**[[Estado]]** x Particular) e na horizontal (Particular x Particular).
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   DireitosFundamentais("Direitos Fundamentais")

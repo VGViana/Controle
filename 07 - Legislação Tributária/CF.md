@@ -7013,7 +7013,7 @@ Ver: [[01 - Direito Tributário/1. Princípios|Princípios Tributários]], [[CTN
 
 * Brasília, 5 de outubro de 1988.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   CF("CF")

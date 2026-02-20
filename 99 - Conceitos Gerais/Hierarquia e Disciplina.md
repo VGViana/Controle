@@ -3,7 +3,7 @@
 - **Poder Disciplinar**: Faculdade de punir internamente infrações dos **[[Agentes Públicos]]** ou particulares com vínculo específico.
 - **Limitação**: O Judiciário não pode rever o mérito (conveniência), apenas a legalidade e a **[[Princípios da Administração Pública|Proporcionalidade]]** da pena.
 
-## 🕸️ Grafo Local
+## Grafo Local
 ```mermaid
 graph LR
   HierarquiaeDisciplina("Hierarquia e Disciplina")
