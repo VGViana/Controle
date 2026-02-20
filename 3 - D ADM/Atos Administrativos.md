@@ -174,9 +174,9 @@
 ## **5.3 Forma**:
 
 - Sentido **<span style="color:#d3869b">estrito</span>**:
-    - modo de **<span style="color:#d3869b">exteriorização*</span>* do ato.
+    - modo de **<span style="color:#d3869b">exteriorização</span>** do ato.
 - Sentido **<span style="color:#d3869b">amplo</span>**:
-    - **<span style="color:#d3869b">formalidades*</span>* do processo de formação da vontade;
+    - **<span style="color:#d3869b">formalidades</span>** do processo de formação da vontade;
     - princípio do **<span style="color:#83a598">devido processo legal.**</span>
 - Elemento **<span style="color:#83a598">vinculado;</span>**
 - **Princípio da Solenidade:**
