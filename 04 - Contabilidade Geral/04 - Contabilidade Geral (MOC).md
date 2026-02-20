@@ -1,30 +1,31 @@
-# MOC - Contabilidade Geral e Avançada
+# MOC - Contabilidade Geral e Avancada
 
-[Home](../README.md) | [Painel](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)
+[Home](../README.md) | [Painel](../00 - Painel Geral Fiscal/Fiscal.md)
 
-Este MOC organiza os temas estruturantes da Contabilidade, focando na legislação societária e normas internacionais (IFRS/CPC).
+Navegacao tecnica das Normas Internacionais (IFRS/CPC).
 
-## 1. Teoria e Normatização
-- [15. Princípios Contábeis](./15.%20Princípios%20Contábeis.md): Regime de Competência vs. Caixa e Bases de Mensuração.
-- [14. CPC 00 - Estrutura Conceitual para Relatório Financeiro](./14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md): Definições de Ativo, Passivo, Patrimônio Líquido, Receitas e Despesas.
-- [16. Lei 6404](./16.%20Lei%206404.md): A Lei das Sociedades por Ações (LSA.md).
+## 1. Teoria e Normatizacao
+- [Principios Contabeis](./15. Princípios Contábeis.md): Regime de Competencia vs. Caixa e Bases de Mensuracao.
+- [CPC 00 - Estrutura Conceitual](./14. CPC 00 - Estrutura Conceitual para Relatório Financeiro.md): Definicoes de Ativo, Passivo, PL, Receitas e Despesas.
+- [Lei 6404](./16. Lei 6404.md): A Lei das Sociedades por Acoes (LSA).
 
-## 2. Demonstrações Contábeis (DCs)
-- [5. Balanço Patrimonial](./5.%20Balanço%20Patrimonial.md): Estrutura e grupos de contas.
-- [6.Demonstração do Resultado do Exercício](./6.Demonstração%20do%20Resultado%20do%20Exercício.md): Apuração do lucro/prejuízo.
-- [8. Demonstração de lucros ou prejuízos acumulados (DLPA.md)](./8.%20Demonstração%20de%20lucros%20ou%20prejuízos%20acumulados%20(DLPA.md).md): Destinação do resultado.
-- [9. Demonstração das Mutações do Patrimônio Líquido (DMPL.md)](./9.%20Demonstração%20das%20Mutações%20do%20Patrimônio%20Líquido%20(DMPL.md).md): Evolução do PL.
+## 2. Demonstracoes Contabeis (DCs)
+- [Balanco Patrimonial](./5. Balanço Patrimonial.md): Estrutura e grupos de contas.
+- [Demonstracao do Resultado do Exercito](./6.Demonstração do Resultado do Exercício.md): Apuracao do lucro/prejuizo.
+- [Demonstracao de lucros ou prejuizos acumulados (DLPA)](./8. Demonstração de lucros ou prejuízos acumulados (DLPA).md): Destinacao do resultado.
+- [Demonstracao das Mutacoes do Patrimonio Liquido (DMPL)](./9. Demonstração das Mutações do Patrimônio Líquido (DMPL).md): Evolucao do PL.
 
-## 3. Patrimônio Líquido e Reservas
-- [7. Reservas e Dividendos](./7.%20Reservas%20e%20Dividendos.md): Reservas de Lucros, Capital e distribuição de dividendos.
+## 3. Patrimonio Liquido e Reservas
+- [Reservas e Dividendos](./7. Reservas e Dividendos.md): Reservas de Lucros, Capital e distribuicao de dividendos.
 
-## 4. Pontes Interdisciplinares
-- [06 - Auditoria](../06%20-%20Auditoria/06%20-%20Auditoria%20(MOC).md: Auditoria das Demonstrações Financeiras.
-- [01 - Direito Tributário](../01%20-%20Direito%20Tributário/01%20-%20Direito%20Tributário%20(MOC).md: Contabilidade Tributária e ajustes fiscais (LALUR.md).
-- [Regime de Competência](../99%20-%20Conceitos%20Gerais/Regime%20de%20Competência.md): Base para o lançamento por homologação.
-
----
-Estratégia: Domine o CPC 00 e a Lei 6404/76, pois são a base de 80% das questões fiscais de contabilidade.
+## 4. Conexoes Interdisciplinares
+- [Auditoria](../06 - Auditoria/06 - Auditoria (MOC).md): Auditoria das DCs.
+- [Direito Tributario](../01 - Direito Tributário/01 - Direito Tributário (MOC).md): Ajustes fiscais (LALUR).
+- [Regime de Competencia](../99 - Conceitos Gerais/Regime de Competência.md): Base para lancamento por homologacao.
 
 ---
-[Painel](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md) | [Mapa](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)
+> [!info] Foco
+> Priorizar CPC 00 e Lei 6404/76 (Base de 80% das questoes fiscais).
+
+---
+[Painel](../00 - Painel Geral Fiscal/Fiscal.md) | [Mapa](../00 - Painel Geral Fiscal/Mapa Sistêmico Fiscal.md)

@@ -1,32 +1,33 @@
-# MOC - Tecnologia da Informação
+# MOC - Tecnologia da Informacao
 
-[Home](../README.md) | [Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)
+[Home](../README.md) | [Painel](../00 - Painel Geral Fiscal/Fiscal.md)
 
-Este MOC organiza os temas de TI aplicados ao Fisco.
+Sumario estruturado de TI aplicada a Auditoria Fiscal.
 
-## 1. Teoria e Gestão da Informação
-- [Piramide DIKW, Metadados, Ciclo de vida, Dados abertos](./0.%20Piramide%20DIKW,%20Metadados,%20Ciclo%20de%20vida,%20Dados%20abertos.md)
-- Pirâmide DIKW.
-- Metadados e Ciclo de Vida.
-- Dados Abertos e Transparência.
+## 1. Teoria e Gestao da Informacao
+- [Piramide DIKW, Metadados, Ciclo de vida, Dados abertos](./0. Piramide DIKW, Metadados, Ciclo de vida, Dados abertos.md)
+    - Piramide DIKW (Dado, Informacao, Conhecimento, Sabedoria).
+    - Metadados e Ciclo de Vida dos Dados.
+    - Dados Abertos e Transparencia Publica.
 
 ## 2. Bancos de Dados e Linguagem
-- [Conceitos básicos de BD](./1.%20Conceitos%20básicos%20de%20BD.md): Modelo Relacional, Entidade-Relacionamento e ANSI/SPARC.
-- [SQL](./5.%20SQL.md): Linguagem de consulta estruturada.
+- [Conceitos basicos de BD](./1. Conceitos básicos de BD.md): Modelo Relacional, Entidade-Relacionamento e ANSI/SPARC.
+- [SQL](./5. SQL.md): Linguagem de consulta estruturada.
 
-## 3. Inteligência de Negócio (BI)
-- [BI e DW](./6.%20BI%20e%20DW.md)
-- Data Warehouse (DW) e ETL.
-- Modelagem Dimensional.
-- OLAP vs. OLTP.
+## 3. Inteligencia de Negocio (BI)
+- [BI e DW](./6. BI e DW.md)
+    - Data Warehouse (DW) e ETL.
+    - Modelagem Dimensional (Kimball vs. Inmon).
+    - OLAP vs. OLTP.
 
-## 4. Pontes Interdisciplinares
-- [06 - Auditoria](../06%20-%20Auditoria/06%20-%20Auditoria%20(MOC).md: Auditoria em sistemas e cruzamento de dados.
-- [03 - Direito Administrativo](../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC).md: LAI e Transparência.
-
----
-> [!info] Foco Fiscal
-> Dominar SQL e Modelagem Dimensional para combate à evasão.
+## 4. Conexoes Interdisciplinares
+- [Auditoria](../06 - Auditoria/06 - Auditoria (MOC).md): Auditoria em sistemas e cruzamento de dados.
+- [Direito Administrativo](../03 - Direito Administrativo/03 - Direito Administrativo (MOC).md): LAI e Transparencia.
+- [Auditoria Governamental](../99 - Conceitos Gerais/Auditoria Governamental.md): Big Data na fiscalizacao tributaria.
 
 ---
-[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md) | [Mapa Sistêmico](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)
+> [!info] Foco
+> Priorizar SQL e Modelagem Dimensional para Auditoria 4.0.
+
+---
+[Painel](../00 - Painel Geral Fiscal/Fiscal.md) | [Mapa](../00 - Painel Geral Fiscal/Mapa Sistêmico Fiscal.md)
