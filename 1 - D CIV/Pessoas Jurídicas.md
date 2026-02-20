@@ -80,16 +80,16 @@
 
 - Vale lembrar que a <span style="color:#fb4934"><u>**EIRELI NÃO é mais considerada pessoa jurídica**,</u></span> a partir da entrada em vigor da Lei 14.195/2021. 
 
-**>> Principal diferença entre as pessoas jurídicas de direito privado e direito público:** <span style="color:#fe8019">**disponibilidade patrimonial.**</span> **Os bens das pessoas jurídicas de direito privado são disponíveis e sujeitas a penhora e usucapião.**
+**>> Principal diferença entre as pessoas jurídicas de direito privado e direito público:** <span style="color:#fe8019">**disponibilidade patrimonial.**</span> <span style="color:#fb4934">**Os bens das pessoas jurídicas de direito privado <u>são disponíveis e sujeitas a penhora e usucapião</u>.**</span>
 
-Os bens das pessoas jurídica de **direito público são impenhoráveis e imprescritíveis** (impossibilidade de usucapião), **embora os dominicais possam ser alienados, quando presentes os requisitos legais.**
+Os bens das pessoas jurídica de **direito público são impenhoráveis e imprescritíveis** (impossibilidade de usucapião), <span style="color:#fe8019">**embora os dominicais possam ser alienados, quando presentes os requisitos legais.**</span>
 
-**6. INÍCIO da PJ:**
+# **<span style="color:#83a598">6. INÍCIO da PJ:</span>**
 
 **I - Ato Constitutivo:** ato jurídico unilateral inter vivos ou causa mortis (fundações) ou ato jurídico bilateral ou plurilateral (associações e sociedades). 
 
 - **Fundações** => escritura pública ou testamento.
-- **Associações** => Estatuto.
+- <mark style="background:#fff88f">**Associações** => Estatuto.</mark>
 - **Sociedade** (simples ou empresárias) => Contrato Social ou Estatuto Social. 
 
 **II - Registro Público:** inscrição dos contratos, estatutos ou compromissos no seu registro peculiar:
@@ -98,31 +98,31 @@ Os bens das pessoas jurídica de **direito público são impenhoráveis e impres
 - **Demais pessoas jurídicas de direito privado** => Registro civil das pessoas jurídicas;
 - **Sociedade simples de advogados** => Registro na Ordem dos Advogados do Brasil.
 
-**=> MUITO COBRADO:** A **existência da pessoa jurídica de direito privado inicia-se com a inscrição do ato constitutivo no respectivo registro** (art. 45, CC). Requisitos: art. 46, CC.
+<mark style="background:#ff4d4f">**=> MUITO COBRADO:**</mark> A **<mark style="background:#9254de">existência da pessoa jurídica de direito privado inicia-se com a inscrição do ato constitutivo no respectivo registro</mark>** (art. 45, CC). Requisitos: art. 46, CC.
 
 >> **_Algumas pessoas jurídicas necessitam de autorização do executivo._**
 
-**7. EXTINÇÃO DA PJ:**
+# **<span style="color:#83a598">7. EXTINÇÃO DA PJ:</span>**
 
 - **Convencional:** dissolução deliberada de seus membros, conforme quorum previsto nos estatutos ou na lei; 
 - **Legal:** hipóteses em que a lei determina;
 - **Administrativa:** dependem de autorização do governo e praticam atos nocivos ou contrários aos seus fins;
 - **Natural:** morte de seus membros e não ficou estabelecido se prosseguirá com seus herdeiros; decurso de prazo (quando for constituída por prazo);
-- **Dissolução judicial.** Após a dissolução a personalidade da pessoa jurídica ainda pode subsistir para fins de liquidação (pagamento de dívidas e partilha do remanescente entre os sócios). Após o encerramento da liquidação => cancelamento da inscrição da pessoa jurídica no respectivo registro (art. 51, CC). 
+- **Dissolução judicial.** Após a dissolução <mark style="background:#9254de">a personalidade da pessoa jurídica ainda pode subsistir para fins de liquidação (pagamento de dívidas e partilha do remanescente entre os sócios)</mark>. Após o encerramento da liquidação => cancelamento da inscrição da pessoa jurídica no respectivo registro (art. 51, CC). 
 
-**⏳Prazo decadencial:** 03 anos - para requerer anulação do ato constitutivo da PJ em virtude de defeito
+**⏳<span style="color:#fb4934">Prazo decadencial</span>:** <span style="color:#83a598"><u>03 anos</u></span> - para requerer anulação do ato constitutivo da PJ em virtude de defeito
 
-**8.** **ASSOCIAÇÕES:**
+# **<span style="color:#83a598">8.ASSOCIAÇÕES</span>:**
 
 - É a união de pessoas, **sem finalidade lucrativa** (seu objetivo pode ser moral, cultural, esportivo, beneficente, etc.).
 - Liberdade de associação para fins lícitos (art. 5°, XVII, CF/88).
 - Entre os associados não há direitos e obrigações recíprocas. Registro do Estatuto. Incluem-se os sindicatos.
 - Igualdade de direitos entre os associados → categorias de associados com vantagens especiais podem ser instituídas pelo estatuto.
 - Qualidade de associado → **é INSTRANSMISSÍVEL, se o estatuto não disser o contrário**
-- **Exclusão de associado -** justa causa + procedimento que assegure o direito de defesa e de recurso.
-- **Enunciado 534 da VI Jornada de Direito Civil da CJF**: “As Associações podem desenvolver atividade econômica, desde que não haja finalidade lucrativa”.
+- <span style="color:#b8bb26">**Exclusão de associado</span> -** justa causa + procedimento que assegure o direito de defesa e de recurso.
+- <span style="color:#fe8019">**Enunciado 534 da VI Jornada de Direito Civil da CJF**</span>: “As Associações podem desenvolver atividade econômica, desde que não haja finalidade lucrativa”.
 
-**9.** **FUNDAÇÕES:**
+# **<span style="color:#83a598">9.FUNDAÇÕES</span>:**
 
 - Dotação especial de bens livres, destinada a um determinado fim (finalidade específica, conforme previsto no artigo 62, parágrafo único, CC)
 - **Instituição -** por escritura pública ou testamento
@@ -130,7 +130,7 @@ Os bens das pessoas jurídica de **direito público são impenhoráveis e impres
     - patrimônio (dotação de bens livres que passam a ser inalienáveis);
     - finalidade: especificação dos objetivos (em regra imutáveis e sem finalidade lucrativa, previstos no parágrafo único, do art. 62, CC).
 - Insuficiência de bens para sua constituição - salvo disposição em contrário do instituidor, os bens serão incorporados a outra fundação que tenha finalidade igual ou semelhante.
-- **Finalidade (**rol taxativo**):**
+- <span style="color:#fe8019">**Finalidade (**rol taxativo**):**</span>
     - assistência social
     - cultura, defesa e conservação do patrimônio histórico e artístico
     - educação
@@ -141,28 +141,28 @@ Os bens das pessoas jurídica de **direito público são impenhoráveis e impres
     - promoção da ética, da cidadania, da democracia e dos direitos humanos
     - atividades religiosas
 
-**9.1 Atuação do  Ministério Público Estadual**
+## **<font color="#953734">9.1 Atuação do  Ministério Público <u>Estadual</u></font>**
 
 - Elaboração do Estatuto - caso não tenha sido elaborado no prazo estipulado pelo instituidor ou, não havendo prazo, em **180 dias**
 - **Fiscalização**
     - **Art. 66** – Velará pelas fundações o Ministério Público do Estado onde situadas.
     - §2º - Se estenderem a atividade por mais de um estado, caberá o encargo, em cada um desses, ao respectivo Ministério Público.
 
-**9.2. Alteração do Estatuto da Fundação**
+## **<font color="#953734">9.2. Alteração do Estatuto da Fundação</font>**
 
 **Art. 67.** Para que se possa alterar o estatuto da fundação é mister:
 
-I- Seja deliberada por **dois terços** dos competentes.
+I- Seja deliberada por<mark style="background:#d4b106"> **dois terços**</mark> dos competentes.
 
-II- Não contrarie ou desvirtue o fim da fundação (a finalidade da fundação é inalterável)
+II- Não contrarie ou desvirtue o fim da fundação (a finalidade da fundação é <mark style="background:#ff4d4f">inalterável</mark>)
 
-III- Seja aprovada pelo Ministério Público no **prazo de 45 dias**. O Juiz, a requerimento do interessado, poderá suprir a omissão ou denegação do Ministério Público
+III- Seja aprovada pelo Ministério Público no <mark style="background:#d4b106">**prazo de 45 dias**</mark>. <span style="color:#fb4934">O Juiz</span>, a requerimento do interessado, <span style="color:#fb4934">poderá suprir</span> a omissão ou denegação do Ministério Público
 
-**10. De 👀 na Jurisprudência!**
+# **<span style="color:#d3869b">10. De 👀 na Jurisprudência!</span>**
 
-- **Súmula 227 do STJ:** “A pessoa jurídica **pode sofrer dano moral**” _(restrita às hipóteses de ferimento à sua honra objetiva, isto é, o conceito que goza no meio social: patrimônio, reputação, bom nome, etc.)._
-- **STJ ->** a pessoa jurídica de direito público **não tem direito à indenização por danos morais relacionados à violação da honra ou da imagem.** 
-    - O **informativo nº 125 do Jurisprudência em Teses do STJ** vai nessa direção ao dizer que _**"a pessoa jurídica de direito público não é titular de direito à indenização por dano moral relacionado à ofensa de sua honra ou imagem, porquanto, tratando-se de direito fundamental, seu titular imediato é o particular e o reconhecimento desse direito ao Estado acarreta a subversão da ordem natural dos direitos fundamentais".**_
-    - **⚠️MAS ATENÇÃO!** Os julgados mais relevantes que deram origem a tal interpretação foram o REsp nº 1.258.389/PB, relatado pelo ministro Luis Felipe Salomão, e o REsp nº 1.505.923/PR, relatado pelo ministro Herman Benjamin;
-    - Ocorre que, atualmente, o assunto **NÃO SE ENCONTRA PACIFICADO**, eis que, ao analisar o REsp nº 1.722.423/RJ, conhecido como "Caso Jorgina de Freitas", a segunda turma do STJ, por unanimidade, e seguindo o voto do relator, ministro Herman Benjamin, **decidiu que é cabível indenização por danos morais em face de pessoa jurídica de direito público quando o que está em discussão é a própria credibilidade da instituição;** 
-    - Ressalta-se, contudo, que o STJ não decidiu qual o valor de indenização por danos morais que seria cabível no caso concreto, remetendo os autos novamente ao TRF2 para respectiva decisão, sendo assim, nada obstante tal decisão proferida a um caso concreto, ainda é cedo para afirmar que o posicionamento do STJ tenha mudado acerca do tema envolvendo dano moral e pessoa jurídica de direito público.
+- <span style="color:#d3869b">**Súmula 227 do STJ:** “A pessoa jurídica **pode sofrer dano moral**” _(restrita às hipóteses de ferimento à sua honra objetiva, isto é, o conceito que goza no meio social: patrimônio, reputação, bom nome, etc.)._</span>
+- <span style="color:#d3869b">**STJ ->** a pessoa jurídica de direito público **<u>não tem direito à indenização por danos morais relacionados à violação da honra ou da imagem</u>.**</span> 
+    - <span style="color:#fb4934">O **<u>informativo nº 125 do Jurisprudência em Teses do STJ</u>** vai nessa direção ao dizer que _**"a pessoa jurídica de direito público não é titular de direito à indenização por dano moral relacionado à ofensa de sua honra ou imagem, porquanto, tratando-se de direito fundamental, seu titular imediato é o particular e o reconhecimento desse direito ao Estado acarreta a subversão da ordem natural dos direitos fundamentais".**_</span>
+    - **⚠️<mark style="background:#d4b106">MAS ATENÇÃO!**</mark> Os julgados mais relevantes que deram origem a tal interpretação foram o REsp nº 1.258.389/PB, relatado pelo ministro Luis Felipe Salomão, e o REsp nº 1.505.923/PR, relatado pelo ministro Herman Benjamin;
+    - Ocorre que, atualmente, o assunto <u>**NÃO SE ENCONTRA PACIFICADO**</u>, eis que, ao analisar o REsp nº 1.722.423/RJ, conhecido como "Caso Jorgina de Freitas", a segunda turma do STJ, por unanimidade, e seguindo o voto do relator, ministro Herman Benjamin, <u>**decidiu que é cabível indenização por danos morais em face de pessoa jurídica de direito público quando o que está em discussão é a própria credibilidade da instituição</u>;** 
+    - Ressalta-se, contudo, que o STJ não decidiu qual o valor de indenização por danos morais que seria cabível no caso concreto, remetendo os autos novamente ao TRF2 para respectiva decisão, sendo assim, <u>nada obstante tal decisão proferida a um caso concreto</u>, ainda é cedo para afirmar que o posicionamento do STJ tenha mudado acerca do tema envolvendo dano moral e pessoa jurídica de direito público.

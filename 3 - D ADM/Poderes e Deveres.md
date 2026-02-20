@@ -168,3 +168,47 @@
 - **<span style="color:#fb4934">Repressivo</span>**: consequência de uma infração (ex.: multa);  
     
 - **<font color="#1f497d">Fiscalização</font>**: verificar o cumprimento das normas.
+
+## **6.3 Ciclo ou fases de polícia:**
+
+- **<span style="color:#fb4934">legislação</span>** ou <span style="color:#fb4934">**ordem**</span> de polícia;
+- <span style="color:#fb4934">**consentimento**</span> de polícia;
+- <span style="color:#fb4934">**fiscalização**</span> de polícia;
+- <span style="color:#fb4934">**sanção**</span> de polícia.
+
+## <mark style="background:#d4b106">**6.4 Poder de polícia: Jurisprudências**</mark>
+
+⚠️ <span style="color:#fb4934">**ATENÇÃO</span>!** "Nova" posição jurisprudencial:
+
+- O **STF**, por meio do Tema 532, decidiu: "<span style="color:#83a598">É **CONSTITUCIONAL** a **DELEGAÇÃO DO PODER DE POLÍCIA**, por meio de **LEI,** a pessoas jurídicas de **DIREITO PRIVADO** INTEGRANTES da Administração Pública **<u>INDIRETA</u>** de capital social MAJORITARIAMENTE **<mark style="background:#d4b106">PÚBLICO</mark>** que prestem **EXCLUSIVAMENTE SERVIÇO PÚBLICO** de atuação própria do Estado e em regime</span> <span style="color:#fb4934">**NÃO CONCORRENCIAL**</span>".  
+
+      
+- O voto DELIMITA: a delegação APENAS pode ocorrer para atividades de <mark style="background:#d4b106">**CONSENTIMENTO, FISCALIZAÇÃO e SANÇÃO**</mark>. **NÃO** pode haver de qualquer forma a delegação de atividade de **ORDEM**.Empresas estatais que praticam atividades **<mark style="background:#d4b106">ECONÔMICAS</mark>** <span style="color:#fb4934">**NÃO**</span> podem ter o <mark style="background:#d4b106">poder de polícia</mark> delegado a elas.
+- 📓**JÁ CAIU!** Conceito de poder de polícia no CTN: "_Art. 78. Considera-se **poder de polícia** atividade da administração pública que, <u>limitando ou disciplinando direito, interêsse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de intêresse público</u> concernente à segurança, à higiene, à ordem, aos costumes, à disciplina da produção e do mercado, ao exercício de atividades econômicas dependentes de concessão ou autorização do Poder Público, à tranqüilidade pública ou ao respeito à propriedade e aos direitos individuais ou coletivos.  Parágrafo único. Considera-se regular o exercício do poder de polícia quando desempenhado pelo órgão competente nos limites da lei aplicável, com observância do processo legal e, tratando-se de atividade que a lei tenha como discricionária, sem abuso ou desvio de poder."_
+- É <u>ADMITIDA</u> a **DELEGAÇÃO** do exercício de **PODER de** **POLÍCIA** de TRÂNSITO às **GUARDAS MUNICIPAIS**, **INCLUSIVE** no que se refere a atos decorrentes de <mark style="background:#d4b106">**consentimento e fiscalização</mark>.**
+- A DEMOLIÇÃO de CASA HABITADA determinada por força de ato de polícia administrativa DEPENDE de prévia <u>**AUTORIZAÇÃO JUDICIAL</u>.**
+- <u>**Multas**</u> <span style="color:#fb4934">**NÃO**</span> são dotadas de **<mark style="background:#d4b106">AUTOEXECUTORIEDADE</mark>**.  
+    💭**TENHA EM MENTE!** Diferença entre P<u>olícia Judiciária e Polícia Administrativa</u>:
+    - - - **Polícia judiciária:** incide sobre **pessoas**, privativa de corporações especializadas, previne ou reprime **ilícitos <span style="color:#83a598">penais</span>;**
+            - **Polícia administrativa:** incide sobre **bens/direitos/atividades,** diversos órgãos da Administração e inclusive corporações especializadas, previne ou reprime **ilícitos <span style="color:#83a598">administrativos</span>.**
+
+É constitucional a delegação do poder de polícia, por meio de lei, **a pessoas jurídicas de direito privado integrantes da Administração Pública indireta de capital social majoritariamente público que prestem exclusivamente serviço público de atuação própria do Estado e em regime não concorrencial.**
+
+(STF. Plenário. RE 633782/MG, Rel. Min. Luiz Fux, julgado em 23/10/2020 - repercussão geral – tema 532).
+
+Além disso, **<mark style="background:#a3be8c">o STF recentemente decidiu que as guardas municipais podem exercer ações de segurança urbana</mark>, incluindo o policiamento ostensivo comunitário, desde que respeitadas as atribuições dos demais órgãos de segurança pública e excluídas atividades de polícia judiciária.**
+
+**Bora dar aquela bizurada para tatuar o assunto em sua mente?**
+
+- Pode delegar o **CONSENTIMENTO**, A **FISCALIZAÇÃO** e A **SANÇÃO** (ANTES A SANÇÃO NÃO ERA DELEGADA).  
+    - BIZU:  **CONFISCA o SANÇÃO (Quem lia "Turma da Mônica", pode associar a aquele dócil coelhinho😂)**
+    - **Desde que**  a entidade tenha **capital majoritariamente público**, que **preste exclusivamente serviço público de atuação própria do poder público e em regime não concorrencial**, a **SANÇÃO** pode ser **DELEGADA.**
+
+- **O Estado pode cobrar TAXAS em razão de exercer o Poder de Polícia (memorize isso).  
+    Atenção! Somente TAXAS. Não pode ser imposto, tarifa ou contribuição  
+      
+    **
+- **️Atributos do Poder de Polícia** (**CDA -** associe à Certidão de Dívida Ativa ou qualquer outra coisa de seu cotidiano).
+    - **Coercibilidade**
+    - **Discricionariedade**
+    - **Autoexecutoriedade**
