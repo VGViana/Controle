@@ -4,7 +4,7 @@
 	- **Concurso Público**: Regra para cargos e empregos.
 	- **Acumulação**: Vedada, salvo as exceções constitucionais (2 de professor, 1 prof + técnico, 2 de saúde).
 	- **Teto Salarial**: Subsídio dos Ministros do STF.
-- **Responsabilidade**: Respondem civil, penal e administrativamente (**[[Abuso de Poder]]**).
+- **Responsabilidade**: Respondem civil, penal e administrativamente (**[Abuso de Poder](Abuso de Poder.md)**.md).
 
 ## Grafo Local
 ```mermaid

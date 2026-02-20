@@ -1,11 +1,11 @@
 # **LALUR e Lucro Real: A Ponte Fiscal-Contábil**
 
-Esta é a nota-chave para entender a integração entre **[[04 - Contabilidade Geral (MOC)|Contabilidade]]** e **[[07 - Legislação Tributária (MOC)|Legislação Tributária]]**. FGV e Cebraspe adoram cobrar o ajuste, não apenas o cálculo.
+Esta é a nota-chave para entender a integração entre **[Contabilidade](04 - Contabilidade Geral (MOC.md).md)** e **[Legislação Tributária](07 - Legislação Tributária (MOC.md).md)**. FGV e Cebraspe adoram cobrar o ajuste, não apenas o cálculo.
 
 ---
 
 ## 1. O Conceito de LALUR/LACS
-O **LALUR** (Livro de Apuração do Lucro Real) e o **LACS** (Livro de Apuração da CSLL) são instrumentos de escrituração fiscal (hoje digitais via **[[SPED - Sistema Público de Escrituração Digital|ECF - Escrituração Contábil Fiscal]]**) onde se ajusta o resultado contábil para chegar à base de cálculo dos tributos.
+O **LALUR** (Livro de Apuração do Lucro Real.md) e o **LACS** (Livro de Apuração da CSLL.md) são instrumentos de escrituração fiscal (hoje digitais via **[ECF - Escrituração Contábil Fiscal](SPED - Sistema Público de Escrituração Digital.md)**.md) onde se ajusta o resultado contábil para chegar à base de cálculo dos tributos.
 
 $$ 	ext{Lucro Real} = 	ext{Lucro Líquido} + 	ext{Adições} - 	ext{Exclusões} $$
 
@@ -51,4 +51,4 @@ graph TD
     CPC32[CPC 32 - IR Diferido] -.-> LALUR
 ```
 
-Ver também: [[Demonstrações Contábeis]], [[Regime de Competência]], [[05 - Contabilidade Avançada (MOC)]]
+Ver também: [Demonstrações Contábeis](Demonstrações Contábeis.md), [Regime de Competência](Regime de Competência.md), [05 - Contabilidade Avançada (MOC.md)](05 - Contabilidade Avançada (MOC.md).md)

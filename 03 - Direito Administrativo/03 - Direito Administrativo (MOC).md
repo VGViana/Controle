@@ -1,20 +1,20 @@
 # MOC - Direito Administrativo
 
-[[../README.md|Home]] | [[../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md|Painel]]
+[Home](../README.md) | [Painel](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)
 
 Este MOC organiza os temas de Direito Administrativo, focando na organização e nos poderes do Estado aplicados à fiscalização tributária.
 
 ## 1. Organização Administrativa
-- [[./2.%20Org%20Adm%201.md|2. Org Adm 1]]: Conceitos e estruturação inicial.
-- [[./3.%20Org%20Adm%202.md|3. Org Adm 2]]: Aprofundamento da organização.
-- [[./4.%20Entidades%20Paraestatais%20e%20o%203°%20Setor.md|4. Entidades Paraestatais e o 3° Setor]]: Autarquias, Fundações, Empresas Públicas e Terceiro Setor.
+- [2. Org Adm 1](./2.%20Org%20Adm%201.md): Conceitos e estruturação inicial.
+- [3. Org Adm 2](./3.%20Org%20Adm%202.md): Aprofundamento da organização.
+- [4. Entidades Paraestatais e o 3° Setor](./4.%20Entidades%20Paraestatais%20e%20o%203°%20Setor.md): Autarquias, Fundações, Empresas Públicas e Terceiro Setor.
 
 ## 2. Atos e Poderes Administrativos
-- [[./5.%20Poderes%20e%20Deveres.md|5. Poderes e Deveres]]
+- [5. Poderes e Deveres](./5.%20Poderes%20e%20Deveres.md)
     - Poder de Polícia: Fundamento para as Taxas de Fiscalização.
     - Poder Regulamentar: Edição de decretos normativos.
     - Abuso de Poder: Excesso de poder vs. Desvio de finalidade.
-- [[./6.%20Atos%20Administrativos.md|6. Atos Administrativos]]: Elementos (Competência, Finalidade, Forma, Motivo, Objeto).
+- [6. Atos Administrativos](./6.%20Atos%20Administrativos.md): Elementos (Competência, Finalidade, Forma, Motivo, Objeto.md).
 
 ## 3. Conceitos Transversais
 - [Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md): Interface com Direito Constitucional e Tributário.
@@ -31,4 +31,4 @@ Este MOC organiza os temas de Direito Administrativo, focando na organização e
 
 
 ---
-[[../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md|Painel]] | [[../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md|Mapa]]
+[Painel](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md) | [Mapa](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)

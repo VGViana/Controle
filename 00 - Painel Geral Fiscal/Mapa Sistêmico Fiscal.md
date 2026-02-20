@@ -4,16 +4,16 @@ tags: [mapa, sistêmico, conexões]
 
 # Mapa Sistêmico Fiscal
 
-[[../README.md|Home]] | [[./Fiscal.md|Painel Geral]]
+[Home](../README.md) | [Painel Geral](./Fiscal.md)
 
 Este mapa conecta os pontos vitais entre as disciplinas.
 
 ## Conexões Interdisciplinares
 
 ### Tríade do Direito Público
-- **Constitucional / Tributário**: O STN na CF/88. Os **[[../01 - Direito Tributário/1. Princípios.md|Princípios Tributários]]** como garantias fundamentais.
+- **Constitucional / Tributário**: O STN na CF/88. Os **[Princípios Tributários](../01 - Direito Tributário/1. Princípios.md)** como garantias fundamentais.
 - **Constitucional / Administrativo**: Princípios do art. 37 (LIMPE) e organização do Estado.
-- **Administrativo / Tributário**: O lançamento tributário como **[[../03 - Direito Administrativo/6. Atos Administrativos.md|Ato Administrativo]]** vinculado.
+- **Administrativo / Tributário**: O lançamento tributário como **[Ato Administrativo](../03 - Direito Administrativo/6. Atos Administrativos.md)** vinculado.
 
 ### Ciclo Contábil-Fiscal
 - **Contabilidade / Auditoria**: Conformidade das demonstrações (BP, DRE) com as normas (CPCs).
@@ -39,4 +39,4 @@ Este mapa conecta os pontos vitais entre as disciplinas.
 - **Auditoria**: Procedimentos e Matriz de risco.
 
 ---
-[[./Fiscal.md|Painel Geral]] | [[../README.md|Home]]
+[Home](./Fiscal.md|Painel Geral]] | [[../README.md)

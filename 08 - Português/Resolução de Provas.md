@@ -46,7 +46,7 @@ Vamos a um breve resumo sobre as locuções adjetivas: 
 |_**Da água**_ — aquático(a).<br><br>_**Da Idade Média**_ — medieval.<br><br>_**Da minoria**_ — minoritário(a).<br><br>_**De abdômen**_ — abdominal.<br><br>_**De águia**_ — aquilino(a).<br><br>_**De alma**_ — anímico(a).<br><br>_**De aluno(a)**_ — discente.<br><br>_**De bispo**_ — episcopal.<br><br>_**De boca**_ — oral, bucal.|_**De boi**_ — bovino(a).<br><br>_**De cabeça**_ — capital.<br><br>_**De cabelo**_ — capilar.<br><br>_**De cão**_ — canino(a).<br><br>_**De chuva**_ — pluvial.<br><br>_**De cidade**_ — citadino(a), urbano(a).<br><br>_**De cobra**_ — viperino(a).<br><br>_**De coração**_ — cardíaco(a), cordial.<br><br>_**De crânio**_ — craniano(a).|
 
 
-Não deixe de revisitar o tema _**semântica**_, principalmente quanto aos aspectos ligados **à sinonímia, à antonímia, à denotação e à conotação**. _**⚡**_ _**[#3257111](https://www.tecconcursos.com.br/questoes/3257111)**_.
+Não deixe de revisitar o tema _**semântica**_, principalmente quanto aos aspectos ligados **à sinonímia, à antonímia, à denotação e à conotação**. _**⚡**_ _**[#3257111](https://www.tecconcursos.com.br/questoes/3257111.md)**_.
 
 A questão mencionada trata do uso da _**linguagem denotativa e conotativa**_. Sobre o assunto, vejamos:
 

@@ -1,12 +1,12 @@
 # MOC - Português
 
-[[../README.md|Home]] | [[../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md|Painel]]
+[Home](../README.md) | [Painel](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)
 
 ## ✍️ Temas de Português
-- [[./Interpretação%20Textual.md|Interpretação Textual]]
-- [[./Coesão%20e%20Coerência.md|Coesão e Coerência]]
-- [[./Semântica,%20Tipos%20de%20Discurso%20e%20Tipologia.md|Semântica, Tipos de Discurso e Tipologia]]
-- [[./Resolução%20de%20Provas.md|Resolução de Provas]]
+- [Interpretação Textual](./Interpretação%20Textual.md)
+- [Coesão e Coerência](./Coesão%20e%20Coerência.md)
+- [Semântica, Tipos de Discurso e Tipologia](./Semântica,%20Tipos%20de%20Discurso%20e%20Tipologia.md)
+- [Resolução de Provas](./Resolução%20de%20Provas.md)
 
 ---
-[[../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md|Painel]] | [[../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md|Mapa]]
+[Painel](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md) | [Mapa](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)

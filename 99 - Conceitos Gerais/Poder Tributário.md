@@ -1,7 +1,7 @@
 ## **Poder Tributário**
-- **Conceito**: Faculdade do **[[Estado]]** de instituir, fiscalizar e arrecadar tributos.
-- **Limites**: O poder de tributar não é absoluto, encontrando limites nos **[[Direitos Fundamentais]]** e nos **[[1. Princípios|Princípios Constitucionais Tributários]]**.
-- **Poder de Polícia Tributário**: Manifesta-se na fiscalização (obrigação acessória). O exercício efetivo do **[[Poder de Polícia]]** fundamenta a cobrança de Taxas.
+- **Conceito**: Faculdade do **[Estado](Estado.md)** de instituir, fiscalizar e arrecadar tributos.
+- **Limites**: O poder de tributar não é absoluto, encontrando limites nos **[Direitos Fundamentais](Direitos Fundamentais.md)** e nos **[Princípios Constitucionais Tributários](1. Princípios.md)**.
+- **Poder de Polícia Tributário**: Manifesta-se na fiscalização (obrigação acessória.md). O exercício efetivo do **[Poder de Polícia](Poder de Polícia.md)** fundamenta a cobrança de Taxas.
 
 ---
 

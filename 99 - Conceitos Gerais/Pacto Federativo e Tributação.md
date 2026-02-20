@@ -1,6 +1,6 @@
 # **Pacto Federativo e Tributação**
 
-Esta nota explora a intersecção entre a **[[0. Conceito, Poder Constituinte e Princípios Fundamentais#3. Princípios Fundamentais|Organização do Estado]]** (Direito Constitucional) e a **[[Poder Tributário|Competência Tributária]]** (Direito Tributário).
+Esta nota explora a intersecção entre a **[Organização do Estado](0. Conceito, Poder Constituinte e Princípios Fundamentais#3. Princípios Fundamentais.md)** (Direito Constitucional.md) e a **[Competência Tributária](Poder Tributário.md)** (Direito Tributário.md).
 
 ---
 
@@ -11,7 +11,7 @@ A autonomia dos entes federativos (União, Estados, DF e Municípios), estabelec
 
 ## **2. Limitações ao Poder de Tributar como Garantia do Pacto**
 As limitações constitucionais ao poder de tributar protegem a harmonia entre os entes:
-- **[[2. Imunidades#1. Imunidades Tributárias|Imunidade Recíproca]] (Art. 150, VI, 'a', CF):** Veda que um ente tribute o patrimônio, renda ou serviços de outro, preservando a autonomia política.
+- **[Imunidade Recíproca](2. Imunidades#1. Imunidades Tributárias.md) (Art. 150, VI, 'a', CF.md):** Veda que um ente tribute o patrimônio, renda ou serviços de outro, preservando a autonomia política.
 - **Uniformidade Geográfica (Art. 151, I, CF):** Veda à União instituir tributo que não seja uniforme em todo o território nacional, evitando privilégios regionais.
 
 ## **3. Repartição de Receitas Tributárias**
@@ -20,7 +20,7 @@ O Federalismo Fiscal brasileiro é caracterizado pela descentralização da arre
 - **Conexão:** Art. 157 a 162 da CF/88.
 
 ## **4. Conflitos de Competência**
-Resolvidos obrigatoriamente por **Lei Complementar** (**Art. 146, I, CF**), que no Brasil é papel do **[[CTN]]**.
+Resolvidos obrigatoriamente por **Lei Complementar** (**Art. 146, I, CF**.md), que no Brasil é papel do **[CTN](CTN.md)**.
 
 ---
 
@@ -35,4 +35,4 @@ graph TD
     IR --> IT[Imunidades Tributárias]
 ```
 
-Ver também: [[Conexões de Direito Público]], [[Poder Tributário]], [[Estado]]
+Ver também: [Conexões de Direito Público](Conexões de Direito Público.md), [Poder Tributário](Poder Tributário.md), [Estado](Estado.md)

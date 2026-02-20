@@ -13,8 +13,8 @@ Este documento define a doutrina de combate para as principais bancas da Área F
 > *"A banca da Interpretação e dos Casos Práticos Complexos"*
 - **Estilo:** Textos longos, situações-problema interdisciplinares, português complexo e Contabilidade/Auditoria pesadíssimas.
 - **No Vault:**
-    - Focar nas **Notas-Ponte** (ex: [[LALUR e Lucro Real]]). A FGV cobra a conexão, não o conceito isolado.
-    - Em Direito Tributário, a FGV ama **Jurisprudência** recente do STF. Use a nota [[Jurisprudência Fiscal (STF e STJ)]].
+    - Focar nas **Notas-Ponte** (ex: [LALUR e Lucro Real](LALUR e Lucro Real.md).md). A FGV cobra a conexão, não o conceito isolado.
+    - Em Direito Tributário, a FGV ama **Jurisprudência** recente do STF. Use a nota [Jurisprudência Fiscal (STF e STJ.md)](Jurisprudência Fiscal (STF e STJ.md).md).
     - **Português:** Não decore gramática isolada. Entenda a lógica textual.
 - **Radar:** TI (Banco de Dados e SQL) e Contabilidade Avançada (CPCs) são os diferenciais.
 
@@ -22,7 +22,7 @@ Este documento define a doutrina de combate para as principais bancas da Área F
 > *"A banca do Certo/Errado e da Jurisprudência"*
 - **Estilo:** Itens de Certo/Errado, anulações frequentes, cobra "entendimento" mais do que "lei seca".
 - **No Vault:**
-    - Atenção total aos **[[Princípios]]** e **[[Direitos Fundamentais]]**.
+    - Atenção total aos **[Princípios](Princípios.md)** e **[Direitos Fundamentais](Direitos Fundamentais.md)**.
     - Em TI, focar em **Governança (COBIT/ITIL)** e Segurança da Informação.
     - Economia e Finanças Públicas costumam ser pesadas.
 
@@ -30,7 +30,7 @@ Este documento define a doutrina de combate para as principais bancas da Área F
 > *"A banca da Lei Seca e do Cálculo Rápido"*
 - **Estilo:** Copia e cola da lei (literalidade) em Direito. Questões de Contabilidade gigantescas que exigem velocidade.
 - **No Vault:**
-    - Use a **Constituição Navegável** ([[CF]], [[CTN]]) exaustivamente.
+    - Use a **Constituição Navegável** ([CF](CF.md), [CTN](CTN.md).md) exaustivamente.
     - Decore prazos, alíquotas e exceções (use tags `#decoreba`).
     - Raciocínio Lógico é padrão e repetitivo.
 
@@ -39,7 +39,7 @@ Este documento define a doutrina de combate para as principais bancas da Área F
 - **Estilo:** Muito parecida com a FCC antiga. Letra de lei e doutrina clássica.
 - **No Vault:**
     - Garanta o básico bem feito. Não invente moda.
-    - A nota [[Conexões de Direito Público]] é essencial aqui.
+    - A nota [Conexões de Direito Público](Conexões de Direito Público.md) é essencial aqui.
 
 ---
 
@@ -51,7 +51,7 @@ Este documento define a doutrina de combate para as principais bancas da Área F
     - Linke imediatamente ao MOC da disciplina.
 
 2.  **Lei Seca "Ativa" (Navegação):**
-    - Abra a [[CF]] ou [[CTN]] no Obsidian.
+    - Abra a [CF](CF.md) ou [CTN](CTN.md) no Obsidian.
     - Leia o artigo.
     - Tente explicar o artigo em voz alta conectando com um conceito contábil ou administrativo.
     - Se encontrar uma conexão nova, crie um **Link** na hora.
@@ -61,11 +61,11 @@ Este documento define a doutrina de combate para as principais bancas da Área F
     - Descubra *por que* errou:
         - *Falta de conceito?* Crie/Melhore a nota do conceito.
         - *Lei seca?* Vá na lei no vault e marque o artigo com uma tag `#caiu_na_prova`.
-        - *Jurisprudência?* Adicione na nota [[Jurisprudência Fiscal (STF e STJ)]].
+        - *Jurisprudência?* Adicione na nota [Jurisprudência Fiscal (STF e STJ.md)](Jurisprudência Fiscal (STF e STJ.md).md).
 
 4.  **Revisão Neuronal:**
     - Não revise por ordem linear.
-    - Abra o **[[Mapa Sistêmico Fiscal]]**, escolha um nó aleatório e siga os links por 15 minutos. Isso simula a prova interdisciplinar da FGV.
+    - Abra o **[Mapa Sistêmico Fiscal](Mapa Sistêmico Fiscal.md)**, escolha um nó aleatório e siga os links por 15 minutos. Isso simula a prova interdisciplinar da FGV.
 
 ---
 **Lembre-se:** O objetivo não é ter um caderno bonito, é ter um **Segundo Cérebro** que recupera a informação na velocidade da prova.

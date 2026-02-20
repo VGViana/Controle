@@ -1,10 +1,10 @@
 # **Poder de Polícia**
-- **Conceito**: Condicionamento ou restrição do exercício de direitos e atividades em benefício do interesse público. Ver: **[[5. Poderes e Deveres#6. Poder de polícia:|Poderes Administrativos]]**.
+- **Conceito**: Condicionamento ou restrição do exercício de direitos e atividades em benefício do interesse público. Ver: **[Poderes Administrativos](5. Poderes e Deveres#6. Poder de polícia:.md)**.
 - **Ciclo de Polícia**: 
 	1. Ordem; 2. Consentimento; 3. Fiscalização; 4. Sanção.
-- **Atributos**: **[[5. Poderes e Deveres#6.1 Atributos do poder de polícia:|CDA]]** (Discricionariedade, Autoexecutoriedade e Coercitividade).
-- **Taxas**: O exercício do Poder de Polícia é fato gerador de **[[1. Princípios|Taxas]]** (Art. 145, II, CF). Veja integração em: **[[Conexões de Direito Público]]**.
-- **Vínculo**: Relaciona-se com a **[[2. TGDF#▶️ Eficácia horizontal x Eficácia vertical|Eficácia Vertical]]** dos direitos fundamentais.
+- **Atributos**: **[CDA](5. Poderes e Deveres#6.1 Atributos do poder de polícia:.md)** (Discricionariedade, Autoexecutoriedade e Coercitividade.md).
+- **Taxas**: O exercício do Poder de Polícia é fato gerador de **[Taxas](1. Princípios.md)** (Art. 145, II, CF.md). Veja integração em: **[Conexões de Direito Público](Conexões de Direito Público.md)**.
+- **Vínculo**: Relaciona-se com a **[Eficácia Vertical](2. TGDF#▶️ Eficácia horizontal x Eficácia vertical.md)** dos direitos fundamentais.
 
 ## Grafo Local
 ```mermaid
