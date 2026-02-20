@@ -36,44 +36,44 @@
 
 **>> <span style="color:#fb4934">Quem tem as duas espécies de capacidade, tem a capacidade plena*</span>*.
 
-- **<span style="color:#fb4934">Absolutamente Incapazes</span>:** **<u>proibição total</u>** de exercício dos atos da vida civil. <span style="color:#fb4934">Atualmente, em virtude do Estatuto da Pessoa com Deficiência, **só há uma** hipótese </span>(art. 3°, CC) => **menores de 16 anos.**
+- **<span style="color:#fb4934">Absolutamente Incapazes</span>:** **<u>proibição total</u>** de exercício dos atos da vida civil. <span style="color:#fb4934">Atualmente, em virtude do Estatuto da Pessoa com Deficiência, **só há uma** hipótese </span>(art. 3°, CC) => **<span style="color:#fb4934">menores de 16 anos</span>.**
 
-**Enunciado n° 138 da III Jornada de Direito Civil do CJF**: A vontade dos absolutamente incapazes, na hipótese do inc. I do art. 3º é juridicamente relevante na concretização de situações existenciais a eles concernentes, desde que demonstrem discernimento bastante para tanto. 
+**<span style="color:#d3869b">Enunciado n° 138 da III Jornada de Direito Civil do CJF: A vontade dos absolutamente incapazes, na hipótese do inc. I do art. 3º é juridicamente relevante na concretização de situações existenciais a eles concernentes, desde que demonstrem discernimento bastante para tanto</span>.** 
 
-- **Relativamente Incapazes:** possibilidade de prática dos atos da vida civil com assistência. Hipóteses (art. 4°, CC): **VOCÊ TEM QUE SABER!!**
+- **<span style="color:#fe8019">Relativamente Incapazes</span>:** possibilidade de prática dos atos da vida civil com assistência. <span style="color:#fb4934">Hipóteses</span> (art. 4°, CC): **VOCÊ TEM QUE SABER!!**
     - Maiores de 16 e menores de 18 anos.
     - Ébrios habituais e viciados em tóxico.
     - Os que, por causa transitória ou permanente, não puderem exprimir sua vontade.
     - Pródigos (os que dissipam seus bens). 
 
-**2.1. Cessação da Incapacidade** (capacidade plena)**: maioridade (18 anos - art. 5°, caput, CC), cessação das causas de incapacidade, ou emancipação (art. 5°, parágrafo único, CC)**. 
+## **2.1. Cessação da Incapacidade** (capacidade plena)**: <u>maioridade (18 anos - art. 5°, caput, CC), cessação das causas de incapacidade, ou emancipação (art. 5°, parágrafo único, CC)**.</u> 
 
-- **Absolutamente incapazes devem ser representados** por seus pais, tutores ou curadores, que irão praticar o ato em nome do incapaz. Caso o ato seja praticado sem a devida representação, será considerado **nulo** (art. 166, I, CC).
-- Declarado Incapaz não pode praticar nenhum ato sem a representação. Nossa legislação não admite os chamados intervalos lúcidos.
+- **Absolutamente incapazes devem ser representados** por seus pais, tutores ou curadores, que irão praticar o ato em nome do incapaz. Caso o ato seja praticado sem a devida representação, será considerado **<span style="color:#fb4934">nulo</span>** (art. 166, I, CC).
+- Declarado Incapaz não pode praticar nenhum ato sem a representação. <span style="color: #d79921">Nossa legislação não admite os chamados intervalos lúcidos.</span>
 - Ato praticado pelo absolutamente incapaz deve ser considerado Nulo
-- **Relativamente incapazes** devem ser assistidos por seus pais, tutores ou curadores, que irão assisti-los nos atos da vida civil. Caso o ato seja praticado sem assistência, será considerado **anulável** (art. 171, I, CC).
+- **Relativamente incapazes** devem ser assistidos por seus pais, tutores ou curadores, que irão assisti-los nos atos da vida civil. Caso o ato seja praticado sem assistência, será considerado <span style="color:#fb4934">**anulável**</span> (art. 171, I, CC).
 - Compete aos pais, tutores e curadores representar o menor, até os dezesseis anos, e assisti-lo, após essa idade, nos atos em que for parte (arts. 1.634, V; 1.747, CC; e 1.781, todos do CC).
 - **Os ingígenas são regulados por legislação especial** (Lei n° 6.001/73 – Estatuto do Índio). -> Art. 7º, §8º determina que são considerados nulos os atos praticados entre índios não integrados e qualquer pessoa estranha à comunidade indígena quando não tenha havido assistência do órgão tutelar competente
-- Em relação aos **Pródigos** cabe destacar que o principal foco da interdição é a proteção da pessoa de forma individual, com o intuito de preservação da dignidade da pessoa humana. Acrescente-se que a restrição diz respeito à prática de atos patrimoniais e não pessoais, tanto assim que **pode trabalhar e se casar**.
+- Em relação aos **Pródigos** cabe destacar que o principal foco da interdição é a proteção da pessoa de forma individual, com o intuito de preservação da dignidade da pessoa humana. Acrescente-se que a <span style="color: #d79921">restrição diz respeito à prática de atos patrimoniais e não pessoais</span>, tanto assim que **pode trabalhar e se casar**.
 
 **Jurisprudência:**
 
-STJ -> A capacidade é, além de elemento essencial, condição de validade do negócio jurídico, pelo que **comprovada a incapacidade do agente**, no momento da realização do negócio jurídico, tem-se por viciado o consentimento dado e, consequentemente**, nulo o ato jurídico realizado, mesmo que anterior a sentença de interdição**
+<span style="color:#d3869b">STJ -> A capacidade é, além de elemento essencial, condição de validade do negócio jurídico, pelo que **comprovada a incapacidade do agente**, no momento da realização do negócio jurídico, tem-se por viciado o consentimento dado e, consequentemente**, nulo o ato jurídico realizado, mesmo que anterior a sentença de interdição**</span>
 
-**2.2. EMANCIPAÇÃO:** Aquisição da capacidade plena antes dos 18 anos, habilitando o indivíduo para todos os atos da vida civil (embora o indivíduo continue menor). Definitiva e irrevogável. Art. 5°, parágrafo único, CC:
+## <span style="color:#d3869b"> **2.2. EMANCIPAÇÃO</span>:** Aquisição da capacidade plena antes dos 18 anos, habilitando o indivíduo para todos os atos da vida civil (embora o indivíduo continue menor). Definitiva e irrevogável. Art. 5°, parágrafo único, CC:
 
-**a) Voluntária:** concessão dos pais (na falta de um deles, apenas a do outro), por instrumento público (e não particular), independentemente de homologação judicial, idade mínima: 16 anos.
+**a) Voluntária:** concessão dos pais (na falta de um deles, apenas a do outro), <span style="color: #d79921">por instrumento público</span> (e não particular), <span style="color: #d79921">independentemente de homologação judicial</span>, idade mínima: 16 anos.
 
 **b) Sentença judicial:** conflito de vontades entre os pais; menor sob tutela.
 
 **c) Legal:** casamento: idade núbil (homens e mulheres) => 16 anos; exercício de emprego público efetivo; colação de grau em curso de ensino superior; estabelecimento civil ou comercial ou pela existência de relação de emprego, com economia própria => 16 anos.
 
-Obs: **Incapacidade => Menoridade**. A **emancipação cessa a incapacidade**, **não a menoridade.**
+Obs: **<span style="color:#fb4934">Incapacidade => Menoridade</span>**. A **emancipação cessa a incapacidade**, <span style="color:#fb4934"><u>**não a menoridade.**</u></span>
 
--  A Emancipação legal **cessa a incapacidade** para os Menores.
-- Art. 9, II, CC/02 -> A Emancipação está sujeita à Registro.
+-  A Emancipação legal **cessa a incapacidade** <span style="color: #d79921">para os Menores</span>.
+- Art. 9, II, CC/02 -> A Emancipação está sujeita à <span style="color: #d79921">Registro</span>.
 
-**3.** **FIM DA PERSONALIDADE:**
+# <span style="color:#d3869b"> **3.** **FIM DA PERSONALIDADE:**</span>
 
 - **Morte Real** com corpo (certidão de óbito: morte encefálica) ou sem corpo (justificação judicial: art. 88 da Lei n° 6.015/73 – Lei de Registros Públicos).
 - **Morte Civil:** não existe mais; deixou resquícios no Direito das Sucessões (ex.: indignidade – art. 1.816, CC).
@@ -87,32 +87,32 @@ Obs: **Incapacidade => Menoridade**. A **emancipação cessa a incapacidade**, *
         - extinção da obrigação de prestar alimentos com o falecimento do credor;
         - extinção dos contratos personalíssimos, etc.
 
->> Permanece o direito à imagem, à honra, aos direitos autorais, etc.
+>> <span style="color: #d79921">Permanece o direito à imagem, à honra, aos direitos autorais, etc</span>.
 
   
   
 
 - **Há ainda situações onde podem ocorrer atos contra o cadáver, mesmo sem o consentimento em vida do indivíduo**, como o chamado “direito à prova” (em caso de morte violenta, ou havendo **suspeita da prática de crime, é indispensável a realização do exame necroscópico**).
 - Há, ainda, a possibilidade de **exumação do cadáver, desde que haja prévia autorização por autoridade competente**, não constituindo em atentado ao direito do morto.
--  **Comoriência:** **presunção relativa (juris tantum**: que admite prova em contrário) de morte simultânea de duas ou mais pessoas, sempre que não se puder averiguar quem faleceu em primeiro lugar (art. 8°, CC). Aplica-se o instituto sempre que houver uma relação de sucessão hereditária. **A consequência prática é que os comorientes não herdam entre si**; não há transferência de bens e direitos entre eles; um não sucede o outro.
+-  **<span style="color:#83a598">Comoriência</span>:** **presunção relativa (juris tantum**: que admite prova em contrário) de morte simultânea de duas ou mais pessoas, sempre que não se puder averiguar quem faleceu em primeiro lugar (art. 8°, CC). Aplica-se o instituto sempre que houver uma relação de sucessão hereditária. **<span style="color: #d79921">A consequência prática é que os comorientes não herdam entre si</span>**; não há transferência de bens e direitos entre eles; um não sucede o outro.
 - Segundo a doutrina, a expressão “na mesma ocasião” não requer que o evento morte se tenha dado na mesma localidade; basta que haja inviabilidade na apuração exata da ordem cronológica dos óbitos.
 
-**4. REGISTRO E AVERBAÇÃO:** 
+# <span style="color:#d3869b"> **4. REGISTRO E AVERBAÇÃO:</span>** 
 
 👉 Prova legal do estado da pessoa. Publicidade, autenticidade, segurança e eficácia aos fatos jurídicos de maior relevância para a vida e aos sujeitos de direito. **Enquanto o registro visa afirmar ou negar a existência, estado e capacidade da pesso**a, a averbação é ato que modifica ou cancela o próprio registro.
 
-**A) Devem ser registrados (art. 9°, CC):**
+**A) Devem ser <u>registrados</u> (art. 9°, CC):**
 
 • nascimentos, casamentos e óbitos.
 
-• emancipação por outorga dos pais ou por sentença do Juiz.
+• <span style="color: #d79921">emancipação</span> por outorga dos pais ou por sentença do Juiz.
 
 • interdição por incapacidade absoluta ou relativa.
 
 • sentença declaratória de **ausência e de morte presumida.**
 
-**B) Devem ser averbados (art. 10):**
+**B) Devem ser <u>averbados</u> (art. 10):**
 
-• Sentenças que decretam a nulidade ou anulação do casamento, bem como separação judicial, restabelecimento da sociedade conjugal e divórcio (lembrando que com a edição da EC n° 66/2010, não se exige mais a prévia separação prévia para a efetivação do divórcio).
+• Sentenças que decretam a nulidade ou anulação do casamento, bem como separação judicial, restabelecimento da sociedade conjugal e divórcio (<span style="color:#fb4934">lembrando que com a edição da EC n° 66/2010, não se exige mais a prévia separação prévia para a efetivação do divórcio</span>).
 
 • Atos judiciais ou extrajudiciais que declaram ou reconhecem a filiação.
