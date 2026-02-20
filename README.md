@@ -1,28 +1,21 @@
 # Projeto Fisco
 
----
-
-## Conteúdo
-- **[Painel Geral](00 - Painel Geral Fiscal/Fiscal.md)**: Dashboard e MOC Central.
-- **[D. Tributário](01 - Direito Tributário/01 - Direito Tributário (MOC).md**: CTN, CF e Jurisprudência.
-- **[D. Constitucional](02 - Direito Constitucional/02 - Direito Constitucional (MOC).md**: Organização do Estado.
-- **[D. Administrativo](03 - Direito Administrativo/03 - Direito Administrativo (MOC).md**: Licitações e Atos.
-- **[Contabilidade](04 - Contabilidade Geral/04 - Contabilidade Geral (MOC).md**: Geral e Avançada.
-- **[T.I.](10 - Tecnologia da Informação/10 - Tecnologia da Informação (MOC).md**: Banco de Dados e Gestão.
+Sistema de estudos para Area Fiscal (SEFAZ/RFB/ISS). Foco em bancas de alto nivel (FGV, Cebraspe, FCC).
 
 ---
 
-## Arquitetura
-Sistema de links semânticos entre base legal e aplicação prática (MOCs e Notas-Ponte).
-
-```mermaid
-graph TD
-    MOC[MOC Central] --> DT[Direito Tributário]
-    MOC --> CT[Contabilidade]
-    DT --> P[Nota-Ponte]
-    CT --> P
-    P --> A[Auditoria Fiscal]
-```
+## Indice de Conteudo
+- [Area Fiscal (Painel)](00 - Painel Geral Fiscal/Fiscal.md)
+- [Direito Tributario](01 - Direito Tributário/01 - Direito Tributário (MOC).md)
+- [Direito Constitucional](02 - Direito Constitucional/02 - Direito Constitucional (MOC).md)
+- [Direito Administrativo](03 - Direito Administrativo/03 - Direito Administrativo (MOC).md)
+- [Contabilidade Geral](04 - Contabilidade Geral/04 - Contabilidade Geral (MOC).md)
+- [Tecnologia da Informacao](10 - Tecnologia da Informação/10 - Tecnologia da Informação (MOC).md)
 
 ---
-[A fazer](fisco/A fazer.md) | [Conquistas](fisco/Conquistas.md)
+
+## Metodologia
+A estrutura baseia-se na "Constituicao Navegavel", utilizando MOCs (Maps of Content) para agrupar temas e Notas-Ponte para conexoes interdisciplinares (Ex: Lalur entre Contabilidade e Tributario).
+
+---
+[A fazer](A fazer.md) | [Conquistas](Conquistas.md)
