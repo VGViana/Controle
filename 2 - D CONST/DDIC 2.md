@@ -136,36 +136,116 @@
 
 **STF** - reconheceu que houve omissão por parte do Poder Legislativo quanto à tipificação dos crimes de <span style="color:#d3869b">**homofobia e transfobia**</span>. E até que sejam tipificados, tais condutas terão as <span style="color:#d3869b">**mesmas penas dadas ao crime de racismo.**</span>
 
-**STF** - o crime de **injúria racial** foi considerado uma espécie do crime de racismo, também sendo **imprescritível**.
+**STF** - o crime de <span style="color:#fe8019">**injúria racial**</span> foi considerado uma espécie do crime de racismo, também sendo <span style="color:#fe8019">**imprescritível**.</span>
 
 **1.3 Intranscendência das penas**
 
-- Os **efeitos penais não poderão ser transmitidos para outras pessoas que não sejam as que cometeram a conduta criminosa;**  
-- **A reparação de danos poderão ser transmitidas para os sucessores** de quem causou o dano, mas **no limite do patrimônio transferido.**
+- Os <span style="color:#d3869b">**efeitos penais <u>não poderão ser transmitidos para outras pessoas</u> que não sejam as que cometeram a conduta criminosa</span>;**  
+- **A <span style="color:#fe8019"><u>reparação de danos</u> poderão ser transmitidas para os sucessores**</span> de quem causou o dano, mas **<span style="color:#fe8019"><u>no limite do patrimônio transferido.**
+</u></span>
 
-**1.4 Individualização da pena**
+## **1.4 Individualização da pena**
 
-- As **características pessoais** do agente devem ser consideradas quando houver a **individualização das penas.** Por exemplo, crianças, mulheres e idosos ficam em estabelecimento prisional diferente dos demais. A execução das penas deve ser feita em locais adequados a cada indivíduo, **considerando-se a idade, gênero e o delito do apenado.**
+- As **características pessoais** do agente devem ser consideradas quando houver a <span style="color:#fb4934">**individualização das penas.**</span> Por exemplo, crianças, mulheres e idosos ficam em estabelecimento prisional diferente dos demais. A execução das penas deve ser feita em locais adequados a cada indivíduo, **considerando-se a idade, gênero e o delito do apenado.**
 
-**STF** - é **inconstitucional** a proibição da progressão de regime aos crimes hediondos.
+**STF** - é <span style="color:#fe8019">**inconstitucional**</span> a <u>proibição</u> da progressão de regime aos <u>crimes hediondos.</u>
 
-**STF** - não havendo estabelecimento prisional adequado ao cumprimento da pena pelo agente, este não poderá permanecer em estabelecimento prisional mais gravoso.
+**STF** - não havendo estabelecimento prisional adequado ao cumprimento da pena pelo agente, este <span style="color:#fe8019">não poderá permanecer em estabelecimento prisional mais gravoso.</span>
 
-**ATENÇÃO! Fique ligado:**
+<span style="color:#fb4934">**ATENÇÃO!</span> Fique ligado:**
 
-- **pena de morte**, esta é permitida nos casos de **guerra declarada;**
-- **pena de banimento** não foi aceita pela **CF/88.**
+- <span style="color:#fb4934">**pena de morte**</span>, esta é permitida nos casos de <span style="color:#fb4934">**guerra declarada;**</span>
+- <u>**pena de banimento**</u> não foi aceita pela **CF/88.**
 
-🚨 Tenha atenção às **hipóteses de extradição:**
+🚨 Tenha atenção às <u>**hipóteses de extradição</u>:**
 
-- **Brasileiros natos** não serão extraditados!!
-- **Brasileiros naturalizados** poderão ser extraditados apenas em duas hipóteses:
-- praticou **crime comum** **antes da naturalização;**
-- teve envolvimento comprovado em **tráfico ilícito de entorpecentes e drogas afins**, **a qualquer momento.**
+- <span style="color:#fe8019">**Brasileiros natos** não serão extraditados!</span>!
+- <span style="color:#d3869b">**Brasileiros naturalizados** poderão ser extraditados <u>apenas em duas hipóteses:</u></span>
+- praticou **crime comum** <span style="color:#d3869b">**antes da naturalização</span>;**
+- teve envolvimento comprovado em **tráfico ilícito de entorpecentes e drogas afins**, <span style="color:#d3869b">**a qualquer momento.**</span>
 
-**1.4.1 Tipos de extradição:**
+### **1.4.1 Tipos de extradição:**
 
 - Extradição **ativa** - governo brasileiro **solicita** a entrega de um indivíduo a outro país.
 - Extradição **passiva** - **é solicitado** ao governo brasileiro a extradição de um indivíduo.
-- Não é admitida a extradição por crime político ou de opinião.
+- <span style="color:#fe8019">Não é admitida a extradição por crime político ou de opinião.</span>
 - Cabe ao STF definir um crime como político.
+
+## **1.1 Devido processo legal/contraditório e ampla defesa**
+
+- O <span style="color:#b8bb26">**devido processo legal**</span> significa que nenhum indivíduo será condenado, independentemente do tipo de condenação (judicial ou administrativa), sem o devido processo legal (sem ter chance de ser julgado por uma autoridade competente e poder se defender);
+- A <span style="color:#d3869b">**ampla defesa**</span> assegura ao indivíduo fazer uso durante o processo de todos os meios lícitos que puderem <u>comprovar a sua verdade</u>;
+- O <span style="color: #d79921">**contraditório**</span> assegura que o acusado possa <u>contradizer o que foi levantado contra ele.</u>
+
+**STF** - <span style="color:#fe8019">a ampla defesa e o contraditório **<u>não serão aplicados durante o inquérito policial</u></span>,** afinal, nessa fase não há acusação, a investigação ainda está em andamento. E é por isso que não é possível sentenciar um indivíduo apenas com base nas <u>provas colhidas durante o inquérito policial</u>, afinal, não foi dado ao acusado a chance do contraditório e da ampla defesa durante a colheita de tais provas, injusto, não é?!
+
+**STF** - durante a <span style="color:#d3869b">**<u>sindicância preparatória </u>(procedimento administrativo) que resulta em abertura do processo administrativo disciplinar**, **<u>não há obrigação</u>** de haver ampla defesa e contraditório.</span> <span style="color:#b8bb26">Mas, se a sindicância não resultar em processo administrativo disciplinar e for encerrada com a aplicação de alguma pena, deve sim haver ampla defesa e contraditório.</span>
+
+- - A sindicância preparatória é semelhante ao inquérito policial, é uma investigação acerca do servidor público, para que saibamos se sua conduta foi considerada ilícita em serviço. Mas, diferente do inquérito, após a sindicância, o servidor já poderá ser apenado (advertência ou suspensão). Ou, poderá ser levado o que foi colhido através da sindicância para abrir um processo administrativo contra o servidor. Então, não vamos fazer bobagem em serviço, beleza?
+
+**STF** - não há a obrigatoriedade de presença de advogado durante o **processo administrativo disciplinar.**
+
+**STF** - as provas <span style="color:#d3869b">**já documentadas**</span> nos autos do inquérito policial devem ser de <span style="color:#d3869b">**acesso ao defensor.**</span>
+
+**STF** - é <span style="color:#fe8019">**inconstitucional**</span> a exigência de **depósito ou arrolamento de bens** para a **aceitação do recurso administrativo.**
+
+**STF** - Tanto nos processos judiciais, como nos administrativos, é <span style="color:#fe8019">**proibido**</span> o uso de provas obtidas por <span style="color:#fe8019">**meios ilícitos**</span>. Tais provas serão retiradas do processo.
+
+- - As <u>provas **<span style="color:#b8bb26">derivadas</span>** das provas ilícitas</u> deverão ser retiradas do processo também. A doutrina denomina esse fato de **"<span style="color:#b8bb26">teoria dos frutos da árvore envenenada</span>".** De vez em quando, o examinador usa esse termo, vamos ficar atentos.
+
+<span style="color:#fb4934">**ATENÇÃO</span>! Segundo o entendimento do STF:**
+
+- <span style="color:#fb4934">São ilícitas</span>:
+    - interceptação telefônica <u>sem autorização judicial;</u>
+    - interceptação telefônica determinada <u>a partir apenas de denúncia anônima;</u>
+    - gravação do acusado <u>sem observar as formalidades legais;</u>
+    - confissão durante <u>prisão ilegal.
+</u>
+- <span style="color:#83a598">São lícitas</span>:
+	- gravação telefônica feita por um dos interlocutores, no caso de <u>investida criminosa</u>;
+    - gravação de <u>conversa telefônica</u> feita por <u>um dos interlocutores, sem conhecimento do outro</u>, <span style="color:#fb4934">**ausente causa legal de sigilo** **ou de reserva da conversação</span>;**
+    - gravação ambiental feita por um dos interlocutores, sem que o outro tenha conhecimento. 
+
+## **1.2 Presunção da inocência**
+
+- Ninguém será considerado culpado **<span style="color:#d3869b"><u>antes do trânsito em julgado</u></span>**, ainda, será o <span style="color:#fe8019">acusador</span> que deverá arcar com a produção das provas acusatórias. Se ele acusa, ele que demonstre que foi feito algo ilícito, nada mais justo, não é?!
+
+**STF** - No caso das **<span style="color:#d3869b">prisões cautelares</span>**, aquelas em que o acusado é preso temporariamente durante o processo e antes da sentença, **elas não violam o princípio da presunção da inocência.**
+
+**STF** - apenas a partir do trânsito em julgado da condenação criminal, ou seja, quando não houver mais recursos a serem impostos, é que a pena começará a ser cumprida. Lembrando que o <u>entendimento anterior</u> era que a pena poderia ser cumprida logo com a sentença de segunda instância, mas tal entendimento foi superado pela Corte. ⚠️
+
+## **1.3 Publicidade dos atos processuais**
+
+- Apesar de a regra ser a publicidade dos atos processuais, **há duas exceções: quando a <span style="color:#fe8019">defesa da intimidade ou quando o interesse social exigirem</span>.**
+
+## **1.4 Direito a liberdade**
+
+- A prisão <u>apenas ocorrerá:</u>
+
+- - **<span style="color:#d3869b">Sem a necessidade de ordem judicial</span>****: flagrante delito ou nos crimes militares tratados em legislação própria;
+- **<span style="color:#b8bb26">Por ordem escrita e fundamentada</span>** de autoridade judicial competente nos **demais casos.**
+
+## **1.5 Direitos assegurados ao preso**
+
+**STF** - caso não seja comunicado ao preso o seu **<span style="color:#b8bb26">direito de permanecer em silêncio</span>**, o depoimento dado será **<span style="color:#b8bb26">considerado nulo</span>**. O silêncio em nada prejudicará o réu.
+
+**STF** - tendo em vista o direito à defesa, poderá o réu negar, ainda que falsamente, a prática da conduta criminosa. Mas tal direito <u>não possibilita que o réu possa mentir sobre os outros fatos e atrapalhar a ação da justiça.</u>
+
+**STF** - apenas em casos especiais o acusado será algemado, por exemplo, quando demonstrar risco de fuga ou perigo a si mesmo.
+
+**STF** - as <u>audiências de custódia</u>, quando o preso é levado à autoridade judicial após sua prisão, devem ser realizadas no **prazo máximo de 24 horas da prisão**.
+
+## **1.6 Prisão civil por dívida**
+
+**STF** - é **<span style="color:#fe8019">ilícita</span>** a prisão civil do **depositário infiel**, <span style="color:#fe8019">em qualquer modalidade de depósito</span>.
+
+**STF** - é **<span style="color:#d3869b">lícita</span>** a prisão civil do **devedor de alimentos.**
+
+- No caso do **devedor de alimentos**, a prisão ocorrerá **apenas quando** houver o **inadimplemento for voluntário e inescusável** da obrigação de alimentos. **Esse é o único caso de prisão civil adotado no Brasil.** ⚠️
+-  Algumas provas ainda cobram a literalidade do inciso LXVII: _não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel;_
+
+**IMPORTANTE!** Saibamos que o Brasil assinou o **Pacto de San Jose da Costa Rica****,** este possui efeito supralegal (essa norma está abaixo da CF/88, mas acima das normas infraconstitucionais, portanto deve ser respeitada pelas demais normas do ordenamento). O que significa que, apenas a prisão civil por alimentos poderá ocorrer. Apesar da norma constitucional do inciso LXVII ainda existir e não ter sido modificada, não poderá haver a produção de normas que regeriam a prisão civil do depositário infiel.
+
+**Então, devemos levar para a prova** que a literalidade do inciso LXVII subsiste, mas apenas é válida para a prisão por dívida alimentícia (voluntária e inescusável). **A prisão do depositário infiel não é mais aceita no ordenamento brasileiro.**
+
+**ATENÇÃO! Os remédios constitucionais serão estudados futuramente com mais detalhes, ok!**
