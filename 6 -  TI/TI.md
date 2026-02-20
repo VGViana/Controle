@@ -1,1 +1,4 @@
-[[6 -  TI/5. SQL]]
+
+[[Teoria da informação]]
+
+[[5. SQL]]

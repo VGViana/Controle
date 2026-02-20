@@ -1,6 +1,6 @@
-**1. Teoria da Informação**
+# **1. Teoria da Informação**
 
-**1.1 DADOS, INFORMAÇÃO, CONHECIMENTO e INTELIGÊNCIA**
+## **1.1 DADOS, INFORMAÇÃO, CONHECIMENTO e INTELIGÊNCIA**
 
 É importante que você saiba diferenciar os conceitos do DICS: dado, informação, conhecimento e sabedoria (inteligência).
 
@@ -10,14 +10,13 @@
 
 - **Conhecimento -** Quanto ao conceito de conhecimento, é considerada toda informação processada e transformada em conhecimento, da qual é possível retirar alguma conclusão. Ou seja, o **conhecimento é a** **habilidade em analisar as informações encontradas;**
 
-|   |   |
-|---|---|
-|**CONHECIMENTO EXPLÍCITO**|**CONHECIMENTO TÁCITO**|
-|Objetivo, racional e técnico|Subjetivo, cognitivo e experimental|
-|Estruturado e externalizado|Pessoal e internalizado|
-|Fácil de capturar, documentar e compartilhar|Difícil de capturar, documentar e compartilhar|
-|Proveniente da racionalidade|Proveniente da experiência|
-|Conhecimento sequencial|Conhecimento empírico|
+| **CONHECIMENTO EXPLÍCITO**                   | **CONHECIMENTO TÁCITO**                        |
+| -------------------------------------------- | ---------------------------------------------- |
+| Objetivo, racional e técnico                 | Subjetivo, cognitivo e experimental            |
+| Estruturado e externalizado                  | Pessoal e internalizado                        |
+| Fácil de capturar, documentar e compartilhar | Difícil de capturar, documentar e compartilhar |
+| Proveniente da racionalidade                 | Proveniente da experiência                     |
+| Conhecimento sequencial                      | Conhecimento empírico                          |
 
 - **Inteligência -** Por fim, quanto ao conceito de **inteligência**, existe o desenvolvimento de inteligência ao ser aplicado o conhecimento, ou seja, através das ações distintas que podem ser realizadas com o conhecimento adquirido. Com o uso da inteligência é que o ser possui a capacidade de sentir o ambiente e tomar decisões pensadas de forma única para a resolução de problemas, fornecendo a capacidade de perceber e entender as situações, escolhendo a forma correta para a solução de determinado problema, permitindo ainda que diferentes situações sejam resolvidas de diferentes formas baseadas na inteligência e na experiência de cada ser.
 
