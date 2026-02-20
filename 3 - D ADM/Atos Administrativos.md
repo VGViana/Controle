@@ -181,3 +181,4 @@
 - Elemento **<span style="color:#83a598">vinculado;</span>**
 - **Princípio da Solenidade:**
     - forma **<span style="color:#83a598">específica</span>** prevista na **lei.**
+
