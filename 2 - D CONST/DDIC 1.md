@@ -75,24 +75,24 @@ Direito de viver e de ter uma vida digna. <span style="color:#fb4934">**Não é
 - A criação de associações **<span style="color:#fb4934">independe</span>** de autorização de autoridades estatais.
 - Não há a necessidade de a associação ter personalidade jurídica.
 - As associações apenas poderão ser **<span style="color:#d3869b">suspensas por decisão judicial.</span>** E para serem **<span style="color:#d3869b">dissolvidas, deve haver decisão judicial <u>transitada em julgado</u></span>**.
-- Não podem ser criadas associações de **caráter paramilitar.**
+- Não podem ser criadas associações de **<span style="color:#fb4934">caráter paramilitar</span>.**
 
 ### **1.3.1 Representação judicial**: **(art.5, XXI)**
 
-- Associação - em regra, **precisa de autorização dos associados** (representação processual) para realizar a defesa dos interesses dos associados em ações judiciais, que não sejam a impetração de mandado de segurança coletivo.
-- Há necessidade de autorização para representação pela associação não pode ser dada por autorização genérica!
-- Apenas os **associados que autorizaram** a representação judicial estarão sujeitos à execução do título judicial.
+- <u>Associação</u> - em regra, **precisa de autorização dos associados** (<u>representação processual</u>) para realizar a defesa dos interesses dos associados em ações judiciais, que <u>não sejam a impetração de mandado de segurança coletivo</u>.
+- Há necessidade de autorização para representação pela associação <span style="color:#fe8019"><u>não</u></span> <span style="color:#fe8019"><u>pode ser dada por autorização genérica!</u></span>
+- Apenas os **<u>associados que autorizaram</u>** a representação judicial estarão sujeitos à <u>execução do título judicial</u>.
 
-✅A impetração de **mandado de segurança coletivo _(estudaremos nas próximas aulas)_** não é uma forma de representação judicial, mas sim de substituição processual (art.5º, LXX). Portanto, não há a necessidade de autorização expressa dos associados, mas pode haver autorização genérica.
+✅A impetração de **<span style="color:#d3869b"><u>mandado de segurança coletivo</u></span> ** não é uma forma de representação judicial, mas sim de substituição processual (art.5º, LXX). Portanto, não há a necessidade de autorização expressa dos associados, <span style="color:#fb4934">mas pode haver autorização genérica.</span>
 
-- **mandado de segurança coletivo >>** substituição processual >> autorização genérica.
-- **ações judiciais** >> representação judicial >> autorização específica.
+- **<span style="color:#d3869b">mandado de segurança coletivo</span> >>** substituição processual >> <span style="color:#fe8019"><u>autorização genérica</u></span>.
+- **<span style="color:#b8bb26">ações judiciais</span>** >> representação judicial >> <span style="color:#fe8019"><u>autorização específica</u></span>.
 
-🚨Sindicato - não precisa de autorização de filiados.
+🚨<u>Sindicato</u> - não precisa de autorização de filiados.
 
-**1.4 Direito de propriedade**
+## **1.4 Direito de propriedade**
 
-- Desapropriação: necessidade pública, utilidade pública ou interesse social. Haverá indenização prévia e em dinheiro, exceto se for realizada para desapropriar:
+- Desapropriação: <span style="color:#d3869b">necessidade pública, utilidade pública ou interesse social</span>. Haverá indenização prévia e em dinheiro, <span style="color:#fe8019">exceto se for realizada para desapropriar</span>:
 
 - - para reforma agrária;
     - imóvel urbano não-edificado que não cumpriu sua função social;
@@ -102,19 +102,19 @@ Direito de viver e de ter uma vida digna. <span style="color:#fb4934">**Não é
 - - Iminente perigo público;
     - Interesse público.
 
-✅STF: **um ente federativo não poderá requisitar bens, serviços e pessoal de outro ente.**
+✅STF: **<span style="color:#fe8019">um ente federativo <u>não</u> poderá requisitar bens, serviços e pessoal de outro ente</span>.**
 
--**Pequena propriedade rural** não poderá ser penhorada para pagamento de débitos originados da atividade produtiva, quando (**cumulativamente**):
+-**<span style="color:#d3869b">Pequena propriedade rural*</span>* não poderá ser penhorada para pagamento de débitos <u>originados da atividade produtiva</u>, quando (**cumulativamente**):
 
 - houver exploração econômica do bem pela família, e
 - o débito for decorrente da atividade produtiva desenvolvida.
 
-**1.5 Direitos do autor**
+## **1.5 Direitos do autor**
 
 -  Enquanto viver: total controle sobre sua obra
 - Após a morte: limitação temporal do direito; haverá a transmissão para os herdeiros pelo tempo expresso na Lei. 
-- Inventos industriais: privilégio temporário
+- Inventos industriais: <u>privilégio temporário</u>
 
-**1.6 Direito de herança**
+## **1.6 Direito de herança**
 
 -  Norma sucessória que mais beneficie os herdeiros **brasileiros.** Pode ser norma brasileira ou do país de origem do falecido, caso seja estrangeiro.

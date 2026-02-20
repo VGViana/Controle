@@ -125,3 +125,46 @@
 ## 5.1: **Decretos Autônomos:** 
 -  não se trata de uma autorização genérica para edição de regulamentos autônomos, pois só se aplica nos casos das alíneas “a” e “b” do inc. VI, art. 84, da Constituição Federal.
 - por decorrerem diretamente da Constituição Federal, essas são hipóteses restritas de decretos como atos normativos primários;
+
+# **<mark style="background:#fff88f">6. Poder de polícia:</mark>**
+
+- - <span style="color:#fb4934">**Finalidade**</span>:
+        - <span style="color:#fb4934">**Condicionar e restringir**</span> o **uso e gozo** de **bens, atividades, e direitos individuais**, _em benefício da coletividade_ _OU do próprio Estado._
+    - <span style="color:#d3869b">**Sentido amplo**</span>: 
+        
+        - **Toda e qualquer <span style="color:#d3869b">ação restritiva</span> do Estado** em relação aos direitos individuais <span style="color:#d3869b">**(Legislativo/Executivo)**.</span>
+            
+    - <font color="#c00000">**Sentido estrito</font>:**
+        
+        - <font color="#c00000">**Apenas** **atividade da Administração Pública**</font>, que regulamenta as leis de polícia ou que exerce atividades concretos de limitação e condicionamento. 
+            
+- **<span style="color:#83a598">Regulamentação</span>** das leis;
+    
+- <span style="color:#83a598">**Controle preventivo**</span> (ordens, notificações, licenças, autorizações);
+    
+- <span style="color:#fb4934">**Controle repressivo**</span> (medidas coercitivas).
+    
+- <span style="color:#83a598">**Aplicação de penalidades**</span> contra as pessoas sem vínculo específico com a Administração.
+    
+
+## **6.1 Atributos do poder de polícia**:
+
+- <span style="color:#b8bb26">**Discricionariedade**</span> (momento da fiscalização; escolha de sanção);
+- <span style="color:#fe8019">**Autoexecutoriedade**</span> (decidir e executar diretamente  sua decisão por seus próprios meios, sem intervenção do Judiciário)  
+    - <span style="color:#fe8019">**Exigibilidade**</span>:
+        - **Meios indiretos** de coação (ex.: multas)**;**
+        - <span style="color:#b8bb26">**Sempre presente</span>!**
+    - <span style="color:#fe8019">**Executoriedade**</span>: **meios diretos** de coação (ex.: apreensão de mercadorias)
+- **<span style="color:#d3869b">Coercibilidade</span>** (obrigatório, independe da vontade do administrado).
+
+**6.2 Caráter do poder de polícia**:
+
+- **Normativo**: geral, abstrato, caráter preventivo;  
+    
+- **Concreto**: atingem pessoas determinadas;  
+    
+- **Preventivo**: atos de consentimento (licença-vinculado; autorização-discricionário);  
+    
+- **Repressivo**: consequência de uma infração (ex.: multa);  
+    
+- **Fiscalização**: verificar o cumprimento das normas.
