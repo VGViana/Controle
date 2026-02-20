@@ -1,43 +1,43 @@
 ---
-: [, , ]
+tags: [erros, pegadinhas, revisão]
 ---
 
-# ️ E C  Á 
+# ⚠️ Erros Clássicos da Área Fiscal
 
-L   ,    ""    (GV, CEBRASPE, CC).
+Lista de armadilhas comuns, confusões conceituais e "pegadinhas" recorrentes das bancas (FGV, CEBRASPE, FCC).
 
-##  D T
-- **I . I . N-I**:
-    - *I*: V  (C).
-    - *I*: D  (L).
-    - *N-I*: O        .
-- **P . D**:
-    - *D*: P     ()  . (           ).
-    - *P*: P     (z )    . (    ).
+## 🚨 Direito Tributário
+- **Isenção vs. Imunidade vs. Não-Incidência**:
+    - *Imunidade*: Vedação constitucional (CF).
+    - *Isenção*: Dispensa legal (Lei).
+    - *Não-Incidência*: O fato não se enquadra na hipótese de incidência.
+- **Prescrição vs. Decadência**:
+    - *Decadência*: Perda do direito de lançar (constituir) o crédito. (5 anos do fato gerador ou do primeiro dia do exercício seguinte).
+    - *Prescrição*: Perda do direito de cobrar (ajuizar execução) o crédito já constituído. (5 anos da constituição definitiva).
 
-##  D C
-- **E P . C . L**:
-    - *C*: N ,    .
-    - *L*: P    z    (N   ).
+## 🚨 Direito Constitucional
+- **Eficácia Plena vs. Contida vs. Limitada**:
+    - *Contida*: Nasce plena, mas lei pode restringir.
+    - *Limitada*: Precisa de lei para produzir todos os efeitos (Norma programática ou institutiva).
 
-##  C
-- **R  C . C**:
-    - A  ( DC)   **C** (  ),   / (C).
-- **P . P C**:
-    - *P*: P   (R  ).
-    - *P C*: P (A  )  R (N z ).
+## 🚨 Contabilidade
+- **Regime de Competência vs. Caixa**:
+    - A contabilidade (exceto DFC) segue a **Competência** (fator gerador econômico), não o pagamento/recebimento (Caixa).
+- **Provisão vs. Passivo Contingente**:
+    - *Provisão*: Provável e estimável (Reconhece no passivo).
+    - *Passivo Contingente*: Possível (Apenas notas explicativas) ou Remoto (Não faz nada).
 
-##  A
-- **R  A . R  N**:
-    - R  A = R  I  R  C  R  D.
+## 🚨 Auditoria
+- **Risco de Auditoria vs. Risco de Negócio**:
+    - Risco de Auditoria = Risco de Inerente x Risco de Controle x Risco de Detecção.
 
 ---
- **[[/ - P G /]]**
+🔙 **[[fisco/00 - Painel Geral Fiscal/Fiscal]]**
 
-## ️ G L
-```
- LR
-  EC("E C  Á ")
-  y EC :#,:#,-:
-  EC --> ("")
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  ErrosClssicosdareaFiscal("Erros Clássicos da Área Fiscal")
+  style ErrosClssicosdareaFiscal fill:#f9f,stroke:#333,stroke-width:4px
+  ErrosClssicosdareaFiscal --> Fiscal("Fiscal")
 ```

@@ -1,19 +1,19 @@
-# **A G**
-- ****: A    (**[[. P  D#. D:|E  E]]**).
-- **C**: É     **[[C  A P|C I  E]]**.
-- **P  P**: O A ,  z     ,   **[[/C/P  |P  P]]** .
-- **I**: P    A  L, : **[[C  D P]]**.
+# **Auditoria Governamental**
+- **Finalidade**: Avaliar a gestão pública (**[[5. Poderes e Deveres#1. Definições:|Eficiência e Economicidade]]**).
+- **Controle**: É a ferramenta operacional do **[[Controle da Administração Pública|Controle Interno e Externo]]**.
+- **Poder de Polícia**: O Auditor Fiscal, ao realizar a auditoria direta no contribuinte, exerce o **[[fisco/Conceitos/Poder de polícia|Poder de Polícia]]** administrativo.
+- **Integração**: Para a relação entre Auditoria e Lançamento, veja: **[[Conexões de Direito Público]]**.
 
-## ️ G L
-```
- LR
-  AG("A G")
-  y AG :#,:#,-:
-  CO(". C  O") --> AG
-  C("C") --> AG
-  CBD(". C   BD") --> AG
-  BIDW(". BI  DW") --> AG
-  AG --> CAP("C  A P")
-  AG --> P("P  ")
-  AG --> CDP("C  D P")
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  AuditoriaGovernamental("Auditoria Governamental")
+  style AuditoriaGovernamental fill:#f9f,stroke:#333,stroke-width:4px
+  0ConceitoseObjetivos("0. Conceitos e Objetivos") --> AuditoriaGovernamental
+  CF("CF") --> AuditoriaGovernamental
+  1ConceitosbsicosdeBD("1. Conceitos básicos de BD") --> AuditoriaGovernamental
+  6BIeDW("6. BI e DW") --> AuditoriaGovernamental
+  AuditoriaGovernamental --> ControledaAdministraoPblica("Controle da Administração Pública")
+  AuditoriaGovernamental --> Poderdepolcia("Poder de polícia")
+  AuditoriaGovernamental --> ConexesdeDireitoPblico("Conexões de Direito Público")
 ```

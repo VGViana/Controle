@@ -1,7029 +1,7029 @@
-T:: #LEI
-:: [C    (C)](://.../_//.)
-D:: // ::
+Tags:: #LEI
+Fonte:: [Constituição Federal de 1988 (CF1988)](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+Data:: 22/12/2025 12:48:24
 ***
 
-> [!] ️ R  B (M  C)
-> **GV/C:**    **[[C#^|A. ]]** (D I), **[[C#^|A. ]]** (L C), **[[C#^|A. ]]** (L - P  I)  **[[C#^|A. -A]]** (R T).
-> **CC/V:** D  **C P (A. )**  **R  R (A. -)**.
-> **J:** V [[J  (ST  STJ)]]  S V    .
+> [!danger] ☢️ Radar de Bancas (Mapa de Calor)
+> **FGV/Cebraspe:** Foco total em **[[CF#^30f4637|Art. 5º]]** (Direitos Individuais), **[[CF#^38a499e|Art. 146]]** (Lei Complementar), **[[CF#^197f612|Art. 150]]** (Limitações - Princípios e Imunidades) e **[[CF#^1a749c5|Art. 156-A]]** (Reforma Tributária).
+> **FCC/Vunesp:** Decoreba de **Competências Privativas (Art. 22)** e **Repartição de Receitas (Art. 157-162)**.
+> **Jurisprudência:** Veja [[Jurisprudência Fiscal (STF e STJ)]] para Súmulas Vinculantes que derrubam a literalidade.
 
-< ="" ="" ="" ="%"> <> < ="%"> < =""> < ="B. ( y)" ="" ="://.../_//B." =""/></> </> </> < ="%"> < =""> < ="" ="A"> <> <> <> P  R</></></></> <> C C</></> </> S  A J</></></> </> </> </>
+<table border="0" cellpadding="0" cellspacing="0" width="70%"> <tr> <td width="14%"> <p align="center"> <img alt="Brastra.gif (4376 bytes)" height="82" src="https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif" width="74"/></img> </p> </td> <td width="86%"> <p align="center"> <font color="808000" face="Arial"> <strong> <big> <big> Presidência da República</big></big><br/></br> <big> Casa Civil<br/></br> </big> Subchefia para Assuntos Jurídicos</strong></span></p> </td> </tr> </table>
 
-CONSTITUIÇÃO DA REPÚBLICA EDERATIVA DO BRASIL DE 
+CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988
 
-< ="" ="" ="" ="%"> <> < ="" ="%"> < y="-: ; -: " =""> < ="A" z=""> < ="://.../_//E/E/."> V E C  ,  </></></> < y="-: ; -: " =""> < ="A" z="">< ="://.../_//E/E/.">V E C  ,  </></></> < y="-: ; -: " =""> < ="A" z="">< ="://.../_//E/E/.">V E C  ,  </></></> < y="-: ; -: " =""> < ="A" z=""> < ="://.../_//E/E/.">(V E C  ,  )</> < ="://.../_//E/E/.">V</></></> < y="-: ; -: " =""> < ="A" z=""> < ="://.../_//E/E/.">(V E C  ,  )</> < ="://.../_//E/E/.">V</></></> </> < ="" ="%"> < ="A" z=""> < ="://.../_//E/E/_."> E C</></></> < ="" ="%"> < ="A" z=""> < ="://.../_//E/ECR/_."> E C  R</></></> </> <> < ="" ="%"> < ="" y="-: ; -:"> < ="A" z=""> < ="."> A  D C T</></></> < ="" y="-: "> < ="A" z=""> < ="://.../_//_DEC."> A        . </></></> < =""> < ="://.../_//."> < ="A" z=""> ÍNDICE TEMÁTICO</></></> </> </> </>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"> <tr> <td align="center" width="20%"> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc91.htm"> Vide Emenda Constitucional n° 91, de 2016</a></span></p> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"><a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc106.htm">Vide Emenda Constitucional n° 106, de 2020</a></span></p> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"><a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc107.htm">Vide Emenda Constitucional n° 107, de 2020</a></span></p> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htmart3">(Vide Emenda Constitucional n° 132, de 2023)</a> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htmart23">Vigência</a></span></p> <p style="margin-top: 20px; margin-bottom: 20px" align="left"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htmart4">(Vide Emenda Constitucional n° 132, de 2023)</a> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htmart23">Vigência</a></span></p> </td> <td align="center" width="26%"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/quadro_emc.htm"> Emendas Constitucionais</a></span></td> <td align="center" width="54%"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/ECR/quadro_ecr.htm"> Emendas Constitucionais de Revisão</a></span></td> </tr> <tr> <td colspan="3" width="100%"> <p align="center" style="margin-top: 20px; margin-bottom:20px"> <font face="Arial" size="2"> <a href="tmp.htmladct"> Ato das Disposições Constitucionais Transitórias</a></span></p> <p align="center" style="margin-top: 9px"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/quadro_DEC.htm"> Atos decorrentes do disposto no § 3° do art. 5°</a></span></p> <p align="center"> <a href="https://www.planalto.gov.br/ccivil_03/constituicao/indicetematico44.doc"> <font face="Arial" size="2"> ÍNDICE TEMÁTICO</span></a></p> </td> </tr> </table>
 
-T 
+Texto compilado
 
 PREÂMBULO
 
-N,    ,   A N C    E D,          ,  ,  ,  -,  ,            ,    ,      ,     ,      , ,     D,   CONSTITUIÇÃO DA REPÚBLICA EDERATIVA DO BRASIL.
+Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL.
 
-# . TÍTULO I - DOS PRINCÍPIOS UNDAMENTAIS (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO I - DOS PRINCÍPIOS UNDAMENTAIS (ARTS.  A )|R]]
-V : [[. C, P C  P ]], [[ - D C]], [[E]]
+# 1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)|Resumo]]
+Ver também: [[0. Conceito, Poder Constituinte e Princípios Fundamentais]], [[02 - Direito Constitucional]], [[Estado]]
 
-* A.  [[. C, P C  P |A R   B]],      E  M   D , -  E D  D    : ^
+* Art. 1° [[0. Conceito, Poder Constituinte e Princípios Fundamentais|A República Federativa do Brasil]], formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: ^77575b2
 
-	* I -  ; ^
+	* I - a soberania; ^358f0d8
 
-	* II -  ; ^
+	* II - a cidadania; ^9f5515b
 
-	* III -     ; ^
+	* III - a dignidade da pessoa humana; ^b2aa964
 
-	* IV -         ; (V L  .,  ) ^
+	* IV - os valores sociais do trabalho e da livre iniciativa; (Vide Lei n° 13.874, de 2019) ^fc6cb69
 
-	* V -   . ^
+	* V - o pluralismo político. ^8004c2d
 
-	* P . T     ,          ,    C. ^
+	* Parágrafo único. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição. ^660e64d
 
-* A.  S P  U,     ,  L,  E   J. ^
+* Art. 2° São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário. ^bd4f65c
 
-* A.  C    R   B: ^
+* Art. 3° Constituem objetivos fundamentais da República Federativa do Brasil: ^197f612
 
-	* I -    ,   ; ^
+	* I - construir uma sociedade livre, justa e solidária; ^270a970
 
-	* II -    ; ^
+	* II - garantir o desenvolvimento nacional; ^8d986fd
 
-	* III -   z   z  z     ; ^
+	* III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; ^236dbcc
 
-	* IV -     ,    , , , ,       . ^
+	* IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. ^2c8c335
 
-* A.  A R   B -       : ^
+* Art. 4° A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: ^1955485
 
-	* I -  ; ^
+	* I - independência nacional; ^3abf368
 
-	* II -    ; ^
+	* II - prevalência dos direitos humanos; ^669d580
 
-	* III -   ; ^
+	* III - autodeterminação dos povos; ^9162d0e
 
-	* IV - -; ^
+	* IV - não-intervenção; ^9f29ee0
 
-	* V -    E; ^
+	* V - igualdade entre os Estados; ^9adac20
 
-	* VI -   z; ^
+	* VI - defesa da paz; ^2905bc0
 
-	* VII -    ; ^
+	* VII - solução pacífica dos conflitos; ^a12cdc4
 
-	* VIII -      ; ^
+	* VIII - repúdio ao terrorismo e ao racismo; ^d59e862
 
-	* IX -         ; ^
+	* IX - cooperação entre os povos para o progresso da humanidade; ^aa5b2f1
 
-	* X -    . ^
+	* X - concessão de asilo político. ^63487e8
 
-	* P . A R   B    , ,       A L,       -  . ^
+	* Parágrafo único. A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações. ^a367782
 
-# . TÍTULO II - DOS DIREITOS E GARANTIAS UNDAMENTAIS (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO II - DOS DIREITOS E GARANTIAS UNDAMENTAIS (ARTS.  A )|R]]
-V : [[D ]], [[R C]], [[M  S]], [[A  P]], [[. D S]]
+# 2. TÍTULO II - DOS DIREITOS E GARANTIAS FUNDAMENTAIS (ARTS. 5 A 17)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2. TÍTULO II - DOS DIREITOS E GARANTIAS FUNDAMENTAIS (ARTS. 5 A 17)|Resumo]]
+Ver também: [[Direitos Fundamentais]], [[Remédios Constitucionais]], [[Mandado de Segurança]], [[Abuso de Poder]], [[5. Direitos Sociais]]
 
-## .. CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (ART. )
-[[NL/C    (C)/MOC/.. CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (ART. )|R]]
+## 2.1. CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (ART. 5)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.1. CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (ART. 5)|Resumo]]
 
-* A.  T     ,     z, -        P      ,  ,  ,     ,   : ^
+* Art. 5° Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes: ^30f4637
 
-	* I -         ,    C; ^
+	* I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição; ^85978ff
 
-	* II -     z    z       ; ^
+	* II - ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei; ^dce1dc8
 
-	* III -           ; ^
+	* III - ninguém será submetido a tortura nem a tratamento desumano ou degradante; ^575ac5a
 
-	* IV -      ,    ; ^
+	* IV - é livre a manifestação do pensamento, sendo vedado o anonimato; ^d268ac1
 
-	* V -      ,   ,   z   ,    ; ^
+	* V - é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem; ^5e2015f
 
-	* VI -         ,          ,    ,          ; ^
+	* VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias; ^40fa89b
 
-	* VII -  ,    ,             ; ^
+	* VII - é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva; ^42ac770
 
-	* VIII -                ,      -        -    ,   ; ^
+	* VIII - ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei; ^c4621eb
 
-	* IX -       , ,    ,     ; ^
+	* IX - é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença; ^bd2e94f
 
-	* X -    ,   ,       ,     z         ; ^
+	* X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação; ^eaedacb
 
-	* XI -       ,        ,        ,    , ,   ,   ; (V L  .,  ) (V) ^
+	* XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial; (Vide Lei n° 13.105, de 2015) (Vigência) ^96c4e7b
 
-	* XII -          ,      , ,   ,   ,                  ; (V L  .,  ) ^
+	* XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal; (Vide Lei n° 9.296, de 1996) ^bab8238
 
-	* XIII -       ,   ,        ; ^
+	* XIII - é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer; ^9b62699
 
-	* XIV -              ,     ; ^
+	* XIV - é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional; ^d13eabf
 
-	* XV -           z,   ,    ,  ,       ; ^
+	* XV - é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens; ^06e3aca
 
-	* XVI -   - ,  ,     ,   z,            ,        ; ^
+	* XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente; ^9e95ff4
 
-	* XVII -         ,     ; ^
+	* XVII - é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar; ^50873c0
 
-	* XVIII -     ,    ,      z,        ; ^
+	* XVIII - a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento; ^7640a02
 
-	* XIX -               , -,   ,    ; ^
+	* XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado; ^6431343
 
-	* XX -      -    ; ^
+	* XX - ninguém poderá ser compelido a associar-se ou a permanecer associado; ^c27a014
 
-	* XXI -   ,   z,         ; ^
+	* XXI - as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente; ^d04939a
 
-	* XXII -      ; ^
+	* XXII - é garantido o direito de propriedade; ^43328d1
 
-	* XXIII -       ; ^
+	* XXIII - a propriedade atenderá a sua função social; ^7867285
 
-	* XXIV -            ,    ,     z  ,      C; ^
+	* XXIV - a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição; ^9af1e70
 
-	* XXV -      ,        ,    z ,   ; ^
+	* XXV - no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano; ^e76d7be
 
-	* XXVI -    ,    ,     ,              ,           ; ^
+	* XXVI - a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento; ^04247b2
 
-	* XXVII -        z,      ,         ; ^
+	* XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar; ^b88d96e
 
-	* XXVIII -  ,    : ^
+	* XXVIII - são assegurados, nos termos da lei: ^628b2d5
 
-		* )               z ,    ; ^
+		* a) a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas; ^631d4f0
 
-		* )    z             ,         ; ^
+		* b) o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas; ^661d020
 
-	* XXIX -             z,      ,    ,         ,              P; ^
+	* XXIX - a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País; ^070ff48
 
-	* XXX -      ; ^
+	* XXX - é garantido o direito de herança; ^3dd6906
 
-	* XXXI -         P             ,            " "; ^
+	* XXXI - a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do "de cujus"; ^c0129e4
 
-	* XXXII -  E ,    ,    ; ^
+	* XXXII - o Estado promoverá, na forma da lei, a defesa do consumidor; ^30f1a0c
 
-	* XXXIII -             ,      ,     z  ,    ,             E; (R) (V L  .,  ) ^
+	* XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado; (Regulamento) (Vide Lei n° 12.527, de 2011) ^797d26c
 
-	* XXXIV -    ,     : ^
+	* XXXIV - são a todos assegurados, independentemente do pagamento de taxas: ^4450271
 
-		* )      P P           ; ^
+		* a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder; ^4cba4c0
 
-		* )       ,           ; ^
+		* b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal; ^fa269b9
 
-	* XXXV -        P J     ; ^
+	* XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito; ^114c3bd
 
-	* XXXVI -       ,        ; ^
+	* XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada; ^2fac79a
 
-	* XXXVII -   z    ; ^
+	* XXXVII - não haverá juízo ou tribunal de exceção; ^46abf33
 
-	* XXXVIII -      ,   z     , : ^
+	* XXXVIII - é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados: ^d62a1cc
 
-		* )    ; ^
+		* a) a plenitude de defesa; ^e648cab
 
-		* )    ; ^
+		* b) o sigilo das votações; ^3c3b800
 
-		* )    ; ^
+		* c) a soberania dos veredictos; ^d6eeece
 
-		* )           ; ^
+		* d) a competência para o julgamento dos crimes dolosos contra a vida; ^8e70002
 
-	* XXXIX -         ,      ; ^
+	* XXXIX - não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal; ^7e793f2
 
-	* XL -     ,     ; ^
+	* XL - a lei penal não retroagirá, salvo para beneficiar o réu; ^34328b1
 
-	* XLI -           ; ^
+	* XLI - a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais; ^6e53da3
 
-	* XLII -         ,     ,    ; ^
+	* XLII - a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei; ^aec14bf
 
-	* XLIII -               ,        ,        ,     ,     ,  -,  ; (R) ^
+	* XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem; (Regulamento) ^dbc2060
 
-	* XLIV -          ,   ,       E D; ^
+	* XLIV - constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático; ^847fcf4
 
-	* XLV -       ,               ,    ,       ,        ; ^
+	* XLV - nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido; ^d84b66c
 
-	* XLVI -     z    ,  ,  : ^
+	* XLVI - a lei regulará a individualização da pena e adotará, entre outras, as seguintes: ^241873b
 
-		* )     ; ^
+		* a) privação ou restrição da liberdade; ^2d3e052
 
-		* )   ; ^
+		* b) perda de bens; ^8afa358
 
-		* ) ; ^
+		* c) multa; ^2e897ce
 
-		* )   ; ^
+		* d) prestação social alternativa; ^5665897
 
-		* )     ; ^
+		* e) suspensão ou interdição de direitos; ^55593f4
 
-	* XLVII -   : ^
+	* XLVII - não haverá penas: ^e8379e8
 
-		* )  ,      ,    . [[#^|]], [[#^|XIX]]; ^
+		* a) de morte, salvo em caso de guerra declarada, nos termos do art. [[#^b346ba5|84]], [[#^a737d5a|XIX]]; ^da62708
 
-		* )   ; ^
+		* b) de caráter perpétuo; ^acc6332
 
-		* )   ; ^
+		* c) de trabalhos forçados; ^4f034fa
 
-		* )  ; ^
+		* d) de banimento; ^5f41e66
 
-		* ) ; ^
+		* e) cruéis; ^9aa42a0
 
-	* XLVIII -       ,     z  ,       ; ^
+	* XLVIII - a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado; ^007e3f0
 
-	* XLIX -           ; ^
+	* XLIX - é assegurado aos presos o respeito à integridade física e moral; ^4199147
 
-	* L -                 ; ^
+	* L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação; ^67c0552
 
-	* LI -    ,   z,     ,    z,            ,    ; ^
+	* LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei; ^d7e4479
 
-	* LII -            ; ^
+	* LII - não será concedida extradição de estrangeiro por crime político ou de opinião; ^1ccc5de
 
-	* LIII -         ; ^
+	* LIII - ninguém será processado nem sentenciado senão pela autoridade competente; ^b69e3d0
 
-	* LIV -              ; ^
+	* LIV - ninguém será privado da liberdade ou de seus bens sem o devido processo legal; ^79c9aee
 
-	* LV -  ,     ,            ,        ; ^
+	* LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes; ^d573e6b
 
-	* LVI -  ,  ,      ; ^
+	* LVI - são inadmissíveis, no processo, as provas obtidas por meios ilícitos; ^353dcca
 
-	* LVII -             ; ^
+	* LVII - ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória; ^22c9e39
 
-	* LVIII -         ,      ; (R) ^
+	* LVIII - o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei; (Regulamento) ^aefdcef
 
-	* LIX -         ,       z ; ^
+	* LIX - será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal; ^81e5c21
 
-	* LX -                     ; ^
+	* LX - a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem; ^20b249b
 
-	* LXI -                 ,          ,   ; ^
+	* LXI - ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei; ^49b6d3a
 
-	* LXII -                z            ; ^
+	* LXII - a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada; ^400baca
 
-	* LXIII -       ,       , -        ; ^
+	* LXIII - o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado; ^5d9b804
 
-	* LXIV -                ; ^
+	* LXIV - o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial; ^036082f
 
-	* LXV -         ; ^
+	* LXV - a prisão ilegal será imediatamente relaxada pela autoridade judiciária; ^3c399ae
 
-	* LXVI -        ,       ,    ; ^
+	* LXVI - ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança; ^c0ede91
 
-	* LXVII -      ,                 ; ^
+	* LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel; ^8166269
 
-	* LXVIII - -- [[R C|"-"]]                  ,      ; ^
+	* LXVIII - conceder-se-á [[Remédios Constitucionais|"habeas-corpus"]] sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder; ^16da261
 
-	* LXIX - -- [[M  S|  ]]      ,    "-"  "- ",                       P P; ^
+	* LXIX - conceder-se-á [[Mandado de Segurança|mandado de segurança]] para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data ", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público; ^1f431d6
 
-	* LXX -  [[M  S|   ]]    : ^
+	* LXX - o [[Mandado de Segurança|mandado de segurança coletivo]] pode ser impetrado por: ^30595c2
 
-		* )      C N; ^
+		* a) partido político com representação no Congresso Nacional; ^2dd330b
 
-		* ) z ,               ,         ; ^
+		* b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados; ^d110a08
 
-	* LXXI - -- [[R C|  ]]                      ,     ; ^
+	* LXXI - conceder-se-á [[Remédios Constitucionais|mandado de injunção]] sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania; ^7e4ddbc
 
-	* LXXII - -- [[R C|"-"]]: ^
+	* LXXII - conceder-se-á [[Remédios Constitucionais|"habeas-data"]]: ^ce16bec
 
-		* )           ,              ; ^
+		* a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; ^84c1650
 
-		* )     ,     z-   ,   ; ^
+		* b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo; ^afbacac
 
-	* LXXIII -        [[R C| ]]                E ,   ,         ,   ,   -,         ; ^
+	* LXXIII - qualquer cidadão é parte legítima para propor [[Remédios Constitucionais|ação popular]] que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência; ^f17d449
 
-	* LXXIV -  E            ; ^
+	* LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos; ^f7530d0
 
-	* LXXV -  E z     ,            ; ^
+	* LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença; ^6cb0e0b
 
-	* LXXVI -      ,    : (V L  .,  ) ^
+	* LXXVI - são gratuitos para os reconhecidamente pobres, na forma da lei: (Vide Lei n° 7.844, de 1989) ^8ac6cb3
 
-		* )     ; ^
+		* a) o registro civil de nascimento; ^1d75f60
 
-		* )    ; ^
+		* b) a certidão de óbito; ^c0f2937
 
-	* LXXVII -      "-"  "-", ,    ,       . (R) ^
+	* LXXVII - são gratuitas as ações de "habeas-corpus" e "habeas-data", e, na forma da lei, os atos necessários ao exercício da cidadania. (Regulamento) ^0087f19
 
-	* LXXVIII -  ,     ,    z             . (I  E C  ,  ) (V ADIN ) ^
+	* LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) ^0162659
 
-	* LXXIX -  ,    ,       ,    . (I  E C  ,  ) ^
+	* LXXIX - é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais. (Incluído pela Emenda Constitucional n° 115, de 2022) ^6903034
 
-	*   A          . ^
+	* § 1° As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata. ^a7776cf
 
-	*   O      C            ,        R   B  . ^
+	* § 2° Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte. ^99e3f0f
 
-	*   O          ,   C  C N,   ,        ,     . (I  E C  ,  ) (V ADIN ) (V A        .   C) ^
+	* § 3° Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) (Vide Atos decorrentes do disposto no § 3° do art. 5° da Constituição) ^9a1d41b
 
-	*   O B      T P I      . (I  E C  ,  ) ^
+	* § 4° O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. (Incluído pela Emenda Constitucional n° 45, de 2004) ^7634135
 
-## .. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS.  A )|R]]
+## 2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)|Resumo]]
 
-* A.  S    ,  ,  ,  ,  ,  ,  z,  ,   ,       ,    ,    C. (R   E C  ,  ) ^
+* Art. 6° São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional n° 90, de 2015) ^251d44c
 
-	* P . T             ,           ,          ,       (I  E C  ,  ) (V L  .,  ) ^
+	* Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide Lei n° 14.601, de 2023) ^49a969f
 
-* A.  S      ,           : ^
+* Art. 7° São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social: ^0f410c4
 
-	* I -           ,     ,   z ,   ; ^
+	* I - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos; ^fe73bea
 
-	* II - -,     ; ^
+	* II - seguro-desemprego, em caso de desemprego involuntário; ^a335086
 
-	* III -       ; ^
+	* III - fundo de garantia do tempo de serviço; ^bff636c
 
-	* IV -  ,   ,  , z              , , , , z, , ,    ,         ,       ; ^
+	* IV - salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim; ^d137e98
 
-	* V -          ; ^
+	* V - piso salarial proporcional à extensão e à complexidade do trabalho; ^756e911
 
-	* VI -   ,        ; ^
+	* VI - irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo; ^d255ee9
 
-	* VII -   ,    ,      ; ^
+	* VII - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável; ^a29bb55
 
-	* VIII -             ; ^
+	* VIII - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria; ^b7430d7
 
-	* IX -        ; ^
+	* IX - remuneração do trabalho noturno superior à do diurno; ^3f6af15
 
-	* X -       ,     ; ^
+	* X - proteção do salário na forma da lei, constituindo crime sua retenção dolosa; ^755091e
 
-	* XI -   ,  ,   , , ,     ,    ; ^
+	* XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei; ^b0278fb
 
-	* XII - -   z           ; (R   E C  ,  ) ^
+	* XII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0847d33
 
-	* XIII -               ,          ,       ; (V D-L  .,  ) ^
+	* XIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Vide Decreto-Lei n° 5.452, de 1943) ^544ec34
 
-	* XIV -        z     z,   ; ^
+	* XIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva; ^cced1f9
 
-	* XV -   ,   ; ^
+	* XV - repouso semanal remunerado, preferencialmente aos domingos; ^13418a3
 
-	* XVI -     ,  ,       ; (V D ., .   ) ^
+	* XVI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1°) ^9cab680
 
-	* XVII - z     ,  ,         ; ^
+	* XVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; ^dec1e40
 
-	* XVIII -   ,  z     ,        ; ^
+	* XVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias; ^30b33de
 
-	* XIX - -,     ; ^
+	* XIX - licença-paternidade, nos termos fixados em lei; ^c6fbc10
 
-	* XX -       ,   ,    ; ^
+	* XX - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei; ^269e85b
 
-	* XXI -       ,      ,    ; ^
+	* XXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; ^24a4f6b
 
-	* XXII -      ,      ,   ; ^
+	* XXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança; ^be2a168
 
-	* XXIII -       ,   ,    ; ^
+	* XXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei; ^a134df9
 
-	* XXIV - ; ^
+	* XXIV - aposentadoria; ^d2b3dc9
 
-	* XXV -            ()       -; (R   E C  ,  ) ^
+	* XXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^7444b20
 
-	* XXVI -        ; ^
+	* XXVI - reconhecimento das convenções e acordos coletivos de trabalho; ^1bf7257
 
-	* XXVII -     ,    ; ^
+	* XXVII - proteção em face da automação, na forma da lei; ^02079b3
 
-	* XXVIII -     ,    ,    z     ,      ; ^
+	* XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa; ^1f0f98b
 
-	* XXIX - ,        ,  z          ,             ; (R   E C  ,  ) ^
+	* XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional n° 28, de 2000) ^bee76d7
 
-		* ) (R). (R   E C  ,  ) ^
+		* a) (Revogada). (Redação dada pela Emenda Constitucional n° 28, de 2000) ^208d2ae
 
-		* ) (R). (R   E C  ,  ) ^
+		* b) (Revogada). (Redação dada pela Emenda Constitucional n° 28, de 2000) ^d9bacc1
 
-	* XXX -     ,             , ,    ; ^
+	* XXX - proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil; ^13574f6
 
-	* XXXI -                 ; ^
+	* XXXI - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência; ^3307df6
 
-	* XXXII -      ,        ; ^
+	* XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos; ^6c135de
 
-	* XXXIII -    ,       z        z ,     z,    z ; (R   E C  ,  ) ^
+	* XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^907361a
 
-	* XXXIV -               ^
+	* XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso ^dd2c4a2
 
-	* P . S            [[#^|IV]], [[#^|VI]], [[#^|VII]], [[#^|VIII]], [[#^|X]], [[#^|XIII]], [[#^|XV]], [[#^|XVI]], [[#^|XVII]], [[#^|XVIII]], [[#^|XIX]], [[#^|XXI]], [[#^|XXII]], [[#^|XXIV]], [[#^|XXVI]], [[#^|XXX]], [[#^|XXXI]]  [[#^|XXXIII]] ,               ,   ,        ,     [[#^|I]], [[#^|II]], [[#^|III]], [[#^|IX]], [[#^|XII]], [[#^|XXV]]  [[#^|XXVIII]],        . (R   E C  ,  ) ^
+	* Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos [[#^d137e98|IV]], [[#^d255ee9|VI]], [[#^a29bb55|VII]], [[#^b7430d7|VIII]], [[#^755091e|X]], [[#^544ec34|XIII]], [[#^13418a3|XV]], [[#^9cab680|XVI]], [[#^dec1e40|XVII]], [[#^30b33de|XVIII]], [[#^c6fbc10|XIX]], [[#^24a4f6b|XXI]], [[#^be2a168|XXII]], [[#^d2b3dc9|XXIV]], [[#^1bf7257|XXVI]], [[#^13574f6|XXX]], [[#^3307df6|XXXI]] e [[#^907361a|XXXIII]] e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos [[#^fe73bea|I]], [[#^a335086|II]], [[#^bff636c|III]], [[#^3f6af15|IX]], [[#^0847d33|XII]], [[#^7444b20|XXV]] e [[#^1f0f98b|XXVIII]], bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional n° 72, de 2013) ^4179389
 
-* A.  É      ,   : ^
+* Art. 8° É livre a associação profissional ou sindical, observado o seguinte: ^4778042
 
-	* I -      z  E     ,      ,   P P       z ; ^
+	* I - a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical; ^11fb825
 
-	* II -         z ,   ,      ,    ,        ,         M; ^
+	* II - é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município; ^e6ca070
 
-	* III -              ,      ; ^
+	* III - ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas; ^1e49026
 
-	* IV -       ,      ,    ,         ,      ; ^
+	* IV - a assembléia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, independentemente da contribuição prevista em lei; ^2986c80
 
-	* V -     -   -   ; ^
+	* V - ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato; ^fc379f8
 
-	* VI -           ; ^
+	* VI - é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho; ^7f4991b
 
-	* VII -            z ; ^
+	* VII - o aposentado filiado tem direito a votar e ser votado nas organizações sindicais; ^d9c8279
 
-	* VIII -       z              ,  ,   ,        ,         . ^
+	* VIII - é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei. ^6c6cebc
 
-	* P . A    -  z        ,       . ^
+	* Parágrafo único. As disposições deste artigo aplicam-se à organização de sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei estabelecer. ^4240cac
 
-* A.  É     ,         -          . ^
+* Art. 9° É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender. ^906184d
 
-	*   A                 . ^
+	* § 1° A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade. ^e49bd0f
 
-	*   O         . ^
+	* § 2° Os abusos cometidos sujeitam os responsáveis às penas da lei. ^b12d23e
 
-* A. . É                         . ^
+* Art. 10. É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação. ^68b4123
 
-* A. . N     z ,              -      . ^
+* Art. 11. Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. ^04140f2
 
-## .. CAPÍTULO III - DA NACIONALIDADE (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO III - DA NACIONALIDADE (ARTS.  A )|R]]
+## 2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)|Resumo]]
 
-* A. . S : ^
+* Art. 12. São brasileiros: ^fae93a6
 
-	* I - : ^
+	* I - natos: ^658d4e0
 
-		* )    R   B,     ,          ; ^
+		* a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país; ^452e9e4
 
-		* )    ,      ,         R   B; ^
+		* b) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil; ^f66ec68
 
-		* )           ,              R   B  ,   ,     ,   ; (R   E C  ,  ) ^
+		* c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira; (Redação dada pela Emenda Constitucional n° 54, de 2007) ^3ad78fe
 
-	* II - z: ^
+	* II - naturalizados: ^12c01b3
 
-		* )  ,    ,    ,                 ; ^
+		* a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral; ^8e7c195
 
-		* )     ,   R   B    z      ,      . (R   E C  R  ,  ) ^
+		* b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^24ad95a
 
-	*   A      P,       ,       ,      C. (R   E C  R  ,  ) ^
+	* § 1° Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
 
-	*   A          z,      C. ^
+	* § 2° A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição. ^5873957
 
-	*   S      : ^
+	* § 3° São privativos de brasileiro nato os cargos: ^882b017
 
-		* I -  P  V-P  R; ^
+		* I - de Presidente e Vice-Presidente da República; ^d8f45ab
 
-		* II -  P  C  D; ^
+		* II - de Presidente da Câmara dos Deputados; ^d97fa37
 
-		* III -  P  S ; ^
+		* III - de Presidente do Senado Federal; ^43b58cd
 
-		* IV -  M  S T ; ^
+		* IV - de Ministro do Supremo Tribunal Federal; ^ceff13b
 
-		* V -   ; ^
+		* V - da carreira diplomática; ^d5d853d
 
-		* VI -     A. ^
+		* VI - de oficial das Forças Armadas. ^e02dd15
 
-		* VII -  M  E  D. (I  E C  ,  ) ^
+		* VII - de Ministro de Estado da Defesa. (Incluído pela Emenda Constitucional n° 23, de 1999) ^147c3ba
 
-	*   - S        : ^
+	* § 4° - Será declarada a perda da nacionalidade do brasileiro que: ^ee6d597
 
-		* I -    z,   ,         z          E D; (R   E C  ,  ) ^
+		* I - tiver cancelada sua naturalização, por sentença judicial, em virtude de fraude relacionada ao processo de naturalização ou de atentado contra a ordem constitucional e o Estado Democrático; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
 
-		* II - z           ,     . (R   E C  ,  ) ^
+		* II - fizer pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
 
-			* ) ; (R   E C  ,  ) ^
+			* a) revogada; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^138643d
 
-			* ) . (R   E C  ,  ) ^
+			* b) revogada. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^dc58c98
 
-	*   A   ,     [[#^|II]]   [[#^|]]  ,          ,    . (I  E C  ,  ) ^
+	* § 5° A renúncia da nacionalidade, nos termos do inciso [[#^8d80025|II]] do § [[#^ee6d597|4°]] deste artigo, não impede o interessado de readquirir sua nacionalidade brasileira originária, nos termos da lei. (Incluído pela Emenda Constitucional n° 131, de 2023) ^351709f
 
-* A. . A        R   B. ^
+* Art. 13. A língua portuguesa é o idioma oficial da República Federativa do Brasil. ^6308548
 
-	*   S   R   B  ,  ,      . ^
+	* § 1° São símbolos da República Federativa do Brasil a bandeira, o hino, as armas e o selo nacionais. ^553cfdb
 
-	*   O E,  D    M    . ^
+	* § 2° Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios. ^4fb8abf
 
-## .. CAPÍTULO IV - DOS DIREITOS POLÍTICOS (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO IV - DOS DIREITOS POLÍTICOS (ARTS.  A )|R]]
+## 2.4. CAPÍTULO IV - DOS DIREITOS POLÍTICOS (ARTS. 14 A 16)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.4. CAPÍTULO IV - DOS DIREITOS POLÍTICOS (ARTS. 14 A 16)|Resumo]]
 
-* A. . A             ,     , ,    , : ^
+* Art. 14. A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante: ^90c0025
 
-	* I - ; ^
+	* I - plebiscito; ^f26767d
 
-	* II - ; ^
+	* II - referendo; ^fa4432a
 
-	* III -  . ^
+	* III - iniciativa popular. ^2301667
 
-	*   O      : ^
+	* § 1° O alistamento eleitoral e o voto são: ^466e846
 
-		* I -      z ; ^
+		* I - obrigatórios para os maiores de dezoito anos; ^9c10574
 
-		* II -  : ^
+		* II - facultativos para: ^3d3b98f
 
-			* )  ; ^
+			* a) os analfabetos; ^486bc8f
 
-			* )     ; ^
+			* b) os maiores de setenta anos; ^46c8db1
 
-			* )    z    z . ^
+			* c) os maiores de dezesseis e menores de dezoito anos. ^fe96723
 
-	*   N  -     ,       ,  . ^
+	* § 2° Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos. ^edef9fd
 
-	*   S   ,    : ^
+	* § 3° São condições de elegibilidade, na forma da lei: ^0df2d34
 
-		* I -   ; ^
+		* I - a nacionalidade brasileira; ^9c39d01
 
-		* II -      ; ^
+		* II - o pleno exercício dos direitos políticos; ^e61f12f
 
-		* III -   ; ^
+		* III - o alistamento eleitoral; ^9e024df
 
-		* IV -     ; ^
+		* IV - o domicílio eleitoral na circunscrição; ^26dc9a6
 
-		* V -   ; R ^
+		* V - a filiação partidária; Regulamento ^f1a3d6d
 
-		* VI -    : ^
+		* VI - a idade mínima de: ^1ec35cd
 
-			* )      P  V-P  R  S; ^
+			* a) trinta e cinco anos para Presidente e Vice-Presidente da República e Senador; ^9deb0a0
 
-			* )    G  V-G  E   D ; ^
+			* b) trinta anos para Governador e Vice-Governador de Estado e do Distrito Federal; ^9bc827d
 
-			* )      D , D E  D, P, V-P  z  z; ^
+			* c) vinte e um anos para Deputado Federal, Deputado Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz; ^f766adf
 
-			* ) z   V. ^
+			* d) dezoito anos para Vereador. ^56e6ff2
 
-	*   S      . ^
+	* § 4° São inelegíveis os inalistáveis e os analfabetos. ^379a551
 
-	*   O P  R,  G  E   D ,  P     ,              . (R   E C  ,  ) ^
+	* § 5° O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um único período subseqüente. (Redação dada pela Emenda Constitucional n° 16, de 1997) ^cc80972
 
-	*   P    ,  P  R,  G  E   D    P           . ^
+	* § 6° Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito. ^f2dc473
 
-	*   S ,      ,        ,       ,  P  R,  G  E  T,  D ,  P             ,           . ^
+	* § 7° São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consangüíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, salvo se já titular de mandato eletivo e candidato à reeleição. ^4b879bb
 
-	*   O    ,    : ^
+	* § 8° O militar alistável é elegível, atendidas as seguintes condições: ^ff683dd
 
-		* I -     z   ,  -  ; ^
+		* I - se contar menos de dez anos de serviço, deverá afastar-se da atividade; ^d87a91e
 
-		* II -     z   ,      ,  ,  ,    ,   . ^
+		* II - se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade. ^8901c1b
 
-	*   L         z   ,       ,           ,                    ,        . (R   E C  R  ,  ) ^
+	* § 9° Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para exercício de mandato considerada vida pregressa do candidato, e a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta. (Redação dada pela Emenda Constitucional de Revisão n° 4, de 1994) ^452f2ac
 
-	*   - O        J E  z  z    ,          ,   . ^
+	* § 10 - O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude. ^ca74fd6
 
-	*   - A          ,   ,    ,      -. ^
+	* § 11 - A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé. ^ff1b0ce
 
-	*  . S z             C M    J E   ()      ,         . (I  E C  ,  ) ^
+	* § 12. Serão realizadas concomitantemente às eleições municipais as consultas populares sobre questões locais aprovadas pelas Câmaras Municipais e encaminhadas à Justiça Eleitoral até 90 (noventa) dias antes da data das eleições, observados os limites operacionais relativos ao número de quesitos. (Incluído pela Emenda Constitucional n° 111, de 2021) ^583db37
 
-	*  . A               [[#^|]]     ,   z        . (I  E C  ,  ) ^
+	* § 13. As manifestações favoráveis e contrárias às questões submetidas às consultas populares nos termos do § [[#^583db37|12]] ocorrerão durante as campanhas eleitorais, sem a utilização de propaganda gratuita no rádio e na televisão. (Incluído pela Emenda Constitucional n° 111, de 2021) ^3e029e5
 
-* A. . É      ,          : ^
+* Art. 15. É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de: ^483bc20
 
-	* I -   z     ; ^
+	* I - cancelamento da naturalização por sentença transitada em julgado; ^0d77049
 
-	* II -   ; ^
+	* II - incapacidade civil absoluta; ^6d53719
 
-	* III -     ,    ; ^
+	* III - condenação criminal transitada em julgado, enquanto durarem seus efeitos; ^5d63055
 
-	* IV -          ,    . [[#^|]], [[#^|VIII]]; ^
+	* IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. [[#^30f4637|5°]], [[#^c4621eb|VIII]]; ^96a5047
 
-	* V -  ,    . [[#^|]],  [[#^|]]. ^
+	* V - improbidade administrativa, nos termos do art. [[#^73a80b7|37]], § [[#^f2517de|4°]]. ^306e093
 
-* A. . A              ,               . (R   E C  ,  ) ^
+* Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência. (Redação dada pela Emenda Constitucional n° 4, de 1993) ^29136e8
 
-## .. CAPÍTULO V - DOS PARTIDOS POLÍTICOS (ART. )
-[[NL/C    (C)/MOC/.. CAPÍTULO V - DOS PARTIDOS POLÍTICOS (ART. )|R]]
+## 2.5. CAPÍTULO V - DOS PARTIDOS POLÍTICOS (ART. 17)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.5. CAPÍTULO V - DOS PARTIDOS POLÍTICOS (ART. 17)|Resumo]]
 
-* A. . É   , ,      ,    ,   ,  ,           : R ^
+* Art. 17. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos: Regulamento ^10f159f
 
-	* I -  ; ^
+	* I - caráter nacional; ^d9baeb6
 
-	* II -                ; ^
+	* II - proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes; ^0339e85
 
-	* III -     J E; ^
+	* III - prestação de contas à Justiça Eleitoral; ^faf8818
 
-	* IV -       . ^
+	* IV - funcionamento parlamentar de acordo com a lei. ^48b1a0a
 
-	*   É               ,             z                  ,       ,          , ,   ,          . (R   E C  ,  ) ^
+	* § 1° É assegurada aos partidos políticos autonomia para definir sua estrutura interna e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações nas eleições majoritárias, vedada a sua celebração nas eleições proporcionais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária. (Redação dada pela Emenda Constitucional n° 97, de 2017) ^bc6ea2d
 
-	*   O  ,    ,     ,     T S E. ^
+	* § 2° Os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral. ^fa608d3
 
-	*   S               ,    ,     : (R   E C  ,  ) ^
+	* § 3° Somente terão direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei, os partidos políticos que alternativamente: (Redação dada pela Emenda Constitucional n° 97, de 2017) ^48d52d4
 
-		* I - ,     C  D,  , % (  )   ,          ,     % (  )       ;  (I  E C  ,  ) ^
+		* I - obtiverem, nas eleições para a Câmara dos Deputados, no mínimo, 3% (três por cento) dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com um mínimo de 2% (dois por cento) dos votos válidos em cada uma delas; ou (Incluído pela Emenda Constitucional n° 97, de 2017) ^515b086
 
-		* II -     z D           . (I  E C  ,  ) ^
+		* II - tiverem elegido pelo menos quinze Deputados Federais distribuídos em pelo menos um terço das unidades da Federação. (Incluído pela Emenda Constitucional n° 97, de 2017) ^85a4ed4
 
-	*   É   z     z . ^
+	* § 4° É vedada a utilização pelos partidos políticos de organização paramilitar. ^12e0e5f
 
-	*   A            [[#^|]]          ,    ,       ,                         . (I  E C  ,  ) ^
+	* § 5° Ao eleito por partido que não preencher os requisitos previstos no § [[#^48d52d4|3°]] deste artigo é assegurado o mandato e facultada a filiação, sem perda do mandato, a outro partido que os tenha atingido, não sendo essa filiação considerada para fins de distribuição dos recursos do fundo partidário e de acesso gratuito ao tempo de rádio e de televisão. (Incluído pela Emenda Constitucional n° 97, de 2017) ^aab8bb8
 
-	*   O D ,  D E,  D D   V             ,                 ,  ,   ,                           . (I  E C  ,  ) ^
+	* § 6° Os Deputados Federais, os Deputados Estaduais, os Deputados Distritais e os Vereadores que se desligarem do partido pelo qual tenham sido eleitos perderão o mandato, salvo nos casos de anuência do partido ou de outras hipóteses de justa causa estabelecidas em lei, não computada, em qualquer caso, a migração de partido para fins de distribuição de recursos do fundo partidário ou de outros fundos públicos e de acesso gratuito ao rádio e à televisão. (Incluído pela Emenda Constitucional n° 111, de 2021) ^f2a5cc3
 
-	*   O       % (  )                     ,      . (I  E C  ,  ) ^
+	* § 7° Os partidos políticos devem aplicar no mínimo 5% (cinco por cento) dos recursos do fundo partidário na criação e na manutenção de programas de promoção e difusão da participação política das mulheres, de acordo com os interesses intrapartidários. (Incluído pela Emenda Constitucional n° 117, de 2022) ^c4b907f
 
-	*   O    E    C          ,                    ,      % (  ),     ,      z            ,       . (I  E C  ,  ) ^
+	* § 8° O montante do Fundo Especial de Financiamento de Campanha e da parcela do fundo partidário destinada a campanhas eleitorais, bem como o tempo de propaganda gratuita no rádio e na televisão a ser distribuído pelos partidos às respectivas candidatas, deverão ser de no mínimo 30% (trinta por cento), proporcional ao número de candidatas, e a distribuição deverá ser realizada conforme critérios definidos pelos respectivos órgãos de direção e pelas normas estatutárias, considerados a autonomia e o interesse partidário. (Incluído pela Emenda Constitucional n° 117, de 2022) ^4d7921e
 
-	*   D     E    C        ,    , ,  % (  )       ,           . (I  E C  ,  ) ^
+	* § 9° Dos recursos oriundos do Fundo Especial de Financiamento de Campanha e do fundo partidário destinados às campanhas eleitorais, os partidos políticos devem, obrigatoriamente, aplicar 30% (trinta por cento) em candidaturas de pessoas pretas e pardas, nas circunscrições que melhor atendam aos interesses e às estratégias partidárias. (Incluído pela Emenda Constitucional n° 133, de 2024) ^1451246
 
-# . TÍTULO III - DA ORGANIZAÇÃO DO ESTADO (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO III - DA ORGANIZAÇÃO DO ESTADO (ARTS.  A )|R]]
+# 3. TÍTULO III - DA ORGANIZAÇÃO DO ESTADO (ARTS. 18 A 43)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3. TÍTULO III - DA ORGANIZAÇÃO DO ESTADO (ARTS. 18 A 43)|Resumo]]
 
-## .. CAPÍTULO I - DA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO I - DA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA (ARTS.  A )|R]]
+## 3.1. CAPÍTULO I - DA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA (ARTS. 18 A 19)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.1. CAPÍTULO I - DA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA (ARTS. 18 A 19)|Resumo]]
 
-* A. . A z -  R   B   U,  E,  D    M,  ,    C. ^
+* Art. 18. A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta Constituição. ^c251e03
 
-	*   B   C . ^
+	* § 1° Brasília é a Capital Federal. ^77541e1
 
-	*   O T    U,   ,   E    E       . ^
+	* § 2° Os Territórios Federais integram a União, e sua criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei complementar. ^4b5bae5
 
-	*   O E  -  , -  -     ,    E  T ,      ,   ,   C N,   . ^
+	* § 3° Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar. ^697a4dd
 
-	*   A ,  ,       M, --   ,      L C ,     ,  ,    M ,    E  V M,       . (R   E C  ,  ) V .  - ADCT ^
+	* § 4° A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. (Redação dada pela Emenda Constitucional n° 15, de 1996) Vide art. 96 - ADCT ^76b0140
 
-* A. . É   U,  E,  D    M: ^
+* Art. 19. É vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^b8fe562
 
-	* I -     , -, -              , ,    ,     ; ^
+	* I - estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público; ^7ea4fba
 
-	* II -     ; ^
+	* II - recusar fé aos documentos públicos; ^feb85e0
 
-	* III -        . ^
+	* III - criar distinções entre brasileiros ou preferências entre si. ^bccf94d
 
-## .. CAPÍTULO II - DA UNIÃO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO II - DA UNIÃO (ARTS.  A )|R]]
+## 3.2. CAPÍTULO II - DA UNIÃO (ARTS. 20 A 24)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.2. CAPÍTULO II - DA UNIÃO (ARTS. 20 A 24)|Resumo]]
 
-* A. . S   U: ^
+* Art. 20. São bens da União: ^7798582
 
-	* I -             ; ^
+	* I - os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos; ^324221a
 
-	* II -        ,     ,         ,   ; ^
+	* II - as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções militares, das vias federais de comunicação e à preservação ambiental, definidas em lei; ^b30ce1c
 
-	* III -  ,           ,       E,      ,         ,         ; ^
+	* III - os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem mais de um Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham, bem como os terrenos marginais e as praias fluviais; ^58ad717
 
-	* IV       z    ;   ;      , , ,       M,            ,     . [[#^|]], [[#^|II]]; (R   E C  ,  ) ^
+	* IV as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a sede de Municípios, exceto aquelas áreas afetadas ao serviço público e a unidade ambiental federal, e as referidas no art. [[#^e0d9bc8|26]], [[#^0ba22ef|II]]; (Redação dada pela Emenda Constitucional n° 46, de 2005) ^db67652
 
-	* V -         z  ; ^
+	* V - os recursos naturais da plataforma continental e da zona econômica exclusiva; ^c18d8f6
 
-	* VI -   ; ^
+	* VI - o mar territorial; ^cdafbb0
 
-	* VII -       ; ^
+	* VII - os terrenos de marinha e seus acrescidos; ^aeb129d
 
-	* VIII -     ; ^
+	* VIII - os potenciais de energia hidráulica; ^9976b5c
 
-	* IX -   ,    ; ^
+	* IX - os recursos minerais, inclusive os do subsolo; ^11c907f
 
-	* X -          -; ^
+	* X - as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos; ^ac1262c
 
-	* XI -      . ^
+	* XI - as terras tradicionalmente ocupadas pelos índios. ^38b61e0
 
-	*   É ,    ,  U,  E,  D    M           ,                  ,  ,    z  ,      . (R   E C  ,  ) (P  ) ^
+	* § 1° É assegurada, nos termos da lei, à União, aos Estados, ao Distrito Federal e aos Municípios a participação no resultado da exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica e de outros recursos minerais no respectivo território, plataforma continental, mar territorial ou zona econômica exclusiva, ou compensação financeira por essa exploração. (Redação dada pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^10761bc
 
-	*   A         ,     ,     ,        ,     z    . ^
+	* § 2° A faixa de até cento e cinqüenta quilômetros de largura, ao longo das fronteiras terrestres, designada como faixa de fronteira, é considerada fundamental para defesa do território nacional, e sua ocupação e utilização serão reguladas em lei. ^92743a7
 
-* A. . C  U: ^
+* Art. 21. Compete à União: ^41903be
 
-	* I -    E     z ; ^
+	* I - manter relações com Estados estrangeiros e participar de organizações internacionais; ^ecd8204
 
-	* II -       z; ^
+	* II - declarar a guerra e celebrar a paz; ^a5fa2f2
 
-	* III -    ; ^
+	* III - assegurar a defesa nacional; ^45e4b13
 
-	* IV - ,      ,           ; ^
+	* IV - permitir, nos casos previstos em lei complementar, que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente; ^864f08d
 
-	* V -     ,        ; ^
+	* V - decretar o estado de sítio, o estado de defesa e a intervenção federal; ^a3e54c6
 
-	* VI - z  z        ; ^
+	* VI - autorizar e fiscalizar a produção e o comércio de material bélico; ^d545049
 
-	* VII -  ; ^
+	* VII - emitir moeda; ^8d5fd44
 
-	* VIII -      P  z    z ,    ,   z,         ; ^
+	* VIII - administrar as reservas cambiais do País e fiscalizar as operações de natureza financeira, especialmente as de crédito, câmbio e capitalização, bem como as de seguros e de previdência privada; ^64c9dcb
 
-	* IX -                 ; ^
+	* IX - elaborar e executar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social; ^77337a0
 
-	* X -         ; ^
+	* X - manter o serviço postal e o correio aéreo nacional; ^458c858
 
-	* XI - ,    z,   ,    ,    ,     z  ,          ; (R   E C  ,  //:) ^
+	* XI - explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços de telecomunicações, nos termos da lei, que disporá sobre a organização dos serviços, a criação de um órgão regulador e outros aspectos institucionais; (Redação dada pela Emenda Constitucional n° 8, de 15/08/95:) ^c7771c6
 
-	* XII - ,    z,   : ^
+	* XII - explorar, diretamente ou mediante autorização, concessão ou permissão: ^f35b79c
 
-		* )     ,     ; (R   E C  ,  //:) ^
+		* a) os serviços de radiodifusão sonora, e de sons e imagens; (Redação dada pela Emenda Constitucional n° 8, de 15/08/95:) ^a236785
 
-		* )               ,     E      ; ^
+		* b) os serviços e instalações de energia elétrica e o aproveitamento energético dos cursos de água, em articulação com os Estados onde se situam os potenciais hidroenergéticos; ^a0d7d47
 
-		* )   ,    - ; ^
+		* c) a navegação aérea, aeroespacial e a infra-estrutura aeroportuária; ^08581d7
 
-		* )             ,       E  T; ^
+		* d) os serviços de transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais, ou que transponham os limites de Estado ou Território; ^7f54033
 
-		* )          ; ^
+		* e) os serviços de transporte rodoviário interestadual e internacional de passageiros; ^4699fb5
 
-		* )   ,   ; ^
+		* f) os portos marítimos, fluviais e lacustres; ^efe1ac3
 
-	* XIII - z    P J,  M P  D    T   D P  T; (R   E C  ,  ) (P  ) ^
+	* XIII - organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios; (Redação dada pela Emenda Constitucional n° 69, de 2012) (Produção de efeito) ^629d5b5
 
-	* XIV - z     ,   ,           D ,       D       ,     ; (R   E C  ,  ) ^
+	* XIV - organizar e manter a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio; (Redação dada pela Emenda Constitucional n° 104, de 2019) ^4d21863
 
-	* XV - z       , ,      ; ^
+	* XV - organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional; ^864adf4
 
-	* XVI -   ,   ,          ; ^
+	* XVI - exercer a classificação, para efeito indicativo, de diversões públicas e de programas de rádio e televisão; ^afcdbbd
 
-	* XVII -  ; ^
+	* XVII - conceder anistia; ^d31f838
 
-	* XVIII -          ,      ; ^
+	* XVIII - planejar e promover a defesa permanente contra as calamidades públicas, especialmente as secas e as inundações; ^732d939
 
-	* XIX -                  ; (R) ^
+	* XIX - instituir sistema nacional de gerenciamento de recursos hídricos e definir critérios de outorga de direitos de seu uso; (Regulamento) ^6ab3457
 
-	* XX -  z    ,  ,     ; ^
+	* XX - instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e transportes urbanos; ^08219c0
 
-	* XXI -    z      ; ^
+	* XXI - estabelecer princípios e diretrizes para o sistema nacional de viação; ^0aa5ae7
 
-	* XXII -      ,    ; (R   E C  ,  ) ^
+	* XXII - executar os serviços de polícia marítima, aeroportuária e de fronteiras; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^4ad7621
 
-	* XXIII -         z       ,  ,    ,  z         ,      : ^
+	* XXIII - explorar os serviços e instalações nucleares de qualquer natureza e exercer monopólio estatal sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições: ^9268855
 
-		* )                 C N; ^
+		* a) toda atividade nuclear em território nacional somente será admitida para fins pacíficos e mediante aprovação do Congresso Nacional; ^6508ca8
 
-		* )    ,  z  z   z         ; (R   E C  ,  ) ^
+		* b) sob regime de permissão, são autorizadas a comercialização e a utilização de radioisótopos para pesquisa e uso agrícolas e industriais; (Redação dada pela Emenda Constitucional n° 118, de 2022) ^a94ea99
 
-		* )    ,  z  ,  z   z       ; (R   E C  ,  ) ^
+		* c) sob regime de permissão, são autorizadas a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos; (Redação dada pela Emenda Constitucional n° 118, de 2022) ^95d6082
 
-		* )           ; (I  E C  ,  ) ^
+		* d) a responsabilidade civil por danos nucleares independe da existência de culpa; (Incluída pela Emenda Constitucional n° 49, de 2006) ^249488e
 
-	* XXIV - z,       ; ^
+	* XXIV - organizar, manter e executar a inspeção do trabalho; ^0369ff7
 
-	* XXV -             ,   . ^
+	* XXV - estabelecer as áreas e as condições para o exercício da atividade de garimpagem, em forma associativa. ^2d712cb
 
-	* XXVI - z  z        ,    . (I  E C  ,  ) ^
+	* XXVI - organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei. (Incluído pela Emenda Constitucional n° 115, de 2022) ^0ff94d3
 
-* A. . C   U  : ^
+* Art. 22. Compete privativamente à União legislar sobre: ^1687197
 
-	* I -  , , , , , , , ,    ; ^
+	* I - direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho; ^f6664dd
 
-	* II - ; ^
+	* II - desapropriação; ^aca6aed
 
-	* III -    ,          ; ^
+	* III - requisições civis e militares, em caso de iminente perigo e em tempo de guerra; ^2540cf8
 
-	* IV - , , ,   ; ^
+	* IV - águas, energia, informática, telecomunicações e radiodifusão; ^93eec74
 
-	* V -  ; ^
+	* V - serviço postal; ^fdb1ffc
 
-	* VI -     ,     ; ^
+	* VI - sistema monetário e de medidas, títulos e garantias dos metais; ^909bd91
 
-	* VII -   , ,     ; ^
+	* VII - política de crédito, câmbio, seguros e transferência de valores; ^46c2bce
 
-	* VIII -    ; ^
+	* VIII - comércio exterior e interestadual; ^9da39f4
 
-	* IX - z     ; ^
+	* IX - diretrizes da política nacional de transportes; ^09eff14
 
-	* X -   ,  , , ,   ; ^
+	* X - regime dos portos, navegação lacustre, fluvial, marítima, aérea e aeroespacial; ^579d630
 
-	* XI -   ; ^
+	* XI - trânsito e transporte; ^5d698ab
 
-	* XII - z, ,     ; ^
+	* XII - jazidas, minas, outros recursos minerais e metalurgia; ^086c3a1
 
-	* XIII - ,   z; ^
+	* XIII - nacionalidade, cidadania e naturalização; ^a060e32
 
-	* XIV -  ; ^
+	* XIV - populações indígenas; ^25bef7b
 
-	* XV -   , ,     ; ^
+	* XV - emigração e imigração, entrada, extradição e expulsão de estrangeiros; ^8154e68
 
-	* XVI - z            ; ^
+	* XVI - organização do sistema nacional de emprego e condições para o exercício de profissões; ^ae25660
 
-	* XVII - z ,  M P  D    T   D P  T,   z  ; (R   E C  ,  ) (P  ) ^
+	* XVII - organização judiciária, do Ministério Público do Distrito Federal e dos Territórios e da Defensoria Pública dos Territórios, bem como organização administrativa destes; (Redação dada pela Emenda Constitucional n° 69, de 2012) (Produção de efeito) ^18431ed
 
-	* XVIII -  ,      ; ^
+	* XVIII - sistema estatístico, sistema cartográfico e de geologia nacionais; ^d511393
 
-	* XIX -   ,      ; ^
+	* XIX - sistemas de poupança, captação e garantia da poupança popular; ^fb040db
 
-	* XX -     ; ^
+	* XX - sistemas de consórcios e sorteios; ^a27eb7d
 
-	* XXI -    z, ,  , , , z,            ; (R   E C  ,  ) ^
+	* XXI - normas gerais de organização, efetivos, material bélico, garantias, convocação, mobilização, inatividades e pensões das polícias militares e dos corpos de bombeiros militares; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^874ea21
 
-	* XXII -           ; ^
+	* XXII - competência da polícia federal e das polícias rodoviária e ferroviária federais; ^3821c39
 
-	* XXIII -  ; ^
+	* XXIII - seguridade social; ^ae90a29
 
-	* XXIV - z     ; ^
+	* XXIV - diretrizes e bases da educação nacional; ^1c99015
 
-	* XXV -  ; ^
+	* XXV - registros públicos; ^db3f201
 
-	* XXVI -     z; ^
+	* XXVI - atividades nucleares de qualquer natureza; ^2acca45
 
-	* XXVII -      ,    ,     ,     U, E, D   M,     . [[#^|]], [[#^|XXI]],          ,    . [[#^|]],  [[#^|]], [[#^|III]]; (R   E C  ,  ) ^
+	* XXVII - normas gerais de licitação e contratação, em todas as modalidades, para as administrações públicas diretas, autárquicas e fundacionais da União, Estados, Distrito Federal e Municípios, obedecido o disposto no art. [[#^73a80b7|37]], [[#^ea6996f|XXI]], e para as empresas públicas e sociedades de economia mista, nos termos do art. [[#^743ea35|173]], § [[#^f1a0d52|1°]], [[#^70d0450|III]]; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^36ef691
 
-	* XXVIII -  ,  ,  ,    z ; ^
+	* XXVIII - defesa territorial, defesa aeroespacial, defesa marítima, defesa civil e mobilização nacional; ^dc7f8e7
 
-	* XXIX -  . ^
+	* XXIX - propaganda comercial. ^f9e42c6
 
-	* XXX -      . (I  E C  ,  ) ^
+	* XXX - proteção e tratamento de dados pessoais. (Incluído pela Emenda Constitucional n° 115, de 2022) ^1b49e96
 
-	* P . L   z  E          . ^
+	* Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo. ^5d85618
 
-* A. . É    U,  E,  D    M: ^
+* Art. 23. É competência comum da União, dos Estados, do Distrito Federal e dos Municípios: ^382bb16
 
-	* I - z    C,           ; ^
+	* I - zelar pela guarda da Constituição, das leis e das instituições democráticas e conservar o patrimônio público; ^57b7961
 
-	* II -      ,         ; (V ADP ) ^
+	* II - cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de deficiência; (Vide ADPF 672) ^22c117d
 
-	* III -   ,        ,   ,  ,        ; ^
+	* III - proteger os documentos, as obras e outros bens de valor histórico, artístico e cultural, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos; ^2477b1c
 
-	* IV -   ,     z           ,   ; ^
+	* IV - impedir a evasão, a destruição e a descaracterização de obras de arte e de outros bens de valor histórico, artístico ou cultural; ^6184e03
 
-	* V -       ,  ,  ,  ,     ; (R   E C  ,  ) ^
+	* V - proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à inovação; (Redação dada pela Emenda Constitucional n° 85, de 2015) ^dc5253e
 
-	* VI -             ; ^
+	* VI - proteger o meio ambiente e combater a poluição em qualquer de suas formas; ^9144640
 
-	* VII -   ,     ; ^
+	* VII - preservar as florestas, a fauna e a flora; ^35b029a
 
-	* VIII -      z   ; ^
+	* VIII - fomentar a produção agropecuária e organizar o abastecimento alimentar; ^b6598ca
 
-	* IX -                ; (V ADP ) ^
+	* IX - promover programas de construção de moradias e a melhoria das condições habitacionais e de saneamento básico; (Vide ADPF 672) ^91df210
 
-	* X -     z     z,       ; ^
+	* X - combater as causas da pobreza e os fatores de marginalização, promovendo a integração social dos setores desfavorecidos; ^58564be
 
-	* XI - ,   z                ; ^
+	* XI - registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e exploração de recursos hídricos e minerais em seus territórios; ^bc0b191
 
-	* XII -           . ^
+	* XII - estabelecer e implantar política de educação para a segurança do trânsito. ^a05ad14
 
-	* P . L         U   E,  D    M,          -   . (R   E C  ,  ) ^
+	* Parágrafo único. Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional. (Redação dada pela Emenda Constitucional n° 53, de 2006) ^e98793c
 
-* A. . C  U,  E   D    : ^
+* Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre: ^4c71af5
 
-	* I -  , , ,   ; (V L  .,  ) ^
+	* I - direito tributário, financeiro, penitenciário, econômico e urbanístico; (Vide Lei n° 13.874, de 2019) ^ce2a17f
 
-	* II - ; ^
+	* II - orçamento; ^40e66ae
 
-	* III -  ; ^
+	* III - juntas comerciais; ^6a785d4
 
-	* IV -    ; ^
+	* IV - custas dos serviços forenses; ^b4e5038
 
-	* V -   ; ^
+	* V - produção e consumo; ^1b73ca8
 
-	* VI - , , , ,   z,       ,        ; ^
+	* VI - florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais, proteção do meio ambiente e controle da poluição; ^d4a51a1
 
-	* VII -    , , ,   ; ^
+	* VII - proteção ao patrimônio histórico, cultural, artístico, turístico e paisagístico; ^d5e70ee
 
-	* VIII -      ,  ,       , , ,   ; ^
+	* VIII - responsabilidade por dano ao meio ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico; ^c6a0b72
 
-	* IX - , , , , , , ,   ; (R   E C  ,  ) ^
+	* IX - educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa, desenvolvimento e inovação; (Redação dada pela Emenda Constitucional n° 85, de 2015) ^9011bb4
 
-	* X - ,     z   ; ^
+	* X - criação, funcionamento e processo do juizado de pequenas causas; ^3cd7860
 
-	* XI -    ; ^
+	* XI - procedimentos em matéria processual; ^ca45b24
 
-	* XII -  ,     ; (V ADP ) ^
+	* XII - previdência social, proteção e defesa da saúde; (Vide ADPF 672) ^9a5cc16
 
-	* XIII -    D ; ^
+	* XIII - assistência jurídica e Defensoria pública; ^2aba0cd
 
-	* XIV -         ; ^
+	* XIV - proteção e integração social das pessoas portadoras de deficiência; ^fef03a2
 
-	* XV -      ; ^
+	* XV - proteção à infância e à juventude; ^60ebde5
 
-	* XVI - z, ,      . ^
+	* XVI - organização, garantias, direitos e deveres das polícias civis. ^46e6f88
 
-	*   N    ,    U --    . (V L  .,  ) ^
+	* § 1° No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais. (Vide Lei n° 13.874, de 2019) ^62828bf
 
-	*   A   U            E. (V L  .,  ) ^
+	* § 2° A competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados. (Vide Lei n° 13.874, de 2019) ^f32ea15
 
-	*   I     ,  E     ,     . (V L  .,  ) ^
+	* § 3° Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades. (Vide Lei n° 13.874, de 2019) ^44c7b8a
 
-	*   A             ,     . (V L  .,  ) ^
+	* § 4° A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário. (Vide Lei n° 13.874, de 2019) ^e1f5c3e
 
-## .. CAPÍTULO III - DOS ESTADOS EDERADOS (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO III - DOS ESTADOS EDERADOS (ARTS.  A )|R]]
+## 3.3. CAPÍTULO III - DOS ESTADOS FEDERADOS (ARTS. 25 A 28)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.3. CAPÍTULO III - DOS ESTADOS FEDERADOS (ARTS. 25 A 28)|Resumo]]
 
-* A. . O E z-  -  C    ,     C. ^
+* Art. 25. Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição. ^2412c38
 
-	*   S   E          C. ^
+	* § 1° São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição. ^3c6038c
 
-	*   C  E  ,   ,      z,    ,          . (R   E C  ,  ) ^
+	* § 2° Cabe aos Estados explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado, na forma da lei, vedada a edição de medida provisória para a sua regulamentação. (Redação dada pela Emenda Constitucional n° 5, de 1995) ^5446467
 
-	*   O E ,   ,   ,    ,      ,    z,           . ^
+	* § 3° Os Estados poderão, mediante lei complementar, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum. ^d54cf77
 
-* A. . I-     E: ^
+* Art. 26. Incluem-se entre os bens dos Estados: ^e0d9bc8
 
-	* I -     , ,    , ,  ,    ,      U; ^
+	* I - as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas, neste caso, na forma da lei, as decorrentes de obras da União; ^7f0747a
 
-	* II -  ,     ,     ,      U, M  ; ^
+	* II - as áreas, nas ilhas oceânicas e costeiras, que estiverem no seu domínio, excluídas aquelas sob domínio da União, Municípios ou terceiros; ^0ba22ef
 
-	* III -         U; ^
+	* III - as ilhas fluviais e lacustres não pertencentes à União; ^3b1423c
 
-	* IV -         U. ^
+	* IV - as terras devolutas não compreendidas entre as da União. ^69f0bdb
 
-* A. . O   D  A L       E  C  D ,       ,        D    z. ^
+* Art. 27. O número de Deputados à Assembléia Legislativa corresponderá ao triplo da representação do Estado na Câmara dos Deputados e, atingido o número de trinta e seis, será acrescido de tantos quantos forem os Deputados Federais acima de doze. ^f316d70
 
-	*   S       D E, - -    C   , , , ,   , ,      A. ^
+	* § 1° Será de quatro anos o mandato dos Deputados Estaduais, aplicando- sê-lhes as regras desta Constituição sobre sistema eleitoral, inviolabilidade, imunidades, remuneração, perda de mandato, licença, impedimentos e incorporação às Forças Armadas. ^321c719
 
-	*   O   D E        A L,  z ,  ,       ,  ,   D ,      . [[#^|]],  [[#^|]], [[#^|]],  [[#^|]], [[#^|]], [[#^|II]], [[#^|]], [[#^|III]],  [[#^|]],  [[#^|]], [[#^|I]]. (R   E C  ,  ) ^
+	* § 2° O subsídio dos Deputados Estaduais será fixado por lei de iniciativa da Assembléia Legislativa, na razão de, no máximo, setenta e cinco por cento daquele estabelecido, em espécie, para os Deputados Federais, observado o que dispõem os arts. [[#^a4b00e0|39]], § [[#^51bdef8|4°]], [[#^4c66ff2|57]], § [[#^013fada|7°]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^c4fc2cc
 
-	*   C  A L     ,       ,     . ^
+	* § 3° Compete às Assembléias Legislativas dispor sobre seu regimento interno, polícia e serviços administrativos de sua secretaria, e prover os respectivos cargos. ^3f6c3cf
 
-	*   A          . ^
+	* § 4° A lei disporá sobre a iniciativa popular no processo legislativo estadual. ^2734665
 
-* A. . A   G   V-G  E,     () , z--     ,   ,      ,   ,  ,           ,           , ,   ,    . [[#^|]]  C. (R   E C  ,  ) ^
+* Art. 28. A eleição do Governador e do Vice-Governador de Estado, para mandato de 4 (quatro) anos, realizar-se-á no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato de seus antecessores, e a posse ocorrerá em 6 de janeiro do ano subsequente, observado, quanto ao mais, o disposto no art. [[#^45e2cfb|77]] desta Constituição. (Redação dada pela Emenda Constitucional n° 111, de 2021) ^a3a0ad1
 
-	*   P    G            ,              . [[#^|]], [[#^|I]], [[#^|IV]]  [[#^|V]]. (R   ,  E C  ,  ) ^
+	* § 1° Perderá o mandato o Governador que assumir outro cargo ou função na administração pública direta ou indireta, ressalvada a posse em virtude de concurso público e observado o disposto no art. [[#^fb97d1e|38]], [[#^4004247|I]], [[#^c6bd395|IV]] e [[#^9e8dc43|V]]. (Renumerado do parágrafo único, pela Emenda Constitucional n° 19, de 1998) ^657d37f
 
-	*   O   G,  V-G   S  E        A L,      . [[#^|]], [[#^|XI]], [[#^|]],  [[#^|]], [[#^|]], [[#^|II]], [[#^|]], [[#^|III]],  [[#^|]],  [[#^|]], [[#^|I]]. (I  E C  ,  ) ^
+	* § 2° Os subsídios do Governador, do Vice-Governador e dos Secretários de Estado serão fixados por lei de iniciativa da Assembléia Legislativa, observado o que dispõem os arts. [[#^73a80b7|37]], [[#^3af496b|XI]], [[#^a4b00e0|39]], § [[#^51bdef8|4°]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]. (Incluído pela Emenda Constitucional n° 19, de 1998) ^f868764
 
-## .. CAPÍTULO IV - DOS MUNICÍPIOS (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO IV - DOS MUNICÍPIOS (ARTS.  A )|R]]
+## 3.4. CAPÍTULO IV - DOS MUNICÍPIOS (ARTS. 29 A 31)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.4. CAPÍTULO IV - DOS MUNICÍPIOS (ARTS. 29 A 31)|Resumo]]
 
-* A. . O M --   ,    ,      z ,         C M,   ,      C,  C   E    : ^
+* Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos: ^459c68c
 
-	* I -   P,  V-P   V,     ,      z    P; ^
+	* I - eleição do Prefeito, do Vice-Prefeito e dos Vereadores, para mandato de quatro anos, mediante pleito direto e simultâneo realizado em todo o País; ^f11bfe5
 
-	* II -   P   V-P z                ,     . [[#^|]],    M    z  ; (R   E C  ,  ) ^
+	* II - eleição do Prefeito e do Vice-Prefeito realizada no primeiro domingo de outubro do ano anterior ao término do mandato dos que devam suceder, aplicadas as regras do art. [[#^45e2cfb|77]], no caso de Municípios com mais de duzentos mil eleitores; (Redação dada pela Emenda Constitucional n° 16, de 1997) ^ed827a4
 
-	* III -   P   V-P           ; ^
+	* III - posse do Prefeito e do Vice-Prefeito no dia 1° de janeiro do ano subseqüente ao da eleição; ^02137cd
 
-	* IV -     C M,      : (R   E C C  ,  ) (P  ) (V ADIN ) ^
+	* IV - para a composição das Câmaras Municipais, será observado o limite máximo de: (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) (Produção de efeito) (Vide ADIN 4307) ^34f895d
 
-		* )  () V,  M   . (z ) ; (R   E C C  ,  ) ^
+		* a) 9 (nove) Vereadores, nos Municípios de até 15.000 (quinze mil) habitantes; (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) ^fadb357
 
-		* )  (z) V,  M    . (z )     . ( ) ; (R   E C C  ,  ) ^
+		* b) 11 (onze) Vereadores, nos Municípios de mais de 15.000 (quinze mil) habitantes e de até 30.000 (trinta mil) habitantes; (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) ^a18934d
 
-		* )  (z) V,  M    . ( )     . ( ) ; (R   E C C  ,  ) ^
+		* c) 13 (treze) Vereadores, nos Municípios com mais de 30.000 (trinta mil) habitantes e de até 50.000 (cinquenta mil) habitantes; (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) ^70dd4fe
 
-		* )  (z) V,  M    . ( )     . ( ) ; (I  E C C  ,  ) ^
+		* d) 15 (quinze) Vereadores, nos Municípios de mais de 50.000 (cinquenta mil) habitantes e de até 80.000 (oitenta mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^b3dd001
 
-		* )  (z) V,  M    . ( )     . (   ) ; (I  E C C  ,  ) ^
+		* e) 17 (dezessete) Vereadores, nos Municípios de mais de 80.000 (oitenta mil) habitantes e de até 120.000 (cento e vinte mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^389cb23
 
-		* )  (z) V,  M    . (   )     . (  ) ; (I  E C C  ,  ) ^
+		* f) 19 (dezenove) Vereadores, nos Municípios de mais de 120.000 (cento e vinte mil) habitantes e de até 160.000 (cento sessenta mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^1e40666
 
-		* )  (  ) V,  M    . (   )     . (z ) ; (I  E C C  ,  ) ^
+		* g) 21 (vinte e um) Vereadores, nos Municípios de mais de 160.000 (cento e sessenta mil) habitantes e de até 300.000 (trezentos mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^b0c3202
 
-		* )  (  ) V,  M    . (z )     . (   ) ; (I  E C C  ,  ) ^
+		* h) 23 (vinte e três) Vereadores, nos Municípios de mais de 300.000 (trezentos mil) habitantes e de até 450.000 (quatrocentos e cinquenta mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^c627902
 
-		* )  (  ) V,  M    . (   )     . ( ) ; (I  E C C  ,  ) ^
+		* i) 25 (vinte e cinco) Vereadores, nos Municípios de mais de 450.000 (quatrocentos e cinquenta mil) habitantes e de até 600.000 (seiscentos mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^8582cf1
 
-		* )  (  ) V,  M    . ( )     . (  ) ; (I  E C C  ,  ) ^
+		* j) 27 (vinte e sete) Vereadores, nos Municípios de mais de 600.000 (seiscentos mil) habitantes e de até 750.000 (setecentos cinquenta mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^4463dc5
 
-		* )  (  ) V,  M    . (   )     . ( ) ; (I  E C C  ,  ) ^
+		* k) 29 (vinte e nove) Vereadores, nos Municípios de mais de 750.000 (setecentos e cinquenta mil) habitantes e de até 900.000 (novecentos mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^9529e73
 
-		* )  (  ) V,  M    . ( )     .. (    ) ; (I  E C C  ,  ) ^
+		* l) 31 (trinta e um) Vereadores, nos Municípios de mais de 900.000 (novecentos mil) habitantes e de até 1.050.000 (um milhão e cinquenta mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^e055473
 
-		* )  (  ) V,  M    .. (    )     .. (   z ) ; (I  E C C  ,  ) ^
+		* m) 33 (trinta e três) Vereadores, nos Municípios de mais de 1.050.000 (um milhão e cinquenta mil) habitantes e de até 1.200.000 (um milhão e duzentos mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^59db078
 
-		* )  (  ) V,  M    .. (   z )     .. (   z   ) ; (I  E C C  ,  ) ^
+		* n) 35 (trinta e cinco) Vereadores, nos Municípios de mais de 1.200.000 (um milhão e duzentos mil) habitantes e de até 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^9a64e89
 
-		* )  (  ) V,  M  .. (   z   )     .. (    ) ; (I  E C C  ,  ) ^
+		* o) 37 (trinta e sete) Vereadores, nos Municípios de 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes e de até 1.500.000 (um milhão e quinhentos mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^231557e
 
-		* )  (  ) V,  M    .. (    )     .. (    ) ; (I  E C C  ,  ) ^
+		* p) 39 (trinta e nove) Vereadores, nos Municípios de mais de 1.500.000 (um milhão e quinhentos mil) habitantes e de até 1.800.000 (um milhão e oitocentos mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^02cd201
 
-		* )  (  ) V,  M    .. (    )     .. (    ) ; (I  E C C  ,  ) ^
+		* q) 41 (quarenta e um) Vereadores, nos Municípios de mais de 1.800.000 (um milhão e oitocentos mil) habitantes e de até 2.400.000 (dois milhões e quatrocentos mil) habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^42ec604
 
-		* )  (  ) V,  M    .. (    )     .. ( )  ; (I  E C C  ,  ) ^
+		* r) 43 (quarenta e três) Vereadores, nos Municípios de mais de 2.400.000 (dois milhões e quatrocentos mil) habitantes e de até 3.000.000 (três milhões) de habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^f3582c4
 
-		* )  (  ) V,  M    .. ( )      .. ( )  ; (I  E C C  ,  ) ^
+		* s) 45 (quarenta e cinco) Vereadores, nos Municípios de mais de 3.000.000 (três milhões) de habitantes e de até 4.000.000 (quatro milhões) de habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^97f83b2
 
-		* )  (  ) V,  M    .. ( )      .. ( )  ; (I  E C C  ,  ) ^
+		* t) 47 (quarenta e sete) Vereadores, nos Municípios de mais de 4.000.000 (quatro milhões) de habitantes e de até 5.000.000 (cinco milhões) de habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^c320985
 
-		* )  (  ) V,  M    .. ( )      .. ( )  ; (I  E C C  ,  ) ^
+		* u) 49 (quarenta e nove) Vereadores, nos Municípios de mais de 5.000.000 (cinco milhões) de habitantes e de até 6.000.000 (seis milhões) de habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^144d25a
 
-		* )  (  ) V,  M    .. ( )      .. ( )  ; (I  E C C  ,  ) ^
+		* v) 51 (cinquenta e um) Vereadores, nos Municípios de mais de 6.000.000 (seis milhões) de habitantes e de até 7.000.000 (sete milhões) de habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^ceb5259
 
-		* )  (  ) V,  M    .. ( )      .. ( )  ;  (I  E C C  ,  ) ^
+		* w) 53 (cinquenta e três) Vereadores, nos Municípios de mais de 7.000.000 (sete milhões) de habitantes e de até 8.000.000 (oito milhões) de habitantes; e (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^b383bfe
 
-		* )  (  ) V,  M    .. ( )  ; (I  E C C  ,  ) ^
+		* x) 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito milhões) de habitantes; (Incluída pela Emenda Constituição Constitucional n° 58, de 2009) ^81eb8f9
 
-	* V -   P,  V-P   S M       C M,      . [[#^|]], [[#^|XI]], [[#^|]],  [[#^|]], [[#^|]], [[#^|II]], [[#^|]], [[#^|III]],  [[#^|]],  [[#^|]], [[#^|I]]; (R   E   ,  ) ^
+	* V - subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. [[#^73a80b7|37]], [[#^3af496b|XI]], [[#^a4b00e0|39]], § [[#^51bdef8|4°]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]; (Redação dada pela Emenda constitucional n° 19, de 1998) ^53991e3
 
-	* VI -    V     C M      ,      C,       L O     : (R   E C  ,  ) ^
+	* VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subseqüente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos: (Redação dada pela Emenda Constitucional n° 25, de 2000) ^7a3a572
 
-		* )  M   z  ,     V         D E; (I  E C  ,  ) ^
+		* a) em Municípios de até dez mil habitantes, o subsídio máximo dos Vereadores corresponderá a vinte por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional n° 25, de 2000) ^bfb818b
 
-		* )  M  z       ,     V         D E; (I  E C  ,  ) ^
+		* b) em Municípios de dez mil e um a cinqüenta mil habitantes, o subsídio máximo dos Vereadores corresponderá a trinta por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional n° 25, de 2000) ^5b633f7
 
-		* )  M         ,     V         D E; (I  E C  ,  ) ^
+		* c) em Municípios de cinqüenta mil e um a cem mil habitantes, o subsídio máximo dos Vereadores corresponderá a quarenta por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional n° 25, de 2000) ^5933768
 
-		* )  M       z  ,     V         D E; (I  E C  ,  ) ^
+		* d) em Municípios de cem mil e um a trezentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a cinqüenta por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional n° 25, de 2000) ^a5f063d
 
-		* )  M  z       ,     V         D E; (I  E C  ,  ) ^
+		* e) em Municípios de trezentos mil e um a quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a sessenta por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional n° 25, de 2000) ^e52ce77
 
-		* )  M      ,     V           D E; (I  E C  ,  ) ^
+		* f) em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a setenta e cinco por cento do subsídio dos Deputados Estaduais; (Incluído pela Emenda Constitucional n° 25, de 2000) ^3f268c4
 
-	* VII -         V             M; (I  E C  ,  ) ^
+	* VII - o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de cinco por cento da receita do Município; (Incluído pela Emenda Constitucional n° 1, de 1992) ^449196e
 
-	* VIII -   V   ,            M; (R   VI,  E C  ,  ) ^
+	* VIII - inviolabilidade dos Vereadores por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município; (Renumerado do inciso VI, pela Emenda Constitucional n° 1, de 1992) ^c03ac3c
 
-	* IX -   ,    , ,   ,    C     C N   C   E     A L; (R   VII,  E C  ,  ) ^
+	* IX - proibições e incompatibilidades, no exercício da vereança, similares, no que couber, ao disposto nesta Constituição para os membros do Congresso Nacional e na Constituição do respectivo Estado para os membros da Assembléia Legislativa; (Renumerado do inciso VII, pela Emenda Constitucional n° 1, de 1992) ^1baf08c
 
-	* X -   P   T  J; (R   VIII,  E C  ,  ) ^
+	* X - julgamento do Prefeito perante o Tribunal de Justiça; (Renumerado do inciso VIII, pela Emenda Constitucional n° 1, de 1992) ^1e9c67d
 
-	* XI - z     z  C M; (R   IX,  E C  ,  ) ^
+	* XI - organização das funções legislativas e fiscalizadoras da Câmara Municipal; (Renumerado do inciso IX, pela Emenda Constitucional n° 1, de 1992) ^36fbfbd
 
-	* XII -       ; (R   X,  E C  ,  ) ^
+	* XII - cooperação das associações representativas no planejamento municipal; (Renumerado do inciso X, pela Emenda Constitucional n° 1, de 1992) ^1667fd1
 
-	* XIII -           M,     ,    ,  ,     ; (R   XI,  E C  ,  ) ^
+	* XIII - iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento do eleitorado; (Renumerado do inciso XI, pela Emenda Constitucional n° 1, de 1992) ^762a02b
 
-	* XIV -     P,    . [[#^|]], [[#^| ]]. (R   XII,  E C  ,  ) ^
+	* XIV - perda do mandato do Prefeito, nos termos do art. [[#^a3a0ad1|28]], [[#^cafef4b|parágrafo único]]. (Renumerado do inciso XII, pela Emenda Constitucional n° 1, de 1992) ^9da9cd0
 
-* A. -A. O     P L M,     V         ,      ,             [[#^|]]  . [[#^|]]   . [[#^|]]  [[#^|]]  C,  z   : (R   E C  ,  ) (V) ^
+* Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § [[#^2e3546e|5°]] do art. [[#^b48cd87|153]] e nos arts. [[#^bfd7c36|158]] e [[#^835537a|159]] desta Constituição, efetivamente realizado no exercício anterior: (Redação dada pela Emenda Constitucional n° 109, de 2021) (Vigência) ^82bce5b
 
-	* I - % (  )  M     . ( ) ; (R   E C C  ,  ) (P  ) ^
+	* I - 7% (sete por cento) para Municípios com população de até 100.000 (cem mil) habitantes; (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) (Produção de efeito) ^5bda6c1
 
-	* II - % (  )  M    . ( )  . (z ) ; (R   E C C  ,  ) ^
+	* II - 6% (seis por cento) para Municípios com população entre 100.000 (cem mil) e 300.000 (trezentos mil) habitantes; (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) ^db5fa23
 
-	* III - % (  )  M    . (z   )  . ( ) ; (R   E C C  ,  ) ^
+	* III - 5% (cinco por cento) para Municípios com população entre 300.001 (trezentos mil e um) e 500.000 (quinhentos mil) habitantes; (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) ^dd4e624
 
-	* IV - ,% (      )  M    . (   )  .. ( )  ; (R   E C C  ,  ) ^
+	* IV - 4,5% (quatro inteiros e cinco décimos por cento) para Municípios com população entre 500.001 (quinhentos mil e um) e 3.000.000 (três milhões) de habitantes; (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) ^0bc3218
 
-	* V - % (  )  M    .. (   )  .. ( )  ; (I  E C C  ,  ) ^
+	* V - 4% (quatro por cento) para Municípios com população entre 3.000.001 (três milhões e um) e 8.000.000 (oito milhões) de habitantes; (Incluído pela Emenda Constituição Constitucional n° 58, de 2009) ^b179260
 
-	* VI - ,% (      )  M     .. (   ) . (I  E C C  ,  ) ^
+	* VI - 3,5% (três inteiros e cinco décimos por cento) para Municípios com população acima de 8.000.001 (oito milhões e um) habitantes. (Incluído pela Emenda Constituição Constitucional n° 58, de 2009) ^9f9fe38
 
-	*   A C M              ,         V. (I  E C  ,  ) ^
+	* § 1° A Câmara Municipal não gastará mais de setenta por cento de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores. (Incluído pela Emenda Constitucional n° 25, de 2000) ^e7d7db7
 
-	*   C     P M: (I  E C  ,  ) ^
+	* § 2° Constitui crime de responsabilidade do Prefeito Municipal: (Incluído pela Emenda Constitucional n° 25, de 2000) ^9127586
 
-		* I -         ; (I  E C  ,  ) ^
+		* I - efetuar repasse que supere os limites definidos neste artigo; (Incluído pela Emenda Constitucional n° 25, de 2000) ^290b739
 
-		* II -           ;  (I  E C  ,  ) ^
+		* II - não enviar o repasse até o dia vinte de cada mês; ou (Incluído pela Emenda Constitucional n° 25, de 2000) ^44ed5e4
 
-		* III - -         L O. (I  E C  ,  ) ^
+		* III - enviá-lo a menor em relação à proporção fixada na Lei Orçamentária. (Incluído pela Emenda Constitucional n° 25, de 2000) ^732203c
 
-	*   C     P  C M     [[#^|]]  . (I  E C  ,  ) ^
+	* § 3° Constitui crime de responsabilidade do Presidente da Câmara Municipal o desrespeito ao § [[#^e7d7db7|1°]] deste artigo. (Incluído pela Emenda Constitucional n° 25, de 2000) ^756d607
 
-* A. . C  M: ^
+* Art. 30. Compete aos Municípios: ^0b01b35
 
-	* I -      ; ^
+	* I - legislar sobre assuntos de interesse local; ^55ca648
 
-	* II -          ; (V ADP ) ^
+	* II - suplementar a legislação federal e a estadual no que couber; (Vide ADPF 672) ^187be4a
 
-	* III -        ,     ,  z          z   ; ^
+	* III - instituir e arrecadar os tributos de sua competência, bem como aplicar suas rendas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei; ^0ad5a2a
 
-	* IV - , z   ,    ; ^
+	* IV - criar, organizar e suprimir distritos, observada a legislação estadual; ^38352a0
 
-	* V - z  ,        ,      ,     ,    ; ^
+	* V - organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluído o de transporte coletivo, que tem caráter essencial; ^84264ad
 
-	* VI - ,        U   E,        ; (R   E C  ,  ) ^
+	* VI - manter, com a cooperação técnica e financeira da União e do Estado, programas de educação infantil e de ensino fundamental; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^e849507
 
-	* VII - ,        U   E,       ; ^
+	* VII - prestar, com a cooperação técnica e financeira da União e do Estado, serviços de atendimento à saúde da população; ^d1b7999
 
-	* VIII - ,   ,   ,      ,        ; ^
+	* VIII - promover, no que couber, adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano; ^dae55c2
 
-	* IX -      - ,       z   . ^
+	* IX - promover a proteção do patrimônio histórico-cultural local, observada a legislação e a ação fiscalizadora federal e estadual. ^c328f70
 
-* A. . A z  M    P L M,   ,        P E M,    . ^
+* Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei. ^0c12866
 
-	*   O    C M       T  C  E   M   C  T  C  M,  . ^
+	* § 1° O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver. ^c243e91
 
-	*   O  ,          P   ,             C M. ^
+	* § 2° O parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal. ^4340607
 
-	*   A   M ,   , ,     ,    ,    -  ,    . ^
+	* § 3° As contas dos Municípios ficarão, durante sessenta dias, anualmente, à disposição de qualquer contribuinte, para exame e apreciação, o qual poderá questionar-lhes a legitimidade, nos termos da lei. ^3445e2f
 
-	*   É     T, C    C M. ^
+	* § 4° É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais. ^4512cfc
 
-## .. CAPÍTULO V - DO DISTRITO EDERAL E DOS TERRITÓRIOS (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO V - DO DISTRITO EDERAL E DOS TERRITÓRIOS (ARTS.  A )|R]]
+## 3.5. CAPÍTULO V - DO DISTRITO FEDERAL E DOS TERRITÓRIOS (ARTS. 32 A 33)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.5. CAPÍTULO V - DO DISTRITO FEDERAL E DOS TERRITÓRIOS (ARTS. 32 A 33)|Resumo]]
 
-### ... SEÇÃO I - DO DISTRITO EDERAL (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO I - DO DISTRITO EDERAL (ART. )|R]]
+### 3.5.1. SEÇÃO I - DO DISTRITO FEDERAL (ART. 32)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.5.1. SEÇÃO I - DO DISTRITO FEDERAL (ART. 32)|Resumo]]
 
-* A. . O D ,     M, - -   ,         z ,       C L,   ,      C. ^
+* Art. 32. O Distrito Federal, vedada sua divisão em Municípios, reger- se-á por lei orgânica, votada em dois turnos com interstício mínimo de dez dias, e aprovada por dois terços da Câmara Legislativa, que a promulgará, atendidos os princípios estabelecidos nesta Constituição. ^dc8db5e
 
-	*   A D         E  M. ^
+	* § 1° Ao Distrito Federal são atribuídas as competências legislativas reservadas aos Estados e Municípios. ^2137d3f
 
-	*   A   G   V-G,     . [[#^|]],   D D     G  D E,     . ^
+	* § 2° A eleição do Governador e do Vice-Governador, observadas as regras do art. [[#^45e2cfb|77]], e dos Deputados Distritais coincidirá com a dos Governadores e Deputados Estaduais, para mandato de igual duração. ^f99eade
 
-	*   A D D   C L -    . [[#^|]]. ^
+	* § 3° Aos Deputados Distritais e à Câmara Legislativa aplica-se o disposto no art. [[#^f316d70|27]]. ^a406133
 
-	*   L     z,  G  D ,   ,   ,         . (R   E C  ,  ) ^
+	* § 4° Lei federal disporá sobre a utilização, pelo Governo do Distrito Federal, da polícia civil, da polícia penal, da polícia militar e do corpo de bombeiros militar. (Redação dada pela Emenda Constitucional n° 104, de 2019) ^764e1d8
 
-### ... SEÇÃO II - DOS TERRITÓRIOS (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO II - DOS TERRITÓRIOS (ART. )|R]]
+### 3.5.2. SEÇÃO II - DOS TERRITÓRIOS (ART. 33)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.5.2. SEÇÃO II - DOS TERRITÓRIOS (ART. 33)|Resumo]]
 
-* A. . A     z     T. ^
+* Art. 33. A lei disporá sobre a organização administrativa e judiciária dos Territórios. ^5cc976c
 
-	*   O T     M,    ,   ,    C IV  T. ^
+	* § 1° Os Territórios poderão ser divididos em Municípios, aos quais se aplicará, no que couber, o disposto no Capítulo IV deste Título. ^7622ec3
 
-	*   A   G  T    C N,     T  C  U. ^
+	* § 2° As contas do Governo do Território serão submetidas ao Congresso Nacional, com parecer prévio do Tribunal de Contas da União. ^3779d40
 
-	*   N T       ,   G     C,        ,   M P    ;         C T    . ^
+	* § 3° Nos Territórios Federais com mais de cem mil habitantes, além do Governador nomeado na forma desta Constituição, haverá órgãos judiciários de primeira e segunda instância, membros do Ministério Público e defensores públicos federais; a lei disporá sobre as eleições para a Câmara Territorial e sua competência deliberativa. ^08c9aaf
 
-## .. CAPÍTULO VI - DA INTERVENÇÃO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO VI - DA INTERVENÇÃO (ARTS.  A )|R]]
+## 3.6. CAPÍTULO VI - DA INTERVENÇÃO (ARTS. 34 A 36)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.6. CAPÍTULO VI - DA INTERVENÇÃO (ARTS. 34 A 36)|Resumo]]
 
-* A. . A U    E   D ,  : ^
+* Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto para: ^78ae06d
 
-	* I -    ; ^
+	* I - manter a integridade nacional; ^3fefbe5
 
-	* II -           ; ^
+	* II - repelir invasão estrangeira ou de uma unidade da Federação em outra; ^4af8ecb
 
-	* III -        ; ^
+	* III - pôr termo a grave comprometimento da ordem pública; ^dc18c00
 
-	* IV -        P    ; ^
+	* IV - garantir o livre exercício de qualquer dos Poderes nas unidades da Federação; ^693bde8
 
-	* V - z       : ^
+	* V - reorganizar as finanças da unidade da Federação que: ^86d7e3f
 
-		* )            ,     ; ^
+		* a) suspender o pagamento da dívida fundada por mais de dois anos consecutivos, salvo motivo de força maior; ^5d3be7f
 
-		* )     M     C,   z   ; ^
+		* b) deixar de entregar aos Municípios receitas tributárias fixadas nesta Constituição, dentro dos prazos estabelecidos em lei; ^bb4dc22
 
-	* VI -      ,    ; ^
+	* VI - prover a execução de lei federal, ordem ou decisão judicial; ^47e8e7e
 
-	* VII -       : ^
+	* VII - assegurar a observância dos seguintes princípios constitucionais: ^f339325
 
-		* )  ,     ; ^
+		* a) forma republicana, sistema representativo e regime democrático; ^31b6d9a
 
-		* )    ; ^
+		* b) direitos da pessoa humana; ^cfbca42
 
-		* )  ; ^
+		* c) autonomia municipal; ^0e767f0
 
-		* )      ,   . ^
+		* d) prestação de contas da administração pública, direta e indireta. ^51a90da
 
-		* )          ,     ,              . (R   E C  ,  ) ^
+		* e) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde. (Redação dada pela Emenda Constitucional n° 29, de 2000) ^1d1ce10
 
-* A. . O E     M,   U  M z  T ,  : ^
+* Art. 35. O Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território Federal, exceto quando: ^f241f78
 
-	* I -    ,     ,    ,   ; ^
+	* I - deixar de ser paga, sem motivo de força maior, por dois anos consecutivos, a dívida fundada; ^46044b5
 
-	* II -     ,    ; ^
+	* II - não forem prestadas contas devidas, na forma da lei; ^ccbbf26
 
-	* III -                        ; (R   E C  ,  ) ^
+	* III - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde; (Redação dada pela Emenda Constitucional n° 29, de 2000) ^8259159
 
-	* IV -  T  J             C E,       ,      . ^
+	* IV - o Tribunal de Justiça der provimento a representação para assegurar a observância de princípios indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de decisão judicial. ^2bf1a59
 
-* A. . A    : ^
+* Art. 36. A decretação da intervenção dependerá: ^07263cc
 
-	* I -    . [[#^|]], [[#^|IV]],    P L   P E   ,     S T ,        P J; ^
+	* I - no caso do art. [[#^78ae06d|34]], [[#^693bde8|IV]], de solicitação do Poder Legislativo ou do Poder Executivo coacto ou impedido, ou de requisição do Supremo Tribunal Federal, se a coação for exercida contra o Poder Judiciário; ^838b79d
 
-	* II -         ,    S T ,  S T  J   T S E; ^
+	* II - no caso de desobediência a ordem ou decisão judiciária, de requisição do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do Tribunal Superior Eleitoral; ^4076163
 
-	* III -  ,  S T ,    P-G  R,    . [[#^|]], [[#^|VII]],          . (R   E C  ,  ) ^
+	* III - de provimento, pelo Supremo Tribunal Federal, de representação do Procurador-Geral da República, na hipótese do art. [[#^78ae06d|34]], [[#^f339325|VII]], e no caso de recusa à execução de lei federal. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^70fb453
 
-	*   O   ,    ,  z       ,  ,   ,      C N   A L  E,  z     . ^
+	* § 1° O decreto de intervenção, que especificará a amplitude, o prazo e as condições de execução e que, se couber, nomeará o interventor, será submetido à apreciação do Congresso Nacional ou da Assembléia Legislativa do Estado, no prazo de vinte e quatro horas. ^277674a
 
-	*   S     C N   A L, --  ,   z     . ^
+	* § 2° Se não estiver funcionando o Congresso Nacional ou a Assembléia Legislativa, far-se-á convocação extraordinária, no mesmo prazo de vinte e quatro horas. ^20bbe0a
 
-	*   N   . [[#^|]], [[#^|VI]]  [[#^|VII]],   . [[#^|]], [[#^|IV]],     C N   A L,   --       ,        . ^
+	* § 3° Nos casos do art. [[#^78ae06d|34]], [[#^47e8e7e|VI]] e [[#^f339325|VII]], ou do art. [[#^f241f78|35]], [[#^2bf1a59|IV]], dispensada a apreciação pelo Congresso Nacional ou pela Assembléia Legislativa, o decreto limitar-se-á a suspender a execução do ato impugnado, se essa medida bastar ao restabelecimento da normalidade. ^1908390
 
-	*   C    ,         ,   . ^
+	* § 4° Cessados os motivos da intervenção, as autoridades afastadas de seus cargos a estes voltarão, salvo impedimento legal. ^27298cb
 
-## .. CAPÍTULO VII - DA ADMINISTRAÇÃO PÚBLICA (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO VII - DA ADMINISTRAÇÃO PÚBLICA (ARTS.  A )|R]]
+## 3.7. CAPÍTULO VII - DA ADMINISTRAÇÃO PÚBLICA (ARTS. 37 A 43)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7. CAPÍTULO VII - DA ADMINISTRAÇÃO PÚBLICA (ARTS. 37 A 43)|Resumo]]
 
-### ... SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS.  A )|R]]
-V : [[A P]], [[P  A P]], [[P  APU]], [[A P]], [[R C  E]], [[C  A P]]
+### 3.7.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 37 A 38)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 37 A 38)|Resumo]]
+Ver também: [[Administração Pública]], [[Princípios da Administração Pública]], [[Princípios da APU]], [[Agentes Públicos]], [[Responsabilidade Civil do Estado]], [[Controle da Administração Pública]]
 
-* A. . A [[A P|    ]]    P  U,  E,  D    M   [[P  A P|  , , ,   ]] , ,  : (R   E C  ,  ) ^
+* Art. 37. A [[Administração Pública|administração pública direta e indireta]] de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos [[Princípios da Administração Pública|princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência]] e, também, ao seguinte: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^73a80b7
 
-	* I -  [[A P|,    ]]           ,    ,    ; (R   E C  ,  ) ^
+	* I - os [[Agentes Públicos|cargos, empregos e funções públicas]] são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^93f564e
 
-	* II -             [[A P| ]]       ,     z       ,     ,               ; (R   E C  ,  ) ^
+	* II - a investidura em cargo ou emprego público depende de aprovação prévia em [[Agentes Públicos|concurso público]] de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^9e785ae
 
-	* III -  z          ,   z,   ; ^
+	* III - o prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período; ^3bf6bba
 
-	* IV -   z      ,                        ,  ; ^
+	* IV - durante o prazo improrrogável previsto no edital de convocação, aquele aprovado em concurso público de provas ou de provas e títulos será convocado com prioridade sobre novos concursados para assumir cargo ou emprego, na carreira; ^825e0e7
 
-	* V -    ,        ,     ,         ,       , -     ,   ; (R   E C  ,  ) ^
+	* V - as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^13c0d78
 
-	* VI -            ; ^
+	* VI - é garantido ao servidor público civil o direito à livre associação sindical; ^c18aba5
 
-	* VII -               ; (R   E C  ,  ) ^
+	* VII - o direito de greve será exercido nos termos e nos limites definidos em lei específica; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^8c79a35
 
-	* VIII -                      ; ^
+	* VIII - a lei reservará percentual dos cargos e empregos públicos para as pessoas portadoras de deficiência e definirá os critérios de sua admissão; ^a072b26
 
-	* IX -                   ; (V E   ,  ) ^
+	* IX - a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público; (Vide Emenda constitucional n° 106, de 2020) ^68b8c5a
 
-	* X -              [[#^|]]  . [[#^|]]         ,       ,    ,         ; (R   E C  ,  ) (R) ^
+	* X - a remuneração dos servidores públicos e o subsídio de que trata o § [[#^51bdef8|4°]] do art. [[#^a4b00e0|39]] somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices; (Redação dada pela Emenda Constitucional n° 19, de 1998) (Regulamento) ^acf623e
 
-	* XI -         ,       ,   ,      P  U,  E,  D    M,             ,     ,    ,         z,      ,  ,  M  S T , -  ,  M,    P,   E   D ,     G    P E,    D E  D    P L     D  T  J,              ,  ,  M  S T ,    P J,       M P,  P   D P; (R   E C  , ..) ^
+	* XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do Poder Executivo, o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos; (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^3af496b
 
-	* XII -      P L   P J        P E; ^
+	* XII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo; ^3cce705
 
-	* XIII -                    ; (R   E C  ,  ) ^
+	* XIII - é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^0b47d84
 
-	* XIV -                   ; (R   E C  ,  ) ^
+	* XIV - os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^1c7b8a7
 
-	* XV -              ,      [[#^|XI]]  [[#^|XIV]]     . [[#^|]],  [[#^|]], [[#^|]], [[#^|II]], [[#^|]], [[#^|III]],  [[#^|]],  [[#^|]], [[#^|I]]; (R   E C  ,  ) ^
+	* XV - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos [[#^3af496b|XI]] e [[#^1c7b8a7|XIV]] deste artigo e nos arts. [[#^a4b00e0|39]], § [[#^51bdef8|4°]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^81e6ba5
 
-	* XVI -        , ,     ,         [[#^|XI]]: (R   E C  ,  ) ^
+	* XVI - é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso [[#^3af496b|XI]]: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^773f388
 
-		* )      ; (R   E C  ,  ) ^
+		* a) a de dois cargos de professor; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^af7d218
 
-		* )           z; (R   E C  ,  ) ^
+		* b) a de um cargo de professor com outro de qualquer natureza; (Redação dada pela Emenda Constitucional n° 138, de 2025) ^a0d6244
 
-		* )           ,   ; (R   E C  ,  ) ^
+		* c) a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas; (Redação dada pela Emenda Constitucional n° 34, de 2001) ^0c257fb
 
-	* XVII -     -       , ,  ,    ,  ,   ,   ,   ; (R   E C  ,  ) ^
+	* XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^14a7f94
 
-	* XVIII -   z     ,        ,      ,    ; ^
+	* XVIII - a administração fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei; ^cac9e26
 
-	* XIX -          z     ,        ,    ,   ,      ; (R   E C  ,  ) ^
+	* XIX - somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^4fc064d
 
-	* XX -   z ,   ,          ,          ; ^
+	* XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada; ^c2f60dd
 
-	* XXI -      ,  , ,                   ,       ,      ,    ,                  . (R) ^
+	* XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações. (Regulamento) ^ea6996f
 
-	* XXII -     U,  E,  D    M,      E,      ,      z        ,          ,      . (I  E C  ,  ..) ^
+	* XXII - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão recursos prioritários para a realização de suas atividades e atuarão de forma integrada, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^3a78ba0
 
-	*   A   , , ,          ,     ,     ,     z       . ^
+	* § 1° A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos. ^d318b95
 
-	*   A       [[#^|II]]  [[#^|III]]           ,    . ^
+	* § 2° A não observância do disposto nos incisos [[#^9e785ae|II]] e [[#^3bf6bba|III]] implicará a nulidade do ato e a punição da autoridade responsável, nos termos da lei. ^4fd8d5f
 
-	*   A              ,  : (R   E C  ,  ) ^
+	* § 3° A lei disciplinará as formas de participação do usuário na administração pública direta e indireta, regulando especialmente: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^e1e4649
 
-		* I -          ,             ,   ,    ; (I  E C  ,  ) ^
+		* I - as reclamações relativas à prestação dos serviços públicos em geral, asseguradas a manutenção de serviços de atendimento ao usuário e a avaliação periódica, externa e interna, da qualidade dos serviços; (Incluído pela Emenda Constitucional n° 19, de 1998) ^f842bc4
 
-		* II -              ,     . [[#^|]], [[#^|X]]  [[#^|XXXIII]]; (I  E C  ,  ) (V L  .,  ) ^
+		* II - o acesso dos usuários a registros administrativos e a informações sobre atos de governo, observado o disposto no art. [[#^30f4637|5°]], [[#^eaedacb|X]] e [[#^797d26c|XXXIII]]; (Incluído pela Emenda Constitucional n° 19, de 1998) (Vide Lei n° 12.527, de 2011) ^cab1aa8
 
-		* III -            ,      . (I  E C  ,  ) ^
+		* III - a disciplina da representação contra o exercício negligente ou abusivo de cargo, emprego ou função na administração pública. (Incluído pela Emenda Constitucional n° 19, de 1998) ^50b222e
 
-	*   O          ,     ,         ,       ,  z    . ^
+	* § 4° Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível. ^f2517de
 
-	*   A    z        ,   ,   z  ,      . ^
+	* § 5° A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento. ^5f619e2
 
-	*   A               [[R C  E|     ]],  ,   ,              . ^
+	* § 6° As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos [[Responsabilidade Civil do Estado|responderão pelos danos que seus agentes]], nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa. ^3c79595
 
-	*   A                          . (I  E C  ,  ) ^
+	* § 7° A lei disporá sobre os requisitos e as restrições ao ocupante de cargo ou emprego da administração direta e indireta que possibilite o acesso a informações privilegiadas. (Incluído pela Emenda Constitucional n° 19, de 1998) ^2c2b9b3
 
-	*   A  ,                 ,          ,               ,     : (I  E C  ,  ) (R) (V) ^
+	* § 8° A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por objeto a fixação de metas de desempenho para o órgão ou entidade, cabendo à lei dispor sobre: (Incluído pela Emenda Constitucional n° 19, de 1998) (Regulamento) (Vigência) ^b4ee3a0
 
-		* I -  z    ; (I  E C  ,  ) ^
+		* I - o prazo de duração do contrato; (Incluído pela Emenda Constitucional n° 19, de 1998) ^a1a0caf
 
-		* II -        , ,     ; (I  E C  ,  ) ^
+		* II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos dirigentes; (Incluído pela Emenda Constitucional n° 19, de 1998) ^7b2f2e3
 
-		* III -    . (I  E C  ,  ) ^
+		* III - a remuneração do pessoal. (Incluído pela Emenda Constitucional n° 19, de 1998) ^9d5f622
 
-	*   O    [[#^|XI]] -         ,   ,     U,  E,  D    M           . (I  E C  ,  ) ^
+	* § 9° O disposto no inciso [[#^3af496b|XI]] aplica-se às empresas públicas e às sociedades de economia mista, e suas subsidiárias, que receberem recursos da União, dos Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral. (Incluído pela Emenda Constitucional n° 19, de 1998) ^ba27185
 
-	*  . É           . [[#^|]]   . [[#^|]]  [[#^|]]     ,    ,        C,                . (I  E C  ,  ) (V E C  ,  ) ^
+	* § 10. É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. [[#^2bcc4ca|40]] ou dos arts. [[#^7f6530d|42]] e [[#^5bf4dbe|142]] com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração. (Incluído pela Emenda Constitucional n° 20, de 1998) (Vide Emenda Constitucional n° 20, de 1998) ^73388a3
 
-	*  . N  ,           [[#^|XI]]    ,     z     ,   C N,   ,     P    . (R   E C  ,  ) ^
+	* § 11. Não serão computadas, para efeito dos limites remuneratórios de que trata o inciso [[#^3af496b|XI]] do caput deste artigo, as parcelas de caráter indenizatório expressamente previstas em lei ordinária, aprovada pelo Congresso Nacional, de caráter nacional, aplicada a todos os Poderes e órgãos constitucionalmente autônomos. (Redação dada pela Emenda Constitucional n° 135, de 2024) ^cb7f000
 
-	*  . P       [[#^|XI]]    ,    E   D  ,   ,     C  L O,   ,     D   T  J,                M  S T ,           D E  D   V. (I  E C  ,  ) ^
+	* § 12. Para os fins do disposto no inciso [[#^3af496b|XI]] do caput deste artigo, fica facultado aos Estados e ao Distrito Federal fixar, em seu âmbito, mediante emenda às respectivas Constituições e Lei Orgânica, como limite único, o subsídio mensal dos Desembargadores do respectivo Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do Supremo Tribunal Federal, não se aplicando o disposto neste parágrafo aos subsídios dos Deputados Estaduais e Distritais e dos Vereadores. (Incluído pela Emenda Constitucional n° 47, de 2005) ^05da4a8
 
-	*  . O                               ,    ,                ,       . (I  E C  ,  ) ^
+	* § 13. O servidor público titular de cargo efetivo poderá ser readaptado para exercício de cargo cujas atribuições e responsabilidades sejam compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, enquanto permanecer nesta condição, desde que possua a habilitação e o nível de escolaridade exigidos para o cargo de destino, mantida a remuneração do cargo de origem. (Incluído pela Emenda Constitucional n° 103, de 2019) ^0b180f1
 
-	*  . A     z       ,    ,   R G  P S,            . (I  E C  ,  ) ^
+	* § 14. A aposentadoria concedida com a utilização de tempo de contribuição decorrente de cargo, emprego ou função pública, inclusive do Regime Geral de Previdência Social, acarretará o rompimento do vínculo que gerou o referido tempo de contribuição. (Incluído pela Emenda Constitucional n° 103, de 2019) ^db3075e
 
-	*  . É                         [[#^|]]  [[#^|]]  . [[#^|]]              . (I  E C  ,  ) ^
+	* § 15. É vedada a complementação de aposentadorias de servidores públicos e de pensões por morte a seus dependentes que não seja decorrente do disposto nos §§ [[#^151a42f|14]] a [[#^998899c|16]] do art. [[#^2bcc4ca|40]] ou que não seja prevista em lei que extinga regime próprio de previdência social. (Incluído pela Emenda Constitucional n° 103, de 2019) ^147dc61
 
-	*  . O      ,   ,  z    ,            ,    . (I  E C  ,  ) ^
+	* § 16. Os órgãos e entidades da administração pública, individual ou conjuntamente, devem realizar avaliação das políticas públicas, inclusive com divulgação do objeto a ser avaliado e dos resultados alcançados, na forma da lei. (Incluído pela Emenda Constitucional n° 109, de 2021) ^51dd2e8
 
-* A. . A     ,   ,     , -   : (R   E C  ,  ) ^
+* Art. 38. Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^fb97d1e
 
-	* I - -    ,   ,     ,   ; ^
+	* I - tratando-se de mandato eletivo federal, estadual ou distrital, ficará afastado de seu cargo, emprego ou função; ^4004247
 
-	* II -     P,    ,   , -     ; ^
+	* II - investido no mandato de Prefeito, será afastado do cargo, emprego ou função, sendo-lhe facultado optar pela sua remuneração; ^0f4f973
 
-	* III -     V,    ,      ,   ,  z     , ,   ,       ; ^
+	* III - investido no mandato de Vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo, e, não havendo compatibilidade, será aplicada a norma do inciso anterior; ^a362573
 
-	* IV -             ,           ,     ; ^
+	* IV - em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento; ^c6bd395
 
-	* V -           ,     ,     . (R   E C  ,  ) ^
+	* V - na hipótese de ser segurado de regime próprio de previdência social, permanecerá filiado a esse regime, no ente federativo de origem. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^9e8dc43
 
-### ... SEÇÃO II - DOS SERVIDORES PÚBLICOS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO II - DOS SERVIDORES PÚBLICOS (ARTS.  A )|R]]
+### 3.7.2. SEÇÃO II - DOS SERVIDORES PÚBLICOS (ARTS. 39 A 41)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7.2. SEÇÃO II - DOS SERVIDORES PÚBLICOS (ARTS. 39 A 41)|Resumo]]
 
-(R   E C  ,  )
+(Redação dada pela Emenda Constitucional n° 18, de 1998)
 
-* A. . A U,  E,  D    M          ,       P. (R   E C  ,  ) (V ADI  .) ^
+* Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes. (Redação dada pela Emenda Constitucional n° 19, de 1998) (Vide ADI n° 2.135) ^a4b00e0
 
-	*   A             : (R   E C  ,  ) ^
+	* § 1° A fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^da22787
 
-		* I -  z,             ; (I  E C  ,  ) ^
+		* I - a natureza, o grau de responsabilidade e a complexidade dos cargos componentes de cada carreira; (Incluído pela Emenda Constitucional n° 19, de 1998) ^6cc4e42
 
-		* II -     ; (I  E C  ,  ) ^
+		* II - os requisitos para a investidura; (Incluído pela Emenda Constitucional n° 19, de 1998) ^3a081ab
 
-		* III -    . (I  E C  ,  ) ^
+		* III - as peculiaridades dos cargos. (Incluído pela Emenda Constitucional n° 19, de 1998) ^435841a
 
-	*   A U,  E   D              , -            , ,  ,          . (R   E C  ,  ) ^
+	* § 2° A União, os Estados e o Distrito Federal manterão escolas de governo para a formação e o aperfeiçoamento dos servidores públicos, constituindo-se a participação nos cursos um dos requisitos para a promoção na carreira, facultada, para isso, a celebração de convênios ou contratos entre os entes federados. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^d69c265
 
-	*   A-          . [[#^|]], [[#^|IV]], [[#^|VII]], [[#^|VIII]], [[#^|IX]], [[#^|XII]], [[#^|XIII]], [[#^|XV]], [[#^|XVI]], [[#^|XVII]], [[#^|XVIII]], [[#^|XIX]], [[#^|XX]], [[#^|XXII]]  [[#^|XXX]],           z    . (I  E C  ,  ) ^
+	* § 3° Aplica-se aos servidores ocupantes de cargo público o disposto no art. [[#^0f410c4|7°]], [[#^d137e98|IV]], [[#^a29bb55|VII]], [[#^b7430d7|VIII]], [[#^3f6af15|IX]], [[#^0847d33|XII]], [[#^544ec34|XIII]], [[#^13418a3|XV]], [[#^9cab680|XVI]], [[#^dec1e40|XVII]], [[#^30b33de|XVIII]], [[#^c6fbc10|XIX]], [[#^269e85b|XX]], [[#^be2a168|XXII]] e [[#^13574f6|XXX]], podendo a lei estabelecer requisitos diferenciados de admissão quando a natureza do cargo o exigir. (Incluído pela Emenda Constitucional n° 19, de 1998) ^fe348a2
 
-	*   O   P,     ,  M  E   S E  M         ,      , , , ,       , ,   ,    . [[#^|]], [[#^|X]]  [[#^|XI]]. (I  E C  ,  ) ^
+	* § 4° O membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto no art. [[#^73a80b7|37]], [[#^acf623e|X]] e [[#^3af496b|XI]]. (Incluído pela Emenda Constitucional n° 19, de 1998) ^51bdef8
 
-	*   L  U,  E,  D    M              , ,   ,    . [[#^|]], [[#^|XI]]. (I  E C  ,  ) ^
+	* § 5° Lei da União, dos Estados, do Distrito Federal e dos Municípios poderá estabelecer a relação entre a maior e a menor remuneração dos servidores públicos, obedecido, em qualquer caso, o disposto no art. [[#^73a80b7|37]], [[#^3af496b|XI]]. (Incluído pela Emenda Constitucional n° 19, de 1998) ^be8ce38
 
-	*   O P E, L  J              . (I  E C  ,  ) ^
+	* § 6° Os Poderes Executivo, Legislativo e Judiciário publicarão anualmente os valores do subsídio e da remuneração dos cargos e empregos públicos. (Incluído pela Emenda Constitucional n° 19, de 1998) ^bb213c4
 
-	*   L  U,  E,  D    M               ,   ,          ,   , z,   z   ,          . (I  E C  ,  ) ^
+	* § 7° Lei da União, dos Estados, do Distrito Federal e dos Municípios disciplinará a aplicação de recursos orçamentários provenientes da economia com despesas correntes em cada órgão, autarquia e fundação, para aplicação no desenvolvimento de programas de qualidade e produtividade, treinamento e desenvolvimento, modernização, reaparelhamento e racionalização do serviço público, inclusive sob a forma de adicional ou prêmio de produtividade. (Incluído pela Emenda Constitucional n° 19, de 1998) ^6bd6157
 
-	*   A     z          [[#^|]]. (I  E C  ,  ) ^
+	* § 8° A remuneração dos servidores públicos organizados em carreira poderá ser fixada nos termos do § [[#^51bdef8|4°]]. (Incluído pela Emenda Constitucional n° 19, de 1998) ^3467f57
 
-	*   É                          . (I  E C  ,  ) ^
+	* § 9° É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo. (Incluído pela Emenda Constitucional n° 103, de 2019) ^466837d
 
-* A. . O                ,      ,   ,     ,         . (R   E C  ,  ) ^
+* Art. 40. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^2bcc4ca
 
-	*   O          : (R   E C  ,  ) ^
+	* § 1° O servidor abrangido por regime próprio de previdência social será aposentado: (Redação dada pela Emenda Constitucional n° 103, de 2019) ^fac40d8
 
-		* I -      ,      ,    ,       z               ,        ; (R   E C  ,  ) ^
+		* I - por incapacidade permanente para o trabalho, no cargo em que estiver investido, quando insuscetível de readaptação, hipótese em que será obrigatória a realização de avaliações periódicas para verificação da continuidade das condições que ensejaram a concessão da aposentadoria, na forma de lei do respectivo ente federativo; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^b8390b1
 
-		* II - ,       ,   ()   ,    (  )   ,     ; (R   E C  ,  ) (V L C  ,  ) ^
+		* II - compulsoriamente, com proventos proporcionais ao tempo de contribuição, aos 70 (setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade, na forma de lei complementar; (Redação dada pela Emenda Constitucional n° 88, de 2015) (Vide Lei Complementar n° 152, de 2015) ^dabe2ed
 
-		* III -    U,   (  )   ,  ,    (  )   ,  , ,    E,  D    M,         C  L O,                 . (R   E C  ,  ) ^
+		* III - no âmbito da União, aos 62 (sessenta e dois) anos de idade, se mulher, e aos 65 (sessenta e cinco) anos de idade, se homem, e, no âmbito dos Estados, do Distrito Federal e dos Municípios, na idade mínima estabelecida mediante emenda às respectivas Constituições e Leis Orgânicas, observados o tempo de contribuição e os demais requisitos estabelecidos em lei complementar do respectivo ente federativo. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^0910882
 
-	*   O                 [[#^|]]  . [[#^|]]         R G  P S,      [[#^|]]  [[#^|]]. (R   E C  ,  ) ^
+	* § 2° Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § [[#^4878d14|2°]] do art. [[#^9cc8602|201]] ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, observado o disposto nos §§ [[#^151a42f|14]] a [[#^998899c|16]]. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^a56a278
 
-	*   A               . (R   E C  ,  ) ^
+	* § 3° As regras para cálculo de proventos de aposentadoria serão disciplinadas em lei do respectivo ente federativo. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^b6c5560
 
-	*   É                  ,      [[#^|-A]], [[#^|-B]], [[#^|-C]]  [[#^|]]. (R   E C  ,  ) ^
+	* § 4° É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ [[#^5c4ec52|4°-A]], [[#^3962185|4°-B]], [[#^fd1edff|4°-C]] e [[#^410cf0e|5°]]. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^7281d33
 
-	*  -A. P                     ,      z     . (I  E C  ,  ) ^
+	* § 4°-A. Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de servidores com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar. (Incluído pela Emenda Constitucional n° 103, de 2019) ^5c4ec52
 
-	*  -B. P                        ,              [[#^|IV]]    . [[#^|]],   [[#^|XIII]]    . [[#^|]]    [[#^|I]]  [[#^|IV]]    . [[#^|]]. (I  E C  ,  ) ^
+	* § 4°-B. Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de ocupantes do cargo de agente penitenciário, de agente socioeducativo ou de policial dos órgãos de que tratam o inciso [[#^8072285|IV]] do caput do art. [[#^2f7a2ba|51]], o inciso [[#^6a353ec|XIII]] do caput do art. [[#^f00796a|52]] e os incisos [[#^6eb856f|I]] a [[#^38fc50f|IV]] do caput do art. [[#^d07ad44|144]]. (Incluído pela Emenda Constitucional n° 103, de 2019) ^3962185
 
-	*  -C. P                             ,      ,    ,   z     . (I  E C  ,  ) ^
+	* § 4°-C. Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de servidores cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação. (Incluído pela Emenda Constitucional n° 103, de 2019) ^fd1edff
 
-	*   O         z   ()             [[#^|III]]   [[#^|]],                            . (R   E C  ,  ) ^
+	* § 5° Os ocupantes do cargo de professor terão idade mínima reduzida em 5 (cinco) anos em relação às idades decorrentes da aplicação do disposto no inciso [[#^0910882|III]] do § [[#^fac40d8|1°]], desde que comprovem tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio fixado em lei complementar do respectivo ente federativo. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^410cf0e
 
-	*   R          C,                 , -  ,            R G  P S. (R   E C  ,  ) ^
+	* § 6° Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição, é vedada a percepção de mais de uma aposentadoria à conta de regime próprio de previdência social, aplicando-se outras vedações, regras e condições para a acumulação de benefícios previdenciários estabelecidas no Regime Geral de Previdência Social. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^3e869fa
 
-	*   O     [[#^|]]  . [[#^|]],            ,                ,                  [[#^|-B]]         z  . (R   E C  ,  ) ^
+	* § 7° Observado o disposto no § [[#^4878d14|2°]] do art. [[#^9cc8602|201]], quando se tratar da única fonte de renda formal auferida pelo dependente, o benefício de pensão por morte será concedido nos termos de lei do respectivo ente federativo, a qual tratará de forma diferenciada a hipótese de morte dos servidores de que trata o § [[#^3962185|4°-B]] decorrente de agressão sofrida no exercício ou em razão da função. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^a1835f6
 
-	*   É       -,   ,   ,     . (R   E C  , ..) ^
+	* § 8° É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em lei. (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^c0e735e
 
-	*   O    , ,         ,      [[#^|]]  [[#^|-A]]  . [[#^|]],            . (R   E C  ,  ) ^
+	* § 9° O tempo de contribuição federal, estadual, distrital ou municipal será contado para fins de aposentadoria, observado o disposto nos §§ [[#^72ea807|9°]] e [[#^d7dfba7|9°-A]] do art. [[#^9cc8602|201]], e o tempo de serviço correspondente será contado para fins de disponibilidade. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^e19a148
 
-	*   - A             . (I  E C  ,  //) (V E C  ,  ) ^
+	* § 10 - A lei não poderá estabelecer qualquer forma de contagem de tempo de contribuição fictício. (Incluído pela Emenda Constitucional n° 20, de 15/12/98) (Vide Emenda Constitucional n° 20, de 1998) ^de13287
 
-	*   - A-     . [[#^|]], [[#^|XI]],       ,          ,               ,                   C,           ,    . (I  E C  ,  //) ^
+	* § 11 - Aplica-se o limite fixado no art. [[#^73a80b7|37]], [[#^3af496b|XI]], à soma total dos proventos de inatividade, inclusive quando decorrentes da acumulação de cargos ou empregos públicos, bem como de outras atividades sujeitas a contribuição para o regime geral de previdência social, e ao montante resultante da adição de proventos de inatividade com remuneração de cargo acumulável na forma desta Constituição, cargo em comissão declarado em lei de livre nomeação e exoneração, e de cargo eletivo. (Incluído pela Emenda Constitucional n° 20, de 15/12/98) ^b84dc02
 
-	*  . A    ,  ,      ,   ,        R G  P S. (R   E C  ,  ) ^
+	* § 12. Além do disposto neste artigo, serão observados, em regime próprio de previdência social, no que couber, os requisitos e critérios fixados para o Regime Geral de Previdência Social. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^d8202cc
 
-	*  . A-    , ,            ,    ,   ,    ,  R G  P S. (R   E C  ,  ) ^
+	* § 13. Aplica-se ao agente público ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração, de outro cargo temporário, inclusive mandato eletivo, ou de emprego público, o Regime Geral de Previdência Social. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^f73ebac
 
-	*  . A U,  E,  D    M ,       P E,           ,        R G  P S              ,      [[#^|]]. (R   E C  ,  ) ^
+	* § 14. A União, os Estados, o Distrito Federal e os Municípios instituirão, por lei de iniciativa do respectivo Poder Executivo, regime de previdência complementar para servidores públicos ocupantes de cargo efetivo, observado o limite máximo dos benefícios do Regime Geral de Previdência Social para o valor das aposentadorias e das pensões em regime próprio de previdência social, ressalvado o disposto no § [[#^998899c|16]]. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^151a42f
 
-	*  . O          [[#^|]]         ,     . [[#^|]]                  . (R   E C  ,  ) ^
+	* § 15. O regime de previdência complementar de que trata o § [[#^151a42f|14]] oferecerá plano de benefícios somente na modalidade contribuição definida, observará o disposto no art. [[#^d450a12|202]] e será efetivado por intermédio de entidade fechada de previdência complementar ou de entidade aberta de previdência complementar. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^7fb9853
 
-	*   - S      ,      [[#^|]]  [[#^|]]                          . (I  E C  ,  //) ^
+	* § 16 - Somente mediante sua prévia e expressa opção, o disposto nos § § [[#^151a42f|14]] e [[#^7fb9853|15]] poderá ser aplicado ao servidor que tiver ingressado no serviço público até a data da publicação do ato de instituição do correspondente regime de previdência complementar. (Incluído pela Emenda Constitucional n° 20, de 15/12/98) ^998899c
 
-	*  . T              [[#^|]]   z,    . (I  E C  , ..) ^
+	* § 17. Todos os valores de remuneração considerados para o cálculo do benefício previsto no § [[#^b6c5560|3°]] serão devidamente atualizados, na forma da lei. (Incluído pela Emenda Constitucional n° 41, 19.12.2003) ^073a905
 
-	*  . I                                    . [[#^|]],            . (I  E C  , ..) (V ADIN ) (V ADIN ) (V ADIN ) ^
+	* § 18. Incidirá contribuição sobre os proventos de aposentadorias e pensões concedidas pelo regime de que trata este artigo que superem o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. [[#^9cc8602|201]], com percentual igual ao estabelecido para os servidores titulares de cargos efetivos. (Incluído pela Emenda Constitucional n° 41, 19.12.2003) (Vide ADIN 3133) (Vide ADIN 3143) (Vide ADIN 3184) ^4b424e7
 
-	*  . O          ,                        z       ,  ,      ,       . (R   E C  ,  ) ^
+	* § 19. Observados critérios a serem estabelecidos em lei do respectivo ente federativo, o servidor titular de cargo efetivo que tenha completado as exigências para a aposentadoria voluntária e que opte por permanecer em atividade poderá fazer jus a um abono de permanência equivalente, no máximo, ao valor da sua contribuição previdenciária, até completar a idade para aposentadoria compulsória. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^49efd32
 
-	*  . É                           ,    ,      ,      ,   ,     z           [[#^|]]. (R   E C  ,  ) ^
+	* § 20. É vedada a existência de mais de um regime próprio de previdência social e de mais de um órgão ou entidade gestora desse regime em cada ente federativo, abrangidos todos os poderes, órgãos e entidades autárquicas e fundacionais, que serão responsáveis pelo seu financiamento, observados os critérios, os parâmetros e a natureza jurídica definidos na lei complementar de que trata o § [[#^33c4f63|22]]. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^2414139
 
-	*  . (R). (R   E C  ,  ) ^
+	* § 21. (Revogado). (Redação dada pela Emenda Constitucional n° 103, de 2019) ^bc479e6
 
-	*  . V         ,    ,     ,    z,        , ,   , : (I  E C  ,  ) ^
+	* § 22. Vedada a instituição de novos regimes próprios de previdência social, lei complementar federal estabelecerá, para os que já existam, normas gerais de organização, de funcionamento e de responsabilidade em sua gestão, dispondo, entre outros aspectos, sobre: (Incluído pela Emenda Constitucional n° 103, de 2019) ^33c4f63
 
-		* I -          R G  P S; (I  E C  ,  ) ^
+		* I - requisitos para sua extinção e consequente migração para o Regime Geral de Previdência Social; (Incluído pela Emenda Constitucional n° 103, de 2019) ^d955dcd
 
-		* II -   ,     z  ; (I  E C  ,  ) ^
+		* II - modelo de arrecadação, de aplicação e de utilização dos recursos; (Incluído pela Emenda Constitucional n° 103, de 2019) ^5838972
 
-		* III - z  U     ; (I  E C  ,  ) ^
+		* III - fiscalização pela União e controle externo e social; (Incluído pela Emenda Constitucional n° 103, de 2019) ^8ec07b3
 
-		* IV -      ; (I  E C  ,  ) ^
+		* IV - definição de equilíbrio financeiro e atuarial; (Incluído pela Emenda Constitucional n° 103, de 2019) ^d00e444
 
-		* V -             . [[#^|]]             ,      z; (I  E C  ,  ) ^
+		* V - condições para instituição do fundo com finalidade previdenciária de que trata o art. [[#^53d0989|249]] e para vinculação a ele dos recursos provenientes de contribuições e dos bens, direitos e ativos de qualquer natureza; (Incluído pela Emenda Constitucional n° 103, de 2019) ^855f40e
 
-		* VI -      ; (I  E C  ,  ) ^
+		* VI - mecanismos de equacionamento do deficit atuarial; (Incluído pela Emenda Constitucional n° 103, de 2019) ^e684a39
 
-		* VII -        ,      ,    ; (I  E C  ,  ) ^
+		* VII - estruturação do órgão ou entidade gestora do regime, observados os princípios relacionados com governança, controle interno e transparência; (Incluído pela Emenda Constitucional n° 103, de 2019) ^180fdbb
 
-		* VIII -     z     ,   ,     ; (I  E C  ,  ) ^
+		* VIII - condições e hipóteses para responsabilização daqueles que desempenhem atribuições relacionadas, direta ou indiretamente, com a gestão do regime; (Incluído pela Emenda Constitucional n° 103, de 2019) ^990763a
 
-		* IX -      ; (I  E C  ,  ) ^
+		* IX - condições para adesão a consórcio público; (Incluído pela Emenda Constitucional n° 103, de 2019) ^a2157c4
 
-		* X -                . (I  E C  ,  ) ^
+		* X - parâmetros para apuração da base de cálculo e definição de alíquota de contribuições ordinárias e extraordinárias. (Incluído pela Emenda Constitucional n° 103, de 2019) ^f2c01c7
 
-* A. . S                    . (R   E C  ,  ) ^
+* Art. 41. São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^1e54455
 
-	*   O       : (R   E C  ,  ) ^
+	* § 1° O servidor público estável só perderá o cargo: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^3564927
 
-		* I -        ; (I  E C  ,  ) ^
+		* I - em virtude de sentença judicial transitada em julgado; (Incluído pela Emenda Constitucional n° 19, de 1998) ^1662e0b
 
-		* II -          ; (I  E C  ,  ) ^
+		* II - mediante processo administrativo em que lhe seja assegurada ampla defesa; (Incluído pela Emenda Constitucional n° 19, de 1998) ^f1e3ed3
 
-		* III -       ,     ,   . (I  E C  ,  ) ^
+		* III - mediante procedimento de avaliação periódica de desempenho, na forma de lei complementar, assegurada ampla defesa. (Incluído pela Emenda Constitucional n° 19, de 1998) ^2cab8a3
 
-	*   I        ,   ,      ,  , z    ,    z,               . (R   E C  ,  ) ^
+	* § 2° Invalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga, se estável, reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^a56762a
 
-	*   E       ,      ,       ,       . (R   E C  ,  ) ^
+	* § 3° Extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^54b242c
 
-	*   C      ,             . (I  E C  ,  ) ^
+	* § 4° Como condição para a aquisição da estabilidade, é obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade. (Incluído pela Emenda Constitucional n° 19, de 1998) ^b262243
 
-### ... SEÇÃO III - DOS MILITARES DOS ESTADOS, DO DISTRITO EDERAL E DOS TERRITÓRIOS (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO III - DOS MILITARES DOS ESTADOS, DO DISTRITO EDERAL E DOS TERRITÓRIOS (ART. )|R]]
+### 3.7.3. SEÇÃO III - DOS MILITARES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS (ART. 42)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7.3. SEÇÃO III - DOS MILITARES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS (ART. 42)|Resumo]]
 
-(R   E C  ,  )
+(Redação dada pela Emenda Constitucional n° 18, de 1998)
 
-* A.  O   P M  C  B M,  z      ,    E,  D    T. (R   E C  ,  ) ^
+* Art. 42 Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Estados, do Distrito Federal e dos Territórios. (Redação dada pela Emenda Constitucional n° 18, de 1998) ^7f6530d
 
-	*   A-    E,  D    T,         ,    . [[#^|]],  [[#^|]];  . [[#^|]],  [[#^|]];   . [[#^|]],  [[#^|]]  [[#^|]],           . [[#^|]],  [[#^|]],  [[#^|X]],         . (R   E C  ,  //) ^
+	* § 1° Aplicam-se aos militares dos Estados, do Distrito Federal e dos Territórios, além do que vier a ser fixado em lei, as disposições do art. [[#^90c0025|14]], § [[#^ff683dd|8°]]; do art. [[#^2bcc4ca|40]], § [[#^e19a148|9°]]; e do art. [[#^5bf4dbe|142]], §§ [[#^85314fd|2°]] e [[#^a5cf18c|3°]], cabendo a lei estadual específica dispor sobre as matérias do art. [[#^5bf4dbe|142]], § [[#^a5cf18c|3°]], inciso [[#^940e3a4|X]], sendo as patentes dos oficiais conferidas pelos respectivos governadores. (Redação dada pela Emenda Constitucional n° 20, de 15/12/98) ^33eaa59
 
-	*   A     E,  D    T -           . (R   E C  , ..) ^
+	* § 2° Aos pensionistas dos militares dos Estados, do Distrito Federal e dos Territórios aplica-se o que for fixado em lei específica do respectivo ente estatal. (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^87bba1a
 
-	*   A-    E,  D    T    . [[#^|]],  [[#^|XVI]],     . (I  E C  ,  ) ^
+	* § 3° Aplica-se aos militares dos Estados, do Distrito Federal e dos Territórios o disposto no art. [[#^73a80b7|37]], inciso [[#^773f388|XVI]], com prevalência da atividade militar. (Incluído pela Emenda Constitucional n° 101, de 2019) ^5a3f4a2
 
-### ... SEÇÃO IV - DAS REGIÕES (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO IV - DAS REGIÕES (ART. )|R]]
+### 3.7.4. SEÇÃO IV - DAS REGIÕES (ART. 43)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7.4. SEÇÃO IV - DAS REGIÕES (ART. 43)|Resumo]]
 
-* A. . P  ,  U           ,          . ^
+* Art. 43. Para efeitos administrativos, a União poderá articular sua ação em um mesmo complexo geoeconômico e social, visando a seu desenvolvimento e à redução das desigualdades regionais. ^ea8ed67
 
-	*   L   : ^
+	* § 1° Lei complementar disporá sobre: ^ae3eaab
 
-		* I -        ; ^
+		* I - as condições para integração de regiões em desenvolvimento; ^7d23e63
 
-		* II -       ,    ,   ,         ,    . ^
+		* II - a composição dos organismos regionais que executarão, na forma da lei, os planos regionais, integrantes dos planos nacionais de desenvolvimento econômico e social, aprovados juntamente com estes. ^84ebe4e
 
-	*   O   ,   ,    : ^
+	* § 2° Os incentivos regionais compreenderão, além de outros, na forma da lei: ^c3d0c38
 
-		* I -   , ,            P P; ^
+		* I - igualdade de tarifas, fretes, seguros e outros itens de custos e preços de responsabilidade do Poder Público; ^5f4b102
 
-		* II -       ; ^
+		* II - juros favorecidos para financiamento de atividades prioritárias; ^36c5849
 
-		* III - ,             ; ^
+		* III - isenções, reduções ou diferimento temporário de tributos federais devidos por pessoas físicas ou jurídicas; ^2431469
 
-		* IV -                      ,    . ^
+		* IV - prioridade para o aproveitamento econômico e social dos rios e das massas de água represadas ou represáveis nas regiões de baixa renda, sujeitas a secas periódicas. ^eabf892
 
-	*   N        [[#^|]], [[#^|IV]],  U                  ,   ,        . ^
+	* § 3° Nas áreas a que se refere o § [[#^c3d0c38|2°]], [[#^eabf892|IV]], a União incentivará a recuperação de terras áridas e cooperará com os pequenos e médios proprietários rurais para o estabelecimento, em suas glebas, de fontes de água e de pequena irrigação. ^0747fe3
 
-	*   S  ,            [[#^|]], [[#^|III]],           . (I  E C  ,  ) ^
+	* § 4° Sempre que possível, a concessão dos incentivos regionais a que se refere o § [[#^c3d0c38|2°]], [[#^2431469|III]], considerará critérios de sustentabilidade ambiental e redução das emissões de carbono. (Incluído pela Emenda Constitucional n° 132, de 2023) ^12acc27
 
-# . TÍTULO IV - DA ORGANIZAÇÃO DOS PODERES (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO IV - DA ORGANIZAÇÃO DOS PODERES (ARTS.  A )|R]]
+# 4. TÍTULO IV - DA ORGANIZAÇÃO DOS PODERES (ARTS. 44 A 135)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4. TÍTULO IV - DA ORGANIZAÇÃO DOS PODERES (ARTS. 44 A 135)|Resumo]]
 
-## .. CAPÍTULO I - DO PODER LEGISLATIVO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO I - DO PODER LEGISLATIVO (ARTS.  A )|R]]
+## 4.1. CAPÍTULO I - DO PODER LEGISLATIVO (ARTS. 44 A 75)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1. CAPÍTULO I - DO PODER LEGISLATIVO (ARTS. 44 A 75)|Resumo]]
 
-### ... SEÇÃO I - DO CONGRESSO NACIONAL (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO I - DO CONGRESSO NACIONAL (ARTS.  A )|R]]
+### 4.1.1. SEÇÃO I - DO CONGRESSO NACIONAL (ARTS. 44 A 47)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.1. SEÇÃO I - DO CONGRESSO NACIONAL (ARTS. 44 A 47)|Resumo]]
 
-* A. . O P L    C N,     C  D   S . ^
+* Art. 44. O Poder Legislativo é exercido pelo Congresso Nacional, que se compõe da Câmara dos Deputados e do Senado Federal. ^d287e01
 
-	* P . C       . ^
+	* Parágrafo único. Cada legislatura terá a duração de quatro anos. ^77d050a
 
-* A. . A C  D -    , ,   ,   E,   T   D . ^
+* Art. 45. A Câmara dos Deputados compõe-se de representantes do povo, eleitos, pelo sistema proporcional, em cada Estado, em cada Território e no Distrito Federal. ^5993ee2
 
-	*   O    D,      E   D ,     ,   , -   ,     ,                D. (V L C  ,  ) ^
+	* § 1° O número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas unidades da Federação tenha menos de oito ou mais de setenta Deputados. (Vide Lei Complementar n° 78, de 1993) ^0d9650e
 
-	*   C T   D. ^
+	* § 2° Cada Território elegerá quatro Deputados. ^4712f41
 
-* A. . O S  -    E   D ,     . ^
+* Art. 46. O Senado Federal compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário. ^d7c3232
 
-	*   C E   D    S,     . ^
+	* § 1° Cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos. ^74fce6a
 
-	*   A    E   D        , ,     . ^
+	* § 2° A representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços. ^aefdd96
 
-	*   C S     . ^
+	* § 3° Cada Senador será eleito com dois suplentes. ^bcdaf91
 
-* A. . S    ,     C    C      ,       . ^
+* Art. 47. Salvo disposição constitucional em contrário, as deliberações de cada Casa e de suas Comissões serão tomadas por maioria dos votos, presente a maioria absoluta de seus membros. ^c61a3d2
 
-### ... SEÇÃO II - DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO II - DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL (ARTS.  A )|R]]
+### 4.1.2. SEÇÃO II - DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL (ARTS. 48 A 50)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.2. SEÇÃO II - DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL (ARTS. 48 A 50)|Resumo]]
 
-* A. . C  C N,     P  R,        . [[#^|]], [[#^|]]  [[#^|]],         U,  : ^
+* Art. 48. Cabe ao Congresso Nacional, com a sanção do Presidente da República, não exigida esta para o especificado nos arts. [[#^0f2f05b|49]], [[#^2f7a2ba|51]] e [[#^f00796a|52]], dispor sobre todas as matérias de competência da União, especialmente sobre: ^bc34018
 
-	* I -  ,     ; ^
+	* I - sistema tributário, arrecadação e distribuição de rendas; ^e7b10ea
 
-	* II -  , z ,  ,   ,       ; ^
+	* II - plano plurianual, diretrizes orçamentárias, orçamento anual, operações de crédito, dívida pública e emissões de curso forçado; ^fd2cc97
 
-	* III -        A; ^
+	* III - fixação e modificação do efetivo das Forças Armadas; ^4256af0
 
-	* IV -    ,     ; ^
+	* IV - planos e programas nacionais, regionais e setoriais de desenvolvimento; ^47716bd
 
-	* V -    ,          U; ^
+	* V - limites do território nacional, espaço aéreo e marítimo e bens do domínio da União; ^246add6
 
-	* VI - ,       T  E,    A L; ^
+	* VI - incorporação, subdivisão ou desmembramento de áreas de Territórios ou Estados, ouvidas as respectivas Assembléias Legislativas; ^2569039
 
-	* VII -      G ; ^
+	* VII - transferência temporária da sede do Governo Federal; ^7600c5d
 
-	* VIII -   ; ^
+	* VIII - concessão de anistia; ^a76283f
 
-	* IX - z , ,  M P   D P  U   T  z    M P  D ; (R   E C  ,  ) (P  ) ^
+	* IX - organização administrativa, judiciária, do Ministério Público e da Defensoria Pública da União e dos Territórios e organização judiciária e do Ministério Público do Distrito Federal; (Redação dada pela Emenda Constitucional n° 69, de 2012) (Produção de efeito) ^4b6e47f
 
-	* X - ,     ,    ,      . [[#^|]], [[#^|VI]], [[#^|]]; (R   E C  ,  ) ^
+	* X - criação, transformação e extinção de cargos, empregos e funções públicas, observado o que estabelece o art. [[#^b346ba5|84]], [[#^5af635b|VI]], [[#^4f250c2|b]]; (Redação dada pela Emenda Constitucional n° 32, de 2001) ^eea67a2
 
-	* XI -     M     ; (R   E C  ,  ) ^
+	* XI - criação e extinção de Ministérios e órgãos da administração pública; (Redação dada pela Emenda Constitucional n° 32, de 2001) ^40df001
 
-	* XII -   ; ^
+	* XII - telecomunicações e radiodifusão; ^3ca3d7b
 
-	* XIII -  ,   ,     ; ^
+	* XIII - matéria financeira, cambial e monetária, instituições financeiras e suas operações; ^bba353f
 
-	* XIV - ,    ,      . ^
+	* XIV - moeda, seus limites de emissão, e montante da dívida mobiliária federal. ^f1266e8
 
-	* XV -     M  S T ,      . [[#^|]],  [[#^|]]; [[#^|]], [[#^|II]]; [[#^|]], [[#^|III]];  [[#^|]],  [[#^|]], [[#^|I]]. (R   E C  , ..) ^
+	* XV - fixação do subsídio dos Ministros do Supremo Tribunal Federal, observado o que dispõem os arts. [[#^a4b00e0|39]], § [[#^51bdef8|4°]]; [[#^95551ec|150]], [[#^43dd743|II]]; [[#^b48cd87|153]], [[#^f267e04|III]]; e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]. (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^07ea257
 
-* A. . É     C N: ^
+* Art. 49. É da competência exclusiva do Congresso Nacional: ^0f2f05b
 
-	* I -    ,             ; ^
+	* I - resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou compromissos gravosos ao patrimônio nacional; ^527af47
 
-	* II - z  P  R   ,    z,             ,       ; ^
+	* II - autorizar o Presidente da República a declarar guerra, a celebrar a paz, a permitir que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente, ressalvados os casos previstos em lei complementar; ^0cdab78
 
-	* III - z  P   V-P  R     P,      z ; ^
+	* III - autorizar o Presidente e o Vice-Presidente da República a se ausentarem do País, quando a ausência exceder a quinze dias; ^75bdd5a
 
-	* IV -         , z    ,      ; ^
+	* IV - aprovar o estado de defesa e a intervenção federal, autorizar o estado de sítio, ou suspender qualquer uma dessas medidas; ^b1cc4fe
 
-	* V -      P E           ; ^
+	* V - sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa; ^4670537
 
-	* VI -    ; ^
+	* VI - mudar temporariamente sua sede; ^979fe21
 
-	* VII -      D    S,      . [[#^|]], [[#^|XI]], [[#^|]],  [[#^|]], [[#^|]], [[#^|II]], [[#^|]], [[#^|III]],  [[#^|]],  [[#^|]], [[#^|I]]; (R   E C  ,  ) ^
+	* VII - fixar idêntico subsídio para os Deputados Federais e os Senadores, observado o que dispõem os arts. [[#^73a80b7|37]], [[#^3af496b|XI]], [[#^a4b00e0|39]], § [[#^51bdef8|4°]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^58806c0
 
-	* VIII -     P   V-P  R   M  E,      . [[#^|]], [[#^|XI]], [[#^|]],  [[#^|]], [[#^|]], [[#^|II]], [[#^|]], [[#^|III]],  [[#^|]],  [[#^|]], [[#^|I]]; (R   E C  ,  ) ^
+	* VIII - fixar os subsídios do Presidente e do Vice-Presidente da República e dos Ministros de Estado, observado o que dispõem os arts. [[#^73a80b7|37]], [[#^3af496b|XI]], [[#^a4b00e0|39]], § [[#^51bdef8|4°]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^540d7af
 
-	* IX -       P  R           ; ^
+	* IX - julgar anualmente as contas prestadas pelo Presidente da República e apreciar os relatórios sobre a execução dos planos de governo; ^6a7e37a
 
-	* X - z  , ,      C,    P E,     ; ^
+	* X - fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do Poder Executivo, incluídos os da administração indireta; ^cba25d9
 
-	* XI - z              P; ^
+	* XI - zelar pela preservação de sua competência legislativa em face da atribuição normativa dos outros Poderes; ^f3f3c43
 
-	* XII -               ; ^
+	* XII - apreciar os atos de concessão e renovação de concessão de emissoras de rádio e televisão; ^0563faa
 
-	* XIII -       T  C  U; ^
+	* XIII - escolher dois terços dos membros do Tribunal de Contas da União; ^dedcb22
 
-	* XIV -    P E    ; ^
+	* XIV - aprovar iniciativas do Poder Executivo referentes a atividades nucleares; ^6972e06
 
-	* XV - z    ; ^
+	* XV - autorizar referendo e convocar plebiscito; ^815876b
 
-	* XVI - z,   ,               z ; ^
+	* XVI - autorizar, em terras indígenas, a exploração e o aproveitamento de recursos hídricos e a pesquisa e lavra de riquezas minerais; ^8f01b4f
 
-	* XVII - , ,                . ^
+	* XVII - aprovar, previamente, a alienação ou concessão de terras públicas com área superior a dois mil e quinhentos hectares. ^66d7f08
 
-	* XVIII -            . [[#^|-B]], [[#^|-C]], [[#^|-D]], [[#^|-E]], [[#^|-]]  [[#^|-G]]  C. (I  E C  ,  ) ^
+	* XVIII - decretar o estado de calamidade pública de âmbito nacional previsto nos arts. [[#^e5ddbd9|167-B]], [[#^322249c|167-C]], [[#^b2d15c7|167-D]], [[#^b0eb937|167-E]], [[#^0dcb548|167-F]] e [[#^ed3a2b5|167-G]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^b5ce5b0
 
-* A. . A C  D   S ,     C,   M  E,        P  R   P  C G  I  B  S  , ,     ,         . (R   E C  ,  ) ^
+* Art. 50. A Câmara dos Deputados e o Senado Federal, ou qualquer de suas Comissões, poderão convocar Ministro de Estado, quaisquer titulares de órgãos diretamente subordinados à Presidência da República ou o Presidente do Comitê Gestor do Imposto sobre Bens e Serviços para prestarem, pessoalmente, informações sobre assunto previamente determinado, importando crime de responsabilidade a ausência sem justificação adequada. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^a72753c
 
-	*   O M  E    S ,  C  D,      C,         M ,        M. ^
+	* § 1° Os Ministros de Estado poderão comparecer ao Senado Federal, à Câmara dos Deputados, ou a qualquer de suas Comissões, por sua iniciativa e mediante entendimentos com a Mesa respectiva, para expor assunto de relevância de seu Ministério. ^873dc97
 
-	*   A M  C  D   S         M  E          ,       ,    - ,  z   ,       . (R   E C  R  ,  ) ^
+	* § 2° As Mesas da Câmara dos Deputados e do Senado Federal poderão encaminhar pedidos escritos de informações a Ministros de Estado ou a qualquer das pessoas referidas no caput deste artigo, importando em crime de responsabilidade a recusa, ou o não - atendimento, no prazo de trinta dias, bem como a prestação de informações falsas. (Redação dada pela Emenda Constitucional de Revisão n° 2, de 1994) ^599eb53
 
-### ... SEÇÃO III - DA CÂMARA DOS DEPUTADOS (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO III - DA CÂMARA DOS DEPUTADOS (ART. )|R]]
+### 4.1.3. SEÇÃO III - DA CÂMARA DOS DEPUTADOS (ART. 51)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.3. SEÇÃO III - DA CÂMARA DOS DEPUTADOS (ART. 51)|Resumo]]
 
-* A. . C   C  D: ^
+* Art. 51. Compete privativamente à Câmara dos Deputados: ^2f7a2ba
 
-	* I - z,      ,       P   V-P  R   M  E; ^
+	* I - autorizar, por dois terços de seus membros, a instauração de processo contra o Presidente e o Vice-Presidente da República e os Ministros de Estado; ^e11e161
 
-	* II -       P  R,     C N          ; ^
+	* II - proceder à tomada de contas do Presidente da República, quando não apresentadas ao Congresso Nacional dentro de sessenta dias após a abertura da sessão legislativa; ^30f26d5
 
-	* III -    ; ^
+	* III - elaborar seu regimento interno; ^303d31a
 
-	* IV -    z, , , ,     ,      ,          ,        z ; (R   E C  ,  ) ^
+	* IV - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^8072285
 
-	* V -    C  R,    . [[#^|]], [[#^|VII]]. ^
+	* V - eleger membros do Conselho da República, nos termos do art. [[#^fcb64cb|89]], [[#^2772425|VII]]. ^2133368
 
-### ... SEÇÃO IV - DO SENADO EDERAL (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO IV - DO SENADO EDERAL (ART. )|R]]
+### 4.1.4. SEÇÃO IV - DO SENADO FEDERAL (ART. 52)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.4. SEÇÃO IV - DO SENADO FEDERAL (ART. 52)|Resumo]]
 
-* A. . C   S : ^
+* Art. 52. Compete privativamente ao Senado Federal: ^f00796a
 
-	* I -     P   V-P  R    ,    M  E   C  M,  E   A     z   ; (R   E C  ,  ) ^
+	* I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade, bem como os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica nos crimes da mesma natureza conexos com aqueles; (Redação dada pela Emenda Constitucional n° 23, de 1999) ^3545f3d
 
-	* II     M  S T ,    C N  J   C N  M P,  P-G  R   A-G  U    ; (R   E C  ,  ) ^
+	* II processar e julgar os Ministros do Supremo Tribunal Federal, os membros do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público, o Procurador-Geral da República e o Advogado-Geral da União nos crimes de responsabilidade; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^df26ddd
 
-	* III -  ,   ,   ,   : ^
+	* III - aprovar previamente, por voto secreto, após argüição pública, a escolha de: ^710aa77
 
-		* ) M,     C; ^
+		* a) Magistrados, nos casos estabelecidos nesta Constituição; ^7408968
 
-		* ) M  T  C  U   P  R; ^
+		* b) Ministros do Tribunal de Contas da União indicados pelo Presidente da República; ^e67289e
 
-		* ) G  T; ^
+		* c) Governador de Território; ^076b855
 
-		* ) P     ; ^
+		* d) Presidente e diretores do banco central; ^e5afb38
 
-		* ) P-G  R; ^
+		* e) Procurador-Geral da República; ^f1ab7c5
 
-		* )        ; ^
+		* f) titulares de outros cargos que a lei determinar; ^3bf1cef
 
-	* IV -  ,   ,     ,          ; ^
+	* IV - aprovar previamente, por voto secreto, após argüição em sessão secreta, a escolha dos chefes de missão diplomática de caráter permanente; ^68058ab
 
-	* V - z    z ,    U,  E,  D ,  T   M; ^
+	* V - autorizar operações externas de natureza financeira, de interesse da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios; ^71cd3d5
 
-	* VI - ,    P  R,          U,  E,  D    M; ^
+	* VI - fixar, por proposta do Presidente da República, limites globais para o montante da dívida consolidada da União, dos Estados, do Distrito Federal e dos Municípios; ^a8442fb
 
-	* VII -                U,  E,  D    M,         P P ; ^
+	* VII - dispor sobre limites globais e condições para as operações de crédito externo e interno da União, dos Estados, do Distrito Federal e dos Municípios, de suas autarquias e demais entidades controladas pelo Poder Público federal; ^d9e25c1
 
-	* VIII -            U       ; ^
+	* VIII - dispor sobre limites e condições para a concessão de garantia da União em operações de crédito externo e interno; ^eab644e
 
-	* IX -             E,  D    M; ^
+	* IX - estabelecer limites globais e condições para o montante da dívida mobiliária dos Estados, do Distrito Federal e dos Municípios; ^8dab18f
 
-	* X -   ,     ,         S T ; ^
+	* X - suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal; ^2decf69
 
-	* XI - ,       ,  ,  ,  P-G  R      ; ^
+	* XI - aprovar, por maioria absoluta e por voto secreto, a exoneração, de ofício, do Procurador-Geral da República antes do término de seu mandato; ^4c9e971
 
-	* XII -    ; ^
+	* XII - elaborar seu regimento interno; ^85f12df
 
-	* XIII -    z, , , ,     ,      ,          ,        z ; (R   E C  ,  ) ^
+	* XIII - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^6a353ec
 
-	* XIV -    C  R,    . [[#^|]], [[#^|VII]]. ^
+	* XIV - eleger membros do Conselho da República, nos termos do art. [[#^fcb64cb|89]], [[#^2772425|VII]]. ^5246a0e
 
-	* XV -      S T N,      ,        U,  E   D    M. (I  E C  ,  ..) ^
+	* XV - avaliar periodicamente a funcionalidade do Sistema Tributário Nacional, em sua estrutura e seus componentes, e o desempenho das administrações tributárias da União, dos Estados e do Distrito Federal e dos Municípios. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^cd22a71
 
-	* P . N     [[#^|I]]  [[#^|II]],   P   S T , -  ,           S ,    ,  ,   ,      ,  z     . ^
+	* Parágrafo único. Nos casos previstos nos incisos [[#^3545f3d|I]] e [[#^df26ddd|II]], funcionará como Presidente o do Supremo Tribunal Federal, limitando-se a condenação, que somente será proferida por dois terços dos votos do Senado Federal, à perda do cargo, com inabilitação, por oito anos, para o exercício de função pública, sem prejuízo das demais sanções judiciais cabíveis. ^466cf37
 
-### ... SEÇÃO V - DOS DEPUTADOS E DOS SENADORES (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO V - DOS DEPUTADOS E DOS SENADORES (ARTS.  A )|R]]
+### 4.1.5. SEÇÃO V - DOS DEPUTADOS E DOS SENADORES (ARTS. 53 A 56)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.5. SEÇÃO V - DOS DEPUTADOS E DOS SENADORES (ARTS. 53 A 56)|Resumo]]
 
-* A. . O D  S  ,   ,     ,   . (R   E C  ,  ) ^
+* Art. 53. Os Deputados e Senadores são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos. (Redação dada pela Emenda Constitucional n° 35, de 2001) ^a73816d
 
-	*   O D  S,     ,       S T . (R   E C  ,  ) ^
+	* § 1° Os Deputados e Senadores, desde a expedição do diploma, serão submetidos a julgamento perante o Supremo Tribunal Federal. (Redação dada pela Emenda Constitucional n° 35, de 2001) ^c467f0b
 
-	*   D    ,    C N    ,      . N ,            C ,  ,       ,    . (R   E C  ,  ) ^
+	* § 2° Desde a expedição do diploma, os membros do Congresso Nacional não poderão ser presos, salvo em flagrante de crime inafiançável. Nesse caso, os autos serão remetidos dentro de vinte e quatro horas à Casa respectiva, para que, pelo voto da maioria de seus membros, resolva sobre a prisão. (Redação dada pela Emenda Constitucional n° 35, de 2001) ^49a5768
 
-	*   R     S  D,      ,  S T     C , ,               , ,    ,     . (R   E C  ,  ) ^
+	* § 3° Recebida a denúncia contra o Senador ou Deputado, por crime ocorrido após a diplomação, o Supremo Tribunal Federal dará ciência à Casa respectiva, que, por iniciativa de partido político nela representado e pelo voto da maioria de seus membros, poderá, até a decisão final, sustar o andamento da ação. (Redação dada pela Emenda Constitucional n° 35, de 2001) ^8fd48cf
 
-	*   O       C   z           M D. (R   E C  ,  ) ^
+	* § 4° O pedido de sustação será apreciado pela Casa respectiva no prazo improrrogável de quarenta e cinco dias do seu recebimento pela Mesa Diretora. (Redação dada pela Emenda Constitucional n° 35, de 2001) ^bf4e989
 
-	*   A      ,    . (R   E C  ,  ) ^
+	* § 5° A sustação do processo suspende a prescrição, enquanto durar o mandato. (Redação dada pela Emenda Constitucional n° 35, de 2001) ^5454c9d
 
-	*   O D  S            z    ,           . (R   E C  ,  ) ^
+	* § 6° Os Deputados e Senadores não serão obrigados a testemunhar sobre informações recebidas ou prestadas em razão do exercício do mandato, nem sobre as pessoas que lhes confiaram ou deles receberam informações. (Redação dada pela Emenda Constitucional n° 35, de 2001) ^3bac31c
 
-	*   A    A  D  S,         ,      C . (R   E C  ,  ) ^
+	* § 7° A incorporação às Forças Armadas de Deputados e Senadores, embora militares e ainda que em tempo de guerra, dependerá de prévia licença da Casa respectiva. (Redação dada pela Emenda Constitucional n° 35, de 2001) ^85834b6
 
-	*   A   D  S      ,              C ,          C N,        . (I  E C  ,  ) ^
+	* § 8° As imunidades de Deputados ou Senadores subsistirão durante o estado de sítio, só podendo ser suspensas mediante o voto de dois terços dos membros da Casa respectiva, nos casos de atos praticados fora do recinto do Congresso Nacional, que sejam incompatíveis com a execução da medida. (Incluído pela Emenda Constitucional n° 35, de 2001) ^ea568c1
 
-* A. . O D  S  : ^
+* Art. 54. Os Deputados e Senadores não poderão: ^9c95fb6
 
-	* I -     : ^
+	* I - desde a expedição do diploma: ^79694eb
 
-		* )          , ,  ,          ,        ; ^
+		* a) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o contrato obedecer a cláusulas uniformes; ^85ee470
 
-		* )    ,    ,       " ",      ; ^
+		* b) aceitar ou exercer cargo, função ou emprego remunerado, inclusive os de que sejam demissíveis "ad nutum", nas entidades constantes da alínea anterior; ^e851c9c
 
-	* II -   : ^
+	* II - desde a posse: ^232ed8f
 
-		* )  ,       z           ,     ; ^
+		* a) ser proprietários, controladores ou diretores de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público, ou nela exercer função remunerada; ^c6fa55d
 
-		* )         " ",      [[#^|I]], "[[#^|]]"; ^
+		* b) ocupar cargo ou função de que sejam demissíveis "ad nutum", nas entidades referidas no inciso [[#^79694eb|I]], "[[#^85ee470|a]]"; ^ba4f284
 
-		* )                [[#^|I]], "[[#^|]]"; ^
+		* c) patrocinar causa em que seja interessada qualquer das entidades a que se refere o inciso [[#^79694eb|I]], "[[#^85ee470|a]]"; ^7c8b36b
 
-		* )           . ^
+		* d) ser titulares de mais de um cargo ou mandato público eletivo. ^a16ed7f
 
-* A. . P    D  S: ^
+* Art. 55. Perderá o mandato o Deputado ou Senador: ^d9d77c7
 
-	* I -         ; ^
+	* I - que infringir qualquer das proibições estabelecidas no artigo anterior; ^9e0489b
 
-	* II -         ; ^
+	* II - cujo procedimento for declarado incompatível com o decoro parlamentar; ^a21eeec
 
-	* III -    ,    ,        C   ,       z; ^
+	* III - que deixar de comparecer, em cada sessão legislativa, à terça parte das sessões ordinárias da Casa a que pertencer, salvo licença ou missão por esta autorizada; ^c9d2a86
 
-	* IV -        ; ^
+	* IV - que perder ou tiver suspensos os direitos políticos; ^7193ba1
 
-	* V -     J E,     C; ^
+	* V - quando o decretar a Justiça Eleitoral, nos casos previstos nesta Constituição; ^ae6cdfb
 
-	* VI -         . ^
+	* VI - que sofrer condenação criminal em sentença transitada em julgado. ^d93b652
 
-	*   - É     ,       ,         C N      . ^
+	* § 1° - É incompatível com o decoro parlamentar, além dos casos definidos no regimento interno, o abuso das prerrogativas asseguradas a membro do Congresso Nacional ou a percepção de vantagens indevidas. ^9706700
 
-	*   N    [[#^|I]], [[#^|II]]  [[#^|VI]],        C  D   S ,   ,     M       C N,   . (R   E C  ,  ) ^
+	* § 2° Nos casos dos incisos [[#^9e0489b|I]], [[#^a21eeec|II]] e [[#^d93b652|VI]], a perda do mandato será decidida pela Câmara dos Deputados ou pelo Senado Federal, por maioria absoluta, mediante provocação da respectiva Mesa ou de partido político representado no Congresso Nacional, assegurada ampla defesa. (Redação dada pela Emenda Constitucional n° 76, de 2013) ^b6975f9
 
-	*   N     [[#^|III]]  [[#^|V]],      M  C ,          ,       C N,   . ^
+	* § 3° Nos casos previstos nos incisos [[#^c9d2a86|III]] a [[#^ae6cdfb|V]], a perda será declarada pela Mesa da Casa respectiva, de ofício ou mediante provocação de qualquer de seus membros, ou de partido político representado no Congresso Nacional, assegurada ampla defesa. ^18efa93
 
-	*   A               ,    ,              [[#^|]]  [[#^|]]. (I  E C  R  ,  ) ^
+	* § 4° A renúncia de parlamentar submetido a processo que vise ou possa levar à perda do mandato, nos termos deste artigo, terá seus efeitos suspensos até as deliberações finais de que tratam os §§ [[#^b6975f9|2°]] e [[#^18efa93|3°]]. (Incluído pela Emenda Constitucional de Revisão n° 6, de 1994) ^93ec63d
 
-* A. . N     D  S: ^
+* Art. 56. Não perderá o mandato o Deputado ou Senador: ^729d75d
 
-	* I -     M  E, G  T, S  E,  D ,  T,  P  C      ; ^
+	* I - investido no cargo de Ministro de Estado, Governador de Território, Secretário de Estado, do Distrito Federal, de Território, de Prefeitura de Capital ou chefe de missão diplomática temporária; ^5a5ad67
 
-	* II -    C    ,   ,  ,   ,  ,  ,           . ^
+	* II - licenciado pela respectiva Casa por motivo de doença, ou para tratar, sem remuneração, de interesse particular, desde que, neste caso, o afastamento não ultrapasse cento e vinte dias por sessão legislativa. ^8414078
 
-	*   O       ,                . ^
+	* § 1° O suplente será convocado nos casos de vaga, de investidura em funções previstas neste artigo ou de licença superior a cento e vinte dias. ^f48911c
 
-	*   O     , --   -     z      . ^
+	* § 2° Ocorrendo vaga e não havendo suplente, far-se-á eleição para preenchê-la se faltarem mais de quinze meses para o término do mandato. ^569f32d
 
-	*   N    [[#^|I]],  D  S      . ^
+	* § 3° Na hipótese do inciso [[#^5a5ad67|I]], o Deputado ou Senador poderá optar pela remuneração do mandato. ^3b52739
 
-### ... SEÇÃO VI - DAS REUNIÕES (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO VI - DAS REUNIÕES (ART. )|R]]
+### 4.1.6. SEÇÃO VI - DAS REUNIÕES (ART. 57)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.6. SEÇÃO VI - DAS REUNIÕES (ART. 57)|Resumo]]
 
-* A. . O C N --, ,  C ,                 z. (R   E C  ,  ) ^
+* Art. 57. O Congresso Nacional reunir-se-á, anualmente, na Capital Federal, de 2 de fevereiro a 17 de julho e de 1° de agosto a 22 de dezembro. (Redação dada pela Emenda Constitucional n° 50, de 2006) ^4c66ff2
 
-	*   A             ,    ,   . ^
+	* § 1° As reuniões marcadas para essas datas serão transferidas para o primeiro dia útil subseqüente, quando recaírem em sábados, domingos ou feriados. ^5c11dac
 
-	*   A              z . ^
+	* § 2° A sessão legislativa não será interrompida sem a aprovação do projeto de lei de diretrizes orçamentárias. ^cf59674
 
-	*   A      C,  C  D   S  --    : ^
+	* § 3° Além de outros casos previstos nesta Constituição, a Câmara dos Deputados e o Senado Federal reunir-se-ão em sessão conjunta para: ^9afa57e
 
-		* I -    ; ^
+		* I - inaugurar a sessão legislativa; ^092e53d
 
-		* II -              C; ^
+		* II - elaborar o regimento comum e regular a criação de serviços comuns às duas Casas; ^4d723d9
 
-		* III -     P   V-P  R; ^
+		* III - receber o compromisso do Presidente e do Vice-Presidente da República; ^781936d
 
-		* IV -       . ^
+		* IV - conhecer do veto e sobre ele deliberar. ^e3abf91
 
-	*   C   C --   ,      ,     ,           M,     () ,           . (R   E C  ,  ) ^
+	* § 4° Cada uma das Casas reunir-se-á em sessões preparatórias, a partir de 1° de fevereiro, no primeiro ano da legislatura, para a posse de seus membros e eleição das respectivas Mesas, para mandato de 2 (dois) anos, vedada a recondução para o mesmo cargo na eleição imediatamente subseqüente. (Redação dada pela Emenda Constitucional n° 50, de 2006) ^ee9664e
 
-	*   A M  C N    P  S ,      , ,       C  D   S . ^
+	* § 5° A Mesa do Congresso Nacional será presidida pelo Presidente do Senado Federal, e os demais cargos serão exercidos, alternadamente, pelos ocupantes de cargos equivalentes na Câmara dos Deputados e no Senado Federal. ^24ec05e
 
-	*   A    C N --: (R   E C  ,  ) ^
+	* § 6° A convocação extraordinária do Congresso Nacional far-se-á: (Redação dada pela Emenda Constitucional n° 50, de 2006) ^1584fd8
 
-		* I -  P  S ,            ,    z                P   V-P  R; ^
+		* I - pelo Presidente do Senado Federal, em caso de decretação de estado de defesa ou de intervenção federal, de pedido de autorização para a decretação de estado de sítio e para o compromisso e a posse do Presidente e do Vice-Presidente da República; ^21530f0
 
-		* II -  P  R,  P  C  D   S            C,        ,                 C  C N. (R   E C  ,  ) ^
+		* II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal ou a requerimento da maioria dos membros de ambas as Casas, em caso de urgência ou interesse público relevante, em todas as hipóteses deste inciso com a aprovação da maioria absoluta de cada uma das Casas do Congresso Nacional. (Redação dada pela Emenda Constitucional n° 50, de 2006) ^1d2375a
 
-	*   N   ,  C N          ,      [[#^|]]  ,      z,  z  . (R   E C  ,  ) ^
+	* § 7° Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado, ressalvada a hipótese do § [[#^3e9f860|8°]] deste artigo, vedado o pagamento de parcela indenizatória, em razão da convocação. (Redação dada pela Emenda Constitucional n° 50, de 2006) ^013fada
 
-	*   H           C N,        . (I  E C  ,  ) ^
+	* § 8° Havendo medidas provisórias em vigor na data de convocação extraordinária do Congresso Nacional, serão elas automaticamente incluídas na pauta da convocação. (Incluído pela Emenda Constitucional n° 32, de 2001) ^3e9f860
 
-### ... SEÇÃO VII - DAS COMISSÕES (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO VII - DAS COMISSÕES (ART. )|R]]
+### 4.1.7. SEÇÃO VII - DAS COMISSÕES (ART. 58)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.7. SEÇÃO VII - DAS COMISSÕES (ART. 58)|Resumo]]
 
-* A. . O C N   C     ,                   . ^
+* Art. 58. O Congresso Nacional e suas Casas terão comissões permanentes e temporárias, constituídas na forma e com as atribuições previstas no respectivo regimento ou no ato de que resultar sua criação. ^4b6567b
 
-	*   N   M    C,  ,   ,              C. ^
+	* § 1° Na constituição das Mesas e de cada Comissão, é assegurada, tanto quanto possível, a representação proporcional dos partidos ou dos blocos parlamentares que participam da respectiva Casa. ^33fe555
 
-	*   À ,  z     , : ^
+	* § 2° Às comissões, em razão da matéria de sua competência, cabe: ^c1e4ddc
 
-		* I -        ,    ,    P,           C; ^
+		* I - discutir e votar projeto de lei que dispensar, na forma do regimento, a competência do Plenário, salvo se houver recurso de um décimo dos membros da Casa; ^c6dcaba
 
-		* II - z       ; ^
+		* II - realizar audiências públicas com entidades da sociedade civil; ^98d7312
 
-		* III -  M  E         ; ^
+		* III - convocar Ministros de Estado para prestar informações sobre assuntos inerentes a suas atribuições; ^7bc1e7a
 
-		* IV -  , ,               ; ^
+		* IV - receber petições, reclamações, representações ou queixas de qualquer pessoa contra atos ou omissões das autoridades ou entidades públicas; ^e6f3ad7
 
-		* V -       ; ^
+		* V - solicitar depoimento de qualquer autoridade ou cidadão; ^40d9f3f
 
-		* VI -    ,  ,          . ^
+		* VI - apreciar programas de obras, planos nacionais, regionais e setoriais de desenvolvimento e sobre eles emitir parecer. ^6eccd01
 
-	*   A    ,         ,         C,    C  D   S ,    ,        ,         z ,   ,    ,   M P,          . ^
+	* § 3° As comissões parlamentares de inquérito, que terão poderes de investigação próprios das autoridades judiciais, além de outros previstos nos regimentos das respectivas Casas, serão criadas pela Câmara dos Deputados e pelo Senado Federal, em conjunto ou separadamente, mediante requerimento de um terço de seus membros, para a apuração de fato determinado e por prazo certo, sendo suas conclusões, se for o caso, encaminhadas ao Ministério Público, para que promova a responsabilidade civil ou criminal dos infratores. ^d445ded
 
-	*   D  ,   C   C N,    C       ,      ,   z,  ,     . ^
+	* § 4° Durante o recesso, haverá uma Comissão representativa do Congresso Nacional, eleita por suas Casas na última sessão ordinária do período legislativo, com atribuições definidas no regimento comum, cuja composição reproduzirá, quanto possível, a proporcionalidade da representação partidária. ^f142368
 
-### ... SEÇÃO VIII - DO PROCESSO LEGISLATIVO (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO VIII - DO PROCESSO LEGISLATIVO (ARTS.  A )|R]]
+### 4.1.8. SEÇÃO VIII - DO PROCESSO LEGISLATIVO (ARTS. 59 A 69)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.8. SEÇÃO VIII - DO PROCESSO LEGISLATIVO (ARTS. 59 A 69)|Resumo]]
 
-#### .... SUBSEÇÃO I - DISPOSIÇÃO GERAL (ART. )
-[[NL/C    (C)/MOC/.... SUBSEÇÃO I - DISPOSIÇÃO GERAL (ART. )|R]]
+#### 4.1.8.1. SUBSEÇÃO I - DISPOSIÇÃO GERAL (ART. 59)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.8.1. SUBSEÇÃO I - DISPOSIÇÃO GERAL (ART. 59)|Resumo]]
 
-* A. . O      : ^
+* Art. 59. O processo legislativo compreende a elaboração de: ^c3c95b8
 
-	* I -   C; ^
+	* I - emendas à Constituição; ^92daa4f
 
-	* II -  ; ^
+	* II - leis complementares; ^a4f1aee
 
-	* III -  ; ^
+	* III - leis ordinárias; ^3cf8f57
 
-	* IV -  ; ^
+	* IV - leis delegadas; ^4d09ec1
 
-	* V -  ; ^
+	* V - medidas provisórias; ^ab3467f
 
-	* VI -  ; ^
+	* VI - decretos legislativos; ^f373b84
 
-	* VII - . ^
+	* VII - resoluções. ^e79c454
 
-	* P . L     , ,     . ^
+	* Parágrafo único. Lei complementar disporá sobre a elaboração, redação, alteração e consolidação das leis. ^3ad5241
 
-#### .... SUBSEÇÃO II - DA EMENDA À CONSTITUIÇÃO (ART. )
-[[NL/C    (C)/MOC/.... SUBSEÇÃO II - DA EMENDA À CONSTITUIÇÃO (ART. )|R]]
+#### 4.1.8.2. SUBSEÇÃO II - DA EMENDA À CONSTITUIÇÃO (ART. 60)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.8.2. SUBSEÇÃO II - DA EMENDA À CONSTITUIÇÃO (ART. 60)|Resumo]]
 
-* A. . A C     : ^
+* Art. 60. A Constituição poderá ser emendada mediante proposta: ^97b5b8c
 
-	* I -   ,  ,    C  D   S ; ^
+	* I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal; ^3354f7d
 
-	* II -  P  R; ^
+	* II - do Presidente da República; ^16a8a63
 
-	* III -      A L    , -,   ,      . ^
+	* III - de mais da metade das Assembléias Legislativas das unidades da Federação, manifestando-se, cada uma delas, pela maioria relativa de seus membros. ^bd06ab4
 
-	*   A C         ,         . ^
+	* § 1° A Constituição não poderá ser emendada na vigência de intervenção federal, de estado de defesa ou de estado de sítio. ^36676e3
 
-	*   A        C  C N,   , -   ,  ,       . ^
+	* § 2° A proposta será discutida e votada em cada Casa do Congresso Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros. ^5616992
 
-	*   A   C    M  C  D   S ,      . ^
+	* § 3° A emenda à Constituição será promulgada pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo número de ordem. ^61305bf
 
-	*   N           : ^
+	* § 4° Não será objeto de deliberação a proposta de emenda tendente a abolir: ^9720e66
 
-		* I -     E; ^
+		* I - a forma federativa de Estado; ^cea9967
 
-		* II -   , ,   ; ^
+		* II - o voto direto, secreto, universal e periódico; ^e8c14ae
 
-		* III -    P; ^
+		* III - a separação dos Poderes; ^0c580d7
 
-		* IV -     . ^
+		* IV - os direitos e garantias individuais. ^e679cbd
 
-	*   A                      . ^
+	* § 5° A matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa. ^20c2af0
 
-#### .... SUBSEÇÃO III - DAS LEIS (ARTS.  A )
-[[NL/C    (C)/MOC/.... SUBSEÇÃO III - DAS LEIS (ARTS.  A )|R]]
+#### 4.1.8.3. SUBSEÇÃO III - DAS LEIS (ARTS. 61 A 69)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.8.3. SUBSEÇÃO III - DAS LEIS (ARTS. 61 A 69)|Resumo]]
 
-* A. . A            C  C  D,  S    C N,  P  R,  S T ,  T S,  P-G  R   ,        C. ^
+* Art. 61. A iniciativa das leis complementares e ordinárias cabe a qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na forma e nos casos previstos nesta Constituição. ^57449b2
 
-	*   S     P  R   : ^
+	* § 1° São de iniciativa privativa do Presidente da República as leis que: ^4d53b7d
 
-		* I -        A; ^
+		* I - fixem ou modifiquem os efetivos das Forças Armadas; ^781419e
 
-		* II -  : ^
+		* II - disponham sobre: ^217da9d
 
-			* )   ,              ; ^
+			* a) criação de cargos, funções ou empregos públicos na administração direta e autárquica ou aumento de sua remuneração; ^9f9a0ea
 
-			* ) z   ,    ,        T; ^
+			* b) organização administrativa e judiciária, matéria tributária e orçamentária, serviços públicos e pessoal da administração dos Territórios; ^cd8ec00
 
-			* )    U  T,   ,   ,   ; (R   E C  ,  ) ^
+			* c) servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria; (Redação dada pela Emenda Constitucional n° 18, de 1998) ^9671c14
 
-			* ) z  M P   D P  U,       z  M P   D P  E,  D    T; ^
+			* d) organização do Ministério Público e da Defensoria Pública da União, bem como normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do Distrito Federal e dos Territórios; ^2c2e13f
 
-			* )     M     ,     . [[#^|]], [[#^|VI]]; (R   E C  ,  ) ^
+			* e) criação e extinção de Ministérios e órgãos da administração pública, observado o disposto no art. [[#^b346ba5|84]], [[#^5af635b|VI]]; (Redação dada pela Emenda Constitucional n° 32, de 2001) ^18464bb
 
-			* )    A,   ,   , , , ,      . (I  E C  ,  ) ^
+			* f) militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções, estabilidade, remuneração, reforma e transferência para a reserva. (Incluída pela Emenda Constitucional n° 18, de 1998) ^cb4aa32
 
-	*   A         C  D      ,  ,      ,      E,              . ^
+	* § 2° A iniciativa popular pode ser exercida pela apresentação à Câmara dos Deputados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles. ^9122925
 
-* A. . E     ,  P  R    ,    ,  -    C N. (R   E C  ,  ) ^
+* Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional. (Redação dada pela Emenda Constitucional n° 32, de 2001) ^fee24d9
 
-	*   É        : (I  E C  ,  ) ^
+	* § 1° É vedada a edição de medidas provisórias sobre matéria: (Incluído pela Emenda Constitucional n° 32, de 2001) ^83f7b99
 
-		* I -  : (I  E C  ,  ) ^
+		* I - relativa a: (Incluído pela Emenda Constitucional n° 32, de 2001) ^11511d0
 
-			* ) , ,  ,     ; (I  E C  ,  ) ^
+			* a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral; (Incluído pela Emenda Constitucional n° 32, de 2001) ^821b6c7
 
-			* )  ,     ; (I  E C  ,  ) ^
+			* b) direito penal, processual penal e processual civil; (Incluído pela Emenda Constitucional n° 32, de 2001) ^b5bdd5b
 
-			* ) z  P J   M P,        ; (I  E C  ,  ) ^
+			* c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros; (Incluído pela Emenda Constitucional n° 32, de 2001) ^718cd80
 
-			* )  , z ,      ,     . [[#^|]],  [[#^|]]; (I  E C  ,  ) ^
+			* d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. [[#^68bd784|167]], § [[#^a9bc9a1|3°]]; (Incluído pela Emenda Constitucional n° 32, de 2001) ^e93ab22
 
-		* II -        ,        ; (I  E C  ,  ) ^
+		* II - que vise a detenção ou seqüestro de bens, de poupança popular ou qualquer outro ativo financeiro; (Incluído pela Emenda Constitucional n° 32, de 2001) ^b488aa8
 
-		* III -    ; (I  E C  ,  ) ^
+		* III - reservada a lei complementar; (Incluído pela Emenda Constitucional n° 32, de 2001) ^dc4f771
 
-		* IV -         C N        P  R. (I  E C  ,  ) ^
+		* IV - já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente de sanção ou veto do Presidente da República. (Incluído pela Emenda Constitucional n° 32, de 2001) ^6703d94
 
-	*   M        ,     . [[#^|]], [[#^|I]], [[#^|II]], [[#^|IV]], [[#^|V]],  [[#^|]], [[#^|II]],  z                    . (I  E C  ,  ) ^
+	* § 2° Medida provisória que implique instituição ou majoração de impostos, exceto os previstos nos arts. [[#^b48cd87|153]], [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^b6b5f55|IV]], [[#^913e692|V]], e [[#^f00bcde|154]], [[#^b614f29|II]], só produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada. (Incluído pela Emenda Constitucional n° 32, de 2001) ^c0c255d
 
-	*   A  ,      [[#^|]]  [[#^|]]  ,   ,        z   , ,     [[#^|]],  z   ,   C N ,   ,     . (I  E C  ,  ) ^
+	* § 3° As medidas provisórias, ressalvado o disposto nos §§ [[#^ec5a294|11]] e [[#^6a026b9|12]] perderão eficácia, desde a edição, se não forem convertidas em lei no prazo de sessenta dias, prorrogável, nos termos do § [[#^e130e47|7°]], uma vez por igual período, devendo o Congresso Nacional disciplinar, por decreto legislativo, as relações jurídicas delas decorrentes. (Incluído pela Emenda Constitucional n° 32, de 2001) ^879eea4
 
-	*   O z       [[#^|]] --     , -       C N. (I  E C  ,  ) ^
+	* § 4° O prazo a que se refere o § [[#^879eea4|3°]] contar-se-á da publicação da medida provisória, suspendendo-se durante os períodos de recesso do Congresso Nacional. (Incluído pela Emenda Constitucional n° 32, de 2001) ^188a170
 
-	*   A      C  C N         z        . (I  E C  ,  ) ^
+	* § 5° A deliberação de cada uma das Casas do Congresso Nacional sobre o mérito das medidas provisórias dependerá de juízo prévio sobre o atendimento de seus pressupostos constitucionais. (Incluído pela Emenda Constitucional n° 32, de 2001) ^6146c81
 
-	*   S                ,     , ,     C  C N,  ,      ,       C    . (I  E C  ,  ) ^
+	* § 6° Se a medida provisória não for apreciada em até quarenta e cinco dias contados de sua publicação, entrará em regime de urgência, subseqüentemente, em cada uma das Casas do Congresso Nacional, ficando sobrestadas, até que se ultime a votação, todas as demais deliberações legislativas da Casa em que estiver tramitando. (Incluído pela Emenda Constitucional n° 32, de 2001) ^cdd5d57
 
-	*   P--   z         ,  z   ,    ,         C  C N. (I  E C  ,  ) ^
+	* § 7° Prorrogar-se-á uma única vez por igual período a vigência de medida provisória que, no prazo de sessenta dias, contado de sua publicação, não tiver a sua votação encerrada nas duas Casas do Congresso Nacional. (Incluído pela Emenda Constitucional n° 32, de 2001) ^e130e47
 
-	*   A        C  D. (I  E C  ,  ) ^
+	* § 8° As medidas provisórias terão sua votação iniciada na Câmara dos Deputados. (Incluído pela Emenda Constitucional n° 32, de 2001) ^c10031b
 
-	*   C     D  S         ,    ,   ,       C  C N. (I  E C  ,  ) ^
+	* § 9° Caberá à comissão mista de Deputados e Senadores examinar as medidas provisórias e sobre elas emitir parecer, antes de serem apreciadas, em sessão separada, pelo plenário de cada uma das Casas do Congresso Nacional. (Incluído pela Emenda Constitucional n° 32, de 2001) ^12d3d66
 
-	*  . É   ,    ,                 z. (I  E C  ,  ) ^
+	* § 10. É vedada a reedição, na mesma sessão legislativa, de medida provisória que tenha sido rejeitada ou que tenha perdido sua eficácia por decurso de prazo. (Incluído pela Emenda Constitucional n° 32, de 2001) ^bbd0d7d
 
-	*  . N           [[#^|]]             ,             --   . (I  E C  ,  ) ^
+	* § 11. Não editado o decreto legislativo a que se refere o § [[#^879eea4|3°]] até sessenta dias após a rejeição ou perda de eficácia de medida provisória, as relações jurídicas constituídas e decorrentes de atos praticados durante sua vigência conservar-se-ão por ela regidas. (Incluído pela Emenda Constitucional n° 32, de 2001) ^ec5a294
 
-	*  . A            ,  --           . (I  E C  ,  ) ^
+	* § 12. Aprovado projeto de lei de conversão alterando o texto original da medida provisória, esta manter-se-á integralmente em vigor até que seja sancionado ou vetado o projeto. (Incluído pela Emenda Constitucional n° 32, de 2001) ^6a026b9
 
-* A. . N      : ^
+* Art. 63. Não será admitido aumento da despesa prevista: ^12ff3c5
 
-	* I -       P  R,     . [[#^|]],  [[#^|]]   [[#^|]]; ^
+	* I - nos projetos de iniciativa exclusiva do Presidente da República, ressalvado o disposto no art. [[#^88327c6|166]], § [[#^17bbcf8|3°]] e § [[#^e77c80e|4°]]; ^5f9c97b
 
-	* II -    z     C  D,  S ,  T    M P. ^
+	* II - nos projetos sobre organização dos serviços administrativos da Câmara dos Deputados, do Senado Federal, dos Tribunais Federais e do Ministério Público. ^d1f877f
 
-* A. . A           P  R,  S T    T S    C  D. ^
+* Art. 64. A discussão e votação dos projetos de lei de iniciativa do Presidente da República, do Supremo Tribunal Federal e dos Tribunais Superiores terão início na Câmara dos Deputados. ^2bcb060
 
-	*   - O P  R          . ^
+	* § 1° - O Presidente da República poderá solicitar urgência para apreciação de projetos de sua iniciativa. ^30a12d4
 
-	*   S,     [[#^|]],  C  D   S       ,   ,      , --        C,      z  ,      . (R   E C  ,  ) ^
+	* § 2° Se, no caso do § [[#^30a12d4|1°]], a Câmara dos Deputados e o Senado Federal não se manifestarem sobre a proposição, cada qual sucessivamente, em até quarenta e cinco dias, sobrestar-se-ão todas as demais deliberações legislativas da respectiva Casa, com exceção das que tenham prazo constitucional determinado, até que se ultime a votação. (Redação dada pela Emenda Constitucional n° 32, de 2001) ^64f8fdf
 
-	*   A     S   C  D --  z  z ,         . ^
+	* § 3° A apreciação das emendas do Senado Federal pela Câmara dos Deputados far-se-á no prazo de dez dias, observado quanto ao mais o disposto no parágrafo anterior. ^0644354
 
-	*   O z   [[#^|]]        C N,       . ^
+	* § 4° Os prazos do § [[#^64f8fdf|2°]] não correm nos períodos de recesso do Congresso Nacional, nem se aplicam aos projetos de código. ^78e7eca
 
-* A. . O       C    ,        ,      ,   C   ,  ,   . ^
+* Art. 65. O projeto de lei aprovado por uma Casa será revisto pela outra, em um só turno de discussão e votação, e enviado à sanção ou promulgação, se a Casa revisora o aprovar, ou arquivado, se o rejeitar. ^e119300
 
-	* P . S   ,   C . ^
+	* Parágrafo único. Sendo o projeto emendado, voltará à Casa iniciadora. ^60b2df4
 
-* A. . A C              P  R, , ,  . ^
+* Art. 66. A Casa na qual tenha sido concluída a votação enviará o projeto de lei ao Presidente da República, que, aquiescendo, o sancionará. ^2e13f57
 
-	*   S  P  R   ,     ,      , --   ,  z  z  ,     ,  ,      ,  P  S     . ^
+	* § 1° Se o Presidente da República considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, no prazo de quinze dias úteis, contados da data do recebimento, e comunicará, dentro de quarenta e oito horas, ao Presidente do Senado Federal os motivos do veto. ^f65d62e
 
-	*   O        ,  ,     . ^
+	* § 2° O veto parcial somente abrangerá texto integral de artigo, de parágrafo, de inciso ou de alínea. ^7e46eff
 
-	*   D  z  z ,    P  R  . ^
+	* § 3° Decorrido o prazo de quinze dias, o silêncio do Presidente da República importará sanção. ^c47ff61
 
-	*   O      ,         ,           D  S. (R   E C  ,  ) ^
+	* § 4° O veto será apreciado em sessão conjunta, dentro de trinta dias a contar de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Deputados e Senadores. (Redação dada pela Emenda Constitucional n° 76, de 2013) ^562556f
 
-	*   S     ,    ,  ,  P  R. ^
+	* § 5° Se o veto não for mantido, será o projeto enviado, para promulgação, ao Presidente da República. ^224dee1
 
-	*   E    z    [[#^|]],           ,    ,    . (R   E C  ,  ) ^
+	* § 6° Esgotado sem deliberação o prazo estabelecido no § [[#^562556f|4°]], o veto será colocado na ordem do dia da sessão imediata, sobrestadas as demais proposições, até sua votação final. (Redação dada pela Emenda Constitucional n° 32, de 2001) ^efb04f8
 
-	*   S             P  R,     [[#^|]]   [[#^|]],  P  S  , ,     z   z,   V-P  S z-. ^
+	* § 7° Se a lei não for promulgada dentro de quarenta e oito horas pelo Presidente da República, nos casos dos § [[#^c47ff61|3°]] e § [[#^224dee1|5°]], o Presidente do Senado a promulgará, e, se este não o fizer em igual prazo, caberá ao Vice-Presidente do Senado fazê-lo. ^3e99c44
 
-* A. . A              ,    ,           C  C N. ^
+* Art. 67. A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros de qualquer das Casas do Congresso Nacional. ^2474ee6
 
-* A. . A      P  R,       C N. ^
+* Art. 68. As leis delegadas serão elaboradas pelo Presidente da República, que deverá solicitar a delegação ao Congresso Nacional. ^8593556
 
-	*   N           C N,      C  D   S ,      ,    : ^
+	* § 1° Não serão objeto de delegação os atos de competência exclusiva do Congresso Nacional, os de competência privativa da Câmara dos Deputados ou do Senado Federal, a matéria reservada à lei complementar, nem a legislação sobre: ^c9e9b7a
 
-		* I - z  P J   M P,        ; ^
+		* I - organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros; ^076345f
 
-		* II - , ,  ,   ; ^
+		* II - nacionalidade, cidadania, direitos individuais, políticos e eleitorais; ^5de5c51
 
-		* III -  , z   . ^
+		* III - planos plurianuais, diretrizes orçamentárias e orçamentos. ^60eb1b7
 
-	*   A   P  R       C N,          . ^
+	* § 2° A delegação ao Presidente da República terá a forma de resolução do Congresso Nacional, que especificará seu conteúdo e os termos de seu exercício. ^d8df1e4
 
-	*   S         C N,      ,   . ^
+	* § 3° Se a resolução determinar a apreciação do projeto pelo Congresso Nacional, este a fará em votação única, vedada qualquer emenda. ^cd53b7f
 
-* A. . A       . ^
+* Art. 69. As leis complementares serão aprovadas por maioria absoluta. ^1248b62
 
-### ... SEÇÃO IX - DA ISCALIZAÇÃO CONTÁBIL, INANCEIRA E ORÇAMENTÁRIA (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO IX - DA ISCALIZAÇÃO CONTÁBIL, INANCEIRA E ORÇAMENTÁRIA (ARTS.  A )|R]]
+### 4.1.9. SEÇÃO IX - DA FISCALIZAÇÃO CONTÁBIL, FINANCEIRA E ORÇAMENTÁRIA (ARTS. 70 A 75)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.9. SEÇÃO IX - DA FISCALIZAÇÃO CONTÁBIL, FINANCEIRA E ORÇAMENTÁRIA (ARTS. 70 A 75)|Resumo]]
 
-* A. . A [[A G|z , , ,     U]]        ,   , , ,       ,    C N,   ,         P. ^
+* Art. 70. A [[Auditoria Governamental|fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União]] e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder. ^5c8ce1a
 
-	* P . P      ,   ,  z, , ,    ,         U ,  ,   ,    z . (R   E C  ,  ) ^
+	* Parágrafo único. Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^ef2c75d
 
-* A. . O  ,    C N,       T  C  U,   : ^
+* Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete: ^9da4f0f
 
-	* I -       P  R,               ; ^
+	* I - apreciar as contas prestadas anualmente pelo Presidente da República, mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de seu recebimento; ^cd0026b
 
-	* II -          ,         ,          P P ,         ,        z   ; ^
+	* II - julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo Poder Público federal, e as contas daqueles que derem causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário público; ^538ddf4
 
-	* III - ,    ,        ,   ,     ,        P P,         ,       ,   ,             ; ^
+	* III - apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório; ^b8f4e57
 
-	* IV - z,   ,  C  D,  S ,  C    ,     z , , ,   ,     P L, E  J,       [[#^|II]]; ^
+	* IV - realizar, por iniciativa própria, da Câmara dos Deputados, do Senado Federal, de Comissão técnica ou de inquérito, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades administrativas dos Poderes Legislativo, Executivo e Judiciário, e demais entidades referidas no inciso [[#^538ddf4|II]]; ^3fa0f5d
 
-	* V - z            U ,     ,     ; ^
+	* V - fiscalizar as contas nacionais das empresas supranacionais de cujo capital social a União participe, de forma direta ou indireta, nos termos do tratado constitutivo; ^5ebe632
 
-	* VI - z        U  , ,     ,  E,  D    M; ^
+	* VI - fiscalizar a aplicação de quaisquer recursos repassados pela União mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a Município; ^f8c4480
 
-	* VII -      C N,     C,      C,   z , , ,           z; ^
+	* VII - prestar as informações solicitadas pelo Congresso Nacional, por qualquer de suas Casas, ou por qualquer das respectivas Comissões, sobre a fiscalização contábil, financeira, orçamentária, operacional e patrimonial e sobre resultados de auditorias e inspeções realizadas; ^6caca67
 
-	* VIII -   ,          ,     ,  ,   ,       ; ^
+	* VIII - aplicar aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei, que estabelecerá, entre outras cominações, multa proporcional ao dano causado ao erário; ^764b9dd
 
-	* IX -  z               ,   ; ^
+	* IX - assinar prazo para que o órgão ou entidade adote as providências necessárias ao exato cumprimento da lei, se verificada ilegalidade; ^b3eb0e6
 
-	* X - ,   ,     ,     C  D   S ; ^
+	* X - sustar, se não atendido, a execução do ato impugnado, comunicando a decisão à Câmara dos Deputados e ao Senado Federal; ^95486da
 
-	* XI -   P      . ^
+	* XI - representar ao Poder competente sobre irregularidades ou abusos apurados. ^93fc5e2
 
-	*   N   ,         C N,  ,  ,  P E   . ^
+	* § 1° No caso de contrato, o ato de sustação será adotado diretamente pelo Congresso Nacional, que solicitará, de imediato, ao Poder Executivo as medidas cabíveis. ^8eff6eb
 
-	*   S  C N   P E,  z   ,        ,  T   . ^
+	* § 2° Se o Congresso Nacional ou o Poder Executivo, no prazo de noventa dias, não efetivar as medidas previstas no parágrafo anterior, o Tribunal decidirá a respeito. ^5f85735
 
-	*   A   T             . ^
+	* § 3° As decisões do Tribunal de que resulte imputação de débito ou multa terão eficácia de título executivo. ^1afa604
 
-	*   O T   C N,   ,    . ^
+	* § 4° O Tribunal encaminhará ao Congresso Nacional, trimestral e anualmente, relatório de suas atividades. ^da3f500
 
-* A. . A C        . [[#^|]], [[#^|]],       z,              ,       ,  z   ,    . ^
+* Art. 72. A Comissão mista permanente a que se refere o art. [[#^88327c6|166]], §[[#^6ae6c3a|1°]], diante de indícios de despesas não autorizadas, ainda que sob a forma de investimentos não programados ou de subsídios não aprovados, poderá solicitar à autoridade governamental responsável que, no prazo de cinco dias, preste os esclarecimentos necessários. ^8f4e52d
 
-	*   N   ,    ,  C   T     ,  z   . ^
+	* § 1° Não prestados os esclarecimentos, ou considerados estes insuficientes, a Comissão solicitará ao Tribunal pronunciamento conclusivo sobre a matéria, no prazo de trinta dias. ^1710a50
 
-	*   E  T   ,  C,               ,   C N  . ^
+	* § 2° Entendendo o Tribunal irregular a despesa, a Comissão, se julgar que o gasto possa causar dano irreparável ou grave lesão à economia pública, proporá ao Congresso Nacional sua sustação. ^abe78fc
 
-* A. . O T  C  U,    M,    D ,           , ,   ,     . [[#^|]]. ^
+* Art. 73. O Tribunal de Contas da União, integrado por nove Ministros, tem sede no Distrito Federal, quadro próprio de pessoal e jurisdição em todo o território nacional, exercendo, no que couber, as atribuições previstas no art. [[#^aee4697|96]]. ^c31e89c
 
-	*   O M  T  C  U         : ^
+	* § 1° Os Ministros do Tribunal de Contas da União serão nomeados dentre brasileiros que satisfaçam os seguintes requisitos: ^b3dd3a5
 
-		* I -            ; (R   E C  ,  ) ^
+		* I - mais de trinta e cinco e menos de setenta anos de idade; (Redação dada pela Emenda Constitucional n° 122, de 2022) ^0ef7803
 
-		* II -     ; ^
+		* II - idoneidade moral e reputação ilibada; ^e04b559
 
-		* III -   , ,       ; ^
+		* III - notórios conhecimentos jurídicos, contábeis, econômicos e financeiros ou de administração pública; ^7adfed9
 
-		* IV -   z                  . ^
+		* IV - mais de dez anos de exercício de função ou de efetiva atividade profissional que exija os conhecimentos mencionados no inciso anterior. ^3a9e574
 
-	*   O M  T  C  U  : ^
+	* § 2° Os Ministros do Tribunal de Contas da União serão escolhidos: ^e614d1d
 
-		* I -    P  R,    S ,         M P   T,      T,       ; ^
+		* I - um terço pelo Presidente da República, com aprovação do Senado Federal, sendo dois alternadamente dentre auditores e membros do Ministério Público junto ao Tribunal, indicados em lista tríplice pelo Tribunal, segundo os critérios de antigüidade e merecimento; ^c40de5f
 
-		* II -    C N. ^
+		* II - dois terços pelo Congresso Nacional. ^ae01501
 
-	*   O M  T  C  U    , , ,     M  S T  J, --,     ,     . [[#^|]]. (R   E C  ,  ) ^
+	* § 3° Os Ministros do Tribunal de Contas da União terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do Superior Tribunal de Justiça, aplicando-se-lhes, quanto à aposentadoria e pensão, as normas constantes do art. [[#^2bcc4ca|40]]. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^76b6c28
 
-	*   O ,     M,         ,        ,   z  T R . ^
+	* § 4° O auditor, quando em substituição a Ministro, terá as mesmas garantias e impedimentos do titular e, quando no exercício das demais atribuições da judicatura, as de juiz de Tribunal Regional Federal. ^bdc3ed2
 
-* A. . O P L, E  J ,   ,        : ^
+* Art. 74. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de: ^b4fee68
 
-	* I -         ,           U; ^
+	* I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União; ^6ff8841
 
-	* II -       ,     ,   ,          ,            ; ^
+	* II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem como da aplicação de recursos públicos por entidades de direito privado; ^d70135c
 
-	* III -       ,   ,        U; ^
+	* III - exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União; ^7d4bb40
 
-	* IV -          . ^
+	* IV - apoiar o controle externo no exercício de sua missão institucional. ^2938f00
 
-	*   O    ,        ,     T  C  U,     . ^
+	* § 1° Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária. ^0ccccd3
 
-	*   Q ,  ,       ,    ,       T  C  U. ^
+	* § 2° Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União. ^cc0ebad
 
-* A. . A     -,   ,  z,   z  T  C  E   D ,    T  C  C  M. ^
+* Art. 75. As normas estabelecidas nesta seção aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos Municípios. ^5b0f4de
 
-	* P . A C     T  C ,      C. ^
+	* Parágrafo único. As Constituições estaduais disporão sobre os Tribunais de Contas respectivos, que serão integrados por sete Conselheiros. ^3d02434
 
-## .. CAPÍTULO II - DO PODER EXECUTIVO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO II - DO PODER EXECUTIVO (ARTS.  A )|R]]
+## 4.2. CAPÍTULO II - DO PODER EXECUTIVO (ARTS. 76 A 91)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2. CAPÍTULO II - DO PODER EXECUTIVO (ARTS. 76 A 91)|Resumo]]
 
-### ... SEÇÃO I - DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO I - DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA (ARTS.  A )|R]]
+### 4.2.1. SEÇÃO I - DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA (ARTS. 76 A 83)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2.1. SEÇÃO I - DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA (ARTS. 76 A 83)|Resumo]]
 
-* A. . O P E    P  R,   M  E. ^
+* Art. 76. O Poder Executivo é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado. ^2b02d53
 
-* A. . A   P   V-P  R z--, ,     ,   ,      ,   ,  ,          . (R   E C  ,  ) ^
+* Art. 77. A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato presidencial vigente. (Redação dada pela Emenda Constitucional n° 16, de 1997) ^45e2cfb
 
-	*   A   P  R    V-P   . ^
+	* § 1° A eleição do Presidente da República importará a do Vice-Presidente com ele registrado. ^401ec30
 
-	*   S   P   ,    ,      ,        . ^
+	* § 2° Será considerado eleito Presidente o candidato que, registrado por partido político, obtiver a maioria absoluta de votos, não computados os em branco e os nulos. ^a859245
 
-	*   S        , --           ,        -         . ^
+	* § 3° Se nenhum candidato alcançar maioria absoluta na primeira votação, far-se-á nova eleição em até vinte dias após a proclamação do resultado, concorrendo os dois candidatos mais votados e considerando-se eleito aquele que obtiver a maioria dos votos válidos. ^5b06bb5
 
-	*   S,   z   ,  ,      , --,   ,    . ^
+	* § 4° Se, antes de realizado o segundo turno, ocorrer morte, desistência ou impedimento legal de candidato, convocar-se-á, dentre os remanescentes, o de maior votação. ^fcf253d
 
-	*   S,     , ,   ,        , --   . ^
+	* § 5° Se, na hipótese dos parágrafos anteriores, remanescer, em segundo lugar, mais de um candidato com a mesma votação, qualificar-se-á o mais idoso. ^3a649cd
 
-* A. . O P   V-P  R      C N,     ,     C,   ,       ,   ,       B. ^
+* Art. 78. O Presidente e o Vice-Presidente da República tomarão posse em sessão do Congresso Nacional, prestando o compromisso de manter, defender e cumprir a Constituição, observar as leis, promover o bem geral do povo brasileiro, sustentar a união, a integridade e a independência do Brasil. ^506e660
 
-	* P . S,  z       ,  P   V-P,     ,     ,    . ^
+	* Parágrafo único. Se, decorridos dez dias da data fixada para a posse, o Presidente ou o Vice-Presidente, salvo motivo de força maior, não tiver assumido o cargo, este será declarado vago. ^13fdc84
 
-* A. . S  P,    ,  --,   ,  V-P. ^
+* Art. 79. Substituirá o Presidente, no caso de impedimento, e suceder-lhe-á, no de vaga, o Vice-Presidente. ^42f0ef8
 
-	* P . O V-P  R,           ,   P,        . ^
+	* Parágrafo único. O Vice-Presidente da República, além de outras atribuições que lhe forem conferidas por lei complementar, auxiliará o Presidente, sempre que por ele convocado para missões especiais. ^e5f1ada
 
-* A. . E     P   V-P,     ,       P  P  C  D,   S     S T . ^
+* Art. 80. Em caso de impedimento do Presidente e do Vice-Presidente, ou vacância dos respectivos cargos, serão sucessivamente chamados ao exercício da Presidência o Presidente da Câmara dos Deputados, o do Senado Federal e o do Supremo Tribunal Federal. ^34e0ab0
 
-* A. . V    P  V-P  R, --         . ^
+* Art. 81. Vagando os cargos de Presidente e Vice-Presidente da República, far-se-á eleição noventa dias depois de aberta a última vaga. ^d1360d9
 
-	*   O         ,              ,  C N,    . ^
+	* § 1° Ocorrendo a vacância nos últimos dois anos do período presidencial, a eleição para ambos os cargos será feita trinta dias depois da última vaga, pelo Congresso Nacional, na forma da lei. ^e249cac
 
-	*   E   ,         . ^
+	* § 2° Em qualquer dos casos, os eleitos deverão completar o período de seus antecessores. ^27deed5
 
-* A. . O   P  R    ()               . (R   E C  ,  ) ^
+* Art. 82. O mandato do Presidente da República é de 4 (quatro) anos e terá início em 5 de janeiro do ano seguinte ao de sua eleição. (Redação dada pela Emenda Constitucional n° 111, de 2021) ^f799fff
 
-* A. . O P   V-P  R  ,    C N, -  P     z ,      . ^
+* Art. 83. O Presidente e o Vice-Presidente da República não poderão, sem licença do Congresso Nacional, ausentar-se do País por período superior a quinze dias, sob pena de perda do cargo. ^f70add3
 
-### ... SEÇÃO II - DAS ATRIBUIÇÕES DO PRESIDENTE DA REPÚBLICA (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO II - DAS ATRIBUIÇÕES DO PRESIDENTE DA REPÚBLICA (ART. )|R]]
+### 4.2.2. SEÇÃO II - DAS ATRIBUIÇÕES DO PRESIDENTE DA REPÚBLICA (ART. 84)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2.2. SEÇÃO II - DAS ATRIBUIÇÕES DO PRESIDENTE DA REPÚBLICA (ART. 84)|Resumo]]
 
-* A. . C   P  R: ^
+* Art. 84. Compete privativamente ao Presidente da República: ^b346ba5
 
-	* I -     M  E; ^
+	* I - nomear e exonerar os Ministros de Estado; ^26639ad
 
-	* II - ,     M  E,      ; ^
+	* II - exercer, com o auxílio dos Ministros de Estado, a direção superior da administração federal; ^a266c8a
 
-	* III -    ,        C; ^
+	* III - iniciar o processo legislativo, na forma e nos casos previstos nesta Constituição; ^7857451
 
-	* IV - ,   z   ,          ; ^
+	* IV - sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e regulamentos para sua fiel execução; ^10dd13e
 
-	* V -    ,   ; ^
+	* V - vetar projetos de lei, total ou parcialmente; ^936d0a9
 
-	* VI - ,  , : (R   E C  ,  ) ^
+	* VI - dispor, mediante decreto, sobre: (Redação dada pela Emenda Constitucional n° 32, de 2001) ^5af635b
 
-		* ) z     ,             ; (I  E C  ,  ) ^
+		* a) organização e funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos; (Incluída pela Emenda Constitucional n° 32, de 2001) ^371fc18
 
-		* )      ,  ; (I  E C  ,  ) ^
+		* b) extinção de funções ou cargos públicos, quando vagos; (Incluída pela Emenda Constitucional n° 32, de 2001) ^4f250c2
 
-	* VII -    E      ; ^
+	* VII - manter relações com Estados estrangeiros e acreditar seus representantes diplomáticos; ^b172cf1
 
-	* VIII -  ,    ,     C N; ^
+	* VIII - celebrar tratados, convenções e atos internacionais, sujeitos a referendo do Congresso Nacional; ^8ff04b0
 
-	* IX -          ; ^
+	* IX - decretar o estado de defesa e o estado de sítio; ^75c9bee
 
-	* X -      ; ^
+	* X - decretar e executar a intervenção federal; ^5995e64
 
-	* XI -        C N       ,     P       ; ^
+	* XI - remeter mensagem e plano de governo ao Congresso Nacional por ocasião da abertura da sessão legislativa, expondo a situação do País e solicitando as providências que julgar necessárias; ^75b3ccf
 
-	* XII -     ,  ,  ,     ; ^
+	* XII - conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei; ^95116b9
 
-	* XIII -       A,   C  M,  E   A,   -  -       ; (R   E C  ,  ) ^
+	* XIII - exercer o comando supremo das Forças Armadas, nomear os Comandantes da Marinha, do Exército e da Aeronáutica, promover seus oficiais-generais e nomeá-los para os cargos que lhes são privativos; (Redação dada pela Emenda Constitucional n° 23, de 1999) ^de68d5c
 
-	* XIV - ,    S ,  M  S T    T S,  G  T,  P-G  R,           ,    ; ^
+	* XIV - nomear, após aprovação pelo Senado Federal, os Ministros do Supremo Tribunal Federal e dos Tribunais Superiores, os Governadores de Territórios, o Procurador-Geral da República, o presidente e os diretores do banco central e outros servidores, quando determinado em lei; ^8e3fcb1
 
-	* XV - ,     . [[#^|]],  M  T  C  U; ^
+	* XV - nomear, observado o disposto no art. [[#^c31e89c|73]], os Ministros do Tribunal de Contas da União; ^79e9c10
 
-	* XVI -   ,     C,   A-G  U; ^
+	* XVI - nomear os magistrados, nos casos previstos nesta Constituição, e o Advogado-Geral da União; ^d18c15f
 
-	* XVII -    C  R,    . [[#^|]], [[#^|VII]]; ^
+	* XVII - nomear membros do Conselho da República, nos termos do art. [[#^fcb64cb|89]], [[#^2772425|VII]]; ^0d68c81
 
-	* XVIII -     C  R   C  D N; ^
+	* XVIII - convocar e presidir o Conselho da República e o Conselho de Defesa Nacional; ^7569357
 
-	* XIX -  ,     , z  C N    ,       , ,   , ,   ,  z ; ^
+	* XIX - declarar guerra, no caso de agressão estrangeira, autorizado pelo Congresso Nacional ou referendado por ele, quando ocorrida no intervalo das sessões legislativas, e, nas mesmas condições, decretar, total ou parcialmente, a mobilização nacional; ^a737d5a
 
-	* XX -   z, z      C N; ^
+	* XX - celebrar a paz, autorizado ou com o referendo do Congresso Nacional; ^8aac087
 
-	* XXI -     ; ^
+	* XXI - conferir condecorações e distinções honoríficas; ^3a46def
 
-	* XXII - ,      ,           ; ^
+	* XXII - permitir, nos casos previstos em lei complementar, que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente; ^5f2f44b
 
-	* XXIII -   C N   ,      z         C; ^
+	* XXIII - enviar ao Congresso Nacional o plano plurianual, o projeto de lei de diretrizes orçamentárias e as propostas de orçamento previstos nesta Constituição; ^5489466
 
-	* XXIV - , ,  C N,          ,      ; ^
+	* XXIV - prestar, anualmente, ao Congresso Nacional, dentro de sessenta dias após a abertura da sessão legislativa, as contas referentes ao exercício anterior; ^45416d7
 
-	* XXV -       ,    ; ^
+	* XXV - prover e extinguir os cargos públicos federais, na forma da lei; ^f68dab6
 
-	* XXVI -       ,    . [[#^|]]; ^
+	* XXVI - editar medidas provisórias com força de lei, nos termos do art. [[#^fee24d9|62]]; ^0bcaeb4
 
-	* XXVII -      C. ^
+	* XXVII - exercer outras atribuições previstas nesta Constituição. ^9327ad3
 
-	* XXVIII -   C N             . [[#^|-B]], [[#^|-C]], [[#^|-D]], [[#^|-E]], [[#^|-]]  [[#^|-G]]  C. (I  E C  ,  ) ^
+	* XXVIII - propor ao Congresso Nacional a decretação do estado de calamidade pública de âmbito nacional previsto nos arts. [[#^e5ddbd9|167-B]], [[#^322249c|167-C]], [[#^b2d15c7|167-D]], [[#^b0eb937|167-E]], [[#^0dcb548|167-F]] e [[#^ed3a2b5|167-G]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^c551c12
 
-	* P . O P  R        [[#^|VI]], [[#^|XII]]  [[#^|XXV]],  ,  M  E,  P-G  R   A-G  U,        . ^
+	* Parágrafo único. O Presidente da República poderá delegar as atribuições mencionadas nos incisos [[#^5af635b|VI]], [[#^95116b9|XII]] e [[#^f68dab6|XXV]], primeira parte, aos Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União, que observarão os limites traçados nas respectivas delegações. ^66ce035
 
-### ... SEÇÃO III - DA RESPONSABILIDADE DO PRESIDENTE DA REPÚBLICA (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO III - DA RESPONSABILIDADE DO PRESIDENTE DA REPÚBLICA (ARTS.  A )|R]]
+### 4.2.3. SEÇÃO III - DA RESPONSABILIDADE DO PRESIDENTE DA REPÚBLICA (ARTS. 85 A 86)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2.3. SEÇÃO III - DA RESPONSABILIDADE DO PRESIDENTE DA REPÚBLICA (ARTS. 85 A 86)|Resumo]]
 
-* A. . S       P  R     C  , , : ^
+* Art. 85. São crimes de responsabilidade os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra: ^a33fda3
 
-	* I -    U; ^
+	* I - a existência da União; ^d77b92c
 
-	* II -     P L,  P J,  M P   P     ; ^
+	* II - o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público e dos Poderes constitucionais das unidades da Federação; ^27de7c3
 
-	* III -     ,   ; ^
+	* III - o exercício dos direitos políticos, individuais e sociais; ^4d7913b
 
-	* IV -     P; ^
+	* IV - a segurança interna do País; ^ad824f3
 
-	* V -    ; ^
+	* V - a probidade na administração; ^3ba6132
 
-	* VI -   ; ^
+	* VI - a lei orçamentária; ^b3e361a
 
-	* VII -        . ^
+	* VII - o cumprimento das leis e das decisões judiciais. ^074c97b
 
-	* P . E      ,        . ^
+	* Parágrafo único. Esses crimes serão definidos em lei especial, que estabelecerá as normas de processo e julgamento. ^b890ebd
 
-* A. . A     P  R,     C  D,        S T ,    ,    S ,    . ^
+* Art. 86. Admitida a acusação contra o Presidente da República, por dois terços da Câmara dos Deputados, será ele submetido a julgamento perante o Supremo Tribunal Federal, nas infrações penais comuns, ou perante o Senado Federal, nos crimes de responsabilidade. ^89caca4
 
-	*   O P     : ^
+	* § 1° O Presidente ficará suspenso de suas funções: ^ceca8b8
 
-		* I -    ,      -  S T ; ^
+		* I - nas infrações penais comuns, se recebida a denúncia ou queixa-crime pelo Supremo Tribunal Federal; ^50c8dd0
 
-		* II -    ,       S . ^
+		* II - nos crimes de responsabilidade, após a instauração do processo pelo Senado Federal. ^e56cece
 
-	*   S,   z     ,     ,     P,  z     . ^
+	* § 2° Se, decorrido o prazo de cento e oitenta dias, o julgamento não estiver concluído, cessará o afastamento do Presidente, sem prejuízo do regular prosseguimento do processo. ^a1a9c18
 
-	*   E    ,   ,  P  R     . ^
+	* § 3° Enquanto não sobrevier sentença condenatória, nas infrações comuns, o Presidente da República não estará sujeito a prisão. ^1eaa790
 
-	*   O P  R,     ,    z        . ^
+	* § 4° O Presidente da República, na vigência de seu mandato, não pode ser responsabilizado por atos estranhos ao exercício de suas funções. ^1eaa9a0
 
-### ... SEÇÃO IV - DOS MINISTROS DE ESTADO (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO IV - DOS MINISTROS DE ESTADO (ARTS.  A )|R]]
+### 4.2.4. SEÇÃO IV - DOS MINISTROS DE ESTADO (ARTS. 87 A 88)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2.4. SEÇÃO IV - DOS MINISTROS DE ESTADO (ARTS. 87 A 88)|Resumo]]
 
-* A. . O M  E                . ^
+* Art. 87. Os Ministros de Estado serão escolhidos dentre brasileiros maiores de vinte e um anos e no exercício dos direitos políticos. ^a09cee4
 
-	* P . C  M  E,       C   : ^
+	* Parágrafo único. Compete ao Ministro de Estado, além de outras atribuições estabelecidas nesta Constituição e na lei: ^60eb713
 
-		* I -   ,                        P  R; ^
+		* I - exercer a orientação, coordenação e supervisão dos órgãos e entidades da administração federal na área de sua competência e referendar os atos e decretos assinados pelo Presidente da República; ^18de2c2
 
-		* II -       ,   ; ^
+		* II - expedir instruções para a execução das leis, decretos e regulamentos; ^2d3d80b
 
-		* III -   P  R       M; ^
+		* III - apresentar ao Presidente da República relatório anual de sua gestão no Ministério; ^f0e480f
 
-		* IV -              P  R. ^
+		* IV - praticar os atos pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Presidente da República. ^64412c0
 
-* A. . A         M     . (R   E C  ,  ) ^
+* Art. 88. A lei disporá sobre a criação e extinção de Ministérios e órgãos da administração pública. (Redação dada pela Emenda Constitucional n° 32, de 2001) ^455c631
 
-### ... SEÇÃO V - DO CONSELHO DA REPÚBLICA E DO CONSELHO DE DEESA NACIONAL (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO V - DO CONSELHO DA REPÚBLICA E DO CONSELHO DE DEESA NACIONAL (ARTS.  A )|R]]
+### 4.2.5. SEÇÃO V - DO CONSELHO DA REPÚBLICA E DO CONSELHO DE DEFESA NACIONAL (ARTS. 89 A 91)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2.5. SEÇÃO V - DO CONSELHO DA REPÚBLICA E DO CONSELHO DE DEFESA NACIONAL (ARTS. 89 A 91)|Resumo]]
 
-#### .... SUBSEÇÃO I - DO CONSELHO DA REPÚBLICA (ARTS.  A )
-[[NL/C    (C)/MOC/.... SUBSEÇÃO I - DO CONSELHO DA REPÚBLICA (ARTS.  A )|R]]
+#### 4.2.5.1. SUBSEÇÃO I - DO CONSELHO DA REPÚBLICA (ARTS. 89 A 90)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2.5.1. SUBSEÇÃO I - DO CONSELHO DA REPÚBLICA (ARTS. 89 A 90)|Resumo]]
 
-* A. . O C  R       P  R,   : ^
+* Art. 89. O Conselho da República é órgão superior de consulta do Presidente da República, e dele participam: ^fcb64cb
 
-	* I -  V-P  R; ^
+	* I - o Vice-Presidente da República; ^3ab7e48
 
-	* II -  P  C  D; ^
+	* II - o Presidente da Câmara dos Deputados; ^a66f134
 
-	* III -  P  S ; ^
+	* III - o Presidente do Senado Federal; ^d087828
 
-	* IV -         C  D; ^
+	* IV - os líderes da maioria e da minoria na Câmara dos Deputados; ^6ad2a32
 
-	* V -         S ; ^
+	* V - os líderes da maioria e da minoria no Senado Federal; ^87fd0e9
 
-	* VI -  M  J; ^
+	* VI - o Ministro da Justiça; ^5191b7f
 
-	* VII -    ,         ,     P  R,    S      C  D,      ,   . ^
+	* VII - seis cidadãos brasileiros natos, com mais de trinta e cinco anos de idade, sendo dois nomeados pelo Presidente da República, dois eleitos pelo Senado Federal e dois eleitos pela Câmara dos Deputados, todos com mandato de três anos, vedada a recondução. ^2772425
 
-* A. . C  C  R - : ^
+* Art. 90. Compete ao Conselho da República pronunciar-se sobre: ^ebf1e59
 
-	* I -  ,       ; ^
+	* I - intervenção federal, estado de defesa e estado de sítio; ^3d821c0
 
-	* II -         . ^
+	* II - as questões relevantes para a estabilidade das instituições democráticas. ^9fbd97e
 
-	*   O P  R   M  E      C,          M. ^
+	* § 1° O Presidente da República poderá convocar Ministro de Estado para participar da reunião do Conselho, quando constar da pauta questão relacionada com o respectivo Ministério. ^e83f817
 
-	*   A    z     C  R. (V L  .,  ) ^
+	* § 2° A lei regulará a organização e o funcionamento do Conselho da República. (Vide Lei n° 8.041, de 1990) ^580dd39
 
-#### .... SUBSEÇÃO II - DO CONSELHO DE DEESA NACIONAL (ART. )
-[[NL/C    (C)/MOC/.... SUBSEÇÃO II - DO CONSELHO DE DEESA NACIONAL (ART. )|R]]
+#### 4.2.5.2. SUBSEÇÃO II - DO CONSELHO DE DEFESA NACIONAL (ART. 91)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2.5.2. SUBSEÇÃO II - DO CONSELHO DE DEFESA NACIONAL (ART. 91)|Resumo]]
 
-* A. . O C  D N      P  R            E ,      : ^
+* Art. 91. O Conselho de Defesa Nacional é órgão de consulta do Presidente da República nos assuntos relacionados com a soberania nacional e a defesa do Estado democrático, e dele participam como membros natos: ^2a191b0
 
-	* I -  V-P  R; ^
+	* I - o Vice-Presidente da República; ^5b9dc6e
 
-	* II -  P  C  D; ^
+	* II - o Presidente da Câmara dos Deputados; ^59a1d5e
 
-	* III -  P  S ; ^
+	* III - o Presidente do Senado Federal; ^def2880
 
-	* IV -  M  J; ^
+	* IV - o Ministro da Justiça; ^5b60a93
 
-	* V -  M  E  D; (R   E C  ,  ) ^
+	* V - o Ministro de Estado da Defesa; (Redação dada pela Emenda Constitucional n° 23, de 1999) ^8438ad8
 
-	* VI -  M  R E; ^
+	* VI - o Ministro das Relações Exteriores; ^2e399fa
 
-	* VII -  M  P. ^
+	* VII - o Ministro do Planejamento. ^553cbad
 
-	* VIII -  C  M,  E   A. (I  E C  ,  ) ^
+	* VIII - os Comandantes da Marinha, do Exército e da Aeronáutica. (Incluído pela Emenda Constitucional n° 23, de 1999) ^fe5fc04
 
-	*   C  C  D N: ^
+	* § 1° Compete ao Conselho de Defesa Nacional: ^16eb8cd
 
-		* I -            z,    C; ^
+		* I - opinar nas hipóteses de declaração de guerra e de celebração da paz, nos termos desta Constituição; ^433faec
 
-		* II -        ,        ; ^
+		* II - opinar sobre a decretação do estado de defesa, do estado de sítio e da intervenção federal; ^dccf4d1
 
-		* III -       z              ,                    ; ^
+		* III - propor os critérios e condições de utilização de áreas indispensáveis à segurança do território nacional e opinar sobre seu efetivo uso, especialmente na faixa de fronteira e nas relacionadas com a preservação e a exploração dos recursos naturais de qualquer tipo; ^499c324
 
-		* IV - ,                  E . ^
+		* IV - estudar, propor e acompanhar o desenvolvimento de iniciativas necessárias a garantir a independência nacional e a defesa do Estado democrático. ^f2109ce
 
-	*   A    z     C  D N. (V L  .,  ) ^
+	* § 2° A lei regulará a organização e o funcionamento do Conselho de Defesa Nacional. (Vide Lei n° 8.183, de 1991) ^602f1ca
 
-## .. CAPÍTULO III - DO PODER JUDICIÁRIO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO III - DO PODER JUDICIÁRIO (ARTS.  A )|R]]
+## 4.3. CAPÍTULO III - DO PODER JUDICIÁRIO (ARTS. 92 A 126)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3. CAPÍTULO III - DO PODER JUDICIÁRIO (ARTS. 92 A 126)|Resumo]]
 
-### ... SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS.  A )|R]]
+### 4.3.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 92 A 100)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 92 A 100)|Resumo]]
 
-* A. . S   P J: ^
+* Art. 92. São órgãos do Poder Judiciário: ^1b5f180
 
-	* I -  S T ; ^
+	* I - o Supremo Tribunal Federal; ^1969f52
 
-	* I-A  C N  J; (I  E C  ,  ) ^
+	* I-A o Conselho Nacional de Justiça; (Incluído pela Emenda Constitucional n° 45, de 2004) ^c0d4b0b
 
-	* II -  S T  J; ^
+	* II - o Superior Tribunal de Justiça; ^193aeec
 
-	* II-A -  T S  T; (I  E C  ,  ) ^
+	* II-A - o Tribunal Superior do Trabalho; (Incluído pela Emenda Constitucional n° 92, de 2016) ^3b0a576
 
-	* III -  T R   Jz ; ^
+	* III - os Tribunais Regionais Federais e Juízes Federais; ^1b21c14
 
-	* IV -  T  Jz  T; ^
+	* IV - os Tribunais e Juízes do Trabalho; ^c39b2df
 
-	* V -  T  Jz E; ^
+	* V - os Tribunais e Juízes Eleitorais; ^6328e90
 
-	* VI -  T  Jz M; ^
+	* VI - os Tribunais e Juízes Militares; ^0fe751d
 
-	* VII -  T  Jz  E   D   T. ^
+	* VII - os Tribunais e Juízes dos Estados e do Distrito Federal e Territórios. ^b05f692
 
-	*   O S T ,  C N  J   T S    C . (I  E C  ,  ) (V ADIN ) ^
+	* § 1° O Supremo Tribunal Federal, o Conselho Nacional de Justiça e os Tribunais Superiores têm sede na Capital Federal. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) ^2b52d5b
 
-	*   O S T    T S       . (I  E C  ,  ) ^
+	* § 2° O Supremo Tribunal Federal e os Tribunais Superiores têm jurisdição em todo o território nacional. (Incluído pela Emenda Constitucional n° 45, de 2004) ^ecadd03
 
-* A. . L ,    S T ,    E  M,    : ^
+* Art. 93. Lei complementar, de iniciativa do Supremo Tribunal Federal, disporá sobre o Estatuto da Magistratura, observados os seguintes princípios: ^8e22e8a
 
-	* I -   ,       z ,       ,     O  A  B    , -    ,  ,       -,  ,    ; (R   E C  ,  ) ^
+	* I - ingresso na carreira, cujo cargo inicial será o de juiz substituto, mediante concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as fases, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica e obedecendo-se, nas nomeações, à ordem de classificação; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^5290c9d
 
-	* II -     , ,    ,    : ^
+	* II - promoção de entrância para entrância, alternadamente, por antigüidade e merecimento, atendidas as seguintes normas: ^20970c3
 
-		* )      z     z        ; ^
+		* a) é obrigatória a promoção do juiz que figure por três vezes consecutivas ou cinco alternadas em lista de merecimento; ^5a01b98
 
-		* )                z         ,            ; ^
+		* b) a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância e integrar o juiz a primeira quinta parte da lista de antigüidade desta, salvo se não houver com tais requisitos quem aceite o lugar vago; ^326b0d6
 
-		* )              z                ; (R   E C  ,  ) ^
+		* c) aferição do merecimento conforme o desempenho e pelos critérios objetivos de produtividade e presteza no exercício da jurisdição e pela freqüência e aproveitamento em cursos oficiais ou reconhecidos de aperfeiçoamento; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^938ce2f
 
-		* )    ,       z           ,   ,    , -    -  ; (R   E C  ,  ) ^
+		* d) na apuração de antigüidade, o tribunal somente poderá recusar o juiz mais antigo pelo voto fundamentado de dois terços de seus membros, conforme procedimento próprio, e assegurada ampla defesa, repetindo-se a votação até fixar-se a indicação; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^b50129c
 
-		* )     z , ,        z ,   -        ; (I  E C  ,  ) ^
+		* e) não será promovido o juiz que, injustificadamente, retiver autos em seu poder além do prazo legal, não podendo devolvê-los ao cartório sem o devido despacho ou decisão; (Incluída pela Emenda Constitucional n° 45, de 2004) ^4eacfb2
 
-	* III        --    , ,      ; (R   E C  ,  ) (V ADIN ) ^
+	* III o acesso aos tribunais de segundo grau far-se-á por antigüidade e merecimento, alternadamente, apurados na última ou única entrância; (Redação dada pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) ^f48c152
 
-	* IV      ,     ,                       ; (R   E C  ,  ) ^
+	* IV previsão de cursos oficiais de preparação, aperfeiçoamento e promoção de magistrados, constituindo etapa obrigatória do processo de vitaliciamento a participação em curso oficial ou reconhecido por escola nacional de formação e aperfeiçoamento de magistrados; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^b50761e
 
-	* V -    M  T S              M  S T             ,     ,        ,            z        ,             M  T S, ,   ,    . [[#^|]], [[#^|XI]],  [[#^|]],  [[#^|]]; (R   E C  ,  ) ^
+	* V - o subsídio dos Ministros dos Tribunais Superiores corresponderá a noventa e cinco por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal e os subsídios dos demais magistrados serão fixados em lei e escalonados, em nível federal e estadual, conforme as respectivas categorias da estrutura judiciária nacional, não podendo a diferença entre uma e outra ser superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. [[#^73a80b7|37]], [[#^3af496b|XI]], e [[#^a4b00e0|39]], § [[#^51bdef8|4°]]; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^79a62cb
 
-	* VI -               . [[#^|]]; (R   E C  ,  ) ^
+	* VI - a aposentadoria dos magistrados e a pensão de seus dependentes observarão o disposto no art. [[#^2bcc4ca|40]]; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^5b662ac
 
-	* VII  z     ,  z  ; (R   E C  ,  ) ^
+	* VII o juiz titular residirá na respectiva comarca, salvo autorização do tribunal; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^bacb162
 
-	* VIII -         ,   , --             C N  J,   ; (R   E C  ,  ) ^
+	* VIII - o ato de remoção ou de disponibilidade do magistrado, por interesse público, fundar-se-á em decisão por voto da maioria absoluta do respectivo tribunal ou do Conselho Nacional de Justiça, assegurada ampla defesa; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^ce038b2
 
-	* VIII-A -            ,   ,     "[[#^|]]", "[[#^|]]", "[[#^|]]"  "[[#^|]]"   [[#^|II]]       . [[#^|]]  C; (R   E C  ,  ) ^
+	* VIII-A - a remoção a pedido de magistrados de comarca de igual entrância atenderá, no que couber, ao disposto nas alíneas "[[#^5a01b98|a]]", "[[#^326b0d6|b]]", "[[#^938ce2f|c]]" e "[[#^4eacfb2|e]]" do inciso [[#^20970c3|II]] do caput deste artigo e no art. [[#^31df19f|94]] desta Constituição; (Redação dada pela Emenda Constitucional n° 130, de 2023) ^893ff6f
 
-	* VIII-B -         ,    ,       ,    z   ,    ,     ,    , ,   ,     "[[#^|]]", "[[#^|]]", "[[#^|]]"  "[[#^|]]"   [[#^|II]]       . [[#^|]]  C; (I  E C  ,  ) ^
+	* VIII-B - a permuta de magistrados de comarca de igual entrância, quando for o caso, e dentro do mesmo segmento de justiça, inclusive entre os juízes de segundo grau, vinculados a diferentes tribunais, na esfera da justiça estadual, federal ou do trabalho, atenderá, no que couber, ao disposto nas alíneas "[[#^5a01b98|a]]", "[[#^326b0d6|b]]", "[[#^938ce2f|c]]" e "[[#^4eacfb2|e]]" do inciso [[#^20970c3|II]] do caput deste artigo e no art. [[#^31df19f|94]] desta Constituição; (Incluído pela Emenda Constitucional n° 130, de 2023) ^d34cef0
 
-	* IX       P J  ,     ,    ,      ,   ,       ,    ,                     ; (R   E C  ,  ) ^
+	* IX todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade, podendo a lei limitar a presença, em determinados atos, às próprias partes e a seus advogados, ou somente a estes, em casos nos quais a preservação do direito à intimidade do interessado no sigilo não prejudique o interesse público à informação; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^08daa35
 
-	* X           ,            ; (R   E C  ,  ) ^
+	* X as decisões administrativas dos tribunais serão motivadas e em sessão pública, sendo as disciplinares tomadas pelo voto da maioria absoluta de seus membros; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^e222824
 
-	* XI          ,     ,     z        ,              , -              ; (R   E C  ,  ) ^
+	* XI nos tribunais com número superior a vinte e cinco julgadores, poderá ser constituído órgão especial, com o mínimo de onze e o máximo de vinte e cinco membros, para o exercício das atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno, provendo-se metade das vagas por antigüidade e a outra metade por eleição pelo tribunal pleno; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^de306f1
 
-	* XII     ,      z     , ,         , z   ; (I  E C  ,  ) ^
+	* XII a atividade jurisdicional será ininterrupta, sendo vedado férias coletivas nos juízos e tribunais de segundo grau, funcionando, nos dias em que não houver expediente forense normal, juízes em plantão permanente; (Incluído pela Emenda Constitucional n° 45, de 2004) ^a0585d9
 
-	* XIII    z             ; (I  E C  ,  ) ^
+	* XIII o número de juízes na unidade jurisdicional será proporcional à efetiva demanda judicial e à respectiva população; (Incluído pela Emenda Constitucional n° 45, de 2004) ^b805947
 
-	* XIV                   ; (I  E C  ,  ) ^
+	* XIV os servidores receberão delegação para a prática de atos de administração e atos de mero expediente sem caráter decisório; (Incluído pela Emenda Constitucional n° 45, de 2004) ^29ddb2e
 
-	* XV      ,      . (I  E C  ,  ) ^
+	* XV a distribuição de processos será imediata, em todos os graus de jurisdição. (Incluído pela Emenda Constitucional n° 45, de 2004) ^c421ff8
 
-* A. . U     T R ,  T  E,   D   T    ,  M P,    z   ,           ,    z     ,           . ^
+* Art. 94. Um quinto dos lugares dos Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal e Territórios será composto de membros, do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes. ^31df19f
 
-	* P . R  ,     , -  P E, ,    ,       . ^
+	* Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subseqüentes, escolherá um de seus integrantes para nomeação. ^fd49d8a
 
-* A. . O z z   : ^
+* Art. 95. Os juízes gozam das seguintes garantias: ^e06f5c0
 
-	* I - , ,   ,        ,     ,  ,        z  , ,   ,      ; ^
+	* I - vitaliciedade, que, no primeiro grau, só será adquirida após dois anos de exercício, dependendo a perda do cargo, nesse período, de deliberação do tribunal a que o juiz estiver vinculado, e, nos demais casos, de sentença judicial transitada em julgado; ^96ce545
 
-	* II - ,      ,    . [[#^|]], [[#^|VIII]]; ^
+	* II - inamovibilidade, salvo por motivo de interesse público, na forma do art. [[#^8e22e8a|93]], [[#^ce038b2|VIII]]; ^aa88253
 
-	* III -   ,     . [[#^|]], [[#^|X]]  [[#^|XI]], [[#^|]],  [[#^|]], [[#^|]], [[#^|II]], [[#^|]], [[#^|III]],  [[#^|]],  [[#^|]], [[#^|I]]. (R   E C  ,  ) ^
+	* III - irredutibilidade de subsídio, ressalvado o disposto nos arts. [[#^73a80b7|37]], [[#^acf623e|X]] e [[#^3af496b|XI]], [[#^a4b00e0|39]], § [[#^51bdef8|4°]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^a4a0b7c
 
-	* P . A z  : ^
+	* Parágrafo único. Aos juízes é vedado: ^8bc752b
 
-		* I - ,    ,    ,    ; ^
+		* I - exercer, ainda que em disponibilidade, outro cargo ou função, salvo uma de magistério; ^1b7b64c
 
-		* II - ,     ,     ; ^
+		* II - receber, a qualquer título ou pretexto, custas ou participação em processo; ^9580ca0
 
-		* III - -   -. ^
+		* III - dedicar-se à atividade político-partidária. ^af2e850
 
-		* IV - ,     ,      ,    ,      ; (I  E C  ,  ) ^
+		* IV - receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei; (Incluído pela Emenda Constitucional n° 45, de 2004) ^c78b18d
 
-		* V -     z      ,             . (I  E C  ,  ) ^
+		* V - exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos três anos do afastamento do cargo por aposentadoria ou exoneração. (Incluído pela Emenda Constitucional n° 45, de 2004) ^22113a4
 
-* A. . C : ^
+* Art. 96. Compete privativamente: ^aee4697
 
-	* I -  : ^
+	* I - aos tribunais: ^9c805aa
 
-		* )         ,            ,             ; ^
+		* a) eleger seus órgãos diretivos e elaborar seus regimentos internos, com observância das normas de processo e das garantias processuais das partes, dispondo sobre a competência e o funcionamento dos respectivos órgãos jurisdicionais e administrativos; ^4c65a08
 
-		* ) z         z    ,       ; ^
+		* b) organizar suas secretarias e serviços auxiliares e os dos juízos que lhes forem vinculados, velando pelo exercício da atividade correicional respectiva; ^a81d0ee
 
-		* ) ,     C,    z     ; ^
+		* c) prover, na forma prevista nesta Constituição, os cargos de juiz de carreira da respectiva jurisdição; ^da4b1fe
 
-		* )       ; ^
+		* d) propor a criação de novas varas judiciárias; ^b7511d7
 
-		* ) ,     ,     ,     . [[#^|]],  ,       J,        ; ^
+		* e) prover, por concurso público de provas, ou de provas e títulos, obedecido o disposto no art. [[#^7ac0258|169]], parágrafo único, os cargos necessários à administração da Justiça, exceto os de confiança assim definidos em lei; ^7bbbfae
 
-		* )  ,          z       ; ^
+		* f) conceder licença, férias e outros afastamentos a seus membros e aos juízes e servidores que lhes forem imediatamente vinculados; ^dfe4614
 
-	* II -  S T ,  T S   T  J   P L ,     . [[#^|]]: ^
+	* II - ao Supremo Tribunal Federal, aos Tribunais Superiores e aos Tribunais de Justiça propor ao Poder Legislativo respectivo, observado o disposto no art. [[#^7ac0258|169]]: ^6f06e61
 
-		* )         ; ^
+		* a) a alteração do número de membros dos tribunais inferiores; ^7817846
 
-		* )                 z    ,            z,    ,  ; (R   E C  , ..) ^
+		* b) a criação e a extinção de cargos e a remuneração dos seus serviços auxiliares e dos juízos que lhes forem vinculados, bem como a fixação do subsídio de seus membros e dos juízes, inclusive dos tribunais inferiores, onde houver; (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^b199b08
 
-		* )       ; ^
+		* c) a criação ou extinção dos tribunais inferiores; ^0adbbd4
 
-		* )    z    ; ^
+		* d) a alteração da organização e da divisão judiciárias; ^7382f0f
 
-	* III -  T  J   z    D   T,      M P,      ,     J E. ^
+	* III - aos Tribunais de Justiça julgar os juízes estaduais e do Distrito Federal e Territórios, bem como os membros do Ministério Público, nos crimes comuns e de responsabilidade, ressalvada a competência da Justiça Eleitoral. ^40bd0b6
 
-	* P . N T  J      (  )    ,      ,      "[[#^|]]"   [[#^|I]]    ,  z      ,         ,      () ,     ()  . (I  E C  ,  ) ^
+	* Parágrafo único. Nos Tribunais de Justiça compostos de mais de 170 (cento e setenta) desembargadores em efetivo exercício, a eleição para os cargos diretivos, de que trata a alínea "[[#^4c65a08|a]]" do inciso [[#^9c805aa|I]] do caput deste artigo, será realizada entre os membros do tribunal pleno, por maioria absoluta e por voto direto e secreto, para um mandato de 2 (dois) anos, vedada mais de 1 (uma) recondução sucessiva. (Incluído pela Emenda Constitucional n° 134, de 2024) ^ebcc0ff
 
-* A. . S                            P P. (V L  .,  ) (V) ^
+* Art. 97. Somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público. (Vide Lei n° 13.105, de 2015) (Vigência) ^80e1bd0
 
-* A. . A U,  D    T,   E : ^
+* Art. 98. A União, no Distrito Federal e nos Territórios, e os Estados criarão: ^308ecd2
 
-	* I - z ,   z ,    ,    ,                  ,      , ,     ,           z   ; ^
+	* I - juizados especiais, providos por juízes togados, ou togados e leigos, competentes para a conciliação, o julgamento e a execução de causas cíveis de menor complexidade e infrações penais de menor potencial ofensivo, mediante os procedimentos oral e sumaríssimo, permitidos, nas hipóteses previstas em lei, a transação e o julgamento de recursos por turmas de juízes de primeiro grau; ^bb47e10
 
-	* II -   z, ,       ,   ,        ,    ,  , ,        ,        ,   ,      . ^
+	* II - justiça de paz, remunerada, composta de cidadãos eleitos pelo voto direto, universal e secreto, com mandato de quatro anos e competência para, na forma da lei, celebrar casamentos, verificar, de ofício ou em face de impugnação apresentada, o processo de habilitação e exercer atribuições conciliatórias, sem caráter jurisdicional, além de outras previstas na legislação. ^33e5549
 
-	*   L       z     J . (R  E C  ,  ) (V ADIN ) ^
+	* § 1° Lei federal disporá sobre a criação de juizados especiais no âmbito da Justiça Federal. (Renumerado pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) ^153d020
 
-	*   A                J. (I  E C  ,  ) ^
+	* § 2° As custas e emolumentos serão destinados exclusivamente ao custeio dos serviços afetos às atividades específicas da Justiça. (Incluído pela Emenda Constitucional n° 45, de 2004) ^d1eea43
 
-* A. . A P J      . ^
+* Art. 99. Ao Poder Judiciário é assegurada autonomia administrativa e financeira. ^c5fbc9e
 
-	*   O              P    z . ^
+	* § 1° Os tribunais elaborarão suas propostas orçamentárias dentro dos limites estipulados conjuntamente com os demais Poderes na lei de diretrizes orçamentárias. ^f9112bc
 
-	*   O   ,     , : ^
+	* § 2° O encaminhamento da proposta, ouvidos os outros tribunais interessados, compete: ^2bea533
 
-		* I -    U,  P  S T    T S,      ; ^
+		* I - no âmbito da União, aos Presidentes do Supremo Tribunal Federal e dos Tribunais Superiores, com a aprovação dos respectivos tribunais; ^6efae99
 
-		* II -    E    D   T,  P  T  J,      . ^
+		* II - no âmbito dos Estados e no do Distrito Federal e Territórios, aos Presidentes dos Tribunais de Justiça, com a aprovação dos respectivos tribunais. ^24a74ec
 
-	*   S      [[#^|]]         z     z ,  P E ,        ,       ,            [[#^|]]  . (I  E C  ,  ) ^
+	* § 3° Se os órgãos referidos no § [[#^2bea533|2°]] não encaminharem as respectivas propostas orçamentárias dentro do prazo estabelecido na lei de diretrizes orçamentárias, o Poder Executivo considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § [[#^f9112bc|1°]] deste artigo. (Incluído pela Emenda Constitucional n° 45, de 2004) ^fc63ef0
 
-	*   S                     [[#^|]],  P E            . (I  E C  ,  ) ^
+	* § 4° Se as propostas orçamentárias de que trata este artigo forem encaminhadas em desacordo com os limites estipulados na forma do § [[#^f9112bc|1°]], o Poder Executivo procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual. (Incluído pela Emenda Constitucional n° 45, de 2004) ^1d7c428
 
-	*   D     ,     z                z ,    z,        . (I  E C  ,  ) ^
+	* § 5° Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais. (Incluído pela Emenda Constitucional n° 45, de 2004) ^8e5551f
 
-* A. . O    z P , E, D  M,     , --              ,                   . (R   E C  ,  ). (V E C  ,  ) (V ADI ) ^
+* Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim. (Redação dada pela Emenda Constitucional n° 62, de 2009). (Vide Emenda Constitucional n° 62, de 2009) (Vide ADI 4425) ^615122f
 
-	*   O   z         ,    z ,              ,   z     z,    ,        ,          ,       [[#^|]]  . (R   E C  ,  ) ^
+	* § 1° Os débitos de natureza alimentícia compreendem aqueles decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive os oriundos de repetição de indébito incidente sobre remuneração ou proventos de aposentadoria, bem como indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § [[#^621d869|2°]] deste artigo. (Redação dada pela Emenda Constitucional n° 136, de 2025) ^0bfcd9d
 
-	*   O   z   ,     ,   ()   ,      ,    ,      ,         ,                 [[#^|]]  ,      ,             . (R   E C  ,  ) ^
+	* § 2° Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham 60 (sessenta) anos de idade, ou sejam portadores de doença grave, ou pessoas com deficiência, assim definidos na forma da lei, serão pagos com preferência sobre todos os demais débitos, até o valor equivalente ao triplo fixado em lei para os fins do disposto no § [[#^cca13b0|3°]] deste artigo, admitido o fracionamento para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório. (Redação dada pela Emenda Constitucional n° 94, de 2016) ^621d869
 
-	*   O                           z   z        . (R   E C  ,  ). ^
+	* § 3° O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado. (Redação dada pela Emenda Constitucional n° 62, de 2009). ^cca13b0
 
-	*   P       [[#^|]],   ,   ,       ,     ,               . (R   E C  ,  ). ^
+	* § 4° Para os fins do disposto no § [[#^cca13b0|3°]], poderão ser fixados, por leis próprias, valores distintos às entidades de direito público, segundo as diferentes capacidades econômicas, sendo o mínimo igual ao valor do maior benefício do regime geral de previdência social. (Redação dada pela Emenda Constitucional n° 62, de 2009). ^7cfcde4
 
-	*   É                                 , z-        ,     z . (R   E C  ,  ) ^
+	* § 5° É obrigatória a inclusão no orçamento das entidades de direito público de verba necessária ao pagamento de seus débitos oriundos de sentenças transitadas em julgado constantes de precatórios judiciários apresentados até 1° de fevereiro, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente. (Redação dada pela Emenda Constitucional n° 136, de 2025) ^599c988
 
-	*   A           P J,   P  T           z,                             ,     . (R   E C  ,  ). ^
+	* § 6° As dotações orçamentárias e os créditos abertos serão consignados diretamente ao Poder Judiciário, cabendo ao Presidente do Tribunal que proferir a decisão exequenda determinar o pagamento integral e autorizar, a requerimento do credor e exclusivamente para os casos de preterimento de seu direito de precedência ou de não alocação orçamentária do valor necessário à satisfação do seu débito, o sequestro da quantia respectiva. (Redação dada pela Emenda Constitucional n° 62, de 2009). ^aa156a0
 
-	*   O P  T  ,     ,                , ,   C N  J. (I  E C  ,  ). ^
+	* § 7° O Presidente do Tribunal competente que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatórios incorrerá em crime de responsabilidade e responderá, também, perante o Conselho Nacional de Justiça. (Incluído pela Emenda Constitucional n° 62, de 2009). ^2c8a046
 
-	*   É           ,    ,                     [[#^|]]  . (I  E C  ,  ). ^
+	* § 8° É vedada a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela do total ao que dispõe o § [[#^cca13b0|3°]] deste artigo. (Incluído pela Emenda Constitucional n° 62, de 2009). ^7e7daa7
 
-	*   S            z P  T,                         z     ,      . (R   E C  ,  ) (V ADI ) (V ADI ) ^
+	* § 9° Sem que haja interrupção no pagamento do precatório e mediante comunicação da Fazenda Pública ao Tribunal, o valor correspondente aos eventuais débitos inscritos em dívida ativa contra o credor do requisitório e seus substituídos deverá ser depositado à conta do juízo responsável pela ação de cobrança, que decidirá pelo seu destino definitivo. (Redação dada pela Emenda Constitucional n° 113, de 2021) (Vide ADI 7047) (Vide ADI 7064) ^1aed3eb
 
-	*  . A    ,  T   z P ,      () ,        ,            [[#^|]],     . (I  E C  ,  ). (V ADI ) ^
+	* § 10. Antes da expedição dos precatórios, o Tribunal solicitará à Fazenda Pública devedora, para resposta em até 30 (trinta) dias, sob pena de perda do direito de abatimento, informação sobre os débitos que preencham as condições estabelecidas no § [[#^1aed3eb|9°]], para os fins nele previstos. (Incluído pela Emenda Constitucional n° 62, de 2009). (Vide ADI 4425) ^bca78fd
 
-	*  . É   ,        , ,                            : (R   E C  ,  ) (V ADI ) (V ADI ) ^
+	* § 11. É facultada ao credor, conforme estabelecido em lei do ente federativo devedor, , a oferta de créditos líquidos e certos que originalmente lhe são próprios ou adquiridos de terceiros reconhecidos pelo ente federativo ou por decisão judicial transitada em julgado para: (Redação dada pela Emenda Constitucional n° 113, de 2021) (Vide ADI 7047) (Vide ADI 7064) ^db228c4
 
-		* I -              ,      , , ,          ; (I  E C  ,  ) ^
+		* I - quitação de débitos parcelados ou débitos inscritos em dívida ativa do ente federativo devedor, inclusive em transação resolutiva de litígio, e, subsidiariamente, débitos com a administração autárquica e fundacional do mesmo ente; (Incluído pela Emenda Constitucional n° 113, de 2021) ^a368f5c
 
-		* II -          z  ; (I  E C  ,  ) ^
+		* II - compra de imóveis públicos de propriedade do mesmo ente disponibilizados para venda; (Incluído pela Emenda Constitucional n° 113, de 2021) ^331186f
 
-		* III -                  ; (I  E C  ,  ) ^
+		* III - pagamento de outorga de delegações de serviços públicos e demais espécies de concessão negocial promovidas pelo mesmo ente; (Incluído pela Emenda Constitucional n° 113, de 2021) ^d2f1b61
 
-		* IV - ,  ,   , z  ,    ;  (I  E C  ,  ) ^
+		* IV - aquisição, inclusive minoritária, de participação societária, disponibilizada para venda, do respectivo ente federativo; ou (Incluído pela Emenda Constitucional n° 113, de 2021) ^fc3d80c
 
-		* V -   , z  ,    , ,    U,                   . (I  E C  ,  ) ^
+		* V - compra de direitos, disponibilizados para cessão, do respectivo ente federativo, inclusive, no caso da União, da antecipação de valores a serem recebidos a título do excedente em óleo em contratos de partilha de petróleo. (Incluído pela Emenda Constitucional n° 113, de 2021) ^ac23718
 
-	*  . A     E C,  z    ,   ,    ,    z,            , ,      ,              ,       . (I  E C  ,  ). (V ADI ) ^
+	* § 12. A partir da promulgação desta Emenda Constitucional, a atualização de valores de requisitórios, após sua expedição, até o efetivo pagamento, independentemente de sua natureza, será feita pelo índice oficial de remuneração básica da caderneta de poupança, e, para fins de compensação da mora, incidirão juros simples no mesmo percentual de juros incidentes sobre a caderneta de poupança, ficando excluída a incidência de juros compensatórios. (Incluído pela Emenda Constitucional n° 62, de 2009). (Vide ADI 4425) ^beb956d
 
-	*  . O   ,   ,      ,     ,          [[#^|]]  [[#^|]]. (I  E C  ,  ). ^
+	* § 13. O credor poderá ceder, total ou parcialmente, seus créditos em precatórios a terceiros, independentemente da concordância do devedor, não se aplicando ao cessionário o disposto nos §§ [[#^621d869|2°]] e [[#^cca13b0|3°]]. (Incluído pela Emenda Constitucional n° 62, de 2009). ^aa8b42e
 
-	*  . A   ,      [[#^|]]  ,  z   ,     z,  T       . (R   E C  ,  ) ^
+	* § 14. A cessão de precatórios, observado o disposto no § [[#^1aed3eb|9°]] deste artigo, somente produzirá efeitos após comunicação, por meio de petição protocolizada, ao Tribunal de origem e ao ente federativo devedor. (Redação dada pela Emenda Constitucional n° 113, de 2021) ^cdc28db
 
-	*  . S z    ,     C             E, D   M,           z  . (I  E C  ,  ). ^
+	* § 15. Sem prejuízo do disposto neste artigo, lei complementar a esta Constituição Federal poderá estabelecer regime especial para pagamento de crédito de precatórios de Estados, Distrito Federal e Municípios, dispondo sobre vinculações à receita corrente líquida e forma e prazo de liquidação. (Incluído pela Emenda Constitucional n° 62, de 2009). ^ac30f03
 
-	*  . A        ,  U   ,   ,  E, D   M, - . (I  E C  ,  ). ^
+	* § 16. A seu critério exclusivo e na forma de lei, a União poderá assumir débitos, oriundos de precatórios, de Estados, Distrito Federal e Municípios, refinanciando-os diretamente. (Incluído pela Emenda Constitucional n° 62, de 2009). ^97319b0
 
-	*  . A U,  E,  D    M  ,   ,                  . (I  E C  ,  ) ^
+	* § 17. A União, os Estados, o Distrito Federal e os Municípios aferirão mensalmente, em base anual, o comprometimento de suas respectivas receitas correntes líquidas com o pagamento de precatórios e obrigações de pequeno valor. (Incluído pela Emenda Constitucional n° 94, de 2016) ^c3e7762
 
-	*  . E-    ,         [[#^|]],     , , , ,     ,       ,      [[#^|]]  . [[#^|]]  C ,                (z)  ,   ,  z: (I  E C  ,  ) ^
+	* § 18. Entende-se como receita corrente líquida, para os fins de que trata o § [[#^c3e7762|17]], o somatório das receitas tributárias, patrimoniais, industriais, agropecuárias, de contribuições e de serviços, de transferências correntes e outras receitas correntes, incluindo as oriundas do § [[#^10761bc|1°]] do art. [[#^7798582|20]] da Constituição Federal, verificado no período compreendido pelo segundo mês imediatamente anterior ao de referência e os 11 (onze) meses precedentes, excluídas as duplicidades, e deduzidas: (Incluído pela Emenda Constitucional n° 94, de 2016) ^3b30cde
 
-		* I -  U,     E,  D    M   ; (I  E C  ,  ) ^
+		* I - na União, as parcelas entregues aos Estados, ao Distrito Federal e aos Municípios por determinação constitucional; (Incluído pela Emenda Constitucional n° 94, de 2016) ^2ad9891
 
-		* II -  E,     M   ; (I  E C  ,  ) ^
+		* II - nos Estados, as parcelas entregues aos Municípios por determinação constitucional; (Incluído pela Emenda Constitucional n° 94, de 2016) ^e9a0105
 
-		* III -  U,  E,  D    M,                         [[#^|]]  . [[#^|]]  C . (I  E C  ,  ) ^
+		* III - na União, nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § [[#^72ea807|9°]] do art. [[#^9cc8602|201]] da Constituição Federal. (Incluído pela Emenda Constitucional n° 94, de 2016) ^22ad9da
 
-	*  . C                ,     (z) ,             ()   ,         ,           [[#^|VI]]  [[#^|VII]]  . [[#^|]]  C         ,                [[#^|IV]]  . [[#^|]]  C . (I  E C  ,  ) ^
+	* § 19. Caso o montante total de débitos decorrentes de condenações judiciais em precatórios e obrigações de pequeno valor, em período de 12 (doze) meses, ultrapasse a média do comprometimento percentual da receita corrente líquida nos 5 (cinco) anos imediatamente anteriores, a parcela que exceder esse percentual poderá ser financiada, excetuada dos limites de endividamento de que tratam os incisos [[#^a8442fb|VI]] e [[#^d9e25c1|VII]] do art. [[#^f00796a|52]] da Constituição Federal e de quaisquer outros limites de endividamento previstos, não se aplicando a esse financiamento a vedação de vinculação de receita prevista no inciso [[#^e2bdce5|IV]] do art. [[#^68bd784|167]] da Constituição Federal. (Incluído pela Emenda Constitucional n° 94, de 2016) ^8e61aed
 
-	*  -A. A U  z      ,       ,          [[#^|]]  ,     . (I  E C  ,  ) ^
+	* § 19-A. A União fica autorizada a instituir linha de crédito especial, por intermédio de instituições financeiras estatais federais, destinada exclusivamente à quitação dos precatórios referidos no § [[#^8e61aed|19]] deste artigo, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 136, de 2025) ^421fe55
 
-	*  . C       % (z  )          [[#^|]]  , % (z  )                      ,        ,    ,  Jz A  C  P,     % (  )     z,                         . (I  E C  ,  ) ^
+	* § 20. Caso haja precatório com valor superior a 15% (quinze por cento) do montante dos precatórios apresentados nos termos do § [[#^599c988|5°]] deste artigo, 15% (quinze por cento) do valor deste precatório serão pagos até o final do exercício seguinte e o restante em parcelas iguais nos cinco exercícios subsequentes, acrescidas de juros de mora e correção monetária, ou mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado. (Incluído pela Emenda Constitucional n° 94, de 2016) ^775d41c
 
-	*  .   U     ,      ,       , z  z                z ,   : (I  E C  ,  ) ^
+	* § 21. Ficam a União e os demais entes federativos, nos montantes que lhes são próprios, desde que aceito por ambas as partes, autorizados a utilizar valores objeto de sentenças transitadas em julgado devidos a pessoa jurídica de direito público para amortizar dívidas, vencidas ou vincendas: (Incluído pela Emenda Constitucional n° 113, de 2021) ^d84a464
 
-		* I -                        ; (I  E C  ,  ) ^
+		* I - nos contratos de refinanciamento cujos créditos sejam detidos pelo ente federativo que figure como devedor na sentença de que trata o caput deste artigo; (Incluído pela Emenda Constitucional n° 113, de 2021) ^6be2da6
 
-		* II -            ; (I  E C  ,  ) ^
+		* II - nos contratos em que houve prestação de garantia a outro ente federativo; (Incluído pela Emenda Constitucional n° 113, de 2021) ^10c3bcf
 
-		* III -        ;  (I  E C  ,  ) ^
+		* III - nos parcelamentos de tributos ou de contribuições sociais; e (Incluído pela Emenda Constitucional n° 113, de 2021) ^f824db4
 
-		* IV -              . (I  E C  ,  ) ^
+		* IV - nas obrigações decorrentes do descumprimento de prestação de contas ou de desvio de recursos. (Incluído pela Emenda Constitucional n° 113, de 2021) ^81077e1
 
-	*  . A z      [[#^|]]  : (I  E C  ,  ) ^
+	* § 22. A amortização de que trata o § [[#^d84a464|21]] deste artigo: (Incluído pela Emenda Constitucional n° 113, de 2021) ^4177ea2
 
-		* I -   ,       ; (I  E C  ,  ) ^
+		* I - nas obrigações vencidas, será imputada primeiramente às parcelas mais antigas; (Incluído pela Emenda Constitucional n° 113, de 2021) ^f703959
 
-		* II -   , z       ,         . (I  E C  ,  ) ^
+		* II - nas obrigações vincendas, reduzirá uniformemente o valor de cada parcela devida, mantida a duração original do respectivo contrato ou parcelamento. (Incluído pela Emenda Constitucional n° 113, de 2021) ^6cd67dc
 
-	*  . O     E,  D    M,       ,  ,      [[#^|]], [[#^|]], [[#^|]]  [[#^|]]  , : (I  E C  ,  ) ^
+	* § 23. Os pagamentos de precatórios pelos Estados, pelo Distrito Federal e pelos Municípios, relativos às suas administrações diretas e indiretas, estão limitados, observado o disposto nos §§ [[#^3461f02|24]], [[#^430d18f|25]], [[#^681451e|26]] e [[#^12d4c4f|28]] deste artigo, a: (Incluído pela Emenda Constitucional n° 136, de 2025) ^779ce97
 
-		* I - % (  )         ,                   , z      ,    ,   % (z  )  ; (I  E C  ,  ) ^
+		* I - 1% (um por cento) da receita corrente líquida apurada no exercício financeiro anterior, para os entes federativos que não possuam estoque e para os entes federativos cujo estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, não superar 15% (quinze por cento) desse valor; (Incluído pela Emenda Constitucional n° 136, de 2025) ^1dba8ac
 
-		* II - ,% (      )         ,       , z      ,    ,    % (z  )      % (    )  ; (I  E C  ,  ) ^
+		* II - 1,5% (um inteiro e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, for superior a 15% (quinze por cento) e inferior ou igual a 25% (vinte e cinco por cento) desse valor; (Incluído pela Emenda Constitucional n° 136, de 2025) ^b7c63dc
 
-		* III - % (  )         ,       , z      ,    ,    % (    )      % (    )  ; (I  E C  ,  ) ^
+		* III - 2% (dois por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, for superior a 25% (vinte e cinco por cento) e inferior ou igual a 35% (trinta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional n° 136, de 2025) ^58afeae
 
-		* IV - ,% (      )         ,       , z      ,    ,    % (    )      % (    )  ; (I  E C  ,  ) ^
+		* IV - 2,5% (dois inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, for superior a 35% (trinta e cinco por cento) e inferior ou igual a 45% (quarenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional n° 136, de 2025) ^ac65f0d
 
-		* V - % (  )         ,       , z      ,    ,    % (    )      % (    )  ; (I  E C  ,  ) ^
+		* V - 3% (três por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, for superior a 45% (quarenta e cinco por cento) e inferior ou igual a 55% (cinquenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional n° 136, de 2025) ^1b046c1
 
-		* VI - ,% (      )         ,       , z      ,    ,    % (    )      % (    )  ; (I  E C  ,  ) ^
+		* VI - 3,5% (três inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, for superior a 55% (cinquenta e cinco por cento) e inferior ou igual a 65% (sessenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional n° 136, de 2025) ^31d6978
 
-		* VII - % (  )         ,       , z      ,    ,    % (    )      % (    )  ; (I  E C  ,  ) ^
+		* VII - 4% (quatro por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, for superior a 65% (sessenta e cinco por cento) e inferior ou igual a 75% (setenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional n° 136, de 2025) ^57cc1da
 
-		* VIII - ,% (      )         ,       , z      ,    ,    % (    )      % (    )  ; (I  E C  ,  ) ^
+		* VIII - 4,5% (quatro inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, for superior a 75% (setenta e cinco por cento) e inferior ou igual a 85% (oitenta e cinco por cento) desse valor; (Incluído pela Emenda Constitucional n° 136, de 2025) ^817866a
 
-		* IX - % (  )         ,       , z      ,    ,    % (    )  . (I  E C  ,  ) ^
+		* IX - 5% (cinco por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1° de janeiro, for superior a 85% (oitenta e cinco por cento) desse valor. (Incluído pela Emenda Constitucional n° 136, de 2025) ^71c8079
 
-	*  . O      [[#^|I]]  [[#^|IX]]   [[#^|]]     ,       ,  , ( )             ,        ,        (z) ,           . (I  E C  ,  ) ^
+	* § 24. Os limites percentuais fixados nos incisos [[#^1dba8ac|I]] a [[#^71c8079|IX]] do § [[#^779ce97|23]] deste artigo deverão ser majorados, de forma fixa para o decênio seguinte, em 0,5 (cinco décimos) ponto percentual sobre a receita corrente líquida apurada no exercício financeiro imediatamente anterior, a partir de 1° de janeiro de 2036, e a cada período subsequente de 10 (dez) anos, caso seja verificada a existência de estoque de precatórios em mora. (Incluído pela Emenda Constitucional n° 136, de 2025) ^3461f02
 
-	*  . T           E,  D    M   z              . (I  E C  ,  ) ^
+	* § 25. Toda medida efetiva de redução de estoque de precatórios promovida pelos Estados, pelo Distrito Federal e pelos Municípios deverá ser contabilizada para fins de apuração do cumprimento do respectivo plano anual de pagamento de precatórios. (Incluído pela Emenda Constitucional n° 136, de 2025) ^430d18f
 
-	*  . O    z     [[#^|]]  [[#^|]]               [[#^|]]  . (I  E C  ,  ) ^
+	* § 26. Os pagamentos de precatórios realizados nos termos dos §§ [[#^db228c4|11]] e [[#^d84a464|21]] deste artigo não são considerados para aplicação dos limites de que trata o § [[#^779ce97|23]] deste artigo. (Incluído pela Emenda Constitucional n° 136, de 2025) ^681451e
 
-	*  . S         E,  D    M,      [[#^|]]  ,    ,     : (I  E C  ,  ) ^
+	* § 27. Se os recursos destinados aos pagamentos de precatórios dos Estados, do Distrito Federal e dos Municípios, observados os limites do § [[#^779ce97|23]] deste artigo, não forem tempestivamente liberados, no todo ou em parte: (Incluído pela Emenda Constitucional n° 136, de 2025) ^62e75fb
 
-		* I -        [[#^|]]    ; (I  E C  ,  ) ^
+		* I - os limites de que trata o § [[#^779ce97|23]] deste artigo serão suspensos; (Incluído pela Emenda Constitucional n° 136, de 2025) ^33506fe
 
-		* II -  P  T  J    ,      ,   ,             ; (I  E C  ,  ) ^
+		* II - o Presidente do Tribunal de Justiça local determinará o sequestro, até o limite do valor devido, das contas municipais, estaduais ou distrital do ente federativo inadimplente para fins de pagamento de precatórios; (Incluído pela Emenda Constitucional n° 136, de 2025) ^498c4fc
 
-		* III -  G  E   D    P  M             ; (I  E C  ,  ) ^
+		* III - o Governador do Estado ou do Distrito Federal ou o Prefeito do Município inadimplente responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa; (Incluído pela Emenda Constitucional n° 136, de 2025) ^79e7374
 
-		* IV -  E,  D    M      ,    . (I  E C  ,  ) ^
+		* IV - o Estado, o Distrito Federal ou o Município ficará impedido de receber transferências voluntárias, enquanto perdurar a omissão. (Incluído pela Emenda Constitucional n° 136, de 2025) ^068f786
 
-	*  . O E,  D    M,    ,             [[#^|]]  . (I  E C  ,  ) ^
+	* § 28. Os Estados, o Distrito Federal e os Municípios, mediante dotação orçamentária específica, poderão efetuar pagamentos de precatórios que superem os limites previstos no § [[#^779ce97|23]] deste artigo. (Incluído pela Emenda Constitucional n° 136, de 2025) ^12d4c4f
 
-	*  . É       E,  D    M       z     [[#^|]]  [[#^|]]  ,  z      [[#^|]]  [[#^|]]  ,   ,     Jz A  C  P  C J   z P ,    D ,   ,      ,        . (I  E C  ,  ) ^
+	* § 29. É facultado ao credor de precatório dos Estados, do Distrito Federal e dos Municípios que não tenha sido pago em razão do disposto nos §§ [[#^775d41c|20]] ou [[#^779ce97|23]] deste artigo, sem prejuízo dos procedimentos previstos nos §§ [[#^1aed3eb|9°]] e [[#^d84a464|21]] deste artigo, optar pelo recebimento, mediante acordos diretos perante Juízos Auxiliares de Conciliação de Pagamento de Condenações Judiciais contra a Fazenda Pública estadual, municipal ou do Distrito Federal, em parcela única, até o final do exercício seguinte, com renúncia de parcela do valor desse crédito. (Incluído pela Emenda Constitucional n° 136, de 2025) ^0b6d561
 
-	*  . O           P J                    ,     ,              . (I  E C  ,  ) ^
+	* § 30. Os valores efetivamente aportados pelos entes federativos nas contas especiais do Poder Judiciário destinadas ao pagamento de precatórios deverão ser imediatamente excluídos do estoque da dívida para fins de apuração do saldo devedor, vedada a incidência de juros, de correção monetária ou de quaisquer acréscimos legais sobre esses valores após sua transferência. (Incluído pela Emenda Constitucional n° 136, de 2025) ^9105019
 
-### ... SEÇÃO II - DO SUPREMO TRIBUNAL EDERAL (ARTS.  A -B)
-[[NL/C    (C)/MOC/... SEÇÃO II - DO SUPREMO TRIBUNAL EDERAL (ARTS.  A -B)|R]]
+### 4.3.2. SEÇÃO II - DO SUPREMO TRIBUNAL FEDERAL (ARTS. 101 A 103-B)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3.2. SEÇÃO II - DO SUPREMO TRIBUNAL FEDERAL (ARTS. 101 A 103-B)|Resumo]]
 
-* A. . O S T  -  z M,                ,       . (R   E C  ,  ) ^
+* Art. 101. O Supremo Tribunal Federal compõe-se de onze Ministros, escolhidos dentre cidadãos com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada. (Redação dada pela Emenda Constitucional n° 122, de 2022) ^406d1c5
 
-	* P . O M  S T     P  R,          S . ^
+	* Parágrafo único. Os Ministros do Supremo Tribunal Federal serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal. ^c5df2e8
 
-* A. . C  S T , ,    C, -: ^
+* Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe: ^80db993
 
-	* I -   , : ^
+	* I - processar e julgar, originariamente: ^1596e19
 
-		* )                         ; (R   E C  ,  ) ^
+		* a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal; (Redação dada pela Emenda Constitucional n° 3, de 1993) ^6a7d847
 
-		* )    ,  P  R,  V-P,    C N,   M   P-G  R; ^
+		* b) nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República; ^3b7e4cf
 
-		* )         ,  M  E   C  M,  E   A,     . [[#^|]], [[#^|I]],    T S,   T  C  U         ; (R   E C  ,  ) ^
+		* c) nas infrações penais comuns e nos crimes de responsabilidade, os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica, ressalvado o disposto no art. [[#^f00796a|52]], [[#^3545f3d|I]], os membros dos Tribunais Superiores, os do Tribunal de Contas da União e os chefes de missão diplomática de caráter permanente; (Redação dada pela Emenda Constitucional n° 23, de 1999) ^c4ebdc4
 
-		* )   ,         ;            P  R,  M  C  D   S ,  T  C  U,  P-G  R    S T ; ^
+		* d) o habeas corpus, sendo paciente qualquer das pessoas referidas nas alíneas anteriores; o mandado de segurança e o habeas data contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal; ^54f9768
 
-		* )    E       U,  E,  D    T; ^
+		* e) o litígio entre Estado estrangeiro ou organismo internacional e a União, o Estado, o Distrito Federal ou o Território; ^2c671ba
 
-		* )        U   E,  U   D ,     ,       ; ^
+		* f) as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta; ^df6acc5
 
-		* )     E ; ^
+		* g) a extradição solicitada por Estado estrangeiro; ^1473db2
 
-		* )   ,     T S                    S T ,             ; (R   E C  ,  ) ^
+		* i) o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância; (Redação dada pela Emenda Constitucional n° 22, de 1999) ^7d10e27
 
-		* )          ; ^
+		* j) a revisão criminal e a ação rescisória de seus julgados; ^5975984
 
-		* )               ; ^
+		* l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões; ^34393b9
 
-		* )          ,           ; ^
+		* m) a execução de sentença nas causas de sua competência originária, facultada a delegação de atribuições para a prática de atos processuais; ^cb3500b
 
-		* )              ,                     ; ^
+		* n) a ação em que todos os membros da magistratura sejam direta ou indiretamente interessados, e aquela em que mais da metade dos membros do tribunal de origem estejam impedidos ou sejam direta ou indiretamente interessados; ^8b7470b
 
-		* )       S T  J   ,  T S,       ; ^
+		* o) os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal; ^d64dd88
 
-		* )          ; ^
+		* p) o pedido de medida cautelar das ações diretas de inconstitucionalidade; ^b102e7d
 
-		* )    ,          P  R,  C N,  C  D,  S ,  M    C L,  T  C  U,    T S,    S T ; ^
+		* q) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, das Mesas de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal; ^8119889
 
-		* )     C N  J    C N  M P; (I  E C  ,  ) ^
+		* r) as ações contra o Conselho Nacional de Justiça e contra o Conselho Nacional do Ministério Público; (Incluída pela Emenda Constitucional n° 45, de 2004) ^032bd46
 
-	* II - ,   : ^
+	* II - julgar, em recurso ordinário: ^dc4ba1b
 
-		* )   ,    ,              T S,    ; ^
+		* a) o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão; ^549e781
 
-		* )   ; ^
+		* b) o crime político; ^d008d45
 
-	* III - ,   ,        ,    : ^
+	* III - julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida: ^7cd6122
 
-		* )    C; ^
+		* a) contrariar dispositivo desta Constituição; ^16ad7ff
 
-		* )        ; ^
+		* b) declarar a inconstitucionalidade de tratado ou lei federal; ^2c56797
 
-		* )             C. ^
+		* c) julgar válida lei ou ato de governo local contestado em face desta Constituição. ^a86db48
 
-		* )          . (I  E C  ,  ) ^
+		* d) julgar válida lei local contestada em face de lei federal. (Incluída pela Emenda Constitucional n° 45, de 2004) ^b04080a
 
-	*   A      ,   C,    S T ,    . (T   [[#^|]]  E C  ,  //) ^
+	* § 1° A argüição de descumprimento de preceito fundamental, decorrente desta Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei. (Transformado em § [[#^7a5e63a|1°]] pela Emenda Constitucional n° 3, de 17/03/93) ^7a5e63a
 
-	*   A    ,   S T ,            z      ,      P J       ,   ,   . (R   E C  ,  ) (V ADIN ) ^
+	* § 2° As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações diretas de inconstitucionalidade e nas ações declaratórias de constitucionalidade produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal. (Redação dada pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) ^f0d8f69
 
-	*   N               ,    ,      T     ,   -        . (I  E C  ,  ) ^
+	* § 3° No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do recurso, somente podendo recusá-lo pela manifestação de dois terços de seus membros. (Incluída pela Emenda Constitucional n° 45, de 2004) ^a94dc7a
 
-* A. . P            : (R   E C  ,  ) (V L  .,  ) (V) ^
+* Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade: (Redação dada pela Emenda Constitucional n° 45, de 2004) (Vide Lei n° 13.105, de 2015) (Vigência) ^eae251b
 
-	* I -  P  R; ^
+	* I - o Presidente da República; ^e0a01ca
 
-	* II -  M  S ; ^
+	* II - a Mesa do Senado Federal; ^eda9c1b
 
-	* III -  M  C  D; ^
+	* III - a Mesa da Câmara dos Deputados; ^38c9563
 
-	* IV -  M  A L   C L  D ; (R   E C  ,  ) ^
+	* IV - a Mesa de Assembléia Legislativa ou da Câmara Legislativa do Distrito Federal; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^085cba0
 
-	* V -  G  E   D ; (R   E C  ,  ) ^
+	* V - o Governador de Estado ou do Distrito Federal; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^93c9601
 
-	* VI -  P-G  R; ^
+	* VI - o Procurador-Geral da República; ^77b04b8
 
-	* VII -  C   O  A  B; ^
+	* VII - o Conselho Federal da Ordem dos Advogados do Brasil; ^9519da5
 
-	* VIII -      C N; ^
+	* VIII - partido político com representação no Congresso Nacional; ^f8271d0
 
-	* IX -         . ^
+	* IX - confederação sindical ou entidade de classe de âmbito nacional. ^fa804a0
 
-	*   O P-G  R                 S T . ^
+	* § 1° O Procurador-Geral da República deverá ser previamente ouvido nas ações de inconstitucionalidade e em todos os processos de competência do Supremo Tribunal Federal. ^63b65cb
 
-	*   D           ,     P        ,      ,  z-   . ^
+	* § 2° Declarada a inconstitucionalidade por omissão de medida para tornar efetiva norma constitucional, será dada ciência ao Poder competente para a adoção das providências necessárias e, em se tratando de órgão administrativo, para fazê-lo em trinta dias. ^e36bda6
 
-	*   Q  S T    ,  ,      , , ,  A-G  U,       . ^
+	* § 3° Quando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou texto impugnado. ^2429819
 
-* A. -A. O S T  ,     ,        ,      ,   ,        ,          P J       ,   ,   ,        ,     . (I  E C  ,  ) (V L  .,  ). ^
+* Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide Lei n° 11.417, de 2006). ^2e8115d
 
-	*   A      ,        ,                             . (I  E C  ,  ) ^
+	* § 1° A súmula terá por objetivo a validade, a interpretação e a eficácia de normas determinadas, acerca das quais haja controvérsia atual entre órgãos judiciários ou entre esses e a administração pública que acarrete grave insegurança jurídica e relevante multiplicação de processos sobre questão idêntica. (Incluído pela Emenda Constitucional n° 45, de 2004) ^cf27de3
 
-	*   S z        ,  ,                  . (I  E C  ,  ) ^
+	* § 2° Sem prejuízo do que vier a ser estabelecido em lei, a aprovação, revisão ou cancelamento de súmula poderá ser provocada por aqueles que podem propor a ação direta de inconstitucionalidade. (Incluído pela Emenda Constitucional n° 45, de 2004) ^9889c58
 
-	*   D               ,    S T  , - ,          ,             ,   . (I  E C  ,  ) ^
+	* § 3° Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso. (Incluído pela Emenda Constitucional n° 45, de 2004) ^d52122c
 
-* A. -B. O C N  J -   (z)      () ,   () , : (R   E C  ,  ) ^
+* Art. 103-B. O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros com mandato de 2 (dois) anos, admitida 1 (uma) recondução, sendo: (Redação dada pela Emenda Constitucional n° 61, de 2009) ^f02360e
 
-	* I -  P  S T ; (R   E C  ,  ) ^
+	* I - o Presidente do Supremo Tribunal Federal; (Redação dada pela Emenda Constitucional n° 61, de 2009) ^0d7d8bd
 
-	* II -  M  S T  J,    ; (I  E C  ,  ) ^
+	* II - um Ministro do Superior Tribunal de Justiça, indicado pelo respectivo tribunal; (Incluído pela Emenda Constitucional n° 45, de 2004) ^33740d7
 
-	* III -  M  T S  T,    ; (I  E C  ,  ) ^
+	* III - um Ministro do Tribunal Superior do Trabalho, indicado pelo respectivo tribunal; (Incluído pela Emenda Constitucional n° 45, de 2004) ^876a7f4
 
-	* IV -    T  J,   S T ; (I  E C  ,  ) ^
+	* IV - um desembargador de Tribunal de Justiça, indicado pelo Supremo Tribunal Federal; (Incluído pela Emenda Constitucional n° 45, de 2004) ^98c8237
 
-	* V -  z ,   S T ; (I  E C  ,  ) ^
+	* V - um juiz estadual, indicado pelo Supremo Tribunal Federal; (Incluído pela Emenda Constitucional n° 45, de 2004) ^c627e39
 
-	* VI -  z  T R ,   S T  J; (I  E C  ,  ) ^
+	* VI - um juiz de Tribunal Regional Federal, indicado pelo Superior Tribunal de Justiça; (Incluído pela Emenda Constitucional n° 45, de 2004) ^7361e2f
 
-	* VII -  z ,   S T  J; (I  E C  ,  ) ^
+	* VII - um juiz federal, indicado pelo Superior Tribunal de Justiça; (Incluído pela Emenda Constitucional n° 45, de 2004) ^e7cf9f9
 
-	* VIII -  z  T R  T,   T S  T; (I  E C  ,  ) ^
+	* VIII - um juiz de Tribunal Regional do Trabalho, indicado pelo Tribunal Superior do Trabalho; (Incluído pela Emenda Constitucional n° 45, de 2004) ^0705ce1
 
-	* IX -  z  ,   T S  T; (I  E C  ,  ) ^
+	* IX - um juiz do trabalho, indicado pelo Tribunal Superior do Trabalho; (Incluído pela Emenda Constitucional n° 45, de 2004) ^cdf6182
 
-	* X -    M P  U,   P-G  R; (I  E C  ,  ) ^
+	* X - um membro do Ministério Público da União, indicado pelo Procurador-Geral da República; (Incluído pela Emenda Constitucional n° 45, de 2004) ^c8cb00b
 
-	* XI    M P ,   P-G  R           ; (I  E C  ,  ) ^
+	* XI um membro do Ministério Público estadual, escolhido pelo Procurador-Geral da República dentre os nomes indicados pelo órgão competente de cada instituição estadual; (Incluído pela Emenda Constitucional n° 45, de 2004) ^25aba2a
 
-	* XII -  ,   C   O  A  B; (I  E C  ,  ) ^
+	* XII - dois advogados, indicados pelo Conselho Federal da Ordem dos Advogados do Brasil; (Incluído pela Emenda Constitucional n° 45, de 2004) ^38e0411
 
-	* XIII -  ,       ,    C  D    S . (I  E C  ,  ) ^
+	* XIII - dois cidadãos, de notável saber jurídico e reputação ilibada, indicados um pela Câmara dos Deputados e outro pelo Senado Federal. (Incluído pela Emenda Constitucional n° 45, de 2004) ^a26a293
 
-	*   O C    P  S T  ,     ,  V-P  S T . (R   E C  ,  ) ^
+	* § 1° O Conselho será presidido pelo Presidente do Supremo Tribunal Federal e, nas suas ausências e impedimentos, pelo Vice-Presidente do Supremo Tribunal Federal. (Redação dada pela Emenda Constitucional n° 61, de 2009) ^e316dfb
 
-	*   O    C    P  R,          S . (R   E C  ,  ) ^
+	* § 2° Os demais membros do Conselho serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal. (Redação dada pela Emenda Constitucional n° 61, de 2009) ^e32bf56
 
-	*   N ,  z ,     ,     S T . (I  E C  ,  ) ^
+	* § 3° Não efetuadas, no prazo legal, as indicações previstas neste artigo, caberá a escolha ao Supremo Tribunal Federal. (Incluído pela Emenda Constitucional n° 45, de 2004) ^d650936
 
-	*   C  C         P J        z, -,          E  M: (I  E C  ,  ) ^
+	* § 4° Compete ao Conselho o controle da atuação administrativa e financeira do Poder Judiciário e do cumprimento dos deveres funcionais dos juízes, cabendo-lhe, além de outras atribuições que lhe forem conferidas pelo Estatuto da Magistratura: (Incluído pela Emenda Constitucional n° 45, de 2004) ^5b57b85
 
-		* I - z    P J     E  M,    ,     ,   ; (I  E C  ,  ) ^
+		* I - zelar pela autonomia do Poder Judiciário e pelo cumprimento do Estatuto da Magistratura, podendo expedir atos regulamentares, no âmbito de sua competência, ou recomendar providências; (Incluído pela Emenda Constitucional n° 45, de 2004) ^c2561be
 
-		* II - z    . [[#^|]]  ,     ,            P J,  -, -   z            ,  z    T  C  U; (I  E C  ,  ) ^
+		* II - zelar pela observância do art. [[#^73a80b7|37]] e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Poder Judiciário, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência do Tribunal de Contas da União; (Incluído pela Emenda Constitucional n° 45, de 2004) ^90c0faf
 
-		* III -           P J,     ,                   z,  z       ,      ,           ,   ; (R   E C  ,  ) ^
+		* III - receber e conhecer das reclamações contra membros ou órgãos do Poder Judiciário, inclusive contra seus serviços auxiliares, serventias e órgãos prestadores de serviços notariais e de registro que atuem por delegação do poder público ou oficializados, sem prejuízo da competência disciplinar e correicional dos tribunais, podendo avocar processos disciplinares em curso, determinar a remoção ou a disponibilidade e aplicar outras sanções administrativas, assegurada ampla defesa; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^9f96bd4
 
-		* IV -   M P,             ; (I  E C  ,  ) ^
+		* IV - representar ao Ministério Público, no caso de crime contra a administração pública ou de abuso de autoridade; (Incluído pela Emenda Constitucional n° 45, de 2004) ^eee3e34
 
-		* V - ,     ,     z          ; (I  E C  ,  ) ^
+		* V - rever, de ofício ou mediante provocação, os processos disciplinares de juízes e membros de tribunais julgados há menos de um ano; (Incluído pela Emenda Constitucional n° 45, de 2004) ^0f0efb2
 
-		* VI -         ,    ,     P J; (I  E C  ,  ) ^
+		* VI - elaborar semestralmente relatório estatístico sobre processos e sentenças prolatadas, por unidade da Federação, nos diferentes órgãos do Poder Judiciário; (Incluído pela Emenda Constitucional n° 45, de 2004) ^f2d64db
 
-		* VII -   ,      ,     P J  P     C,       P  S T      C N,       . (I  E C  ,  ) ^
+		* VII - elaborar relatório anual, propondo as providências que julgar necessárias, sobre a situação do Poder Judiciário no País e as atividades do Conselho, o qual deve integrar mensagem do Presidente do Supremo Tribunal Federal a ser remetida ao Congresso Nacional, por ocasião da abertura da sessão legislativa. (Incluído pela Emenda Constitucional n° 45, de 2004) ^133171a
 
-	*   O M  S T  J     M-C         T, -,         E  M,  : (I  E C  ,  ) ^
+	* § 5° O Ministro do Superior Tribunal de Justiça exercerá a função de Ministro-Corregedor e ficará excluído da distribuição de processos no Tribunal, competindo-lhe, além das atribuições que lhe forem conferidas pelo Estatuto da Magistratura, as seguintes: (Incluído pela Emenda Constitucional n° 45, de 2004) ^478266b
 
-		* I     ,   ,       ; (I  E C  ,  ) ^
+		* I receber as reclamações e denúncias, de qualquer interessado, relativas aos magistrados e aos serviços judiciários; (Incluído pela Emenda Constitucional n° 45, de 2004) ^9eb4cd5
 
-		* II     C,      ; (I  E C  ,  ) ^
+		* II exercer funções executivas do Conselho, de inspeção e de correição geral; (Incluído pela Emenda Constitucional n° 45, de 2004) ^df58119
 
-		* III    , - ,     z  ,   E, D   T. (I  E C  ,  ) ^
+		* III requisitar e designar magistrados, delegando-lhes atribuições, e requisitar servidores de juízos ou tribunais, inclusive nos Estados, Distrito Federal e Territórios. (Incluído pela Emenda Constitucional n° 45, de 2004) ^db0fc37
 
-	*   J  C   P-G  R   P  C   O  A  B. (I  E C  ,  ) ^
+	* § 6° Junto ao Conselho oficiarão o Procurador-Geral da República e o Presidente do Conselho Federal da Ordem dos Advogados do Brasil. (Incluído pela Emenda Constitucional n° 45, de 2004) ^cd67b3e
 
-	*   A U,   D    T,    ,               P J,     ,    C N  J. (I  E C  ,  ) ^
+	* § 7° A União, inclusive no Distrito Federal e nos Territórios, criará ouvidorias de justiça, competentes para receber reclamações e denúncias de qualquer interessado contra membros ou órgãos do Poder Judiciário, ou contra seus serviços auxiliares, representando diretamente ao Conselho Nacional de Justiça. (Incluído pela Emenda Constitucional n° 45, de 2004) ^055ec6e
 
-### ... SEÇÃO III - DO SUPERIOR TRIBUNAL DE JUSTIÇA (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO III - DO SUPERIOR TRIBUNAL DE JUSTIÇA (ARTS.  A )|R]]
+### 4.3.3. SEÇÃO III - DO SUPERIOR TRIBUNAL DE JUSTIÇA (ARTS. 104 A 105)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3.3. SEÇÃO III - DO SUPERIOR TRIBUNAL DE JUSTIÇA (ARTS. 104 A 105)|Resumo]]
 
-* A. . O S T  J - ,  ,    M. ^
+* Art. 104. O Superior Tribunal de Justiça compõe-se de, no mínimo, trinta e três Ministros. ^b467534
 
-	* P . O M  S T  J    P  R,               ,       ,          S , : (R   E C  ,  ) ^
+	* Parágrafo único. Os Ministros do Superior Tribunal de Justiça serão nomeados pelo Presidente da República, dentre brasileiros com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada, depois de aprovada a escolha pela maioria absoluta do Senado Federal, sendo: (Redação dada pela Emenda Constitucional n° 122, de 2022) ^4851b65
 
-		* I -    z  T R        T  J,        T; ^
+		* I - um terço dentre juízes dos Tribunais Regionais Federais e um terço dentre desembargadores dos Tribunais de Justiça, indicados em lista tríplice elaborada pelo próprio Tribunal; ^02300ab
 
-		* II -  ,   ,      M P , E,  D   T, ,     . [[#^|]]. ^
+		* II - um terço, em partes iguais, dentre advogados e membros do Ministério Público Federal, Estadual, do Distrito Federal e Territórios, alternadamente, indicados na forma do art. [[#^31df19f|94]]. ^a583461
 
-* A. . C  S T  J: ^
+* Art. 105. Compete ao Superior Tribunal de Justiça: ^b73dd39
 
-	* I -   , : ^
+	* I - processar e julgar, originariamente: ^e0f56e7
 
-		* )   ,  G  E   D , ,     ,    T  J  E   D ,    T  C  E   D ,   T R ,  T R E   T,    C  T  C  M    M P  U    ; ^
+		* a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais; ^fd811cd
 
-		* )            M  E,  C  M,  E   A    T; (R   E C  ,  ) ^
+		* b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal; (Redação dada pela Emenda Constitucional n° 23, de 1999) ^9a36729
 
-		* )   ,             [[#^|]],          , M  E  C  M,  E   A,     J E; (R   E C  ,  ) ^
+		* c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea [[#^fd811cd|a]], ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral; (Redação dada pela Emenda Constitucional n° 23, de 1999) ^3234bcb
 
-		* )       ,     . [[#^|]], [[#^|I]], "[[#^|]]",      z       z    ; ^
+		* d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. [[#^80db993|102]], [[#^1596e19|I]], "[[#^d64dd88|o]]", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos; ^77b8b1d
 
-		* )          ; ^
+		* e) as revisões criminais e as ações rescisórias de seus julgados; ^d18ed45
 
-		* )               ; ^
+		* f) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões; ^97d512f
 
-		* )           U,       E       D ,       U; ^
+		* g) os conflitos de atribuições entre autoridades administrativas e judiciárias da União, ou entre autoridades judiciárias de um Estado e administrativas de outro ou do Distrito Federal, ou entre as deste e da União; ^30e64e2
 
-		* )    ,          ,    ,     ,       S T      J M,  J E,  J  T   J ; ^
+		* h) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição de órgão, entidade ou autoridade federal, da administração direta ou indireta, excetuados os casos de competência do Supremo Tribunal Federal e dos órgãos da Justiça Militar, da Justiça Eleitoral, da Justiça do Trabalho e da Justiça Federal; ^a9e016e
 
-		* )             ; (I  E C  ,  ) ^
+		* i) a homologação de sentenças estrangeiras e a concessão de exequatur às cartas rogatórias; (Incluída pela Emenda Constitucional n° 45, de 2004) ^5e00ffd
 
-		* )     ,      C G  I  B  S,      . [[#^|-A]]  [[#^|]], [[#^|V]]; (I  E C  ,  ) ^
+		* j) os conflitos entre entes federativos, ou entre estes e o Comitê Gestor do Imposto sobre Bens e Serviços, relacionados aos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^c8152ad
 
-	* II - ,   : ^
+	* II - julgar, em recurso ordinário: ^8a041c4
 
-		* )           T R      E,  D   T,     ; ^
+		* a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória; ^ec15bba
 
-		* )          T R      E,  D   T,    ; ^
+		* b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão; ^ad85071
 
-		* )       E    ,   , ,  , M       P; ^
+		* c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País; ^650840e
 
-	* III - ,   ,   ,     ,  T R      E,  D   T,    : ^
+	* III - julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida: ^935175f
 
-		* )     ,  - ; ^
+		* a) contrariar tratado ou lei federal, ou negar-lhes vigência; ^fdbfc9b
 
-		* )            ; (R   E C  ,  ) ^
+		* b) julgar válido ato de governo local contestado em face de lei federal; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^ed23efd
 
-		* )             . ^
+		* c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal. ^fb415fa
 
-	*      S T  J: ^
+	* § 1° Funcionarão junto ao Superior Tribunal de Justiça: ^69fec97
 
-		* I -  E N    A  M, -,   ,           ; (I  E C  ,  ) ^
+		* I - a Escola Nacional de Formação e Aperfeiçoamento de Magistrados, cabendo-lhe, dentre outras funções, regulamentar os cursos oficiais para o ingresso e promoção na carreira; (Incluído pela Emenda Constitucional n° 45, de 2004) ^878556c
 
-		* II -  C  J , - ,    ,       J      ,         ,     . (I  E C  ,  ) ^
+		* II - o Conselho da Justiça Federal, cabendo-lhe exercer, na forma da lei, a supervisão administrativa e orçamentária da Justiça Federal de primeiro e segundo graus, como órgão central do sistema e com poderes correicionais, cujas decisões terão caráter vinculante. (Incluído pela Emenda Constitucional n° 45, de 2004) ^86b6c5e
 
-	*   N  ,               ,    ,            T,               / ( )        . (I  E C  ,  ) ^
+	* § 2° No recurso especial, o recorrente deve demonstrar a relevância das questões de direito federal infraconstitucional discutidas no caso, nos termos da lei, a fim de que a admissão do recurso seja examinada pelo Tribunal, o qual somente pode dele não conhecer com base nesse motivo pela manifestação de 2/3 (dois terços) dos membros do órgão competente para o julgamento. (Incluído pela Emenda Constitucional n° 125, de 2022) ^2fe8d7f
 
-	*   H        [[#^|]]     : (I  E C  ,  ) ^
+	* § 3° Haverá a relevância de que trata o § [[#^2fe8d7f|2°]] deste artigo nos seguintes casos: (Incluído pela Emenda Constitucional n° 125, de 2022) ^0871ecc
 
-		* I -  ; (I  E C  ,  ) ^
+		* I - ações penais; (Incluído pela Emenda Constitucional n° 125, de 2022) ^0e33835
 
-		* II -    ; (I  E C  ,  ) ^
+		* II - ações de improbidade administrativa; (Incluído pela Emenda Constitucional n° 125, de 2022) ^ddcc298
 
-		* III -        ()  ; (I  E C  ,  ) ^
+		* III - ações cujo valor da causa ultrapasse 500 (quinhentos) salários mínimos; (Incluído pela Emenda Constitucional n° 125, de 2022) ^38bd07b
 
-		* IV -     ; (I  E C  ,  ) ^
+		* IV - ações que possam gerar inelegibilidade; (Incluído pela Emenda Constitucional n° 125, de 2022) ^c68b67d
 
-		* V -           S T  J; (I  E C  ,  ) ^
+		* V - hipóteses em que o acórdão recorrido contrariar jurisprudência dominante do Superior Tribunal de Justiça; (Incluído pela Emenda Constitucional n° 125, de 2022) ^d7cd46a
 
-		* VI -     . (I  E C  ,  ) ^
+		* VI - outras hipóteses previstas em lei. (Incluído pela Emenda Constitucional n° 125, de 2022) ^84854ad
 
-### ... SEÇÃO IV - DOS TRIBUNAIS REGIONAIS EDERAIS E DOS JUÍZES EDERAIS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO IV - DOS TRIBUNAIS REGIONAIS EDERAIS E DOS JUÍZES EDERAIS (ARTS.  A )|R]]
+### 4.3.4. SEÇÃO IV - DOS TRIBUNAIS REGIONAIS FEDERAIS E DOS JUÍZES FEDERAIS (ARTS. 106 A 110)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3.4. SEÇÃO IV - DOS TRIBUNAIS REGIONAIS FEDERAIS E DOS JUÍZES FEDERAIS (ARTS. 106 A 110)|Resumo]]
 
-* A. . S   J : ^
+* Art. 106. São órgãos da Justiça Federal: ^765b69b
 
-	* I -  T R ; ^
+	* I - os Tribunais Regionais Federais; ^2edd85b
 
-	* II -  Jz . ^
+	* II - os Juízes Federais. ^ad40b07
 
-* A. . O T R  - ,  ,  z, ,  ,       P  R             , : (R   E C  ,  ) ^
+* Art. 107. Os Tribunais Regionais Federais compõem-se de, no mínimo, sete juízes, recrutados, quando possível, na respectiva região e nomeados pelo Presidente da República dentre brasileiros com mais de trinta e menos de setenta anos de idade, sendo: (Redação dada pela Emenda Constitucional n° 122, de 2022) ^6628a87
 
-	* I -        z         M P     z   ; ^
+	* I - um quinto dentre advogados com mais de dez anos de efetiva atividade profissional e membros do Ministério Público Federal com mais de dez anos de carreira; ^78f11ff
 
-	* II -  ,    z        ,    , . ^
+	* II - os demais, mediante promoção de juízes federais com mais de cinco anos de exercício, por antigüidade e merecimento, alternadamente. ^91fa0b3
 
-	*   A         z  T R       . (R   ,  E C  ,  ) ^
+	* § 1° A lei disciplinará a remoção ou a permuta de juízes dos Tribunais Regionais Federais e determinará sua jurisdição e sede. (Renumerado do parágrafo único, pela Emenda Constitucional n° 45, de 2004) ^f9a86e0
 
-	*   O T R     ,   z        ,      , -     . (I  E C  ,  ) ^
+	* § 2° Os Tribunais Regionais Federais instalarão a justiça itinerante, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários. (Incluído pela Emenda Constitucional n° 45, de 2004) ^b882e83
 
-	*   O T R    z,  C ,                 . (I  E C  ,  ) ^
+	* § 3° Os Tribunais Regionais Federais poderão funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo. (Incluído pela Emenda Constitucional n° 45, de 2004) ^8b9a84c
 
-* A. . C  T R : ^
+* Art. 108. Compete aos Tribunais Regionais Federais: ^0141ad8
 
-	* I -   , : ^
+	* I - processar e julgar, originariamente: ^04e3271
 
-		* )  z      ,    J M   J  T,      ,     M P  U,     J E; ^
+		* a) os juízes federais da área de sua jurisdição, incluídos os da Justiça Militar e da Justiça do Trabalho, nos crimes comuns e de responsabilidade, e os membros do Ministério Público da União, ressalvada a competência da Justiça Eleitoral; ^87b6f12
 
-		* )             z   ; ^
+		* b) as revisões criminais e as ações rescisórias de julgados seus ou dos juízes federais da região; ^1cd5bca
 
-		* )             T   z ; ^
+		* c) os mandados de segurança e os habeas data contra ato do próprio Tribunal ou de juiz federal; ^02c1eb4
 
-		* )   ,      z ; ^
+		* d) os habeas corpus, quando a autoridade coatora for juiz federal; ^4ea79c0
 
-		* )      z    T; ^
+		* e) os conflitos de competência entre juízes federais vinculados ao Tribunal; ^470c07e
 
-	* II - ,    ,     z    z           . ^
+	* II - julgar, em grau de recurso, as causas decididas pelos juízes federais e pelos juízes estaduais no exercício da competência federal da área de sua jurisdição. ^a8b1af7
 
-* A. . A z     : ^
+* Art. 109. Aos juízes federais compete processar e julgar: ^a5ffae3
 
-	* I -      U,            , ,   ,    ,          J E   J  T; ^
+	* I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho; ^7b202be
 
-	* II -    E      M       P; ^
+	* II - as causas entre Estado estrangeiro ou organismo internacional e Município ou pessoa domiciliada ou residente no País; ^9ad6055
 
-	* III -         U  E    ; ^
+	* III - as causas fundadas em tratado ou contrato da União com Estado estrangeiro ou organismo internacional; ^746058a
 
-	* IV -            ,     U        ,         J M   J E; ^
+	* IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral; ^78e20ce
 
-	* V -        , ,     P,         ,  ; ^
+	* V - os crimes previstos em tratado ou convenção internacional, quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente; ^87031c8
 
-	* V-A             [[#^|]]  ; (I  E C  ,  ) ^
+	* V-A as causas relativas a direitos humanos a que se refere o § [[#^345b1b0|5°]] deste artigo; (Incluído pela Emenda Constitucional n° 45, de 2004) ^01baf4b
 
-	* VI -     z   ,     ,        -; ^
+	* VI - os crimes contra a organização do trabalho e, nos casos determinados por lei, contra o sistema financeiro e a ordem econômico-financeira; ^218a664
 
-	* VII -   ,                      ; ^
+	* VII - os habeas corpus, em matéria criminal de sua competência ou quando o constrangimento provier de autoridade cujos atos não estejam diretamente sujeitos a outra jurisdição; ^b397153
 
-	* VIII -             ,        ; ^
+	* VIII - os mandados de segurança e os habeas data contra ato de autoridade federal, excetuados os casos de competência dos tribunais federais; ^541f93f
 
-	* IX -         ,     J M; ^
+	* IX - os crimes cometidos a bordo de navios ou aeronaves, ressalvada a competência da Justiça Militar; ^2225c61
 
-	* X -         ,     ,   "",    ,   ,     ,    ,   z; ^
+	* X - os crimes de ingresso ou permanência irregular de estrangeiro, a execução de carta rogatória, após o "exequatur", e de sentença estrangeira, após a homologação, as causas referentes à nacionalidade, inclusive a respectiva opção, e à naturalização; ^34166c8
 
-	* XI -     . ^
+	* XI - a disputa sobre direitos indígenas. ^c603644
 
-	*   A     U             . ^
+	* § 1° As causas em que a União for autora serão aforadas na seção judiciária onde tiver domicílio a outra parte. ^9ef590e
 
-	*   A     U            ,                   , , ,  D . ^
+	* § 2° As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal. ^f08d179
 
-	*   L  z       J                                . (R   E C  ,  ) ^
+	* § 3° Lei poderá autorizar que as causas de competência da Justiça Federal em que forem parte instituição de previdência social e segurado possam ser processadas e julgadas na justiça estadual quando a comarca do domicílio do segurado não for sede de vara federal. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^5e1f46e
 
-	*   N    ,        T R       z   . ^
+	* § 4° Na hipótese do parágrafo anterior, o recurso cabível será sempre para o Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau. ^067ec8a
 
-	*   N       ,  P-G  R,                    B  ,  ,   S T  J,       ,        J . (I  E C  ,  ) ^
+	* § 5° Nas hipóteses de grave violação de direitos humanos, o Procurador-Geral da República, com a finalidade de assegurar o cumprimento de obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte, poderá suscitar, perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, incidente de deslocamento de competência para a Justiça Federal. (Incluído pela Emenda Constitucional n° 45, de 2004) ^345b1b0
 
-* A. . C E,    D ,           C,   z     . ^
+* Art. 110. Cada Estado, bem como o Distrito Federal, constituirá uma seção judiciária que terá por sede a respectiva Capital, e varas localizadas segundo o estabelecido em lei. ^b309e0b
 
-	* P . N T ,        z    z   ,    . ^
+	* Parágrafo único. Nos Territórios Federais, a jurisdição e as atribuições cometidas aos juízes federais caberão aos juízes da justiça local, na forma da lei. ^ffe7282
 
-### ... SEÇÃO V - DO TRIBUNAL SUPERIOR DO TRABALHO, DOS TRIBUNAIS REGIONAIS DO TRABALHO E DOS JUÍZES DO TRABALHO (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO V - DO TRIBUNAL SUPERIOR DO TRABALHO, DOS TRIBUNAIS REGIONAIS DO TRABALHO E DOS JUÍZES DO TRABALHO (ARTS.  A )|R]]
+### 4.3.5. SEÇÃO V - DO TRIBUNAL SUPERIOR DO TRABALHO, DOS TRIBUNAIS REGIONAIS DO TRABALHO E DOS JUÍZES DO TRABALHO (ARTS. 111 A 117)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3.5. SEÇÃO V - DO TRIBUNAL SUPERIOR DO TRABALHO, DOS TRIBUNAIS REGIONAIS DO TRABALHO E DOS JUÍZES DO TRABALHO (ARTS. 111 A 117)|Resumo]]
 
-* A. . S   J  T: ^
+* Art. 111. São órgãos da Justiça do Trabalho: ^75b5211
 
-	* I -  T S  T; ^
+	* I - o Tribunal Superior do Trabalho; ^e7f459c
 
-	* II -  T R  T; ^
+	* II - os Tribunais Regionais do Trabalho; ^3b46194
 
-	* III - Jz  T. (R   E C  ,  ) ^
+	* III - Juizes do Trabalho. (Redação dada pela Emenda Constitucional n° 24, de 1999) ^e2c9613
 
-* A. -A. O T S  T -     M,                ,       ,   P  R       S , : (R   E C  ,  ) ^
+* Art. 111-A. O Tribunal Superior do Trabalho compõe-se de vinte e sete Ministros, escolhidos dentre brasileiros com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada, nomeados pelo Presidente da República após aprovação pela maioria absoluta do Senado Federal, sendo: (Redação dada pela Emenda Constitucional n° 122, de 2022) ^b04bf49
 
-	* I        z         M P  T    z    ,     . [[#^|]]; (I  E C  ,  ) ^
+	* I um quinto dentre advogados com mais de dez anos de efetiva atividade profissional e membros do Ministério Público do Trabalho com mais de dez anos de efetivo exercício, observado o disposto no art. [[#^31df19f|94]]; (Incluído pela Emenda Constitucional n° 45, de 2004) ^7b6897f
 
-	* II    z  T R  T,     ,    T S. (I  E C  ,  ) ^
+	* II os demais dentre juízes dos Tribunais Regionais do Trabalho, oriundos da magistratura da carreira, indicados pelo próprio Tribunal Superior. (Incluído pela Emenda Constitucional n° 45, de 2004) ^6b8b7fd
 
-	*   A       T S  T. (I  E C  ,  ) ^
+	* § 1° A lei disporá sobre a competência do Tribunal Superior do Trabalho. (Incluído pela Emenda Constitucional n° 45, de 2004) ^f32a0b3
 
-	*      T S  T: (I  E C  ,  ) ^
+	* § 2° Funcionarão junto ao Tribunal Superior do Trabalho: (Incluído pela Emenda Constitucional n° 45, de 2004) ^e4e04be
 
-		* I  E N    A  M  T, -,   ,           ; (I  E C  ,  ) ^
+		* I a Escola Nacional de Formação e Aperfeiçoamento de Magistrados do Trabalho, cabendo-lhe, dentre outras funções, regulamentar os cursos oficiais para o ingresso e promoção na carreira; (Incluído pela Emenda Constitucional n° 45, de 2004) ^bd78b96
 
-		* II  C S  J  T, - ,    ,   , ,     J  T     ,     ,     . (I  E C  ,  ) ^
+		* II o Conselho Superior da Justiça do Trabalho, cabendo-lhe exercer, na forma da lei, a supervisão administrativa, orçamentária, financeira e patrimonial da Justiça do Trabalho de primeiro e segundo graus, como órgão central do sistema, cujas decisões terão efeito vinculante. (Incluído pela Emenda Constitucional n° 45, de 2004) ^9ea2bbe
 
-	*   C  T S  T   , ,               . (I  E C  ,  ) ^
+	* § 3° Compete ao Tribunal Superior do Trabalho processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões. (Incluído pela Emenda Constitucional n° 92, de 2016) ^7a1c927
 
-* A. . A     J  T, ,       , -  z  ,      T R  T. (R   E C  ,  ) ^
+* Art. 112. A lei criará varas da Justiça do Trabalho, podendo, nas comarcas não abrangidas por sua jurisdição, atribuí-la aos juízes de direito, com recurso para o respectivo Tribunal Regional do Trabalho. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^13832e3
 
-* A. . A     , , , ,         J  T. (R   E C  ,  ) ^
+* Art. 113. A lei disporá sobre a constituição, investidura, jurisdição, competência, garantias e condições de exercício dos órgãos da Justiça do Trabalho. (Redação dada pela Emenda Constitucional n° 24, de 1999) ^d5120f1
 
-* A. . C  J  T   : (R   E C  ,  ) (V ADIN ) (V ADIN ) ^
+* Art. 114. Compete à Justiça do Trabalho processar e julgar: (Redação dada pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) (Vide ADIN 3432) ^cca8236
 
-	* I       ,                U,  E,  D    M; (I  E C  ,  ) ^
+	* I as ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios; (Incluído pela Emenda Constitucional n° 45, de 2004) ^43ba48e
 
-	* II         ; (I  E C  ,  ) ^
+	* II as ações que envolvam exercício do direito de greve; (Incluído pela Emenda Constitucional n° 45, de 2004) ^e778932
 
-	* III     ,  ,    ,     ; (I  E C  ,  ) ^
+	* III as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores; (Incluído pela Emenda Constitucional n° 45, de 2004) ^f4593b0
 
-	* IV    ,     ,          ; (I  E C  ,  ) ^
+	* IV os mandados de segurança, habeas corpus e habeas data, quando o ato questionado envolver matéria sujeita à sua jurisdição; (Incluído pela Emenda Constitucional n° 45, de 2004) ^962d652
 
-	* V         ,     . [[#^|]], [[#^|I]], [[#^|]]; (I  E C  ,  ) ^
+	* V os conflitos de competência entre órgãos com jurisdição trabalhista, ressalvado o disposto no art. [[#^80db993|102]], [[#^1596e19|I]], [[#^d64dd88|o]]; (Incluído pela Emenda Constitucional n° 45, de 2004) ^09bc87e
 
-	* VI    z     ,     ; (I  E C  ,  ) ^
+	* VI as ações de indenização por dano moral ou patrimonial, decorrentes da relação de trabalho; (Incluído pela Emenda Constitucional n° 45, de 2004) ^39ba08e
 
-	* VII             z    ; (I  E C  ,  ) ^
+	* VII as ações relativas às penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho; (Incluído pela Emenda Constitucional n° 45, de 2004) ^bd2b7ec
 
-	* VIII  ,  ,      . [[#^|]], [[#^|I]], [[#^|]],  [[#^|II]],    ,     ; (I  E C  ,  ) ^
+	* VIII a execução, de ofício, das contribuições sociais previstas no art. [[#^dd51188|195]], [[#^30dea0e|I]], [[#^a786d6c|a]], e [[#^f2b89e6|II]], e seus acréscimos legais, decorrentes das sentenças que proferir; (Incluído pela Emenda Constitucional n° 45, de 2004) ^cff435f
 
-	* IX       ,    . (I  E C  ,  ) ^
+	* IX outras controvérsias decorrentes da relação de trabalho, na forma da lei. (Incluído pela Emenda Constitucional n° 45, de 2004) ^7f84550
 
-	*      ,     . ^
+	* § 1° Frustrada a negociação coletiva, as partes poderão eleger árbitros. ^f54f83a
 
-	*   R-         ,    ,   , z    z ,   J  T   ,         ,     . (R   E C  ,  ) (V ADI  ) (V ADI  ) (V ADI  ) (V ADI  ) (V ADI  ) (V ADIN ) ^
+	* § 2° Recusando-se qualquer das partes à negociação coletiva ou à arbitragem, é facultado às mesmas, de comum acordo, ajuizar dissídio coletivo de natureza econômica, podendo a Justiça do Trabalho decidir o conflito, respeitadas as disposições mínimas legais de proteção ao trabalho, bem como as convencionadas anteriormente. (Redação dada pela Emenda Constitucional n° 45, de 2004) (Vide ADI n° 3423) (Vide ADI n° 3392) (Vide ADI n° 3431) (Vide ADI n° 3432) (Vide ADI n° 3520) (Vide ADIN 3432) ^1477f32
 
-	*   E      ,       ,  M P  T  z  ,   J  T   . (R   E C  ,  ) (V ADI  ) (V ADI  ) (V ADI  ) (V ADIN ) (V ADIN ) ^
+	* § 3° Em caso de greve em atividade essencial, com possibilidade de lesão do interesse público, o Ministério Público do Trabalho poderá ajuizar dissídio coletivo, competindo à Justiça do Trabalho decidir o conflito. (Redação dada pela Emenda Constitucional n° 45, de 2004) (Vide ADI n° 3423) (Vide ADI n° 3431) (Vide ADI n° 3520) (Vide ADIN 3392) (Vide ADIN 3432) ^9a4b87a
 
-		* III  (R  E C  ,  )
+		* III  (Revogado pela Emenda Constitucional n° 24, de 1999)
 
-* A. . O T R  T - ,  ,  z, ,  ,       P  R             , : (R   E C  ,  ) ^
+* Art. 115. Os Tribunais Regionais do Trabalho compõem-se de, no mínimo, sete juízes, recrutados, quando possível, na respectiva região e nomeados pelo Presidente da República dentre brasileiros com mais de trinta e menos de setenta anos de idade, sendo: (Redação dada pela Emenda Constitucional n° 122, de 2022) ^3aea6fd
 
-	* I        z         M P  T    z    ,     . [[#^|]]; (R   E C  ,  ) ^
+	* I um quinto dentre advogados com mais de dez anos de efetiva atividade profissional e membros do Ministério Público do Trabalho com mais de dez anos de efetivo exercício, observado o disposto no art. [[#^31df19f|94]]; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^186313c
 
-	* II  ,    z      , . (R   E C  ,  ) ^
+	* II os demais, mediante promoção de juízes do trabalho por antigüidade e merecimento, alternadamente. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^261a731
 
-	*   O T R  T    ,   z        ,      , -     . (I  E C  ,  ) ^
+	* § 1° Os Tribunais Regionais do Trabalho instalarão a justiça itinerante, com a realização de audiências e demais funções de atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários. (Incluído pela Emenda Constitucional n° 45, de 2004) ^3ecdcca
 
-	*   O T R  T   z,  C ,                 . (I  E C  ,  ) ^
+	* § 2° Os Tribunais Regionais do Trabalho poderão funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo. (Incluído pela Emenda Constitucional n° 45, de 2004) ^94985c7
 
-* A. . N V  T,       z . (R   E C  ,  ) ^
+* Art. 116. Nas Varas do Trabalho, a jurisdição será exercida por um juiz singular. (Redação dada pela Emenda Constitucional n° 24, de 1999) ^4b2e6a5
 
-### ... SEÇÃO VI - DOS TRIBUNAIS E JUÍZES ELEITORAIS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO VI - DOS TRIBUNAIS E JUÍZES ELEITORAIS (ARTS.  A )|R]]
+### 4.3.6. SEÇÃO VI - DOS TRIBUNAIS E JUÍZES ELEITORAIS (ARTS. 118 A 121)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3.6. SEÇÃO VI - DOS TRIBUNAIS E JUÍZES ELEITORAIS (ARTS. 118 A 121)|Resumo]]
 
-* A. . S   J E: ^
+* Art. 118. São órgãos da Justiça Eleitoral: ^8d8e41b
 
-	* I -  T S E; ^
+	* I - o Tribunal Superior Eleitoral; ^c62e222
 
-	* II -  T R E; ^
+	* II - os Tribunais Regionais Eleitorais; ^c5eee2b
 
-	* III -  Jz E; ^
+	* III - os Juízes Eleitorais; ^7084949
 
-	* IV -  J E. ^
+	* IV - as Juntas Eleitorais. ^7895bbd
 
-* A. . O T S E --,  ,   , : ^
+* Art. 119. O Tribunal Superior Eleitoral compor-se-á, no mínimo, de sete membros, escolhidos: ^2ba7867
 
-	* I -  ,   : ^
+	* I - mediante eleição, pelo voto secreto: ^38b39ac
 
-		* )  z   M  S T ; ^
+		* a) três juízes dentre os Ministros do Supremo Tribunal Federal; ^6395706
 
-		* )  z   M  S T  J; ^
+		* b) dois juízes dentre os Ministros do Superior Tribunal de Justiça; ^ae68e07
 
-	* II -    P  R,  z          ,   S T . ^
+	* II - por nomeação do Presidente da República, dois juízes dentre seis advogados de notável saber jurídico e idoneidade moral, indicados pelo Supremo Tribunal Federal. ^16015be
 
-	* P . O T S E   P   V-P   M  S T ,   C E   M  S T  J. ^
+	* Parágrafo único. O Tribunal Superior Eleitoral elegerá seu Presidente e o Vice-Presidente dentre os Ministros do Supremo Tribunal Federal, e o Corregedor Eleitoral dentre os Ministros do Superior Tribunal de Justiça. ^48d931f
 
-* A. . H  T R E  C   E   D . ^
+* Art. 120. Haverá um Tribunal Regional Eleitoral na Capital de cada Estado e no Distrito Federal. ^d26d51d
 
-	*   - O T R E --: ^
+	* § 1° - Os Tribunais Regionais Eleitorais compor-se-ão: ^e4acb74
 
-		* I -  ,   : ^
+		* I - mediante eleição, pelo voto secreto: ^b23dd90
 
-			* )   z     T  J; ^
+			* a) de dois juízes dentre os desembargadores do Tribunal de Justiça; ^f8e6477
 
-			* )   z,  z  ,   T  J; ^
+			* b) de dois juízes, dentre juízes de direito, escolhidos pelo Tribunal de Justiça; ^78e79ec
 
-		* II -   z  T R     C  E   D , ,  ,  z , ,   ,  T R  ; ^
+		* II - de um juiz do Tribunal Regional Federal com sede na Capital do Estado ou no Distrito Federal, ou, não havendo, de juiz federal, escolhido, em qualquer caso, pelo Tribunal Regional Federal respectivo; ^ea929f6
 
-		* III -  ,  P  R,   z          ,   T  J. ^
+		* III - por nomeação, pelo Presidente da República, de dois juízes dentre seis advogados de notável saber jurídico e idoneidade moral, indicados pelo Tribunal de Justiça. ^5d455c1
 
-	*   - O T R E   P   V-P-   . ^
+	* § 2° - O Tribunal Regional Eleitoral elegerá seu Presidente e o Vice-Presidente- dentre os desembargadores. ^bd2310a
 
-* A. . L     z    ,  z      . ^
+* Art. 121. Lei complementar disporá sobre a organização e competência dos tribunais, dos juízes de direito e das juntas eleitorais. ^7450926
 
-	*   - O   ,  z        ,     ,      , z      . ^
+	* § 1° - Os membros dos tribunais, os juízes de direito e os integrantes das juntas eleitorais, no exercício de suas funções, e no que lhes for aplicável, gozarão de plenas garantias e serão inamovíveis. ^b2de6e6
 
-	*   - O z   ,   ,    ,  ,        ,           ,      . ^
+	* § 2° - Os juízes dos tribunais eleitorais, salvo motivo justificado, servirão por dois anos, no mínimo, e nunca por mais de dois biênios consecutivos, sendo os substitutos escolhidos na mesma ocasião e pelo mesmo processo, em número igual para cada categoria. ^d51b057
 
-	*   - S     T S E,      C          . ^
+	* § 3° - São irrecorríveis as decisões do Tribunal Superior Eleitoral, salvo as que contrariarem esta Constituição e as denegatórias de habeas corpus ou mandado de segurança. ^b5ebffc
 
-	*   - D   T R E    : ^
+	* § 4° - Das decisões dos Tribunais Regionais Eleitorais somente caberá recurso quando: ^eb9aa87
 
-		* I -       C   ; ^
+		* I - forem proferidas contra disposição expressa desta Constituição ou de lei; ^54befcf
 
-		* II -            ; ^
+		* II - ocorrer divergência na interpretação de lei entre dois ou mais tribunais eleitorais; ^3e3edf1
 
-		* III -            ; ^
+		* III - versarem sobre inelegibilidade ou expedição de diplomas nas eleições federais ou estaduais; ^9e9b77b
 
-		* IV -            ; ^
+		* IV - anularem diplomas ou decretarem a perda de mandatos eletivos federais ou estaduais; ^bbd1c34
 
-		* V -   ,   ,      . ^
+		* V - denegarem habeas corpus, mandado de segurança, habeas data ou mandado de injunção. ^19cc99f
 
-### ... SEÇÃO VII - DOS TRIBUNAIS E JUÍZES MILITARES (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO VII - DOS TRIBUNAIS E JUÍZES MILITARES (ARTS.  A )|R]]
+### 4.3.7. SEÇÃO VII - DOS TRIBUNAIS E JUÍZES MILITARES (ARTS. 122 A 124)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3.7. SEÇÃO VII - DOS TRIBUNAIS E JUÍZES MILITARES (ARTS. 122 A 124)|Resumo]]
 
-* A. . S   J M: ^
+* Art. 122. São órgãos da Justiça Militar: ^8f39463
 
-	* I -  S T M; ^
+	* I - o Superior Tribunal Militar; ^8a0703d
 
-	* II -  T  Jz M   . ^
+	* II - os Tribunais e Juízes Militares instituídos por lei. ^aac51ae
 
-* A. . O S T M --  z M ,   P  R,       S ,    -  M,   -  E,   -  A,          ,    . ^
+* Art. 123. O Superior Tribunal Militar compor-se-á de quinze Ministros vitalícios, nomeados pelo Presidente da República, depois de aprovada a indicação pelo Senado Federal, sendo três dentre oficiais-generais da Marinha, quatro dentre oficiais-generais do Exército, três dentre oficiais-generais da Aeronáutica, todos da ativa e do posto mais elevado da carreira, e cinco dentre civis. ^170c079
 
-	* P . O M     P  R               , : (R   E C  ,  ) ^
+	* Parágrafo único. Os Ministros civis serão escolhidos pelo Presidente da República dentre brasileiros com mais de trinta e cinco e menos de setenta anos de idade, sendo: (Redação dada pela Emenda Constitucional n° 122, de 2022) ^8951d48
 
-		* I -          ,    z     ; ^
+		* I - três dentre advogados de notório saber jurídico e conduta ilibada, com mais de dez anos de efetiva atividade profissional; ^57bdadc
 
-		* II - ,   ,  z     M P  J M. ^
+		* II - dois, por escolha paritária, dentre juízes auditores e membros do Ministério Público da Justiça Militar. ^53eeda4
 
-* A. . À J M          . ^
+* Art. 124. À Justiça Militar compete processar e julgar os crimes militares definidos em lei. ^5436b1d
 
-	* P . A     z,       J M. ^
+	* Parágrafo único. A lei disporá sobre a organização, o funcionamento e a competência da Justiça Militar. ^d07fdb5
 
-### ... SEÇÃO VIII - DOS TRIBUNAIS E JUÍZES DOS ESTADOS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO VIII - DOS TRIBUNAIS E JUÍZES DOS ESTADOS (ARTS.  A )|R]]
+### 4.3.8. SEÇÃO VIII - DOS TRIBUNAIS E JUÍZES DOS ESTADOS (ARTS. 125 A 126)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.3.8. SEÇÃO VIII - DOS TRIBUNAIS E JUÍZES DOS ESTADOS (ARTS. 125 A 126)|Resumo]]
 
-* A. . O E z  J,      C. ^
+* Art. 125. Os Estados organizarão sua Justiça, observados os princípios estabelecidos nesta Constituição. ^d574b56
 
-	*   A       C  E,     z     T  J. ^
+	* § 1° A competência dos tribunais será definida na Constituição do Estado, sendo a lei de organização judiciária de iniciativa do Tribunal de Justiça. ^75767cc
 
-	*   C  E                  C E,           . ^
+	* § 2° Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão. ^a56bf98
 
-	*   A    ,    T  J,  J M , ,   ,  z     C  J ,   ,   T  J,   T  J M  E           . (R   E C  ,  ) ^
+	* § 3° A lei estadual poderá criar, mediante proposta do Tribunal de Justiça, a Justiça Militar estadual, constituída, em primeiro grau, pelos juízes de direito e pelos Conselhos de Justiça e, em segundo grau, pelo próprio Tribunal de Justiça, ou por Tribunal de Justiça Militar nos Estados em que o efetivo militar seja superior a vinte mil integrantes. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^14f6c69
 
-	*   C  J M        E,              ,          ,                    . (R   E C  ,  ) ^
+	* § 4° Compete à Justiça Militar estadual processar e julgar os militares dos Estados, nos crimes militares definidos em lei e as ações judiciais contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^65adcc7
 
-	*   C  z    z    , ,              ,   C  J,     z  ,       . (I  E C  ,  ) ^
+	* § 5° Compete aos juízes de direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares. (Incluído pela Emenda Constitucional n° 45, de 2004) ^6dc15c6
 
-	*   O T  J   z,  C ,                 . (I  E C  ,  ) ^
+	* § 6° O Tribunal de Justiça poderá funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo. (Incluído pela Emenda Constitucional n° 45, de 2004) ^2af7e59
 
-	*   O T  J    ,   z        ,      , -     . (I  E C  ,  ) ^
+	* § 7° O Tribunal de Justiça instalará a justiça itinerante, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários. (Incluído pela Emenda Constitucional n° 45, de 2004) ^39027d3
 
-* A. . P   ,  T  J      z,      . (R   E C  ,  ) ^
+* Art. 126. Para dirimir conflitos fundiários, o Tribunal de Justiça proporá a criação de varas especializadas, com competência exclusiva para questões agrárias. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^8957691
 
-	* P . S      ,  z --     . ^
+	* Parágrafo único. Sempre que necessário à eficiente prestação jurisdicional, o juiz far-se-á presente no local do litígio. ^393b48a
 
-## .. CAPÍTULO IV - DAS UNÇÕES ESSENCIAIS À JUSTIÇA (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO IV - DAS UNÇÕES ESSENCIAIS À JUSTIÇA (ARTS.  A )|R]]
+## 4.4. CAPÍTULO IV - DAS FUNÇÕES ESSENCIAIS À JUSTIÇA (ARTS. 127 A 135)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.4. CAPÍTULO IV - DAS FUNÇÕES ESSENCIAIS À JUSTIÇA (ARTS. 127 A 135)|Resumo]]
 
-### ... SEÇÃO I - DO MINISTÉRIO PÚBLICO (ARTS.  A -A)
-[[NL/C    (C)/MOC/... SEÇÃO I - DO MINISTÉRIO PÚBLICO (ARTS.  A -A)|R]]
+### 4.4.1. SEÇÃO I - DO MINISTÉRIO PÚBLICO (ARTS. 127 A 130-A)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.4.1. SEÇÃO I - DO MINISTÉRIO PÚBLICO (ARTS. 127 A 130-A)|Resumo]]
 
-* A. . O M P   ,      E, -     ,          . ^
+* Art. 127. O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis. ^6cb490d
 
-	*   - S    M P  ,      . ^
+	* § 1° - São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional. ^2f0058d
 
-	*   A M P      , ,     . [[#^|]],   P L          , -          ,        ;      z  . (R   E C  ,  ) ^
+	* § 2° Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo, observado o disposto no art. [[#^7ac0258|169]], propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas ou de provas e títulos, a política remuneratória e os planos de carreira; a lei disporá sobre sua organização e funcionamento. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^3da52b8
 
-	*   O M P            z . ^
+	* § 3° O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias. ^0e9d7eb
 
-	*   S  M P         z     z ,  P E ,        ,       ,            [[#^|]]. (I  E C  ,  ) ^
+	* § 4° Se o Ministério Público não encaminhar a respectiva proposta orçamentária dentro do prazo estabelecido na lei de diretrizes orçamentárias, o Poder Executivo considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § [[#^0e9d7eb|3°]]. (Incluído pela Emenda Constitucional n° 45, de 2004) ^bced240
 
-	*   S                     [[#^|]],  P E            . (I  E C  ,  ) ^
+	* § 5° Se a proposta orçamentária de que trata este artigo for encaminhada em desacordo com os limites estipulados na forma do § [[#^0e9d7eb|3°]], o Poder Executivo procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual. (Incluído pela Emenda Constitucional n° 45, de 2004) ^d734735
 
-	*   D     ,     z                z ,    z,        . (I  E C  ,  ) ^
+	* § 6° Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais. (Incluído pela Emenda Constitucional n° 45, de 2004) ^500a8b7
 
-* A. . O M P : ^
+* Art. 128. O Ministério Público abrange: ^e5a5097
 
-	* I -  M P  U,  : ^
+	* I - o Ministério Público da União, que compreende: ^9e0c194
 
-		* )  M P ; ^
+		* a) o Ministério Público Federal; ^a9a0ea1
 
-		* )  M P  T; ^
+		* b) o Ministério Público do Trabalho; ^379012f
 
-		* )  M P M; ^
+		* c) o Ministério Público Militar; ^e15c7c8
 
-		* )  M P  D   T; ^
+		* d) o Ministério Público do Distrito Federal e Territórios; ^1ec6dc1
 
-	* II -  M P  E. ^
+	* II - os Ministérios Públicos dos Estados. ^2bd8b77
 
-	*   O M P  U     P-G  R,   P  R    ,      ,             S ,     ,   . ^
+	* § 1° O Ministério Público da União tem por chefe o Procurador-Geral da República, nomeado pelo Presidente da República dentre integrantes da carreira, maiores de trinta e cinco anos, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para mandato de dois anos, permitida a recondução. ^20e16c4
 
-	*   A   P-G  R,    P  R,     z     S . ^
+	* § 2° A destituição do Procurador-Geral da República, por iniciativa do Presidente da República, deverá ser precedida de autorização da maioria absoluta do Senado Federal. ^c69307c
 
-	*   O M P  E    D   T       ,     ,     P-G,     C  P E,     ,   . ^
+	* § 3° Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, permitida uma recondução. ^e26936b
 
-	*   O P-G  E   D   T          P L,      . ^
+	* § 4° Os Procuradores-Gerais nos Estados e no Distrito Federal e Territórios poderão ser destituídos por deliberação da maioria absoluta do Poder Legislativo, na forma da lei complementar respectiva. ^15a384a
 
-	*   L   U   E,       P-G,   z,        M P, ,    : ^
+	* § 5° Leis complementares da União e dos Estados, cuja iniciativa é facultada aos respectivos Procuradores-Gerais, estabelecerão a organização, as atribuições e o estatuto de cada Ministério Público, observadas, relativamente a seus membros: ^b03c32b
 
-		* I -   : ^
+		* I - as seguintes garantias: ^ad53fc8
 
-			* ) ,     ,            ; ^
+			* a) vitaliciedade, após dois anos de exercício, não podendo perder o cargo senão por sentença judicial transitada em julgado; ^e2c76d1
 
-			* ) ,      ,        M P,        ,   ; (R   E C  ,  ) ^
+			* b) inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, pelo voto da maioria absoluta de seus membros, assegurada ampla defesa; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^8e7af79
 
-			* )   ,     . [[#^|]],  [[#^|]],      . [[#^|]], [[#^|X]]  [[#^|XI]], [[#^|]], [[#^|II]], [[#^|]], [[#^|III]], [[#^|]],  [[#^|]], [[#^|I]]; (R   E C  ,  ) ^
+			* c) irredutibilidade de subsídio, fixado na forma do art. [[#^a4b00e0|39]], § [[#^51bdef8|4°]], e ressalvado o disposto nos arts. [[#^73a80b7|37]], [[#^acf623e|X]] e [[#^3af496b|XI]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^eb6a0bb
 
-		* II -   : ^
+		* II - as seguintes vedações: ^9d1849f
 
-			* ) ,       , ,    ; ^
+			* a) receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas processuais; ^326c24e
 
-			* )   ; ^
+			* b) exercer a advocacia; ^9b7b85c
 
-			* )    ,    ; ^
+			* c) participar de sociedade comercial, na forma da lei; ^55bcd52
 
-			* ) ,    ,    ,    ; ^
+			* d) exercer, ainda que em disponibilidade, qualquer outra função pública, salvo uma de magistério; ^1af8e49
 
-			* )   -; (R   E C  ,  ) ^
+			* e) exercer atividade político-partidária; (Redação dada pela Emenda Constitucional n° 45, de 2004) ^143ac39
 
-			* ) ,     ,      ,    ,      . (I  E C  ,  ) ^
+			* f) receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei. (Incluída pela Emenda Constitucional n° 45, de 2004) ^ba4ab8c
 
-	*   A-    M P    . [[#^|]], [[#^| ]], [[#^|V]]. (I  E C  ,  ) ^
+	* § 6° Aplica-se aos membros do Ministério Público o disposto no art. [[#^e06f5c0|95]], [[#^8bc752b|parágrafo único]], [[#^22113a4|V]]. (Incluído pela Emenda Constitucional n° 45, de 2004) ^ea18b42
 
-* A. . S    M P: ^
+* Art. 129. São funções institucionais do Ministério Público: ^5062fd9
 
-	* I - , ,    ,    ; ^
+	* I - promover, privativamente, a ação penal pública, na forma da lei; ^e4d4d64
 
-	* II - z     P P           C,       ; ^
+	* II - zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados nesta Constituição, promovendo as medidas necessárias a sua garantia; ^e30f08c
 
-	* III -         ,        ,          ; ^
+	* III - promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos; ^74333a5
 
-	* IV -             U   E,     C; ^
+	* IV - promover a ação de inconstitucionalidade ou representação para fins de intervenção da União e dos Estados, nos casos previstos nesta Constituição; ^66beb18
 
-	* V -         ; ^
+	* V - defender judicialmente os direitos e interesses das populações indígenas; ^0a58458
 
-	* VI -        ,      -,      ; ^
+	* VI - expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e documentos para instruí-los, na forma da lei complementar respectiva; ^daf1551
 
-	* VII -       ,         ; ^
+	* VII - exercer o controle externo da atividade policial, na forma da lei complementar mencionada no artigo anterior; ^e0261fa
 
-	* VIII -         ,        ; ^
+	* VIII - requisitar diligências investigatórias e a instauração de inquérito policial, indicados os fundamentos jurídicos de suas manifestações processuais; ^5262efd
 
-	* IX -       ,      , -           . ^
+	* IX - exercer outras funções que lhe forem conferidas, desde que compatíveis com sua finalidade, sendo-lhe vedada a representação judicial e a consultoria jurídica de entidades públicas. ^9c8d0bc
 
-	*   - A   M P            ,   ,     C   . ^
+	* § 1° - A legitimação do Ministério Público para as ações civis previstas neste artigo não impede a de terceiros, nas mesmas hipóteses, segundo o disposto nesta Constituição e na lei. ^c4f29fb
 
-	*   A   M P        ,        ,  z    . (R   E C  ,  ) ^
+	* § 2° As funções do Ministério Público só podem ser exercidas por integrantes da carreira, que deverão residir na comarca da respectiva lotação, salvo autorização do chefe da instituição. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^c145367
 
-	*   O     M P --       ,     O  A  B   z, -    ,  ,       -,  ,    . (R   E C  ,  ) ^
+	* § 3° O ingresso na carreira do Ministério Público far-se-á mediante concurso público de provas e títulos, assegurada a participação da Ordem dos Advogados do Brasil em sua realização, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica e observando-se, nas nomeações, a ordem de classificação. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^82d518c
 
-	*   A-  M P,   ,    . [[#^|]]. (R   E C  ,  ) ^
+	* § 4° Aplica-se ao Ministério Público, no que couber, o disposto no art. [[#^8e22e8a|93]]. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^6225a27
 
-	*   A     M P  . (I  E C  ,  ) ^
+	* § 5° A distribuição de processos no Ministério Público será imediata. (Incluído pela Emenda Constitucional n° 45, de 2004) ^ae45244
 
-* A. . A   M P   T  C -       ,     . ^
+* Art. 130. Aos membros do Ministério Público junto aos Tribunais de Contas aplicam-se as disposições desta seção pertinentes a direitos, vedações e forma de investidura. ^70b7599
 
-* A. -A. O C N  M P -  z    P  R,          S ,      ,   , : (I  E C  ,  ) ^
+* Art. 130-A. O Conselho Nacional do Ministério Público compõe-se de quatorze membros nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal, para um mandato de dois anos, admitida uma recondução, sendo: (Incluído pela Emenda Constitucional n° 45, de 2004) ^4b1ad51
 
-	* I  P-G  R,   ; (I  E C  ,  ) ^
+	* I o Procurador-Geral da República, que o preside; (Incluído pela Emenda Constitucional n° 45, de 2004) ^9316e72
 
-	* II    M P  U,         ; (I  E C  ,  ) ^
+	* II quatro membros do Ministério Público da União, assegurada a representação de cada uma de suas carreiras; (Incluído pela Emenda Constitucional n° 45, de 2004) ^633640a
 
-	* III    M P  E; (I  E C  ,  ) ^
+	* III três membros do Ministério Público dos Estados; (Incluído pela Emenda Constitucional n° 45, de 2004) ^13a2568
 
-	* IV  z,    S T     S T  J; (I  E C  ,  ) ^
+	* IV dois juízes, indicados um pelo Supremo Tribunal Federal e outro pelo Superior Tribunal de Justiça; (Incluído pela Emenda Constitucional n° 45, de 2004) ^a558408
 
-	* V  ,   C   O  A  B; (I  E C  ,  ) ^
+	* V dois advogados, indicados pelo Conselho Federal da Ordem dos Advogados do Brasil; (Incluído pela Emenda Constitucional n° 45, de 2004) ^41de39d
 
-	* VI         ,    C  D    S . (I  E C  ,  ) ^
+	* VI dois cidadãos de notável saber jurídico e reputação ilibada, indicados um pela Câmara dos Deputados e outro pelo Senado Federal. (Incluído pela Emenda Constitucional n° 45, de 2004) ^0fb73e3
 
-	*   O   C   M P     M P,    . (I  E C  ,  ) ^
+	* § 1° Os membros do Conselho oriundos do Ministério Público serão indicados pelos respectivos Ministérios Públicos, na forma da lei. (Incluído pela Emenda Constitucional n° 45, de 2004) ^f665fd5
 
-	*   C  C N  M P         M P         ,  : (I  E C  ,  ) ^
+	* § 2° Compete ao Conselho Nacional do Ministério Público o controle da atuação administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais de seus membros, cabendo lhe: (Incluído pela Emenda Constitucional n° 45, de 2004) ^969cdc3
 
-		* I z       M P,    ,     ,   ; (I  E C  ,  ) ^
+		* I zelar pela autonomia funcional e administrativa do Ministério Público, podendo expedir atos regulamentares, no âmbito de sua competência, ou recomendar providências; (Incluído pela Emenda Constitucional n° 45, de 2004) ^4407be7
 
-		* II z    . [[#^|]]  ,     ,            M P  U   E,  -, -   z            ,  z    T  C; (I  E C  ,  ) ^
+		* II zelar pela observância do art. [[#^73a80b7|37]] e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Ministério Público da União e dos Estados, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência dos Tribunais de Contas; (Incluído pela Emenda Constitucional n° 45, de 2004) ^7a019be
 
-		* III -           M P  U   E,     ,  z       ,      ,           ,   ; (R   E C  ,  ) ^
+		* III - receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso, determinar a remoção ou a disponibilidade e aplicar outras sanções administrativas, assegurada ampla defesa; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^8d1809b
 
-		* IV ,     ,       M P  U   E      ; (I  E C  ,  ) ^
+		* IV rever, de ofício ou mediante provocação, os processos disciplinares de membros do Ministério Público da União ou dos Estados julgados há menos de um ano; (Incluído pela Emenda Constitucional n° 45, de 2004) ^05633bf
 
-		* V   ,           M P  P     C,         . [[#^|]], [[#^|XI]]. (I  E C  ,  ) ^
+		* V elaborar relatório anual, propondo as providências que julgar necessárias sobre a situação do Ministério Público no País e as atividades do Conselho, o qual deve integrar a mensagem prevista no art. [[#^b346ba5|84]], [[#^75b3ccf|XI]]. (Incluído pela Emenda Constitucional n° 45, de 2004) ^8d79763
 
-	*   O C ,   ,  C ,     M P   ,   , -,         ,  : (I  E C  ,  ) ^
+	* § 3° O Conselho escolherá, em votação secreta, um Corregedor nacional, dentre os membros do Ministério Público que o integram, vedada a recondução, competindo-lhe, além das atribuições que lhe forem conferidas pela lei, as seguintes: (Incluído pela Emenda Constitucional n° 45, de 2004) ^f7a6ca9
 
-		* I    ,   ,     M P     ; (I  E C  ,  ) ^
+		* I receber reclamações e denúncias, de qualquer interessado, relativas aos membros do Ministério Público e dos seus serviços auxiliares; (Incluído pela Emenda Constitucional n° 45, de 2004) ^b5b8056
 
-		* II     C,     ; (I  E C  ,  ) ^
+		* II exercer funções executivas do Conselho, de inspeção e correição geral; (Incluído pela Emenda Constitucional n° 45, de 2004) ^26d92d5
 
-		* III      M P, - ,       M P. (I  E C  ,  ) ^
+		* III requisitar e designar membros do Ministério Público, delegando-lhes atribuições, e requisitar servidores de órgãos do Ministério Público. (Incluído pela Emenda Constitucional n° 45, de 2004) ^6827908
 
-	*   O P  C   O  A  B    C. (I  E C  ,  ) ^
+	* § 4° O Presidente do Conselho Federal da Ordem dos Advogados do Brasil oficiará junto ao Conselho. (Incluído pela Emenda Constitucional n° 45, de 2004) ^2d7d1eb
 
-	*   L  U   E    M P,               M P,     ,    C N  M P. (I  E C  ,  ) ^
+	* § 5° Leis da União e dos Estados criarão ouvidorias do Ministério Público, competentes para receber reclamações e denúncias de qualquer interessado contra membros ou órgãos do Ministério Público, inclusive contra seus serviços auxiliares, representando diretamente ao Conselho Nacional do Ministério Público. (Incluído pela Emenda Constitucional n° 45, de 2004) ^77c3ab1
 
-### ... SEÇÃO II - DA ADVOCACIA PÚBLICA (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO II - DA ADVOCACIA PÚBLICA (ARTS.  A )|R]]
+### 4.4.2. SEÇÃO II - DA ADVOCACIA PÚBLICA (ARTS. 131 A 132)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.4.2. SEÇÃO II - DA ADVOCACIA PÚBLICA (ARTS. 131 A 132)|Resumo]]
 
-(R   E C  ,  )
+(Redação dada pela Emenda Constitucional n° 19, de 1998)
 
-* A. . A A-G  U    ,      ,   U,   , -,          z  ,         P E. ^
+* Art. 131. A Advocacia-Geral da União é a instituição que, diretamente ou através de órgão vinculado, representa a União, judicial e extrajudicialmente, cabendo-lhe, nos termos da lei complementar que dispuser sobre sua organização e funcionamento, as atividades de consultoria e assessoramento jurídico do Poder Executivo. ^2785575
 
-	*   - A A-G  U     A-G  U,     P  R        ,       . ^
+	* § 1° - A Advocacia-Geral da União tem por chefe o Advogado-Geral da União, de livre nomeação pelo Presidente da República dentre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada. ^e3b7689
 
-	*   - O              --       . ^
+	* § 2° - O ingresso nas classes iniciais das carreiras da instituição de que trata este artigo far-se-á mediante concurso público de provas e títulos. ^cab2047
 
-	*   - N      z ,    U   P-G  z N,     . ^
+	* § 3° - Na execução da dívida ativa de natureza tributária, a representação da União cabe à Procuradoria-Geral da Fazenda Nacional, observado o disposto em lei. ^62e3034
 
-* A. . O P  E   D , z  ,            ,     O  A  B     ,            . (R   E C  ,  ) ^
+* Art. 132. Os Procuradores dos Estados e do Distrito Federal, organizados em carreira, na qual o ingresso dependerá de concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as suas fases, exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^3512da3
 
-	* P . A             ,        ,     . (I  E C  ,  ) ^
+	* Parágrafo único. Aos procuradores referidos neste artigo é assegurada estabilidade após três anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após relatório circunstanciado das corregedorias. (Incluído pela Emenda Constitucional n° 19, de 1998) ^23ba5c7
 
-### ... SEÇÃO III - DA ADVOCACIA (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO III - DA ADVOCACIA (ART. )|R]]
+### 4.4.3. SEÇÃO III - DA ADVOCACIA (ART. 133)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.4.3. SEÇÃO III - DA ADVOCACIA (ART. 133)|Resumo]]
 
-* A. . O       ,           ,    . ^
+* Art. 133. O advogado é indispensável à administração da justiça, sendo inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei. ^24ecfc4
 
-### ... SEÇÃO IV - DA DEENSORIA PÚBLICA (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO IV - DA DEENSORIA PÚBLICA (ARTS.  A )|R]]
+### 4.4.4. SEÇÃO IV - DA DEFENSORIA PÚBLICA (ARTS. 134 A 135)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.4.4. SEÇÃO IV - DA DEFENSORIA PÚBLICA (ARTS. 134 A 135)|Resumo]]
 
-* A. . A D P   ,      E, -,       , ,   ,        ,    ,   ,     ,     ,  ,     [[#^|LXXIV]]  . [[#^|]]  C . (R   E C  ,  ) ^
+* Art. 134. A Defensoria Pública é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe, como expressão e instrumento do regime democrático, fundamentalmente, a orientação jurídica, a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados, na forma do inciso [[#^f7530d0|LXXIV]] do art. [[#^30f4637|5°]] desta Constituição Federal. (Redação dada pela Emenda Constitucional n° 80, de 2014) ^3179f45
 
-	*   L  z  D P  U   D    T       z  E,    , ,   ,       ,                  . (R     E C  ,  ) ^
+	* § 1° Lei complementar organizará a Defensoria Pública da União e do Distrito Federal e dos Territórios e prescreverá normas gerais para sua organização nos Estados, em cargos de carreira, providos, na classe inicial, mediante concurso público de provas e títulos, assegurada a seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das atribuições institucionais. (Renumerado do parágrafo único pela Emenda Constitucional n° 45, de 2004) ^e4cf449
 
-	*   À D P E                     z       . [[#^|]],  [[#^|]]. (I  E C  ,  ) ^
+	* § 2° Às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias e subordinação ao disposto no art. [[#^c5fbc9e|99]], § [[#^2bea533|2°]]. (Incluído pela Emenda Constitucional n° 45, de 2004) ^ab778e7
 
-	*   A-     [[#^|]]  D P  U   D . (I  E C  ,  ) ^
+	* § 3° Aplica-se o disposto no § [[#^ab778e7|2°]] às Defensorias Públicas da União e do Distrito Federal. (Incluído pela Emenda Constitucional n° 74, de 2013) ^36710c0
 
-	*   S    D P  ,      , - ,   ,    . [[#^|]]    [[#^|II]]  . [[#^|]]  C . (I  E C  ,  ) ^
+	* § 4° São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional, aplicando-se também, no que couber, o disposto no art. [[#^8e22e8a|93]] e no inciso [[#^6f06e61|II]] do art. [[#^aee4697|96]] desta Constituição Federal. (Incluído pela Emenda Constitucional n° 80, de 2014) ^b5f441d
 
-* A. . O       S II  III  C      . [[#^|]],  [[#^|]]. (R   E C  ,  ) ^
+* Art. 135. Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo serão remunerados na forma do art. [[#^a4b00e0|39]], § [[#^51bdef8|4°]]. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^499510f
 
-# . TÍTULO V - DA DEESA DO ESTADO E DAS INSTITUIÇÕES DEMOCRÁTICAS (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO V - DA DEESA DO ESTADO E DAS INSTITUIÇÕES DEMOCRÁTICAS (ARTS.  A )|R]]
+# 5. TÍTULO V - DA DEFESA DO ESTADO E DAS INSTITUIÇÕES DEMOCRÁTICAS (ARTS. 136 A 144)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/5. TÍTULO V - DA DEFESA DO ESTADO E DAS INSTITUIÇÕES DEMOCRÁTICAS (ARTS. 136 A 144)|Resumo]]
 
-## .. CAPÍTULO I - DO ESTADO DE DEESA E DO ESTADO DE SÍTIO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO I - DO ESTADO DE DEESA E DO ESTADO DE SÍTIO (ARTS.  A )|R]]
+## 5.1. CAPÍTULO I - DO ESTADO DE DEFESA E DO ESTADO DE SÍTIO (ARTS. 136 A 141)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/5.1. CAPÍTULO I - DO ESTADO DE DEFESA E DO ESTADO DE SÍTIO (ARTS. 136 A 141)|Resumo]]
 
-### ... SEÇÃO I - DO ESTADO DE DEESA (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO I - DO ESTADO DE DEESA (ART. )|R]]
+### 5.1.1. SEÇÃO I - DO ESTADO DE DEFESA (ART. 136)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/5.1.1. SEÇÃO I - DO ESTADO DE DEFESA (ART. 136)|Resumo]]
 
-* A. . O P  R ,   C  R   C  D N,         ,     ,      z                 z. ^
+* Art. 136. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa Nacional, decretar estado de defesa para preservar ou prontamente restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza. ^c5571c8
 
-	*   O             ,        ,      ,     ,   : ^
+	* § 1° O decreto que instituir o estado de defesa determinará o tempo de sua duração, especificará as áreas a serem abrangidas e indicará, nos termos e limites da lei, as medidas coercitivas a vigorarem, dentre as seguintes: ^09eca23
 
-		* I -    : ^
+		* I - restrições aos direitos de: ^36597bb
 
-			* ) ,       ; ^
+			* a) reunião, ainda que exercida no seio das associações; ^822007e
 
-			* )   ; ^
+			* b) sigilo de correspondência; ^c05f48b
 
-			* )      ; ^
+			* c) sigilo de comunicação telegráfica e telefônica; ^8157d15
 
-		* II -         ,     ,   U     . ^
+		* II - ocupação e uso temporário de bens e serviços públicos, na hipótese de calamidade pública, respondendo a União pelos danos e custos decorrentes. ^e9e89ec
 
-	*   O             ,     z,   ,    z     . ^
+	* § 2° O tempo de duração do estado de defesa não será superior a trinta dias, podendo ser prorrogado uma vez, por igual período, se persistirem as razões que justificaram a sua decretação. ^a9bee68
 
-	*   N     : ^
+	* § 3° Na vigência do estado de defesa: ^2ade19c
 
-		* I -       E,     ,       z ,   ,    ,            ; ^
+		* I - a prisão por crime contra o Estado, determinada pelo executor da medida, será por este comunicada imediatamente ao juiz competente, que a relaxará, se não for legal, facultado ao preso requerer exame de corpo de delito à autoridade policial; ^cb58776
 
-		* II -      ,  ,            ; ^
+		* II - a comunicação será acompanhada de declaração, pela autoridade, do estado físico e mental do detido no momento de sua autuação; ^1bec615
 
-		* III -             z ,   z  P J; ^
+		* III - a prisão ou detenção de qualquer pessoa não poderá ser superior a dez dias, salvo quando autorizada pelo Poder Judiciário; ^78a5dee
 
-		* IV -      . ^
+		* IV - é vedada a incomunicabilidade do preso. ^aa849a9
 
-	*   D       ,  P  R,      ,         C N,     . ^
+	* § 4° Decretado o estado de defesa ou sua prorrogação, o Presidente da República, dentro de vinte e quatro horas, submeterá o ato com a respectiva justificação ao Congresso Nacional, que decidirá por maioria absoluta. ^0ae1d54
 
-	*   S  C N   ,  , ,  z   . ^
+	* § 5° Se o Congresso Nacional estiver em recesso, será convocado, extraordinariamente, no prazo de cinco dias. ^29ebf43
 
-	*   O C N      z     ,         . ^
+	* § 6° O Congresso Nacional apreciará o decreto dentro de dez dias contados de seu recebimento, devendo continuar funcionando enquanto vigorar o estado de defesa. ^1a0f38d
 
-	*   R  ,      . ^
+	* § 7° Rejeitado o decreto, cessa imediatamente o estado de defesa. ^0b73f71
 
-### ... SEÇÃO II - DO ESTADO DE SÍTIO (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO II - DO ESTADO DE SÍTIO (ARTS.  A )|R]]
+### 5.1.2. SEÇÃO II - DO ESTADO DE SÍTIO (ARTS. 137 A 139)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/5.1.2. SEÇÃO II - DO ESTADO DE SÍTIO (ARTS. 137 A 139)|Resumo]]
 
-* A. . O P  R ,   C  R   C  D N,   C N z         : ^
+* Art. 137. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa Nacional, solicitar ao Congresso Nacional autorização para decretar o estado de sítio nos casos de: ^2ba9c3d
 
-	* I -                     ; ^
+	* I - comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa; ^aa6d460
 
-	* II -           . ^
+	* II - declaração de estado de guerra ou resposta a agressão armada estrangeira. ^f72f90c
 
-	* P . O P  R,   z         ,      ,   C N    . ^
+	* Parágrafo único. O Presidente da República, ao solicitar autorização para decretar o estado de sítio ou sua prorrogação, relatará os motivos determinantes do pedido, devendo o Congresso Nacional decidir por maioria absoluta. ^47ecbb0
 
-* A. . O        ,             , ,   ,  P  R          . ^
+* Art. 138. O decreto do estado de sítio indicará sua duração, as normas necessárias a sua execução e as garantias constitucionais que ficarão suspensas, e, depois de publicado, o Presidente da República designará o executor das medidas específicas e as áreas abrangidas. ^417c127
 
-	*   O   ,    . [[#^|]], [[#^|I]],         ,  ,   z,  z ;    [[#^|II]],                . ^
+	* § 1° O estado de sítio, no caso do art. [[#^2ba9c3d|137]], [[#^aa6d460|I]], não poderá ser decretado por mais de trinta dias, nem prorrogado, de cada vez, por prazo superior; no do inciso [[#^f72f90c|II]], poderá ser decretado por todo o tempo que perdurar a guerra ou a agressão armada estrangeira. ^22da4a0
 
-	*   S z          ,  P  S ,  ,    C N       ,      . ^
+	* § 2° Solicitada autorização para decretar o estado de sítio durante o recesso parlamentar, o Presidente do Senado Federal, de imediato, convocará extraordinariamente o Congresso Nacional para se reunir dentro de cinco dias, a fim de apreciar o ato. ^3474c38
 
-	*   O C N         . ^
+	* § 3° O Congresso Nacional permanecerá em funcionamento até o término das medidas coercitivas. ^de4da4b
 
-* A. . N          . [[#^|]], [[#^|I]],          : ^
+* Art. 139. Na vigência do estado de sítio decretado com fundamento no art. [[#^2ba9c3d|137]], [[#^aa6d460|I]], só poderão ser tomadas contra as pessoas as seguintes medidas: ^878faad
 
-	* I -      ; ^
+	* I - obrigação de permanência em localidade determinada; ^6925c4a
 
-	* II -            ; ^
+	* II - detenção em edifício não destinado a acusados ou condenados por crimes comuns; ^94d7b36
 
-	* III -      ,    ,         ,   ,    ; ^
+	* III - restrições relativas à inviolabilidade da correspondência, ao sigilo das comunicações, à prestação de informações e à liberdade de imprensa, radiodifusão e televisão, na forma da lei; ^7c9fa5b
 
-	* IV -     ; ^
+	* IV - suspensão da liberdade de reunião; ^14dc073
 
-	* V -     ; ^
+	* V - busca e apreensão em domicílio; ^7589b2f
 
-	* VI -      ; ^
+	* VI - intervenção nas empresas de serviços públicos; ^96e016f
 
-	* VII -   . ^
+	* VII - requisição de bens. ^3a44871
 
-	* P . N       [[#^|III]]          C L,      M. ^
+	* Parágrafo único. Não se inclui nas restrições do inciso [[#^7c9fa5b|III]] a difusão de pronunciamentos de parlamentares efetuados em suas Casas Legislativas, desde que liberada pela respectiva Mesa. ^c2de9f1
 
-### ... SEÇÃO III - DISPOSIÇÕES GERAIS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO III - DISPOSIÇÕES GERAIS (ARTS.  A )|R]]
+### 5.1.3. SEÇÃO III - DISPOSIÇÕES GERAIS (ARTS. 140 A 141)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/5.1.3. SEÇÃO III - DISPOSIÇÕES GERAIS (ARTS. 140 A 141)|Resumo]]
 
-* A. . A M  C N,    ,  C          z              . ^
+* Art. 140. A Mesa do Congresso Nacional, ouvidos os líderes partidários, designará Comissão composta de cinco de seus membros para acompanhar e fiscalizar a execução das medidas referentes ao estado de defesa e ao estado de sítio. ^0ed9f86
 
-* A. . C         ,    ,  z          . ^
+* Art. 141. Cessado o estado de defesa ou o estado de sítio, cessarão também seus efeitos, sem prejuízo da responsabilidade pelos ilícitos cometidos por seus executores ou agentes. ^a605d77
 
-	* P . L           ,          P  R,    C N,       ,          . ^
+	* Parágrafo único. Logo que cesse o estado de defesa ou o estado de sítio, as medidas aplicadas em sua vigência serão relatadas pelo Presidente da República, em mensagem ao Congresso Nacional, com especificação e justificação das providências adotadas, com relação nominal dos atingidos e indicação das restrições aplicadas. ^9ebe733
 
-## .. CAPÍTULO II - DAS ORÇAS ARMADAS (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO II - DAS ORÇAS ARMADAS (ARTS.  A )|R]]
+## 5.2. CAPÍTULO II - DAS FORÇAS ARMADAS (ARTS. 142 A 143)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/5.2. CAPÍTULO II - DAS FORÇAS ARMADAS (ARTS. 142 A 143)|Resumo]]
 
-* A. . A  A,   M,  E   A,      , z       ,      P  R,  -    P,      ,     ,     . ^
+* Art. 142. As Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica, são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem. ^5bf4dbe
 
-	*   L          z,        A. ^
+	* § 1° Lei complementar estabelecerá as normas gerais a serem adotadas na organização, no preparo e no emprego das Forças Armadas. ^d9cbaf9
 
-	*   N         . ^
+	* § 2° Não caberá habeas corpus em relação a punições disciplinares militares. ^85314fd
 
-	*   O    A   , --,         ,   : (I  E C  ,  ) ^
+	* § 3° Os membros das Forças Armadas são denominados militares, aplicando-se-lhes, além das que vierem a ser fixadas em lei, as seguintes disposições: (Incluído pela Emenda Constitucional n° 18, de 1998) ^a5cf18c
 
-		* I -  ,  ,      ,    P  R        ,    , -       ,     ,       A; (I  E C  ,  ) ^
+		* I - as patentes, com prerrogativas, direitos e deveres a elas inerentes, são conferidas pelo Presidente da República e asseguradas em plenitude aos oficiais da ativa, da reserva ou reformados, sendo-lhes privativos os títulos e postos militares e, juntamente com os demais membros, o uso dos uniformes das Forças Armadas; (Incluído pela Emenda Constitucional n° 18, de 1998) ^fac0ad2
 
-		* II -              ,      . [[#^|]],  [[#^|XVI]],  "[[#^|]]",     ,    ; (R   E C  ,  ) ^
+		* II - o militar em atividade que tomar posse em cargo ou emprego público civil permanente, ressalvada a hipótese prevista no art. [[#^73a80b7|37]], inciso [[#^773f388|XVI]], alínea "[[#^0c257fb|c]]", será transferido para a reserva, nos termos da lei; (Redação dada pela Emenda Constitucional n° 77, de 2014) ^da1c66d
 
-		* III -     ,     ,    ,      ,  ,     ,      . [[#^|]],  [[#^|XVI]],  "[[#^|]]",        ,    ,    , --             ,       ,   ,    ,    ; (R   E C  ,  ) ^
+		* III - o militar da ativa que, de acordo com a lei, tomar posse em cargo, emprego ou função pública civil temporária, não eletiva, ainda que da administração indireta, ressalvada a hipótese prevista no art. [[#^73a80b7|37]], inciso [[#^773f388|XVI]], alínea "[[#^0c257fb|c]]", ficará agregado ao respectivo quadro e somente poderá, enquanto permanecer nessa situação, ser promovido por antiguidade, contando-se-lhe o tempo de serviço apenas para aquela promoção e transferência para a reserva, sendo depois de dois anos de afastamento, contínuos ou não, transferido para a reserva, nos termos da lei; (Redação dada pela Emenda Constitucional n° 77, de 2014) ^ed88940
 
-		* IV -      z   ; (I  E C  ,  ) ^
+		* IV - ao militar são proibidas a sindicalização e a greve; (Incluído pela Emenda Constitucional n° 18, de 1998) ^e19bc26
 
-		* V -  ,    ,       ; (I  E C  ,  ) ^
+		* V - o militar, enquanto em serviço ativo, não pode estar filiado a partidos políticos; (Incluído pela Emenda Constitucional n° 18, de 1998) ^dfbaa05
 
-		* VI -                   ,        ,    z,    ,    ; (I  E C  ,  ) ^
+		* VI - o oficial só perderá o posto e a patente se for julgado indigno do oficialato ou com ele incompatível, por decisão de tribunal militar de caráter permanente, em tempo de paz, ou de tribunal especial, em tempo de guerra; (Incluído pela Emenda Constitucional n° 18, de 1998) ^bd6f373
 
-		* VII -                 ,     ,        ; (I  E C  ,  ) ^
+		* VII - o oficial condenado na justiça comum ou militar a pena privativa de liberdade superior a dois anos, por sentença transitada em julgado, será submetido ao julgamento previsto no inciso anterior; (Incluído pela Emenda Constitucional n° 18, de 1998) ^8b97a98
 
-		* VIII - -      . [[#^|]],  [[#^|VIII]], [[#^|XII]], [[#^|XVII]], [[#^|XVIII]], [[#^|XIX]]  [[#^|XXV]],   . [[#^|]],  [[#^|XI]], [[#^|XIII]], [[#^|XIV]]  [[#^|XV]],  ,          ,  . [[#^|]],  [[#^|XVI]],  "[[#^|]]"; (R   E C  ,  ) ^
+		* VIII - aplica-se aos militares o disposto no art. [[#^0f410c4|7°]], incisos [[#^b7430d7|VIII]], [[#^0847d33|XII]], [[#^dec1e40|XVII]], [[#^30b33de|XVIII]], [[#^c6fbc10|XIX]] e [[#^7444b20|XXV]], e no art. [[#^73a80b7|37]], incisos [[#^3af496b|XI]], [[#^0b47d84|XIII]], [[#^1c7b8a7|XIV]] e [[#^81e6ba5|XV]], bem como, na forma da lei e com prevalência da atividade militar, no art. [[#^73a80b7|37]], inciso [[#^773f388|XVI]], alínea "[[#^0c257fb|c]]"; (Redação dada pela Emenda Constitucional n° 77, de 2014) ^c75e429
 
-		* X -         A,    ,            ,  ,  ,  ,        ,      ,           . (I  E C  ,  ) ^
+		* X - a lei disporá sobre o ingresso nas Forças Armadas, os limites de idade, a estabilidade e outras condições de transferência do militar para a inatividade, os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideradas as peculiaridades de suas atividades, inclusive aquelas cumpridas por força de compromissos internacionais e de guerra. (Incluído pela Emenda Constitucional n° 18, de 1998) ^940e3a4
 
-* A. . O        . ^
+* Art. 143. O serviço militar é obrigatório nos termos da lei. ^9e6e9bd
 
-	*   À  A ,    ,     ,    z,  ,    , -             ,         . (R) ^
+	* § 1° Às Forças Armadas compete, na forma da lei, atribuir serviço alternativo aos que, em tempo de paz, após alistados, alegarem imperativo de consciência, entendendo-se como tal o decorrente de crença religiosa e de convicção filosófica ou política, para se eximirem de atividades de caráter essencialmente militar. (Regulamento) ^69d3e67
 
-	*   - A              z, , ,        . (R) ^
+	* § 2° - As mulheres e os eclesiásticos ficam isentos do serviço militar obrigatório em tempo de paz, sujeitos, porém, a outros encargos que a lei lhes atribuir. (Regulamento) ^bcaeb24
 
-## .. CAPÍTULO III - DA SEGURANÇA PÚBLICA (ART. )
-[[NL/C    (C)/MOC/.. CAPÍTULO III - DA SEGURANÇA PÚBLICA (ART. )|R]]
+## 5.3. CAPÍTULO III - DA SEGURANÇA PÚBLICA (ART. 144)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/5.3. CAPÍTULO III - DA SEGURANÇA PÚBLICA (ART. 144)|Resumo]]
 
-* A. . A  ,   E,     ,                ,    : ^
+* Art. 144. A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos: ^d07ad44
 
-	* I -  ; ^
+	* I - polícia federal; ^6eb856f
 
-	* II -   ; ^
+	* II - polícia rodoviária federal; ^f433384
 
-	* III -   ; ^
+	* III - polícia ferroviária federal; ^6b712d9
 
-	* IV -  ; ^
+	* IV - polícias civis; ^38fc50f
 
-	* V -       . ^
+	* V - polícias militares e corpos de bombeiros militares. ^a94fbd0
 
-	* VI -   ,   . (R   E C  ,  ) ^
+	* VI - polícias penais federal, estaduais e distrital. (Redação dada pela Emenda Constitucional n° 104, de 2019) ^f7e0f07
 
-	*   A  ,      , z    U    , - : (R   E C  ,  ) ^
+	* § 1° A polícia federal, instituída por lei como órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se a: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^aee1b53
 
-		* I -              ,     U        ,               ,     ; ^
+		* I - apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e interesses da União ou de suas entidades autárquicas e empresas públicas, assim como outras infrações cuja prática tenha repercussão interestadual ou internacional e exija repressão uniforme, segundo se dispuser em lei; ^b791c9f
 
-		* II -           ,     ,  z   z          ; ^
+		* II - prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho, sem prejuízo da ação fazendária e de outros órgãos públicos nas respectivas áreas de competência; ^e82f449
 
-		* III -      ,    ; (R   E C  ,  ) ^
+		* III - exercer as funções de polícia marítima, aeroportuária e de fronteiras; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^e7a6d26
 
-		* IV - ,  ,       U. ^
+		* IV - exercer, com exclusividade, as funções de polícia judiciária da União. ^32ad558
 
-	*   A   ,  , z    U    , -,    ,      . (R   E C  ,  ) ^
+	* § 2° A polícia rodoviária federal, órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das rodovias federais. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^202312b
 
-	*   A   ,  , z    U    , -,    ,      . (R   E C  ,  ) ^
+	* § 3° A polícia ferroviária federal, órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das ferrovias federais. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^4488836
 
-	*   À  ,       , ,     U,           ,   . ^
+	* § 4° Às polícias civis, dirigidas por delegados de polícia de carreira, incumbem, ressalvada a competência da União, as funções de polícia judiciária e a apuração de infrações penais, exceto as militares. ^44ea23c
 
-	*   À            ;     ,      ,        . ^
+	* § 5° Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil. ^b4d8b7c
 
-	*  -A. À  ,             ,      . (R   E C  ,  ) ^
+	* § 5°-A. Às polícias penais, vinculadas ao órgão administrador do sistema penal da unidade federativa a que pertencem, cabe a segurança dos estabelecimentos penais. (Redação dada pela Emenda Constitucional n° 104, de 2019) ^55d787a
 
-	*   A        ,      E -,            ,  G  E,  D    T. (R   E C  ,  ) ^
+	* § 6° As polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva do Exército subordinam-se, juntamente com as polícias civis e as polícias penais estaduais e distrital, aos Governadores dos Estados, do Distrito Federal e dos Territórios. (Redação dada pela Emenda Constitucional n° 104, de 2019) ^e5dca11
 
-	*   A    z         ,         . (V L  .,  ) V ^
+	* § 7° A lei disciplinará a organização e o funcionamento dos órgãos responsáveis pela segurança pública, de maneira a garantir a eficiência de suas atividades. (Vide Lei n° 13.675, de 2018) Vigência ^5826da9
 
-	*   O M          ,   ,    . (V L  .,  ) ^
+	* § 8° Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei. (Vide Lei n° 13.022, de 2014) ^c8a63cd
 
-	*   A                 [[#^|]]  . [[#^|]]. (I  E C  ,  ) ^
+	* § 9° A remuneração dos servidores policiais integrantes dos órgãos relacionados neste artigo será fixada na forma do § [[#^51bdef8|4°]] do art. [[#^a4b00e0|39]]. (Incluído pela Emenda Constitucional n° 19, de 1998) ^f0f6fcd
 
-	*  . A  ,                   : (I  E C  ,  ) ^
+	* § 10. A segurança viária, exercida para a preservação da ordem pública e da incolumidade das pessoas e do seu patrimônio nas vias públicas: (Incluído pela Emenda Constitucional n° 82, de 2014) ^c82ecde
 
-		* I -   ,   z  ,       ,          ;  (I  E C  ,  ) ^
+		* I - compreende a educação, engenharia e fiscalização de trânsito, além de outras atividades previstas em lei, que assegurem ao cidadão o direito à mobilidade urbana eficiente; e (Incluído pela Emenda Constitucional n° 82, de 2014) ^d4fbb29
 
-		* II - ,    E,  D    M,           ,   C,    . (I  E C  ,  ) ^
+		* II - compete, no âmbito dos Estados, do Distrito Federal e dos Municípios, aos respectivos órgãos ou entidades executivos e seus agentes de trânsito, estruturados em Carreira, na forma da lei. (Incluído pela Emenda Constitucional n° 82, de 2014) ^8477046
 
-# . TÍTULO VI - DA TRIBUTAÇÃO E DO ORÇAMENTO (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO VI - DA TRIBUTAÇÃO E DO ORÇAMENTO (ARTS.  A )|R]]
-V : [[ - D T]], [[. P]], [[. I]], [[P T]], [[CTN]], [[C  D P]]
+# 6. TÍTULO VI - DA TRIBUTAÇÃO E DO ORÇAMENTO (ARTS. 145 A 169)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6. TÍTULO VI - DA TRIBUTAÇÃO E DO ORÇAMENTO (ARTS. 145 A 169)|Resumo]]
+Ver também: [[01 - Direito Tributário]], [[1. Princípios]], [[2. Imunidades]], [[Poder Tributário]], [[CTN]], [[Conexões de Direito Público]]
 
-## .. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS.  A )|R]]
-V : [[ - D T (MOC)|D T]], [[C  D P]], [[P T]]
+## 6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1. CAPÍTULO I - DO SISTEMA TRIBUTÁRIO NACIONAL (ARTS. 145 A 162)|Resumo]]
+Ver também: [[01 - Direito Tributário (MOC)|Direito Tributário]], [[Conexões de Direito Público]], [[Poder Tributário]]
 
-### ... SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS.  A -C)
-[[NL/C    (C)/MOC/... SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS.  A -C)|R]]
-V: [[ - D T/. P|P T]], [[CTN#A. |CTN A. ]]
+### 6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.1. SEÇÃO I - DOS PRINCÍPIOS GERAIS (ARTS. 145 A 149-C)|Resumo]]
+Ver: [[01 - Direito Tributário/1. Princípios|Princípios Tributários]], [[CTN#Art. 1º|CTN Art. 1º]]
 
-* A. . A U,  E,  D    M     [[P T|]]: ^
+* Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes [[Poder Tributário|tributos]]: ^432aea3
 
-	* I - ; ^
+	* I - impostos; ^4b1092b
 
-	* II - ,  z    [[P  |  ]]   z,   ,      ,        ; ^
+	* II - taxas, em razão do exercício do [[Poder de polícia|poder de polícia]] ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição; ^e963a1c
 
-	* III -   ,    . ^
+	* III - contribuição de melhoria, decorrente de obras públicas. ^126ca94
 
-	*   S  ,              ,    ,       , ,         ,  ,        . ^
+	* § 1° Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultado à administração tributária, especialmente para conferir efetividade a esses objetivos, identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte. ^a304071
 
-	*   A          . ^
+	* § 2° As taxas não poderão ter base de cálculo própria de impostos. ^24c4aff
 
-	*   O S T N      ,  ,   ,        . (I  E C  ,  ) ^
+	* § 3° O Sistema Tributário Nacional deve observar os princípios da simplicidade, da transparência, da justiça tributária, da cooperação e da defesa do meio ambiente. (Incluído pela Emenda Constitucional n° 132, de 2023) ^4fefc9b
 
-	*   A        . (I  E C  ,  ) ^
+	* § 4° As alterações na legislação tributária buscarão atenuar efeitos regressivos. (Incluído pela Emenda Constitucional n° 132, de 2023) ^ec93fd8
 
-* A. . C   : ^
+* Art. 146. Cabe à lei complementar: ^38a499e
 
-	* I -     ,   ,   U,  E,  D    M; ^
+	* I - dispor sobre conflitos de competência, em matéria tributária, entre a União, os Estados, o Distrito Federal e os Municípios; ^0fc7a49
 
-	* II -        ; ^
+	* II - regular as limitações constitucionais ao poder de tributar; ^3cfa12c
 
-	* III -       [[ - D T| ]],  : ^
+	* III - estabelecer normas gerais em matéria de [[01 - Direito Tributário|legislação tributária]], especialmente sobre: ^7443bc3
 
-		* )       ,  ,       C,     ,     ; ^
+		* a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes; ^cf4dc47
 
-		* ) , [[L T|]], [[. C |]],    ; ^
+		* b) obrigação, [[Lançamento Tributário|lançamento]], [[7. Crédito tributário|crédito]], prescrição e decadência tributários; ^5f58dad
 
-		* )          ,        . [[#^|-A]]  [[#^|]], [[#^|V]]; (R   E C  ,  ) ^
+		* c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas, inclusive em relação aos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]]; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^138b265
 
-		* )                ,            . [[#^|]], [[#^|II]],  [[#^|-A]],      . [[#^|]], [[#^|I]]  [[#^|V]],   [[#^|]]         . [[#^|]]. (R   E C  ,  ) ^
+		* d) definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos impostos previstos nos arts. [[#^c99e88e|155]], [[#^d99de90|II]], e [[#^1a749c5|156-A]], das contribuições sociais previstas no art. [[#^dd51188|195]], [[#^30dea0e|I]] e [[#^ad15f6a|V]], e § [[#^750065a|12]] e da contribuição a que se refere o art. [[#^65ba57b|239]]. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^8afc1b7
 
-	*   A        [[#^|III]], ,              U,  E,  D    M,  : (I  E C  ,  ) ^
+	* § 1° A lei complementar de que trata o inciso [[#^7443bc3|III]], d, também poderá instituir um regime único de arrecadação dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios, observado que: (Incluído pela Emenda Constitucional n° 132, de 2023) ^ca0512b
 
-		* I -     ; (I  E C  ,  ) ^
+		* I - será opcional para o contribuinte; (Incluído pela Emenda Constitucional n° 132, de 2023) ^c8f878e
 
-		* II -         E; (I  E C  ,  ) ^
+		* II - poderão ser estabelecidas condições de enquadramento diferenciadas por Estado; (Incluído pela Emenda Constitucional n° 132, de 2023) ^6041a26
 
-		* III -      z              ,     ; (I  E C  ,  ) ^
+		* III - o recolhimento será unificado e centralizado e a distribuição da parcela de recursos pertencentes aos respectivos entes federados será imediata, vedada qualquer retenção ou condicionamento; (Incluído pela Emenda Constitucional n° 132, de 2023) ^69b0c0d
 
-		* IV -  ,  z         ,      . (I  E C  ,  ) ^
+		* IV - a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos entes federados, adotado cadastro nacional único de contribuintes. (Incluído pela Emenda Constitucional n° 132, de 2023) ^f5cc25b
 
-	*   É            [[#^|]]        . [[#^|-A]]  [[#^|]], [[#^|V]],     ,              . (I  E C  ,  ) ^
+	* § 2° É facultado ao optante pelo regime único de que trata o § [[#^ca0512b|1°]] apurar e recolher os tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]], nos termos estabelecidos nesses artigos, hipótese em que as parcelas a eles relativas não serão cobradas pelo regime único. (Incluído pela Emenda Constitucional n° 132, de 2023) ^7fc71de
 
-	*   N         . [[#^|-A]]  [[#^|]], [[#^|V]],  z           [[#^|]],    : (I  E C  ,  ) ^
+	* § 3° Na hipótese de o recolhimento dos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]], ser realizado por meio do regime único de que trata o § [[#^ca0512b|1°]], enquanto perdurar a opção: (Incluído pela Emenda Constitucional n° 132, de 2023) ^bf734e5
 
-		* I -            . [[#^|-A]]  [[#^|]], [[#^|V]],      ;  (I  E C  ,  ) ^
+		* I - não será permitida a apropriação de créditos dos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]], pelo contribuinte optante pelo regime único; e (Incluído pela Emenda Constitucional n° 132, de 2023) ^a6f8f5a
 
-		* II -           . [[#^|-A]]  [[#^|]], [[#^|V]],             [[#^|]]     ,  ,     ,          . (I  E C  ,  ) ^
+		* II - será permitida a apropriação de créditos dos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]], pelo adquirente não optante pelo regime único de que trata o § [[#^ca0512b|1°]] de bens materiais ou imateriais, inclusive direitos, e de serviços do optante, em montante equivalente ao cobrado por meio do regime único. (Incluído pela Emenda Constitucional n° 132, de 2023) ^938429f
 
-* A. -A. L       ,        ,  z     U,  ,     . (I  E C  ,  ..) ^
+* Art. 146-A. Lei complementar poderá estabelecer critérios especiais de tributação, com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de igual objetivo. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^0b2dd9b
 
-* A. . C  U,  T ,    ,   T     M, ,   ;  D     . ^
+* Art. 147. Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais; ao Distrito Federal cabem os impostos municipais. ^39dd74e
 
-* A. . A U,   ,    : ^
+* Art. 148. A União, mediante lei complementar, poderá instituir empréstimos compulsórios: ^620e5fa
 
-	* I -     ,    ,      ; ^
+	* I - para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência; ^c68a571
 
-	* II -             ,     . [[#^|]], [[#^|III]], "[[#^|]]". ^
+	* II - no caso de investimento público de caráter urgente e de relevante interesse nacional, observado o disposto no art. [[#^95551ec|150]], [[#^b33d22a|III]], "[[#^876c2fe|b]]". ^873f408
 
-	* P . A               . ^
+	* Parágrafo único. A aplicação dos recursos provenientes de empréstimo compulsório será vinculada à despesa que fundamentou sua instituição. ^cfea65f
 
-* A. . C   U   ,             ,        ,     . [[#^|]], [[#^|III]],  [[#^|]], [[#^|I]]  [[#^|III]],   z    . [[#^|]],  [[#^|]],        . ^
+* Art. 149. Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. [[#^38a499e|146]], [[#^7443bc3|III]], e [[#^95551ec|150]], [[#^e4ddfcf|I]] e [[#^b33d22a|III]], e sem prejuízo do previsto no art. [[#^dd51188|195]], § [[#^b941a6a|6°]], relativamente às contribuições a que alude o dispositivo. ^cdc5809
 
-	*   A U,  E,  D    M ,    ,         ,    ,     ,                      . (R   E C  ,  ) (V) ^
+	* § 1° A União, os Estados, o Distrito Federal e os Municípios instituirão, por meio de lei, contribuições para custeio de regime próprio de previdência social, cobradas dos servidores ativos, dos aposentados e dos pensionistas, que poderão ter alíquotas progressivas de acordo com o valor da base de contribuição ou dos proventos de aposentadoria e de pensões. (Redação dada pela Emenda Constitucional n° 103, de 2019) (Vigência) ^4d9f2ce
 
-	*  -A. Q   ,                       -. (I  E C  ,  ) (V) ^
+	* § 1°-A. Quando houver deficit atuarial, a contribuição ordinária dos aposentados e pensionistas poderá incidir sobre o valor dos proventos de aposentadoria e de pensões que supere o salário-mínimo. (Incluído pela Emenda Constitucional n° 103, de 2019) (Vigência) ^b4a0044
 
-	*  -B. D        [[#^|-A]]     ,       ,    U,    ,     . (I  E C  ,  ) (V) ^
+	* § 1°-B. Demonstrada a insuficiência da medida prevista no § [[#^b4a0044|1°-A]] para equacionar o deficit atuarial, é facultada a instituição de contribuição extraordinária, no âmbito da União, dos servidores públicos ativos, dos aposentados e dos pensionistas. (Incluído pela Emenda Constitucional n° 103, de 2019) (Vigência) ^17dea0c
 
-	*  -C. A        [[#^|-B]]                ,      . (I  E C  ,  ) (V) ^
+	* § 1°-C. A contribuição extraordinária de que trata o § [[#^17dea0c|1°-B]] deverá ser instituída simultaneamente com outras medidas para equacionamento do deficit e vigorará por período determinado, contado da data de sua instituição. (Incluído pela Emenda Constitucional n° 103, de 2019) (Vigência) ^3cbd9a4
 
-	*   A               : (I  E C  ,  ) ^
+	* § 2° As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo: (Incluído pela Emenda Constitucional n° 33, de 2001) ^4881969
 
-		* I -        ; (I  E C  ,  ) ^
+		* I - não incidirão sobre as receitas decorrentes de exportação; (Incluído pela Emenda Constitucional n° 33, de 2001) ^988d2b0
 
-		* II -          ; (R   E C  ,  ..) ^
+		* II - incidirão também sobre a importação de produtos estrangeiros ou serviços; (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) ^f495517
 
-		* III -   : (I  E C  ,  ) ^
+		* III - poderão ter alíquotas: (Incluído pela Emenda Constitucional n° 33, de 2001) ^4642e77
 
-			* )  ,     ,         ,    ,   ; (I  E C  ,  ) ^
+			* a) ad valorem, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro; (Incluído pela Emenda Constitucional n° 33, de 2001) ^574761f
 
-			* ) ,        . (I  E C  ,  ) ^
+			* b) específica, tendo por base a unidade de medida adotada. (Incluído pela Emenda Constitucional n° 33, de 2001) ^2dc7576
 
-	*   A             ,    . (I  E C  ,  ) ^
+	* § 3° A pessoa natural destinatária das operações de importação poderá ser equiparada a pessoa jurídica, na forma da lei. (Incluído pela Emenda Constitucional n° 33, de 2001) ^6f7ba9f
 
-	*   A            z. (I  E C  ,  ) ^
+	* § 4° A lei definirá as hipóteses em que as contribuições incidirão uma única vez. (Incluído pela Emenda Constitucional n° 33, de 2001) ^23a695d
 
-* A. -A. O M   D    ,     ,   ,                      ,     . [[#^|]], [[#^|I]]  [[#^|III]]. (R   E C  ,  ) ^
+* Art. 149-A. Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos, observado o disposto no art. [[#^95551ec|150]], [[#^e4ddfcf|I]] e [[#^b33d22a|III]]. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^4560d77
 
-	* P . É           ,       . (I  E C  ,  ) ^
+	* Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de energia elétrica. (Incluído pela Emenda Constitucional n° 39, de 2002) ^f419b9e
 
-* A. -B. O    . [[#^|-A]]  [[#^|]], [[#^|V]],       : (I  E C  ,  ) ^
+* Art. 149-B. Os tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]], observarão as mesmas regras em relação a: (Incluído pela Emenda Constitucional n° 132, de 2023) ^e54dcaf
 
-	* I -  ,   ,       ; (I  E C  ,  ) ^
+	* I - fatos geradores, bases de cálculo, hipóteses de não incidência e sujeitos passivos; (Incluído pela Emenda Constitucional n° 132, de 2023) ^4016540
 
-	* II - ; (I  E C  ,  ) ^
+	* II - imunidades; (Incluído pela Emenda Constitucional n° 132, de 2023) ^a6f70e0
 
-	* III -  ,     ; (I  E C  ,  ) ^
+	* III - regimes específicos, diferenciados ou favorecidos de tributação; (Incluído pela Emenda Constitucional n° 132, de 2023) ^3608199
 
-	* IV -       . (I  E C  ,  ) ^
+	* IV - regras de não cumulatividade e de creditamento. (Incluído pela Emenda Constitucional n° 132, de 2023) ^612819a
 
-	* P . O            . [[#^|]], [[#^|VI]],           . [[#^|]],  [[#^|]]. (I  E C  ,  ) ^
+	* Parágrafo único. Os tributos de que trata o caput observarão as imunidades previstas no art. [[#^95551ec|150]], [[#^96e48c4|VI]], não se aplicando a ambos os tributos o disposto no art. [[#^dd51188|195]], § [[#^bd957fb|7°]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^9703944
 
-* A. -C. O        . [[#^|-A]]      . [[#^|]], [[#^|V]],        ,      ,   ,       ,    z                      . (I  E C  ,  ) ^
+* Art. 149-C. O produto da arrecadação do imposto previsto no art. [[#^1a749c5|156-A]] e da contribuição prevista no art. [[#^dd51188|195]], [[#^ad15f6a|V]], incidentes sobre operações contratadas pela administração pública direta, por autarquias e por fundações públicas, inclusive suas importações, será integralmente destinado ao ente federativo contratante, mediante redução a zero das alíquotas do imposto e da contribuição devidos aos demais entes e equivalente elevação da alíquota do tributo devido ao ente contratante. (Incluído pela Emenda Constitucional n° 132, de 2023) ^441d525
 
-	*   A          z   ,     . (I  E C  ,  ) ^
+	* § 1° As operações de que trata o caput poderão ter alíquotas reduzidas de modo uniforme, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023) ^2727cc6
 
-	*   L                 [[#^|]]. (I  E C  ,  ) ^
+	* § 2° Lei complementar poderá prever hipóteses em que não se aplicará o disposto no caput e no § [[#^2727cc6|1°]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^ff4e412
 
-	*   N      ,      ,    . [[#^|]], [[#^|VI]], "[[#^|]]",            [[#^|]],          . (I  E C  ,  ) ^
+	* § 3° Nas importações efetuadas pela administração pública direta, por autarquias e por fundações públicas, o disposto no art. [[#^95551ec|150]], [[#^96e48c4|VI]], "[[#^a0e7496|a]]", será implementado na forma do disposto no caput e no § [[#^2727cc6|1°]], assegurada a igualdade de tratamento em relação às aquisições internas. (Incluído pela Emenda Constitucional n° 132, de 2023) ^19d6aa0
 
-### ... SEÇÃO II - DAS LIMITAÇÕES DO PODER DE TRIBUTAR (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO II - DAS LIMITAÇÕES DO PODER DE TRIBUTAR (ARTS.  A )|R]]
+### 6.1.2. SEÇÃO II - DAS LIMITAÇÕES DO PODER DE TRIBUTAR (ARTS. 150 A 152)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.2. SEÇÃO II - DAS LIMITAÇÕES DO PODER DE TRIBUTAR (ARTS. 150 A 152)|Resumo]]
 
-* A. . S z      ,    U,  E,  D    M: ^
+* Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^95551ec
 
-	* I -         ; ([[. P|L]]) ^
+	* I - exigir ou aumentar tributo sem lei que o estabeleça; ([[1. Princípios|Legalidade]]) ^e4ddfcf
 
-	* II -           ,     z        ,      ,   ; ([[. P|I]]) ^
+	* II - instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou função por eles exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos; ([[1. Princípios|Isonomia]]) ^43dd743
 
-	* III -  : ^
+	* III - cobrar tributos: ^b33d22a
 
-		* )                   ; ([[. P|I]]) ^
+		* a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado; ([[1. Princípios|Irretroatividade]]) ^30defe1
 
-		* )                ; ([[. P|A C]]) ^
+		* b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou; ([[1. Princípios|Anterioridade Comum]]) ^876c2fe
 
-		* )                   ,      [[#^|]]; ([[. P|A N]]) ^
+		* c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea [[#^876c2fe|b]]; ([[1. Princípios|Anterioridade Nonagesimal]]) ^b248955
 
-	* IV - z     ; ([[. P|N-C]]) ^
+	* IV - utilizar tributo com efeito de confisco; ([[1. Princípios|Não-Confisco]]) ^c952495
 
-	* V -        ,       ,       z     P P; ([[. P|L  T]]) ^
+	* V - estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público; ([[1. Princípios|Liberdade de Tráfego]]) ^28a73c9
 
-	* VI -  [[. I|]] : (V E C  ,  ) ^
+	* VI - instituir [[2. Imunidades|impostos]] sobre: (Vide Emenda Constitucional n° 3, de 1993) ^96e48c4
 
-		* ) ,   ,   ; ([[. I|R]]) ^
+		* a) patrimônio, renda ou serviços, uns dos outros; ([[2. Imunidades|Recíproca]]) ^a0e7496
 
-		* )       ,   z   ; ([[. I|R]]) (R   E C  ,  ) ^
+		* b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; ([[2. Imunidades|Religiosa]]) (Redação dada pela Emenda Constitucional n° 132, de 2023) ^3cbcecd
 
-		* ) ,      ,   ,     ,        ,   ,     ; ([[. I|C]]) ^
+		* c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei; ([[2. Imunidades|Condicionada]]) ^5c54b10
 
-		* ) , ,        . ([[. I|O/C]]) ^
+		* d) livros, jornais, periódicos e o papel destinado a sua impressão. ([[2. Imunidades|Objetiva/Cultural]]) ^2a0afa3
 
-		* )     z  B         /                  ,             . ([[. I|M]]) (I  E C  ,  ..) ^
+		* e) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a laser. ([[2. Imunidades|Musical]]) (Incluída pela Emenda Constitucional n° 75, de 15.10.2013) ^4f8f979
 
-	*   A    [[#^|III]], [[#^|]],        . [[#^|]], [[#^|I]], [[#^|]], [[#^|I]], [[#^|II]], [[#^|IV]]  [[#^|V]];  [[#^|]], [[#^|II]];      [[#^|III]], [[#^|]],        . [[#^|]], [[#^|I]], [[#^|]], [[#^|I]], [[#^|II]], [[#^|III]]  [[#^|V]];  [[#^|]], [[#^|II]],            . [[#^|]], [[#^|III]],  [[#^|]], [[#^|I]]. (R   E C  ,  ..) ^
+	* § 1° A vedação do inciso [[#^b33d22a|III]], [[#^876c2fe|b]], não se aplica aos tributos previstos nos arts. [[#^620e5fa|148]], [[#^c68a571|I]], [[#^b48cd87|153]], [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^b6b5f55|IV]] e [[#^913e692|V]]; e [[#^f00bcde|154]], [[#^b614f29|II]]; e a vedação do inciso [[#^b33d22a|III]], [[#^b248955|c]], não se aplica aos tributos previstos nos arts. [[#^620e5fa|148]], [[#^c68a571|I]], [[#^b48cd87|153]], [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^f267e04|III]] e [[#^913e692|V]]; e [[#^f00bcde|154]], [[#^b614f29|II]], nem à fixação da base de cálculo dos impostos previstos nos arts. [[#^c99e88e|155]], [[#^8f30158|III]], e [[#^2e16bcd|156]], [[#^876d590|I]]. (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) ^c3fc35a
 
-	*   A    [[#^|VI]], "[[#^|]]",                     ,      ,              . (R   E C  ,  ) ^
+	* § 2° A vedação do inciso [[#^96e48c4|VI]], "[[#^a0e7496|a]]", é extensiva às autarquias e às fundações instituídas e mantidas pelo poder público e à empresa pública prestadora de serviço postal, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^38f2c94
 
-	*   - A    [[#^|VI]], "[[#^|]]",         ,     ,             ,             ,              . ^
+	* § 3° - As vedações do inciso [[#^96e48c4|VI]], "[[#^a0e7496|a]]", e do parágrafo anterior não se aplicam ao patrimônio, à renda e aos serviços, relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário, nem exonera o promitente comprador da obrigação de pagar imposto relativamente ao bem imóvel. ^b1da3d5
 
-	*   - A     [[#^|VI]],  "[[#^|]]"  "[[#^|]]",    ,     ,         . ^
+	* § 4° - As vedações expressas no inciso [[#^96e48c4|VI]], alíneas "[[#^3cbcecd|b]]" e "[[#^5c54b10|c]]", compreendem somente o patrimônio, a renda e os serviços, relacionados com as finalidades essenciais das entidades nelas mencionadas. ^4c85764
 
-	*   - A                  . ^
+	* § 5° - A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e serviços. ^113ccb2
 
-	*   Q   ,     ,    ,   ,   ,   ,       , ,   ,             ,  z    . [[#^|]],  [[#^|]]., [[#^|XII]], [[#^|]]. (R   E C  ,  ) ^
+	* § 6° Qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no art. [[#^c99e88e|155]], § [[#^384fc26|2]].°, [[#^1792f75|XII]], [[#^04cea00|g]]. (Redação dada pela Emenda Constitucional n° 3, de 1993) ^13a8112
 
-	*   A                   ,      ,         ,    z    . (I  E C  ,  ) ^
+	* § 7° A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido. (Incluído pela Emenda Constitucional n° 3, de 1993) ^967053f
 
-* A. . É   U: ^
+* Art. 151. É vedado à União: ^6e8a428
 
-	* I -                     E,  D    M,    ,              -      P; ^
+	* I - instituir tributo que não seja uniforme em todo o território nacional ou que implique distinção ou preferência em relação a Estado, ao Distrito Federal ou a Município, em detrimento de outro, admitida a concessão de incentivos fiscais destinados a promover o equilíbrio do desenvolvimento sócio-econômico entre as diferentes regiões do País; ^5545831
 
-	* II -          E,  D    M,           ,             ; ^
+	* II - tributar a renda das obrigações da dívida pública dos Estados, do Distrito Federal e dos Municípios, bem como a remuneração e os proventos dos respectivos agentes públicos, em níveis superiores aos que fixar para suas obrigações e para seus agentes; ^682e781
 
-	* III -        E,  D    M. ^
+	* III - instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios. ^91333f9
 
-* A. . É   E,  D    M       ,   z,  z     . ^
+* Art. 152. É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino. ^e52a07d
 
-### ... SEÇÃO III - DOS IMPOSTOS DA UNIÃO (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO III - DOS IMPOSTOS DA UNIÃO (ARTS.  A )|R]]
+### 6.1.3. SEÇÃO III - DOS IMPOSTOS DA UNIÃO (ARTS. 153 A 154)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.3. SEÇÃO III - DOS IMPOSTOS DA UNIÃO (ARTS. 153 A 154)|Resumo]]
 
-* A. . C  U   : ^
+* Art. 153. Compete à União instituir impostos sobre: ^b48cd87
 
-	* I -    ; ^
+	* I - importação de produtos estrangeiros; ^ab28a48
 
-	* II - ,   ,     z; ^
+	* II - exportação, para o exterior, de produtos nacionais ou nacionalizados; ^1e2c12c
 
-	* III -      z; ^
+	* III - renda e proventos de qualquer natureza; ^f267e04
 
-	* IV -  z; ^
+	* IV - produtos industrializados; ^b6b5f55
 
-	* V -   ,   ,       ; ^
+	* V - operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários; ^913e692
 
-	* VI -   ; ^
+	* VI - propriedade territorial rural; ^187e8ae
 
-	* VII -  ,     . ^
+	* VII - grandes fortunas, nos termos de lei complementar. ^06ce760
 
-	* VIII - , , z             ,     . (I  E C  ,  ) ^
+	* VIII - produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023) ^bf115cb
 
-	*   É   P E,         ,         [[#^|I]], [[#^|II]], [[#^|IV]]  [[#^|V]]. ^
+	* § 1° É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar as alíquotas dos impostos enumerados nos incisos [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^b6b5f55|IV]] e [[#^913e692|V]]. ^9716b19
 
-	*   O     [[#^|III]]: ^
+	* § 2° O imposto previsto no inciso [[#^f267e04|III]]: ^e72598f
 
-		* I -      ,     ,    ; ^
+		* I - será informado pelos critérios da generalidade, da universalidade e da progressividade, na forma da lei; ^ce29455
 
-	*   O     [[#^|IV]]: ^
+	* § 3° O imposto previsto no inciso [[#^b6b5f55|IV]]: ^9d46723
 
-		* I -  ,      ; ^
+		* I - será seletivo, em função da essencialidade do produto; ^6d8cedb
 
-		* II -  -, -             ; ^
+		* II - será não-cumulativo, compensando-se o que for devido em cada operação com o montante cobrado nas anteriores; ^c4b818d
 
-		* III -     z   . ^
+		* III - não incidirá sobre produtos industrializados destinados ao exterior. ^ae62b6e
 
-		* IV -  z             ,    . (I  E C  ,  ..) ^
+		* IV - terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto, na forma da lei. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^c9b1dba
 
-	*   O     [[#^|VI]]   : (R   E C  ,  ..) ^
+	* § 4° O imposto previsto no inciso [[#^187e8ae|VI]] do capu t: (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) ^387f9c6
 
-		* I -                ; (I  E C  ,  ..) ^
+		* I - será progressivo e terá suas alíquotas fixadas de forma a desestimular a manutenção de propriedades improdutivas; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^1c09929
 
-		* II -      ,   ,          ; (I  E C  ,  ..) ^
+		* II - não incidirá sobre pequenas glebas rurais, definidas em lei, quando as explore o proprietário que não possua outro imóvel; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^1b01c07
 
-		* III -  z    M   ,    ,              . (I  E C  ,  ..) (R) ^
+		* III - será fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não implique redução do imposto ou qualquer outra forma de renúncia fiscal. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) (Regulamento) ^63ce80a
 
-	*   O ,          , -           [[#^|V]]  ""  ,     ;        ,          : (V E C  ,  ) ^
+	* § 5° O ouro, quando definido em lei como ativo financeiro ou instrumento cambial, sujeita-se exclusivamente à incidência do imposto de que trata o inciso [[#^913e692|V]] do "caput" deste artigo, devido na operação de origem; a alíquota mínima será de um por cento, assegurada a transferência do montante da arrecadação nos seguintes termos: (Vide Emenda Constitucional n° 3, de 1993) ^2e3546e
 
-		* I -      E,  D    T,   ; ^
+		* I - trinta por cento para o Estado, o Distrito Federal ou o Território, conforme a origem; ^2d7ae95
 
-		* II -      M  . ^
+		* II - setenta por cento para o Município de origem. ^3118836
 
-	*   O     [[#^|VIII]]    : (I  E C  ,  ) ^
+	* § 6° O imposto previsto no inciso [[#^bf115cb|VIII]] do caput deste artigo: (Incluído pela Emenda Constitucional n° 132, de 2023) ^d41b0ab
 
-		* I -               ; (I  E C  ,  ) ^
+		* I - não incidirá sobre as exportações nem sobre as operações com energia elétrica e com telecomunicações; (Incluído pela Emenda Constitucional n° 132, de 2023) ^3c94f99
 
-		* II -    z     ; (I  E C  ,  ) ^
+		* II - incidirá uma única vez sobre o bem ou serviço; (Incluído pela Emenda Constitucional n° 132, de 2023) ^64f25e7
 
-		* III -       ; (I  E C  ,  ) ^
+		* III - não integrará sua própria base de cálculo; (Incluído pela Emenda Constitucional n° 132, de 2023) ^ca7c21b
 
-		* IV -          . [[#^|]], [[#^|II]], [[#^|]], [[#^|III]], [[#^|-A]]  [[#^|]], [[#^|V]]; (I  E C  ,  ) ^
+		* IV - integrará a base de cálculo dos tributos previstos nos arts. [[#^c99e88e|155]], [[#^d99de90|II]], [[#^2e16bcd|156]], [[#^3c3e402|III]], [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^a1f44ea
 
-		* V -             ; (I  E C  ,  ) ^
+		* V - poderá ter o mesmo fato gerador e base de cálculo de outros tributos; (Incluído pela Emenda Constitucional n° 132, de 2023) ^40f4248
 
-		* VI -       ,   ,     ,   ; (I  E C  ,  ) ^
+		* VI - terá suas alíquotas fixadas em lei ordinária, podendo ser específicas, por unidade de medida adotada, ou ad valorem; (Incluído pela Emenda Constitucional n° 132, de 2023) ^8c82308
 
-		* VII -  ,       ,         % (  )      . (I  E C  ,  ) ^
+		* VII - na extração, o imposto será cobrado independentemente da destinação, caso em que a alíquota máxima corresponderá a 1% (um por cento) do valor de mercado do produto. (Incluído pela Emenda Constitucional n° 132, de 2023) ^13501c2
 
-* A. . A U  : ^
+* Art. 154. A União poderá instituir: ^f00bcde
 
-	* I -   ,      ,    -              C; ^
+	* I - mediante lei complementar, impostos não previstos no artigo anterior, desde que sejam não-cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição; ^f41f7cb
 
-	* II -        ,  ,       ,    , ,      . ^
+	* II - na iminência ou no caso de guerra externa, impostos extraordinários, compreendidos ou não em sua competência tributária, os quais serão suprimidos, gradativamente, cessadas as causas de sua criação. ^b614f29
 
-### ... SEÇÃO IV - DOS IMPOSTOS DOS ESTADOS E DO DISTRITO EDERAL (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO IV - DOS IMPOSTOS DOS ESTADOS E DO DISTRITO EDERAL (ART. )|R]]
+### 6.1.4. SEÇÃO IV - DOS IMPOSTOS DOS ESTADOS E DO DISTRITO FEDERAL (ART. 155)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.4. SEÇÃO IV - DOS IMPOSTOS DOS ESTADOS E DO DISTRITO FEDERAL (ART. 155)|Resumo]]
 
-* A. . C  E   D    : (R   E C  ,  ) ^
+* Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre: (Redação dada pela Emenda Constitucional n° 3, de 1993) ^c99e88e
 
-	* I -     ,     ; (R   E C  ,  ) ^
+	* I - transmissão causa mortis e doação, de quaisquer bens ou direitos; (Redação dada pela Emenda Constitucional n° 3, de 1993) ^05025a6
 
-	* II -                   ,           ; (R   E C  ,  ) (V E C  ,  ) V ^
+	* II - operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior; (Redação dada pela Emenda Constitucional n° 3, de 1993) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^d99de90
 
-	* III -    . (R   E C  ,  ) ^
+	* III - propriedade de veículos automotores. (Redação dada pela Emenda Constitucional n° 3, de 1993) ^8f30158
 
-	*   O     [[#^|I]]: (R   E C  ,  ) ^
+	* § 1° O imposto previsto no inciso [[#^05025a6|I]]: (Redação dada pela Emenda Constitucional n° 3, de 1993) ^b8bc9f1
 
-		* I -       ,   E    ,   D  ^
+		* I - relativamente a bens imóveis e respectivos direitos, compete ao Estado da situação do bem, ou ao Distrito Federal ^85a3aea
 
-		* II -    ,   ,   E      ,     ,   D ; (R   E C  ,  ) ^
+		* II - relativamente a bens móveis, títulos e créditos, compete ao Estado onde era domiciliado o de cujus, ou tiver domicílio o doador, ou ao Distrito Federal; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^64f6d9b
 
-		* III -         : ^
+		* III - terá competência para sua instituição regulada por lei complementar: ^50a6964
 
-			* )         ; ^
+			* a) se o doador tiver domicilio ou residência no exterior; ^b4d8e65
 
-			* )      ,            ; ^
+			* b) se o de cujus possuía bens, era residente ou domiciliado ou teve o seu inventário processado no exterior; ^9fd9244
 
-		* IV -       S ; ^
+		* IV - terá suas alíquotas máximas fixadas pelo Senado Federal; ^70cb19b
 
-		* V -      ,    P E  U,                  . (I  E C  ,  ) ^
+		* V - não incidirá sobre as doações destinadas, no âmbito do Poder Executivo da União, a projetos socioambientais ou destinados a mitigar os efeitos das mudanças climáticas e às instituições federais de ensino. (Incluído pela Emenda Constituicional n° 126, de 2022) ^0159402
 
-		* VI -    z    ,     ; (I  E C  ,  ) ^
+		* VI - será progressivo em razão do valor do quinhão, do legado ou da doação; (Incluído pela Emenda Constitucional n° 132, de 2023) ^9f11008
 
-		* VII -                     ,   z           ,    z      ,       . (I  E C  ,  ) ^
+		* VII - não incidirá sobre as transmissões e as doações para as instituições sem fins lucrativos com finalidade de relevância pública e social, inclusive as organizações assistenciais e beneficentes de entidades religiosas e institutos científicos e tecnológicos, e por elas realizadas na consecução dos seus objetivos sociais, observadas as condições estabelecidas em lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023) ^8b7c312
 
-	*   O     [[#^|II]]   : (R   E C  ,  ) (V E C  ,  ) V ^
+	* § 2° O imposto previsto no inciso [[#^d99de90|II]] atenderá ao seguinte: (Redação dada pela Emenda Constitucional n° 3, de 1993) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^384fc26
 
-		* I -  -, -                           E   D ; ^
+		* I - será não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores pelo mesmo ou outro Estado ou pelo Distrito Federal; ^1661f3f
 
-		* II -    -,      : ^
+		* II - a isenção ou não-incidência, salvo determinação em contrário da legislação: ^e232616
 
-			* )              ; ^
+			* a) não implicará crédito para compensação com o montante devido nas operações ou prestações seguintes; ^cb2c372
 
-			* )         ; ^
+			* b) acarretará a anulação do crédito relativo às operações anteriores; ^a6700d3
 
-		* III -   ,         ; ^
+		* III - poderá ser seletivo, em função da essencialidade das mercadorias e dos serviços; ^205b129
 
-		* IV -   S ,    P  R      S,       ,        ,    ; ^
+		* IV - resolução do Senado Federal, de iniciativa do Presidente da República ou de um terço dos Senadores, aprovada pela maioria absoluta de seus membros, estabelecerá as alíquotas aplicáveis às operações e prestações, interestaduais e de exportação; ^30f130f
 
-		* V -    S : ^
+		* V - é facultado ao Senado Federal: ^5f7ba51
 
-			* )      ,               ; ^
+			* a) estabelecer alíquotas mínimas nas operações internas, mediante resolução de iniciativa de um terço e aprovada pela maioria absoluta de seus membros; ^bb34490
 
-			* )               E,               ; ^
+			* b) fixar alíquotas máximas nas mesmas operações para resolver conflito específico que envolva interesse de Estados, mediante resolução de iniciativa da maioria absoluta e aprovada por dois terços de seus membros; ^59e8d4d
 
-		* VI -      E   D ,       [[#^|XII]], "[[#^|]]",   ,            ,          ; ^
+		* VI - salvo deliberação em contrário dos Estados e do Distrito Federal, nos termos do disposto no inciso [[#^1792f75|XII]], "[[#^04cea00|g]]", as alíquotas internas, nas operações relativas à circulação de mercadorias e nas prestações de serviços, não poderão ser inferiores às previstas para as operações interestaduais; ^3357d38
 
-		* VII -            ,     , z   E, --       E  z             E     ; (R   E C  ,  ) (P  ) ^
+		* VII - nas operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do imposto, localizado em outro Estado, adotar-se-á a alíquota interestadual e caberá ao Estado de localização do destinatário o imposto correspondente à diferença entre a alíquota interna do Estado destinatário e a alíquota interestadual; (Redação dada pela Emenda Constitucional n° 87, de 2015) (Produção de efeito) ^2cb04ac
 
-			* ) (); (R   E C  ,  ) ^
+			* a) (revogada); (Redação dada pela Emenda Constitucional n° 87, de 2015) ^73459cc
 
-			* ) (); (R   E C  ,  ) ^
+			* b) (revogada); (Redação dada pela Emenda Constitucional n° 87, de 2015) ^119b0ad
 
-		* VIII -                      [[#^|VII]]  : (R   E C  ,  ) (P  ) ^
+		* VIII - a responsabilidade pelo recolhimento do imposto correspondente à diferença entre a alíquota interna e a interestadual de que trata o inciso [[#^2cb04ac|VII]] será atribuída: (Redação dada pela Emenda Constitucional n° 87, de 2015) (Produção de efeito) ^134c83f
 
-			* )  ,      ; (I  E C  ,  ) ^
+			* a) ao destinatário, quando este for contribuinte do imposto; (Incluído pela Emenda Constitucional n° 87, de 2015) ^9107507
 
-			* )  ,        ; (I  E C  ,  ) ^
+			* b) ao remetente, quando o destinatário não for contribuinte do imposto; (Incluído pela Emenda Constitucional n° 87, de 2015) ^6c98a68
 
-		* IX -  : ^
+		* IX - incidirá também: ^492d02c
 
-			* )               ,        ,      ,        ,     E            ,   ; (R   E C  ,  ) ^
+			* a) sobre a entrada de bem ou mercadoria importados do exterior por pessoa física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade, assim como sobre o serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o domicílio ou o estabelecimento do destinatário da mercadoria, bem ou serviço; (Redação dada pela Emenda Constitucional n° 33, de 2001) ^aa561b7
 
-			* )      ,             M; ^
+			* b) sobre o valor total da operação, quando mercadorias forem fornecidas com serviços não compreendidos na competência tributária dos Municípios; ^0306342
 
-		* X -  : ^
+		* X - não incidirá: ^dedbba4
 
-			* )        ,        ,                ; (R   E C  ,  ..) ^
+			* a) sobre operações que destinem mercadorias para o exterior, nem sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o aproveitamento do montante do imposto cobrado nas operações e prestações anteriores; (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) ^8393433
 
-			* )       E ,  ,      ,   ; ^
+			* b) sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica; ^7398cba
 
-			* )   ,     . [[#^|]],  [[#^|]]; ^
+			* c) sobre o ouro, nas hipóteses definidas no art. [[#^b48cd87|153]], § [[#^2e3546e|5°]]; ^b4813a3
 
-			* )                     ; (I  E C  ,  ..) ^
+			* d) nas prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^56925c0
 
-		* XI -  ,     ,       z,   , z         z   z,      ; ^
+		* XI - não compreenderá, em sua base de cálculo, o montante do imposto sobre produtos industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos; ^5262c0a
 
-		* XII -    : ^
+		* XII - cabe à lei complementar: ^1792f75
 
-			* )   ; ^
+			* a) definir seus contribuintes; ^c15e384
 
-			* )    ; ^
+			* b) dispor sobre substituição tributária; ^2bf2306
 
-			* )       ; ^
+			* c) disciplinar o regime de compensação do imposto; ^1a4c766
 
-			* ) ,          ,              ; ^
+			* d) fixar, para efeito de sua cobrança e definição do estabelecimento responsável, o local das operações relativas à circulação de mercadorias e das prestações de serviços; ^b8dfa48
 
-			* )     ,     ,          [[#^|X]], "[[#^|]]" ^
+			* e) excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso [[#^dedbba4|X]], "[[#^8393433|a]]" ^2674e11
 
-			* )      ,      E     ,     ; ^
+			* f) prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias; ^e8bfe37
 
-			* )    ,    E   D , ,        . ^
+			* g) regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados. ^04cea00
 
-			* )              z,      ,           [[#^|X]], [[#^|]]; (I  E C  ,  ) (V E C  ,  ) ^
+			* h) definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que não se aplicará o disposto no inciso [[#^dedbba4|X]], [[#^7398cba|b]]; (Incluída pela Emenda Constitucional n° 33, de 2001) (Vide Emenda Constitucional n° 33, de 2001) ^e362375
 
-			* )     ,         ,       ,   . (I  E C  ,  ) ^
+			* i) fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço. (Incluída pela Emenda Constitucional n° 33, de 2001) ^df002db
 
-	*   À         [[#^|II]]       . [[#^|]], [[#^|I]]  [[#^|II]],  [[#^|-A]],                ,        . [[#^|]], [[#^|VIII]],            ,     P. (R   E C  ,  ) ^
+	* § 3° À exceção dos impostos de que tratam o inciso [[#^d99de90|II]] do caput deste artigo e os arts. [[#^b48cd87|153]], [[#^ab28a48|I]] e [[#^1e2c12c|II]], e [[#^1a749c5|156-A]], nenhum outro imposto poderá incidir sobre operações relativas a energia elétrica e serviços de telecomunicações e, à exceção destes e do previsto no art. [[#^b48cd87|153]], [[#^bf115cb|VIII]], nenhum outro imposto poderá incidir sobre operações relativas a derivados de petróleo, combustíveis e minerais do País. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^703c870
 
-	*   N    [[#^|XII]], [[#^|]], --  : (I  E C  ,  ) (V E C  ,  ) V ^
+	* § 4° Na hipótese do inciso [[#^1792f75|XII]], [[#^e362375|h]], observar-se-á o seguinte: (Incluído pela Emenda Constitucional n° 33, de 2001) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^36ff353
 
-		* I -          ,     E    ; (I  E C  ,  ) ^
+		* I - nas operações com os lubrificantes e combustíveis derivados de petróleo, o imposto caberá ao Estado onde ocorrer o consumo; (Incluído pela Emenda Constitucional n° 33, de 2001) ^7d91c1e
 
-		* II -   ,  ,      ,         [[#^|I]]  ,       E     , -           ; (I  E C  ,  ) ^
+		* II - nas operações interestaduais, entre contribuintes, com gás natural e seus derivados, e lubrificantes e combustíveis não incluídos no inciso [[#^7d91c1e|I]] deste parágrafo, o imposto será repartido entre os Estados de origem e de destino, mantendo-se a mesma proporcionalidade que ocorre nas operações com as demais mercadorias; (Incluído pela Emenda Constitucional n° 33, de 2001) ^9810877
 
-		* III -         ,         [[#^|I]]  ,    ,     E  ; (I  E C  ,  ) ^
+		* III - nas operações interestaduais com gás natural e seus derivados, e lubrificantes e combustíveis não incluídos no inciso [[#^7d91c1e|I]] deste parágrafo, destinadas a não contribuinte, o imposto caberá ao Estado de origem; (Incluído pela Emenda Constitucional n° 33, de 2001) ^36d7a0e
 
-		* IV -          E  D ,     [[#^|]], [[#^|XII]], [[#^|]], -  : (I  E C  ,  ) ^
+		* IV - as alíquotas do imposto serão definidas mediante deliberação dos Estados e Distrito Federal, nos termos do § [[#^384fc26|2°]], [[#^1792f75|XII]], [[#^04cea00|g]], observando-se o seguinte: (Incluído pela Emenda Constitucional n° 33, de 2001) ^64aa621
 
-			* )       ,     ; (I  E C  ,  ) ^
+			* a) serão uniformes em todo o território nacional, podendo ser diferenciadas por produto; (Incluído pela Emenda Constitucional n° 33, de 2001) ^a41acb1
 
-			* )   ,     ,   ,                         ; (I  E C  ,  ) ^
+			* b) poderão ser específicas, por unidade de medida adotada, ou ad valorem, incidindo sobre o valor da operação ou sobre o preço que o produto ou seu similar alcançaria em uma venda em condições de livre concorrência; (Incluído pela Emenda Constitucional n° 33, de 2001) ^fb31b3c
 
-			* )   z  ,        . [[#^|]], [[#^|III]], [[#^|]]. (I  E C  ,  ) ^
+			* c) poderão ser reduzidas e restabelecidas, não se lhes aplicando o disposto no art. [[#^95551ec|150]], [[#^b33d22a|III]], [[#^876c2fe|b]]. (Incluído pela Emenda Constitucional n° 33, de 2001) ^e10a054
 
-	*   A         [[#^|]],          ,      E   D ,     [[#^|]], [[#^|XII]], [[#^|]]. (I  E C  ,  ) (V E C  ,  ) V ^
+	* § 5° As regras necessárias à aplicação do disposto no § [[#^36ff353|4°]], inclusive as relativas à apuração e à destinação do imposto, serão estabelecidas mediante deliberação dos Estados e do Distrito Federal, nos termos do § [[#^384fc26|2°]], [[#^1792f75|XII]], [[#^04cea00|g]]. (Incluído pela Emenda Constitucional n° 33, de 2001) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^d4e36a6
 
-	*   O     [[#^|III]]: (I  E C  ,  ..) ^
+	* § 6° O imposto previsto no inciso [[#^8f30158|III]]: (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^d37f37a
 
-		* I -      S ; (I  E C  ,  ..) ^
+		* I - terá alíquotas mínimas fixadas pelo Senado Federal; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^a81a6c3
 
-		* II -        ,  ,  z    ; (R   E C  ,  ) ^
+		* II - poderá ter alíquotas diferenciadas em função do tipo, do valor, da utilização e do impacto ambiental; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^f141570
 
-		* III -        ,   , : (I  E C  ,  ) ^
+		* III - incidirá sobre a propriedade de veículos automotores terrestres, aquáticos e aéreos, excetuados: (Incluído pela Emenda Constitucional n° 132, de 2023) ^b5c012b
 
-			* )            ; (I  E C  ,  ) ^
+			* a) aeronaves agrícolas e de operador certificado para prestar serviços aéreos a terceiros; (Incluído pela Emenda Constitucional n° 132, de 2023) ^63c46f2
 
-			* )                       , ,    ; (I  E C  ,  ) ^
+			* b) embarcações de pessoa jurídica que detenha outorga para prestar serviços de transporte aquaviário ou de pessoa física ou jurídica que pratique pesca industrial, artesanal, científica ou de subsistência; (Incluído pela Emenda Constitucional n° 132, de 2023) ^7f5d5ef
 
-			* )          ,                 z          ; (I  E C  ,  ) ^
+			* c) plataformas suscetíveis de se locomoverem na água por meios próprios, inclusive aquelas cuja finalidade principal seja a exploração de atividades econômicas em águas territoriais e na zona econômica exclusiva e embarcações que tenham essa mesma finalidade principal; (Incluído pela Emenda Constitucional n° 132, de 2023) ^a4f30aa
 
-			* )    . (I  E C  ,  ) ^
+			* d) tratores e máquinas agrícolas. (Incluído pela Emenda Constitucional n° 132, de 2023) ^6a3299f
 
-			* )    ,      ()     ,   -, ,   . (I  E C  ,  ) ^
+			* e) veículos terrestres de passageiros, caminhonetes e mistos com 20 (vinte) anos ou mais de fabricação, excetuados os micro-ônibus, ônibus, reboques e semirreboques. (Incluído pela Emenda Constitucional n° 137, de 2025) ^5afbfa4
 
-### ... SEÇÃO V - DOS IMPOSTOS DOS MUNICÍPIOS (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO V - DOS IMPOSTOS DOS MUNICÍPIOS (ART. )|R]]
+### 6.1.5. SEÇÃO V - DOS IMPOSTOS DOS MUNICÍPIOS (ART. 156)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.5. SEÇÃO V - DOS IMPOSTOS DOS MUNICÍPIOS (ART. 156)|Resumo]]
 
-* A. . C  M   : ^
+* Art. 156. Compete aos Municípios instituir impostos sobre: ^2e16bcd
 
-	* I -     ; ^
+	* I - propriedade predial e territorial urbana; ^876d590
 
-	* II -  " ",   ,   ,   ,  z   ,      ,    ,        ; ^
+	* II - transmissão "inter vivos", a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição; ^ddf0485
 
-	* III -    z,    . [[#^|]], [[#^|II]],    . (R   E C  ,  ) (V E C  ,  ) V ^
+	* III - serviços de qualquer natureza, não compreendidos no art. [[#^c99e88e|155]], [[#^d99de90|II]], definidos em lei complementar. (Redação dada pela Emenda Constitucional n° 3, de 1993) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^3c3e402
 
-	*   S z          . [[#^|]],  [[#^|]],  [[#^|II]],      [[#^|I]] : (R   E C  ,  ) ^
+	* § 1° Sem prejuízo da progressividade no tempo a que se refere o art. [[#^2111819|182]], § [[#^c7d2597|4°]], inciso [[#^72c8907|II]], o imposto previsto no inciso [[#^876d590|I]] poderá: (Redação dada pela Emenda Constitucional n° 29, de 2000) ^6e7619d
 
-		* I -    z    ;  (I  E C  ,  ) ^
+		* I - ser progressivo em razão do valor do imóvel; e (Incluído pela Emenda Constitucional n° 29, de 2000) ^2751917
 
-		* II -        z     . (I  E C  ,  ) ^
+		* II - ter alíquotas diferentes de acordo com a localização e o uso do imóvel. (Incluído pela Emenda Constitucional n° 29, de 2000) ^4982615
 
-		* III -      z  P E,      . (I  E C  ,  ) ^
+		* III - ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos em lei municipal. (Incluído pela Emenda Constitucional n° 132, de 2023) ^2b0e764
 
-	*  -A O     [[#^|I]]           ,             "[[#^|]]"   [[#^|VI]]    . [[#^|]]  C      . (I  E C  ,  ) ^
+	* § 1°-A O imposto previsto no inciso [[#^876d590|I]] do caput deste artigo não incide sobre templos de qualquer culto, ainda que as entidades abrangidas pela imunidade de que trata a alínea "[[#^3cbcecd|b]]" do inciso [[#^96e48c4|VI]] do caput do art. [[#^95551ec|150]] desta Constituição sejam apenas locatárias do bem imóvel. (Incluído pela Emenda Constitucional n° 116, de 2022) ^26847ff
 
-	*   O     [[#^|II]]: ^
+	* § 2° O imposto previsto no inciso [[#^ddf0485|II]]: ^2a22f1f
 
-		* I -                 z  ,           , ,      ,  ,  ,              ,       ; ^
+		* I - não incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, nem sobre a transmissão de bens ou direitos decorrente de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se, nesses casos, a atividade preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil; ^928104b
 
-		* II -   M    . ^
+		* II - compete ao Município da situação do bem. ^adfdbee
 
-	*   E       [[#^|III]]    ,    : (R   E C  ,  ) (V E C  ,  ) V ^
+	* § 3° Em relação ao imposto previsto no inciso [[#^3c3e402|III]] do caput deste artigo, cabe à lei complementar: (Redação dada pela Emenda Constitucional n° 37, de 2002) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^d69c5f5
 
-		* I -       ; (R   E C  ,  ) ^
+		* I - fixar as suas alíquotas máximas e mínimas; (Redação dada pela Emenda Constitucional n° 37, de 2002) ^6e4a689
 
-		* II -          . (I  E C  ,  ) ^
+		* II - excluir da sua incidência exportações de serviços para o exterior. (Incluído pela Emenda Constitucional n° 3, de 1993) ^113398c
 
-		* III -        ,        . (I  E C  ,  ) ^
+		* III - regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados. (Incluído pela Emenda Constitucional n° 3, de 1993) ^c5e1bd4
 
-### ..-A. SEÇÃO V-A - DO IMPOSTO DE COMPETÊNCIA COMPARTILHADA ENTRE ESTADOS,DISTRITO EDERAL E MUNICÍPIOS (ARTS. -A A -B)
-[[NL/C    (C)/MOC/..-A. SEÇÃO V-A - DO IMPOSTO DE COMPETÊNCIA COMPARTILHADA ENTRE ESTADOS,DISTRITO EDERAL E MUNICÍPIOS (ARTS. -A A -B)|R]]
+### 6.1.5-A. SEÇÃO V-A - DO IMPOSTO DE COMPETÊNCIA COMPARTILHADA ENTRE ESTADOS,DISTRITO FEDERAL E MUNICÍPIOS (ARTS. 156-A A 156-B)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.5-A. SEÇÃO V-A - DO IMPOSTO DE COMPETÊNCIA COMPARTILHADA ENTRE ESTADOS,DISTRITO FEDERAL E MUNICÍPIOS (ARTS. 156-A A 156-B)|Resumo]]
 
-* A. -A. L            E, D   M. (I  E C  ,  ) ^
+* Art. 156-A. Lei complementar instituirá imposto sobre bens e serviços de competência compartilhada entre Estados, Distrito Federal e Municípios. (Incluído pela Emenda Constitucional n° 132, de 2023) ^1a749c5
 
-	*   O              : (I  E C  ,  ) ^
+	* § 1° O imposto previsto no caput será informado pelo princípio da neutralidade e atenderá ao seguinte: (Incluído pela Emenda Constitucional n° 132, de 2023) ^29c2f9d
 
-		* I -        ,  ,   ; (I  E C  ,  ) ^
+		* I - incidirá sobre operações com bens materiais ou imateriais, inclusive direitos, ou com serviços; (Incluído pela Emenda Constitucional n° 132, de 2023) ^991176d
 
-		* II -          ,  ,    z     ,         ,      ; (I  E C  ,  ) ^
+		* II - incidirá também sobre a importação de bens materiais ou imateriais, inclusive direitos, ou de serviços realizada por pessoa física ou jurídica, ainda que não seja sujeito passivo habitual do imposto, qualquer que seja a sua finalidade; (Incluído pela Emenda Constitucional n° 132, de 2023) ^6e19274
 
-		* III -     ,                      ,  ,  ,      [[#^|]], [[#^|III]]; (I  E C  ,  ) ^
+		* III - não incidirá sobre as exportações, assegurados ao exportador a manutenção e o aproveitamento dos créditos relativos às operações nas quais seja adquirente de bem material ou imaterial, inclusive direitos, ou serviço, observado o disposto no § [[#^3f2c671|5°]], [[#^bf813ed|III]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^228844d
 
-		* IV -          ,      [[#^|V]]; (I  E C  ,  ) ^
+		* IV - terá legislação única e uniforme em todo o território nacional, ressalvado o disposto no inciso [[#^91a2ea0|V]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^22fb39f
 
-		* V -          ; (I  E C  ,  ) ^
+		* V - cada ente federativo fixará sua alíquota própria por lei específica; (Incluído pela Emenda Constitucional n° 132, de 2023) ^91a2ea0
 
-		* VI -           [[#^|V]]            ,  ,   ,      C; (I  E C  ,  ) ^
+		* VI - a alíquota fixada pelo ente federativo na forma do inciso [[#^91a2ea0|V]] será a mesma para todas as operações com bens materiais ou imateriais, inclusive direitos, ou com serviços, ressalvadas as hipóteses previstas nesta Constituição; (Incluído pela Emenda Constitucional n° 132, de 2023) ^60705b6
 
-		* VII -        E   M    ; (I  E C  ,  ) ^
+		* VII - será cobrado pelo somatório das alíquotas do Estado e do Município de destino da operação; (Incluído pela Emenda Constitucional n° 132, de 2023) ^05fbef0
 
-		* VIII -   , -                      ,  ,   ,                   C; (I  E C  ,  ) ^
+		* VIII - será não cumulativo, compensando-se o imposto devido pelo contribuinte com o montante cobrado sobre todas as operações nas quais seja adquirente de bem material ou imaterial, inclusive direito, ou de serviço, excetuadas exclusivamente as consideradas de uso ou consumo pessoal especificadas em lei complementar e as hipóteses previstas nesta Constituição; (Incluído pela Emenda Constitucional n° 132, de 2023) ^d8c2294
 
-		* IX -              . [[#^|]], [[#^|VIII]],  [[#^|]], [[#^|I]], "[[#^|]]", [[#^|IV]]  [[#^|V]],      P  I S     . [[#^|]]; (I  E C  ,  ) ^
+		* IX - não integrará sua própria base de cálculo nem a dos tributos previstos nos arts. [[#^b48cd87|153]], [[#^bf115cb|VIII]], e [[#^dd51188|195]], [[#^30dea0e|I]], "[[#^023d173|b]]", [[#^d090020|IV]] e [[#^ad15f6a|V]], e da contribuição para o Programa de Integração Social de que trata o art. [[#^65ba57b|239]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^0fb1cd2
 
-		* X -                   ,     ,      C; (I  E C  ,  ) ^
+		* X - não será objeto de concessão de incentivos e benefícios financeiros ou fiscais relativos ao imposto ou de regimes específicos, diferenciados ou favorecidos de tributação, excetuadas as hipóteses previstas nesta Constituição; (Incluído pela Emenda Constitucional n° 132, de 2023) ^be6aebb
 
-		* XI -                       ; (I  E C  ,  ) ^
+		* XI - não incidirá nas prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita; (Incluído pela Emenda Constitucional n° 132, de 2023) ^94cae76
 
-		* XII -   S           ,     ,             ; (I  E C  ,  ) ^
+		* XII - resolução do Senado Federal fixará alíquota de referência do imposto para cada esfera federativa, nos termos de lei complementar, que será aplicada se outra não houver sido estabelecida pelo próprio ente federativo; (Incluído pela Emenda Constitucional n° 132, de 2023) ^a0b3c83
 
-		* XIII -   ,    ,   ,    . (I  E C  ,  ) ^
+		* XIII - sempre que possível, terá seu valor informado, de forma específica, no respectivo documento fiscal. (Incluído pela Emenda Constitucional n° 132, de 2023) ^076978b
 
-	*   P      [[#^|]], [[#^|V]],  D            . (I  E C  ,  ) ^
+	* § 2° Para fins do disposto no § [[#^29c2f9d|1°]], [[#^91a2ea0|V]], o Distrito Federal exercerá as competências estadual e municipal na fixação de suas alíquotas. (Incluído pela Emenda Constitucional n° 132, de 2023) ^d0ffe74
 
-	*   L               z,       ,       . (I  E C  ,  ) ^
+	* § 3° Lei complementar poderá definir como sujeito passivo do imposto a pessoa que concorrer para a realização, a execução ou o pagamento da operação, ainda que residente ou domiciliada no exterior. (Incluído pela Emenda Constitucional n° 132, de 2023) ^517e094
 
-	*   P         ,  C G  I  B  S: (I  E C  ,  ) ^
+	* § 4° Para fins de distribuição do produto da arrecadação do imposto, o Comitê Gestor do Imposto sobre Bens e Serviços: (Incluído pela Emenda Constitucional n° 132, de 2023) ^cb08831
 
-		* I -                                 [[#^|]], [[#^|VIII]]; (I  E C  ,  ) ^
+		* I - reterá montante equivalente ao saldo acumulado de créditos do imposto não compensados pelos contribuintes e não ressarcidos ao final de cada período de apuração e aos valores decorrentes do cumprimento do § [[#^3f2c671|5°]], [[#^8b609c5|VIII]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^82f8619
 
-		* II -       , z        [[#^|I]]  ,            . (I  E C  ,  ) ^
+		* II - distribuirá o produto da arrecadação do imposto, deduzida a retenção de que trata o inciso [[#^82f8619|I]] deste parágrafo, ao ente federativo de destino das operações que não tenham gerado creditamento. (Incluído pela Emenda Constitucional n° 132, de 2023) ^cb3bbe2
 
-	*   L   : (I  E C  ,  ) ^
+	* § 5° Lei complementar disporá sobre: (Incluído pela Emenda Constitucional n° 132, de 2023) ^3f2c671
 
-		* I -           , ,   : (I  E C  ,  ) ^
+		* I - as regras para a distribuição do produto da arrecadação do imposto, disciplinando, entre outros aspectos: (Incluído pela Emenda Constitucional n° 132, de 2023) ^1fcc1ed
 
-			* )     ; (I  E C  ,  ) ^
+			* a) a sua forma de cálculo; (Incluído pela Emenda Constitucional n° 132, de 2023) ^9411d6b
 
-			* )              ; (I  E C  ,  ) ^
+			* b) o tratamento em relação às operações em que o imposto não seja recolhido tempestivamente; (Incluído pela Emenda Constitucional n° 132, de 2023) ^9809965
 
-			* )        ,        C; (I  E C  ,  ) ^
+			* c) as regras de distribuição aplicáveis aos regimes favorecidos, específicos e diferenciados de tributação previstos nesta Constituição; (Incluído pela Emenda Constitucional n° 132, de 2023) ^484d384
 
-		* II -    ,                           ,  ,   ,  : (I  E C  ,  ) ^
+		* II - o regime de compensação, podendo estabelecer hipóteses em que o aproveitamento do crédito ficará condicionado à verificação do efetivo recolhimento do imposto incidente sobre a operação com bens materiais ou imateriais, inclusive direitos, ou com serviços, desde que: (Incluído pela Emenda Constitucional n° 132, de 2023) ^06abf63
 
-			* )                ;  (I  E C  ,  ) ^
+			* a) o adquirente possa efetuar o recolhimento do imposto incidente nas suas aquisições de bens ou serviços; ou (Incluído pela Emenda Constitucional n° 132, de 2023) ^2994560
 
-			* )          ; (I  E C  ,  ) ^
+			* b) o recolhimento do imposto ocorra na liquidação financeira da operação; (Incluído pela Emenda Constitucional n° 132, de 2023) ^66f5da4
 
-		* III -     z       ; (I  E C  ,  ) ^
+		* III - a forma e o prazo para ressarcimento de créditos acumulados pelo contribuinte; (Incluído pela Emenda Constitucional n° 132, de 2023) ^bf813ed
 
-		* IV -         ,   , ,    ,  z   z  ,      z         z        ,    z    ; (I  E C  ,  ) ^
+		* IV - os critérios para a definição do destino da operação, que poderá ser, inclusive, o local da entrega, da disponibilização ou da localização do bem, o da prestação ou da disponibilização do serviço ou o do domicílio ou da localização do adquirente ou destinatário do bem ou serviço, admitidas diferenciações em razão das características da operação; (Incluído pela Emenda Constitucional n° 132, de 2023) ^1e6fcc2
 
-		* V -            ,       : (I  E C  ,  ) ^
+		* V - a forma de desoneração da aquisição de bens de capital pelos contribuintes, que poderá ser implementada por meio de: (Incluído pela Emenda Constitucional n° 132, de 2023) ^c9f9564
 
-			* )      ; (I  E C  ,  ) ^
+			* a) crédito integral e imediato do imposto; (Incluído pela Emenda Constitucional n° 132, de 2023) ^9404330
 
-			* ) ;  (I  E C  ,  ) ^
+			* b) diferimento; ou (Incluído pela Emenda Constitucional n° 132, de 2023) ^a0b4ec0
 
-			* )   % (  )    ; (I  E C  ,  ) ^
+			* c) redução em 100% (cem por cento) das alíquotas do imposto; (Incluído pela Emenda Constitucional n° 132, de 2023) ^8ab2293
 
-		* VI -                z    ; (I  E C  ,  ) ^
+		* VI - as hipóteses de diferimento e desoneração do imposto aplicáveis aos regimes aduaneiros especiais e às zonas de processamento de exportação; (Incluído pela Emenda Constitucional n° 132, de 2023) ^9e98393
 
-		* VII -      ; (I  E C  ,  ) ^
+		* VII - o processo administrativo fiscal do imposto; (Incluído pela Emenda Constitucional n° 132, de 2023) ^e8b7909
 
-		* VIII -         ,      ,     z    ; (I  E C  ,  ) ^
+		* VIII - as hipóteses de devolução do imposto a pessoas físicas, inclusive os limites e os beneficiários, com o objetivo de reduzir as desigualdades de renda; (Incluído pela Emenda Constitucional n° 132, de 2023) ^8b609c5
 
-		* IX -       ,    . (I  E C  ,  ) ^
+		* IX - os critérios para as obrigações tributárias acessórias, visando à sua simplificação. (Incluído pela Emenda Constitucional n° 132, de 2023) ^30e0cc2
 
-	*   L        : (I  E C  ,  ) ^
+	* § 6° Lei complementar disporá sobre regimes específicos de tributação para: (Incluído pela Emenda Constitucional n° 132, de 2023) ^2d9a613
 
-		* I -            z,      ,   : (I  E C  ,  ) ^
+		* I - combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que: (Incluído pela Emenda Constitucional n° 132, de 2023) ^7882f45
 
-			* )         ,         ,         [[#^|]], [[#^|V]]  [[#^|VII]]; (I  E C  ,  ) ^
+			* a) serão as alíquotas uniformes em todo o território nacional, específicas por unidade de medida e diferenciadas por produto, admitida a não aplicação do disposto no § [[#^29c2f9d|1°]], [[#^91a2ea0|V]] a [[#^05fbef0|VII]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^ec33a53
 
-			* )                    , z  ; (I  E C  ,  ) ^
+			* b) será vedada a apropriação de créditos em relação às aquisições dos produtos de que trata este inciso destinados a distribuição, comercialização ou revenda; (Incluído pela Emenda Constitucional n° 132, de 2023) ^fd3385b
 
-			* )                 ,      "[[#^|]]"    [[#^|]], [[#^|VIII]]; (I  E C  ,  ) ^
+			* c) será concedido crédito nas aquisições dos produtos de que trata este inciso por sujeito passivo do imposto, observado o disposto na alínea "[[#^fd3385b|b]]" e no § [[#^29c2f9d|1°]], [[#^d8c2294|VIII]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^087e6f8
 
-		* II -  ,    ,         ,  : (I  E C  ,  ) ^
+		* II - serviços financeiros, operações com bens imóveis, planos de assistência à saúde e concursos de prognósticos, podendo prever: (Incluído pela Emenda Constitucional n° 132, de 2023) ^37eddfa
 
-			* )   ,         , ,             ,        [[#^|]], [[#^|VIII]]; (I  E C  ,  ) ^
+			* a) alterações nas alíquotas, nas regras de creditamento e na base de cálculo, admitida, em relação aos adquirentes dos bens e serviços de que trata este inciso, a não aplicação do disposto no § [[#^29c2f9d|1°]], [[#^d8c2294|VIII]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^ac8e946
 
-			* )            ,        ,         [[#^|]], [[#^|V]]  [[#^|VII]], ,             ,      [[#^|]], [[#^|VIII]]; (I  E C  ,  ) ^
+			* b) hipóteses em que o imposto incidirá sobre a receita ou o faturamento, com alíquota uniforme em todo o território nacional, admitida a não aplicação do disposto no § [[#^29c2f9d|1°]], [[#^91a2ea0|V]] a [[#^05fbef0|VII]], e, em relação aos adquirentes dos bens e serviços de que trata este inciso, também do disposto no § [[#^29c2f9d|1°]], [[#^d8c2294|VIII]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^35eddb8
 
-		* III -  ,   ,      ,          , , : (I  E C  ,  ) ^
+		* III - sociedades cooperativas, que será optativo, com vistas a assegurar sua competitividade, observados os princípios da livre concorrência e da isonomia tributária, definindo, inclusive: (Incluído pela Emenda Constitucional n° 132, de 2023) ^949412b
 
-			* )            z       ,                  ; (I  E C  ,  ) ^
+			* a) as hipóteses em que o imposto não incidirá sobre as operações realizadas entre a sociedade cooperativa e seus associados, entre estes e aquela e pelas sociedades cooperativas entre si quando associadas para a consecução dos objetivos sociais; (Incluído pela Emenda Constitucional n° 132, de 2023) ^96def25
 
-			* )         ; (I  E C  ,  ) ^
+			* b) o regime de aproveitamento do crédito das etapas anteriores; (Incluído pela Emenda Constitucional n° 132, de 2023) ^19d08ef
 
-		* IV -   ,      ,      ,   ,     S A     ,       ,         ,         [[#^|]], [[#^|V]]  [[#^|VIII]]; (I  E C  ,  ) ^
+		* IV - serviços de hotelaria, parques de diversão e parques temáticos, agências de viagens e de turismo, bares e restaurantes, atividade esportiva desenvolvida por Sociedade Anônima do Futebol e aviação regional, podendo prever hipóteses de alterações nas alíquotas, nas bases de cálculo e nas regras de creditamento, admitida a não aplicação do disposto no § [[#^29c2f9d|1°]], [[#^91a2ea0|V]] a [[#^d8c2294|VIII]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^5205ecb
 
-		* V -       ,     ,  ,        ; (I  E C  ,  ) ^
+		* V - operações alcançadas por tratado ou convenção internacional, inclusive referentes a missões diplomáticas, repartições consulares, representações de organismos internacionais e respectivos funcionários acreditados; (Incluído pela Emenda Constitucional n° 132, de 2023) ^6f7613e
 
-		* VI -          ,   ,            ,         [[#^|]], [[#^|V]]  [[#^|VIII]]. (I  E C  ,  ) ^
+		* VI - serviços de transporte coletivo de passageiros rodoviário intermunicipal e interestadual, ferroviário e hidroviário, podendo prever hipóteses de alterações nas alíquotas e nas regras de creditamento, admitida a não aplicação do disposto no § [[#^29c2f9d|1°]], [[#^91a2ea0|V]] a [[#^d8c2294|VIII]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^39ccb20
 
-	*   A    : (I  E C  ,  ) ^
+	* § 7° A isenção e a imunidade: (Incluído pela Emenda Constitucional n° 132, de 2023) ^f0a3268
 
-		* I -            ; (I  E C  ,  ) ^
+		* I - não implicarão crédito para compensação com o montante devido nas operações seguintes; (Incluído pela Emenda Constitucional n° 132, de 2023) ^b0dca4c
 
-		* II -         , ,    ,      [[#^|XI]]   [[#^|]],       . (I  E C  ,  ) ^
+		* II - acarretarão a anulação do crédito relativo às operações anteriores, salvo, na hipótese da imunidade, inclusive em relação ao inciso [[#^94cae76|XI]] do § [[#^29c2f9d|1°]], quando determinado em contrário em lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023) ^d91d86f
 
-	*   P     ,                ,    ,                 ,  . (I  E C  ,  ) ^
+	* § 8° Para fins do disposto neste artigo, a lei complementar de que trata o caput poderá estabelecer o conceito de operações com serviços, seu conteúdo e alcance, admitida essa definição para qualquer operação que não seja classificada como operação com bens materiais ou imateriais, inclusive direitos. (Incluído pela Emenda Constitucional n° 132, de 2023) ^110e2b5
 
-	*   Q      z      : (I  E C  ,  ) ^
+	* § 9° Qualquer alteração na legislação federal que reduza ou eleve a arrecadação do imposto: (Incluído pela Emenda Constitucional n° 132, de 2023) ^712e5c2
 
-		* I -       ,  S ,          [[#^|]], [[#^|XII]],         ,     ; (I  E C  ,  ) ^
+		* I - deverá ser compensada pela elevação ou redução, pelo Senado Federal, das alíquotas de referência de que trata o § [[#^29c2f9d|1°]], [[#^a0b3c83|XII]], de modo a preservar a arrecadação das esferas federativas, nos termos de lei complementar; (Incluído pela Emenda Constitucional n° 132, de 2023) ^8101028
 
-		* II -                       [[#^|I]]  . (I  E C  ,  ) ^
+		* II - somente entrará em vigor com o início da produção de efeitos do ajuste das alíquotas de referência de que trata o inciso [[#^8101028|I]] deste parágrafo. (Incluído pela Emenda Constitucional n° 132, de 2023) ^e5a0a05
 
-	*  . O E,  D    M                [[#^|]], [[#^|XII]]. (I  E C  ,  ) ^
+	* § 10. Os Estados, o Distrito Federal e os Municípios poderão optar por vincular suas alíquotas à alíquota de referência de que trata o § [[#^29c2f9d|1°]], [[#^a0b3c83|XII]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^9c1b7ec
 
-	*  . P       C N  z                           [[#^|]], [[#^|XII]]. (I  E C  ,  ) ^
+	* § 11. Projeto de lei complementar em tramitação no Congresso Nacional que reduza ou aumente a arrecadação do imposto somente será apreciado se acompanhado de estimativa de impacto no valor das alíquotas de referência de que trata o § [[#^29c2f9d|1°]], [[#^a0b3c83|XII]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^fe09ed1
 
-	*  . A       [[#^|]], [[#^|VIII]],            . [[#^|-A]], [[#^|]],  [[#^|]], [[#^|]], [[#^| ]], [[#^|]], [[#^|-A]], [[#^|II]],  [[#^|]],  [[#^|]],     , ,    . [[#^|]], [[#^|IV]], "[[#^|]]". (I  E C  ,  ) ^
+	* § 12. A devolução de que trata o § [[#^3f2c671|5°]], [[#^8b609c5|VIII]], não será considerada nas bases de cálculo de que tratam os arts. [[#^82bce5b|29-A]], [[#^a8a5a19|198]], § [[#^d6a1b1d|2°]], [[#^a8a5a19|198]], [[#^a265c55|parágrafo único]], [[#^9ea8a92|212]], [[#^c55ad29|212-A]], [[#^ce2db5c|II]], e [[#^4d7b1e3|216]], § [[#^9518b9b|6°]], não se aplicando a ela, ainda, o disposto no art. [[#^bfd7c36|158]], [[#^a7b10c1|IV]], "[[#^967ebcb|b]]". (Incluído pela Emenda Constitucional n° 132, de 2023) ^6b00765
 
-	*  . A       [[#^|]], [[#^|VIII]],                    ,                . (I  E C  ,  ) ^
+	* § 13. A devolução de que trata o § [[#^3f2c671|5°]], [[#^8b609c5|VIII]], será obrigatória nas operações de fornecimento de energia elétrica e de gás liquefeito de petróleo ao consumidor de baixa renda, podendo a lei complementar determinar que seja calculada e concedida no momento da cobrança da operação. (Incluído pela Emenda Constitucional n° 132, de 2023) ^915f911
 
-* A. -B. O E,  D    M    ,     C G  I  B  S,       C    ,            . [[#^|-A]]: (I  E C  ,  ) ^
+* Art. 156-B. Os Estados, o Distrito Federal e os Municípios exercerão de forma integrada, exclusivamente por meio do Comitê Gestor do Imposto sobre Bens e Serviços, nos termos e limites estabelecidos nesta Constituição e em lei complementar, as seguintes competências administrativas relativas ao imposto de que trata o art. [[#^1a749c5|156-A]]: (Incluído pela Emenda Constitucional n° 132, de 2023) ^fc81930
 
-	* I -     z         ; (I  E C  ,  ) ^
+	* I - editar regulamento único e uniformizar a interpretação e a aplicação da legislação do imposto; (Incluído pela Emenda Constitucional n° 132, de 2023) ^c3eeb12
 
-	* II -   ,           E, D   M; (I  E C  ,  ) ^
+	* II - arrecadar o imposto, efetuar as compensações e distribuir o produto da arrecadação entre Estados, Distrito Federal e Municípios; (Incluído pela Emenda Constitucional n° 132, de 2023) ^a939c52
 
-	* III -    . (I  E C  ,  ) ^
+	* III - decidir o contencioso administrativo. (Incluído pela Emenda Constitucional n° 132, de 2023) ^9202995
 
-	*   O C G  I  B  S,     ,   , ,   . (I  E C  ,  ) ^
+	* § 1° O Comitê Gestor do Imposto sobre Bens e Serviços, entidade pública sob regime especial, terá independência técnica, administrativa, orçamentária e financeira. (Incluído pela Emenda Constitucional n° 132, de 2023) ^af97230
 
-	*   N    : (I  E C  ,  ) ^
+	* § 2° Na forma da lei complementar: (Incluído pela Emenda Constitucional n° 132, de 2023) ^6bcadde
 
-		* I -  E,  D    M  ,   ,       C G  I  B  S; (I  E C  ,  ) ^
+		* I - os Estados, o Distrito Federal e os Municípios serão representados, de forma paritária, na instância máxima de deliberação do Comitê Gestor do Imposto sobre Bens e Serviços; (Incluído pela Emenda Constitucional n° 132, de 2023) ^a7ea25b
 
-		* II -        C G     E   D      M   D ; (I  E C  ,  ) ^
+		* II - será assegurada a alternância na presidência do Comitê Gestor entre o conjunto dos Estados e o Distrito Federal e o conjunto dos Municípios e o Distrito Federal; (Incluído pela Emenda Constitucional n° 132, de 2023) ^d5e7704
 
-		* III -  C G               ; (I  E C  ,  ) ^
+		* III - o Comitê Gestor será financiado por percentual do produto da arrecadação do imposto destinado a cada ente federativo; (Incluído pela Emenda Constitucional n° 132, de 2023) ^3253c04
 
-		* IV -     C G    E,  D    M; (I  E C  ,  ) ^
+		* IV - o controle externo do Comitê Gestor será exercido pelos Estados, pelo Distrito Federal e pelos Municípios; (Incluído pela Emenda Constitucional n° 132, de 2023) ^2f3d2b0
 
-		* V -  z,  ,  ,            z,      ,       E,  D    M,           ,   C G             ; (I  E C  ,  ) ^
+		* V - a fiscalização, o lançamento, a cobrança, a representação administrativa e a representação judicial relativos ao imposto serão realizados, no âmbito de suas respectivas competências, pelas administrações tributárias e procuradorias dos Estados, do Distrito Federal e dos Municípios, que poderão definir hipóteses de delegação ou de compartilhamento de competências, cabendo ao Comitê Gestor a coordenação dessas atividades administrativas com vistas à integração entre os entes federativos; (Incluído pela Emenda Constitucional n° 132, de 2023) ^97047c1
 
-		* VI -             E,  D    M  ,  C G    ,     ; (I  E C  ,  ) ^
+		* VI - as competências exclusivas das carreiras da administração tributária e das procuradorias dos Estados, do Distrito Federal e dos Municípios serão exercidas, no Comitê Gestor e na representação deste, por servidores das referidas carreiras; (Incluído pela Emenda Constitucional n° 132, de 2023) ^d160070
 
-		* VII -         C G,        z  . (I  E C  ,  ) ^
+		* VII - serão estabelecidas a estrutura e a gestão do Comitê Gestor, cabendo ao regimento interno dispor sobre sua organização e funcionamento. (Incluído pela Emenda Constitucional n° 132, de 2023) ^58d75ca
 
-	*   A           C G  I  B  S    : (I  E C  ,  ) ^
+	* § 3° A participação dos entes federativos na instância máxima de deliberação do Comitê Gestor do Imposto sobre Bens e Serviços observará a seguinte composição: (Incluído pela Emenda Constitucional n° 132, de 2023) ^ceb166a
 
-		* I -  (  ) ,   E   D ; (I  E C  ,  ) ^
+		* I - 27 (vinte e sete) membros, representando cada Estado e o Distrito Federal; (Incluído pela Emenda Constitucional n° 132, de 2023) ^ffeea17
 
-		* II -  (  ) ,     M   D ,      : (I  E C  ,  ) ^
+		* II - 27 (vinte e sete) membros, representando o conjunto dos Municípios e do Distrito Federal, que serão eleitos nos seguintes termos: (Incluído pela Emenda Constitucional n° 132, de 2023) ^5096f79
 
-			* )  (z) ,       M,     ;  (I  E C  ,  ) ^
+			* a) 14 (quatorze) representantes, com base nos votos de cada Município, com valor igual para todos; e (Incluído pela Emenda Constitucional n° 132, de 2023) ^f703d45
 
-			* )  (z) ,       M    . (I  E C  ,  ) ^
+			* b) 13 (treze) representantes, com base nos votos de cada Município ponderados pelas respectivas populações. (Incluído pela Emenda Constitucional n° 132, de 2023) ^a5d9e5e
 
-	*   A     C G  I  B  S     , ,  : (I  E C  ,  ) ^
+	* § 4° As deliberações no âmbito do Comitê Gestor do Imposto sobre Bens e Serviços serão consideradas aprovadas se obtiverem, cumulativamente, os votos: (Incluído pela Emenda Constitucional n° 132, de 2023) ^c4a4850
 
-		* I -      E   D : (I  E C  ,  ) ^
+		* I - em relação ao conjunto dos Estados e do Distrito Federal: (Incluído pela Emenda Constitucional n° 132, de 2023) ^8e0187f
 
-			* )      ;  (I  E C  ,  ) ^
+			* a) da maioria absoluta de seus representantes; e (Incluído pela Emenda Constitucional n° 132, de 2023) ^61d0c96
 
-			* )    E   D       % (  )    P;  (I  E C  ,  ) ^
+			* b) de representantes dos Estados e do Distrito Federal que correspondam a mais de 50% (cinquenta por cento) da população do País; e (Incluído pela Emenda Constitucional n° 132, de 2023) ^c607f12
 
-		* II -      M   D ,      . (I  E C  ,  ) ^
+		* II - em relação ao conjunto dos Municípios e do Distrito Federal, da maioria absoluta de seus representantes. (Incluído pela Emenda Constitucional n° 132, de 2023) ^38a32e2
 
-	*   O P  C G  I  B  S       . (I  E C  ,  ) ^
+	* § 5° O Presidente do Comitê Gestor do Imposto sobre Bens e Serviços deverá ter notórios conhecimentos de administração tributária. (Incluído pela Emenda Constitucional n° 132, de 2023) ^faefa8a
 
-	*   O C G  I  B  S,     U   P-G  z N         . [[#^|-A]]  [[#^|]], [[#^|V]],      z , ,       . (I  E C  ,  ) ^
+	* § 6° O Comitê Gestor do Imposto sobre Bens e Serviços, a administração tributária da União e a Procuradoria-Geral da Fazenda Nacional compartilharão informações fiscais relacionadas aos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]], e atuarão com vistas a harmonizar normas, interpretações, obrigações acessórias e procedimentos a eles relativos. (Incluído pela Emenda Constitucional n° 132, de 2023) ^6e14c8a
 
-	*   O C G  I  B  S      U              . [[#^|-A]]  [[#^|]], [[#^|V]]. (I  E C  ,  ) ^
+	* § 7° O Comitê Gestor do Imposto sobre Bens e Serviços e a administração tributária da União poderão implementar soluções integradas para a administração e cobrança dos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^fc667bd
 
-	*   L              . [[#^|-A]]  [[#^|]], [[#^|V]]. (I  E C  ,  ) ^
+	* § 8° Lei complementar poderá prever a integração do contencioso administrativo relativo aos tributos previstos nos arts. [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^ad15f6a|V]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^743969b
 
-### ... SEÇÃO VI - DA REPARTIÇÃO DAS RECEITAS TRIBUTÁRIAS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO VI - DA REPARTIÇÃO DAS RECEITAS TRIBUTÁRIAS (ARTS.  A )|R]]
+### 6.1.6. SEÇÃO VI - DA REPARTIÇÃO DAS RECEITAS TRIBUTÁRIAS (ARTS. 157 A 162)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.1.6. SEÇÃO VI - DA REPARTIÇÃO DAS RECEITAS TRIBUTÁRIAS (ARTS. 157 A 162)|Resumo]]
 
-* A. . P  E   D : ^
+* Art. 157. Pertencem aos Estados e ao Distrito Federal: ^dcc29bd
 
-	* I -        U       z,   ,   ,   ,  ,         ; ^
+	* I - o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem; ^09854f7
 
-	* II -            U           . [[#^|]], [[#^|I]]. ^
+	* II - vinte por cento do produto da arrecadação do imposto que a União instituir no exercício da competência que lhe é atribuída pelo art. [[#^f00bcde|154]], [[#^f41f7cb|I]]. ^af083c8
 
-* A. . P  M: ^
+* Art. 158. Pertencem aos Municípios: ^bfd7c36
 
-	* I -        U       z,   ,   ,   ,  ,         ; ^
+	* I - o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem; ^94a50dc
 
-	* II -           U     ,     ,             . [[#^|]],  [[#^|]], [[#^|III]]; (R   E C  ,  ..) (R) ^
+	* II - cinqüenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial rural, relativamente aos imóveis neles situados, cabendo a totalidade na hipótese da opção a que se refere o art. [[#^b48cd87|153]], § [[#^387f9c6|4°]], [[#^63ce80a|III]]; (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) (Regulamento) ^5f3032b
 
-	* III - % (  )        E           ,       ,       ; (R   E C  ,  ) ^
+	* III - 50% (cinquenta por cento) do produto da arrecadação do imposto do Estado sobre a propriedade de veículos automotores licenciados em seus territórios e, em relação a veículos aquáticos e aéreos, cujos proprietários sejam domiciliados em seus territórios; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^4279ecf
 
-	* IV - % (    ): (R   E C  ,  ) ^
+	* IV - 25% (vinte e cinco por cento): (Redação dada pela Emenda Constitucional n° 132, de 2023) ^a7b10c1
 
-		* )        E                    ; (I  E C  ,  ) (V E C  ,  ) V ^
+		* a) do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação; (Incluído pela Emenda Constitucional n° 132, de 2023) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^ee39e5b
 
-		* )         . [[#^|-A]]   E. (I  E C  ,  ) ^
+		* b) do produto da arrecadação do imposto previsto no art. [[#^1a749c5|156-A]] distribuída aos Estados. (Incluído pela Emenda Constitucional n° 132, de 2023) ^967ebcb
 
-	*   A      M    [[#^|IV]], "[[#^|]]",      : (I  E C  ,  ) (V E C  ,  ) V ^
+	* § 1° As parcelas de receita pertencentes aos Municípios mencionadas no inciso [[#^a7b10c1|IV]], "[[#^ee39e5b|a]]", serão creditadas conforme os seguintes critérios: (Incluído pela Emenda Constitucional n° 132, de 2023) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^c62f370
 
-		* I - % (    ),  ,                 , z   ; (R   E C  ,  ) ^
+		* I - 65% (sessenta e cinco por cento), no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios; (Redação dada pela Emenda Constitucional n° 108, de 2020) ^639b767
 
-		* II -  % (    ),        , , ,   ,  ,  (z)            z     ,      . (R   E C  ,  ) ^
+		* II - até 35% (trinta e cinco por cento), de acordo com o que dispuser lei estadual, observada, obrigatoriamente, a distribuição de, no mínimo, 10 (dez) pontos percentuais com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico dos educandos. (Redação dada pela Emenda Constitucional n° 108, de 2020) ^38727a6
 
-	*   A      M    [[#^|IV]], "[[#^|]]",      : (I  E C  ,  ) ^
+	* § 2° As parcelas de receita pertencentes aos Municípios mencionadas no inciso [[#^a7b10c1|IV]], "[[#^967ebcb|b]]", serão creditadas conforme os seguintes critérios: (Incluído pela Emenda Constitucional n° 132, de 2023) ^ca3ed3b
 
-		* I - % (  )    ; (I  E C  ,  ) ^
+		* I - 80% (oitenta por cento) na proporção da população; (Incluído pela Emenda Constitucional n° 132, de 2023) ^934e01d
 
-		* II - % (z  )          z     ,      ,        ; (I  E C  ,  ) ^
+		* II - 10% (dez por cento) com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico dos educandos, de acordo com o que dispuser lei estadual; (Incluído pela Emenda Constitucional n° 132, de 2023) ^70d4c7b
 
-		* III - % (  )       ,        ; (I  E C  ,  ) ^
+		* III - 5% (cinco por cento) com base em indicadores de preservação ambiental, de acordo com o que dispuser lei estadual; (Incluído pela Emenda Constitucional n° 132, de 2023) ^3a38237
 
-		* IV - % (  )       M  E. (I  E C  ,  ) ^
+		* IV - 5% (cinco por cento) em montantes iguais para todos os Municípios do Estado. (Incluído pela Emenda Constitucional n° 132, de 2023) ^1708572
 
-* A. . A U : (V E C  ,  ) ^
+* Art. 159. A União entregará: (Vide Emenda Constitucional n° 55, de 2007) ^835537a
 
-	* I -             z    z      . [[#^|]], [[#^|VIII]], % (  ),   : (R   E C  ,  ) ^
+	* I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados e do imposto previsto no art. [[#^b48cd87|153]], [[#^bf115cb|VIII]], 50% (cinquenta por cento), da seguinte forma: (Redação dada pela Emenda Constitucional n° 132, de 2023) ^9cfe31b
 
-		* )             P  E   D ; (V L C  ,  ) (R) ^
+		* a) vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal; (Vide Lei Complementar n° 62, de 1989) (Regulamento) ^5b9d1e6
 
-		* )             P  M; (V L C  ,  ) (R) ^
+		* b) vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios; (Vide Lei Complementar n° 62, de 1989) (Regulamento) ^b0cac88
 
-		* )   ,           R N, N  C-O,        ,        ,    -  N       R,      ; (R) ^
+		* c) três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos destinados à Região, na forma que a lei estabelecer; (Regulamento) ^1c40af2
 
-		* )       P  M,          z   ; (I  E C  ,  ) ^
+		* d) um por cento ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de dezembro de cada ano; (Incluído pela Emenda Constitucional n° 55, de 2007) ^205906f
 
-		* ) % (  )    P  M,             ; (I  E C  ,  ) ^
+		* e) 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de julho de cada ano; (Incluída pela Emenda Constitucional n° 84, de 2014) ^e661787
 
-		* ) % (  )    P  M,             ; (I  E C  ,  ) P   ^
+		* f) 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de setembro de cada ano; (Incluído pela Emenda Constitucional n° 112, de 2021) Produção de efeitos ^fe328a1
 
-	* II -         z      . [[#^|]], [[#^|VIII]], % (z  )  E   D ,         z; (R   E C  ,  ) ^
+	* II - do produto da arrecadação do imposto sobre produtos industrializados e do imposto previsto no art. [[#^b48cd87|153]], [[#^bf115cb|VIII]], 10% (dez por cento) aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^9cd5881
 
-	* III -              . [[#^|]],  [[#^|]], % (    )   E   D ,     ,          "[[#^|]]"  "[[#^|]]"   [[#^|II]]   . (R   E C  ,  ) ^
+	* III - do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. [[#^87f64df|177]], § [[#^3925781|4°]], 29% (vinte e nove por cento) para os Estados e o Distrito Federal, distribuídos na forma da lei, observadas as destinações a que se referem as alíneas "[[#^c59c1ac|c]]" e "[[#^fa1a7ae|d]]" do inciso [[#^6115727|II]] do referido parágrafo. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^751ee54
 
-	*   P                [[#^|I]], --             z   E,  D    M,      . [[#^|]], [[#^|I]],  [[#^|]], [[#^|I]]. ^
+	* § 1° Para efeito de cálculo da entrega a ser efetuada de acordo com o previsto no inciso [[#^9cfe31b|I]], excluir-se-á a parcela da arrecadação do imposto de renda e proventos de qualquer natureza pertencente aos Estados, ao Distrito Federal e aos Municípios, nos termos do disposto nos arts. [[#^dcc29bd|157]], [[#^09854f7|I]], e [[#^bfd7c36|158]], [[#^94a50dc|I]]. ^008bff8
 
-	*   A                     [[#^|II]],          , ,    ,      . ^
+	* § 2° A nenhuma unidade federada poderá ser destinada parcela superior a vinte por cento do montante a que se refere o inciso [[#^9cd5881|II]], devendo o eventual excedente ser distribuído entre os demais participantes, mantido, em relação a esses, o critério de partilha nele estabelecido. ^ff0b301
 
-	*   O E    M % (    )         [[#^|II]]    ,      . [[#^|]],  [[#^|]],         z,   . [[#^|]],  [[#^|]],         . [[#^|]], [[#^|VIII]]. (R   E C  ,  ) ^
+	* § 3° Os Estados entregarão aos respectivos Municípios 25% (vinte e cinco por cento) dos recursos que receberem nos termos do inciso [[#^9cd5881|II]] do caput deste artigo, observados os critérios estabelecidos no art. [[#^bfd7c36|158]], § [[#^c62f370|1°]], para a parcela relativa ao imposto sobre produtos industrializados, e no art. [[#^bfd7c36|158]], § [[#^ca3ed3b|2°]], para a parcela relativa ao imposto previsto no art. [[#^b48cd87|153]], [[#^bf115cb|VIII]]. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^927efca
 
-	*   D         [[#^|III]]     E,          M,           . (I  E C  ,  ..) ^
+	* § 4° Do montante de recursos de que trata o inciso [[#^751ee54|III]] que cabe a cada Estado, vinte e cinco por cento serão destinados aos seus Municípios, na forma da lei a que se refere o mencionado inciso. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^c275e2d
 
-* A. -A.     N  D R,     z     ,    . [[#^|]], [[#^|III]],       U  E   D  : (I  E C  ,  ) ^
+* Art. 159-A. Fica instituído o Fundo Nacional de Desenvolvimento Regional, com o objetivo de reduzir as desigualdades regionais e sociais, nos termos do art. [[#^197f612|3°]], [[#^236dbcc|III]], mediante a entrega de recursos da União aos Estados e ao Distrito Federal para: (Incluído pela Emenda Constitucional n° 132, de 2023) ^ff14866
 
-	* I - z  ,     ; (I  E C  ,  ) ^
+	* I - realização de estudos, projetos e obras de infraestrutura; (Incluído pela Emenda Constitucional n° 132, de 2023) ^48c0f65
 
-	* II -             ,        ;  (I  E C  ,  ) ^
+	* II - fomento a atividades produtivas com elevado potencial de geração de emprego e renda, incluindo a concessão de subvenções econômicas e financeiras; e (Incluído pela Emenda Constitucional n° 132, de 2023) ^2158739
 
-	* III -             . (I  E C  ,  ) ^
+	* III - promoção de ações com vistas ao desenvolvimento científico e tecnológico e à inovação. (Incluído pela Emenda Constitucional n° 132, de 2023) ^8392a12
 
-	*   É               . (I  E C  ,  ) ^
+	* § 1° É vedada a retenção ou qualquer restrição ao recebimento dos recursos de que trata o caput. (Incluído pela Emenda Constitucional n° 132, de 2023) ^aa89db7
 
-	*   N        ,  E   D  z             . (I  E C  ,  ) ^
+	* § 2° Na aplicação dos recursos de que trata o caput, os Estados e o Distrito Federal priorizarão projetos que prevejam ações de sustentabilidade ambiental e redução das emissões de carbono. (Incluído pela Emenda Constitucional n° 132, de 2023) ^45c5de0
 
-	*   O    ,   E   D             . (I  E C  ,  ) ^
+	* § 3° Observado o disposto neste artigo, caberá aos Estados e ao Distrito Federal a decisão quanto à aplicação dos recursos de que trata o caput. (Incluído pela Emenda Constitucional n° 132, de 2023) ^f2cf48f
 
-	*   O          E   D        ,           : (I  E C  ,  ) ^
+	* § 4° Os recursos de que trata o caput serão entregues aos Estados e ao Distrito Federal de acordo com coeficientes individuais de participação, calculados com base nos seguintes indicadores e com os seguintes pesos: (Incluído pela Emenda Constitucional n° 132, de 2023) ^4498ec1
 
-		* I -   E   D ,    % (  ); (I  E C  ,  ) ^
+		* I - população do Estado ou do Distrito Federal, com peso de 30% (trinta por cento); (Incluído pela Emenda Constitucional n° 132, de 2023) ^49835ad
 
-		* II -      E   D        . , I, "",  C ,    % (  ). (I  E C  ,  ) ^
+		* II - coeficiente individual de participação do Estado ou do Distrito Federal nos recursos de que trata o art. 159, I, "a", da Constituição Federal, com peso de 70% (setenta por cento). (Incluído pela Emenda Constitucional n° 132, de 2023) ^f6a8828
 
-	*   O T  C  U                   [[#^|]]. (I  E C  ,  ) ^
+	* § 5° O Tribunal de Contas da União será o órgão responsável por regulamentar e calcular os coeficientes individuais de participação de que trata o § [[#^4498ec1|4°]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^7376c3e
 
-* A. . É              ,  ,  E,  D    M,        . ^
+* Art. 160. É vedada a retenção ou qualquer restrição à entrega e ao emprego dos recursos atribuídos, nesta seção, aos Estados, ao Distrito Federal e aos Municípios, neles compreendidos adicionais e acréscimos relativos a impostos. ^aaae994
 
-	*   A        U   E      : (R  P   E C  ,  ) ^
+	* § 1° A vedação prevista neste artigo não impede a União e os Estados de condicionarem a entrega de recursos: (Renumerado do Parágrafo único pela Emenda Constitucional n° 113, de 2021) ^afcabcf
 
-		* I -     ,    ; (I  E C  ,  ) ^
+		* I - ao pagamento de seus créditos, inclusive de suas autarquias; (Incluído pela Emenda Constitucional n° 29, de 2000) ^02c3165
 
-		* II -      . [[#^|]],  [[#^|]],  [[#^|II]]  [[#^|III]]. (I  E C  ,  ) ^
+		* II - ao cumprimento do disposto no art. [[#^a8a5a19|198]], § [[#^d6a1b1d|2°]], incisos [[#^507eb71|II]] e [[#^1bbb461|III]]. (Incluído pela Emenda Constitucional n° 29, de 2000) ^ab98eea
 
-	*   O ,  ,  ,  ,          ,  ,   U        z                  P    . (I  E C  ,  ) ^
+	* § 2° Os contratos, os acordos, os ajustes, os convênios, os parcelamentos ou as renegociações de débitos de qualquer espécie, inclusive tributários, firmados pela União com os entes federativos conterão cláusulas para autorizar a dedução dos valores devidos dos montantes a serem repassados relacionados às respectivas cotas nos Fundos de Participação ou aos precatórios federais. (Incluído pela Emenda Constitucional n° 113, de 2021) ^01c433b
 
-* A. . C   : ^
+* Art. 161. Cabe à lei complementar: ^3a5a137
 
-	* I -         . [[#^|]],  [[#^|]], [[#^|I]]; (R   E C  ,  ) (V E C  ,  ) V ^
+	* I - definir valor adicionado para fins do disposto no art. [[#^bfd7c36|158]], § [[#^c62f370|1°]], [[#^639b767|I]]; (Redação dada pela Emenda Constitucional n° 132, de 2023) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^63c3346
 
-	* II -            . [[#^|]],             [[#^|I]],     -  E   M; ^
+	* II - estabelecer normas sobre a entrega dos recursos de que trata o art. [[#^835537a|159]], especialmente sobre os critérios de rateio dos fundos previstos em seu inciso [[#^63c3346|I]], objetivando promover o equilíbrio sócio-econômico entre Estados e entre Municípios; ^07be451
 
-	* III -    ,  ,            . [[#^|]], [[#^|]]  [[#^|]]. ^
+	* III - dispor sobre o acompanhamento, pelos beneficiários, do cálculo das quotas e da liberação das participações previstas nos arts. [[#^dcc29bd|157]], [[#^bfd7c36|158]] e [[#^835537a|159]]. ^594a97f
 
-	* P . O T  C  U                [[#^|II]]. ^
+	* Parágrafo único. O Tribunal de Contas da União efetuará o cálculo das quotas referentes aos fundos de participação a que alude o inciso [[#^07be451|II]]. ^dabbd94
 
-* A. . A U,  E,  D    M ,          ,        ,   ,                 . ^
+* Art. 162. A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o último dia do mês subseqüente ao da arrecadação, os montantes de cada um dos tributos arrecadados, os recursos recebidos, os valores de origem tributária entregues e a entregar e a expressão numérica dos critérios de rateio. ^b1c6744
 
-	* P . O    U    E   M;   E,  M. ^
+	* Parágrafo único. Os dados divulgados pela União serão discriminados por Estado e por Município; os dos Estados, por Município. ^bd0f979
 
-## .. CAPÍTULO II - DAS INANÇAS PÚBLICAS (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO II - DAS INANÇAS PÚBLICAS (ARTS.  A )|R]]
+## 6.2. CAPÍTULO II - DAS FINANÇAS PÚBLICAS (ARTS. 163 A 169)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.2. CAPÍTULO II - DAS FINANÇAS PÚBLICAS (ARTS. 163 A 169)|Resumo]]
 
-### ... SEÇÃO I - NORMAS GERAIS (ARTS.  A -A)
-[[NL/C    (C)/MOC/... SEÇÃO I - NORMAS GERAIS (ARTS.  A -A)|R]]
+### 6.2.1. SEÇÃO I - NORMAS GERAIS (ARTS. 163 A 164-A)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.2.1. SEÇÃO I - NORMAS GERAIS (ARTS. 163 A 164-A)|Resumo]]
 
-* A. . L   : ^
+* Art. 163. Lei complementar disporá sobre: ^400cad1
 
-	* I -  ; ^
+	* I - finanças públicas; ^af8b19b
 
-	* II -     ,    ,       P P; ^
+	* II - dívida pública externa e interna, incluída a das autarquias, fundações e demais entidades controladas pelo Poder Público; ^c3deb09
 
-	* III -      ; ^
+	* III - concessão de garantias pelas entidades públicas; ^1402c01
 
-	* IV -        ; ^
+	* IV - emissão e resgate de títulos da dívida pública; ^f76d6d8
 
-	* V - z       ; (R   E C  ,  ) ^
+	* V - fiscalização financeira da administração pública direta e indireta; (Redação dada pela Emenda Constitucional n° 40, de 2003) ^a241ade
 
-	* VI -    z      U,  E,  D    M; ^
+	* VI - operações de câmbio realizadas por órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios; ^fad8fd1
 
-	* VII - z         U,            . ^
+	* VII - compatibilização das funções das instituições oficiais de crédito da União, resguardadas as características e condições operacionais plenas das voltadas ao desenvolvimento regional. ^7d12de6
 
-	* VIII -   , : (I  E C  ,  ) ^
+	* VIII - sustentabilidade da dívida, especificando: (Incluído pela Emenda Constitucional n° 109, de 2021) ^7e96035
 
-		* )    ; (I  E C  ,  ) ^
+		* a) indicadores de sua apuração; (Incluído pela Emenda Constitucional n° 109, de 2021) ^c6fbb41
 
-		* )           ; (I  E C  ,  ) ^
+		* b) níveis de compatibilidade dos resultados fiscais com a trajetória da dívida; (Incluído pela Emenda Constitucional n° 109, de 2021) ^ed5dbc7
 
-		* )             ; (I  E C  ,  ) ^
+		* c) trajetória de convergência do montante da dívida com os limites definidos em legislação; (Incluído pela Emenda Constitucional n° 109, de 2021) ^6ede53a
 
-		* )   ,   ; (I  E C  ,  ) ^
+		* d) medidas de ajuste, suspensões e vedações; (Incluído pela Emenda Constitucional n° 109, de 2021) ^347a707
 
-		* )             . (I  E C  ,  ) ^
+		* e) planejamento de alienação de ativos com vistas à redução do montante da dívida. (Incluído pela Emenda Constitucional n° 109, de 2021) ^4e591fc
 
-	* IX -     ,         z . (I  E C  ,  ) ^
+	* IX - condições e limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária. (Incluído pela Emenda Constitucional n° 135, de 2024) ^a1a2801
 
-	* P . A        [[#^|VIII]]      z       . [[#^|-A]]  C. (I  E C  ,  ) ^
+	* Parágrafo único. A lei complementar de que trata o inciso [[#^7e96035|VIII]] do caput deste artigo pode autorizar a aplicação das vedações previstas no art. [[#^d70fb6b|167-A]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^49d55b8
 
-* A. -A. A U,  E,  D    M z     ,   ,  ,           U,      ,        ,            . (I  E C  ,  ) ^
+* Art. 163-A. A União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas informações e dados contábeis, orçamentários e fiscais, conforme periodicidade, formato e sistema estabelecidos pelo órgão central de contabilidade da União, de forma a garantir a rastreabilidade, a comparabilidade e a publicidade dos dados coletados, os quais deverão ser divulgados em meio eletrônico de amplo acesso público. (Incluído pela Emenda Constitucional n° 108, de 2020) ^baf16e5
 
-* A. . A   U         . ^
+* Art. 164. A competência da União para emitir moeda será exercida exclusivamente pelo banco central. ^6a61d5d
 
-	*   É     ,   ,   T N           . ^
+	* § 1° É vedado ao banco central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira. ^9d0f7ab
 
-	*   O           T N,              . ^
+	* § 2° O banco central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros. ^bb35cf0
 
-	*   A     U     ;   E,  D ,  M       P P      ,    ,      . ^
+	* § 3° As disponibilidades de caixa da União serão depositadas no banco central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei. ^de3541b
 
-* A. -A. A U,  E,  D    M  z             ,         [[#^|VIII]]    . [[#^|]]  C. (I  E C  ,  ) ^
+* Art. 164-A. A União, os Estados, o Distrito Federal e os Municípios devem conduzir suas políticas fiscais de forma a manter a dívida pública em níveis sustentáveis, na forma da lei complementar referida no inciso [[#^7e96035|VIII]] do caput do art. [[#^400cad1|163]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^f2a883c
 
-	* P . A                    . (I  E C  ,  ) ^
+	* Parágrafo único. A elaboração e a execução de planos e orçamentos devem refletir a compatibilidade dos indicadores fiscais com a sustentabilidade da dívida. (Incluído pela Emenda Constitucional n° 109, de 2021) ^2fc7858
 
-### ... SEÇÃO II - DOS ORÇAMENTOS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO II - DOS ORÇAMENTOS (ARTS.  A )|R]]
+### 6.2.2. SEÇÃO II - DOS ORÇAMENTOS (ARTS. 165 A 169)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.2.2. SEÇÃO II - DOS ORÇAMENTOS (ARTS. 165 A 169)|Resumo]]
 
-* A. . L    P E : ^
+* Art. 165. Leis de iniciativa do Poder Executivo estabelecerão: ^17f7c34
 
-	* I -   ; ^
+	* I - o plano plurianual; ^cfb6f52
 
-	* II -  z ; ^
+	* II - as diretrizes orçamentárias; ^b2d3113
 
-	* III -   . ^
+	* III - os orçamentos anuais. ^6b00484
 
-	*   A       ,   z,  z,                         . ^
+	* § 1° A lei que instituir o plano plurianual estabelecerá, de forma regionalizada, as diretrizes, objetivos e metas da administração pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada. ^0dcb151
 
-	*   A   z          ,   z      ,        ,       ,                   . (R   E C  ,  ) ^
+	* § 2° A lei de diretrizes orçamentárias compreenderá as metas e prioridades da administração pública federal, estabelecerá as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública, orientará a elaboração da lei orçamentária anual, disporá sobre as alterações na legislação tributária e estabelecerá a política de aplicação das agências financeiras oficiais de fomento. (Redação dada pela Emenda Constitucional n° 109, de 2021) ^8704a57
 
-	*   O P E ,         ,     . (V E   ,  ) ^
+	* § 3° O Poder Executivo publicará, até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária. (Vide Emenda constitucional n° 106, de 2020) ^a24d410
 
-	*   O    ,      C            C N. ^
+	* § 4° Os planos e programas nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo Congresso Nacional. ^ca94985
 
-	*   A    : ^
+	* § 5° A lei orçamentária anual compreenderá: ^be60b9e
 
-		* I -      P  U,  ,        ,       P P; ^
+		* I - o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público; ^8d90907
 
-		* II -          U,   ,          ; ^
+		* II - o orçamento de investimento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto; ^c7c314e
 
-		* III -     ,         ,     ,           P P. ^
+		* III - o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo Poder Público. ^d1b715e
 
-	*   O         z  ,     ,   , , ,     z ,   . ^
+	* § 6° O projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia. ^1d0fda6
 
-	*   O     [[#^|]], [[#^|I]]  [[#^|II]],  , z    ,       z  -,   . ^
+	* § 7° Os orçamentos previstos no § [[#^be60b9e|5°]], [[#^8d90907|I]] e [[#^c7c314e|II]], deste artigo, compatibilizados com o plano plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério populacional. ^677488d
 
-	*   A                ,       z           ,      ,    . ^
+	* § 8° A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei. ^4395aa0
 
-	*   C   : ^
+	* § 9° Cabe à lei complementar: ^08f239c
 
-		* I -     ,  ,  z,     z   ,    z      ; ^
+		* I - dispor sobre o exercício financeiro, a vigência, os prazos, a elaboração e a organização do plano plurianual, da lei de diretrizes orçamentárias e da lei orçamentária anual; ^62470c2
 
-		* II -                      . ^
+		* II - estabelecer normas de gestão financeira e patrimonial da administração direta e indireta bem como condições para a instituição e funcionamento de fundos. ^211eee0
 
-		* III -       ,            ,            ,   z     [[#^|]]  [[#^|]]  . [[#^|]]. (R   E C  ,  ) (P  ) (V ADI ) ^
+		* III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar e limitação das programações de caráter obrigatório, para a realização do disposto nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] do art. [[#^88327c6|166]]. (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^88470b6
 
-	*  . A         ,       ,              . (I  E C  ,  ) (P  ) (V ADI ) ^
+	* § 10. A administração tem o dever de executar as programações orçamentárias, adotando os meios e as medidas necessários, com o propósito de garantir a efetiva entrega de bens e serviços à sociedade. (Incluído pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^879098b
 
-	*  . O    [[#^|]]  ,      z : (I  E C  ,  ) (P  ) ^
+	* § 11. O disposto no § [[#^879098b|10]] deste artigo, nos termos da lei de diretrizes orçamentárias: (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^b21f2e5
 
-		* I - -                          ; ^
+		* I - subordina-se ao cumprimento de dispositivos constitucionais e legais que estabeleçam metas fiscais ou limites de despesas e não impede o cancelamento necessário à abertura de créditos adicionais; ^7d4d829
 
-		* II -            ; ^
+		* II - não se aplica nos casos de impedimentos de ordem técnica devidamente justificados; ^0a8adbb
 
-		* III - -     . ^
+		* III - aplica-se exclusivamente às despesas primárias discricionárias. ^b117f1e
 
-	*  . I    z ,        ,  ,    ()  ,                          . (I  E C  ,  ) (P  ) ^
+	* § 12. Integrará a lei de diretrizes orçamentárias, para o exercício a que se refere e, pelo menos, para os 2 (dois) exercícios subsequentes, anexo com previsão de agregados fiscais e a proporção dos recursos para investimentos que serão alocados na lei orçamentária anual para a continuidade daqueles em andamento. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^d492937
 
-	*  . O    [[#^|III]]   [[#^|]]    [[#^|]], [[#^|]]  [[#^|]]   -          U. (I  E C  ,  ) (P  ) ^
+	* § 13. O disposto no inciso [[#^88470b6|III]] do § [[#^08f239c|9°]] e nos §§ [[#^879098b|10]], [[#^b21f2e5|11]] e [[#^d492937|12]] deste artigo aplica-se exclusivamente aos orçamentos fiscal e da seguridade social da União. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^63ef3d5
 
-	*  . A           ,          . (I  E C  ,  ) (P  ) ^
+	* § 14. A lei orçamentária anual poderá conter previsões de despesas para exercícios seguintes, com a especificação dos investimentos plurianuais e daqueles em andamento. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^b20ba82
 
-	*  . A U z    z     ,  E  D ,  ,   ,           . (I  E C  ,  ) (P  ) ^
+	* § 15. A União organizará e manterá registro centralizado de projetos de investimento contendo, por Estado ou Distrito Federal, pelo menos, análises de viabilidade, estimativas de custos e informações sobre a execução física e financeira. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^9c782e7
 
-	*  . A        ,   ,              [[#^|]]  . [[#^|]]  C. (I  E C  ,  ) ^
+	* § 16. As leis de que trata este artigo devem observar, no que couber, os resultados do monitoramento e da avaliação das políticas públicas previstos no § [[#^51dd2e8|16]] do art. [[#^73a80b7|37]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^1562e0b
 
-	*  . P       [[#^|I]]   [[#^|]]  ,  P E  z  ,        ,       ,     z ,     z     ,     . (I  E C  ,  ) ^
+	* § 17. Para o cumprimento do disposto no inciso [[#^7d4d829|I]] do § [[#^b21f2e5|11]] deste artigo, o Poder Executivo poderá reduzir ou limitar, na elaboração e na execução das leis orçamentárias, as despesas com a concessão de subsídios, subvenções e benefícios de natureza financeira, inclusive os relativos a indenizações e restituições por perdas econômicas, observado o ato jurídico perfeito. (Incluído pela Emenda Constitucional n° 135, de 2024) ^5d2d3cd
 
-	*  . A      ,     z  P E         .   E C  ,    z  ,         . (I  E C  ,  ) ^
+	* § 18. A partir do exercício financeiro de 2026, serão excluídas do limite individualizado do Poder Executivo estabelecido na lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022, as despesas com precatórios e requisições de pequeno valor. (Incluído pela Emenda Constitucional n° 136, de 2025) ^8ab17db
 
-	*  . A   ,   z   P E             .   E C  ,    z  ,             ,  z          . -A  A  D C T           ,   IPCA,      . (I  E C  ,  ) ^
+	* § 19. A partir de 2026, o limite individualizado para o Poder Executivo é aquele estabelecido nos termos da lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022, considerados os créditos suplementares e especiais incorporados ao limite de despesa de 2025, e deduzido do valor correspondente ao limite de que trata o art. 107-A do Ato das Disposições Constitucionais Transitórias considerado para elaboração do projeto de lei orçamentária anual de 2025, corrigido pelo IPCA, nos termos da referida lei complementar. (Incluído pela Emenda Constitucional n° 136, de 2025) ^c879807
 
-	*  . O    [[#^|]]  [[#^|]]            z         .   E C  ,    z  . (I  E C  ,  ) ^
+	* § 20. O disposto nos §§ [[#^8ab17db|18]] e [[#^c879807|19]] deste artigo não implicará revisão da base de cálculo dos limites individualizados estabelecidos na lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022. (Incluído pela Emenda Constitucional n° 136, de 2025) ^6c545ec
 
-	*  . A   ,     U       ,       ,     . [[#^|]]  C,               z ,      , ,  , % (z  )     . (I  E C  ,  ) ^
+	* § 21. A partir de 2027, as despesas anuais da União com precatórios e requisições de pequeno valor, decorrentes de decisões judiciais transitadas em julgado, de que trata o art. [[#^615122f|100]] desta Constituição, serão incorporadas gradualmente na apuração da meta de resultado primário estabelecida na lei de diretrizes orçamentárias, de forma cumulativa a cada exercício, em, no mínimo, 10% (dez por cento) do montante previsto dessas despesas. (Incluído pela Emenda Constitucional n° 136, de 2025) ^2e38311
 
-	*  . P     ,             z           . -A  A  D C T. (I  E C  ,  ) ^
+	* § 22. Para o exercício financeiro de 2026, não será computado na meta de resultado primário estabelecida na lei de diretrizes orçamentárias o valor excedente ao limite de que trata o art. 107-A do Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 136, de 2025) ^f2055b4
 
-* A. . O       ,  z ,            C  C N,     . ^
+* Art. 166. Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na forma do regimento comum. ^88327c6
 
-	*   C   C    S  D: ^
+	* § 1° Caberá a uma Comissão mista permanente de Senadores e Deputados: ^6ae6c3a
 
-		* I -                  P  R; ^
+		* I - examinar e emitir parecer sobre os projetos referidos neste artigo e sobre as contas apresentadas anualmente pelo Presidente da República; ^1d8a936
 
-		* II -          ,      C       z ,  z       C N    C,      . [[#^|]]. ^
+		* II - examinar e emitir parecer sobre os planos e programas nacionais, regionais e setoriais previstos nesta Constituição e exercer o acompanhamento e a fiscalização orçamentária, sem prejuízo da atuação das demais comissões do Congresso Nacional e de suas Casas, criadas de acordo com o art. [[#^4b6567b|58]]. ^d5682c1
 
-	*   A     C ,     ,  ,   ,  P   C  C N. ^
+	* § 2° As emendas serão apresentadas na Comissão mista, que sobre elas emitirá parecer, e apreciadas, na forma regimental, pelo Plenário das duas Casas do Congresso Nacional. ^7215729
 
-	*   A                   : ^
+	* § 3° As emendas ao projeto de lei do orçamento anual ou aos projetos que o modifiquem somente podem ser aprovadas caso: ^17bbcf8
 
-		* I -            z ; ^
+		* I - sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias; ^886b6f7
 
-		* II -    ,        ,     : ^
+		* II - indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre: ^c0c0b8d
 
-			* )      ; ^
+			* a) dotações para pessoal e seus encargos; ^c87c601
 
-			* )   ; ^
+			* b) serviço da dívida; ^e0ccf1c
 
-			* )     E, M  D ;  ^
+			* c) transferências tributárias constitucionais para Estados, Municípios e Distrito Federal; ou ^f7b31d2
 
-		* III -  : ^
+		* III - sejam relacionadas: ^d6ab767
 
-			* )       ;  ^
+			* a) com a correção de erros ou omissões; ou ^acc7de2
 
-			* )         . ^
+			* b) com os dispositivos do texto do projeto de lei. ^db59ee2
 
-	*   A       z           . ^
+	* § 4° As emendas ao projeto de lei de diretrizes orçamentárias não poderão ser aprovadas quando incompatíveis com o plano plurianual. ^e77c80e
 
-	*   O P  R     C N                ,  C ,      . ^
+	* § 5° O Presidente da República poderá enviar mensagem ao Congresso Nacional para propor modificação nos projetos a que se refere este artigo enquanto não iniciada a votação, na Comissão mista, da parte cuja alteração é proposta. ^935d24b
 
-	*   O      ,  z         P  R  C N,           . [[#^|]],  [[#^|]]. ^
+	* § 6° Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão enviados pelo Presidente da República ao Congresso Nacional, nos termos da lei complementar a que se refere o art. [[#^17f7c34|165]], § [[#^08f239c|9°]]. ^0fd2ce9
 
-	*   A-     ,        ,       . ^
+	* § 7° Aplicam-se aos projetos mencionados neste artigo, no que não contrariar o disposto nesta seção, as demais normas relativas ao processo legislativo. ^0f131cd
 
-	*   O  ,    ,         ,       z,   ,     ,     z . ^
+	* § 8° Os recursos que, em decorrência de veto, emenda ou rejeição do projeto de lei orçamentária anual, ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa. ^5a2281d
 
-	*   A             % (  )            ,               . (R   E C  ,  ) (V ADI ) ^
+	* § 9° As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 2% (dois por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto, observado que a metade desse percentual será destinada a ações e serviços públicos de saúde. (Redação dada pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^a366198
 
-	*  -A D        [[#^|]]  , ,% (        )     D  ,% (     )   S. (I  E C  ,  ) (V ADI ) ^
+	* § 9°-A Do limite a que se refere o § [[#^a366198|9°]] deste artigo, 1,55% (um inteiro e cinquenta e cinco centésimos por cento) caberá às emendas de Deputados e 0,45% (quarenta e cinco centésimos por cento) às de Senadores. (Incluído pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^d9126b2
 
-	*  . A               [[#^|]],  ,         [[#^|I]]   [[#^|]]  . [[#^|]],          . (I  E C  ,  ) (V ADI ) ^
+	* § 10. A execução do montante destinado a ações e serviços públicos de saúde previsto no § [[#^a366198|9°]], inclusive custeio, será computada para fins do cumprimento do inciso [[#^4ebe8ce|I]] do § [[#^d6a1b1d|2°]] do art. [[#^a8a5a19|198]], vedada a destinação para pagamento de pessoal ou encargos sociais. (Incluído pela Emenda Constitucional n° 86, de 2015) (Vide ADI 7697) ^b95a2e2
 
-	*  . É            ,            [[#^|]]  ,                 [[#^|]]  . [[#^|]]  C,      [[#^|-A]]  . (R   E C  ,  ) (V ADI ) ^
+	* § 11. É obrigatória a execução orçamentária e financeira das programações oriundas de emendas individuais, em montante correspondente ao limite a que se refere o § [[#^a366198|9°]] deste artigo, conforme os critérios para a execução equitativa da programação definidos na lei complementar prevista no § [[#^08f239c|9°]] do art. [[#^17f7c34|165]] desta Constituição, observado o disposto no § [[#^d9126b2|9°-A]] deste artigo. (Redação dada pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^e4a921f
 
-	*  . A         [[#^|]]   -                E   D ,     % (  )     z   . (R   E C  ,  ) (P  ) (V) (V) (V ADI ) ^
+	* § 12. A garantia de execução de que trata o § [[#^e4a921f|11]] deste artigo aplica-se também às programações incluídas por todas as emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal, no montante de até 1% (um por cento) da receita corrente líquida realizada no exercício anterior. (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide) (Vide) (Vide ADI 7697) ^4759a33
 
-	*  . A      [[#^|]]  [[#^|]]              . (R   E C  ,  ) (P  ) (V ADI ) ^
+	* § 13. As programações orçamentárias previstas nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] deste artigo não serão de execução obrigatória nos casos dos impedimentos de ordem técnica. (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^5b5f800
 
-	*  . P        [[#^|]]  [[#^|]]  ,      ,      z ,                z     . (R   E C  ,  ) (P  ) (V ADI ) ^
+	* § 14. Para fins de cumprimento do disposto nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] deste artigo, os órgãos de execução deverão observar, nos termos da lei de diretrizes orçamentárias, cronograma para análise e verificação de eventuais impedimentos das programações e demais procedimentos necessários à viabilização da execução dos respectivos montantes. (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^b2d5db5
 
-		* I - (); (R   E C  ,  ) (P  ) ^
+		* I - (revogado); (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) ^d8fb292
 
-		* II - (); (R   E C  ,  ) (P  ) ^
+		* II - (revogado); (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) ^413c2b1
 
-		* III - (); (R   E C  ,  ) (P  ) ^
+		* III - (revogado); (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) ^4004bca
 
-		* IV - (). (R   E C  ,  ) (P  ) ^
+		* IV - (revogado). (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) ^af89602
 
-	*  . (R) (R   E C  ,  ) (P  ) ^
+	* § 15. (Revogado) (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) ^2d8c312
 
-	*  . Q     U         [[#^|]]  [[#^|]]      E,  D    M,                                   . [[#^|]]. (R   E C  ,  ) (P  ) (V ADI ) ^
+	* § 16. Quando a transferência obrigatória da União para a execução da programação prevista nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] deste artigo for destinada a Estados, ao Distrito Federal e a Municípios, independerá da adimplência do ente federativo destinatário e não integrará a base de cálculo da receita corrente líquida para fins de aplicação dos limites de despesa de pessoal de que trata o caput do art. [[#^7ac0258|169]]. (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^632ba5e
 
-	*  . O           [[#^|]]  [[#^|]]                 % (  )               ,      ,      ,% (   ),             E   D . (R   E C  ,  ) (V ADI ) ^
+	* § 17. Os restos a pagar provenientes das programações orçamentárias previstas nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] deste artigo poderão ser considerados para fins de cumprimento da execução financeira até o limite de 1% (um por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto de lei orçamentária, para as programações das emendas individuais, e até o limite de 0,5% (cinco décimos por cento), para as programações das emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal. (Redação dada pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^0d166d3
 
-	*  . S                         z ,      [[#^|]]  [[#^|]]     z               . (R   E C  ,  ) (P  ) (V ADI ) ^
+	* § 18. Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias, os montantes previstos nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] deste artigo poderão ser reduzidos em até a mesma proporção da limitação incidente sobre o conjunto das demais despesas discricionárias. (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^55d7da7
 
-	*  . C-                         ,   ,      [[#^|-A]]  . (R   E C  ,  ) (V ADI ) ^
+	* § 19. Considera-se equitativa a execução das programações de caráter obrigatório que observe critérios objetivos e imparciais e que atenda de forma igualitária e impessoal às emendas apresentadas, independentemente da autoria, observado o disposto no § [[#^d9126b2|9°-A]] deste artigo. (Redação dada pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^05eef7b
 
-	*  . A       [[#^|]]  ,              ()         ,         ,   ,        . (I  E C  ,  ) (P  ) (V ADI ) ^
+	* § 20. As programações de que trata o § [[#^4759a33|12]] deste artigo, quando versarem sobre o início de investimentos com duração de mais de 1 (um) exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda pela mesma bancada estadual, a cada exercício, até a conclusão da obra ou do empreendimento. (Incluído pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^39f6c18
 
-* A. -A. A               E,  D    M   : (I  E C  ,  ) (V ADI ) ^
+* Art. 166-A. As emendas individuais impositivas apresentadas ao projeto de lei orçamentária anual poderão alocar recursos a Estados, ao Distrito Federal e a Municípios por meio de: (Incluído pela Emenda Constitucional n° 105, de 2019) (Vide ADI 7697) ^707890a
 
-	* I -  ;  (I  E C  ,  ) ^
+	* I - transferência especial; ou (Incluído pela Emenda Constitucional n° 105, de 2019) ^9897336
 
-	* II -    . (I  E C  ,  ) ^
+	* II - transferência com finalidade definida. (Incluído pela Emenda Constitucional n° 105, de 2019) ^c515d31
 
-	*   O              E,  D    M                 ,     [[#^|]]  . [[#^|]],      , ,   ,               : (I  E C  ,  ) ^
+	* § 1° Os recursos transferidos na forma do caput deste artigo não integrarão a receita do Estado, do Distrito Federal e dos Municípios para fins de repartição e para o cálculo dos limites da despesa com pessoal ativo e inativo, nos termos do § [[#^632ba5e|16]] do art. [[#^88327c6|166]], e de endividamento do ente federado, vedada, em qualquer caso, a aplicação dos recursos a que se refere o caput deste artigo no pagamento de: (Incluído pela Emenda Constitucional n° 105, de 2019) ^69e497a
 
-		* I -           ,   ;  (I  E C  ,  ) ^
+		* I - despesas com pessoal e encargos sociais relativas a ativos e inativos, e com pensionistas; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^96c58de
 
-		* II -      . (I  E C  ,  ) ^
+		* II - encargos referentes ao serviço da dívida. (Incluído pela Emenda Constitucional n° 105, de 2019) ^4f03a82
 
-	*   N         [[#^|I]]    ,  : (I  E C  ,  ) ^
+	* § 2° Na transferência especial a que se refere o inciso [[#^9897336|I]] do caput deste artigo, os recursos: (Incluído pela Emenda Constitucional n° 105, de 2019) ^a6a35c8
 
-		* I -       ,         ; (I  E C  ,  ) ^
+		* I - serão repassados diretamente ao ente federado beneficiado, independentemente de celebração de convênio ou de instrumento congênere; (Incluído pela Emenda Constitucional n° 105, de 2019) ^1161ddc
 
-		* II -          ;  (I  E C  ,  ) ^
+		* II - pertencerão ao ente federado no ato da efetiva transferência financeira; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^5a48773
 
-		* III -           P E    ,      [[#^|]]  . (I  E C  ,  ) ^
+		* III - serão aplicadas em programações finalísticas das áreas de competência do Poder Executivo do ente federado beneficiado, observado o disposto no § [[#^b64b748|5°]] deste artigo. (Incluído pela Emenda Constitucional n° 105, de 2019) ^cc065d3
 
-	*   O             [[#^|I]]                       . (I  E C  ,  ) ^
+	* § 3° O ente federado beneficiado da transferência especial a que se refere o inciso [[#^9897336|I]] do caput deste artigo poderá firmar contratos de cooperação técnica para fins de subsidiar o acompanhamento da execução orçamentária na aplicação dos recursos. (Incluído pela Emenda Constitucional n° 105, de 2019) ^f26ef54
 
-	*   N           [[#^|II]]    ,   : (I  E C  ,  ) ^
+	* § 4° Na transferência com finalidade definida a que se refere o inciso [[#^c515d31|II]] do caput deste artigo, os recursos serão: (Incluído pela Emenda Constitucional n° 105, de 2019) ^8ece512
 
-		* I -       ;  (I  E C  ,  ) ^
+		* I - vinculados à programação estabelecida na emenda parlamentar; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^e164fbb
 
-		* II -        U. (I  E C  ,  ) ^
+		* II - aplicados nas áreas de competência constitucional da União. (Incluído pela Emenda Constitucional n° 105, de 2019) ^95b091e
 
-	*   P  % (  )         [[#^|I]]           ,          [[#^|II]]   [[#^|]]  . (I  E C  ,  ) ^
+	* § 5° Pelo menos 70% (setenta por cento) das transferências especiais de que trata o inciso [[#^9897336|I]] do caput deste artigo deverão ser aplicadas em despesas de capital, observada a restrição a que se refere o inciso [[#^4f03a82|II]] do § [[#^69e497a|1°]] deste artigo. (Incluído pela Emenda Constitucional n° 105, de 2019) ^b64b748
 
-* A. . S : ^
+* Art. 167. São vedados: ^68bd784
 
-	* I -            ; ^
+	* I - o início de programas ou projetos não incluídos na lei orçamentária anual; ^7a6e6b6
 
-	* II -  z               ; ^
+	* II - a realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais; ^debf5c7
 
-	* III -  z            ,   z        ,   P L   ; (V E   ,  ) ^
+	* III - a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta; (Vide Emenda constitucional n° 106, de 2020) ^51aabc4
 
-	* IV -        ,   ,               . [[#^|]]  [[#^|]],            ,         z     ,  , ,  . [[#^|]],  [[#^|]], [[#^|]]  [[#^|]], [[#^|XXII]],             ,   . [[#^|]],  [[#^|]],       [[#^|]]  ; (R   E C  ,  ..) ^
+	* IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. [[#^bfd7c36|158]] e [[#^835537a|159]], a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. [[#^a8a5a19|198]], § [[#^d6a1b1d|2°]], [[#^9ea8a92|212]] e [[#^73a80b7|37]], [[#^3a78ba0|XXII]], e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. [[#^17f7c34|165]], § [[#^4395aa0|8°]], bem como o disposto no § [[#^6551a0f|4°]] deste artigo; (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) ^e2bdce5
 
-	* V -          z       ; ^
+	* V - a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes; ^87f0bd4
 
-	* VI -  ,                    ,   z ; ^
+	* VI - a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra ou de um órgão para outro, sem prévia autorização legislativa; ^76504fa
 
-	* VII -    z   ; ^
+	* VII - a concessão ou utilização de créditos ilimitados; ^493d2cf
 
-	* VIII -  z,  z  ,                 ,   ,     . [[#^|]],  [[#^|]]; ^
+	* VIII - a utilização, sem autorização legislativa específica, de recursos dos orçamentos fiscal e da seguridade social para suprir necessidade ou cobrir déficit de empresas, fundações e fundos, inclusive dos mencionados no art. [[#^17f7c34|165]], § [[#^be60b9e|5°]]; ^4aa03cf
 
-	* IX -       z,   z . ^
+	* IX - a instituição de fundos de qualquer natureza, sem prévia autorização legislativa. ^0068cbf
 
-	* X -          ,     ,  G   E    ,       ,   ,  E,  D    M. (I  E C  ,  ) ^
+	* X - a transferência voluntária de recursos e a concessão de empréstimos, inclusive por antecipação de receita, pelos Governos Federal e Estaduais e suas instituições financeiras, para pagamento de despesas com pessoal ativo, inativo e pensionista, dos Estados, do Distrito Federal e dos Municípios. (Incluído pela Emenda Constitucional n° 19, de 1998) ^e8a26a4
 
-	* XI -  z           . [[#^|]], [[#^|I]], [[#^|]],  [[#^|II]],   z                  . [[#^|]]. (I  E C  ,  ) ^
+	* XI - a utilização dos recursos provenientes das contribuições sociais de que trata o art. [[#^dd51188|195]], [[#^30dea0e|I]], [[#^a786d6c|a]], e [[#^f2b89e6|II]], para a realização de despesas distintas do pagamento de benefícios do regime geral de previdência social de que trata o art. [[#^9cc8602|201]]. (Incluído pela Emenda Constitucional n° 20, de 1998) ^9b1d74c
 
-	* XII -            [[#^|]]  . [[#^|]],  z        ,         . [[#^|]],   z                     z    ; (I  E C  ,  ) ^
+	* XII - na forma estabelecida na lei complementar de que trata o § [[#^33c4f63|22]] do art. [[#^2bcc4ca|40]], a utilização de recursos de regime próprio de previdência social, incluídos os valores integrantes dos fundos previstos no art. [[#^53d0989|249]], para a realização de despesas distintas do pagamento dos benefícios previdenciários do respectivo fundo vinculado àquele regime e das despesas necessárias à sua organização e ao seu funcionamento; (Incluído pela Emenda Constitucional n° 103, de 2019) ^61410a5
 
-	* XIII -     ,    ,       U              E,  D    M         z         . (I  E C  ,  ) ^
+	* XIII - a transferência voluntária de recursos, a concessão de avais, as garantias e as subvenções pela União e a concessão de empréstimos e de financiamentos por instituições financeiras federais aos Estados, ao Distrito Federal e aos Municípios na hipótese de descumprimento das regras gerais de organização e de funcionamento de regime próprio de previdência social. (Incluído pela Emenda Constitucional n° 103, de 2019) ^3dc4038
 
-	* XIV -     ,                              . (I  E C  ,  ) ^
+	* XIV - a criação de fundo público, quando seus objetivos puderem ser alcançados mediante a vinculação de receitas orçamentárias específicas ou mediante a execução direta por programação orçamentária e financeira de órgão ou entidade da administração pública. (Incluído pela Emenda Constitucional n° 109, de 2021) ^de76e34
 
-	*   N                ,     z  ,      . ^
+	* § 1° Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de responsabilidade. ^a1cc4f7
 
-	*   O             z,      z        ,   ,      ,        . ^
+	* § 2° Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subseqüente. ^d93ff04
 
-	*   A              ,     ,     ,     . [[#^|]]. ^
+	* § 3° A abertura de crédito extraordinário somente será admitida para atender a despesas imprevisíveis e urgentes, como as decorrentes de guerra, comoção interna ou calamidade pública, observado o disposto no art. [[#^fee24d9|62]]. ^a9bc9a1
 
-	*   É           . [[#^|]], [[#^|]], [[#^|-A]], [[#^|]], [[#^|]]    "[[#^|]]", "[[#^|]]", "[[#^|]]", "[[#^|]]"  "[[#^|]]"   [[#^|I]]    [[#^|II]]    . [[#^|]]  C       U   -   . (R   E C  ,  ) ^
+	* § 4° É permitida a vinculação das receitas a que se referem os arts. [[#^c99e88e|155]], [[#^2e16bcd|156]], [[#^1a749c5|156-A]], [[#^dcc29bd|157]], [[#^bfd7c36|158]] e as alíneas "[[#^5b9d1e6|a]]", "[[#^b0cac88|b]]", "[[#^205906f|d]]", "[[#^e661787|e]]" e "[[#^fe328a1|f]]" do inciso [[#^7a6e6b6|I]] e o inciso [[#^9cd5881|II]] do caput do art. [[#^835537a|159]] desta Constituição para pagamento de débitos com a União e para prestar-lhe garantia ou contragarantia. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^6551a0f
 
-	*   A ,                 ,      ,   ,     z        ,    P E,     z     [[#^|VI]]  . (I  E C  ,  ) ^
+	* § 5° A transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra poderão ser admitidos, no âmbito das atividades de ciência, tecnologia e inovação, com o objetivo de viabilizar os resultados de projetos restritos a essas funções, mediante ato do Poder Executivo, sem necessidade da prévia autorização legislativa prevista no inciso [[#^76504fa|VI]] deste artigo. (Incluído pela Emenda Constitucional n° 85, de 2015) ^1e170cb
 
-	*   P                  [[#^|III]]    ,                          z   . (I  E C  ,  ) ^
+	* § 6° Para fins da apuração ao término do exercício financeiro do cumprimento do limite de que trata o inciso [[#^51aabc4|III]] do caput deste artigo, as receitas das operações de crédito efetuadas no contexto da gestão da dívida pública mobiliária federal somente serão consideradas no exercício financeiro em que for realizada a respectiva despesa. (Incluído pela Emenda Constitucional n° 109, de 2021) ^977e2f0
 
-	*   A              ,       ,   U,  E,  D    M,           z                ,                ,     [[#^|IV]]    . [[#^|]]  C. (I  E C  ,  ) ^
+	* § 7° A lei não imporá nem transferirá qualquer encargo financeiro decorrente da prestação de serviço público, inclusive despesas de pessoal e seus encargos, para a União, os Estados, o Distrito Federal ou os Municípios, sem a previsão de fonte orçamentária e financeira necessária à realização da despesa ou sem a previsão da correspondente transferência de recursos financeiros necessários ao seu custeio, ressalvadas as obrigações assumidas espontaneamente pelos entes federados e aquelas decorrentes da fixação do salário mínimo, na forma do inciso [[#^d137e98|IV]] do caput do art. [[#^0f410c4|7°]] desta Constituição. (Incluído pela Emenda Constitucional n° 128, de 2022) ^5679ec6
 
-* A. -A. A ,     (z) ,          % (    ),    E,  D    M,    P E, L  J,  M P,  T  C   D P  ,    ,         : (I  E C  ,  ) ^
+* Art. 167-A. Apurado que, no período de 12 (doze) meses, a relação entre despesas correntes e receitas correntes supera 95% (noventa e cinco por cento), no âmbito dos Estados, do Distrito Federal e dos Municípios, é facultado aos Poderes Executivo, Legislativo e Judiciário, ao Ministério Público, ao Tribunal de Contas e à Defensoria Pública do ente, enquanto permanecer a situação, aplicar o mecanismo de ajuste fiscal de vedação da: (Incluído pela Emenda Constitucional n° 109, de 2021) ^d70fb6b
 
-	* I - ,   ,  , ,         P   ,        ,                         ; (I  E C  ,  ) ^
+	* I - concessão, a qualquer título, de vantagem, aumento, reajuste ou adequação de remuneração de membros de Poder ou de órgão, de servidores e empregados públicos e de militares, exceto dos derivados de sentença judicial transitada em julgado ou de determinação legal anterior ao início da aplicação das medidas de que trata este artigo; (Incluído pela Emenda Constitucional n° 109, de 2021) ^ba86cea
 
-	* II -   ,        ; (I  E C  ,  ) ^
+	* II - criação de cargo, emprego ou função que implique aumento de despesa; (Incluído pela Emenda Constitucional n° 109, de 2021) ^7311a3c
 
-	* III -          ; (I  E C  ,  ) ^
+	* III - alteração de estrutura de carreira que implique aumento de despesa; (Incluído pela Emenda Constitucional n° 109, de 2021) ^aea3639
 
-	* IV -     ,   , : (I  E C  ,  ) ^
+	* IV - admissão ou contratação de pessoal, a qualquer título, ressalvadas: (Incluído pela Emenda Constitucional n° 109, de 2021) ^9ccac06
 
-		* )               ; (I  E C  ,  ) ^
+		* a) as reposições de cargos de chefia e de direção que não acarretem aumento de despesa; (Incluído pela Emenda Constitucional n° 109, de 2021) ^0e0ae72
 
-		* )          ; (I  E C  ,  ) ^
+		* b) as reposições decorrentes de vacâncias de cargos efetivos ou vitalícios; (Incluído pela Emenda Constitucional n° 109, de 2021) ^3faa63b
 
-		* )         [[#^|IX]]    . [[#^|]]  C;  (I  E C  ,  ) ^
+		* c) as contratações temporárias de que trata o inciso [[#^68b8c5a|IX]] do caput do art. [[#^73a80b7|37]] desta Constituição; e (Incluído pela Emenda Constitucional n° 109, de 2021) ^a155528
 
-		* )                  ; (I  E C  ,  ) ^
+		* d) as reposições de temporários para prestação de serviço militar e de alunos de órgãos de formação de militares; (Incluído pela Emenda Constitucional n° 109, de 2021) ^42092c5
 
-	* V - z   ,          [[#^|IV]]  ; (I  E C  ,  ) ^
+	* V - realização de concurso público, exceto para as reposições de vacâncias previstas no inciso [[#^9ccac06|IV]] deste caput; (Incluído pela Emenda Constitucional n° 109, de 2021) ^4b7cd4b
 
-	* VI -     , , , ,        z,     z,      P,  M P   D P         ,     ,                         ; (I  E C  ,  ) ^
+	* VI - criação ou majoração de auxílios, vantagens, bônus, abonos, verbas de representação ou benefícios de qualquer natureza, inclusive os de cunho indenizatório, em favor de membros de Poder, do Ministério Público ou da Defensoria Pública e de servidores e empregados públicos e de militares, ou ainda de seus dependentes, exceto quando derivados de sentença judicial transitada em julgado ou de determinação legal anterior ao início da aplicação das medidas de que trata este artigo; (Incluído pela Emenda Constitucional n° 109, de 2021) ^e56607a
 
-	* VII -    ; (I  E C  ,  ) ^
+	* VII - criação de despesa obrigatória; (Incluído pela Emenda Constitucional n° 109, de 2021) ^b29095d
 
-	* VIII -              ,          [[#^|IV]]    . [[#^|]]  C; (I  E C  ,  ) ^
+	* VIII - adoção de medida que implique reajuste de despesa obrigatória acima da variação da inflação, observada a preservação do poder aquisitivo referida no inciso [[#^d137e98|IV]] do caput do art. [[#^0f410c4|7°]] desta Constituição; (Incluído pela Emenda Constitucional n° 109, de 2021) ^6585cf9
 
-	* IX -         ,   ,              ; (I  E C  ,  ) ^
+	* IX - criação ou expansão de programas e linhas de financiamento, bem como remissão, renegociação ou refinanciamento de dívidas que impliquem ampliação das despesas com subsídios e subvenções; (Incluído pela Emenda Constitucional n° 109, de 2021) ^58a92e5
 
-	* X -         z . (I  E C  ,  ) ^
+	* X - concessão ou ampliação de incentivo ou benefício de natureza tributária. (Incluído pela Emenda Constitucional n° 109, de 2021) ^86187db
 
-	*   A      % (    )   ,         ,      ,     ,     C  P E   ,    P    -    . (I  E C  ,  ) ^
+	* § 1° Apurado que a despesa corrente supera 85% (oitenta e cinco por cento) da receita corrente, sem exceder o percentual mencionado no caput deste artigo, as medidas nele indicadas podem ser, no todo ou em parte, implementadas por atos do Chefe do Poder Executivo com vigência imediata, facultado aos demais Poderes e órgãos autônomos implementá-las em seus respectivos âmbitos. (Incluído pela Emenda Constitucional n° 109, de 2021) ^6972fc4
 
-	*   O       [[#^|]]     ,    ,    P L. (I  E C  ,  ) ^
+	* § 2° O ato de que trata o § [[#^6972fc4|1°]] deste artigo deve ser submetido, em regime de urgência, à apreciação do Poder Legislativo. (Incluído pela Emenda Constitucional n° 109, de 2021) ^fa70690
 
-	*   O    ,         , : (I  E C  ,  ) ^
+	* § 3° O ato perde a eficácia, reconhecida a validade dos atos praticados na sua vigência, quando: (Incluído pela Emenda Constitucional n° 109, de 2021) ^76dd8d0
 
-		* I -   P L; (I  E C  ,  ) ^
+		* I - rejeitado pelo Poder Legislativo; (Incluído pela Emenda Constitucional n° 109, de 2021) ^2823a7d
 
-		* II -   z   (  )        ;  (I  E C  ,  ) ^
+		* II - transcorrido o prazo de 180 (cento e oitenta) dias sem que se ultime a sua apreciação; ou (Incluído pela Emenda Constitucional n° 109, de 2021) ^34f6c31
 
-		* III -            [[#^|]]  ,       P L. (I  E C  ,  ) ^
+		* III - apurado que não mais se verifica a hipótese prevista no § [[#^6972fc4|1°]] deste artigo, mesmo após a sua aprovação pelo Poder Legislativo. (Incluído pela Emenda Constitucional n° 109, de 2021) ^42020da
 
-	*   A       z . (I  E C  ,  ) ^
+	* § 4° A apuração referida neste artigo deve ser realizada bimestralmente. (Incluído pela Emenda Constitucional n° 109, de 2021) ^19ecca5
 
-	*   A      : (I  E C  ,  ) ^
+	* § 5° As disposições de que trata este artigo: (Incluído pela Emenda Constitucional n° 109, de 2021) ^427441c
 
-		* I -                 ; (I  E C  ,  ) ^
+		* I - não constituem obrigação de pagamento futuro pelo ente da Federação ou direitos de outrem sobre o erário; (Incluído pela Emenda Constitucional n° 109, de 2021) ^d2b3bdf
 
-		* II -  ,                    . (I  E C  ,  ) ^
+		* II - não revogam, dispensam ou suspendem o cumprimento de dispositivos constitucionais e legais que disponham sobre metas fiscais ou limites máximos de despesas. (Incluído pela Emenda Constitucional n° 109, de 2021) ^2ee63fb
 
-	*   O         ,              P    ,       T  C,  : (I  E C  ,  ) ^
+	* § 6° Ocorrendo a hipótese de que trata o caput deste artigo, até que todas as medidas nele previstas tenham sido adotadas por todos os Poderes e órgãos nele mencionados, de acordo com declaração do respectivo Tribunal de Contas, é vedada: (Incluído pela Emenda Constitucional n° 109, de 2021) ^75b680e
 
-		* I -  ,      ,     ; (I  E C  ,  ) ^
+		* I - a concessão, por qualquer outro ente da Federação, de garantias ao ente envolvido; (Incluído pela Emenda Constitucional n° 109, de 2021) ^3c1b114
 
-		* II -                ,       , ,     ,       ,       ,                   . (I  E C  ,  ) ^
+		* II - a tomada de operação de crédito por parte do ente envolvido com outro ente da Federação, diretamente ou por intermédio de seus fundos, autarquias, fundações ou empresas estatais dependentes, ainda que sob a forma de novação, refinanciamento ou postergação de dívida contraída anteriormente, ressalvados os financiamentos destinados a projetos específicos celebrados na forma de operações típicas das agências financeiras oficiais de fomento. (Incluído pela Emenda Constitucional n° 109, de 2021) ^1a9bbb8
 
-* A. -B. D          ,   C N     P  R,  U     ,          ,            ,     . [[#^|-C]], [[#^|-D]], [[#^|-E]], [[#^|-]]  [[#^|-G]]  C. (I  E C  ,  ) ^
+* Art. 167-B. Durante a vigência de estado de calamidade pública de âmbito nacional, decretado pelo Congresso Nacional por iniciativa privativa do Presidente da República, a União deve adotar regime extraordinário fiscal, financeiro e de contratações para atender às necessidades dele decorrentes, somente naquilo em que a urgência for incompatível com o regime regular, nos termos definidos nos arts. [[#^322249c|167-C]], [[#^b2d15c7|167-D]], [[#^b0eb937|167-E]], [[#^0dcb548|167-F]] e [[#^ed3a2b5|167-G]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^e5ddbd9
 
-* A. -C. C               ,     ,  P E         ,     ,   ,     ,  ,         ,      [[#^|]]  . [[#^|]]        [[#^|IX]]    . [[#^|]]  C,           ,  z     . (I  E C  ,  ) ^
+* Art. 167-C. Com o propósito exclusivo de enfrentamento da calamidade pública e de seus efeitos sociais e econômicos, no seu período de duração, o Poder Executivo federal pode adotar processos simplificados de contratação de pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de condições a todos os concorrentes, dispensada a observância do § [[#^75891ed|1°]] do art. [[#^7ac0258|169]] na contratação de que trata o inciso [[#^68b8c5a|IX]] do caput do art. [[#^73a80b7|37]] desta Constituição, limitada a dispensa às situações de que trata o referido inciso, sem prejuízo do controle dos órgãos competentes. (Incluído pela Emenda Constitucional n° 109, de 2021) ^322249c
 
-* A. -D. A       P E             ,        ,         ,          ,                         z       . (I  E C  ,  ) ^
+* Art. 167-D. As proposições legislativas e os atos do Poder Executivo com propósito exclusivo de enfrentar a calamidade e suas consequências sociais e econômicas, com vigência e efeitos restritos à sua duração, desde que não impliquem despesa obrigatória de caráter continuado, ficam dispensados da observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa e à concessão ou à ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita. (Incluído pela Emenda Constitucional n° 109, de 2021) ^b2d15c7
 
-	* P . D             . [[#^|-B]],        [[#^|]]  . [[#^|]]  C. (I  E C  ,  ) ^
+	* Parágrafo único. Durante a vigência da calamidade pública de âmbito nacional de que trata o art. [[#^e5ddbd9|167-B]], não se aplica o disposto no § [[#^670fbef|3°]] do art. [[#^dd51188|195]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^2784e59
 
-* A. -E.  ,               ,     [[#^|III]]    . [[#^|]]  C. (I  E C  ,  ) ^
+* Art. 167-E. Fica dispensada, durante a integralidade do exercício financeiro em que vigore a calamidade pública de âmbito nacional, a observância do inciso [[#^51aabc4|III]] do caput do art. [[#^68bd784|167]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^b0eb937
 
-* A. -. D             . [[#^|-B]]  C: (I  E C  ,  ) ^
+* Art. 167-F. Durante a vigência da calamidade pública de âmbito nacional de que trata o art. [[#^e5ddbd9|167-B]] desta Constituição: (Incluído pela Emenda Constitucional n° 109, de 2021) ^0dcb548
 
-	* I -  ,            ,  ,        U       ,    ; (I  E C  ,  ) ^
+	* I - são dispensados, durante a integralidade do exercício financeiro em que vigore a calamidade pública, os limites, as condições e demais restrições aplicáveis à União para a contratação de operações de crédito, bem como sua verificação; (Incluído pela Emenda Constitucional n° 109, de 2021) ^a5d84e7
 
-	* II -        z                              . (I  E C  ,  ) ^
+	* II - o superávit financeiro apurado em 31 de dezembro do ano imediatamente anterior ao reconhecimento pode ser destinado à cobertura de despesas oriundas das medidas de combate à calamidade pública de âmbito nacional e ao pagamento da dívida pública. (Incluído pela Emenda Constitucional n° 109, de 2021) ^802f419
 
-	*   L     ,               . (I  E C  ,  ) ^
+	* § 1° Lei complementar pode definir outras suspensões, dispensas e afastamentos aplicáveis durante a vigência do estado de calamidade pública de âmbito nacional. (Incluído pela Emenda Constitucional n° 109, de 2021) ^a940f8f
 
-	*   O    [[#^|II]]           : (I  E C  ,  ) ^
+	* § 2° O disposto no inciso [[#^802f419|II]] do caput deste artigo não se aplica às fontes de recursos: (Incluído pela Emenda Constitucional n° 109, de 2021) ^c5f5a6a
 
-		* I -       E,  D    M; (I  E C  ,  ) ^
+		* I - decorrentes de repartição de receitas a Estados, ao Distrito Federal e a Municípios; (Incluído pela Emenda Constitucional n° 109, de 2021) ^12e14b2
 
-		* II -      . [[#^|]], [[#^|]], [[#^|]], [[#^|]], [[#^|-A]]  [[#^|]]  C; (I  E C  ,  ) ^
+		* II - decorrentes das vinculações estabelecidas pelos arts. [[#^dd51188|195]], [[#^a8a5a19|198]], [[#^9cc8602|201]], [[#^9ea8a92|212]], [[#^c55ad29|212-A]] e [[#^65ba57b|239]] desta Constituição; (Incluído pela Emenda Constitucional n° 109, de 2021) ^5bc8de3
 
-		* III -              ,                        . (I  E C  ,  ) ^
+		* III - destinadas ao registro de receitas oriundas da arrecadação de doações ou de empréstimos compulsórios, de transferências recebidas para o atendimento de finalidades determinadas ou das receitas de capital produto de operações de financiamento celebradas com finalidades contratualmente determinadas. (Incluído pela Emenda Constitucional n° 109, de 2021) ^9ba0053
 
-* A. -G. N      . [[#^|-B]], -  U,      ,     . [[#^|-A]]  C. (I  E C  ,  ) ^
+* Art. 167-G. Na hipótese de que trata o art. [[#^e5ddbd9|167-B]], aplicam-se à União, até o término da calamidade pública, as vedações previstas no art. [[#^d70fb6b|167-A]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^ed3a2b5
 
-	*   N                 ,         [[#^|II]], [[#^|IV]], [[#^|VII]], [[#^|IX]]  [[#^|X]]    . [[#^|-A]]  C. (I  E C  ,  ) ^
+	* § 1° Na hipótese de medidas de combate à calamidade pública cuja vigência e efeitos não ultrapassem a sua duração, não se aplicam as vedações referidas nos incisos [[#^7311a3c|II]], [[#^9ccac06|IV]], [[#^b29095d|VII]], [[#^58a92e5|IX]] e [[#^86187db|X]] do caput do art. [[#^d70fb6b|167-A]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^d8e6150
 
-	*   N      . [[#^|-B]],      "[[#^|]]"   [[#^|I]]    . [[#^|]]  C,                      . (I  E C  ,  ) ^
+	* § 2° Na hipótese de que trata o art. [[#^e5ddbd9|167-B]], não se aplica a alínea "[[#^1c40af2|c]]" do inciso [[#^9cfe31b|I]] do caput do art. [[#^835537a|159]] desta Constituição, devendo a transferência a que se refere aquele dispositivo ser efetuada nos mesmos montantes transferidos no exercício anterior à decretação da calamidade. (Incluído pela Emenda Constitucional n° 109, de 2021) ^d8e7cb0
 
-	*   É   E,  D    M       ,    , ,       ,       [[#^|]]  . [[#^|-A]]  C,       U. (I  E C  ,  ) ^
+	* § 3° É facultada aos Estados, ao Distrito Federal e aos Municípios a aplicação das vedações referidas no caput, nos termos deste artigo, e, até que as tenham adotado na integralidade, estarão submetidos às restrições do § [[#^75b680e|6°]] do art. [[#^d70fb6b|167-A]] desta Constituição, enquanto perdurarem seus efeitos para a União. (Incluído pela Emenda Constitucional n° 109, de 2021) ^fbad15a
 
-* A. . O     ,      ,     P L  J,  M P   D P, --        ,  ,           . [[#^|]],  [[#^|]]. (R   E C  ,  ) ^
+* Art. 168. Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. [[#^17f7c34|165]], § [[#^08f239c|9°]]. (Redação dada pela Emenda Constitucional n° 45, de 2004) ^d59e3b8
 
-	*   É            . (I  E C  ,  ) ^
+	* § 1° É vedada a transferência a fundos de recursos financeiros oriundos de repasses duodecimais. (Incluído pela Emenda Constitucional n° 109, de 2021) ^72f645c
 
-	*   O                    T   ,     z       . (I  E C  ,  ) ^
+	* § 2° O saldo financeiro decorrente dos recursos entregues na forma do caput deste artigo deve ser restituído ao caixa único do Tesouro do ente federativo, ou terá seu valor deduzido das primeiras parcelas duodecimais do exercício seguinte. (Incluído pela Emenda Constitucional n° 109, de 2021) ^b8c7ddb
 
-* A. . A          U,  E,  D    M         . (R   E C  ,  ) ^
+* Art. 169. A despesa com pessoal ativo e inativo e pensionistas da União, dos Estados, do Distrito Federal e dos Municípios não pode exceder os limites estabelecidos em lei complementar. (Redação dada pela Emenda Constitucional n° 109, de 2021) ^7ac0258
 
-	*   A        ,    ,         ,        ,   ,         ,        ,    : (R   ,  E C  ,  ) (V E   ,  ) ^
+	* § 1° A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos, empregos e funções ou alteração de estrutura de carreiras, bem como a admissão ou contratação de pessoal, a qualquer título, pelos órgãos e entidades da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo poder público, só poderão ser feitas: (Renumerado do parágrafo único, pela Emenda Constitucional n° 19, de 1998) (Vide Emenda constitucional n° 106, de 2020) ^75891ed
 
-		* I -                   ; (I  E C  ,  ) ^
+		* I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes; (Incluído pela Emenda Constitucional n° 19, de 1998) ^ca3861e
 
-		* II -   z     z ,          . (I  E C  ,  ) ^
+		* II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista. (Incluído pela Emenda Constitucional n° 19, de 1998) ^c465b5c
 
-	*   D  z              ,             E,  D    M      . (I  E C  ,  ) ^
+	* § 2° Decorrido o prazo estabelecido na lei complementar referida neste artigo para a adaptação aos parâmetros ali previstos, serão imediatamente suspensos todos os repasses de verbas federais ou estaduais aos Estados, ao Distrito Federal e aos Municípios que não observarem os referidos limites. (Incluído pela Emenda Constitucional n° 19, de 1998) ^755dd75
 
-	*   P         ,   z       ,  U,  E,  D    M    : (I  E C  ,  ) ^
+	* § 3° Para o cumprimento dos limites estabelecidos com base neste artigo, durante o prazo fixado na lei complementar referida no caput, a União, os Estados, o Distrito Federal e os Municípios adotarão as seguintes providências: (Incluído pela Emenda Constitucional n° 19, de 1998) ^a58883f
 
-		* I -                 ; (I  E C  ,  ) ^
+		* I - redução em pelo menos vinte por cento das despesas com cargos em comissão e funções de confiança; (Incluído pela Emenda Constitucional n° 19, de 1998) ^185e6b8
 
-		* II -     . (I  E C  ,  ) (V E C  ,  ) ^
+		* II - exoneração dos servidores não estáveis. (Incluído pela Emenda Constitucional n° 19, de 1998) (Vide Emenda Constitucional n° 19, de 1998) ^eb812c7
 
-	*   S                       ,       ,          P    ,          . (I  E C  ,  ) ^
+	* § 4° Se as medidas adotadas com base no parágrafo anterior não forem suficientes para assegurar o cumprimento da determinação da lei complementar referida neste artigo, o servidor estável poderá perder o cargo, desde que ato normativo motivado de cada um dos Poderes especifique a atividade funcional, o órgão ou unidade administrativa objeto da redução de pessoal. (Incluído pela Emenda Constitucional n° 19, de 1998) ^7a5afbe
 
-	*   O              z          . (I  E C  ,  ) ^
+	* § 5° O servidor que perder o cargo na forma do parágrafo anterior fará jus a indenização correspondente a um mês de remuneração por ano de serviço. (Incluído pela Emenda Constitucional n° 19, de 1998) ^3451416
 
-	*   O           ,     ,          z   . (I  E C  ,  ) ^
+	* § 6° O cargo objeto da redução prevista nos parágrafos anteriores será considerado extinto, vedada a criação de cargo, emprego ou função com atribuições iguais ou assemelhadas pelo prazo de quatro anos. (Incluído pela Emenda Constitucional n° 19, de 1998) ^66df8d6
 
-	*   L                [[#^|]]. (I  E C  ,  ) ^
+	* § 7° Lei federal disporá sobre as normas gerais a serem obedecidas na efetivação do disposto no § [[#^7a5afbe|4°]]. (Incluído pela Emenda Constitucional n° 19, de 1998) ^8b05aaa
 
-# . TÍTULO VII - DA ORDEM ECONÔMICA E INANCEIRA (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO VII - DA ORDEM ECONÔMICA E INANCEIRA (ARTS.  A )|R]]
+# 7. TÍTULO VII - DA ORDEM ECONÔMICA E FINANCEIRA (ARTS. 170 A 192)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/7. TÍTULO VII - DA ORDEM ECONÔMICA E FINANCEIRA (ARTS. 170 A 192)|Resumo]]
 
-## .. CAPÍTULO I - DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO I - DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA (ARTS.  A )|R]]
+## 7.1. CAPÍTULO I - DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA (ARTS. 170 A 181)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/7.1. CAPÍTULO I - DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA (ARTS. 170 A 181)|Resumo]]
 
-* A. . A  ,   z       ,        ,      ,    : ^
+* Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios: ^e04910c
 
-	* I -  ; ^
+	* I - soberania nacional; ^083f715
 
-	* II -  ; ^
+	* II - propriedade privada; ^17e052a
 
-	* III -    ; ^
+	* III - função social da propriedade; ^f602df7
 
-	* IV -  ; ^
+	* IV - livre concorrência; ^1b6e3e4
 
-	* V -   ; ^
+	* V - defesa do consumidor; ^f570bcf
 
-	* VI -    ,                    ; (R   E C  ,  ..) ^
+	* VI - defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação; (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) ^20ec175
 
-	* VII -      ; ^
+	* VII - redução das desigualdades regionais e sociais; ^b9be3ae
 
-	* VIII -    ; ^
+	* VIII - busca do pleno emprego; ^43d741c
 
-	* IX -                      P. (R   E C  ,  ) ^
+	* IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País. (Redação dada pela Emenda Constitucional n° 6, de 1995) ^48adf6a
 
-	* P . É          ,   z   ,      . (V L  .,  ) ^
+	* Parágrafo único. É assegurado a todos o livre exercício de qualquer atividade econômica, independentemente de autorização de órgãos públicos, salvo nos casos previstos em lei. (Vide Lei n° 13.874, de 2019) ^5ced6ea
 
-	*   - . (R  E C  ,  )
+	* § 2° - . (Revogado pela Emenda Constitucional n° 6, de 1995)
 
-* A. . A  ,     ,     ,         . ^
+* Art. 172. A lei disciplinará, com base no interesse nacional, os investimentos de capital estrangeiro, incentivará os reinvestimentos e regulará a remessa de lucros. ^1015a94
 
-* A. . R     C,        E               ,    . ^
+* Art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta de atividade econômica pelo Estado só será permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei. ^743ea35
 
-	*   A        ,                 z       ,  : (R   E C  ,  ) ^
+	* § 1° A lei estabelecerá o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, dispondo sobre: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^f1a0d52
 
-		* I -       z  E   ; (I  E C  ,  ) ^
+		* I - sua função social e formas de fiscalização pelo Estado e pela sociedade; (Incluído pela Emenda Constitucional n° 19, de 1998) ^e437236
 
-		* II -         ,       , ,   ; (I  E C  ,  ) ^
+		* II - a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários; (Incluído pela Emenda Constitucional n° 19, de 1998) ^efa3be8
 
-		* III -     , ,   ,      ; (I  E C  ,  ) ^
+		* III - licitação e contratação de obras, serviços, compras e alienações, observados os princípios da administração pública; (Incluído pela Emenda Constitucional n° 19, de 1998) ^70d0450
 
-		* IV -           ,      ; (I  E C  ,  ) ^
+		* IV - a constituição e o funcionamento dos conselhos de administração e fiscal, com a participação de acionistas minoritários; (Incluído pela Emenda Constitucional n° 19, de 1998) ^07235c9
 
-		* V -  ,         . (I  E C  ,  ) ^
+		* V - os mandatos, a avaliação de desempenho e a responsabilidade dos administradores. (Incluído pela Emenda Constitucional n° 19, de 1998) ^a100934
 
-	*   A           z         . ^
+	* § 2° As empresas públicas e as sociedades de economia mista não poderão gozar de privilégios fiscais não extensivos às do setor privado. ^9a441ce
 
-	*   A          E   . ^
+	* § 3° A lei regulamentará as relações da empresa pública com o Estado e a sociedade. ^5adfe41
 
-	*   A             ,          . ^
+	* § 4° A lei reprimirá o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros. ^71cc069
 
-	*   A ,  z        ,    , -      z,              . ^
+	* § 5° A lei, sem prejuízo da responsabilidade individual dos dirigentes da pessoa jurídica, estabelecerá a responsabilidade desta, sujeitando-a às punições compatíveis com sua natureza, nos atos praticados contra a ordem econômica e financeira e contra a economia popular. ^7ffce7c
 
-* A. . C       ,  E ,    ,    z,   ,             . (V L  .,  ) ^
+* Art. 174. Como agente normativo e regulador da atividade econômica, o Estado exercerá, na forma da lei, as funções de fiscalização, incentivo e planejamento, sendo este determinante para o setor público e indicativo para o setor privado. (Vide Lei n° 13.874, de 2019) ^f8ecfcf
 
-	*   A    z        ,     z       . ^
+	* § 1° A lei estabelecerá as diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, o qual incorporará e compatibilizará os planos nacionais e regionais de desenvolvimento. ^644adb5
 
-	*   A           . ^
+	* § 2° A lei apoiará e estimulará o cooperativismo e outras formas de associativismo. ^eaad81e
 
-	*   O E   z     ,            -  . ^
+	* § 3° O Estado favorecerá a organização da atividade garimpeira em cooperativas, levando em conta a proteção do meio ambiente e a promoção econômico-social dos garimpeiros. ^266d8a1
 
-	*   A            z          z   ,     ,        . [[#^|]], [[#^|XXV]],    . ^
+	* § 4° As cooperativas a que se refere o parágrafo anterior terão prioridade na autorização ou concessão para pesquisa e lavra dos recursos e jazidas de minerais garimpáveis, nas áreas onde estejam atuando, e naquelas fixadas de acordo com o art. [[#^41903be|21]], [[#^2d712cb|XXV]], na forma da lei. ^5689425
 
-* A. . I  P P,    ,        ,    ,     . ^
+* Art. 175. Incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos. ^bba266e
 
-	* P . A   : ^
+	* Parágrafo único. A lei disporá sobre: ^969ca65
 
-		* I -          ,          ,      , z      ; ^
+		* I - o regime das empresas concessionárias e permissionárias de serviços públicos, o caráter especial de seu contrato e de sua prorrogação, bem como as condições de caducidade, fiscalização e rescisão da concessão ou permissão; ^1a6104f
 
-		* II -    ; ^
+		* II - os direitos dos usuários; ^446b33a
 
-		* III -  ; ^
+		* III - política tarifária; ^1fa0bee
 
-		* IV -      . ^
+		* IV - a obrigação de manter serviço adequado. ^cbf6d55
 
-* A. . A z,    ,                ,      ,    U,         . ^
+* Art. 176. As jazidas, em lavra ou não, e demais recursos minerais e os potenciais de energia hidráulica constituem propriedade distinta da do solo, para efeito de exploração ou aproveitamento, e pertencem à União, garantida ao concessionário a propriedade do produto da lavra. ^f1d46ea
 
-	*   A                  ""        z    U,   ,                  P,    ,                 . (R   E C  ,  ) ^
+	* § 1° A pesquisa e a lavra de recursos minerais e o aproveitamento dos potenciais a que se refere o "caput" deste artigo somente poderão ser efetuados mediante autorização ou concessão da União, no interesse nacional, por brasileiros ou empresa constituída sob as leis brasileiras e que tenha sua sede e administração no País, na forma da lei, que estabelecerá as condições específicas quando essas atividades se desenvolverem em faixa de fronteira ou terras indígenas. (Redação dada pela Emenda Constitucional n° 6, de 1995) ^64fe601
 
-	*   É          ,         . ^
+	* § 2° É assegurada participação ao proprietário do solo nos resultados da lavra, na forma e no valor que dispuser a lei. ^264837e
 
-	*   A z      z ,   z           ,   ,      . ^
+	* § 3° A autorização de pesquisa será sempre por prazo determinado, e as autorizações e concessões previstas neste artigo não poderão ser cedidas ou transferidas, total ou parcialmente, sem prévia anuência do poder concedente. ^8cbda72
 
-	*   N   z            z. ^
+	* § 4° Não dependerá de autorização ou concessão o aproveitamento do potencial de energia renovável de capacidade reduzida. ^1183d93
 
-* A. . C   U: ^
+* Art. 177. Constituem monopólio da União: ^87f64df
 
-	* I -       z         ; (V E C  ,  ) ^
+	* I - a pesquisa e a lavra das jazidas de petróleo e gás natural e outros hidrocarbonetos fluidos; (Vide Emenda Constitucional n° 9, de 1995) ^63cd8ef
 
-	* II -       ; ^
+	* II - a refinação do petróleo nacional ou estrangeiro; ^9af1024
 
-	* III -                ; ^
+	* III - a importação e exportação dos produtos e derivados básicos resultantes das atividades previstas nos incisos anteriores; ^1f672cd
 
-	* IV -                z  P,    ,    ,   ,        ; ^
+	* IV - o transporte marítimo do petróleo bruto de origem nacional ou de derivados básicos de petróleo produzidos no País, bem assim o transporte, por meio de conduto, de petróleo bruto, seus derivados e gás natural de qualquer origem; ^72becdd
 
-	* V -  ,  ,  ,  ,  z           ,      , z  z   z    ,    [[#^|]]  [[#^|]]   [[#^|XXIII]]    . [[#^|]]  C . (R   E C  ,  ) ^
+	* V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios e minerais nucleares e seus derivados, com exceção dos radioisótopos cuja produção, comercialização e utilização poderão ser autorizadas sob regime de permissão, conforme as alíneas [[#^a94ea99|b]] e [[#^95d6082|c]] do inciso [[#^9268855|XXIII]] do caput do art. [[#^41903be|21]] desta Constituição Federal. (Redação dada pela Emenda Constitucional n° 49, de 2006) ^43fe507
 
-	*   A U         z      [[#^|I]]  [[#^|IV]]        . (R   E C  ,  ) (V E C  ,  ) ^
+	* § 1° A União poderá contratar com empresas estatais ou privadas a realização das atividades previstas nos incisos [[#^63cd8ef|I]] a [[#^72becdd|IV]] deste artigo observadas as condições estabelecidas em lei. (Redação dada pela Emenda Constitucional n° 9, de 1995) (Vide Emenda Constitucional n° 9, de 1995) ^6e2dc39
 
-	*   A        [[#^|]]  : (I  E C  ,  ) (V E C  ,  ) ^
+	* § 2° A lei a que se refere o § [[#^6e2dc39|1°]] disporá sobre: (Incluído pela Emenda Constitucional n° 9, de 1995) (Vide Emenda Constitucional n° 9, de 1995) ^35202cd
 
-		* I -             ; (I  E C  ,  ) ^
+		* I - a garantia do fornecimento dos derivados de petróleo em todo o território nacional; (Incluído pela Emenda Constitucional n° 9, de 1995) ^8800d99
 
-		* II -    ; (I  E C  ,  ) ^
+		* II - as condições de contratação; (Incluído pela Emenda Constitucional n° 9, de 1995) ^4476a04
 
-		* III -           U; (I  E C  ,  ) ^
+		* III - a estrutura e atribuições do órgão regulador do monopólio da União; (Incluído pela Emenda Constitucional n° 9, de 1995) ^4a77148
 
-	*   A        z      . (R       E C  ,  ) ^
+	* § 3° A lei disporá sobre o transporte e a utilização de materiais radioativos no território nacional. (Renumerado de § 2° para 3° pela Emenda Constitucional n° 9, de 1995) ^b73e0e4
 
-	*   A                z     ,             : (I  E C  ,  ) ^
+	* § 4° A lei que instituir contribuição de intervenção no domínio econômico relativa às atividades de importação ou comercialização de petróleo e seus derivados, gás natural e seus derivados e álcool combustível deverá atender aos seguintes requisitos: (Incluído pela Emenda Constitucional n° 33, de 2001) ^3925781
 
-		* I -      : (I  E C  ,  ) ^
+		* I - a alíquota da contribuição poderá ser: (Incluído pela Emenda Constitucional n° 33, de 2001) ^85e5aaf
 
-			* )     ; (I  E C  ,  ) ^
+			* a) diferenciada por produto ou uso; (Incluído pela Emenda Constitucional n° 33, de 2001) ^7a04c8a
 
-			* )z      P E,        . [[#^|]],[[#^|III]], [[#^|]]; (I  E C  ,  ) ^
+			* b)reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. [[#^95551ec|150]],[[#^b33d22a|III]], [[#^876c2fe|b]]; (Incluído pela Emenda Constitucional n° 33, de 2001) ^a88a97d
 
-		* II -     : (I  E C  ,  ) ^
+		* II - os recursos arrecadados serão destinados: (Incluído pela Emenda Constitucional n° 33, de 2001) ^6115727
 
-			* )           ,         ; (I  E C  ,  ) ^
+			* a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás natural e seus derivados e derivados de petróleo; (Incluído pela Emenda Constitucional n° 33, de 2001) ^422ad7e
 
-			* )              ; (I  E C  ,  ) ^
+			* b) ao financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás; (Incluído pela Emenda Constitucional n° 33, de 2001) ^b78d273
 
-			* )      -  . (I  E C  ,  ) ^
+			* c) ao financiamento de programas de infra-estrutura de transportes. (Incluído pela Emenda Constitucional n° 33, de 2001) ^c59c1ac
 
-			* )            . (I  E C  ,  ) ^
+			* d) ao pagamento de subsídios a tarifas de transporte público coletivo de passageiros. (Incluído pela Emenda Constitucional n° 132, de 2023) ^fa1a7ae
 
-* A. . A        ,   , ,      ,      U,     . (R   E C  ,  ) ^
+* Art. 178. A lei disporá sobre a ordenação dos transportes aéreo, aquático e terrestre, devendo, quanto à ordenação do transporte internacional, observar os acordos firmados pela União, atendido o princípio da reciprocidade. (Redação dada pela Emenda Constitucional n° 7, de 1995) ^a342dd2
 
-	* P . N    ,                       . (I  E C  ,  ) ^
+	* Parágrafo único. Na ordenação do transporte aquático, a lei estabelecerá as condições em que o transporte de mercadorias na cabotagem e a navegação interior poderão ser feitos por embarcações estrangeiras. (Incluído pela Emenda Constitucional n° 7, de 1995) ^516fff2
 
-* A. . A U,  E,  D    M         ,    ,   ,   -      , ,   ,          . ^
+* Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução destas por meio de lei. ^0152bab
 
-* A. . A U,  E,  D    M            . ^
+* Art. 180. A União, os Estados, o Distrito Federal e os Municípios promoverão e incentivarão o turismo como fator de desenvolvimento social e econômico. ^736ff98
 
-* A. . O         z ,       ,          P   z  P . ^
+* Art. 181. O atendimento de requisição de documento ou informação de natureza comercial, feita por autoridade administrativa ou judiciária estrangeira, a pessoa física ou jurídica residente ou domiciliada no País dependerá de autorização do Poder competente. ^7f5f819
 
-## .. CAPÍTULO II - DA POLÍTICA URBANA (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO II - DA POLÍTICA URBANA (ARTS.  A )|R]]
+## 7.2. CAPÍTULO II - DA POLÍTICA URBANA (ARTS. 182 A 183)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/7.2. CAPÍTULO II - DA POLÍTICA URBANA (ARTS. 182 A 183)|Resumo]]
 
-* A. . A    ,   P P ,  z    ,                -    . (R) (V L  .,      ) ^
+* Art. 182. A política de desenvolvimento urbano, executada pelo Poder Público municipal, conforme diretrizes gerais fixadas em lei, tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e garantir o bem- estar de seus habitantes. (Regulamento) (Vide Lei n° 13.311, de 11 de julho de 2016) ^2111819
 
-	*   O  ,   C M,         ,            . ^
+	* § 1° O plano diretor, aprovado pela Câmara Municipal, obrigatório para cidades com mais de vinte mil habitantes, é o instrumento básico da política de desenvolvimento e de expansão urbana. ^4e61729
 
-	*   A                   . ^
+	* § 2° A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor. ^7b3a972
 
-	*   A           z  . ^
+	* § 3° As desapropriações de imóveis urbanos serão feitas com prévia e justa indenização em dinheiro. ^1ae68f4
 
-	*   É   P P ,         , ,     ,       , z   z,     ,  , , : ^
+	* § 4° É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado, subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena, sucessivamente, de: ^c7d2597
 
-		* I -    ; ^
+		* I - parcelamento ou edificação compulsórios; ^a36c090
 
-		* II -           ; ^
+		* II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo; ^72c8907
 
-		* III -              S ,  z     z ,   ,   ,      z    . ^
+		* III - desapropriação com pagamento mediante títulos da dívida pública de emissão previamente aprovada pelo Senado Federal, com prazo de resgate de até dez anos, em parcelas anuais, iguais e sucessivas, assegurados o valor real da indenização e os juros legais. ^116ed66
 
-* A. . A         z    ,   ,    , z-       , --  ,           . (R) ^
+* Art. 183. Aquele que possuir como sua área urbana de até duzentos e cinqüenta metros quadrados, por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural. (Regulamento) ^5172a54
 
-	*   O               ,   ,    . ^
+	* § 1° O título de domínio e a concessão de uso serão conferidos ao homem ou à mulher, ou a ambos, independentemente do estado civil. ^af54c4a
 
-	*   E           z. ^
+	* § 2° Esse direito não será reconhecido ao mesmo possuidor mais de uma vez. ^45ebf10
 
-	*   O       . ^
+	* § 3° Os imóveis públicos não serão adquiridos por usucapião. ^0b2489c
 
-## .. CAPÍTULO III - DA POLÍTICA AGRÍCOLA E UNDIÁRIA E DA REORMA AGRÁRIA REGULAMENTO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO III - DA POLÍTICA AGRÍCOLA E UNDIÁRIA E DA REORMA AGRÁRIA REGULAMENTO (ARTS.  A )|R]]
+## 7.3. CAPÍTULO III - DA POLÍTICA AGRÍCOLA E FUNDIÁRIA E DA REFORMA AGRÁRIA REGULAMENTO (ARTS. 184 A 191)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/7.3. CAPÍTULO III - DA POLÍTICA AGRÍCOLA E FUNDIÁRIA E DA REFORMA AGRÁRIA REGULAMENTO (ARTS. 184 A 191)|Resumo]]
 
-* A. . C  U    ,     ,          ,     z     ,       ,   z    ,        ,   z    . ^
+* Art. 184. Compete à União desapropriar por interesse social, para fins de reforma agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa indenização em títulos da dívida agrária, com cláusula de preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua emissão, e cuja utilização será definida em lei. ^0cf1f4b
 
-	*   A      z  . ^
+	* § 1° As benfeitorias úteis e necessárias serão indenizadas em dinheiro. ^d8f050c
 
-	*   O         ,     , z  U      . ^
+	* § 2° O decreto que declarar o imóvel como de interesse social, para fins de reforma agrária, autoriza a União a propor a ação de desapropriação. ^1c2fbbc
 
-	*   C       ,   ,      . ^
+	* § 3° Cabe à lei complementar estabelecer procedimento contraditório especial, de rito sumário, para o processo judicial de desapropriação. ^9074cf3
 
-	*   O           ,               . ^
+	* § 4° O orçamento fixará anualmente o volume total de títulos da dívida agrária, assim como o montante de recursos para atender ao programa de reforma agrária no exercício. ^32154de
 
-	*   S    ,               . ^
+	* § 5° São isentas de impostos federais, estaduais e municipais as operações de transferência de imóveis desapropriados para fins de reforma agrária. ^b64bde3
 
-* A. . S        : ^
+* Art. 185. São insuscetíveis de desapropriação para fins de reforma agrária: ^c341726
 
-	* I -      ,    ,       ; ^
+	* I - a pequena e média propriedade rural, assim definida em lei, desde que seu proprietário não possua outra; ^4c3dba1
 
-	* II -   . ^
+	* II - a propriedade produtiva. ^6eb98ed
 
-	* P . A                    . ^
+	* Parágrafo único. A lei garantirá tratamento especial à propriedade produtiva e fixará normas para o cumprimento dos requisitos relativos a sua função social. ^47c82e2
 
-* A. . A         , ,         ,   : ^
+* Art. 186. A função social é cumprida quando a propriedade rural atende, simultaneamente, segundo critérios e graus de exigência estabelecidos em lei, aos seguintes requisitos: ^8d17ca0
 
-	* I -    ; ^
+	* I - aproveitamento racional e adequado; ^4179ece
 
-	* II - z          ; ^
+	* II - utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente; ^fa8d88e
 
-	* III -         ; ^
+	* III - observância das disposições que regulam as relações de trabalho; ^6889b78
 
-	* IV -     -     . ^
+	* IV - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores. ^d893a62
 
-* A. . A          ,        ,     ,      z,  z   ,   , : ^
+* Art. 187. A política agrícola será planejada e executada na forma da lei, com a participação efetiva do setor de produção, envolvendo produtores e trabalhadores rurais, bem como dos setores de comercialização, de armazenamento e de transportes, levando em conta, especialmente: ^b039d9b
 
-	* I -     ; ^
+	* I - os instrumentos creditícios e fiscais; ^5cce460
 
-	* II -             z; ^
+	* II - os preços compatíveis com os custos de produção e a garantia de comercialização; ^a0e617a
 
-	* III -       ; ^
+	* III - o incentivo à pesquisa e à tecnologia; ^f47ad8c
 
-	* IV -      ; ^
+	* IV - a assistência técnica e extensão rural; ^60f7694
 
-	* V -   ; ^
+	* V - o seguro agrícola; ^54bf76f
 
-	* VI -  ; ^
+	* VI - o cooperativismo; ^db4a617
 
-	* VII -     ; ^
+	* VII - a eletrificação rural e irrigação; ^5e1087a
 
-	* VIII -      . ^
+	* VIII - a habitação para o trabalhador rural. ^9ced4b2
 
-	*   I-      -, ,   . ^
+	* § 1° Incluem-se no planejamento agrícola as atividades agro-industriais, agropecuárias, pesqueiras e florestais. ^5bb2cce
 
-	*   S z         . ^
+	* § 2° Serão compatibilizadas as ações de política agrícola e de reforma agrária. ^829706f
 
-* A. . A        z            . ^
+* Art. 188. A destinação de terras públicas e devolutas será compatibilizada com a política agrícola e com o plano nacional de reforma agrária. ^2725a16
 
-	*   A    ,   ,                 ,     ,      C N. ^
+	* § 1° A alienação ou a concessão, a qualquer título, de terras públicas com área superior a dois mil e quinhentos hectares a pessoa física ou jurídica, ainda que por interposta pessoa, dependerá de prévia aprovação do Congresso Nacional. ^c3b952a
 
-	*   E-                  . ^
+	* § 2° Excetuam-se do disposto no parágrafo anterior as alienações ou as concessões de terras públicas para fins de reforma agrária. ^3cb327c
 
-* A. . O                  ,   z  z . ^
+* Art. 189. Os beneficiários da distribuição de imóveis rurais pela reforma agrária receberão títulos de domínio ou de concessão de uso, inegociáveis pelo prazo de dez anos. ^fe80589
 
-	* P . O               ,   ,    ,       . ^
+	* Parágrafo único. O título de domínio e a concessão de uso serão conferidos ao homem ou à mulher, ou a ambos, independentemente do estado civil, nos termos e condições previstos em lei. ^9648ac9
 
-* A. . A                          z  C N. ^
+* Art. 190. A lei regulará e limitará a aquisição ou o arrendamento de propriedade rural por pessoa física ou jurídica estrangeira e estabelecerá os casos que dependerão de autorização do Congresso Nacional. ^1ed4515
 
-* A. . A ,        ,   ,    ,  ,   ,  z ,     , -        ,    , --  . ^
+* Art. 191. Aquele que, não sendo proprietário de imóvel rural ou urbano, possua como seu, por cinco anos ininterruptos, sem oposição, área de terra, em zona rural, não superior a cinqüenta hectares, tornando-a produtiva por seu trabalho ou de sua família, tendo nela sua moradia, adquirir-lhe-á a propriedade. ^9190cf6
 
-	* P . O       . ^
+	* Parágrafo único. Os imóveis públicos não serão adquiridos por usucapião. ^0e0f933
 
-## .. CAPÍTULO IV - DO SISTEMA INANCEIRO NACIONAL (ART. )
-[[NL/C    (C)/MOC/.. CAPÍTULO IV - DO SISTEMA INANCEIRO NACIONAL (ART. )|R]]
+## 7.4. CAPÍTULO IV - DO SISTEMA FINANCEIRO NACIONAL (ART. 192)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/7.4. CAPÍTULO IV - DO SISTEMA FINANCEIRO NACIONAL (ART. 192)|Resumo]]
 
-* A. . O   ,          P       ,       ,     ,       , ,           . (R   E C  ,  ) (V L  .,  ) ^
+* Art. 192. O sistema financeiro nacional, estruturado de forma a promover o desenvolvimento equilibrado do País e a servir aos interesses da coletividade, em todas as partes que o compõem, abrangendo as cooperativas de crédito, será regulado por leis complementares que disporão, inclusive, sobre a participação do capital estrangeiro nas instituições que o integram. (Redação dada pela Emenda Constitucional n° 40, de 2003) (Vide Lei n° 8.392, de 1991) ^7dcd148
 
-	* I - (R). (R   E C  ,  ) ^
+	* I - (Revogado). (Redação dada pela Emenda Constitucional n° 40, de 2003) ^1abe938
 
-	* II - (R). (R   E C  ,  ) ^
+	* II - (Revogado). (Redação dada pela Emenda Constitucional n° 40, de 2003) ^400dc97
 
-	* III - (R) (R   E C  ,  ) ^
+	* III - (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^2eb42c7
 
-		* ) (R) (R   E C  ,  ) ^
+		* a) (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^dd6870c
 
-		* ) (R) (R   E C  ,  ) ^
+		* b) (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^f2449e0
 
-	* IV - (R) (R   E C  ,  ) ^
+	* IV - (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^3f616d5
 
-	* V - (R) (R   E C  ,  ) ^
+	* V - (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^9c8e2f6
 
-	* VI - (R) (R   E C  ,  ) ^
+	* VI - (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^d058e98
 
-	* VII - (R) (R   E C  ,  ) ^
+	* VII - (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^6b0e3a4
 
-	* VIII - (R) (R   E C  ,  ) ^
+	* VIII - (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^d05416d
 
-	*   (R) (R   E C  ,  ) ^
+	* § 1° (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^d9fdc51
 
-	*   (R) (R   E C  ,  ) ^
+	* § 2° (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^c3b0bdb
 
-	*   (R) (R   E C  ,  ) ^
+	* § 3° (Revogado) (Redação dada pela Emenda Constitucional n° 40, de 2003) ^eb617c4
 
-# . TÍTULO VIII - DA ORDEM SOCIAL (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO VIII - DA ORDEM SOCIAL (ARTS.  A )|R]]
+# 8. TÍTULO VIII - DA ORDEM SOCIAL (ARTS. 193 A 232)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8. TÍTULO VIII - DA ORDEM SOCIAL (ARTS. 193 A 232)|Resumo]]
 
-## .. CAPÍTULO I - DISPOSIÇÃO GERAL (ART. )
-[[NL/C    (C)/MOC/.. CAPÍTULO I - DISPOSIÇÃO GERAL (ART. )|R]]
+## 8.1. CAPÍTULO I - DISPOSIÇÃO GERAL (ART. 193)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.1. CAPÍTULO I - DISPOSIÇÃO GERAL (ART. 193)|Resumo]]
 
-* A. . A         ,     -    . ^
+* Art. 193. A ordem social tem como base o primado do trabalho, e como objetivo o bem-estar e a justiça sociais. ^867971f
 
-	* P . O E        , ,    ,        ,  ,       . (I  E C  ,  ) ^
+	* Parágrafo único. O Estado exercerá a função de planejamento das políticas sociais, assegurada, na forma da lei, a participação da sociedade nos processos de formulação, de monitoramento, de controle e de avaliação dessas políticas. (Incluído pela Emenda Constitucional n° 108, de 2020) ^663ad96
 
-## .. CAPÍTULO II - DA SEGURIDADE SOCIAL (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO II - DA SEGURIDADE SOCIAL (ARTS.  A )|R]]
+## 8.2. CAPÍTULO II - DA SEGURIDADE SOCIAL (ARTS. 194 A 204)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.2. CAPÍTULO II - DA SEGURIDADE SOCIAL (ARTS. 194 A 204)|Resumo]]
 
-### ... SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS.  A )|R]]
+### 8.2.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 194 A 195)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.2.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 194 A 195)|Resumo]]
 
-* A. . A            P P   ,        ,      . ^
+* Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social. ^4b36c58
 
-	* P . C  P P,    , z   ,     : ^
+	* Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base nos seguintes objetivos: ^affe59b
 
-		* I -      ; ^
+		* I - universalidade da cobertura e do atendimento; ^42d5c77
 
-		* II -            ; ^
+		* II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais; ^7fd240b
 
-		* III -         ; ^
+		* III - seletividade e distributividade na prestação dos benefícios e serviços; ^c5c02b4
 
-		* IV -     ; ^
+		* IV - irredutibilidade do valor dos benefícios; ^40ea505
 
-		* V -       ; ^
+		* V - eqüidade na forma de participação no custeio; ^210002e
 
-		* VI -     , -,       ,          ,    ,       ; (R   E C  ,  ) ^
+		* VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis específicas para cada área, as receitas e as despesas vinculadas a ações de saúde, previdência e assistência social, preservado o caráter contributivo da previdência social; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^c32c334
 
-		* VII -    z  ,   ,    ,  ,     G   . (R   E C  ,  ) ^
+		* VII - caráter democrático e descentralizado da administração, mediante gestão quadripartite, com participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos colegiados. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^3d3ee58
 
-* A. . A        ,     ,    ,       U,  E,  D    M,     : (V E C  ,  ) ^
+* Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais: (Vide Emenda Constitucional n° 20, de 1998) ^dd51188
 
-	* I -  ,            ,  : (R   E C  ,  ) ^
+	* I - do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre: (Redação dada pela Emenda Constitucional n° 20, de 1998) ^30dea0e
 
-		* )            ,   ,       ,    ; (I  E C  ,  ) ^
+		* a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício; (Incluído pela Emenda Constitucional n° 20, de 1998) ^a786d6c
 
-		* )     ; (I  E C  ,  ) (V E C  ,  ) V ^
+		* b) a receita ou o faturamento; (Incluído pela Emenda Constitucional n° 20, de 1998) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^023d173
 
-		* )  ; (I  E C  ,  ) ^
+		* c) o lucro; (Incluído pela Emenda Constitucional n° 20, de 1998) ^e67a297
 
-	* II -         ,              ,          R G  P S; (R   E C  ,  ) ^
+	* II - do trabalhador e dos demais segurados da previdência social, podendo ser adotadas alíquotas progressivas de acordo com o valor do salário de contribuição, não incidindo contribuição sobre aposentadoria e pensão concedidas pelo Regime Geral de Previdência Social; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^f2b89e6
 
-	* III -       . ^
+	* III - sobre a receita de concursos de prognósticos. ^6b483e6
 
-	* IV -        ,        . (I  E C  ,  ..) (V E C  ,  ) V ^
+	* IV - do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^d090020
 
-	* V -    ,     . (I  E C  ,  ) ^
+	* V - sobre bens e serviços, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023) ^ad15f6a
 
-	*   A   E,  D    M        ,      U. ^
+	* § 1° As receitas dos Estados, do Distrito Federal e dos Municípios destinadas à seguridade social constarão dos respectivos orçamentos, não integrando o orçamento da União. ^84490c0
 
-	*   A                ,     ,            z ,         . ^
+	* § 2° A proposta de orçamento da seguridade social será elaborada de forma integrada pelos órgãos responsáveis pela saúde, previdência social e assistência social, tendo em vista as metas e prioridades estabelecidas na lei de diretrizes orçamentárias, assegurada a cada área a gestão de seus recursos. ^b668a5a
 
-	*   A          ,    ,      P P         . (V M P  ,  ) (V L  .,  ) (V E   ,  ) ^
+	* § 3° A pessoa jurídica em débito com o sistema da seguridade social, como estabelecido em lei, não poderá contratar com o Poder Público nem dele receber benefícios ou incentivos fiscais ou creditícios. (Vide Medida Provisória n° 526, de 2011) (Vide Lei n° 12.453, de 2011) (Vide Emenda constitucional n° 106, de 2020) ^670fbef
 
-	*   A               ,     . [[#^|]], [[#^|I]]. ^
+	* § 4° A lei poderá instituir outras fontes destinadas a garantir a manutenção ou expansão da seguridade social, obedecido o disposto no art. [[#^f00bcde|154]], [[#^f41f7cb|I]]. ^f550d3c
 
-	*   N         ,          . ^
+	* § 5° Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio total. ^807e508
 
-	*   A                           ,        . [[#^|]], [[#^|III]], "[[#^|]]". ^
+	* § 6° As contribuições sociais de que trata este artigo só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando o disposto no art. [[#^95551ec|150]], [[#^b33d22a|III]], "[[#^876c2fe|b]]". ^b941a6a
 
-	*   S                    . ^
+	* § 7° São isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei. ^bd957fb
 
-	*   O ,  ,          ,     ,         ,   ,                z           . (R   E C  ,  ) ^
+	* § 8° O produtor, o parceiro, o meeiro e o arrendatário rurais e o pescador artesanal, bem como os respectivos cônjuges, que exerçam suas atividades em regime de economia familiar, sem empregados permanentes, contribuirão para a seguridade social mediante a aplicação de uma alíquota sobre o resultado da comercialização da produção e farão jus aos benefícios nos termos da lei. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^fdc0f21
 
-	*   A      [[#^|I]]          z   ,  z     ,            ,   z             "[[#^|]]"  "[[#^|]]"   [[#^|I]]  . (R   E C  ,  ) ^
+	* § 9° As contribuições sociais previstas no inciso [[#^30dea0e|I]] do caput deste artigo poderão ter alíquotas diferenciadas em razão da atividade econômica, da utilização intensiva de mão de obra, do porte da empresa ou da condição estrutural do mercado de trabalho, sendo também autorizada a adoção de bases de cálculo diferenciadas apenas no caso das alíneas "[[#^023d173|b]]" e "[[#^e67a297|c]]" do inciso [[#^30dea0e|I]] do caput. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^a89e573
 
-	*  . A                     U   E,  D    M,   E   M,      . (I  E C  ,  ) ^
+	* § 10. A lei definirá os critérios de transferência de recursos para o sistema único de saúde e ações de assistência social da União para os Estados, o Distrito Federal e os Municípios, e dos Estados para os Municípios, observada a respectiva contrapartida de recursos. (Incluído pela Emenda Constitucional n° 20, de 1998) ^dcca7c4
 
-	*  . S        z    ()  ,     ,              "[[#^|]]"   [[#^|I]]    [[#^|II]]  . (R   E C  ,  ) ^
+	* § 11. São vedados a moratória e o parcelamento em prazo superior a 60 (sessenta) meses e, na forma de lei complementar, a remissão e a anistia das contribuições sociais de que tratam a alínea "[[#^a786d6c|a]]" do inciso [[#^30dea0e|I]] e o inciso [[#^f2b89e6|II]] do caput. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^228cf3e
 
-	*  . A                  [[#^|I]], [[#^|]];  [[#^|IV]]   ,  -. (I  E C  ,  ..) (V E C  ,  ) V ^
+	* § 12. A lei definirá os setores de atividade econômica para os quais as contribuições incidentes na forma dos incisos [[#^30dea0e|I]], [[#^023d173|b]]; e [[#^d090020|IV]] do capu t, serão não-cumulativas. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) (Vide Emenda Constitucional n° 132, de 2023) Vigência ^750065a
 
-	*  . (R). (R   E C  ,  ) ^
+	* § 13. (Revogado). (Redação dada pela Emenda Constitucional n° 103, de 2019) ^30f516d
 
-	*  . O          R G  P S                ,     . (I  E C  ,  ) ^
+	* § 14. O segurado somente terá reconhecida como tempo de contribuição ao Regime Geral de Previdência Social a competência cuja contribuição seja igual ou superior à contribuição mínima mensal exigida para sua categoria, assegurado o agrupamento de contribuições. (Incluído pela Emenda Constitucional n° 103, de 2019) ^8bfe12f
 
-	*  . A     [[#^|V]]          . (I  E C  ,  ) ^
+	* § 15. A contribuição prevista no inciso [[#^ad15f6a|V]] do caput poderá ter sua alíquota fixada em lei ordinária. (Incluído pela Emenda Constitucional n° 132, de 2023) ^a067bf2
 
-	*  . A-      [[#^|V]]      . [[#^|-A]],  [[#^|]], [[#^|I]]  [[#^|VI]], [[#^|VIII]], [[#^|X]]  [[#^|XIII]],  [[#^|]],  [[#^|]], [[#^|II]]  [[#^|VI]]  [[#^|IX]],   [[#^|]]  [[#^|]]  [[#^|]]. (I  E C  ,  ) ^
+	* § 16. Aplica-se à contribuição prevista no inciso [[#^ad15f6a|V]] do caput o disposto no art. [[#^1a749c5|156-A]], § [[#^29c2f9d|1°]], [[#^991176d|I]] a [[#^60705b6|VI]], [[#^d8c2294|VIII]], [[#^be6aebb|X]] a [[#^076978b|XIII]], § [[#^517e094|3°]], § [[#^3f2c671|5°]], [[#^06abf63|II]] a [[#^9e98393|VI]] e [[#^30e0cc2|IX]], e §§ [[#^2d9a613|6°]] a [[#^fe09ed1|11]] e [[#^915f911|13]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^f3eb2a9
 
-	*  . A     [[#^|V]]                . [[#^|]], [[#^|VIII]], [[#^|-A]]  [[#^|]], [[#^|I]], "[[#^|]]",  [[#^|IV]],      P  I S     . [[#^|]]. (I  E C  ,  ) ^
+	* § 17. A contribuição prevista no inciso [[#^ad15f6a|V]] do caput não integrará sua própria base de cálculo nem a dos tributos previstos nos arts. [[#^b48cd87|153]], [[#^bf115cb|VIII]], [[#^1a749c5|156-A]] e [[#^dd51188|195]], [[#^30dea0e|I]], "[[#^023d173|b]]", e [[#^d090020|IV]], e da contribuição para o Programa de Integração Social de que trata o art. [[#^65ba57b|239]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^31366d4
 
-	*  . L           [[#^|V]]     ,       ,     z    . (I  E C  ,  ) ^
+	* § 18. Lei estabelecerá as hipóteses de devolução da contribuição prevista no inciso [[#^ad15f6a|V]] do caput a pessoas físicas, inclusive em relação a limites e beneficiários, com o objetivo de reduzir as desigualdades de renda. (Incluído pela Emenda Constitucional n° 132, de 2023) ^4568b47
 
-	*  . A       [[#^|]]         U       . [[#^|]],  [[#^|]], [[#^|]],  [[#^|]], [[#^|]]  [[#^|]],  [[#^|]],  [[#^|]]. (I  E C  ,  ) ^
+	* § 19. A devolução de que trata o § [[#^4568b47|18]] não será computada na receita corrente líquida da União para os fins do disposto nos arts. [[#^615122f|100]], § [[#^ac30f03|15]], [[#^88327c6|166]], §§ [[#^a366198|9°]], [[#^4759a33|12]] e [[#^0d166d3|17]], e [[#^a8a5a19|198]], § [[#^d6a1b1d|2°]]. (Incluído pela Emenda Constitucional n° 132, de 2023) ^2448d3d
 
-### ... SEÇÃO II - DA SAÚDE (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO II - DA SAÚDE (ARTS.  A )|R]]
+### 8.2.2. SEÇÃO II - DA SAÚDE (ARTS. 196 A 200)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.2.2. SEÇÃO II - DA SAÚDE (ARTS. 196 A 200)|Resumo]]
 
-* A. . A         E,                               ,   . ^
+* Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação. ^4d029a9
 
-* A. . S         ,   P P ,    ,   , z  ,           , ,        . ^
+* Art. 197. São de relevância pública as ações e serviços de saúde, cabendo ao Poder Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado. ^2482c54
 
-* A. . A          z  z     , z      z: (V ADP ) ^
+* Art. 198. As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com as seguintes diretrizes: (Vide ADPF 672) ^a8a5a19
 
-	* I - z,        ; ^
+	* I - descentralização, com direção única em cada esfera de governo; ^cd68bf3
 
-	* II -  ,      ,  z   ; ^
+	* II - atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais; ^cb86ff9
 
-	* III -   . ^
+	* III - participação da comunidade. ^faa992f
 
-	*  . O      ,    . [[#^|]],       ,  U,  E,  D    M,    . (P     [[#^|]]  E C  ,  ) ^
+	* § 1°. O sistema único de saúde será financiado, nos termos do art. [[#^dd51188|195]], com recursos do orçamento da seguridade social, da União, dos Estados, do Distrito Federal e dos Municípios, além de outras fontes. (Parágrafo único renumerado para § [[#^f586f23|1°]] pela Emenda Constitucional n° 29, de 2000) ^f586f23
 
-	*   A U,  E,  D    M , ,                : (I  E C  ,  ) ^
+	* § 2° A União, os Estados, o Distrito Federal e os Municípios aplicarão, anualmente, em ações e serviços públicos de saúde recursos mínimos derivados da aplicação de percentuais calculados sobre: (Incluído pela Emenda Constitucional n° 29, de 2000) ^d6a1b1d
 
-		* I -    U,        ,      % (z  ); (R   E C  ,  ) ^
+		* I - no caso da União, a receita corrente líquida do respectivo exercício financeiro, não podendo ser inferior a 15% (quinze por cento); (Redação dada pela Emenda Constitucional n° 86, de 2015) ^4ebe8ce
 
-		* II -    E   D ,            . [[#^|]]  [[#^|-A]]        . [[#^|]]  [[#^|]], [[#^|I]], "[[#^|]]",  [[#^|II]], z        M; (R   E C  ,  ) ^
+		* II - no caso dos Estados e do Distrito Federal, o produto da arrecadação dos impostos a que se referem os arts. [[#^c99e88e|155]] e [[#^1a749c5|156-A]] e dos recursos de que tratam os arts. [[#^dcc29bd|157]] e [[#^835537a|159]], [[#^9cfe31b|I]], "[[#^5b9d1e6|a]]", e [[#^9cd5881|II]], deduzidas as parcelas que forem transferidas aos respectivos Municípios; (Redação dada pela Emenda Constitucional n° 132, de 2023) ^507eb71
 
-		* III -    M   D ,            . [[#^|]]  [[#^|-A]]        . [[#^|]]  [[#^|]], [[#^|I]], "[[#^|]]",   [[#^|]]. (R   E C  ,  ) ^
+		* III - no caso dos Municípios e do Distrito Federal, o produto da arrecadação dos impostos a que se referem os arts. [[#^2e16bcd|156]] e [[#^1a749c5|156-A]] e dos recursos de que tratam os arts. [[#^bfd7c36|158]] e [[#^835537a|159]], [[#^9cfe31b|I]], "[[#^b0cac88|b]]", e § [[#^d48033d|3°]]. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^1bbb461
 
-	*   L ,         , : (I  E C  ,  ) R ^
+	* § 3° Lei complementar, que será reavaliada pelo menos a cada cinco anos, estabelecerá: (Incluído pela Emenda Constitucional n° 29, de 2000) Regulamento ^d48033d
 
-		* I -        [[#^|II]]  [[#^|III]]   [[#^|]]; (R   E C  ,  ) ^
+		* I - os percentuais de que tratam os incisos [[#^507eb71|II]] e [[#^1bbb461|III]] do § [[#^d6a1b1d|2°]]; (Redação dada pela Emenda Constitucional n° 86, de 2015) ^83338cb
 
-		* II -        U      E,  D    M,   E     M,       ; (I  E C  ,  ) ^
+		* II - os critérios de rateio dos recursos da União vinculados à saúde destinados aos Estados, ao Distrito Federal e aos Municípios, e dos Estados destinados a seus respectivos Municípios, objetivando a progressiva redução das disparidades regionais; (Incluído pela Emenda Constitucional n° 29, de 2000) ^3d1fc59
 
-		* III -    z,          , ,   ; (I  E C  ,  ) ^
+		* III - as normas de fiscalização, avaliação e controle das despesas com saúde nas esferas federal, estadual, distrital e municipal; (Incluído pela Emenda Constitucional n° 29, de 2000) ^a591c41
 
-		* IV - (). (R   E C  ,  ) ^
+		* IV - (revogado). (Redação dada pela Emenda Constitucional n° 86, de 2015) ^de72e74
 
-	*   O                         ,     z           . (I  E C  ,  ) ^
+	* § 4° Os gestores locais do sistema único de saúde poderão admitir agentes comunitários de saúde e agentes de combate às endemias por meio de processo seletivo público, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para sua atuação. (Incluído pela Emenda Constitucional n° 51, de 2006) ^cfabf55
 
-	*   L      ,     ,  z   P  C                ,   U,    ,      E,  D    M,       . (R   E C  ,  ) R ^
+	* § 5° Lei federal disporá sobre o regime jurídico, o piso salarial profissional nacional, as diretrizes para os Planos de Carreira e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias, competindo à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios, para o cumprimento do referido piso salarial. (Redação dada pela Emenda Constitucional n° 63, de 2010) Regulamento ^1300142
 
-	*   A      [[#^|]]  . [[#^|]]    [[#^|]]  . [[#^|]]  C ,                              ,   ,    . (I  E C  ,  ) ^
+	* § 6° Além das hipóteses previstas no § [[#^3564927|1°]] do art. [[#^1e54455|41]] e no § [[#^7a5afbe|4°]] do art. [[#^7ac0258|169]] da Constituição Federal, o servidor que exerça funções equivalentes às de agente comunitário de saúde ou de agente de combate às endemias poderá perder o cargo em caso de descumprimento dos requisitos específicos, fixados em lei, para o seu exercício. (Incluído pela Emenda Constitucional n° 51, de 2006) ^a2c21ca
 
-	*   O                  U,    E,  D    M ,      , , ,   z,    z    . (I  E C  ,  ) ^
+	* § 7° O vencimento dos agentes comunitários de saúde e dos agentes de combate às endemias fica sob responsabilidade da União, e cabe aos Estados, ao Distrito Federal e aos Municípios estabelecer, além de outros consectários e vantagens, incentivos, auxílios, gratificações e indenizações, a fim de valorizar o trabalho desses profissionais. (Incluído pela Emenda Constitucional n° 120, de 2022) ^38cf50d
 
-	*   O                         U     . (I  E C  ,  ) ^
+	* § 8° Os recursos destinados ao pagamento do vencimento dos agentes comunitários de saúde e dos agentes de combate às endemias serão consignados no orçamento geral da União com dotação própria e exclusiva. (Incluído pela Emenda Constitucional n° 120, de 2022) ^2bc69ab
 
-	*   O                   ()  ,   U  M,  E   D . (I  E C  ,  ) ^
+	* § 9° O vencimento dos agentes comunitários de saúde e dos agentes de combate às endemias não será inferior a 2 (dois) salários mínimos, repassados pela União aos Municípios, aos Estados e ao Distrito Federal. (Incluído pela Emenda Constitucional n° 120, de 2022) ^3f1d468
 
-	*  . O             ,  z      ,   ,    ,   . (I  E C  ,  ) ^
+	* § 10. Os agentes comunitários de saúde e os agentes de combate às endemias terão também, em razão dos riscos inerentes às funções desempenhadas, aposentadoria especial e, somado aos seus vencimentos, adicional de insalubridade. (Incluído pela Emenda Constitucional n° 120, de 2022) ^c343c6c
 
-	*  . O     U  E,  D    M                                    . (I  E C  ,  ) ^
+	* § 11. Os recursos financeiros repassados pela União aos Estados, ao Distrito Federal e aos Municípios para pagamento do vencimento ou de qualquer outra vantagem dos agentes comunitários de saúde e dos agentes de combate às endemias não serão objeto de inclusão no cálculo para fins do limite de despesa com pessoal. (Incluído pela Emenda Constitucional n° 120, de 2022) ^5a9d4bb
 
-	*  . L         ,    ,       ,             . (I  E C  ,  ) ^
+	* § 12. Lei federal instituirá pisos salariais profissionais nacionais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira, a serem observados por pessoas jurídicas de direito público e de direito privado. (Incluído pela Emenda Constitucional n° 124, de 2022) ^5be643d
 
-	*  . A U,  E,  D    M,                  [[#^|]]  ,           ,  ,           . (I  E C  ,  ) ^
+	* § 13. A União, os Estados, o Distrito Federal e os Municípios, até o final do exercício financeiro em que for publicada a lei de que trata o § [[#^5be643d|12]] deste artigo, adequarão a remuneração dos cargos ou dos respectivos planos de carreiras, quando houver, de modo a atender aos pisos estabelecidos para cada categoria profissional. (Incluído pela Emenda Constitucional n° 124, de 2022) ^21cba86
 
-	*  . C  U,    ,      E,  D    M    ,       z  ,  , % (  )        ,            [[#^|]]  . (I  E C  ,  ) ^
+	* § 14. Compete à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e às entidades filantrópicas, bem como aos prestadores de serviços contratualizados que atendam, no mínimo, 60% (sessenta por cento) de seus pacientes pelo sistema único de saúde, para o cumprimento dos pisos salariais de que trata o § [[#^5be643d|12]] deste artigo. (Incluído pela Emenda Constitucional n° 127, de 2022) ^8df2a87
 
-	*  . O           E,  D    M    ,       z  ,  , % (  )        ,            [[#^|]]         U     . (I  E C  ,  ) ^
+	* § 15. Os recursos federais destinados aos pagamentos da assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e às entidades filantrópicas, bem como aos prestadores de serviços contratualizados que atendam, no mínimo, 60% (sessenta por cento) de seus pacientes pelo sistema único de saúde, para o cumprimento dos pisos salariais de que trata o § [[#^5be643d|12]] deste artigo serão consignados no orçamento geral da União com dotação própria e exclusiva. (Incluído pela Emenda Constitucional n° 127, de 2022) ^dc95399
 
-* A. . A        . ^
+* Art. 199. A assistência à saúde é livre à iniciativa privada. ^5824b26
 
-	*   - A            ,  z ,       ,          . ^
+	* § 1° - As instituições privadas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos. ^ba36fd4
 
-	*   É                . ^
+	* § 2° É vedada a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com fins lucrativos. ^b17cd52
 
-	*   É                 P,      . ^
+	* § 3° É vedada a participação direta ou indireta de empresas ou capitais estrangeiros na assistência à saúde no País, salvo nos casos previstos em lei. ^47e5d69
 
-	*   A              ,        ,   ,    ,        ,      z. ^
+	* § 4° A lei disporá sobre as condições e os requisitos que facilitem a remoção de órgãos, tecidos e substâncias humanas para fins de transplante, pesquisa e tratamento, bem como a coleta, processamento e transfusão de sangue e seus derivados, sendo vedado todo tipo de comercialização. ^b9d1f87
 
-* A. . A     ,    ,    : ^
+* Art. 200. Ao sistema único de saúde compete, além de outras atribuições, nos termos da lei: ^a09c708
 
-	* I -   z ,              , , ,    ; ^
+	* I - controlar e fiscalizar procedimentos, produtos e substâncias de interesse para a saúde e participar da produção de medicamentos, equipamentos, imunobiológicos, hemoderivados e outros insumos; ^8da967a
 
-	* II -        ,       ; ^
+	* II - executar as ações de vigilância sanitária e epidemiológica, bem como as de saúde do trabalhador; ^536b488
 
-	* III -          ; ^
+	* III - ordenar a formação de recursos humanos na área de saúde; ^5c5ce6a
 
-	* IV -             ; ^
+	* IV - participar da formulação da política e da execução das ações de saneamento básico; ^0b5822f
 
-	* V - ,     ,        ; (R   E C  ,  ) ^
+	* V - incrementar, em sua área de atuação, o desenvolvimento científico e tecnológico e a inovação; (Redação dada pela Emenda Constitucional n° 85, de 2015) ^9e4a080
 
-	* VI - z   ,       ,        ; ^
+	* VI - fiscalizar e inspecionar alimentos, compreendido o controle de seu teor nutricional, bem como bebidas e águas para consumo humano; ^b0efd8d
 
-	* VII -     z  , ,   z     ,   ; ^
+	* VII - participar do controle e fiscalização da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos; ^26a063f
 
-	* VIII -      ,     . ^
+	* VIII - colaborar na proteção do meio ambiente, nele compreendido o do trabalho. ^78a78eb
 
-### ... SEÇÃO III - DA PREVIDÊNCIA SOCIAL (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO III - DA PREVIDÊNCIA SOCIAL (ARTS.  A )|R]]
+### 8.2.3. SEÇÃO III - DA PREVIDÊNCIA SOCIAL (ARTS. 201 A 202)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.2.3. SEÇÃO III - DA PREVIDÊNCIA SOCIAL (ARTS. 201 A 202)|Resumo]]
 
-* A. . A    z     R G  P S,       ,         ,  ,    , : (R   E C  ,  ) ^
+* Art. 201. A previdência social será organizada sob a forma do Regime Geral de Previdência Social, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, na forma da lei, a: (Redação dada pela Emenda Constitucional n° 103, de 2019) ^9cc8602
 
-	* I -              ; (R   E C  ,  ) ^
+	* I - cobertura dos eventos de incapacidade temporária ou permanente para o trabalho e idade avançada; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^6ac3983
 
-	* II -   ,   ; (R   E C  ,  ) ^
+	* II - proteção à maternidade, especialmente à gestante; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^54d3ee4
 
-	* III -        ; (R   E C  ,  ) ^
+	* III - proteção ao trabalhador em situação de desemprego involuntário; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^c7a1d6f
 
-	* IV - -  -        ; (R   E C  ,  ) ^
+	* IV - salário-família e auxílio-reclusão para os dependentes dos segurados de baixa renda; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0ffdcf3
 
-	* V -     ,   ,      ,      [[#^|]]. (R   E C  ,  ) ^
+	* V - pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no § [[#^4878d14|2°]]. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^51a0a9e
 
-	*   É            , ,     ,                       : (R   E C  ,  ) ^
+	* § 1° É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios, ressalvada, nos termos de lei complementar, a possibilidade de previsão de idade e tempo de contribuição distintos da regra geral para concessão de aposentadoria exclusivamente em favor dos segurados: (Redação dada pela Emenda Constitucional n° 103, de 2019) ^f58d1f6
 
-		* I -  ,      z     ; (I  E C  ,  ) ^
+		* I - com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar; (Incluído pela Emenda Constitucional n° 103, de 2019) ^2b07fb1
 
-		* II -          ,      ,    ,   z     . (I  E C  ,  ) ^
+		* II - cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação. (Incluído pela Emenda Constitucional n° 103, de 2019) ^4edbe2d
 
-	*   N                     . (R   E C  ,  ) ^
+	* § 2° Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^4878d14
 
-	*   T             z,    . (R   E C  ,  ) ^
+	* § 3° Todos os salários de contribuição considerados para o cálculo de benefício serão devidamente atualizados, na forma da lei. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^3af29bd
 
-	*   É       -,   ,   ,     . (R   E C  ,  ) ^
+	* § 4° É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios definidos em lei. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^b0c711b
 
-	*   É         ,     ,        . (R   E C  ,  ) ^
+	* § 5° É vedada a filiação ao regime geral de previdência social, na qualidade de segurado facultativo, de pessoa participante de regime próprio de previdência. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^ba7b01f
 
-	*   A                 z   . (R   E C  ,  ) ^
+	* § 6° A gratificação natalina dos aposentados e pensionistas terá por base o valor dos proventos do mês de dezembro de cada ano. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^f13d791
 
-	*   É        ,    ,    : (R   E C  ,  ) ^
+	* § 7° É assegurada aposentadoria no regime geral de previdência social, nos termos da lei, obedecidas as seguintes condições: (Redação dada pela Emenda Constitucional n° 20, de 1998) ^1d2a029
 
-		* I -  (  )   ,  ,   (  )   ,  ,     ; (R   E C  ,  ) ^
+		* I - 65 (sessenta e cinco) anos de idade, se homem, e 62 (sessenta e dois) anos de idade, se mulher, observado tempo mínimo de contribuição; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^5028536
 
-		* II -  ()   ,  ,   (  )   ,  ,                ,     ,      . (R   E C  ,  ) ^
+		* II - 60 (sessenta) anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade, se mulher, para os trabalhadores rurais e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^5b09704
 
-	*   O          [[#^|I]]   [[#^|]]  z   () ,                          . (R   E C  ,  ) ^
+	* § 8° O requisito de idade a que se refere o inciso [[#^5028536|I]] do § [[#^1d2a029|7°]] será reduzido em 5 (cinco) anos, para o professor que comprove tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio fixado em lei complementar. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^94e7f4a
 
-	*   P   ,            R G  P S       ,    ,    ,        . (R   E C  ,  ) ^
+	* § 9° Para fins de aposentadoria, será assegurada a contagem recíproca do tempo de contribuição entre o Regime Geral de Previdência Social e os regimes próprios de previdência social, e destes entre si, observada a compensação financeira, de acordo com os critérios estabelecidos em lei. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^72ea807
 
-	*  -A. O            . [[#^|]], [[#^|]]  [[#^|]]       R G  P S                 ,                      . (I  E C  ,  ) ^
+	* § 9°-A. O tempo de serviço militar exercido nas atividades de que tratam os arts. [[#^7f6530d|42]], [[#^5bf4dbe|142]] e [[#^9e6e9bd|143]] e o tempo de contribuição ao Regime Geral de Previdência Social ou a regime próprio de previdência social terão contagem recíproca para fins de inativação militar ou aposentadoria, e a compensação financeira será devida entre as receitas de contribuição referentes aos militares e as receitas de contribuição aos demais regimes. (Incluído pela Emenda Constitucional n° 103, de 2019) ^d7dfba7
 
-	*  . L         ,       ,      R G  P S    . (R   E C  ,  ) ^
+	* § 10. Lei complementar poderá disciplinar a cobertura de benefícios não programados, inclusive os decorrentes de acidente do trabalho, a ser atendida concorrentemente pelo Regime Geral de Previdência Social e pelo setor privado. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^0032073
 
-	*  . O    ,   ,              ,       . (I   E C  ,  ) ^
+	* § 11. Os ganhos habituais do empregado, a qualquer título, serão incorporados ao salário para efeito de contribuição previdenciária e conseqüente repercussão em benefícios, nos casos e na forma da lei. (Incluído dada pela Emenda Constitucional n° 20, de 1998) ^8fd734b
 
-	*  . L      ,   ,       ,         ,                 ,        . (R   E C  ,  ) ^
+	* § 12. Lei instituirá sistema especial de inclusão previdenciária, com alíquotas diferenciadas, para atender aos trabalhadores de baixa renda, inclusive os que se encontram em situação de informalidade, e àqueles sem renda própria que se dediquem exclusivamente ao trabalho doméstico no âmbito de sua residência, desde que pertencentes a famílias de baixa renda. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^25090a8
 
-	*  . A          [[#^|]]     () -. (R   E C  ,  ) ^
+	* § 13. A aposentadoria concedida ao segurado de que trata o § [[#^25090a8|12]] terá valor de 1 (um) salário-mínimo. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^252f090
 
-	*  . É                   . (I  E C  ,  ) ^
+	* § 14. É vedada a contagem de tempo de contribuição fictício para efeito de concessão dos benefícios previdenciários e de contagem recíproca. (Incluído pela Emenda Constitucional n° 103, de 2019) ^89328a3
 
-	*  . L   ,         . (I  E C  ,  ) ^
+	* § 15. Lei complementar estabelecerá vedações, regras e condições para a acumulação de benefícios previdenciários. (Incluído pela Emenda Constitucional n° 103, de 2019) ^430d714
 
-	*  . O    ,   ,            ,        ,           [[#^|II]]   [[#^|]]  . [[#^|]],     . (I  E C  ,  ) ^
+	* § 16. Os empregados dos consórcios públicos, das empresas públicas, das sociedades de economia mista e das suas subsidiárias serão aposentados compulsoriamente, observado o cumprimento do tempo mínimo de contribuição, ao atingir a idade máxima de que trata o inciso [[#^dabe2ed|II]] do § [[#^fac40d8|1°]] do art. [[#^2bcc4ca|40]], na forma estabelecida em lei. (Incluído pela Emenda Constitucional n° 103, de 2019) ^462a458
 
-* A. . O    ,     z           ,  ,          ,     . (R   E C  ,  ) (V E C  ,  ) ^
+* Art. 202. O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, será facultativo, baseado na constituição de reservas que garantam o benefício contratado, e regulado por lei complementar. (Redação dada pela Emenda Constitucional n° 20, de 1998) (Vide Emenda Constitucional n° 20, de 1998) ^d450a12
 
-	*   A                               . (R   E C  ,  ) ^
+	* § 1° A lei complementar de que trata este artigo assegurará ao participante de planos de benefícios de entidades de previdência privada o pleno acesso às informações relativas à gestão de seus respectivos planos. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^6ec74b9
 
-	*   A   ,         ,                  ,  ,     ,      ,    . (R   E C  ,  ) ^
+	* § 2° As contribuições do empregador, os benefícios e as condições contratuais previstas nos estatutos, regulamentos e planos de benefícios das entidades de previdência privada não integram o contrato de trabalho dos participantes, assim como, à exceção dos benefícios concedidos, não integram a remuneração dos participantes, nos termos da lei. (Redação dada pela Emenda Constitucional n° 20, de 1998) ^714683f
 
-	*   É            U, E, D   M,  , ,  ,        ,     ,   ,   ,        . (I  E C  ,  ) (V E C  ,  ) ^
+	* § 3° É vedado o aporte de recursos a entidade de previdência privada pela União, Estados, Distrito Federal e Municípios, suas autarquias, fundações, empresas públicas, sociedades de economia mista e outras entidades públicas, salvo na qualidade de patrocinador, situação na qual, em hipótese alguma, sua contribuição normal poderá exceder a do segurado. (Incluído pela Emenda Constitucional n° 20, de 1998) (Vide Emenda Constitucional n° 20, de 1998) ^b7a10b1
 
-	*   L       U, E, D   M,   , ,          ,       ,      . (R   E C  ,  ) ^
+	* § 4° Lei complementar disciplinará a relação entre a União, Estados, Distrito Federal ou Municípios, inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente, enquanto patrocinadores de planos de benefícios previdenciários, e as entidades de previdência complementar. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^dc94ed6
 
-	*   A        [[#^|]] --,   ,           ,           . (R   E C  ,  ) ^
+	* § 5° A lei complementar de que trata o § [[#^dc94ed6|4°]] aplicar-se-á, no que couber, às empresas privadas permissionárias ou concessionárias de prestação de serviços públicos, quando patrocinadoras de planos de benefícios em entidades de previdência complementar. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^b354b4c
 
-	*   L                          [[#^|]]                      . (R   E C  ,  ) ^
+	* § 6° Lei complementar estabelecerá os requisitos para a designação dos membros das diretorias das entidades fechadas de previdência complementar instituídas pelos patrocinadores de que trata o § [[#^dc94ed6|4°]] e disciplinará a inserção dos participantes nos colegiados e instâncias de decisão em que seus interesses sejam objeto de discussão e deliberação. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^0fd0cbb
 
-### ... SEÇÃO IV - DA ASSISTÊNCIA SOCIAL (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO IV - DA ASSISTÊNCIA SOCIAL (ARTS.  A )|R]]
+### 8.2.4. SEÇÃO IV - DA ASSISTÊNCIA SOCIAL (ARTS. 203 A 204)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.2.4. SEÇÃO IV - DA ASSISTÊNCIA SOCIAL (ARTS. 203 A 204)|Resumo]]
 
-* A. . A        ,      ,    : ^
+* Art. 203. A assistência social será prestada a quem dela necessitar, independentemente de contribuição à seguridade social, e tem por objetivos: ^9b8aeb2
 
-	* I -    ,  ,  ,     ; ^
+	* I - a proteção à família, à maternidade, à infância, à adolescência e à velhice; ^5c83469
 
-	* II -       ; ^
+	* II - o amparo às crianças e adolescentes carentes; ^aef3ec7
 
-	* III -        ; ^
+	* III - a promoção da integração ao mercado de trabalho; ^97e3121
 
-	* IV -                  ; ^
+	* IV - a habilitação e reabilitação das pessoas portadoras de deficiência e a promoção de sua integração à vida comunitária; ^4755570
 
-	* V -                              -    ,    . ^
+	* V - a garantia de um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei. ^f4ae02d
 
-	* VI -           z    z. (I  E C  ,  ) ^
+	* VI - a redução da vulnerabilidade socioeconômica de famílias em situação de pobreza ou de extrema pobreza. (Incluído pela Emenda Constitucional n° 114, de 2021) ^ccf9788
 
-* A. . A         z       ,   . [[#^|]],    ,  z     z: ^
+* Art. 204. As ações governamentais na área da assistência social serão realizadas com recursos do orçamento da seguridade social, previstos no art. [[#^dd51188|195]], além de outras fontes, e organizadas com base nas seguintes diretrizes: ^ca14c38
 
-	* I - z -,                        ,         ; ^
+	* I - descentralização político-administrativa, cabendo a coordenação e as normas gerais à esfera federal e a coordenação e a execução dos respectivos programas às esferas estadual e municipal, bem como a entidades beneficentes e de assistência social; ^9510d21
 
-	* II -   ,    z ,             . ^
+	* II - participação da população, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis. ^6e516ef
 
-	* P . É   E   D                     ,        : (I  E C  ,  ..) ^
+	* Parágrafo único. É facultado aos Estados e ao Distrito Federal vincular a programa de apoio à inclusão e promoção social até cinco décimos por cento de sua receita tributária líquida, vedada a aplicação desses recursos no pagamento de: (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^4eab34e
 
-		* I -      ; (I  E C  ,  ..) ^
+		* I - despesas com pessoal e encargos sociais; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^b00eb6d
 
-		* II -   ; (I  E C  ,  ..) ^
+		* II - serviço da dívida; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^2e7e624
 
-		* III -            . (I  E C  ,  ..) ^
+		* III - qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^e44c2fa
 
-## .. CAPÍTULO III - DA EDUCAÇÃO, DA CULTURA E DO DESPORTO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO III - DA EDUCAÇÃO, DA CULTURA E DO DESPORTO (ARTS.  A )|R]]
+## 8.3. CAPÍTULO III - DA EDUCAÇÃO, DA CULTURA E DO DESPORTO (ARTS. 205 A 217)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.3. CAPÍTULO III - DA EDUCAÇÃO, DA CULTURA E DO DESPORTO (ARTS. 205 A 217)|Resumo]]
 
-### ... SEÇÃO I - DA EDUCAÇÃO (ARTS.  A )
-[[NL/C    (C)/MOC/... SEÇÃO I - DA EDUCAÇÃO (ARTS.  A )|R]]
+### 8.3.1. SEÇÃO I - DA EDUCAÇÃO (ARTS. 205 A 214)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.3.1. SEÇÃO I - DA EDUCAÇÃO (ARTS. 205 A 214)|Resumo]]
 
-* A. . A ,       E   ,         ,      ,             . ^
+* Art. 205. A educação, direito de todos e dever do Estado e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho. ^7b6a5a3
 
-* A. . O        : ^
+* Art. 206. O ensino será ministrado com base nos seguintes princípios: ^c9bd389
 
-	* I -          ; ^
+	* I - igualdade de condições para o acesso e permanência na escola; ^35987f6
 
-	* II -   , ,     ,     ; ^
+	* II - liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber; ^c8b2ac1
 
-	* III -       ,         ; ^
+	* III - pluralismo de idéias e de concepções pedagógicas, e coexistência de instituições públicas e privadas de ensino; ^d139669
 
-	* IV -       ; ^
+	* IV - gratuidade do ensino público em estabelecimentos oficiais; ^1222626
 
-	* V - z     , ,    ,   ,          ,    ; (R   E C  ,  ) (V L  .,  ) ^
+	* V - valorização dos profissionais da educação escolar, garantidos, na forma da lei, planos de carreira, com ingresso exclusivamente por concurso público de provas e títulos, aos das redes públicas; (Redação dada pela Emenda Constitucional n° 53, de 2006) (Vide Lei n° 14.817, de 2024) ^0f53272
 
-	* VI -     ,    ; ^
+	* VI - gestão democrática do ensino público, na forma da lei; ^7eaa09e
 
-	* VII -     . ^
+	* VII - garantia de padrão de qualidade. ^a7bcb62
 
-	* VIII -           ,     . (I  E C  ,  ) ^
+	* VIII - piso salarial profissional nacional para os profissionais da educação escolar pública, nos termos de lei federal. (Incluído pela Emenda Constitucional n° 53, de 2006) ^33a0821
 
-	* IX -        z    . (I  E C  ,  ) ^
+	* IX - garantia do direito à educação e à aprendizagem ao longo da vida. (Incluído pela Emenda Constitucional n° 108, de 2020) ^5a5a6cb
 
-	* P . A                  z          ,    U,  E,  D    M. (I  E C  ,  ) ^
+	* Parágrafo único. A lei disporá sobre as categorias de trabalhadores considerados profissionais da educação básica e sobre a fixação de prazo para a elaboração ou adequação de seus planos de carreira, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios. (Incluído pela Emenda Constitucional n° 53, de 2006) ^dc12f2e
 
-* A. . A  z   -,       ,        ,   . ^
+* Art. 207. As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão. ^1210027
 
-	*   É     ,    ,    . (I  E C  ,  ) ^
+	* § 1° É facultado às universidades admitir professores, técnicos e cientistas estrangeiros, na forma da lei. (Incluído pela Emenda Constitucional n° 11, de 1996) ^7c87ce4
 
-	*   O    -       . (I  E C  ,  ) ^
+	* § 2° O disposto neste artigo aplica-se às instituições de pesquisa científica e tecnológica. (Incluído pela Emenda Constitucional n° 11, de 1996) ^ffc4c48
 
-* A. . O   E         : ^
+* Art. 208. O dever do Estado com a educação será efetivado mediante a garantia de: ^f9ae1b8
 
-	* I -        ()   (z)   ,                 ; (R   E C  ,  ) (V E C  ,  ) ^
+	* I - educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria; (Redação dada pela Emenda Constitucional n° 59, de 2009) (Vide Emenda Constitucional n° 59, de 2009) ^382f9b0
 
-	* II -  z    ; (R   E C  ,  ) ^
+	* II - progressiva universalização do ensino médio gratuito; (Redação dada pela Emenda Constitucional n° 14, de 1996) ^fb92ae7
 
-	* III -   z    ,      ; ^
+	* III - atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino; ^b98721e
 
-	* IV -  ,    -,     ()   ; (R   E C  ,  ) ^
+	* IV - educação infantil, em creche e pré-escola, às crianças até 5 (cinco) anos de idade; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^bbeb7a5
 
-	* V -       ,      ,      ; ^
+	* V - acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um; ^a31d0ee
 
-	* VI -     ,     ; ^
+	* VI - oferta de ensino noturno regular, adequado às condições do educando; ^15dbb28
 
-	* VII -   ,       ,        -, ,     . (R   E C  ,  ) ^
+	* VII - atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde. (Redação dada pela Emenda Constitucional n° 59, de 2009) ^5d9c03a
 
-	*   O          . ^
+	* § 1° O acesso ao ensino obrigatório e gratuito é direito público subjetivo. ^b8f5c8f
 
-	*   O -     P P,    ,     . ^
+	* § 2° O não-oferecimento do ensino obrigatório pelo Poder Público, ou sua oferta irregular, importa responsabilidade da autoridade competente. ^ef4a18f
 
-	*   C  P P      , z-    z,     ,    . ^
+	* § 3° Compete ao Poder Público recensear os educandos no ensino fundamental, fazer-lhes a chamada e zelar, junto aos pais ou responsáveis, pela freqüência à escola. ^6030a1f
 
-* A. . O      ,    : ^
+* Art. 209. O ensino é livre à iniciativa privada, atendidas as seguintes condições: ^c721dc4
 
-	* I -       ; ^
+	* I - cumprimento das normas gerais da educação nacional; ^949d505
 
-	* II - z      P P. ^
+	* II - autorização e avaliação de qualidade pelo Poder Público. ^034452d
 
-* A. . S       ,              ,   . ^
+* Art. 210. Serão fixados conteúdos mínimos para o ensino fundamental, de maneira a assegurar formação básica comum e respeito aos valores culturais e artísticos, nacionais e regionais. ^2a771a6
 
-	*   O  ,   ,           . ^
+	* § 1° O ensino religioso, de matrícula facultativa, constituirá disciplina dos horários normais das escolas públicas de ensino fundamental. ^2817aad
 
-	*   O        ,       z         z. ^
+	* § 2° O ensino fundamental regular será ministrado em língua portuguesa, assegurada às comunidades indígenas também a utilização de suas línguas maternas e processos próprios de aprendizagem. ^c9245d3
 
-* A. . A U,  E,  D    M z        . ^
+* Art. 211. A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de colaboração seus sistemas de ensino. ^9021d45
 
-	*   A U z         T,         ,   ,    ,     z                 E,  D    M; (R   E C  ,  ) ^
+	* § 1° A União organizará o sistema federal de ensino e o dos Territórios, financiará as instituições de ensino públicas federais e exercerá, em matéria educacional, função redistributiva e supletiva, de forma a garantir equalização de oportunidades educacionais e padrão mínimo de qualidade do ensino mediante assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios; (Redação dada pela Emenda Constitucional n° 14, de 1996) ^41b0e06
 
-	*   O M         . (R   E C  ,  ) ^
+	* § 2° Os Municípios atuarão prioritariamente no ensino fundamental e na educação infantil. (Redação dada pela Emenda Constitucional n° 14, de 1996) ^375cb91
 
-	*   O E   D        . (I  E C  ,  ) ^
+	* § 3° Os Estados e o Distrito Federal atuarão prioritariamente no ensino fundamental e médio. (Incluído pela Emenda Constitucional n° 14, de 1996) ^20b3d82
 
-	*   N z     ,  U,  E,  D    M    ,      z,        . (R   E C  ,  ) ^
+	* § 4° Na organização de seus sistemas de ensino, a União, os Estados, o Distrito Federal e os Municípios definirão formas de colaboração, de forma a assegurar a universalização, a qualidade e a equidade do ensino obrigatório. (Redação dada pela Emenda Constitucional n° 108, de 2020) ^b650f0b
 
-	*   A        . (I  E C  ,  ) ^
+	* § 5° A educação básica pública atenderá prioritariamente ao ensino regular. (Incluído pela Emenda Constitucional n° 53, de 2006) ^b3c17c0
 
-	*   A U,  E,  D    M        . (I  E C  ,  ) ^
+	* § 6° A União, os Estados, o Distrito Federal e os Municípios exercerão ação redistributiva em relação a suas escolas. (Incluído pela Emenda Constitucional n° 108, de 2020) ^fcd1ab4
 
-	*   O          [[#^|]]              C A Q (CAQ),           ,      . [[#^|]]  C. (I  E C  ,  ) ^
+	* § 7° O padrão mínimo de qualidade de que trata o § [[#^41b0e06|1°]] deste artigo considerará as condições adequadas de oferta e terá como referência o Custo Aluno Qualidade (CAQ), pactuados em regime de colaboração na forma disposta em lei complementar, conforme o parágrafo único do art. [[#^382bb16|23]] desta Constituição. (Incluído pela Emenda Constitucional n° 108, de 2020) ^d15b93d
 
-* A. . A U , ,    z,   E,  D    M     ,  ,     ,     ,      . ^
+* Art. 212. A União aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino. ^9ea8a92
 
-	*   A        U  E,  D    M,   E   M,   ,       ,      . ^
+	* § 1° A parcela da arrecadação de impostos transferida pela União aos Estados, ao Distrito Federal e aos Municípios, ou pelos Estados aos respectivos Municípios, não é considerada, para efeito do cálculo previsto neste artigo, receita do governo que a transferir. ^8d31a72
 
-	*   P       ""  ,       ,           . [[#^|]]. ^
+	* § 2° Para efeito do cumprimento do disposto no "caput" deste artigo, serão considerados os sistemas de ensino federal, estadual e municipal e os recursos aplicados na forma do art. [[#^d509592|213]]. ^068f9ef
 
-	*   A             ,      z,       ,       . (R   E C  ,  ) ^
+	* § 3° A distribuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino obrigatório, no que se refere a universalização, garantia de padrão de qualidade e equidade, nos termos do plano nacional de educação. (Redação dada pela Emenda Constitucional n° 59, de 2009) ^a288be1
 
-	*   O           . [[#^|]], [[#^|VII]],            . ^
+	* § 4° Os programas suplementares de alimentação e assistência à saúde previstos no art. [[#^f9ae1b8|208]], [[#^5d9c03a|VII]], serão financiados com recursos provenientes de contribuições sociais e outros recursos orçamentários. ^321dc76
 
-	*   A              -,       . (R   E C  ,  ) (V D  .,  ) ^
+	* § 5° A educação básica pública terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhida pelas empresas na forma da lei. (Redação dada pela Emenda Constitucional n° 53, de 2006) (Vide Decreto n° 6.003, de 2006) ^898f63d
 
-	*   A           -                 . (I  E C  ,  ) ^
+	* § 6° As cotas estaduais e municipais da arrecadação da contribuição social do salário-educação serão distribuídas proporcionalmente ao número de alunos matriculados na educação básica nas respectivas redes públicas de ensino. (Incluído pela Emenda Constitucional n° 53, de 2006) ^707249b
 
-	*   É            [[#^|]]  [[#^|]]         . (I  E C  ,  ) ^
+	* § 7° É vedado o uso dos recursos referidos no caput e nos §§ [[#^898f63d|5°]] e [[#^707249b|6°]] deste artigo para pagamento de aposentadorias e de pensões. (Incluído pela Emenda Constitucional n° 108, de 2020) ^450b83a
 
-	*   N        ,             [[#^|II]]    . [[#^|-A]],             ,            . [[#^|-A]]  C,      . (I  E C  ,  ) ^
+	* § 8° Na hipótese de extinção ou de substituição de impostos, serão redefinidos os percentuais referidos no caput deste artigo e no inciso [[#^ce2db5c|II]] do caput do art. [[#^c55ad29|212-A]], de modo que resultem recursos vinculados à manutenção e ao desenvolvimento do ensino, bem como os recursos subvinculados aos fundos de que trata o art. [[#^c55ad29|212-A]] desta Constituição, em aplicações equivalentes às anteriormente praticadas. (Incluído pela Emenda Constitucional n° 108, de 2020) ^ea01177
 
-	*   A      z,            ,   . (I  E C  ,  ) ^
+	* § 9° A lei disporá sobre normas de fiscalização, de avaliação e de controle das despesas com educação nas esferas estadual, distrital e municipal. (Incluído pela Emenda Constitucional n° 108, de 2020) ^acc7854
 
-* A. -A. O E,  D    M            . [[#^|]]  C                 ,    : (I  E C  ,  ) R ^
+* Art. 212-A. Os Estados, o Distrito Federal e os Municípios destinarão parte dos recursos a que se refere o caput do art. [[#^9ea8a92|212]] desta Constituição à manutenção e ao desenvolvimento do ensino na educação básica e à remuneração condigna de seus profissionais, respeitadas as seguintes disposições: (Incluído pela Emenda Constitucional n° 108, de 2020) Regulamento ^c55ad29
 
-	* I -          D ,  E   M     ,     E   D ,     M  D  E B   Vz  P  E (),  z ; (I  E C  ,  ) ^
+	* I - a distribuição dos recursos e de responsabilidades entre o Distrito Federal, os Estados e seus Municípios é assegurada mediante a instituição, no âmbito de cada Estado e do Distrito Federal, de um Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), de natureza contábil; (Incluído pela Emenda Constitucional n° 108, de 2020) ^76db992
 
-	* II -      [[#^|I]]        % (  ): (R   E C  ,  ) ^
+	* II - os fundos referidos no inciso [[#^76db992|I]] do caput deste artigo serão constituídos por 20% (vinte por cento): (Redação dada pela Emenda Constitucional n° 132, de 2023) ^ce2db5c
 
-		* )    E       . [[#^|-A]]; (I  E C  ,  ) ^
+		* a) das parcelas dos Estados no imposto de que trata o art. [[#^1a749c5|156-A]]; (Incluído pela Emenda Constitucional n° 132, de 2023) ^a1e0342
 
-		* )    D        . [[#^|-A]],       ,    . [[#^|-A]],  [[#^|]];  (I  E C  ,  ) ^
+		* b) da parcela do Distrito Federal no imposto de que trata o art. [[#^1a749c5|156-A]], relativa ao exercício de sua competência estadual, nos termos do art. [[#^1a749c5|156-A]], § [[#^d0ffe74|2°]]; e (Incluído pela Emenda Constitucional n° 132, de 2023) ^100c314
 
-		* )         [[#^|I]], [[#^|II]]  [[#^|III]]    . [[#^|]],   [[#^|II]]    . [[#^|]],   [[#^|II]], [[#^|III]]  [[#^|IV]]    . [[#^|]]    "[[#^|]]"  "[[#^|]]"   [[#^|I]]    [[#^|II]]    . [[#^|]]  C; (I  E C  ,  ) ^
+		* c) dos recursos a que se referem os incisos [[#^05025a6|I]], [[#^d99de90|II]] e [[#^8f30158|III]] do caput do art. [[#^c99e88e|155]], o inciso [[#^af083c8|II]] do caput do art. [[#^dcc29bd|157]], os incisos [[#^5f3032b|II]], [[#^4279ecf|III]] e [[#^a7b10c1|IV]] do caput do art. [[#^bfd7c36|158]] e as alíneas "[[#^5b9d1e6|a]]" e "[[#^b0cac88|b]]" do inciso [[#^9cfe31b|I]] e o inciso [[#^9cd5881|II]] do caput do art. [[#^835537a|159]] desta Constituição; (Incluído pela Emenda Constitucional n° 132, de 2023) ^f434520
 
-	* III -      [[#^|II]]         E   M,                  ,     ,     [[#^|]]  [[#^|]]  . [[#^|]]  C,       "[[#^|]]"   [[#^|X]]      [[#^|]]  ; (I  E C  ,  ) ^
+	* III - os recursos referidos no inciso [[#^ce2db5c|II]] do caput deste artigo serão distribuídos entre cada Estado e seus Municípios, proporcionalmente ao número de alunos das diversas etapas e modalidades da educação básica presencial matriculados nas respectivas redes, nos âmbitos de atuação prioritária, conforme estabelecido nos §§ [[#^375cb91|2°]] e [[#^20b3d82|3°]] do art. [[#^9021d45|211]] desta Constituição, observadas as ponderações referidas na alínea "[[#^5f01784|a]]" do inciso [[#^0689686|X]] do caput e no § [[#^4d7829f|2°]] deste artigo; (Incluído pela Emenda Constitucional n° 108, de 2020) ^9ad1a17
 
-	* IV -  U            [[#^|II]]    ; (I  E C  ,  ) ^
+	* IV - a União complementará os recursos dos fundos a que se refere o inciso [[#^ce2db5c|II]] do caput deste artigo; (Incluído pela Emenda Constitucional n° 108, de 2020) ^f9776df
 
-	* V -    U   ,  , % (    )           [[#^|II]]    ,    : (I  E C  ,  ) ^
+	* V - a complementação da União será equivalente a, no mínimo, 23% (vinte e três por cento) do total de recursos a que se refere o inciso [[#^ce2db5c|II]] do caput deste artigo, distribuída da seguinte forma: (Incluído pela Emenda Constitucional n° 108, de 2020) ^2a9728e
 
-		* )  (z)       E   D ,        (VAA),     [[#^|III]]    ,      ; (I  E C  ,  ) ^
+		* a) 10 (dez) pontos percentuais no âmbito de cada Estado e do Distrito Federal, sempre que o valor anual por aluno (VAAF), nos termos do inciso [[#^9ad1a17|III]] do caput deste artigo, não alcançar o mínimo definido nacionalmente; (Incluído pela Emenda Constitucional n° 108, de 2020) ^f7a6509
 
-		* )  , , (z    )         ,   ,         (VAAT),    [[#^|VI]]    ,      ; (I  E C  ,  ) ^
+		* b) no mínimo, 10,5 (dez inteiros e cinco décimos) pontos percentuais em cada rede pública de ensino municipal, estadual ou distrital, sempre que o valor anual total por aluno (VAAT), referido no inciso [[#^e17fdf1|VI]] do caput deste artigo, não alcançar o mínimo definido nacionalmente; (Incluído pela Emenda Constitucional n° 108, de 2020) ^f4f65af
 
-		* ) , (    )      ,         ,       ,      z    ,          ; (I  E C  ,  ) ^
+		* c) 2,5 (dois inteiros e cinco décimos) pontos percentuais nas redes públicas que, cumpridas condicionalidades de melhoria de gestão previstas em lei, alcançarem evolução de indicadores a serem definidos, de atendimento e melhoria da aprendizagem com redução das desigualdades, nos termos do sistema nacional de avaliação da educação básica; (Incluído pela Emenda Constitucional n° 108, de 2020) ^a592b90
 
-	* VI -  VAAT  ,          [[#^|X]]    ,           [[#^|II]]    ,          ,      [[#^|]]         [[#^|III]]    ; (I  E C  ,  ) ^
+	* VI - o VAAT será calculado, na forma da lei de que trata o inciso [[#^0689686|X]] do caput deste artigo, com base nos recursos a que se refere o inciso [[#^ce2db5c|II]] do caput deste artigo, acrescidos de outras receitas e de transferências vinculadas à educação, observado o disposto no § [[#^174dc97|1°]] e consideradas as matrículas nos termos do inciso [[#^9ad1a17|III]] do caput deste artigo; (Incluído pela Emenda Constitucional n° 108, de 2020) ^e17fdf1
 
-	* VII -        [[#^|II]]  [[#^|IV]]        E   M       ,     [[#^|]]  [[#^|]]  . [[#^|]]  C; (I  E C  ,  ) ^
+	* VII - os recursos de que tratam os incisos [[#^ce2db5c|II]] e [[#^f9776df|IV]] do caput deste artigo serão aplicados pelos Estados e pelos Municípios exclusivamente nos respectivos âmbitos de atuação prioritária, conforme estabelecido nos §§ [[#^375cb91|2°]] e [[#^20b3d82|3°]] do art. [[#^9021d45|211]] desta Constituição; (Incluído pela Emenda Constitucional n° 108, de 2020) ^dcb3a26
 
-	* VIII -              . [[#^|]]  C ,  , % (  )    U,            [[#^|V]]    ; (I  E C  ,  ) ^
+	* VIII - a vinculação de recursos à manutenção e ao desenvolvimento do ensino estabelecida no art. [[#^9ea8a92|212]] desta Constituição suportará, no máximo, 30% (trinta por cento) da complementação da União, considerados para os fins deste inciso os valores previstos no inciso [[#^2a9728e|V]] do caput deste artigo; (Incluído pela Emenda Constitucional n° 108, de 2020) ^6a6b99f
 
-	* IX -      . [[#^|]]  C -      [[#^|II]]  [[#^|IV]]    ,           ; (I  E C  ,  ) ^
+	* IX - o disposto no caput do art. [[#^aaae994|160]] desta Constituição aplica-se aos recursos referidos nos incisos [[#^ce2db5c|II]] e [[#^f9776df|IV]] do caput deste artigo, e seu descumprimento pela autoridade competente importará em crime de responsabilidade; (Incluído pela Emenda Constitucional n° 108, de 2020) ^a63d882
 
-	* X -   ,       [[#^|I]], [[#^|II]], [[#^|III]]  [[#^|IV]]      [[#^|]]  . [[#^|]]         ,     . [[#^|]]  C, : (I  E C  ,  ) ^
+	* X - a lei disporá, observadas as garantias estabelecidas nos incisos [[#^76db992|I]], [[#^ce2db5c|II]], [[#^9ad1a17|III]] e [[#^f9776df|IV]] do caput e no § [[#^b8f5c8f|1°]] do art. [[#^f9ae1b8|208]] e as metas pertinentes do plano nacional de educação, nos termos previstos no art. [[#^12253d5|214]] desta Constituição, sobre: (Incluído pela Emenda Constitucional n° 108, de 2020) ^0689686
 
-		* )  z      [[#^|I]]           ,             , ,         ,              ; (I  E C  ,  ) ^
+		* a) a organização dos fundos referidos no inciso [[#^76db992|I]] do caput deste artigo e a distribuição proporcional de seus recursos, as diferenças e as ponderações quanto ao valor anual por aluno entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino, observados as respectivas especificidades e os insumos necessários para a garantia de sua qualidade; (Incluído pela Emenda Constitucional n° 108, de 2020) ^5f01784
 
-		* )      VAA    [[#^|III]]       VAAT    [[#^|VI]]    ; (I  E C  ,  ) ^
+		* b) a forma de cálculo do VAAF decorrente do inciso [[#^9ad1a17|III]] do caput deste artigo e do VAAT referido no inciso [[#^e17fdf1|VI]] do caput deste artigo; (Incluído pela Emenda Constitucional n° 108, de 2020) ^c99a2e2
 
-		* )          "[[#^|]]"   [[#^|V]]    ; (I  E C  ,  ) ^
+		* c) a forma de cálculo para distribuição prevista na alínea "[[#^a592b90|c]]" do inciso [[#^2a9728e|V]] do caput deste artigo; (Incluído pela Emenda Constitucional n° 108, de 2020) ^f8f5966
 
-		* )  ,  ,  z    ,         [[#^|I]]    ,   ,  ,            ,       ; (I  E C  ,  ) ^
+		* d) a transparência, o monitoramento, a fiscalização e o controle interno, externo e social dos fundos referidos no inciso [[#^76db992|I]] do caput deste artigo, assegurada a criação, a autonomia, a manutenção e a consolidação de conselhos de acompanhamento e controle social, admitida sua integração aos conselhos de educação; (Incluído pela Emenda Constitucional n° 108, de 2020) ^69b685c
 
-		* )       ,     ,   ,          ; (I  E C  ,  ) ^
+		* e) o conteúdo e a periodicidade da avaliação, por parte do órgão responsável, dos efeitos redistributivos, da melhoria dos indicadores educacionais e da ampliação do atendimento; (Incluído pela Emenda Constitucional n° 108, de 2020) ^32f367e
 
-	* XI -     % (  )       [[#^|I]]    ,         "[[#^|]]"   [[#^|V]]    ,            , ,        "[[#^|]]"   [[#^|V]]    ,     % (z  )    ; (I  E C  ,  ) ^
+	* XI - proporção não inferior a 70% (setenta por cento) de cada fundo referido no inciso [[#^76db992|I]] do caput deste artigo, excluídos os recursos de que trata a alínea "[[#^a592b90|c]]" do inciso [[#^2a9728e|V]] do caput deste artigo, será destinada ao pagamento dos profissionais da educação básica em efetivo exercício, observado, em relação aos recursos previstos na alínea "[[#^f4f65af|b]]" do inciso [[#^2a9728e|V]] do caput deste artigo, o percentual mínimo de 15% (quinze por cento) para despesas de capital; (Incluído pela Emenda Constitucional n° 108, de 2020) ^7b3c270
 
-	* XII -                  ; (I  E C  ,  ) ^
+	* XII - lei específica disporá sobre o piso salarial profissional nacional para os profissionais do magistério da educação básica pública; (Incluído pela Emenda Constitucional n° 108, de 2020) ^9d72efb
 
-	* XIII -  z         [[#^|]]  . [[#^|]]  C     U  ,    [[#^|V]]    ,  . (I  E C  ,  ) ^
+	* XIII - a utilização dos recursos a que se refere o § [[#^898f63d|5°]] do art. [[#^9ea8a92|212]] desta Constituição para a complementação da União ao Fundeb, referida no inciso [[#^2a9728e|V]] do caput deste artigo, é vedada. (Incluído pela Emenda Constitucional n° 108, de 2020) ^d01db34
 
-	* XIV -    ,        [[#^|V]]  ,  % (z  )               U               ,    ,       ,        ,   ,    ,        "[[#^|]]", "[[#^|]]"  "[[#^|]]"   [[#^|V]]  ; (I  E C  ,  ) ^
+	* XIV - no exercício de 2025, da complementação de que trata o inciso [[#^2a9728e|V]] do caput, até 10% (dez por cento) dos valores de cada uma das modalidades referidas nesse dispositivo poderão ser repassados pela União para ações de fomento à criação de matrículas em tempo integral na educação básica pública, considerados indicadores de atendimento, melhoria da qualidade e redução de desigualdades, mantida a classificação orçamentária do repasse como Fundeb, não se aplicando, para fins deste inciso, os critérios de que tratam as alíneas "[[#^f7a6509|a]]", "[[#^f4f65af|b]]" e "[[#^a592b90|c]]" do inciso [[#^2a9728e|V]] deste artigo; (Incluído pela Emenda Constitucional n° 135, de 2024) ^88093a8
 
-	* XV -      ,   % (  )        [[#^|I]]        E,  D    M          ,  z    U     ,             P N  E. (I  E C  ,  ) ^
+	* XV - a partir do exercício de 2026, no mínimo 4% (quatro por cento) dos recursos dos fundos referidos no inciso [[#^76db992|I]] do caput deste artigo serão destinados pelos Estados, pelo Distrito Federal e pelos Municípios à criação de matrículas em tempo integral na educação básica, conforme diretrizes pactuadas entre a União e demais entes da Federação, até o atingimento das metas de educação em tempo integral estabelecidas pelo Plano Nacional de Educação. (Incluído pela Emenda Constitucional n° 135, de 2024) ^3861f9f
 
-	*   O   VAAT,    [[#^|VI]]    ,  ,       [[#^|II]]    ,  ,   : (I  E C  ,  ) ^
+	* § 1° O cálculo do VAAT, referido no inciso [[#^e17fdf1|VI]] do caput deste artigo, deverá considerar, além dos recursos previstos no inciso [[#^ce2db5c|II]] do caput deste artigo, pelo menos, as seguintes disponibilidades: (Incluído pela Emenda Constitucional n° 108, de 2020) ^174dc97
 
-		* I -   E,  D    M                [[#^|I]]    ; (I  E C  ,  ) ^
+		* I - receitas de Estados, do Distrito Federal e de Municípios vinculadas à manutenção e ao desenvolvimento do ensino não integrantes dos fundos referidos no inciso [[#^76db992|I]] do caput deste artigo; (Incluído pela Emenda Constitucional n° 108, de 2020) ^04590ed
 
-		* II -        -      [[#^|]]  . [[#^|]]  C; (I  E C  ,  ) ^
+		* II - cotas estaduais e municipais da arrecadação do salário-educação de que trata o § [[#^707249b|6°]] do art. [[#^9ea8a92|212]] desta Constituição; (Incluído pela Emenda Constitucional n° 108, de 2020) ^39e1b21
 
-		* III -   U   E,  D    M     "[[#^|]]"   [[#^|V]]    . (I  E C  ,  ) ^
+		* III - complementação da União transferida a Estados, ao Distrito Federal e a Municípios nos termos da alínea "[[#^f7a6509|a]]" do inciso [[#^2a9728e|V]] do caput deste artigo. (Incluído pela Emenda Constitucional n° 108, de 2020) ^32e02d4
 
-	*   A      "[[#^|]]"   [[#^|X]]    ,                              ,    z  . (I  E C  ,  ) ^
+	* § 2° Além das ponderações previstas na alínea "[[#^5f01784|a]]" do inciso [[#^0689686|X]] do caput deste artigo, a lei definirá outras relativas ao nível socioeconômico dos educandos e aos indicadores de disponibilidade de recursos vinculados à educação e de potencial de arrecadação tributária de cada ente federado, bem como seus prazos de implementação. (Incluído pela Emenda Constitucional n° 108, de 2020) ^4d7829f
 
-	*   S        % (  )          "[[#^|]]"   [[#^|V]]    ,    ." (I  E C  ,  ) ^
+	* § 3° Será destinada à educação infantil a proporção de 50% (cinquenta por cento) dos recursos globais a que se refere a alínea "[[#^f4f65af|b]]" do inciso [[#^2a9728e|V]] do caput deste artigo, nos termos da lei." (Incluído pela Emenda Constitucional n° 108, de 2020) ^4cc3e56
 
-* A. . O       ,      ,   ,   , : ^
+* Art. 213. Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas, definidas em lei, que: ^d509592
 
-	* I -   -       ; ^
+	* I - comprovem finalidade não-lucrativa e apliquem seus excedentes financeiros em educação; ^30fc941
 
-	* II -          ,   ,   P P,       . ^
+	* II - assegurem a destinação de seu patrimônio a outra escola comunitária, filantrópica ou confessional, ou ao Poder Público, no caso de encerramento de suas atividades. ^ddaf105
 
-	*   O                   ,    ,       ,                 ,   P P           . ^
+	* § 1° Os recursos de que trata este artigo poderão ser destinados a bolsas de estudo para o ensino fundamental e médio, na forma da lei, para os que demonstrarem insuficiência de recursos, quando houver falta de vagas e cursos regulares da rede pública na localidade da residência do educando, ficando o Poder Público obrigado a investir prioritariamente na expansão de sua rede na localidade. ^b39e76b
 
-	*   A   ,          z   /             P P. (R   E C  ,  ) ^
+	* § 2° As atividades de pesquisa, de extensão e de estímulo e fomento à inovação realizadas por universidades e/ou por instituições de educação profissional e tecnológica poderão receber apoio financeiro do Poder Público. (Redação dada pela Emenda Constitucional n° 85, de 2015) ^20b5ee2
 
-* A. . A       ,   ,                 z, ,                 ,                 z : (R   E C  ,  ) ^
+* Art. 214. A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacional de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implementação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas que conduzam a: (Redação dada pela Emenda Constitucional n° 59, de 2009) ^12253d5
 
-	* I -   ; ^
+	* I - erradicação do analfabetismo; ^5624977
 
-	* II - z   ; ^
+	* II - universalização do atendimento escolar; ^a47fc0d
 
-	* III -     ; ^
+	* III - melhoria da qualidade do ensino; ^a572981
 
-	* IV -    ; ^
+	* IV - formação para o trabalho; ^09e55fe
 
-	* V -  ,     P. ^
+	* V - promoção humanística, científica e tecnológica do País. ^97e5091
 
-	* VI -                . (I  E C  ,  ) ^
+	* VI - estabelecimento de meta de aplicação de recursos públicos em educação como proporção do produto interno bruto. (Incluído pela Emenda Constitucional n° 59, de 2009) ^1392e16
 
-### ... SEÇÃO II - DA CULTURA (ARTS.  A -A)
-[[NL/C    (C)/MOC/... SEÇÃO II - DA CULTURA (ARTS.  A -A)|R]]
+### 8.3.2. SEÇÃO II - DA CULTURA (ARTS. 215 A 216-A)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.3.2. SEÇÃO II - DA CULTURA (ARTS. 215 A 216-A)|Resumo]]
 
-* A. . O E                ,      z      . ^
+* Art. 215. O Estado garantirá a todos o pleno exercício dos direitos culturais e acesso às fontes da cultura nacional, e apoiará e incentivará a valorização e a difusão das manifestações culturais. ^faf8042
 
-	*   O E      ,   -,         z . R ^
+	* § 1° O Estado protegerá as manifestações das culturas populares, indígenas e afro-brasileiras, e das de outros grupos participantes do processo civilizatório nacional. Regulamento ^97c6f29
 
-	*   A                 . ^
+	* § 2° A lei disporá sobre a fixação de datas comemorativas de alta significação para os diferentes segmentos étnicos nacionais. ^03c4829
 
-	*   A    P N  C,   ,      P          z : (I  E C  ,  ) ^
+	* § 3° A lei estabelecerá o Plano Nacional de Cultura, de duração plurianual, visando ao desenvolvimento cultural do País e à integração das ações do poder público que conduzem à: (Incluído pela Emenda Constitucional n° 48, de 2005) ^03cc34e
 
-		* I   z    ; (I  E C  ,  ) ^
+		* I defesa e valorização do patrimônio cultural brasileiro; (Incluído pela Emenda Constitucional n° 48, de 2005) ^ef76e2e
 
-		* II ,      ; (I  E C  ,  ) ^
+		* II produção, promoção e difusão de bens culturais; (Incluído pela Emenda Constitucional n° 48, de 2005) ^6e38510
 
-		* III             ; (I  E C  ,  ) ^
+		* III formação de pessoal qualificado para a gestão da cultura em suas múltiplas dimensões; (Incluído pela Emenda Constitucional n° 48, de 2005) ^0b50ba3
 
-		* IV z      ; (I  E C  ,  ) ^
+		* IV democratização do acesso aos bens de cultura; (Incluído pela Emenda Constitucional n° 48, de 2005) ^57c17e7
 
-		* V z     . (I  E C  ,  ) ^
+		* V valorização da diversidade étnica e regional. (Incluído pela Emenda Constitucional n° 48, de 2005) ^e487c47
 
-* A. . C       z   ,     ,     ,  ,         ,    : ^
+* Art. 216. Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial, tomados individualmente ou em conjunto, portadores de referência à identidade, à ação, à memória dos diferentes grupos formadores da sociedade brasileira, nos quais se incluem: ^4d7b1e3
 
-	* I -    ; ^
+	* I - as formas de expressão; ^af6aaf2
 
-	* II -    , z  ; ^
+	* II - os modos de criar, fazer e viver; ^5560502
 
-	* III -   ,   ; ^
+	* III - as criações científicas, artísticas e tecnológicas; ^cbb30c0
 
-	* IV -  , , ,        -; ^
+	* IV - as obras, objetos, documentos, edificações e demais espaços destinados às manifestações artístico-culturais; ^0836a5e
 
-	* V -        , , , , ,   . ^
+	* V - os conjuntos urbanos e sítios de valor histórico, paisagístico, artístico, arqueológico, paleontológico, ecológico e científico. ^3594ffb
 
-	*   O P P,     ,       ,    , , ,   ,        . ^
+	* § 1° O Poder Público, com a colaboração da comunidade, promoverá e protegerá o patrimônio cultural brasileiro, por meio de inventários, registros, vigilância, tombamento e desapropriação, e de outras formas de acautelamento e preservação. ^2609eae
 
-	*   C   ,    ,                . (V L  .,  ) ^
+	* § 2° Cabem à administração pública, na forma da lei, a gestão da documentação governamental e as providências para franquear sua consulta a quantos dela necessitem. (Vide Lei n° 12.527, de 2011) ^b918f21
 
-	*   A              . ^
+	* § 3° A lei estabelecerá incentivos para a produção e o conhecimento de bens e valores culturais. ^7107999
 
-	*   O        ,    . ^
+	* § 4° Os danos e ameaças ao patrimônio cultural serão punidos, na forma da lei. ^4316363
 
-	*                 . ^
+	* § 5° Ficam tombados todos os documentos e os sítios detentores de reminiscências históricas dos antigos quilombos. ^d62fc6c
 
-	*   É   E   D                   ,        ,        : (I  E C  ,  ..) ^
+	* § 6° É facultado aos Estados e ao Distrito Federal vincular a fundo estadual de fomento à cultura até cinco décimos por cento de sua receita tributária líquida, para o financiamento de programas e projetos culturais, vedada a aplicação desses recursos no pagamento de: (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^9518b9b
 
-		* I -      ; (I  E C  ,  ..) ^
+		* I - despesas com pessoal e encargos sociais; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^97d129d
 
-		* II -   ; (I  E C  ,  ..) ^
+		* II - serviço da dívida; (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^1ac33e5
 
-		* III -            . (I  E C  ,  ..) ^
+		* III - qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^6bfd02b
 
-* A. -A. O S N  C, z    ,   z  ,             ,   ,         ,       ,         . (I  E C  ,  ) ^
+* Art. 216-A. O Sistema Nacional de Cultura, organizado em regime de colaboração, de forma descentralizada e participativa, institui um processo de gestão e promoção conjunta de políticas públicas de cultura, democráticas e permanentes, pactuadas entre os entes da Federação e a sociedade, tendo por objetivo promover o desenvolvimento humano, social e econômico com pleno exercício dos direitos culturais. (Incluído pela Emenda Constitucional n° 71, de 2012) ^f3e585c
 
-	*   O S N  C -         z,   P N  C,  -   : (I  E C  ,  ) ^
+	* § 1° O Sistema Nacional de Cultura fundamenta-se na política nacional de cultura e nas suas diretrizes, estabelecidas no Plano Nacional de Cultura, e rege-se pelos seguintes princípios: (Incluído pela Emenda Constitucional n° 71, de 2012) ^d836ba3
 
-		* I -    ; (I  E C  ,  ) ^
+		* I - diversidade das expressões culturais; (Incluído pela Emenda Constitucional n° 71, de 2012) ^412d97b
 
-		* II - z       ; (I  E C  ,  ) ^
+		* II - universalização do acesso aos bens e serviços culturais; (Incluído pela Emenda Constitucional n° 71, de 2012) ^f3ed228
 
-		* III -   ,        ; (I  E C  ,  ) ^
+		* III - fomento à produção, difusão e circulação de conhecimento e bens culturais; (Incluído pela Emenda Constitucional n° 71, de 2012) ^2ae9377
 
-		* IV -     ,         ; (I  E C  ,  ) ^
+		* IV - cooperação entre os entes federados, os agentes públicos e privados atuantes na área cultural; (Incluído pela Emenda Constitucional n° 71, de 2012) ^021cb04
 
-		* V -       , ,    ; (I  E C  ,  ) ^
+		* V - integração e interação na execução das políticas, programas, projetos e ações desenvolvidas; (Incluído pela Emenda Constitucional n° 71, de 2012) ^7a09f40
 
-		* VI -      ; (I  E C  ,  ) ^
+		* VI - complementaridade nos papéis dos agentes culturais; (Incluído pela Emenda Constitucional n° 71, de 2012) ^6232ab9
 
-		* VII -    ; (I  E C  ,  ) ^
+		* VII - transversalidade das políticas culturais; (Incluído pela Emenda Constitucional n° 71, de 2012) ^47cf5f9
 
-		* VIII -          ; (I  E C  ,  ) ^
+		* VIII - autonomia dos entes federados e das instituições da sociedade civil; (Incluído pela Emenda Constitucional n° 71, de 2012) ^b45cc40
 
-		* IX -     ; (I  E C  ,  ) ^
+		* IX - transparência e compartilhamento das informações; (Incluído pela Emenda Constitucional n° 71, de 2012) ^715b743
 
-		* X - z        ; (I  E C  ,  ) ^
+		* X - democratização dos processos decisórios com participação e controle social; (Incluído pela Emenda Constitucional n° 71, de 2012) ^70793da
 
-		* XI - z     ,     ; (I  E C  ,  ) ^
+		* XI - descentralização articulada e pactuada da gestão, dos recursos e das ações; (Incluído pela Emenda Constitucional n° 71, de 2012) ^6249df7
 
-		* XII -           . (I  E C  ,  ) ^
+		* XII - ampliação progressiva dos recursos contidos nos orçamentos públicos para a cultura. (Incluído pela Emenda Constitucional n° 71, de 2012) ^c984ef7
 
-	*   C    S N  C,     : (I  E C  ,  ) ^
+	* § 2° Constitui a estrutura do Sistema Nacional de Cultura, nas respectivas esferas da Federação: (Incluído pela Emenda Constitucional n° 71, de 2012) ^12433d8
 
-		* I -    ; (I  E C  ,  ) ^
+		* I - órgãos gestores da cultura; (Incluído pela Emenda Constitucional n° 71, de 2012) ^a45aaef
 
-		* II -    ; (I  E C  ,  ) ^
+		* II - conselhos de política cultural; (Incluído pela Emenda Constitucional n° 71, de 2012) ^b8a088a
 
-		* III -   ; (I  E C  ,  ) ^
+		* III - conferências de cultura; (Incluído pela Emenda Constitucional n° 71, de 2012) ^197075e
 
-		* IV -  ; (I  E C  ,  ) ^
+		* IV - comissões intergestores; (Incluído pela Emenda Constitucional n° 71, de 2012) ^4c02f57
 
-		* V -   ; (I  E C  ,  ) ^
+		* V - planos de cultura; (Incluído pela Emenda Constitucional n° 71, de 2012) ^a56a593
 
-		* VI -     ; (I  E C  ,  ) ^
+		* VI - sistemas de financiamento à cultura; (Incluído pela Emenda Constitucional n° 71, de 2012) ^cc3d4eb
 
-		* VII -      ; (I  E C  ,  ) ^
+		* VII - sistemas de informações e indicadores culturais; (Incluído pela Emenda Constitucional n° 71, de 2012) ^a487618
 
-		* VIII -       ;  (I  E C  ,  ) ^
+		* VIII - programas de formação na área da cultura; e (Incluído pela Emenda Constitucional n° 71, de 2012) ^d8b9493
 
-		* IX -    . (I  E C  ,  ) ^
+		* IX - sistemas setoriais de cultura. (Incluído pela Emenda Constitucional n° 71, de 2012) ^9652839
 
-	*   L       S N  C,               . (I  E C  ,  ) ^
+	* § 3° Lei federal disporá sobre a regulamentação do Sistema Nacional de Cultura, bem como de sua articulação com os demais sistemas nacionais ou políticas setoriais de governo. (Incluído pela Emenda Constitucional n° 71, de 2012) ^4455aab
 
-	*   O E,  D    M z        . (I  E C  ,  ) ^
+	* § 4° Os Estados, o Distrito Federal e os Municípios organizarão seus respectivos sistemas de cultura em leis próprias. (Incluído pela Emenda Constitucional n° 71, de 2012) ^14286f2
 
-### ... SEÇÃO III - DO DESPORTO (ART. )
-[[NL/C    (C)/MOC/... SEÇÃO III - DO DESPORTO (ART. )|R]]
+### 8.3.3. SEÇÃO III - DO DESPORTO (ART. 217)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.3.3. SEÇÃO III - DO DESPORTO (ART. 217)|Resumo]]
 
-* A. . É   E      -,     , : ^
+* Art. 217. É dever do Estado fomentar práticas desportivas formais e não-formais, como direito de cada um, observados: ^b1f985f
 
-	* I -        ,    z  ; ^
+	* I - a autonomia das entidades desportivas dirigentes e associações, quanto a sua organização e funcionamento; ^53ab8d6
 
-	* II -             ,   ,       ; ^
+	* II - a destinação de recursos públicos para a promoção prioritária do desporto educacional e, em casos específicos, para a do desporto de alto rendimento; ^e5ba08c
 
-	* III -          - ; ^
+	* III - o tratamento diferenciado para o desporto profissional e o não- profissional; ^28dabd5
 
-	* IV -           . ^
+	* IV - a proteção e o incentivo às manifestações desportivas de criação nacional. ^8997540
 
-	*   O P J            -     ,   . ^
+	* § 1° O Poder Judiciário só admitirá ações relativas à disciplina e às competições desportivas após esgotarem-se as instâncias da justiça desportiva, regulada em lei. ^0e45d19
 
-	*   A     z    ,     ,    . ^
+	* § 2° A justiça desportiva terá o prazo máximo de sessenta dias, contados da instauração do processo, para proferir decisão final. ^30aeed9
 
-	*   O P P   z,     . ^
+	* § 3° O Poder Público incentivará o lazer, como forma de promoção social. ^5dffdfa
 
-## .. CAPÍTULO IV - DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO (ARTS.  A -B)
-[[NL/C    (C)/MOC/.. CAPÍTULO IV - DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO (ARTS.  A -B)|R]]
+## 8.4. CAPÍTULO IV - DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO (ARTS. 218 A 219-B)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.4. CAPÍTULO IV - DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO (ARTS. 218 A 219-B)|Resumo]]
 
-* A. . O E      ,  ,        . (R   E C  ,  ) ^
+* Art. 218. O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa, a capacitação científica e tecnológica e a inovação. (Redação dada pela Emenda Constitucional n° 85, de 2015) ^75cab87
 
-	*   A          E,           ,   . (R   E C  ,  ) ^
+	* § 1° A pesquisa científica básica e tecnológica receberá tratamento prioritário do Estado, tendo em vista o bem público e o progresso da ciência, tecnologia e inovação. (Redação dada pela Emenda Constitucional n° 85, de 2015) ^7cd283d
 
-	*   A   --                 . ^
+	* § 2° A pesquisa tecnológica voltar-se-á preponderantemente para a solução dos problemas brasileiros e para o desenvolvimento do sistema produtivo nacional e regional. ^e92b813
 
-	*   O E          , ,   ,          ,             . (R   E C  ,  ) ^
+	* § 3° O Estado apoiará a formação de recursos humanos nas áreas de ciência, pesquisa, tecnologia e inovação, inclusive por meio do apoio às atividades de extensão tecnológica, e concederá aos que delas se ocupem meios e condições especiais de trabalho. (Redação dada pela Emenda Constitucional n° 85, de 2015) ^7bc7f40
 
-	*   A          ,      P,                 ,   ,          . ^
+	* § 4° A lei apoiará e estimulará as empresas que invistam em pesquisa, criação de tecnologia adequada ao País, formação e aperfeiçoamento de seus recursos humanos e que pratiquem sistemas de remuneração que assegurem ao empregado, desvinculada do salário, participação nos ganhos econômicos resultantes da produtividade de seu trabalho. ^e82e764
 
-	*   É   E   D                    . ^
+	* § 5° É facultado aos Estados e ao Distrito Federal vincular parcela de sua receita orçamentária a entidades públicas de fomento ao ensino e à pesquisa científica e tecnológica. ^34dc4f6
 
-	*   O E,       ,     ,    ,     . (I  E C  ,  ) ^
+	* § 6° O Estado, na execução das atividades previstas no caput, estimulará a articulação entre entes, tanto públicos quanto privados, nas diversas esferas de governo. (Incluído pela Emenda Constitucional n° 85, de 2015) ^4b57643
 
-	*   O E            ,   ,         . (I  E C  ,  ) ^
+	* § 7° O Estado promoverá e incentivará a atuação no exterior das instituições públicas de ciência, tecnologia e inovação, com vistas à execução das atividades previstas no caput. (Incluído pela Emenda Constitucional n° 85, de 2015) ^3bb646c
 
-* A. . O             z     -,  -        P,     . ^
+* Art. 219. O mercado interno integra o patrimônio nacional e será incentivado de modo a viabilizar o desenvolvimento cultural e sócio-econômico, o bem-estar da população e a autonomia tecnológica do País, nos termos de lei federal. ^ce33519
 
-	* P . O E          ,     ,   ,                 ,        , ,     . (I  E C  ,  ) ^
+	* Parágrafo único. O Estado estimulará a formação e o fortalecimento da inovação nas empresas, bem como nos demais entes, públicos ou privados, a constituição e a manutenção de parques e polos tecnológicos e de demais ambientes promotores da inovação, a atuação dos inventores independentes e a criação, absorção, difusão e transferência de tecnologia. (Incluído pela Emenda Constitucional n° 85, de 2015) ^5239aa7
 
-* A. -A. A U,  E,  D    M              ,        z   ,       ,        ,          ,    . (I  E C  ,  ) ^
+* Art. 219-A. A União, os Estados, o Distrito Federal e os Municípios poderão firmar instrumentos de cooperação com órgãos e entidades públicos e com entidades privadas, inclusive para o compartilhamento de recursos humanos especializados e capacidade instalada, para a execução de projetos de pesquisa, de desenvolvimento científico e tecnológico e de inovação, mediante contrapartida financeira ou não financeira assumida pelo ente beneficiário, na forma da lei. (Incluído pela Emenda Constitucional n° 85, de 2015) ^1526463
 
-* A. -B. O S N  C, T  I (SNCTI)  z      ,    ,            . (I  E C  ,  ) ^
+* Art. 219-B. O Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI) será organizado em regime de colaboração entre entes, tanto públicos quanto privados, com vistas a promover o desenvolvimento científico e tecnológico e a inovação. (Incluído pela Emenda Constitucional n° 85, de 2015) ^b8b312a
 
-	*   L        SNCTI. (I  E C  ,  ) ^
+	* § 1° Lei federal disporá sobre as normas gerais do SNCTI. (Incluído pela Emenda Constitucional n° 85, de 2015) ^2286b82
 
-	*   O E,  D    M     . (I  E C  ,  ) ^
+	* § 2° Os Estados, o Distrito Federal e os Municípios legislarão concorrentemente sobre suas peculiaridades. (Incluído pela Emenda Constitucional n° 85, de 2015) ^9c2321c
 
-## .. CAPÍTULO V - DA COMUNICAÇÃO SOCIAL (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO V - DA COMUNICAÇÃO SOCIAL (ARTS.  A )|R]]
+## 8.5. CAPÍTULO V - DA COMUNICAÇÃO SOCIAL (ARTS. 220 A 224)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.5. CAPÍTULO V - DA COMUNICAÇÃO SOCIAL (ARTS. 220 A 224)|Resumo]]
 
-* A. . A   ,  ,     ,   ,       ,     C. ^
+* Art. 220. A manifestação do pensamento, a criação, a expressão e a informação, sob qualquer forma, processo ou veículo não sofrerão qualquer restrição, observado o disposto nesta Constituição. ^3345b20
 
-	*   N                   ,     . [[#^|]], [[#^|IV]], [[#^|V]], [[#^|X]], [[#^|XIII]]  [[#^|XIV]]. ^
+	* § 1° Nenhuma lei conterá dispositivo que possa constituir embaraço à plena liberdade de informação jornalística em qualquer veículo de comunicação social, observado o disposto no art. [[#^30f4637|5°]], [[#^d268ac1|IV]], [[#^5e2015f|V]], [[#^eaedacb|X]], [[#^9b62699|XIII]] e [[#^d13eabf|XIV]]. ^0bdd1a5
 
-	*   É       z ,   . ^
+	* § 2° É vedada toda e qualquer censura de natureza política, ideológica e artística. ^58b5c8c
 
-	*   C   : ^
+	* § 3° Compete à lei federal: ^49ba6ad
 
-		* I -      ,   P P    z ,        ,          ; ^
+		* I - regular as diversões e espetáculos públicos, cabendo ao Poder Público informar sobre a natureza deles, as faixas etárias a que não se recomendem, locais e horários em que sua apresentação se mostre inadequada; ^55068ad
 
-		* II -                              . [[#^|]],      ,             . ^
+		* II - estabelecer os meios legais que garantam à pessoa e à família a possibilidade de se defenderem de programas ou programações de rádio e televisão que contrariem o disposto no art. [[#^95dd105|221]], bem como da propaganda de produtos, práticas e serviços que possam ser nocivos à saúde e ao meio ambiente. ^8fcf4f9
 
-	*   A    ,  , ,        ,     [[#^|II]]   ,  ,   ,        . ^
+	* § 4° A propaganda comercial de tabaco, bebidas alcoólicas, agrotóxicos, medicamentos e terapias estará sujeita a restrições legais, nos termos do inciso [[#^8fcf4f9|II]] do parágrafo anterior, e conterá, sempre que necessário, advertência sobre os malefícios decorrentes de seu uso. ^3171fa8
 
-	*   O      ,   ,      . ^
+	* § 5° Os meios de comunicação social não podem, direta ou indiretamente, ser objeto de monopólio ou oligopólio. ^c699049
 
-	*   A           . ^
+	* § 6° A publicação de veículo impresso de comunicação independe de licença de autoridade. ^eed939f
 
-* A. . A              : ^
+* Art. 221. A produção e a programação das emissoras de rádio e televisão atenderão aos seguintes princípios: ^95dd105
 
-	* I -    , ,   ; ^
+	* I - preferência a finalidades educativas, artísticas, culturais e informativas; ^7516af9
 
-	* II -               ; ^
+	* II - promoção da cultura nacional e regional e estímulo à produção independente que objetive sua divulgação; ^4cb1383
 
-	* III - z   ,   ,     ; ^
+	* III - regionalização da produção cultural, artística e jornalística, conforme percentuais estabelecidos em lei; ^7e4cb16
 
-	* IV -           . ^
+	* IV - respeito aos valores éticos e sociais da pessoa e da família. ^602602b
 
-* A. . A                    z    z ,               P. (R   E C  ,  ) ^
+* Art. 222. A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mais de dez anos, ou de pessoas jurídicas constituídas sob as leis brasileiras e que tenham sede no País. (Redação dada pela Emenda Constitucional n° 36, de 2002) ^6853999
 
-	*   E  ,                          ,   ,     z    z ,             . (R   E C  ,  ) ^
+	* § 1° Em qualquer caso, pelo menos setenta por cento do capital total e do capital votante das empresas jornalísticas e de radiodifusão sonora e de sons e imagens deverá pertencer, direta ou indiretamente, a brasileiros natos ou naturalizados há mais de dez anos, que exercerão obrigatoriamente a gestão das atividades e estabelecerão o conteúdo da programação. (Redação dada pela Emenda Constitucional n° 36, de 2002) ^90b2e41
 
-	*   A                   z    z ,      . (R   E C  ,  ) ^
+	* § 2° A responsabilidade editorial e as atividades de seleção e direção da programação veiculada são privativas de brasileiros natos ou naturalizados há mais de dez anos, em qualquer meio de comunicação social. (Redação dada pela Emenda Constitucional n° 36, de 2002) ^c666292
 
-	*   O     ,    z     ,       . [[#^|]],     ,             . (I  E C  ,  ) ^
+	* § 3° Os meios de comunicação social eletrônica, independentemente da tecnologia utilizada para a prestação do serviço, deverão observar os princípios enunciados no art. [[#^95dd105|221]], na forma de lei específica, que também garantirá a prioridade de profissionais brasileiros na execução de produções nacionais. (Incluído pela Emenda Constitucional n° 36, de 2002) ^23cdf58
 
-	*   L              [[#^|]]. (I  E C  ,  ) ^
+	* § 4° Lei disciplinará a participação de capital estrangeiro nas empresas de que trata o § [[#^90b2e41|1°]]. (Incluído pela Emenda Constitucional n° 36, de 2002) ^a4713c6
 
-	*   A            [[#^|]]    C N. (I  E C  ,  ) ^
+	* § 5° As alterações de controle societário das empresas de que trata o § [[#^90b2e41|1°]] serão comunicadas ao Congresso Nacional. (Incluído pela Emenda Constitucional n° 36, de 2002) ^d0faa0f
 
-* A. . C  P E    ,   z           ,        ,   . ^
+* Art. 223. Compete ao Poder Executivo outorgar e renovar concessão, permissão e autorização para o serviço de radiodifusão sonora e de sons e imagens, observado o princípio da complementaridade dos sistemas privado, público e estatal. ^33dfa4e
 
-	*   O C N     z  . [[#^|]],  [[#^|]]   [[#^|]],      . ^
+	* § 1° O Congresso Nacional apreciará o ato no prazo do art. [[#^2bcb060|64]], § [[#^64f8fdf|2°]] e § [[#^78e7eca|4°]], a contar do recebimento da mensagem. ^6fd40c3
 
-	*   A          ,  ,    C N,   . ^
+	* § 2° A não renovação da concessão ou permissão dependerá de aprovação de, no mínimo, dois quintos do Congresso Nacional, em votação nominal. ^1d3d919
 
-	*   O       z      C N,     . ^
+	* § 3° O ato de outorga ou renovação somente produzirá efeitos legais após deliberação do Congresso Nacional, na forma dos parágrafos anteriores. ^f7fe458
 
-	*   O     ,     z,    . ^
+	* § 4° O cancelamento da concessão ou permissão, antes de vencido o prazo, depende de decisão judicial. ^0880e8d
 
-	*   O z       z         z    . ^
+	* § 5° O prazo da concessão ou permissão será de dez anos para as emissoras de rádio e de quinze para as de televisão. ^3662af7
 
-* A. . P      ,  C N ,    ,  C  C S,    . ^
+* Art. 224. Para os efeitos do disposto neste capítulo, o Congresso Nacional instituirá, como seu órgão auxiliar, o Conselho de Comunicação Social, na forma da lei. ^99f3b51
 
-## .. CAPÍTULO VI - DO MEIO AMBIENTE (ART. )
-[[NL/C    (C)/MOC/.. CAPÍTULO VI - DO MEIO AMBIENTE (ART. )|R]]
+## 8.6. CAPÍTULO VI - DO MEIO AMBIENTE (ART. 225)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.6. CAPÍTULO VI - DO MEIO AMBIENTE (ART. 225)|Resumo]]
 
-* A. . T       ,             , -  P P       -  -       . ^
+* Art. 225. Todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá- lo para as presentes e futuras gerações. ^1e2da1b
 
-	*   P     ,   P P: ^
+	* § 1° Para assegurar a efetividade desse direito, incumbe ao Poder Público: ^40866ea
 
-		* I -                ; (R) ^
+		* I - preservar e restaurar os processos ecológicos essenciais e prover o manejo ecológico das espécies e ecossistemas; (Regulamento) ^dcd78d1
 
-		* II -           P  z          ; (R) (R) (R) (R) ^
+		* II - preservar a diversidade e a integridade do patrimônio genético do País e fiscalizar as entidades dedicadas à pesquisa e manipulação de material genético; (Regulamento) (Regulamento) (Regulamento) (Regulamento) ^c918917
 
-		* III - ,      ,         ,           ,   z          ; (R) ^
+		* III - definir, em todas as unidades da Federação, espaços territoriais e seus componentes a serem especialmente protegidos, sendo a alteração e a supressão permitidas somente através de lei, vedada qualquer utilização que comprometa a integridade dos atributos que justifiquem sua proteção; (Regulamento) ^4e3dde9
 
-		* IV - ,    ,              ,     ,     ; (R) ^
+		* IV - exigir, na forma da lei, para instalação de obra ou atividade potencialmente causadora de significativa degradação do meio ambiente, estudo prévio de impacto ambiental, a que se dará publicidade; (Regulamento) ^8941aba
 
-		* V -   ,  z     ,         ,        ; (R) ^
+		* V - controlar a produção, a comercialização e o emprego de técnicas, métodos e substâncias que comportem risco para a vida, a qualidade de vida e o meio ambiente; (Regulamento) ^6dba82d
 
-		* VI -             z       ; ^
+		* VI - promover a educação ambiental em todos os níveis de ensino e a conscientização pública para a preservação do meio ambiente; ^40eb7ce
 
-		* VII -      , ,    ,         ,           . (R) ^
+		* VII - proteger a fauna e a flora, vedadas, na forma da lei, as práticas que coloquem em risco sua função ecológica, provoquem a extinção de espécies ou submetam os animais a crueldade. (Regulamento) ^019699c
 
-		* VIII -                ,     ,    -        , z        ,          . [[#^|]], [[#^|I]], "[[#^|]]", [[#^|IV]]  [[#^|V]],   . [[#^|]]         . [[#^|]], [[#^|II]],  [[#^|-A]]. (R   E C  ,  ) ^
+		* VIII - manter regime fiscal favorecido para os biocombustíveis e para o hidrogênio de baixa emissão de carbono, na forma de lei complementar, a fim de assegurar-lhes tributação inferior à incidente sobre os combustíveis fósseis, capaz de garantir diferencial competitivo em relação a estes, especialmente em relação às contribuições de que tratam o art. [[#^dd51188|195]], [[#^30dea0e|I]], "[[#^023d173|b]]", [[#^d090020|IV]] e [[#^ad15f6a|V]], e o art. [[#^65ba57b|239]] e aos impostos a que se referem os arts. [[#^c99e88e|155]], [[#^d99de90|II]], e [[#^1a749c5|156-A]]. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^e039671
 
-	*   A            ,          ,    . ^
+	* § 2° Aquele que explorar recursos minerais fica obrigado a recuperar o meio ambiente degradado, de acordo com solução técnica exigida pelo órgão público competente, na forma da lei. ^f108ec0
 
-	*   A           ,    ,     ,        . ^
+	* § 3° As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas, independentemente da obrigação de reparar os danos causados. ^a8eb6a0
 
-	*   A  Az ,  M A,  S  M,  P M-G   Z C   ,   z --,    ,          ,       . (R) (R) ^
+	* § 4° A Floresta Amazônica brasileira, a Mata Atlântica, a Serra do Mar, o Pantanal Mato-Grossense e a Zona Costeira são patrimônio nacional, e sua utilização far-se-á, na forma da lei, dentro de condições que assegurem a preservação do meio ambiente, inclusive quanto ao uso dos recursos naturais. (Regulamento) (Regulamento) ^938b87c
 
-	*   S        E,   ,      . ^
+	* § 5° São indisponíveis as terras devolutas ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais. ^76b50f7
 
-	*   A          z    ,       . ^
+	* § 6° As usinas que operem com reator nuclear deverão ter sua localização definida em lei federal, sem o que não poderão ser instaladas. ^f119df4
 
-	*   P         [[#^|VII]]   [[#^|]]  ,         z ,     ,    [[#^|]]  . [[#^|]]  C ,     z      ,          -   . (I  E C  ,  ) ^
+	* § 7° Para fins do disposto na parte final do inciso [[#^019699c|VII]] do § [[#^40866ea|1°]] deste artigo, não se consideram cruéis as práticas desportivas que utilizem animais, desde que sejam manifestações culturais, conforme o § [[#^97c6f29|1°]] do art. [[#^faf8042|215]] desta Constituição Federal, registradas como bem de natureza imaterial integrante do patrimônio cultural brasileiro, devendo ser regulamentadas por lei específica que assegure o bem-estar dos animais envolvidos. (Incluído pela Emenda Constitucional n° 96, de 2017) ^ef9fc18
 
-## .. CAPÍTULO VII - DA AMÍLIA, DA CRIANÇA, DO ADOLESCENTE, DO JOVEM E DO IDOSO (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO VII - DA AMÍLIA, DA CRIANÇA, DO ADOLESCENTE, DO JOVEM E DO IDOSO (ARTS.  A )|R]]
+## 8.7. CAPÍTULO VII - DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE, DO JOVEM E DO IDOSO (ARTS. 226 A 230)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.7. CAPÍTULO VII - DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE, DO JOVEM E DO IDOSO (ARTS. 226 A 230)|Resumo]]
 
-(R  P E C  ,  )
+(Redação dada Pela Emenda Constitucional n° 65, de 2010)
 
-* A. . A ,   ,     E. ^
+* Art. 226. A família, base da sociedade, tem especial proteção do Estado. ^284eafd
 
-	*   O       . ^
+	* § 1° O casamento é civil e gratuita a celebração. ^93e2e76
 
-	*   O     ,    . ^
+	* § 2° O casamento religioso tem efeito civil, nos termos da lei. ^d8030b0
 
-	*   P     E,              ,        . (R) ^
+	* § 3° Para efeito da proteção do Estado, é reconhecida a união estável entre o homem e a mulher como entidade familiar, devendo a lei facilitar sua conversão em casamento. (Regulamento) ^3f6880c
 
-	*   E-, ,             . ^
+	* § 4° Entende-se, também, como entidade familiar a comunidade formada por qualquer dos pais e seus descendentes. ^d9283dc
 
-	*   O               . ^
+	* § 5° Os direitos e deveres referentes à sociedade conjugal são exercidos igualmente pelo homem e pela mulher. ^89e3153
 
-	*   O       . (R  P E C  ,  ) ^
+	* § 6° O casamento civil pode ser dissolvido pelo divórcio. (Redação dada Pela Emenda Constitucional n° 66, de 2010) ^b84e01a
 
-	*              ,        ,   E          ,           . R ^
+	* § 7° Fundado nos princípios da dignidade da pessoa humana e da paternidade responsável, o planejamento familiar é livre decisão do casal, competindo ao Estado propiciar recursos educacionais e científicos para o exercício desse direito, vedada qualquer forma coercitiva por parte de instituições oficiais ou privadas. Regulamento ^be7643a
 
-	*   O E              ,           . ^
+	* § 8° O Estado assegurará a assistência à família na pessoa de cada um dos que a integram, criando mecanismos para coibir a violência no âmbito de suas relações. ^e5ac024
 
-* A. . É   ,     E   ,     ,   ,    ,  ,  ,  ,  z,  z,  ,  ,  ,        ,   -       , , , ,   . (R  P E C  ,  ) ^
+* Art. 227. É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão. (Redação dada Pela Emenda Constitucional n° 65, de 2010) ^63e218d
 
-	*   O E         ,     ,       ,        : (R  P E C  ,  ) ^
+	* § 1° O Estado promoverá programas de assistência integral à saúde da criança, do adolescente e do jovem, admitida a participação de entidades não governamentais, mediante políticas específicas e obedecendo aos seguintes preceitos: (Redação dada Pela Emenda Constitucional n° 65, de 2010) ^830430c
 
-		* I -            -; ^
+		* I - aplicação de percentual dos recursos públicos destinados à saúde na assistência materno-infantil; ^4fde7df
 
-		* II -        z       ,   ,             ,         ,          ,             . (R  P E C  ,  ) ^
+		* II - criação de programas de prevenção e atendimento especializado para as pessoas portadoras de deficiência física, sensorial ou mental, bem como de integração social do adolescente e do jovem portador de deficiência, mediante o treinamento para o trabalho e a convivência, e a facilitação do acesso aos bens e serviços coletivos, com a eliminação de obstáculos arquitetônicos e de todas as formas de discriminação. (Redação dada Pela Emenda Constitucional n° 65, de 2010) ^20835d9
 
-	*   A                      ,           . ^
+	* § 2° A lei disporá sobre normas de construção dos logradouros e dos edifícios de uso público e de fabricação de veículos de transporte coletivo, a fim de garantir acesso adequado às pessoas portadoras de deficiência. ^ce1f9c0
 
-	*   O        : ^
+	* § 3° O direito a proteção especial abrangerá os seguintes aspectos: ^326e96e
 
-		* I -    z     ,     . [[#^|]], [[#^|XXXIII]]; ^
+		* I - idade mínima de quatorze anos para admissão ao trabalho, observado o disposto no art. [[#^0f410c4|7°]], [[#^907361a|XXXIII]]; ^c908286
 
-		* II -      ; ^
+		* II - garantia de direitos previdenciários e trabalhistas; ^a1a8f75
 
-		* III -          ; (R  P E C  ,  ) ^
+		* III - garantia de acesso do trabalhador adolescente e jovem à escola; (Redação dada Pela Emenda Constitucional n° 65, de 2010) ^edc30b7
 
-		* IV -           ,          ,      ; ^
+		* IV - garantia de pleno e formal conhecimento da atribuição de ato infracional, igualdade na relação processual e defesa técnica por profissional habilitado, segundo dispuser a legislação tutelar específica; ^5010a83
 
-		* V -     ,          ,         ; ^
+		* V - obediência aos princípios de brevidade, excepcionalidade e respeito à condição peculiar de pessoa em desenvolvimento, quando da aplicação de qualquer medida privativa da liberdade; ^218360d
 
-		* VI -   P P,    ,    ,    ,  ,     ,       ; ^
+		* VI - estímulo do Poder Público, através de assistência jurídica, incentivos fiscais e subsídios, nos termos da lei, ao acolhimento, sob a forma de guarda, de criança ou adolescente órfão ou abandonado; ^a1d74d8
 
-		* VII -      z  ,           . (R  P E C  ,  ) ^
+		* VII - programas de prevenção e atendimento especializado à criança, ao adolescente e ao jovem dependente de entorpecentes e drogas afins. (Redação dada Pela Emenda Constitucional n° 65, de 2010) ^3ab763d
 
-	*   A     ,           . ^
+	* § 4° A lei punirá severamente o abuso, a violência e a exploração sexual da criança e do adolescente. ^76d5c51
 
-	*   A     P P,    ,            . ^
+	* § 5° A adoção será assistida pelo Poder Público, na forma da lei, que estabelecerá casos e condições de sua efetivação por parte de estrangeiros. ^b0b7940
 
-	*   O ,       ,   ,      ,       . ^
+	* § 6° Os filhos, havidos ou não da relação do casamento, ou por adoção, terão os mesmos direitos e qualificações, proibidas quaisquer designações discriminatórias relativas à filiação. ^0fc65e3
 
-	*   N         --       . [[#^|]]. ^
+	* § 7° No atendimento dos direitos da criança e do adolescente levar-se- á em consideração o disposto no art. [[#^ca14c38|204]]. ^f491885
 
-	*   A  : (I P E C  ,  ) ^
+	* § 8° A lei estabelecerá: (Incluído Pela Emenda Constitucional n° 65, de 2010) ^edaebea
 
-		* I -    ,       ; (I P E C  ,  ) ^
+		* I - o estatuto da juventude, destinado a regular os direitos dos jovens; (Incluído Pela Emenda Constitucional n° 65, de 2010) ^77168f7
 
-		* II -     ,   ,               . (I P E C  ,  ) ^
+		* II - o plano nacional de juventude, de duração decenal, visando à articulação das várias esferas do poder público para a execução de políticas públicas. (Incluído Pela Emenda Constitucional n° 65, de 2010) ^81ee209
 
-* A. . S      z ,      . ^
+* Art. 228. São penalmente inimputáveis os menores de dezoito anos, sujeitos às normas da legislação especial. ^b2406cd
 
-* A. . O      ,      ,               ,   . ^
+* Art. 229. Os pais têm o dever de assistir, criar e educar os filhos menores, e os filhos maiores têm o dever de ajudar e amparar os pais na velhice, carência ou enfermidade. ^858cf3f
 
-* A. . A ,     E        ,     ,     -  -    . ^
+* Art. 230. A família, a sociedade e o Estado têm o dever de amparar as pessoas idosas, assegurando sua participação na comunidade, defendendo sua dignidade e bem-estar e garantindo-lhes o direito à vida. ^a0f4f31
 
-	*   O           . ^
+	* § 1° Os programas de amparo aos idosos serão executados preferencialmente em seus lares. ^3da899e
 
-	*   A              . ^
+	* § 2° Aos maiores de sessenta e cinco anos é garantida a gratuidade dos transportes coletivos urbanos. ^ac17f20
 
-## .. CAPÍTULO VIII - DOS ÍNDIOS (ARTS.  A )
-[[NL/C    (C)/MOC/.. CAPÍTULO VIII - DOS ÍNDIOS (ARTS.  A )|R]]
+## 8.8. CAPÍTULO VIII - DOS ÍNDIOS (ARTS. 231 A 232)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/8.8. CAPÍTULO VIII - DOS ÍNDIOS (ARTS. 231 A 232)|Resumo]]
 
-* A. . S     z , , ,   ,          ,   U -,   z     . R ^
+* Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. Regulamento ^ef93982
 
-	*   S            ,  z    ,           -         ,   ,   . ^
+	* § 1° São terras tradicionalmente ocupadas pelos índios as por eles habitadas em caráter permanente, as utilizadas para suas atividades produtivas, as imprescindíveis à preservação dos recursos ambientais necessários a seu bem-estar e as necessárias a sua reprodução física e cultural, segundo seus usos, costumes e tradições. ^d8487e0
 
-	*   A      -    , -     z  ,       . ^
+	* § 2° As terras tradicionalmente ocupadas pelos índios destinam-se a sua posse permanente, cabendo-lhes o usufruto exclusivo das riquezas do solo, dos rios e dos lagos nelas existentes. ^763e8fa
 
-	*   O    ,    ,       z          z  C N,    , -      ,    . ^
+	* § 3° O aproveitamento dos recursos hídricos, incluídos os potenciais energéticos, a pesquisa e a lavra das riquezas minerais em terras indígenas só podem ser efetivados com autorização do Congresso Nacional, ouvidas as comunidades afetadas, ficando-lhes assegurada participação nos resultados da lavra, na forma da lei. ^5b73767
 
-	*   A          ,     , . ^
+	* § 4° As terras de que trata este artigo são inalienáveis e indisponíveis, e os direitos sobre elas, imprescritíveis. ^33dbf31
 
-	*   É         , , " "  C N,            ,       P,    C N, ,   ,        . ^
+	* § 5° É vedada a remoção dos grupos indígenas de suas terras, salvo, "ad referendum" do Congresso Nacional, em caso de catástrofe ou epidemia que ponha em risco sua população, ou no interesse da soberania do País, após deliberação do Congresso Nacional, garantido, em qualquer hipótese, o retorno imediato logo que cesse o risco. ^1b85442
 
-	*   S   ,  z  ,        ,             ,     z   ,       ,      U,      ,          z      U, ,    ,         . ^
+	* § 6° São nulos e extintos, não produzindo efeitos jurídicos, os atos que tenham por objeto a ocupação, o domínio e a posse das terras a que se refere este artigo, ou a exploração das riquezas naturais do solo, dos rios e dos lagos nelas existentes, ressalvado relevante interesse público da União, segundo o que dispuser lei complementar, não gerando a nulidade e a extinção direito a indenização ou a ações contra a União, salvo, na forma da lei, quanto às benfeitorias derivadas da ocupação de boa fé. ^6afb506
 
-	*   N         . [[#^|]],  [[#^|]]   [[#^|]]. ^
+	* § 7° Não se aplica às terras indígenas o disposto no art. [[#^f8ecfcf|174]], § [[#^266d8a1|3°]] e § [[#^5689425|4°]]. ^5185c27
 
-* A. . O ,    z       z       ,   M P      . ^
+* Art. 232. Os índios, suas comunidades e organizações são partes legítimas para ingressar em juízo em defesa de seus direitos e interesses, intervindo o Ministério Público em todos os atos do processo. ^312b03a
 
-# . TÍTULO IX - DAS DISPOSIÇÕES CONSTITUCIONAIS GERAIS (ARTS.  A )
-[[NL/C    (C)/MOC/. TÍTULO IX - DAS DISPOSIÇÕES CONSTITUCIONAIS GERAIS (ARTS.  A )|R]]
+# 9. TÍTULO IX - DAS DISPOSIÇÕES CONSTITUCIONAIS GERAIS (ARTS. 233 A 250)
+[[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/9. TÍTULO IX - DAS DISPOSIÇÕES CONSTITUCIONAIS GERAIS (ARTS. 233 A 250)|Resumo]]
 
-* A. . É   U,   , ,      E,            z        ,   . ^
+* Art. 234. É vedado à União, direta ou indiretamente, assumir, em decorrência da criação de Estado, encargos referentes a despesas com pessoal inativo e com encargos e amortizações da dívida interna ou externa da administração pública, inclusive da indireta. ^690f41a
 
-* A. . N z      E,      : ^
+* Art. 235. Nos dez primeiros anos da criação de Estado, serão observadas as seguintes normas básicas: ^cabc8c3
 
-	* I -  A L    z D     E      ,     ,       ,      ; ^
+	* I - a Assembléia Legislativa será composta de dezessete Deputados se a população do Estado for inferior a seiscentos mil habitantes, e de vinte e quatro, se igual ou superior a esse número, até um milhão e quinhentos mil; ^1d46f66
 
-	* II -  G    z S; ^
+	* II - o Governo terá no máximo dez Secretarias; ^375b610
 
-	* III -  T  C   , ,  G ,        ; ^
+	* III - o Tribunal de Contas terá três membros, nomeados, pelo Governador eleito, dentre brasileiros de comprovada idoneidade e notório saber; ^b93ac1e
 
-	* IV -  T  J   D; ^
+	* IV - o Tribunal de Justiça terá sete Desembargadores; ^8f97aee
 
-	* V -   D    G ,    : ^
+	* V - os primeiros Desembargadores serão nomeados pelo Governador eleito, escolhidos da seguinte forma: ^4a1e47c
 
-		* )             ,       E   E ; ^
+		* a) cinco dentre os magistrados com mais de trinta e cinco anos de idade, em exercício na área do novo Estado ou do Estado originário; ^74e9934
 
-		* )   ,   ,        ,  z ,  ,   ,      C; ^
+		* b) dois dentre promotores, nas mesmas condições, e advogados de comprovada idoneidade e saber jurídico, com dez anos, no mínimo, de exercício profissional, obedecido o procedimento fixado na Constituição; ^b4d0da5
 
-	* VI -    E   T ,    D     z       P; ^
+	* VI - no caso de Estado proveniente de Território Federal, os cinco primeiros Desembargadores poderão ser escolhidos dentre juízes de direito de qualquer parte do País; ^0ab1fc3
 
-	* VII -   C,   Jz  D,   P  J    D P    G        ; ^
+	* VII - em cada Comarca, o primeiro Juiz de Direito, o primeiro Promotor de Justiça e o primeiro Defensor Público serão nomeados pelo Governador eleito após concurso público de provas e títulos; ^2e73722
 
-	* VIII -     C E,   P-G,  A-G   D-G  E    ,       ,  ,   G    " "; ^
+	* VIII - até a promulgação da Constituição Estadual, responderão pela Procuradoria-Geral, pela Advocacia-Geral e pela Defensoria-Geral do Estado advogados de notório saber, com trinta e cinco anos de idade, no mínimo, nomeados pelo Governador eleito e demissíveis "ad nutum"; ^8a453f8
 
-	* IX -    E      T ,       U         A     : ^
+	* IX - se o novo Estado for resultado de transformação de Território Federal, a transferência de encargos financeiros da União para pagamento dos servidores optantes que pertenciam à Administração Federal ocorrerá da seguinte forma: ^2e84f84
 
-		* )     ,  E         z      ,         U; ^
+		* a) no sexto ano de instalação, o Estado assumirá vinte por cento dos encargos financeiros para fazer face ao pagamento dos servidores públicos, ficando ainda o restante sob a responsabilidade da União; ^0027dfa
 
-		* )   ,    E       ,  ,     ; ^
+		* b) no sétimo ano, os encargos do Estado serão acrescidos de trinta por cento e, no oitavo, dos restantes cinqüenta por cento; ^7474bfd
 
-	* X -       ,      ,    C E; ^
+	* X - as nomeações que se seguirem às primeiras, para os cargos mencionados neste artigo, serão disciplinadas na Constituição Estadual; ^1bc0518
 
-	* XI -               E. ^
+	* XI - as despesas orçamentárias com pessoal não poderão ultrapassar cinqüenta por cento da receita do Estado. ^56f12dd
 
-* A. . O          ,    P P. (R) ^
+* Art. 236. Os serviços notariais e de registro são exercidos em caráter privado, por delegação do Poder Público. (Regulamento) ^c4388cf
 
-	*   L   ,        ,        ,    z     P J. ^
+	* § 1° Lei regulará as atividades, disciplinará a responsabilidade civil e criminal dos notários, dos oficiais de registro e de seus prepostos, e definirá a fiscalização de seus atos pelo Poder Judiciário. ^c173fd6
 
-	*   L                  . (R) ^
+	* § 2° Lei federal estabelecerá normas gerais para fixação de emolumentos relativos aos atos praticados pelos serviços notariais e de registro. (Regulamento) ^bc4d491
 
-	*   O               ,        ,         ,     . ^
+	* § 3° O ingresso na atividade notarial e de registro depende de concurso público de provas e títulos, não se permitindo que qualquer serventia fique vaga, sem abertura de concurso de provimento ou de remoção, por mais de seis meses. ^fc2974d
 
-* A. . A z       ,      z ,    M  z. ^
+* Art. 237. A fiscalização e o controle sobre o comércio exterior, essenciais à defesa dos interesses fazendários nacionais, serão exercidos pelo Ministério da Fazenda. ^388a156
 
-* A. . A          ,        - ,     C. ^
+* Art. 238. A lei ordenará a venda e revenda de combustíveis de petróleo, álcool carburante e outros combustíveis derivados de matérias-primas renováveis, respeitados os princípios desta Constituição. ^4fe930e
 
-* A. . A       P  I S,   L C  ,      ,    P    P  S P,   L C  ,    z  , ,      C,  ,      ,    -,              [[#^|]]  . (R   E C  ,  ) ^
+* Art. 239. A arrecadação decorrente das contribuições para o Programa de Integração Social, criado pela Lei Complementar n° 7, de 7 de setembro de 1970, e para o Programa de Formação do Patrimônio do Servidor Público, criado pela Lei Complementar n° 8, de 3 de dezembro de 1970, passa, a partir da promulgação desta Constituição, a financiar, nos termos que a lei dispuser, o programa do seguro-desemprego, outras ações da previdência social e o abono de que trata o § [[#^b342c75|3°]] deste artigo. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^65ba57b
 
-	*   D    ,   % (    )          ,    B N  D E  S,         . (R   E C  ,  ) ^
+	* § 1° Dos recursos mencionados no caput, no mínimo 28% (vinte e oito por cento) serão destinados para o financiamento de programas de desenvolvimento econômico, por meio do Banco Nacional de Desenvolvimento Econômico e Social, com critérios de remuneração que preservem o seu valor. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^50101a2
 
-	*   O    P  I S   P    P  S P  , -          ,        ,           ""  ,       . ^
+	* § 2° Os patrimônios acumulados do Programa de Integração Social e do Programa de Formação do Patrimônio do Servidor Público são preservados, mantendo-se os critérios de saque nas situações previstas nas leis específicas, com exceção da retirada por motivo de casamento, ficando vedada a distribuição da arrecadação de que trata o "caput" deste artigo, para depósito nas contas individuais dos participantes. ^27c86f4
 
-	*   A          P  I S    P    P  S P      () z     -    , ,    ,     Í N  P  C (INPC),      I B  G  E (IBGE),        -,          ,       ()   ,        ,         P,       C. (R   E C  ,  ) ^
+	* § 3° Aos empregados que percebam de empregadores que contribuem para o Programa de Integração Social ou para o Programa de Formação do Patrimônio do Servidor Público remuneração mensal de até 2 (duas) vezes o salário mínimo do ano-base para pagamento em 2025, corrigida, a partir de 2026, pela variação anual do Índice Nacional de Preços ao Consumidor (INPC), calculado e divulgado pela Fundação Instituto Brasileiro de Geografia e Estatística (IBGE), ou de outro índice que vier a substituí-lo, acumulada no segundo exercício anterior ao de pagamento do benefício, é assegurado o pagamento de 1 (um) salário mínimo anual, computado nesse valor o rendimento das contas individuais, no caso daqueles que já participavam dos referidos Programas, até a data de promulgação desta Constituição. (Redação dada pela Emenda Constitucional n° 135, de 2024) ^b342c75
 
-	*  -A. O           [[#^|]]                   , (    ). (I  E C  ,  ) ^
+	* § 3°-A. O limite para elegibilidade do benefício de que trata o § [[#^b342c75|3°]] deste artigo não será inferior ao valor equivalente ao salário mínimo do período trabalhado multiplicado pelo índice de 1,5 (um inteiro e cinco décimos). (Incluído pela Emenda Constitucional n° 135, de 2024) ^d498805
 
-	*   O   -                      ,     . ^
+	* § 4° O financiamento do seguro-desemprego receberá uma contribuição adicional da empresa cujo índice de rotatividade da força de trabalho superar o índice médio da rotatividade do setor, na forma estabelecida por lei. ^ef95d0d
 
-	*   O          [[#^|]]                            [[#^|]]  . [[#^|]]. (I  E C  ,  ) ^
+	* § 5° Os programas de desenvolvimento econômico financiados na forma do § [[#^50101a2|1°]] e seus resultados serão anualmente avaliados e divulgados em meio de comunicação social eletrônico e apresentados em reunião da comissão mista permanente de que trata o § [[#^6ae6c3a|1°]] do art. [[#^88327c6|166]]. (Incluído pela Emenda Constitucional n° 103, de 2019) ^3438205
 
-* A. .      . [[#^|]]           ,               . ^
+* Art. 240. Ficam ressalvadas do disposto no art. [[#^dd51188|195]] as atuais contribuições compulsórias dos empregadores sobre a folha de salários, destinadas às entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical. ^45358f9
 
-* A. . A U,  E,  D    M                 , z      ,         , ,         . (R   E C  ,  ) ^
+* Art. 241. A União, os Estados, o Distrito Federal e os Municípios disciplinarão por meio de lei os consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão associada de serviços públicos, bem como a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos. (Redação dada pela Emenda Constitucional n° 19, de 1998) ^a0d8743
 
-* A. . O   . [[#^|]], [[#^|IV]],                     C,          . ^
+* Art. 242. O princípio do art. [[#^c9bd389|206]], [[#^1222626|IV]], não se aplica às instituições educacionais oficiais criadas por lei estadual ou municipal e existentes na data da promulgação desta Constituição, que não sejam total ou preponderantemente mantidas com recursos públicos. ^76c6dbe
 
-	*   O   H  B                . ^
+	* § 1° O ensino da História do Brasil levará em conta as contribuições das diferentes culturas e etnias para a formação do povo brasileiro. ^0181d30
 
-	*   O C P II, z    R  J,     . ^
+	* § 2° O Colégio Pedro II, localizado na cidade do Rio de Janeiro, será mantido na órbita federal. ^f854010
 
-* A. . A         P   z                            ,   z     z      , ,   ,    . [[#^|]]. (R   E C  ,  ) ^
+* Art. 243. As propriedades rurais e urbanas de qualquer região do País onde forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de trabalho escravo na forma da lei serão expropriadas e destinadas à reforma agrária e a programas de habitação popular, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que couber, o disposto no art. [[#^30f4637|5°]]. (Redação dada pela Emenda Constitucional n° 81, de 2014) ^d4dca51
 
-	* P . T                                 ,    . (R   E C  ,  ) ^
+	* Parágrafo único. Todo e qualquer bem de valor econômico apreendido em decorrência do tráfico ilícito de entorpecentes e drogas afins e da exploração de trabalho escravo será confiscado e reverterá a fundo especial com destinação específica, na forma da lei. (Redação dada pela Emenda Constitucional n° 81, de 2014) ^d4cd70f
 
-* A. . A       ,                        ,     . [[#^|]],  [[#^|]]. ^
+* Art. 244. A lei disporá sobre a adaptação dos logradouros, dos edifícios de uso público e dos veículos de transporte coletivo atualmente existentes a fim de garantir acesso adequado às pessoas portadoras de deficiência, conforme o disposto no art. [[#^63e218d|227]], § [[#^ce1f9c0|2°]]. ^7523e64
 
-* A. . A           P P             ,  z       . ^
+* Art. 245. A lei disporá sobre as hipóteses e condições em que o Poder Público dará assistência aos herdeiros e dependentes carentes de pessoas vitimadas por crime doloso, sem prejuízo da responsabilidade civil do autor do ilícito. ^fe06405
 
-* A. . É            C                     , . (R   E C  ,  ) ^
+* Art. 246. É vedada a adoção de medida provisória na regulamentação de artigo da Constituição cuja redação tenha sido alterada por meio de emenda promulgada entre 1° de janeiro de 1995 até a promulgação desta emenda, inclusive. (Redação dada pela Emenda Constitucional n° 32, de 2001) ^ecd3995
 
-* A. . A     [[#^|III]]   [[#^|]]  . [[#^|]]    [[#^|]]  . [[#^|]]               ,        ,     E. (I  E C  ,  ) ^
+* Art. 247. As leis previstas no inciso [[#^2cab8a3|III]] do § [[#^3564927|1°]] do art. [[#^1e54455|41]] e no § [[#^8b05aaa|7°]] do art. [[#^7ac0258|169]] estabelecerão critérios e garantias especiais para a perda do cargo pelo servidor público estável que, em decorrência das atribuições de seu cargo efetivo, desenvolva atividades exclusivas de Estado. (Incluído pela Emenda Constitucional n° 19, de 1998) ^95c6db4
 
-	* P . N     ,                    . (I  E C  ,  ) ^
+	* Parágrafo único. Na hipótese de insuficiência de desempenho, a perda do cargo somente ocorrerá mediante processo administrativo em que lhe sejam assegurados o contraditório e a ampla defesa. (Incluído pela Emenda Constitucional n° 19, de 1998) ^0a21254
 
-* A. . O  ,   ,         ,      T N,                       . [[#^|]], [[#^|XI]]. (I  E C  ,  ) ^
+* Art. 248. Os benefícios pagos, a qualquer título, pelo órgão responsável pelo regime geral de previdência social, ainda que à conta do Tesouro Nacional, e os não sujeitos ao limite máximo de valor fixado para os benefícios concedidos por esse regime observarão os limites fixados no art. [[#^73a80b7|37]], [[#^3af496b|XI]]. (Incluído pela Emenda Constitucional n° 20, de 1998) ^9cd1faf
 
-* A. . C                     ,       ,  U,  E,  D    M            ,      z,       z    . (I  E C  ,  ) ^
+* Art. 249. Com o objetivo de assegurar recursos para o pagamento de proventos de aposentadoria e pensões concedidas aos respectivos servidores e seus dependentes, em adição aos recursos dos respectivos tesouros, a União, os Estados, o Distrito Federal e os Municípios poderão constituir fundos integrados pelos recursos provenientes de contribuições e por bens, direitos e ativos de qualquer natureza, mediante lei que disporá sobre a natureza e administração desses fundos. (Incluído pela Emenda Constitucional n° 20, de 1998) ^53d0989
 
-* A. . C                 ,       ,  U      ,      z,       z    . (I  E C  ,  ) ^
+* Art. 250. Com o objetivo de assegurar recursos para o pagamento dos benefícios concedidos pelo regime geral de previdência social, em adição aos recursos de sua arrecadação, a União poderá constituir fundo integrado por bens, direitos e ativos de qualquer natureza, mediante lei que disporá sobre a natureza e administração desse fundo. (Incluído pela Emenda Constitucional n° 20, de 1998) ^588ba07
 
-* B,     .
+* Brasília, 5 de outubro de 1988.
 
-* Uy G
+* Ulysses Guimarães
 
-* , P - M B, . V-P - J A, . V-P - M C, . S - M M, . S - A   S, . S - B  S, . S  S - Lz Sy, . S  S - S C, . S  S - B C, R G - A O, R A - A C K R, R A - J , R A - A  - A G - A P - A A - A  B  - A S - Ay M - A  B - A N - A C - A D - A A - A S - Az A - A  O L - A C - A S - A A - A  - A C - A  - A G - A S - A A - A D - A C - A Pzy - A C - A G - A V - Ay C - Ay T - Az Bz - Az C - Á A - Á P - Á V - Ay P - A N - Ay M - A M - Â M - A M R - A B - A  B - A C - A C  - A C M T - A  J - A  - A G - A Mz - A P - A S C - A U - A M - A M - A P - A  - A  O - A W - A  T - A B - A C - Á L - A C - Á M - B V - B M - B G - B Azz - Bz  M - By C - B  A - B  - B M - C P - C A - C A C - C B - C C - C C - C C - C DC - C M - C SA - C V - C V - C B - C C L - C  C - C D - C C N - C M - C D - C N - C R - C H - C C - C C - C S  C - C Á - C  - C  - C T - C B - D C - Dy D - Dy Pzz - D C - D A S - D B A - D N - D Bz - D A - D D P - D H - D T Q - D C - D Sy - D G - D J - D L - D C - E  - E L - E M - E T - E V - E B - E J - E M - E  L - E M - E R - Ez M - E V - E T - E T - E P - E B - E N - E S - E M - E G - E M - Éz  -   -  R -  J -   -  R -  M -  N -  Bz C -  C -  G -  G -  H C -  Ly -  S -  V -   C -  P  V -  R -   -  P -  T -  A -  B -  C -  C -  D -  D -  K -  P -  R -  R -  S -  L - G G - G J - G R - G C - G B - G B - G A  - G B - G C - G  - G M - G C - G M - G P - G D - G C - G M - Gz P - G P - G M - G   - H G - H L - H S - H C - H D - H M - H R - H C - H E A - H  - H Z - H B - H S - H L - H S - I  - I P - I O - I R - I S - I C J - I P - I Wy - I P - I  - I C - I L - I M - I V - Jy S - J Az - J C - J  - J H - J P - Jy P - Jy S - J C - J T - J G - J A - J A - J C - J C B - J C - J C - J  M - J  D A - J H N - J L - J M R - J Mz - J N - J P - J Rz - J B - J  - J Hy - J S - J  - J P - J L - J B - J H - J L - J U - J V - J A - J C - J C C - J C G - J C Mz - J C S - J C V - J C - J  C - J D - J E - J E - J  - J  - J G - J G - J G - J I  - J J - J L - J L - J Lz  S - J Lz M - J M - J M Ey - J M - J M - J M Bz - J M - J P B - J Qz - J R - J S  V - J S - J T - J T - J Tz N - J T - J U  O - J V - J Y - J M - Jz A - J C - J C - Jy J - Jy M - Ky I - L V - L M - L C - L Sz - L P - L L - Ly D - Lz S - L  M - L N R - L B - L B - L V - L A - L E - L R P - Lz A R - Lz  - Lz G - Lz H - Lz I L  S - Lz L - Lz M - Lz S - Lz V - Lz V N - Ly M - M V - My N - M C - M M - M R - M  L - M V - M K - M B - M L - M M - M G - M L - M Qz - M  L A - M L - M A - M C - M  O - M L - M P - M I - M L - M C - M C - M  - M N - M P - M  L - M B - M C - M M - M S - M R - M  - M  - M R - M B - M C - M R - M G - M S - M T - M B - M L - M R - M G - M T - M S T - My P - Mz C - M D - My P - N J - N A  Sz - N M - N A - N C - N J - N S - N S - N W - N  - N D - Ny M - N Sz - N G - N Az - N  C - Ny B - O E - O S - O P - O D - O C - O Bz - O P - O C - O L - O L - O R - O B - O C - O M - O S - O A - O T - O P - P  A - P L - P D - P M - P M - P M - P P - P P - P R - P R - P R C - P S - P Zz - P C - P C - P Mz - P  V - P A S - P M - P  S - R S Dz - R Bz - R L - R Rz - R C - R C - R B - R z - R C - R B - R J - R V - R z - R Iz - R C - R  - R A - R B - R B - R C - R DÁ - R  - R J - R R - R T - R V - R M - R P - R A - R C - R Cz C - R T - R C - R P - R   - R N - R B - R M - R  - R P - Ry B - Ry N - S H - S C - S A - S C - S  - Sy  - S Qz - S B - S S - S W - S G - S S - S A - S S - S C - S B  R - S D - T  - T K - T V  - T M - T C - U A - U S - U P - V C - V P - V A - V B - V  - V  - V T - V  S - V Sz - V R - V C - V  S - V G - V G - V Bz - V B - V P - W L - W O - Wy P - W  L - W M - W C - W M - Zz V.
+* , Presidente - Mauro Benevides, 1.° Vice-Presidente - Jorge Arbage, 2.° Vice-Presidente - Marcelo Cordeiro, 1.° Secretário - Mário Maia, 2.° Secretário - Arnaldo Faria de Sá, 3.° Secretário - Benedita da Silva, 1.° Suplente de Secretário - Luiz Soyer, 2.° Suplente de Secretário - Sotero Cunha, 3.° Suplente de Secretário - Bernardo Cabral, Relator Geral - Adolfo Oliveira, Relator Adjunto - Antônio Carlos Konder Reis, Relator Adjunto - José Fogaça, Relator Adjunto - Abigail Feitosa - Acival Gomes - Adauto Pereira - Ademir Andrade - Adhemar de Barros Filho - Adroaldo Streck - Adylson Motta - Aécio de Borba - Aécio Neves - Affonso Camargo - Afif Domingos - Afonso Arinos - Afonso Sancho - Agassiz Almeida - Agripino de Oliveira Lima - Airton Cordeiro - Airton Sandoval - Alarico Abib - Albano Franco - Albérico Cordeiro - Albérico Filho - Alceni Guerra - Alcides Saldanha - Aldo Arantes - Alércio Dias - Alexandre Costa - Alexandre Puzyna - Alfredo Campos - Almir Gabriel - Aloisio Vasconcelos - Aloysio Chaves - Aloysio Teixeira - Aluizio Bezerra - Aluízio Campos - Álvaro Antônio - Álvaro Pacheco - Álvaro Valle - Alysson Paulinelli - Amaral Netto - Amaury Müller - Amilcar Moreira - Ângelo Magalhães - Anna Maria Rattes - Annibal Barcellos - Antero de Barros - Antônio Câmara - Antônio Carlos Franco - Antonio Carlos Mendes Thame - Antônio de Jesus - Antonio Ferreira - Antonio Gaspar - Antonio Mariz - Antonio Perosa - Antônio Salim Curiati - Antonio Ueno - Arnaldo Martins - Arnaldo Moraes - Arnaldo Prieto - Arnold Fioravante - Arolde de Oliveira - Artenir Werner - Artur da Távola - Asdrubal Bentes - Assis Canuto - Átila Lira - Augusto Carvalho - Áureo Mello - Basílio Villani - Benedicto Monteiro - Benito Gama - Beth Azize - Bezerra de Melo - Bocayuva Cunha - Bonifácio de Andrada - Bosco França - Brandão Monteiro - Caio Pompeu - Carlos Alberto - Carlos Alberto Caó - Carlos Benevides - Carlos Cardinal - Carlos Chiarelli - Carlos Cotta - Carlos DeCarli - Carlos Mosconi - Carlos SantAnna - Carlos Vinagre - Carlos Virgílio - Carrel Benevides - Cássio Cunha Lima - Célio de Castro - Celso Dourado - César Cals Neto - César Maia - Chagas Duarte - Chagas Neto - Chagas Rodrigues - Chico Humberto - Christóvam Chiaradia - Cid Carvalho - Cid Sabóia de Carvalho - Cláudio Ávila - Cleonâncio Fonseca - Costa Ferreira - Cristina Tavares - Cunha Bueno - Dálton Canabrava - Darcy Deitos - Darcy Pozza - Daso Coimbra - Davi Alves Silva - Del Bosco Amaral - Delfim Netto - Délio Braz - Denisar Arneiro - Dionisio Dal Prá - Dionísio Hage - Dirce Tutu Quadros - Dirceu Carneiro - Divaldo Suruagy - Djenal Gonçalves - Domingos Juvenil - Domingos Leonelli - Doreto Campanari - Edésio Frias - Edison Lobão - Edivaldo Motta - Edme Tavares - Edmilson Valentim - Eduardo Bonfim - Eduardo Jorge - Eduardo Moreira - Egídio Ferreira Lima - Elias Murad - Eliel Rodrigues - Eliézer Moreira - Enoc Vieira - Eraldo Tinoco - Eraldo Trindade - Erico Pegoraro - Ervin Bonkoski - Etevaldo Nogueira - Euclides Scalco - Eunice Michiles - Evaldo Gonçalves - Expedito Machado - Ézio Ferreira - Fábio Feldmann - Fábio Raunheitti - Farabulini Júnior - Fausto Fernandes - Fausto Rocha - Felipe Mendes - Feres Nader - Fernando Bezerra Coelho - Fernando Cunha - Fernando Gasparian - Fernando Gomes - Fernando Henrique Cardoso - Fernando Lyra - Fernando Santana - Fernando Velasco - Firmo de Castro - Flavio Palmier da Veiga - Flávio Rocha - Florestan Fernandes - Floriceno Paixão - França Teixeira - Francisco Amaral - Francisco Benjamim - Francisco Carneiro - Francisco Coelho - Francisco Diógenes - Francisco Dornelles - Francisco Küster - Francisco Pinto - Francisco Rollemberg - Francisco Rossi - Francisco Sales - Furtado Leite - Gabriel Guerreiro - Gandi Jamil - Gastone Righi - Genebaldo Correia - Genésio Bernardino - Geovani Borges - Geraldo Alckmin Filho - Geraldo Bulhões - Geraldo Campos - Geraldo Fleming - Geraldo Melo - Gerson Camata - Gerson Marcondes - Gerson Peres - Gidel Dantas - Gil César - Gilson Machado - Gonzaga Patriota - Guilherme Palmeira - Gumercindo Milhomem - Gustavo de Faria - Harlan Gadelha - Haroldo Lima - Haroldo Sabóia - Hélio Costa - Hélio Duque - Hélio Manhães - Hélio Rosas - Henrique Córdova - Henrique Eduardo Alves - Heráclito Fortes - Hermes Zaneti - Hilário Braun - Homero Santos - Humberto Lucena - Humberto Souto - Iberê Ferreira - Ibsen Pinheiro - Inocêncio Oliveira - Irajá Rodrigues - Iram Saraiva - Irapuan Costa Júnior - Irma Passoni - Ismael Wanderley - Israel Pinheiro - Itamar Franco - Ivo Cersósimo - Ivo Lech - Ivo Mainardi - Ivo Vanderlinde - Jacy Scanagatta - Jairo Azi - Jairo Carneiro - Jalles Fontoura - Jamil Haddad - Jarbas Passarinho - Jayme Paliarin - Jayme Santana - Jesualdo Cavalcanti - Jesus Tajra - Joaci Góes - João Agripino - João Alves - João Calmon - João Carlos Bacelar - João Castelo - João Cunha - João da Mata - João de Deus Antunes - João Herrmann Neto - João Lobo - João Machado Rollemberg - João Menezes - João Natal - João Paulo - João Rezek - Joaquim Bevilácqua - Joaquim Francisco - Joaquim Hayckel - Joaquim Sucena - Jofran Frejat - Jonas Pinheiro - Jonival Lucas - Jorge Bornhausen - Jorge Hage - Jorge Leite - Jorge Uequed - Jorge Vianna - José Agripino - José Camargo - José Carlos Coutinho - José Carlos Grecco - José Carlos Martinez - José Carlos Sabóia - José Carlos Vasconcelos - José Costa - José da Conceição - José Dutra - José Egreja - José Elias - José Fernandes - José Freire - José Genoíno - José Geraldo - José Guedes - José Ignácio Ferreira - José Jorge - José Lins - José Lourenço - José Luiz de Sá - José Luiz Maia - José Maranhão - José Maria Eymael - José Maurício - José Melo - José Mendonça Bezerra - José Moura - José Paulo Bisol - José Queiroz - José Richa - José Santana de Vasconcellos - José Serra - José Tavares - José Teixeira - José Thomaz Nonô - José Tinoco - José Ulísses de Oliveira - José Viana - José Yunes - Jovanni Masini - Juarez Antunes - Júlio Campos - Júlio Costamilan - Jutahy Júnior - Jutahy Magalhães - Koyu Iha - Lael Varella - Lavoisier Maia - Leite Chaves - Lélio Souza - Leopoldo Peres - Leur Lomanto - Levy Dias - Lézio Sathler - Lídice da Mata - Louremberg Nunes Rocha - Lourival Baptista - Lúcia Braga - Lúcia Vânia - Lúcio Alcântara - Luís Eduardo - Luís Roberto Ponte - Luiz Alberto Rodrigues - Luiz Freire - Luiz Gushiken - Luiz Henrique - Luiz Inácio Lula da Silva - Luiz Leal - Luiz Marques - Luiz Salomão - Luiz Viana - Luiz Viana Neto - Lysâneas Maciel - Maguito Vilela - Maluly Neto - Manoel Castro - Manoel Moreira - Manoel Ribeiro - Mansueto de Lavor - Manuel Viana - Márcia Kubitschek - Márcio Braga - Márcio Lacerda - Marco Maciel - Marcondes Gadelha - Marcos Lima - Marcos Queiroz - Maria de Lourdes Abadia - Maria Lúcia - Mário Assad - Mário Covas - Mário de Oliveira - Mário Lima - Marluce Pinto - Matheus Iensen - Mattos Leão - Maurício Campos - Maurício Correa - Maurício Fruet - Maurício Nasser - Maurício Pádua - Maurílio Ferreira Lima - Mauro Borges - Mauro Campos - Mauro Miranda - Mauro Sampaio - Max Rosenmann - Meira Filho - Melo Freire - Mello Reis - Mendes Botelho - Mendes Canale - Mendes Ribeiro - Messias Góis - Messias Soares - Michel Temer - Milton Barbosa - Milton Lima - Milton Reis - Miraldo Gomes - Miro Teixeira - Moema São Thiago - Moysés Pimentel - Mozarildo Cavalcanti - Mussa Demes - Myrian Portella - Nabor Júnior - Naphtali Alves de Souza - Narciso Mendes - Nelson Aguiar - Nelson Carneiro - Nelson Jobim - Nelson Sabrá - Nelson Seixas - Nelson Wedekin - Nelton Friedrich - Nestor Duarte - Ney Maranhão - Nilso Sguarezi - Nilson Gibson - Nion Albernaz - Noel de Carvalho - Nyder Barbosa - Octávio Elísio - Odacir Soares - Olavo Pires - Olívio Dutra - Onofre Corrêa - Orlando Bezerra - Orlando Pacheco - Oscar Corrêa - Osmar Leitão - Osmir Lima - Osmundo Rebouças - Osvaldo Bender - Osvaldo Coelho - Osvaldo Macedo - Osvaldo Sobrinho - Oswaldo Almeida - Oswaldo Trevisan - Ottomar Pinto - Paes de Andrade - Paes Landim - Paulo Delgado - Paulo Macarini - Paulo Marques - Paulo Mincarone - Paulo Paim - Paulo Pimentel - Paulo Ramos - Paulo Roberto - Paulo Roberto Cunha - Paulo Silva - Paulo Zarzur - Pedro Canedo - Pedro Ceolin - Percival Muniz - Pimenta da Veiga - Plínio Arruda Sampaio - Plínio Martins - Pompeu de Sousa - Rachid Saldanha Derzi - Raimundo Bezerra - Raimundo Lira - Raimundo Rezende - Raquel Cândido - Raquel Capiberibe - Raul Belém - Raul Ferraz - Renan Calheiros - Renato Bernardi - Renato Johnsson - Renato Vianna - Ricardo Fiuza - Ricardo Izar - Rita Camata - Rita Furtado - Roberto Augusto - Roberto Balestra - Roberto Brant - Roberto Campos - Roberto DÁvila - Roberto Freire - Roberto Jefferson - Roberto Rollemberg - Roberto Torres - Roberto Vital - Robson Marinho - Rodrigues Palma - Ronaldo Aragão - Ronaldo Carvalho - Ronaldo Cezar Coelho - Ronan Tito - Ronaro Corrêa - Rosa Prata - Rose de Freitas - Rospide Netto - Rubem Branquinho - Rubem Medina - Ruben Figueiró - Ruberval Pilotto - Ruy Bacelar - Ruy Nedel - Sadie Hauache - Salatiel Carvalho - Samir Achôa - Sandra Cavalcanti - Santinho Furtado - Sarney Filho - Saulo Queiroz - Sérgio Brito - Sérgio Spada - Sérgio Werneck - Severo Gomes - Sigmaringa Seixas - Sílvio Abreu - Simão Sessim - Siqueira Campos - Sólon Borges dos Reis - Stélio Dias - Tadeu França - Telmo Kirst - Teotonio Vilela Filho - Theodoro Mendes - Tito Costa - Ubiratan Aguiar - Ubiratan Spinelli - Uldurico Pinto - Valmir Campelo - Valter Pereira - Vasco Alves - Vicente Bogo - Victor Faccioni - Victor Fontana - Victor Trovão - Vieira da Silva - Vilson Souza - Vingt Rosado - Vinicius Cansanção - Virgildásio de Senna - Virgílio Galassi - Virgílio Guimarães - Vitor Buaiz - Vivaldo Barbosa - Vladimir Palmeira - Wagner Lago - Waldec Ornélas - Waldyr Pugliesi - Walmor de Luca - Wilma Maia - Wilson Campos - Wilson Martins - Ziza Valadares.
 
-* P: Á D - A B - B M - B  S - C A - E H - E J -  G -  D - G A - H G - H z - H N - I N - I B - J M - J M  M - L B - M M - M y - N  C - N M - O L  - P A - P V - R B - R C N - S Ny - T  L.
+* Participantes: Álvaro Dias - Antônio Britto - Bete Mendes - Borges da Silveira - Cardoso Alves - Edivaldo Holanda - Expedito Júnior - Fadah Gattass - Francisco Dias - Geovah Amarante - Hélio Gueiros - Horácio Ferraz - Hugo Napoleão - Iturival Nascimento - Ivan Bonato - Jorge Medauar - José Mendonça de Morais - Leopoldo Bessone - Marcelo Miranda - Mauro Fecury - Neuto de Conto - Nivaldo Machado - Oswaldo Lima Filho - Paulo Almada - Prisco Viana - Ralph Biasi - Rosário Congro Neto - Sérgio Naya - Tidei de Lima.
 
-* I M: A  - A  -  L - N S - V T.
+* In Memoriam: Alair Ferreira - Antônio Farias - Fábio Lucena - Norberto Schwantes - Virgílio Távora.
 
-* E       D.O.U.  ...
+* Este texto não substitui o publicado no D.O.U. de 5.10.1988.
 
 # ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS
-**(V E C  ,  ) V**
+**(Vide Emenda Constitucional n° 132, de 2023) Vigência**
 
-* A. . O P  R,  P  S T      C N     ,     C,        .
+* Art. 1°. O Presidente da República, o Presidente do Supremo Tribunal Federal e os membros do Congresso Nacional prestarão o compromisso de manter, defender e cumprir a Constituição, no ato e na data de sua promulgação.
 
-* A. . N         ,   ,   (   )      (  )     P. (V  C  ,  )
+* Art. 2°. No dia 7 de setembro de 1993 o eleitorado definirá, através de plebiscito, a forma (república ou monarquia constitucional) e o sistema de governo (parlamentarismo ou presidencialismo) que devem vigorar no País. (Vide emenda Constitucional n° 2, de 1992)
 
-	*   S         ,           .
+	* § 1° Será assegurada gratuidade na livre divulgação dessas formas e sistemas, através dos meios de comunicação de massa cessionários de serviço público.
 
-	*   O T S E,   C,      .
+	* § 2° O Tribunal Superior Eleitoral, promulgada a Constituição, expedirá as normas regulamentadoras deste artigo.
 
-* A. . A    z   ,     C,         C N,   .
+* Art. 3°. A revisão constitucional será realizada após cinco anos, contados da promulgação da Constituição, pelo voto da maioria absoluta dos membros do Congresso Nacional, em sessão unicameral.
 
-* A. . O    P  R       .
+* Art. 4°. O mandato do atual Presidente da República terminará em 15 de março de 1990.
 
-	*   A    P  R     C  z       ,        .   C.
+	* § 1° A primeira eleição para Presidente da República após a promulgação da Constituição será realizada no dia 15 de novembro de 1989, não se lhe aplicando o disposto no art. 16 da Constituição.
 
-	*   É        E   D   C  D.
+	* § 2° É assegurada a irredutibilidade da atual representação dos Estados e do Distrito Federal na Câmara dos Deputados.
 
-	*   O   G   V-G              .
+	* § 3° Os mandatos dos Governadores e dos Vice-Governadores eleitos em 15 de novembro de 1986 terminarão em 15 de março de 1991.
 
-	*   O    P, V-P  V        ,     .
+	* § 4° Os mandatos dos atuais Prefeitos, Vice-Prefeitos e Vereadores terminarão no dia 1° de janeiro de 1989, com a posse dos eleitos.
 
-* A. . N               .      .   C.
+* Art. 5°. Não se aplicam às eleições previstas para 15 de novembro de 1988 o disposto no art. 16 e as regras do art. 77 da Constituição.
 
-	*   P                       ,       ,      ,      J E     C.
+	* § 1° Para as eleições de 15 de novembro de 1988 será exigido domicílio eleitoral na circunscrição pelo menos durante os quatro meses anteriores ao pleito, podendo os candidatos que preencham este requisito, atendidas as demais exigências da lei, ter seu registro efetivado pela Justiça Eleitoral após a promulgação da Constituição.
 
-	*   N     ,   T S E      z    ,    .
+	* § 2° Na ausência de norma legal específica, caberá ao Tribunal Superior Eleitoral editar as normas necessárias à realização das eleições de 1988, respeitada a legislação vigente.
 
-	*   O       V-P,        P,     .
+	* § 3° Os atuais parlamentares federais e estaduais eleitos Vice-Prefeitos, se convocados a exercer a função de Prefeito, não perderão o mandato parlamentar.
 
-	*   O       ,        ,   T R E,      . , IV,  C.
+	* § 4° O número de vereadores por município será fixado, para a representação a ser eleita em 1988, pelo respectivo Tribunal Regional Eleitoral, respeitados os limites estipulados no art. 29, IV, da Constituição.
 
-	*   - P        ,       ,     ,      ,         ,    ,   ,  P  R,  G  E,  G  D    P        .
+	* § 5° - Para as eleições de 15 de novembro de 1988, ressalvados os que já exercem mandato eletivo, são inelegíveis para qualquer cargo, no território de jurisdição do titular, o cônjuge e os parentes por consangüinidade ou afinidade, até o segundo grau, ou por adoção, do Presidente da República, do Governador de Estado, do Governador do Distrito Federal e do Prefeito que tenham exercido mais da metade do mandato.
 
-* A. . N       C,  ,       ,    T S E      ,     ,         .
+* Art. 6°. Nos seis meses posteriores à promulgação da Constituição, parlamentares federais, reunidos em número não inferior a trinta, poderão requerer ao Tribunal Superior Eleitoral o registro de novo partido político, juntando ao requerimento o manifesto, o estatuto e o programa devidamente assinados pelos requerentes.
 
-	*   O  ,       T S E,    ,       ,     ,     ,   ,       z  z     .
+	* § 1° O registro provisório, que será concedido de plano pelo Tribunal Superior Eleitoral, nos termos deste artigo, defere ao novo partido todos os direitos, deveres e prerrogativas dos atuais, entre eles o de participar, sob legenda própria, das eleições que vierem a ser realizadas nos doze meses seguintes a sua formação.
 
-	*   O        ,  z     ,    ,      T S E,      .
+	* § 2° O novo partido perderá automaticamente seu registro provisório se, no prazo de vinte e quatro meses, contados de sua formação, não obtiver registro definitivo no Tribunal Superior Eleitoral, na forma que a lei dispuser.
 
-* A. . O B          .
+* Art. 7°. O Brasil propugnará pela formação de um tribunal internacional dos direitos humanos.
 
-* A. . É    ,               C,  ,      ,    ,   ,      D L  ,    z  ,     D-L  ,      ,   ,  ,  , ,            ,   z          ,                   . (R)
+* Art. 8°. É concedida anistia aos que, no período de 18 de setembro de 1946 até a data da promulgação da Constituição, foram atingidos, em decorrência de motivação exclusivamente política, por atos de exceção, institucionais ou complementares, aos que foram abrangidos pelo Decreto Legislativo n° 18, de 15 de dezembro de 1961, e aos atingidos pelo Decreto-Lei n° 864, de 12 de setembro de 1969, asseguradas as promoções, na inatividade, ao cargo, emprego, posto ou graduação a que teriam direito se estivessem em serviço ativo, obedecidos os prazos de permanência em atividade previstos nas leis e regulamentos vigentes, respeitadas as características e peculiaridades das carreiras dos servidores públicos civis e militares e observados os respectivos regimes jurídicos. (Regulamento)
 
-	*   O             C,         .
+	* § 1° O disposto neste artigo somente gerará efeitos financeiros a partir da promulgação da Constituição, vedada a remuneração de qualquer espécie em caráter retroativo.
 
-	*              ,     ,    ,   ,          ,                   .
+	* § 2° Ficam assegurados os benefícios estabelecidos neste artigo aos trabalhadores do setor privado, dirigentes e representantes sindicais que, por motivos exclusivamente políticos, tenham sido punidos, demitidos ou compelidos ao afastamento das atividades remuneradas que exerciam, bem como aos que foram impedidos de exercer atividades profissionais em virtude de pressões ostensivas ou expedientes oficiais sigilosos.
 
-	*   A      ,   ,   ,    P R  M  A  S--GM,      ,   S--GM     z ,         C N       z  z       C.
+	* § 3° Aos cidadãos que foram impedidos de exercer, na vida civil, atividade profissional específica, em decorrência das Portarias Reservadas do Ministério da Aeronáutica n° S-50-GM5, de 19 de junho de 1964, e n° S-285-GM5 será concedida reparação de natureza econômica, na forma que dispuser lei de iniciativa do Congresso Nacional e a entrar em vigor no prazo de doze meses a contar da promulgação da Constituição.
 
-	*   A ,     ,         ,          ,   .
+	* § 4° Aos que, por força de atos institucionais, tenham exercido gratuitamente mandato eletivo de vereador serão computados, para efeito de aposentadoria no serviço público e previdência social, os respectivos períodos.
 
-	*   A       -                 ,        ,   M ,                 ,      D-L  .,      ,     ,           ,      .
+	* § 5° A anistia concedida nos termos deste artigo aplica-se aos servidores públicos civis e aos empregados em todos os níveis de governo ou em suas fundações, empresas públicas ou empresas mistas sob controle estatal, exceto nos Ministérios militares, que tenham sido punidos ou demitidos por atividades profissionais interrompidas em virtude de decisão de seus trabalhadores, bem como em decorrência do Decreto-Lei n° 1.632, de 4 de agosto de 1978, ou por motivos exclusivamente políticos, assegurada a readmissão dos que foram atingidos a partir de 1979, observado o disposto no § 1°.
 
-* A. . O ,    ,                  z  ,     P  R,    S T           ,          .
+* Art. 9°. Os que, por motivos exclusivamente políticos, foram cassados ou tiveram seus direitos políticos suspensos no período de 15 de julho a 31 de dezembro de 1969, por ato do então Presidente da República, poderão requerer ao Supremo Tribunal Federal o reconhecimento dos direitos e vantagens interrompidos pelos atos punitivos, desde que comprovem terem sido estes eivados de vício grave.
 
-	* P . O S T      z     ,      .
+	* Parágrafo único. O Supremo Tribunal Federal proferirá a decisão no prazo de cento e vinte dias, a contar do pedido do interessado.
 
-* A. . A            . , I,  C:
+* Art. 10. Até que seja promulgada a lei complementar a que se refere o art. 7°, I, da Constituição:
 
-	* I -        ,   z,     . , ""   ,  L  .,      ;
+	* I - fica limitada a proteção nele referida ao aumento, para quatro vezes, da porcentagem prevista no art. 6°, "caput" e § 1°, da Lei n° 5.107, de 13 de setembro de 1966;
 
-	* II -         :
+	* II - fica vedada a dispensa arbitrária ou sem justa causa:
 
-		* )              ,               ;
+		* a) do empregado eleito para cargo de direção de comissões internas de prevenção de acidentes, desde o registro de sua candidatura até um ano após o final de seu mandato;
 
-		* )   ,     z      . (V L C  ,  )
+		* b) da empregada gestante, desde a confirmação da gravidez até cinco meses após o parto. (Vide Lei Complementar n° 146, de 2014)
 
-	*   A          . , XIX,  C,  z  -          .
+	* § 1° Até que a lei venha a disciplinar o disposto no art. 7°, XIX, da Constituição, o prazo da licença-paternidade a que se refere o inciso é de cinco dias.
 
-	*   A   ,                     ,    .
+	* § 2° Até ulterior disposição legal, a cobrança das contribuições para o custeio das atividades dos sindicatos rurais será feita juntamente com a do imposto territorial rural, pelo mesmo órgão arrecadador.
 
-	*   N          ,    . ,     C,     J  T       z       .
+	* § 3° Na primeira comprovação do cumprimento das obrigações trabalhistas pelo empregador rural, na forma do art. 233, após a promulgação da Constituição, será certificada perante a Justiça do Trabalho a regularidade do contrato e das atualizações das obrigações trabalhistas de todo o período.
 
-* A. . C A L,   ,   C  E,  z   ,     C ,    .
+* Art. 11. Cada Assembléia Legislativa, com poderes constituintes, elaborará a Constituição do Estado, no prazo de um ano, contado da promulgação da Constituição Federal, obedecidos os princípios desta.
 
-	* P . P  C  E,   C M,  z   ,   L O ,       ,     C    C E.
+	* Parágrafo único. Promulgada a Constituição do Estado, caberá à Câmara Municipal, no prazo de seis meses, votar a Lei Orgânica respectiva, em dois turnos de discussão e votação, respeitado o disposto na Constituição Federal e na Constituição Estadual.
 
-* A. . S ,        C, C  E T,  z    C N    P E,                 ,   Az L      .
+* Art. 12. Será criada, dentro de noventa dias da promulgação da Constituição, Comissão de Estudos Territoriais, com dez membros indicados pelo Congresso Nacional e cinco pelo Poder Executivo, com a finalidade de apresentar estudos sobre o território nacional e anteprojetos relativos a novas unidades territoriais, notadamente na Amazônia Legal e em áreas pendentes de solução.
 
-	*   N z   ,  C   C N      ,    C,    z  , -  .
+	* § 1° No prazo de um ano, a Comissão submeterá ao Congresso Nacional os resultados de seus estudos para, nos termos da Constituição, serem apreciados nos doze meses subseqüentes, extinguindo-se logo após.
 
-	*   O E   M ,  z   ,      C, ,    ,        ,    z          ,  ,       .
+	* § 2° Os Estados e os Municípios deverão, no prazo de três anos, a contar da promulgação da Constituição, promover, mediante acordo ou arbitramento, a demarcação de suas linhas divisórias atualmente litigiosas, podendo para isso fazer alterações e compensações de área que atendam aos acidentes naturais, critérios históricos, conveniências administrativas e comodidade das populações limítrofes.
 
-	*   H   E  M ,  U  -   .
+	* § 3° Havendo solicitação dos Estados e Municípios interessados, a União poderá encarregar-se dos trabalhos demarcatórios.
 
-	*   S,   z   ,      C,       ,   U      .
+	* § 4° Se, decorrido o prazo de três anos, a contar da promulgação da Constituição, os trabalhos demarcatórios não tiverem sido concluídos, caberá à União determinar os limites das áreas litigiosas.
 
-	*           E  A   E  Az   R,      z  C T     E    -z  I B  G  E.
+	* § 5° Ficam reconhecidos e homologados os atuais limites do Estado do Acre com os Estados do Amazonas e de Rondônia, conforme levantamentos cartográficos e geodésicos realizados pela Comissão Tripartite integrada por representantes dos Estados e dos serviços técnico-especializados do Instituto Brasileiro de Geografia e Estatística.
 
-* A. . É   E  T,       , -             ,         .
+* Art. 13. É criado o Estado do Tocantins, pelo desmembramento da área descrita neste artigo, dando-se sua instalação no quadragésimo sexto dia após a eleição prevista no § 3°, mas não antes de 1° de janeiro de 1989.
 
-	*   O E  T   R N  -   E  G     M  S M  A, P, , M, C, M A  G  C B,   ,        G   E  B, P, M, P  M G.
+	* § 1° O Estado do Tocantins integra a Região Norte e limita-se com o Estado de Goiás pelas divisas norte dos Municípios de São Miguel do Araguaia, Porangatu, Formoso, Minaçu, Cavalcante, Monte Alegre de Goiás e Campos Belos, conservando a leste, norte e oeste as divisas atuais de Goiás com os Estados da Bahia, Piauí, Maranhão, Pará e Mato Grosso.
 
-	*   O P E      E   C           A C.
+	* § 2° O Poder Executivo designará uma das cidades do Estado para sua Capital provisória até a aprovação da sede definitiva do governo pela Assembléia Constituinte.
 
-	*   O G,  V-G,  S,  D    D E  ,    ,          C,         ,    T S E, ,  ,   :
+	* § 3° O Governador, o Vice-Governador, os Senadores, os Deputados Federais e os Deputados Estaduais serão eleitos, em um único turno, até setenta e cinco dias após a promulgação da Constituição, mas não antes de 15 de novembro de 1988, a critério do Tribunal Superior Eleitoral, obedecidas, entre outras, as seguintes normas:
 
-		* I -  z                ;
+		* I - o prazo de filiação partidária dos candidatos será encerrado setenta e cinco dias antes da data das eleições;
 
-		* II -               ,                ,   ,  J E;
+		* II - as datas das convenções regionais partidárias destinadas a deliberar sobre coligações e escolha de candidatos, de apresentação de requerimento de registro dos candidatos escolhidos e dos demais procedimentos legais serão fixadas, em calendário especial, pela Justiça Eleitoral;
 
-		* III -               ,   ,            ;
+		* III - são inelegíveis os ocupantes de cargos estaduais ou municipais que não se tenham deles afastado, em caráter definitivo, setenta e cinco dias antes da data das eleições previstas neste parágrafo;
 
-		* IV -           E  G,          E  T,         .
+		* IV - ficam mantidos os atuais diretórios regionais dos partidos políticos do Estado de Goiás, cabendo às comissões executivas nacionais designar comissões provisórias no Estado do Tocantins, nos termos e para os fins previstos na lei.
 
-	*   O   G,  V-G,  D   E       --       ;    S    --   ,     ,     S      E.
+	* § 4° Os mandatos do Governador, do Vice-Governador, dos Deputados Federais e Estaduais eleitos na forma do parágrafo anterior extinguir-se-ão concomitantemente aos das demais unidades da Federação; o mandato do Senador eleito menos votado extinguir-se-á nessa mesma oportunidade, e os dos outros dois, juntamente com os dos Senadores eleitos em 1986 nos demais Estados.
 
-	*   A A E C           ,         ,     P  T R E  E  G,   ,   ,  G   V-G .
+	* § 5° A Assembléia Estadual Constituinte será instalada no quadragésimo sexto dia da eleição de seus integrantes, mas não antes de 1° de janeiro de 1989, sob a presidência do Presidente do Tribunal Regional Eleitoral do Estado de Goiás, e dará posse, na mesma data, ao Governador e ao Vice-Governador eleitos.
 
-	*   A-      E  T,   ,        E  M G,     .   C.
+	* § 6° Aplicam-se à criação e instalação do Estado do Tocantins, no que couber, as normas legais disciplinadoras da divisão do Estado de Mato Grosso, observado o disposto no art. 234 da Constituição.
 
-	*     E  G             E,  z  U,   ,     .
+	* § 7° Fica o Estado de Goiás liberado dos débitos e encargos decorrentes de empreendimentos no território do novo Estado, e autorizada a União, a seu critério, a assumir os referidos débitos.
 
-* A. . O T   R   A    E ,     .
+* Art. 14. Os Territórios Federais de Roraima e do Amapá são transformados em Estados Federados, mantidos seus atuais limites geográficos.
 
-	*   A   E --        .
+	* § 1° A instalação dos Estados dar-se-á com a posse dos governadores eleitos em 1990.
 
-	*   A-      E  R  A         E  R,     C   A.
+	* § 2° Aplicam-se à transformação e instalação dos Estados de Roraima e Amapá as normas e critérios seguidos na criação do Estado de Rondônia, respeitado o disposto na Constituição e neste Ato.
 
-	*   O P  R,          C,     S       E  R   A    P E      E      .
+	* § 3° O Presidente da República, até quarenta e cinco dias após a promulgação da Constituição, encaminhará à apreciação do Senado Federal os nomes dos governadores dos Estados de Roraima e do Amapá que exercerão o Poder Executivo até a instalação dos novos Estados com a posse dos governadores eleitos.
 
-	*   E  z    E,    ,  T   R   A         . , I, "",  C,  ,  , II,  A.
+	* § 4° Enquanto não concretizada a transformação em Estados, nos termos deste artigo, os Territórios Federais de Roraima e do Amapá serão beneficiados pela transferência de recursos prevista nos arts. 159, I, "a", da Constituição, e 34, § 2°, II, deste Ato.
 
-* A. .    T     N,      E  P.
+* Art. 15. Fica extinto o Território Federal de Fernando de Noronha, sendo sua área reincorporada ao Estado de Pernambuco.
 
-* A. . A       . ,  ,  C,   P  R,     S ,   G   V-G  D .
+* Art. 16. Até que se efetive o disposto no art. 32, § 2°, da Constituição, caberá ao Presidente da República, com a aprovação do Senado Federal, indicar o Governador e o Vice-Governador do Distrito Federal.
 
-	*   A   C L  D ,    ,    S .
+	* § 1° A competência da Câmara Legislativa do Distrito Federal, até que se instale, será exercida pelo Senado Federal.
 
-	*   A z , , ,     D ,      C L,    S ,   ,     T  C  D ,     .   C.
+	* § 2° A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Distrito Federal, enquanto não for instalada a Câmara Legislativa, será exercida pelo Senado Federal, mediante controle externo, com o auxílio do Tribunal de Contas do Distrito Federal, observado o disposto no art. 72 da Constituição.
 
-	*   I-     D          U    .
+	* § 3° Incluem-se entre os bens do Distrito Federal aqueles que lhe vierem a ser atribuídos pela União na forma da lei.
 
-* A. . O ,  ,     ,               C   z    ,   ,  ,           . (V E C  , ..)
+* Art. 17. Os vencimentos, a remuneração, as vantagens e os adicionais, bem como os proventos de aposentadoria que estejam sendo percebidos em desacordo com a Constituição serão imediatamente reduzidos aos limites dela decorrentes, não se admitindo, neste caso, invocação de direito adquirido ou percepção de excesso a qualquer título. (Vide Emenda Constitucional n° 41, 19.12.2003)
 
-	*   É                         .
+	* § 1° É assegurado o exercício cumulativo de dois cargos ou empregos privativos de médico que estejam sendo exercidos por médico militar na administração pública direta ou indireta.
 
-	*   É                        .
+	* § 2° É assegurado o exercício cumulativo de dois cargos ou empregos privativos de profissionais de saúde que estejam sendo exercidos na administração pública direta ou indireta.
 
-* A. .           ,       A N C,              ,     ,        P P.
+* Art. 18. Ficam extintos os efeitos jurídicos de qualquer ato legislativo ou administrativo, lavrado a partir da instalação da Assembléia Nacional Constituinte, que tenha por objeto a concessão de estabilidade a servidor admitido sem concurso público, da administração direta ou indireta, inclusive das fundações instituídas e mantidas pelo Poder Público.
 
-* A. -A. O     E  T,    ,          z  ,                   () ,       ,   -. (R   E   ,  )
+* Art. 18-A. Os atos administrativos praticados no Estado do Tocantins, decorrentes de sua instalação, entre 1° de janeiro de 1989 e 31 de dezembro de 1994, eivados de qualquer vício jurídico e dos quais decorram efeitos favoráveis para os destinatários ficam convalidados após 5 (cinco) anos, contados da data em que foram praticados, salvo comprovada má-fé. (Redação dada pela Emenda constitucional n° 110, de 2021)
 
-* A. . O     U,  E,  D    M,   ,     ,        C,      ,           . ,  C,      .
+* Art. 19. Os servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, da administração direta, autárquica e das fundações públicas, em exercício na data da promulgação da Constituição, há pelo menos cinco anos continuados, e que não tenham sido admitidos na forma regulada no art. 37, da Constituição, são considerados estáveis no serviço público.
 
-	*   O                     ,    .
+	* § 1° O tempo de serviço dos servidores referidos neste artigo será contado como título quando se submeterem a concurso para fins de efetivação, na forma da lei.
 
-	*   O          ,        ,         ,            ""  ,      .
+	* § 2° O disposto neste artigo não se aplica aos ocupantes de cargos, funções e empregos de confiança ou em comissão, nem aos que a lei declare de livre exoneração, cujo tempo de serviço não será computado para os fins do "caput" deste artigo, exceto se se tratar de servidor.
 
-	*   O           ,    .
+	* § 3° O disposto neste artigo não se aplica aos professores de nível superior, nos termos da lei.
 
-* A. . D     , --             z       ,    -    C.
+* Art. 20. Dentro de cento e oitenta dias, proceder-se-á à revisão dos direitos dos servidores públicos inativos e pensionistas e à atualização dos proventos e pensões a eles devidos, a fim de ajustá-los ao disposto na Constituição.
 
-* A. . O z      ,                   C,  ,    ,       ,   ,          ,       .
+* Art. 21. Os juízes togados de investidura limitada no tempo, admitidos mediante concurso público de provas e títulos e que estejam em exercício na data da promulgação da Constituição, adquirem estabilidade, observado o estágio probatório, e passam a compor quadro em extinção, mantidas as competências, prerrogativas e restrições da legislação a que se achavam submetidos, salvo as inerentes à transitoriedade da investidura.
 
-	* P . A   z      --       z .
+	* Parágrafo único. A aposentadoria dos juízes de que trata este artigo regular-se-á pelas normas fixadas para os demais juízes estaduais.
 
-* A. . É              A N C      ,          . ,  ,  C.
+* Art. 22. É assegurado aos defensores públicos investidos na função até a data de instalação da Assembléia Nacional Constituinte o direito de opção pela carreira, com a observância das garantias e vedações previstas no art. 134, parágrafo único, da Constituição.
 
-* A. . A       . , XVI,  C,              ,  D  P ,    .
+* Art. 23. Até que se edite a regulamentação do art. 21, XVI, da Constituição, os atuais ocupantes do cargo de censor federal continuarão exercendo funções com este compatíveis, no Departamento de Polícia Federal, observadas as disposições constitucionais.
 
-	* P . A        C ,    .
+	* Parágrafo único. A lei referida disporá sobre o aproveitamento dos Censores Federais, nos termos deste artigo.
 
-* A. . A U,  E,  D    M        z         .   C      ,  z  z ,    .
+* Art. 24. A União, os Estados, o Distrito Federal e os Municípios editarão leis que estabeleçam critérios para a compatibilização de seus quadros de pessoal ao disposto no art. 39 da Constituição e à reforma administrativa dela decorrente, no prazo de dezoito meses, contados da sua promulgação.
 
-* A. .  ,           C,   z    ,            P E    C  C N,     :
+* Art. 25. Ficam revogados, a partir de cento e oitenta dias da promulgação da Constituição, sujeito este prazo a prorrogação por lei, todos os dispositivos legais que atribuam ou deleguem a órgão do Poder Executivo competência assinalada pela Constituição ao Congresso Nacional, especialmente no que tange a:
 
-	* I -  ;
+	* I - ação normativa;
 
-	* II -        .
+	* II - alocação ou transferência de recursos de qualquer espécie.
 
-	*   O -    C N          C       :
+	* § 1° Os decretos-lei em tramitação no Congresso Nacional e por este não apreciados até a promulgação da Constituição terão seus efeitos regulados da seguinte forma:
 
-		* I -        ,    C N  z            C,     ;
+		* I - se editados até 2 de setembro de 1988, serão apreciados pelo Congresso Nacional no prazo de até cento e oitenta dias a contar da promulgação da Constituição, não computado o recesso parlamentar;
 
-		* II -   z    ,    ,  -     ;
+		* II - decorrido o prazo definido no inciso anterior, e não havendo apreciação, os decretos-lei alí mencionados serão considerados rejeitados;
 
-		* III -      I  II,           -,   C N,  ,      .
+		* III - nas hipóteses definidas nos incisos I e II, terão plena validade os atos praticados na vigência dos respectivos decretos-lei, podendo o Congresso Nacional, se necessário, legislar sobre os efeitos deles remanescentes.
 
-	*   O -            C  ,  ,   , --     . ,  .
+	* § 2° Os decretos-lei editados entre 3 de setembro de 1988 e a promulgação da Constituição serão convertidos, nesta data, em medidas provisórias, aplicando-se-lhes as regras estabelecidas no art. 62, parágrafo único.
 
-* A. . N z         C,  C N ,   C ,             .
+* Art. 26. No prazo de um ano a contar da promulgação da Constituição, o Congresso Nacional promoverá, através de Comissão mista, exame analítico e pericial dos atos e fatos geradores do endividamento externo brasileiro.
 
-	*   A C      C          ,       T  C  U.
+	* § 1° A Comissão terá a força legal de Comissão parlamentar de inquérito para os fins de requisição e convocação, e atuará com o auxílio do Tribunal de Contas da União.
 
-	*   A ,  C N   P E            M P ,  z,  z   ,   .
+	* § 2° Apurada irregularidade, o Congresso Nacional proporá ao Poder Executivo a declaração de nulidade do ato e encaminhará o processo ao Ministério Público Federal, que formalizará, no prazo de sessenta dias, a ação cabível.
 
-* A. . O S T  J     P  S T .
+* Art. 27. O Superior Tribunal de Justiça será instalado sob a Presidência do Supremo Tribunal Federal.
 
-	*   A     S T  J,  S T           .
+	* § 1° Até que se instale o Superior Tribunal de Justiça, o Supremo Tribunal Federal exercerá as atribuições e competências definidas na ordem constitucional precedente.
 
-	*   A    S T  J --:
+	* § 2° A composição inicial do Superior Tribunal de Justiça far-se-á:
 
-		* I -    M  T   R;
+		* I - pelo aproveitamento dos Ministros do Tribunal Federal de Recursos;
 
-		* II -    M          C.
+		* II - pela nomeação dos Ministros que sejam necessários para completar o número estabelecido na Constituição.
 
-	*   P      C,   M  T   R        ,    .
+	* § 3° Para os efeitos do disposto na Constituição, os atuais Ministros do Tribunal Federal de Recursos serão considerados pertencentes à classe de que provieram, quando de sua nomeação.
 
-	*   I  T,  M   T   R --, , M   S T  J.
+	* § 4° Instalado o Tribunal, os Ministros aposentados do Tribunal Federal de Recursos tornar-se-ão, automaticamente, Ministros aposentados do Superior Tribunal de Justiça.
 
-	*   O M       , II,       T   R,     . ,  ,  C.
+	* § 5° Os Ministros a que se refere o § 2°, II, serão indicados em lista tríplice pelo Tribunal Federal de Recursos, observado o disposto no art. 104, parágrafo único, da Constituição.
 
-	*      T R ,     z         C,          T   R,          z .
+	* § 6° Ficam criados cinco Tribunais Regionais Federais, a serem instalados no prazo de seis meses a contar da promulgação da Constituição, com a jurisdição e sede que lhes fixar o Tribunal Federal de Recursos, tendo em conta o número de processos e sua localização geográfica.
 
-	*   A     T R ,  T   R           , -              ,   ,    z    ,      .
+	* § 7° Até que se instalem os Tribunais Regionais Federais, o Tribunal Federal de Recursos exercerá a competência a eles atribuída em todo o território nacional, cabendo-lhe promover sua instalação e indicar os candidatos a todos os cargos da composição inicial, mediante lista tríplice, podendo desta constar juízes federais de qualquer região, observado o disposto no § 9°.
 
-	*   É ,      C,      M  T   R.
+	* § 8° É vedado, a partir da promulgação da Constituição, o provimento de vagas de Ministros do Tribunal Federal de Recursos.
 
-	*   Q   z         . , II,  C,     z         .
+	* § 9° Quando não houver juiz federal que conte o tempo mínimo previsto no art. 107, II, da Constituição, a promoção poderá contemplar juiz com menos de cinco anos no exercício do cargo.
 
-	*  . C  J             C,   T R     S T  J           J ,             J.
+	* § 10. Compete à Justiça Federal julgar as ações nela propostas até a data da promulgação da Constituição, e aos Tribunais Regionais Federais bem como ao Superior Tribunal de Justiça julgar as ações rescisórias das decisões até então proferidas pela Justiça Federal, inclusive daquelas cuja matéria tenha passado à competência de outro ramo do Judiciário.
 
-	*  . S , ,   T R :    R,    C, E  P,    E  P, S C  M G  S;    R,    B Hz, E  M G,    E  M G;    R,    S, E  B,    E  B  S;     R,    M, E  Az,    E  Az, A, R  R. (I  E C  ,  ) (V ADIN  ,  )
+	* § 11. São criados, ainda, os seguintes Tribunais Regionais Federais: o da 6ª Região, com sede em Curitiba, Estado do Paraná, e jurisdição nos Estados do Paraná, Santa Catarina e Mato Grosso do Sul; o da 7ª Região, com sede em Belo Horizonte, Estado de Minas Gerais, e jurisdição no Estado de Minas Gerais; o da 8ª Região, com sede em Salvador, Estado da Bahia, e jurisdição nos Estados da Bahia e Sergipe; e o da 9ª Região, com sede em Manaus, Estado do Amazonas, e jurisdição nos Estados do Amazonas, Acre, Rondônia e Roraima. (Incluído pela Emenda Constitucional n° 73, de 2013) (Vide ADIN n° 5017, de 2013)
 
-* A. . O z      . ,  ,  C  ,      E C  ,  ,        S J        ;    , --     .
+* Art. 28. Os juízes federais de que trata o art. 123, § 2°, da Constituição de 1967, com a redação dada pela Emenda Constitucional n° 7, de 1977, ficam investidos na titularidade de varas na Seção Judiciária para a qual tenham sido nomeados ou designados; na inexistência de vagas, proceder-se-á ao desdobramento das varas existentes.
 
-	* P . P     ,      z         .
+	* Parágrafo único. Para efeito de promoção por antigüidade, o tempo de serviço desses juízes será computado a partir do dia de sua posse.
 
-* A. . E        M P   A-G  U,  M P ,  P-G  z N,  C J  M,  P  D J           P  U            .
+* Art. 29. Enquanto não aprovadas as leis complementares relativas ao Ministério Público e à Advocacia-Geral da União, o Ministério Público Federal, a Procuradoria-Geral da Fazenda Nacional, as Consultorias Jurídicas dos Ministérios, as Procuradorias e Departamentos Jurídicos de autarquias federais com representação própria e os membros das Procuradorias das Universidades fundacionais públicas continuarão a exercer suas atividades na área das respectivas atribuições.
 
-	*   O P  R,  z     ,   C N        z     A-G  U.
+	* § 1° O Presidente da República, no prazo de cento e vinte dias, encaminhará ao Congresso Nacional projeto de lei complementar dispondo sobre a organização e o funcionamento da Advocacia-Geral da União.
 
-	*   A  P  R,     ,    ,   ,     M P    A-G  U.
+	* § 2° Aos atuais Procuradores da República, nos termos da lei complementar, será facultada a opção, de forma irretratável, entre as carreiras do Ministério Público Federal e da Advocacia-Geral da União.
 
-	*   P    ,       ,    M P      C, -,   ,      .
+	* § 3° Poderá optar pelo regime anterior, no que respeita às garantias e vantagens, o membro do Ministério Público admitido antes da promulgação da Constituição, observando-se, quanto às vedações, a situação jurídica na data desta.
 
-	*   O       M P  T  M              .
+	* § 4° Os atuais integrantes do quadro suplementar dos Ministérios Públicos do Trabalho e Militar que tenham adquirido estabilidade nessas funções passam a integrar o quadro da respectiva carreira.
 
-	*   C   P-G  z N,    ,     M P E,    U    z ,     ,         .
+	* § 5° Cabe à atual Procuradoria-Geral da Fazenda Nacional, diretamente ou por delegação, que pode ser ao Ministério Público Estadual, representar judicialmente a União nas causas de natureza fiscal, na área da respectiva competência, até a promulgação das leis complementares previstas neste artigo.
 
-* A. . A       z    z  z      , -       ,          . , II,  C.
+* Art. 30. A legislação que criar a justiça de paz manterá os atuais juízes de paz até a posse dos novos titulares, assegurando-lhes os direitos e atribuições conferidos a estes, e designará o dia para a eleição prevista no art. 98, II, da Constituição.
 
-* A. . S z     ,    ,      .
+* Art. 31. Serão estatizadas as serventias do foro judicial, assim definidas em lei, respeitados os direitos dos atuais titulares.
 
-* A. . O   .               z  P P, -     .
+* Art. 32. O disposto no art. 236 não se aplica aos serviços notariais e de registro que já tenham sido oficializados pelo Poder Público, respeitando-se o direito de seus servidores.
 
-* A. . R    z ,              C,        ,      ,  z,   ,   ,  z    ,        ,     P E         C. (V E C  ,  )
+* Art. 33. Ressalvados os créditos de natureza alimentar, o valor dos precatórios judiciais pendentes de pagamento na data da promulgação da Constituição, incluído o remanescente de juros e correção monetária, poderá ser pago em moeda corrente, com atualização, em prestações anuais, iguais e sucessivas, no prazo máximo de oito anos, a partir de 1° de julho de 1989, por decisão editada pelo Poder Executivo até cento e oitenta dias da promulgação da Constituição. (Vide Emenda Constitucional n° 3, de 1993)
 
-	* P . P   ,       , ,   ,     ,             .
+	* Parágrafo único. Poderão as entidades devedoras, para o cumprimento do disposto neste artigo, emitir, em cada ano, no exato montante do dispêndio, títulos de dívida pública não computáveis para efeito do limite global de endividamento.
 
-* A. . O                    C, ,  ,   C  ,      E  ,  ,   .
+* Art. 34. O sistema tributário nacional entrará em vigor a partir do primeiro dia do quinto mês seguinte ao da promulgação da Constituição, mantido, até então, o da Constituição de 1967, com a redação dada pela Emenda n° 1, de 1969, e pelas posteriores.
 
-	*   E       C  . , , , , I, , III,  , I, "",       C     E   ,    . , III.
+	* § 1° Entrarão em vigor com a promulgação da Constituição os arts. 148, 149, 150, 154, I, 156, III, e 159, I, "c", revogadas as disposições em contrário da Constituição de 1967 e das Emendas que a modificaram, especialmente de seu art. 25, III.
 
-	*   O   P  E   D      P  M    :
+	* § 2° O Fundo de Participação dos Estados e do Distrito Federal e o Fundo de Participação dos Municípios obedecerão às seguintes determinações:
 
-		* I -      C,   , ,  z       ,           . , III  IV,                    . , II;
+		* I - a partir da promulgação da Constituição, os percentuais serão, respectivamente, de dezoito por cento e de vinte por cento, calculados sobre o produto da arrecadação dos impostos referidos no art. 153, III e IV, mantidos os atuais critérios de rateio até a entrada em vigor da lei complementar a que se refere o art. 161, II;
 
-		* II -       P  E   D             ,    , ,  z     ,  , ,        . , I, "";
+		* II - o percentual relativo ao Fundo de Participação dos Estados e do Distrito Federal será acrescido de um ponto percentual no exercício financeiro de 1989 e, a partir de 1990, inclusive, à razão de meio ponto por exercício, até 1992, inclusive, atingindo em 1993 o percentual estabelecido no art. 159, I, "a";
 
-		* III -       P  M,    , ,    z       ,      . , I, "".
+		* III - o percentual relativo ao Fundo de Participação dos Municípios, a partir de 1989, inclusive, será elevado à razão de meio ponto percentual por exercício financeiro, até atingir o estabelecido no art. 159, I, "b".
 
-	*   P  C,  U,  E,  D    M             .
+	* § 3° Promulgada a Constituição, a União, os Estados, o Distrito Federal e os Municípios poderão editar as leis necessárias à aplicação do sistema tributário nacional nela previsto.
 
-	*   A        z              C.
+	* § 4° As leis editadas nos termos do parágrafo anterior produzirão efeitos a partir da entrada em vigor do sistema tributário nacional previsto na Constituição.
 
-	*   V     ,       ,                 .
+	* § 5° Vigente o novo sistema tributário nacional, fica assegurada a aplicação da legislação anterior, no que não seja incompatível com ele e com a legislação referida nos §3° e § 4°.
 
-	*   A   z  ,    . , III, "",          . , I, ""  "",  , II  III,                 .
+	* § 6° Até 31 de dezembro de 1989, o disposto no art. 150, III, "b", não se aplica aos impostos de que tratam os arts. 155, I, "a" e "b", e 156, II e III, que podem ser cobrados trinta dias após a publicação da lei que os tenha instituído ou aumentado.
 
-	*   A      ,                     .
+	* § 7° Até que sejam fixadas em lei complementar, as alíquotas máximas do imposto municipal sobre vendas a varejo de combustíveis líquidos e gasosos não excederão a três por cento.
 
-	*   S,  z        C,                . , I, "",  E   D ,       L C  ,      ,       .
+	* § 8° Se, no prazo de sessenta dias contados da promulgação da Constituição, não for editada a lei complementar necessária à instituição do imposto de que trata o art. 155, I, "b", os Estados e o Distrito Federal, mediante convênio celebrado nos termos da Lei Complementar n° 24, de 7 de janeiro de 1975, fixarão normas para regular provisoriamente a matéria.
 
-	*   A       ,      ,        ,   ,         ,        ,               ,         ,                 E   D ,        .
+	* § 9° Até que lei complementar disponha sobre a matéria, as empresas distribuidoras de energia elétrica, na condição de contribuintes ou de substitutos tributários, serão as responsáveis, por ocasião da saída do produto de seus estabelecimentos, ainda que destinado a outra unidade da Federação, pelo pagamento do imposto sobre operações relativas à circulação de mercadorias incidente sobre energia elétrica, desde a produção ou importação até a última operação, calculado o imposto sobre o preço então praticado na operação final e assegurado seu recolhimento ao Estado ou ao Distrito Federal, conforme o local onde deva ocorrer essa operação.
 
-	*  . E         . , I, "",        z  ,            :
+	* § 10. Enquanto não entrar em vigor a lei prevista no art. 159, I, "c", cuja promulgação se fará até 31 de dezembro de 1989, é assegurada a aplicação dos recursos previstos naquele dispositivo da seguinte maneira:
 
-		* I -      R N,   B  Az S.A.;
+		* I - seis décimos por cento na Região Norte, através do Banco da Amazônia S.A.;
 
-		* II -         R N,   B  N  B S.A.;
+		* II - um inteiro e oito décimos por cento na Região Nordeste, através do Banco do Nordeste do Brasil S.A.;
 
-		* III -      R C-O,   B  B S.A.
+		* III - seis décimos por cento na Região Centro-Oeste, através do Banco do Brasil S.A.
 
-	*  .  ,    ,  B  D  C-O,   ,   ,     . , I, "",  ,  ,  C.
+	* § 11. Fica criado, nos termos da lei, o Banco de Desenvolvimento do Centro-Oeste, para dar cumprimento, na referida região, ao que determinam os arts. 159, I, "c", e 192, § 2°, da Constituição.
 
-	*  . A    . , II,        ,    C E B S.A. (E),  L  .,      ,    .
+	* § 12. A urgência prevista no art. 148, II, não prejudica a cobrança do empréstimo compulsório instituído, em benefício das Centrais Elétricas Brasileiras S.A. (Eletrobrás), pela Lei n° 4.156, de 28 de novembro de 1962, com as alterações posteriores.
 
-* A. . O   . ,  ,     ,  z   z , -        z   ,        -.
+* Art. 35. O disposto no art. 165, § 7°, será cumprido de forma progressiva, no prazo de até dez anos, distribuindo-se os recursos entre as regiões macroeconômicas em razão proporcional à população, a partir da situação verificada no biênio 1986-87.
 
-	*   P        , -     :
+	* § 1° Para aplicação dos critérios de que trata este artigo, excluem-se das despesas totais as relativas:
 
-		* I -       ;
+		* I - aos projetos considerados prioritários no plano plurianual;
 
-		* II -     ;
+		* II - à segurança e defesa nacional;
 
-		* III -       D ;
+		* III - à manutenção dos órgãos federais no Distrito Federal;
 
-		* IV -  C N,  T  C  U   P J;
+		* IV - ao Congresso Nacional, ao Tribunal de Contas da União e ao Poder Judiciário;
 
-		* V -           U,       P P .
+		* V - ao serviço da dívida da administração direta e indireta da União, inclusive fundações instituídas e mantidas pelo Poder Público federal.
 
-	*   A             . ,  , I  II,     :
+	* § 2° Até a entrada em vigor da lei complementar a que se refere o art. 165, § 9°, I e II, serão obedecidas as seguintes normas:
 
-		* I -     ,             ,                      ;
+		* I - o projeto do plano plurianual, para vigência até o final do primeiro exercício financeiro do mandato presidencial subseqüente, será encaminhado até quatro meses antes do encerramento do primeiro exercício financeiro e devolvido para sanção até o encerramento da sessão legislativa;
 
-		* II -      z                           ;
+		* II - o projeto de lei de diretrizes orçamentárias será encaminhado até oito meses e meio antes do encerramento do exercício financeiro e devolvido para sanção até o encerramento do primeiro período da sessão legislativa;
 
-		* III -       U                     .
+		* III - o projeto de lei orçamentária da União será encaminhado até quatro meses antes do encerramento do exercício financeiro e devolvido para sanção até o encerramento da sessão legislativa.
 
-* A. . O        C,                   , --,      C N  z   . (V D L  ,  )
+* Art. 36. Os fundos existentes na data da promulgação da Constituição, excetuados os resultantes de isenções fiscais que passem a integrar patrimônio privado e os que interessem à defesa nacional, extinguir-se-ão, se não forem ratificados pelo Congresso Nacional no prazo de dois anos. (Vide Decreto Legislativo n° 66, de 1990)
 
-* A. . A      . , III,  -  z   , z-     ,  ,    .
+* Art. 37. A adaptação ao que estabelece o art. 167, III, deverá processar-se no prazo de cinco anos, reduzindo-se o excesso à base de, pelo menos, um quinto por ano.
 
-* A. . A        . ,  U,  E,  D    M                   .
+* Art. 38. Até a promulgação da lei complementar referida no art. 169, a União, os Estados, o Distrito Federal e os Municípios não poderão despender com pessoal mais do que sessenta e cinco por cento do valor das respectivas receitas correntes.
 
-	*   A U,  E,  D    M,            ,    , z     z     . (I  E C  ,  )
+	* § 1° A União, os Estados, o Distrito Federal e os Municípios, quando a respectiva despesa de pessoal exceder o limite previsto neste artigo, deverão retornar àquele limite, reduzindo o percentual excedente à razão de um quinto por ano. (Incluído pela Emenda Constitucional n° 127, de 2022)
 
-	*   A           , ,     .   C   z,         .   C ,   : (I  E C  ,  )
+	* § 2° As despesas com pessoal resultantes do cumprimento do disposto nos §§ 12, 13, 14 e 15 do art. 198 da Constituição Federal serão contabilizadas, para fins dos limites de que trata o art. 169 da Constituição Federal, da seguinte forma: (Incluído pela Emenda Constitucional n° 127, de 2022)
 
-		* I -            ,   z   ; (I  E C  ,  )
+		* I - até o fim do exercício financeiro subsequente ao da publicação deste dispositivo, não serão contabilizadas para esses limites; (Incluído pela Emenda Constitucional n° 127, de 2022)
 
-		* II -          ,  z  % (  )   ; (I  E C  ,  )
+		* II - no segundo exercício financeiro subsequente ao da publicação deste dispositivo, serão deduzidas em 90% (noventa por cento) do seu valor; (Incluído pela Emenda Constitucional n° 127, de 2022)
 
-		* III -               ,        II    z     % (z  )   . (I  E C  ,  )
+		* III - entre o terceiro e o décimo segundo exercício financeiro subsequente ao da publicação deste dispositivo, a dedução de que trata o inciso II deste parágrafo será reduzida anualmente na proporção de 10% (dez por cento) de seu valor. (Incluído pela Emenda Constitucional n° 127, de 2022)
 
-* A. . P               U,     C,  P E     P L             .
+* Art. 39. Para efeito do cumprimento das disposições constitucionais que impliquem variações de despesas e receitas da União, após a promulgação da Constituição, o Poder Executivo deverá elaborar e o Poder Legislativo apreciar projeto de revisão da lei orçamentária referente ao exercício financeiro de 1989.
 
-	* P . O C N    z  z       . , II.
+	* Parágrafo único. O Congresso Nacional deverá votar no prazo de doze meses a lei complementar prevista no art. 161, II.
 
-* A. . É   Z   M,        ,    ,    ,  z     ,      C. (V D  .,  )
+* Art. 40. É mantida a Zona Franca de Manaus, com suas características de área livre de comércio, de exportação e importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a partir da promulgação da Constituição. (Vide Decreto n° 7.212, de 2010)
 
-	* P . S                    Z   M.
+	* Parágrafo único. Somente por lei federal podem ser modificados os critérios que disciplinaram ou venham a disciplinar a aprovação dos projetos na Zona Franca de Manaus.
 
-* A. . O P E  U,  E,  D    M       z    ,   P L    .
+* Art. 41. Os Poderes Executivos da União, dos Estados, do Distrito Federal e dos Municípios reavaliarão todos os incentivos fiscais de natureza setorial ora em vigor, propondo aos Poderes Legislativos respectivos as medidas cabíveis.
 
-	*   C--    ,        C,        .
+	* § 1° Considerar-se-ão revogados após dois anos, a partir da data da promulgação da Constituição, os incentivos que não forem confirmados por lei.
 
-	*   A          ,  ,          z .
+	* § 2° A revogação não prejudicará os direitos que já tiverem sido adquiridos, àquela data, em relação a incentivos concedidos sob condição e com prazo certo.
 
-	*   O      E,     . ,  ,  C  ,     E C  ,      ,        z  .
+	* § 3° Os incentivos concedidos por convênio entre Estados, celebrados nos termos do art. 23, § 6°, da Constituição de 1967, com a redação da Emenda Constitucional n° 1, de 17 de outubro de 1969, também deverão ser reavaliados e reconfirmados nos prazos deste artigo.
 
-* A. . D  () ,  U      : (R   E C  ,  )
+* Art. 42. Durante 40 (quarenta) anos, a União aplicará dos recursos destinados à irrigação: (Redação dada pela Emenda Constitucional n° 89, de 2015)
 
-	* I - % (  )  R C-O; (R   E C  ,  )
+	* I - 20% (vinte por cento) na Região Centro-Oeste; (Redação dada pela Emenda Constitucional n° 89, de 2015)
 
-	* II - % (  )  R N,   S. (R   E C  ,  )
+	* II - 50% (cinquenta por cento) na Região Nordeste, preferencialmente no Semiárido. (Redação dada pela Emenda Constitucional n° 89, de 2015)
 
-	* P . D     I  II  ,   % (  )                  . (I  E C  ,  )
+	* Parágrafo único. Dos percentuais previstos nos incisos I e II do caput, no mínimo 50% (cinquenta por cento) serão destinados a projetos de irrigação que beneficiem agricultores familiares que atendam aos requisitos previstos em legislação específica. (Incluído pela Emenda Constitucional n° 89, de 2015)
 
-* A. . N                z ,   z   ,      C, --    z,        ,               z    . (R)
+* Art. 43. Na data da promulgação da lei que disciplinar a pesquisa e a lavra de recursos e jazidas minerais, ou no prazo de um ano, a contar da promulgação da Constituição, tornar-se-ão sem efeito as autorizações, concessões e demais títulos atributivos de direitos minerários, caso os trabalhos de pesquisa ou de lavra não hajam sido comprovadamente iniciados nos prazos legais ou estejam inativos. (Regulamento)
 
-* A. . A      z  ,                   ,      C,      . ,  .
+* Art. 44. As atuais empresas brasileiras titulares de autorização de pesquisa, concessão de lavra de recursos minerais e de aproveitamento dos potenciais de energia hidráulica em vigor terão quatro anos, a partir da promulgação da Constituição, para cumprir os requisitos do art. 176, § 1°.
 
-	*   R         ,           . ,  ,  ,  z          C,           z   ,           .
+	* § 1° Ressalvadas as disposições de interesse nacional previstas no texto constitucional, as empresas brasileiras ficarão dispensadas do cumprimento do disposto no art. 176, § 1°, desde que, no prazo de até quatro anos da data da promulgação da Constituição, tenham o produto de sua lavra e beneficiamento destinado a industrialização no território nacional, em seus próprios estabelecimentos ou em empresa industrial controladora ou controlada.
 
-	*           . ,  ,                z.
+	* § 2° Ficarão também dispensadas do cumprimento do disposto no art. 176, § 1°, as empresas brasileiras titulares de concessão de energia hidráulica para uso em seu processo de industrialização.
 
-	*   A          z           ,           z    .
+	* § 3° As empresas brasileiras referidas no § 1° somente poderão ter autorizações de pesquisa e concessões de lavra ou potenciais de energia hidráulica, desde que a energia e o produto da lavra sejam utilizados nos respectivos processos industriais.
 
-* A. .       . , II,  C      P   .      .   L  .,      .
+* Art. 45. Ficam excluídas do monopólio estabelecido pelo art. 177, II, da Constituição as refinarias em funcionamento no País amparadas pelo art. 43 e nas condições do art. 45 da Lei n° 2.004, de 3 de outubro de 1953.
 
-	* P .      . ,  ,        P B S.A. (P),    ,          C.
+	* Parágrafo único. Ficam ressalvados da vedação do art. 177, § 1°, os contratos de risco feitos com a Petróleo Brasileiro S.A. (Petrobrás), para pesquisa de petróleo, que estejam em vigor na data da promulgação da Constituição.
 
-* A. . S       ,    ,    ,             ,        .
+* Art. 46. São sujeitos à correção monetária desde o vencimento, até seu efetivo pagamento, sem interrupção ou suspensão, os créditos junto a entidades submetidas aos regimes de intervenção ou liquidação extrajudicial, mesmo quando esses regimes sejam convertidos em falência.
 
-	* P . O    - :
+	* Parágrafo único. O disposto neste artigo aplica-se também:
 
-		* I -   z        ""  ;
+		* I - às operações realizadas posteriormente à decretação dos regimes referidos no "caput" deste artigo;
 
-		* II -    , , ,    z,   -     ,             ,   z        ;
+		* II - às operações de empréstimo, financiamento, refinanciamento, assistência financeira de liquidez, cessão ou sub-rogação de créditos ou cédulas hipotecárias, efetivação de garantia de depósitos do público ou de compra de obrigações passivas, inclusive as realizadas com recursos de fundos que tenham essas destinações;
 
-		* III -       C;
+		* III - aos créditos anteriores à promulgação da Constituição;
 
-		* IV -            C,        .
+		* IV - aos créditos das entidades da administração pública anteriores à promulgação da Constituição, não liquidados até 1 de janeiro de 1988.
 
-* A. . N   ,      ,   z,           ,           :
+* Art. 47. Na liquidação dos débitos, inclusive suas renegociações e composições posteriores, ainda que ajuizados, decorrentes de quaisquer empréstimos concedidos por bancos e por instituições financeiras, não existirá correção monetária desde que o empréstimo tenha sido concedido:
 
-	* I -                      ;
+	* I - aos micro e pequenos empresários ou seus estabelecimentos no período de 28 de fevereiro de 1986 a 28 de fevereiro de 1987;
 
-	* II -  ,                 z  ,      .
+	* II - ao mini, pequenos e médios produtores rurais no período de 28 de fevereiro de 1986 a 31 de dezembro de 1987, desde que relativos a crédito rural.
 
-	*   C-,    ,              z  O  T N,                    O  T N.
+	* § 1° Consideram-se, para efeito deste artigo, microempresas as pessoas jurídicas e as firmas individuais com receitas anuais de até dez mil Obrigações do Tesouro Nacional, e pequenas empresas as pessoas jurídicas e as firmas individuais com receita anual de até vinte e cinco mil Obrigações do Tesouro Nacional.
 
-	*   A   ,        -          .
+	* § 2° A classificação de mini, pequeno e médio produtor rural será feita obedecendo-se às normas de crédito rural vigentes à época do contrato.
 
-	*   A                :
+	* § 3° A isenção da correção monetária a que se refere este artigo só será concedida nos seguintes casos:
 
-		* I -      ,       ,      z   ,        C;
+		* I - se a liquidação do débito inicial, acrescido de juros legais e taxas judiciais, vier a ser efetivada no prazo de noventa dias, a contar da data da promulgação da Constituição;
 
-		* II -           ,        ;
+		* II - se a aplicação dos recursos não contrariar a finalidade do financiamento, cabendo o ônus da prova à instituição credora;
 
-		* III -                   ,     ,           ;
+		* III - se não for demonstrado pela instituição credora que o mutuário dispõe de meios para o pagamento de seu débito, excluído desta demonstração seu estabelecimento, a casa de moradia e os instrumentos de trabalho e produção;
 
-		* IV -            O  T N;
+		* IV - se o financiamento inicial não ultrapassar o limite de cinco mil Obrigações do Tesouro Nacional;
 
-		* V -            .
+		* V - se o beneficiário não for proprietário de mais de cinco módulos rurais.
 
-	*   O                   .
+	* § 4° Os benefícios de que trata este artigo não se estendem aos débitos já quitados e aos devedores que sejam constituintes.
 
-	*   N     z     -     ,    ,       ,   ,         -   .
+	* § 5° No caso de operações com prazos de vencimento posteriores à data- limite de liquidação da dívida, havendo interesse do mutuário, os bancos e as instituições financeiras promoverão, por instrumento próprio, alteração nas condições contratuais originais de forma a ajustá-las ao presente benefício.
 
-	*   A                P P,            .
+	* § 6° A concessão do presente benefício por bancos comerciais privados em nenhuma hipótese acarretará ônus para o Poder Público, ainda que através de refinanciamento e repasse de recursos pelo banco central.
 
-	*   N           ,         .
+	* § 7° No caso de repasse a agentes financeiros oficiais ou cooperativas de crédito, o ônus recairá sobre a fonte de recursos originária.
 
-* A. . O C N,          C,      .
+* Art. 48. O Congresso Nacional, dentro de cento e vinte dias da promulgação da Constituição, elaborará código de defesa do consumidor.
 
-* A. . A          ,    ,     ,         ,        .
+* Art. 49. A lei disporá sobre o instituto da enfiteuse em imóveis urbanos, sendo facultada aos foreiros, no caso de sua extinção, a remição dos aforamentos mediante aquisição do domínio direto, na conformidade do que dispuserem os respectivos contratos.
 
-	*   Q    ,               U.
+	* § 1° Quando não existir cláusula contratual, serão adotados os critérios e bases hoje vigentes na legislação especial dos imóveis da União.
 
-	*   O              .
+	* § 2° Os direitos dos atuais ocupantes inscritos ficam assegurados pela aplicação de outra modalidade de contrato.
 
-	*   A           ,     ,     .
+	* § 3° A enfiteuse continuará sendo aplicada aos terrenos de marinha e seus acrescidos, situados na faixa de segurança, a partir da orla marítima.
 
-	*   R  ,       ,  z   ,    ,              .
+	* § 4° Remido o foro, o antigo titular do domínio direto deverá, no prazo de noventa dias, sob pena de responsabilidade, confiar à guarda do registro de imóveis competente toda a documentação a ele relativa.
 
-* A. . L      z    ,    C,        , ,   , z,  ,       .
+* Art. 50. Lei agrícola a ser promulgada no prazo de um ano disporá, nos termos da Constituição, sobre os objetivos e instrumentos de política agrícola, prioridades, planejamento de safras, comercialização, abastecimento interno, mercado externo e instituição de crédito fundiário.
 
-* A. . S   C N,   C ,           C,   ,             , z            z  .
+* Art. 51. Serão revistos pelo Congresso Nacional, através de Comissão mista, nos três anos a contar da data da promulgação da Constituição, todas as doações, vendas e concessões de terras públicas com área superior a três mil hectares, realizadas no período de 1° de janeiro de 1962 a 31 de dezembro de 1987.
 
-	*   N   ,             .
+	* § 1° No tocante às vendas, a revisão será feita com base exclusivamente no critério de legalidade da operação.
 
-	*   N     ,             .
+	* § 2° No caso de concessões e doações, a revisão obedecerá aos critérios de legalidade e de conveniência do interesse público.
 
-	*   N     ,   ,    ,       U,  E,  D    M.
+	* § 3° Nas hipóteses previstas nos parágrafos anteriores, comprovada a ilegalidade, ou havendo interesse público, as terras reverterão ao patrimônio da União, dos Estados, do Distrito Federal ou dos Municípios.
 
-* A. . A       . ,  : (R   E C  ,  )
+* Art. 52. Até que sejam fixadas as condições do art. 192, são vedados: (Redação dada pela Emenda Constitucional n° 40, de 2003)
 
-	* I -  ,  P,         ;
+	* I - a instalação, no País, de novas agências de instituições financeiras domiciliadas no exterior;
 
-	* II -      ,         P,          .
+	* II - o aumento do percentual de participação, no capital de instituições financeiras com sede no País, de pessoas físicas ou jurídicas residentes ou domiciliadas no exterior.
 
-	* P . A            z    ,  ,     G .
+	* Parágrafo único. A vedação a que se refere este artigo não se aplica às autorizações resultantes de acordos internacionais, de reciprocidade, ou de interesse do Governo brasileiro.
 
-* A. . A -          S G M,    L  .,      ,     :
+* Art. 53. Ao ex-combatente que tenha efetivamente participado de operações bélicas durante a Segunda Guerra Mundial, nos termos da Lei n° 5.315, de 12 de setembro de 1967, serão assegurados os seguintes direitos:
 
-	* I -    ,     ,  ;
+	* I - aproveitamento no serviço público, sem a exigência de concurso, com estabilidade;
 
-	* II -       -   A,       ,         ,    ,     ;
+	* II - pensão especial correspondente à deixada por segundo-tenente das Forças Armadas, que poderá ser requerida a qualquer tempo, sendo inacumulável com quaisquer rendimentos recebidos dos cofres públicos, exceto os benefícios previdenciários, ressalvado o direito de opção;
 
-	* III -    ,       ,   ,       ;
+	* III - em caso de morte, pensão à viúva ou companheira ou dependente, de forma proporcional, de valor igual à do inciso anterior;
 
-	* IV -  ,    ,   ;
+	* IV - assistência médica, hospitalar e educacional gratuita, extensiva aos dependentes;
 
-	* V -            ,    ;
+	* V - aposentadoria com proventos integrais aos vinte e cinco anos de serviço efetivo, em qualquer regime jurídico;
 
-	* VI -      ,            .
+	* VI - prioridade na aquisição da casa própria, para os que não a possuam ou para suas viúvas ou companheiras.
 
-	* P . A       II ,     ,       -.
+	* Parágrafo único. A concessão da pensão especial do inciso II substitui, para todos os efeitos legais, qualquer outra pensão já concedida ao ex-combatente.
 
-* A. . O      D-L  .,      ,    D-L  .,      , ,  ,         .
+* Art. 54. Os seringueiros recrutados nos termos do Decreto-Lei n° 5.813, de 14 de setembro de 1943, e amparados pelo Decreto-Lei n° 9.882, de 16 de setembro de 1946, receberão, quando carentes, pensão mensal vitalícia no valor de dois salários mínimos.
 
-	*   O      ,     G ,      ,     ,  R Az,   S G M.
+	* § 1° O benefício é estendido aos seringueiros que, atendendo a apelo do Governo brasileiro, contribuíram para o esforço de guerra, trabalhando na produção de borracha, na Região Amazônica, durante a Segunda Guerra Mundial.
 
-	*   O          .
+	* § 2° Os benefícios estabelecidos neste artigo são transferíveis aos dependentes reconhecidamente carentes.
 
-	*   A    --       P E          C.
+	* § 3° A concessão do benefício far-se-á conforme lei a ser proposta pelo Poder Executivo dentro de cento e cinqüenta dias da promulgação da Constituição.
 
-* A. -A. O      .   A  D C T  z,   ,    R ., (    ). (I  E C  ,  ) (V E C  ,  )
+* Art. 54-A. Os seringueiros de que trata o art. 54 deste Ato das Disposições Constitucionais Transitórias receberão indenização, em parcela única, no valor de R$ 25.000,00 (vinte e cinco mil reais). (Incluído pela Emenda Constitucional n° 78, de 2014) (Vide Emenda Constitucional n° 78, de 2014)
 
-* A. . A       z ,   ,  ,     ,   -,      .
+* Art. 55. Até que seja aprovada a lei de diretrizes orçamentárias, trinta por cento, no mínimo, do orçamento da seguridade social, excluído o seguro-desemprego, serão destinados ao setor de saúde.
 
-* A. . A       . , I,    ,  ,               D-L  .,      ,   D-L  .,      ,  D  .,      ,   L  .,      ,        , ,     ,         .
+* Art. 56. Até que a lei disponha sobre o art. 195, I, a arrecadação decorrente de, no mínimo, cinco dos seis décimos percentuais correspondentes à alíquota da contribuição de que trata o Decreto-Lei n° 1.940, de 25 de maio de 1982, alterada pelo Decreto-Lei n° 2.049, de 1° de agosto de 1983, pelo Decreto n° 91.236, de 8 de maio de 1985, e pela Lei n° 7.611, de 8 de julho de 1987, passa a integrar a receita da seguridade social, ressalvados, exclusivamente no exercício de 1988, os compromissos assumidos com programas e projetos em andamento.
 
-* A. . O   E   M            ,   ,      ,        ,             z           C.
+* Art. 57. Os débitos dos Estados e dos Municípios relativos às contribuições previdenciárias até 30 de junho de 1988 serão liquidados, com correção monetária, em cento e vinte parcelas mensais, dispensados os juros e multas sobre eles incidentes, desde que os devedores requeiram o parcelamento e iniciem seu pagamento no prazo de cento e oitenta dias a contar da promulgação da Constituição.
 
-	*   O                         z,          .
+	* § 1° O montante a ser pago em cada um dos dois primeiros anos não será inferior a cinco por cento do total do débito consolidado e atualizado, sendo o restante dividido em parcelas mensais de igual valor.
 
-	*   A              ,    L  .,    z   .
+	* § 2° A liquidação poderá incluir pagamentos na forma de cessão de bens e prestação de serviços, nos termos da Lei n° 7.578, de 23 de dezembro de 198 6.
 
-	*   E     ,  E   M , ,           .
+	* § 3° Em garantia do cumprimento do parcelamento, os Estados e os Municípios consignarão, anualmente, nos respectivos orçamentos as dotações necessárias ao pagamento de seus débitos.
 
-	*   D        ,        ,      ;  ,        P,   E  M ,            .
+	* § 4° Descumprida qualquer das condições estabelecidas para concessão do parcelamento, o débito será considerado vencido em sua totalidade, sobre ele incidindo juros de mora; nesta hipótese, parcela dos recursos correspondentes aos Fundos de Participação, destinada aos Estados e Municípios devedores, será bloqueada e repassada à previdência social para pagamento de seus débitos.
 
-* A. . O    ,          C,    ,         ,      ,       , -     z             .
+* Art. 58. Os benefícios de prestação continuada, mantidos pela previdência social na data da promulgação da Constituição, terão seus valores revistos, a fim de que seja restabelecido o poder aquisitivo, expresso em número de salários mínimos, que tinham na data de sua concessão, obedecendo-se a esse critério de atualização até a implantação do plano de custeio e benefícios referidos no artigo seguinte.
 
-	* P . A     z                    C.
+	* Parágrafo único. As prestações mensais dos benefícios atualizadas de acordo com este artigo serão devidas e pagas a partir do sétimo mês a contar da promulgação da Constituição.
 
-* A. . O      z               z        C  C N,      -.
+* Art. 59. Os projetos de lei relativos à organização da seguridade social e aos planos de custeio e de benefício serão apresentados no prazo máximo de seis meses da promulgação da Constituição ao Congresso Nacional, que terá seis meses para apreciá-los.
 
-	* P . A  C N,       z  .
+	* Parágrafo único. Aprovados pelo Congresso Nacional, os planos serão implantados progressivamente nos dezoito meses seguintes.
 
-* A. . A   U    IV    . -A  C            V     ,        ,    : (R   E C  ,  )
+* Art. 60. A complementação da União referida no inciso IV do caput do art. 212-A da Constituição Federal será implementada progressivamente até alcançar a proporção estabelecida no inciso V do caput do mesmo artigo, a partir de 1° de janeiro de 2021, nos seguintes valores mínimos: (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-	* I - % (z  ),   ; (R   E C  ,  )
+	* I - 12% (doze por cento), no primeiro ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-	* II - % (z  ),   ; (R   E C  ,  )
+	* II - 15% (quinze por cento), no segundo ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-	* III - % (z  ),   ; (R   E C  ,  )
+	* III - 17% (dezessete por cento), no terceiro ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-	* IV - % (z  ),   ; (R   E C  ,  )
+	* IV - 19% (dezenove por cento), no quarto ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-	* V - % (    ),   ; (R   E C  ,  )
+	* V - 21% (vinte e um por cento), no quinto ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-	* VI - % (    ),   . (R   E C  ,  )
+	* VI - 23% (vinte e três por cento), no sexto ano. (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-	*   A         ""   V    . -A  C  ,  ,   : (R   E C  ,  )
+	* § 1° A parcela da complementação de que trata a alínea "b" do inciso V do caput do art. 212-A da Constituição Federal observará, no mínimo, os seguintes valores: (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* I -  ()  ,   ; (R   E C  ,  )
+		* I - 2 (dois) pontos percentuais, no primeiro ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* II -  ()  ,   ; (R   E C  ,  )
+		* II - 5 (cinco) pontos percentuais, no segundo ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* III - , (      )  ,   ; (R   E C  ,  )
+		* III - 6,25 (seis inteiros e vinte e cinco centésimos) pontos percentuais, no terceiro ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* IV - , (    )  ,   ; (R   E C  ,  )
+		* IV - 7,5 (sete inteiros e cinco décimos) pontos percentuais, no quarto ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* V -  ()  ,   ; (R   E C  ,  )
+		* V - 9 (nove) pontos percentuais, no quinto ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* VI - , (z    )  ,   . (R   E C  ,  )
+		* VI - 10,5 (dez inteiros e cinco décimos) pontos percentuais, no sexto ano. (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-	*   A         ""   V    . -A  C     : (R   E C  ,  )
+	* § 2° A parcela da complementação de que trata a alínea "c" do inciso V do caput do art. 212-A da Constituição Federal observará os seguintes valores: (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* I - , (   )  ,   ; (R   E C  ,  )
+		* I - 0,75 (setenta e cinco centésimos) ponto percentual, no terceiro ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* II - , (    )  ,   ; (R   E C  ,  )
+		* II - 1,5 (um inteiro e cinco décimos) ponto percentual, no quarto ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* III -  ()  ,   ; (R   E C  ,  )
+		* III - 2 (dois) pontos percentuais, no quinto ano; (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-		* IV - , (    )  ,   . (R   E C  ,  )
+		* IV - 2,5 (dois inteiros e cinco décimos) pontos percentuais, no sexto ano. (Redação dada pela Emenda Constitucional n° 108, de 2020)
 
-* A. -A. O       U          I    . -A  C          ,     , ,    (z) . (I  E C  ,  )
+* Art. 60-A. Os critérios de distribuição da complementação da União e dos fundos a que se refere o inciso I do caput do art. 212-A da Constituição Federal serão revistos em seu sexto ano de vigência e, a partir dessa primeira revisão, periodicamente, a cada 10 (dez) anos. (Incluído pela Emenda Constitucional n° 108, de 2020)
 
-* A. . A        . ,             z  ,       I  II     ,    ,    ,    -,     .
+* Art. 61. As entidades educacionais a que se refere o art. 213, bem como as fundações de ensino e pesquisa cuja criação tenha sido autorizada por lei, que preencham os requisitos dos incisos I e II do referido artigo e que, nos últimos três anos, tenham recebido recursos públicos, poderão continuar a recebê-los, salvo disposição legal em contrário.
 
-* A. . A    S N  Az R (SENAR)       S N  Az I (SENAI)   S N  Az  C (SENAC),  z         .
+* Art. 62. A lei criará o Serviço Nacional de Aprendizagem Rural (SENAR) nos moldes da legislação relativa ao Serviço Nacional de Aprendizagem Industrial (SENAI) e ao Serviço Nacional de Aprendizagem do Comércio (SENAC), sem prejuízo das atribuições dos órgãos públicos que atuam na área.
 
-* A. . É   C    ,    P L,   P J    P E,          R      C   P, ,   , -      .
+* Art. 63. É criada uma Comissão composta de nove membros, sendo três do Poder Legislativo, três do Poder Judiciário e três do Poder Executivo, para promover as comemorações do centenário da proclamação da República e da promulgação da primeira Constituição republicana do País, podendo, a seu critério, desdobrar-se em tantas subcomissões quantas forem necessárias.
 
-	* P . N    ,  C  ,       , ,     P,  -                 .
+	* Parágrafo único. No desenvolvimento de suas atribuições, a Comissão promoverá estudos, debates e avaliações sobre a evolução política, social, econômica e cultural do País, podendo articular-se com os governos estaduais e municipais e com instituições públicas e privadas que desejem participar dos eventos.
 
-* A. . A I N     U,  E,  D    M,     ,       P P,        C,          ,  ,  ,         , ,          E    C  B.
+* Art. 64. A Imprensa Nacional e demais gráficas da União, dos Estados, do Distrito Federal e dos Municípios, da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo Poder Público, promoverão edição popular do texto integral da Constituição, que será posta à disposição das escolas e dos cartórios, dos sindicatos, dos quartéis, das igrejas e de outras instituições representativas da comunidade, gratuitamente, de modo que cada cidadão brasileiro possa receber do Estado um exemplar da Constituição do Brasil.
 
-* A. . O P L ,  z  z ,  . ,  .
+* Art. 65. O Poder Legislativo regulamentará, no prazo de doze meses, o art. 220, § 4°.
 
-* A. . S           ,    .
+* Art. 66. São mantidas as concessões de serviços públicos de telecomunicações atualmente em vigor, nos termos da lei.
 
-* A. . A U        z         C.
+* Art. 67. A União concluirá a demarcação das terras indígenas no prazo de cinco anos a partir da promulgação da Constituição.
 
-* A. . A               ,   E -   .
+* Art. 68. Aos remanescentes das comunidades dos quilombos que estejam ocupando suas terras é reconhecida a propriedade definitiva, devendo o Estado emitir-lhes os títulos respectivos.
 
-* A. . S   E       P-G  A-G,  ,      C,       .
+* Art. 69. Será permitido aos Estados manter consultorias jurídicas separadas de suas Procuradorias-Gerais ou Advocacias-Gerais, desde que, na data da promulgação da Constituição, tenham órgãos distintos para as respectivas funções.
 
-* A. .               C  E,    . ,  ,  C.
+* Art. 70. Fica mantida atual competência dos tribunais estaduais até que a mesma seja definida na Constituição do Estado, nos termos do art. 125, § 1°, da Constituição.
 
-* A. . É ,       ,      //  //  //  //,   S  E,        z P    z ,               ,             .   A  D C T,        ,     ,            . (R   E C  ,  ) (V E C  ,  )
+* Art. 71. É instituído, nos exercícios financeiros de 1994 e 1995, bem assim nos períodos de 01/01/1996 a 30/06/97 e 01/07/97 a 31/12/1999, o Fundo Social de Emergência, com o objetivo de saneamento financeiro da Fazenda Pública Federal e de estabilização econômica, cujos recursos serão aplicados prioritariamente no custeio das ações dos sistemas de saúde e educação, incluindo a complementação de recursos de que trata o § 3° do art. 60 do Ato das Disposições Constitucionais Transitórias, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e despesas orçamentárias associadas a programas de relevante interesse econômico e social. (Redação dada pela Emenda Constitucional n° 17, de 1997) (Vide Emenda Constitucional n° 17, de 1997)
 
-	*   A                II     .   C. (R   ,  E C  ,  )]
+	* § 1° Ao Fundo criado por este artigo não se aplica o disposto na parte final do inciso II do § 9° do art. 165 da Constituição. (Renumerado do parágrafo único, pela Emenda Constitucional n° 10, de 1996)]
 
-	*   O            Ez          . (I  E C  ,  )
+	* § 2° O Fundo criado por este artigo passa a ser denominado Fundo de Estabilização Fiscal a partir do início do exercício financeiro de 1996. (Incluído pela Emenda Constitucional n° 10, de 1996)
 
-	*   O P E     ,   ,              . (I  E C  ,  )
+	* § 3° O Poder Executivo publicará demonstrativo da execução orçamentária, de periodicidade bimestral, no qual se discriminarão as fontes e usos do Fundo criado por este artigo. (Incluído pela Emenda Constitucional n° 10, de 1996)
 
-* A. . I   S  E: (I  E C  R  ,  )
+* Art. 72. Integram o Fundo Social de Emergência: (Incluído pela Emenda Constitucional de Revisão n° 1, de 1994)
 
-	* I -             z      ,   ,  U,     ; (I  E C  R  ,  ) (V E C  ,  )
+	* I - o produto da arrecadação do imposto sobre renda e proventos de qualquer natureza incidente na fonte sobre pagamentos efetuados, a qualquer título, pela União, inclusive suas autarquias e fundações; (Incluído pela Emenda Constitucional de Revisão n° 1, de 1994) (Vide Emenda Constitucional n° 17, de 1997)
 
-	* II -               z       ,   ,       ,    z  L  .,      ,   L  .  .,       ,   ; (R   E C  ,  )
+	* II - a parcela do produto da arrecadação do imposto sobre renda e proventos de qualquer natureza e do imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos e valores mobiliários, decorrente das alterações produzidas pela Lei n° 8.894, de 21 de junho de 1994, e pelas Leis n°s 8.849 e 8.848, ambas de 28 de janeiro de 1994, e modificações posteriores; (Redação dada pela Emenda Constitucional n° 10, de 1996)
 
-	* III -                            A.   L  .,      ,  ,       ,                ,       ,      ,      L  .,    z  ; (R   E C  ,  )
+	* III - a parcela do produto da arrecadação resultante da elevação da alíquota da contribuição social sobre o lucro dos contribuintes a que se refere o § 1° do Art. 22 da Lei n° 8.212, de 24 de julho de 1991, a qual, nos exercícios financeiros de 1994 e 1995, bem assim no período de 1° de janeiro de 1996 a 30 de junho de 1997, passa a ser de trinta por cento, sujeita a alteração por lei ordinária, mantidas as demais normas da Lei n° 7.689, de 15 de dezembro de 1988; (Redação dada pela Emenda Constitucional n° 10, de 1996)
 
-	* IV -               U,      ,      I, II  III,        ; (R   E C  ,  )
+	* IV - vinte por cento do produto da arrecadação de todos os impostos e contribuições da União, já instituídos ou a serem criados, excetuado o previsto nos incisos I, II e III, observado o disposto nos §§ 3° e 4°; (Redação dada pela Emenda Constitucional n° 10, de 1996)
 
-	* V -             L C  ,      ,           III  ,    ,       ,                          z  ,            ,       ,     ,             z. (R   E C  ,  ) (V E C  ,  )
+	* V - a parcela do produto da arrecadação da contribuição de que trata a Lei Complementar n° 7, de 7 de setembro de 1970, devida pelas pessoas jurídicas a que se refere o inciso III deste artigo, a qual será calculada, nos exercícios financeiros de 1994 a 1995, bem assim nos períodos de 1°de janeiro de 1996 a 30 de junho de 1997 e de 1° de julho de 1997 a 31 de dezembro de 1999, mediante a aplicação da alíquota de setenta e cinco centésimos por cento, sujeita a alteração por lei ordinária posterior, sobre a receita bruta operacional, como definida na legislação do imposto sobre renda e proventos de qualquer natureza. (Redação dada pela Emenda Constitucional n° 17, de 1997) (Vide Emenda Constitucional n° 17, de 1997)
 
-	* VI -      . (I  E C  R  ,  )
+	* VI - outras receitas previstas em lei específica. (Incluído pela Emenda Constitucional de Revisão n° 1, de 1994)
 
-	*  . A          III  V --                E. (I  E C  R  ,  )
+	* § 1.° As alíquotas e a base de cálculo previstas nos incisos III e V aplicar-se-ão a partir do primeiro dia do mês seguinte aos noventa dias posteriores à promulgação desta Emenda. (Incluído pela Emenda Constitucional de Revisão n° 1, de 1994)
 
-	*   A       I, II, III  V   z            ,        , ,     C. (R   E C  ,  )
+	* § 2° As parcelas de que tratam os incisos I, II, III e V serão previamente deduzidas da base de cálculo de qualquer vinculação ou participação constitucional ou legal, não se lhes aplicando o disposto nos artigos, 159, 212 e 239 da Constituição. (Redação dada pela Emenda Constitucional n° 10, de 1996)
 
-	*   A       IV   z             ,  , , II,     C. (R   E C  ,  )
+	* § 3° A parcela de que trata o inciso IV será previamente deduzida da base de cálculo das vinculações ou participações constitucionais previstas nos artigos 153, § 5°, 157, II, 212 e 239 da Constituição. (Redação dada pela Emenda Constitucional n° 10, de 1996)
 
-	*   O            A , II    C. (R   E C  ,  )
+	* § 4° O disposto no parágrafo anterior não se aplica aos recursos previstos nos Artigos 158, II e 159 da Constituição. (Redação dada pela Emenda Constitucional n° 10, de 1996)
 
-	*   A             z,    S  E,     II  ,                  . (R   E C  ,  )
+	* § 5° A parcela dos recursos provenientes do imposto sobre renda e proventos de qualquer natureza, destinada ao Fundo Social de Emergência, nos termos do inciso II deste artigo, não poderá exceder a cinco inteiros e seis décimos por cento do total do produto da sua arrecadação. (Redação dada pela Emenda Constitucional n° 10, de 1996)
 
-* A. . N    S  E    z      V  .   C. (I  E C  R  ,  )
+* Art. 73. Na regulação do Fundo Social de Emergência não poderá ser utilizado o instrumento previsto no inciso V do art. 59 da Constituição. (Incluído pela Emenda Constitucional de Revisão n° 1, de 1994)
 
-* A. . A U                 z . (I  E C  ,  )
+* Art. 74. A União poderá instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira. (Incluído pela Emenda Constitucional n° 12, de 1996)
 
-	*   A                 ,   P E z-  -,   ,       . (I  E C  ,  )
+	* § 1° A alíquota da contribuição de que trata este artigo não excederá a vinte e cinco centésimos por cento, facultado ao Poder Executivo reduzi-la ou restabelecê-la, total ou parcialmente, nas condições e limites fixados em lei. (Incluído pela Emenda Constitucional n° 12, de 1996)
 
-	*   A             . ,  ,  , I,  C. (I  E C  ,  )
+	* § 2° A contribuição de que trata este artigo não se aplica o disposto nos arts. 153, § 5°, e 154, I, da Constituição. (Incluído pela Emenda Constitucional n° 12, de 1996)
 
-	*   O                N  S,        . (I  E C  ,  )
+	* § 3° O produto da arrecadação da contribuição de que trata este artigo será destinado integralmente ao Fundo Nacional de Saúde, para financiamento das ações e serviços de saúde. (Incluído pela Emenda Constitucional n° 12, de 1996)
 
-	*   A              . ,  ,  C,       z    . (I  E C  ,  )
+	* § 4° A contribuição de que trata este artigo terá sua exigibilidade subordinada ao disposto no art. 195, § 6°, da Constituição, e não poderá ser cobrada por prazo superior a dois anos. (Incluído pela Emenda Constitucional n° 12, de 1996)
 
-* A. . É ,     ,                  z      . ,   L  .,      ,   L  .,    z  ,        z. (I  E C  ,  )
+* Art. 75. É prorrogada, por trinta e seis meses, a cobrança da contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira de que trata o art. 74, instituída pela Lei n° 9.311, de 24 de outubro de 1996, modificada pela Lei n° 9.539, de 12 de dezembro de 1997, cuja vigência é também prorrogada por idêntico prazo. (Incluído pela Emenda Constitucional n° 21, de 1999)
 
-	*   O       .   C ,            ,   z ,    ,   ,   P E z-   ,    . (I  E C  ,  )
+	* § 1° Observado o disposto no § 6° do art. 195 da Constituição Federal, a alíquota da contribuição será de trinta e oito centésimos por cento, nos primeiros doze meses, e de trinta centésimos, nos meses subseqüentes, facultado ao Poder Executivo reduzi-la total ou parcialmente, nos limites aqui definidos. (Incluído pela Emenda Constitucional n° 21, de 1999)
 
-	*   O     ,     ,     ,   ,       . (I  E C  ,  )
+	* § 2° O resultado do aumento da arrecadação, decorrente da alteração da alíquota, nos exercícios financeiros de 1999, 2000 e 2001, será destinado ao custeio da previdência social. (Incluído pela Emenda Constitucional n° 21, de 1999)
 
-	*   É  U z       ,            ,         ,    z  . (I  E C  ,  ) (V ADIN  .-)
+	* § 3° É a União autorizada a emitir títulos da dívida pública interna, cujos recursos serão destinados ao custeio da saúde e da previdência social, em montante equivalente ao produto da arrecadação da contribuição, prevista e não realizada em 1999. (Incluído pela Emenda Constitucional n° 21, de 1999) (Vide ADIN n° 2.031-5)
 
-* A. . S   ,   ,    z  , % (  )    U    ,  z      R G  P S,       ,      ,            . (R   E C  ,  )
+* Art. 76. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) da arrecadação da União relativa às contribuições sociais, sem prejuízo do pagamento das despesas do Regime Geral de Previdência Social, às contribuições de intervenção no domínio econômico, às taxas e às receitas patrimoniais, já instituídas ou que vierem a ser criadas até a referida data. (Redação dada pela Emenda Constitucional n° 135, de 2024)
 
-	*   (R). (R   E   ,  ) P  
+	* § 1° (Revogado). (Redação dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-	*   E-              -         .   C . (R   E C  ,  ).
+	* § 2° Excetua-se da desvinculação de que trata o caput a arrecadação da contribuição social do salário-educação a que se refere o § 5° do art. 212 da Constituição Federal. (Redação dada pela Emenda Constitucional n° 68, de 2011).
 
-	*   (R). (R   E   ,  ) P  
+	* § 3° (Revogado). (Redação dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-	*   A                    . (I  E C  ,  )
+	* § 4° A desvinculação de que trata o caput não se aplica às receitas das contribuições sociais destinadas ao custeio da seguridade social. (Incluído pela Emenda Constitucional n° 103, de 2019)
 
-	*   A              ,        ,     E,  D    M. (I  E C  ,  )
+	* § 5° A desvinculação de que trata o caput deste artigo não opera efeitos sobre recursos que, por expressa disposição em norma constitucional ou legal, devam ser transferidos a Estados, ao Distrito Federal e a Municípios. (Incluído pela Emenda Constitucional n° 135, de 2024)
 
-	*   A                   .   L  .,    z  ,         .   L  .,      . (I  E C  ,  )
+	* § 6° A desvinculação de que trata o caput deste artigo não se aplica às receitas destinadas ao fundo criado pelo art. 47 da Lei n° 12.351, de 22 de dezembro de 2010, e aos recursos a que se refere o art. 2° da Lei n° 12.858, de 9 de setembro de 2013. (Incluído pela Emenda Constitucional n° 135, de 2024)
 
-* A. -A. S   ,   ,    z  , % (  )    E   D    ,               ,      ,    . (R   E C  ,  )
+* Art. 76-A. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) das receitas dos Estados e do Distrito Federal relativas a impostos, taxas e multas já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes. (Redação dada pela Emenda Constitucional n° 132, de 2023)
 
-	* P . E-       : (I   E   ,  ) P  
+	* Parágrafo único. Excetuam-se da desvinculação de que trata o caput: (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* I -                     , ,   II  III     .    .   C ; (I   E   ,  ) P  
+		* I - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, os incisos II e III do § 2° do art. 198 e o art. 212 da Constituição Federal; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* II -     M      C ; (I   E   ,  ) P  
+		* II - receitas que pertencem aos Municípios decorrentes de transferências previstas na Constituição Federal; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* III -           ; (I   E   ,  ) P  
+		* III - receitas de contribuições previdenciárias e de assistência à saúde dos servidores; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* IV -              ; (I   E   ,  ) P  
+		* IV - demais transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* V -    P J,  T  C,  M P,  D P   P-G  E   D . (I   E   ,  ) P  
+		* V - fundos instituídos pelo Poder Judiciário, pelos Tribunais de Contas, pelo Ministério Público, pelas Defensorias Públicas e pelas Procuradorias-Gerais dos Estados e do Distrito Federal. (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-* A. -B. S   ,   ,    z  ,    M   , ,   ,            ,      ,    ,      : (R   E C  ,  )
+* Art. 76-B. São desvinculadas de órgão, fundo ou despesa, até 31 de dezembro de 2032, as receitas dos Municípios relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, de acordo com os seguintes percentuais: (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-	* I - % (  ),    z  ;  (I  E C  ,  )
+	* I - 50% (cinquenta por cento), até 31 de dezembro de 2026; e (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	* II - % (  ),          z  . (I  E C  ,  )
+	* II - 30% (trinta por cento), de 1° de janeiro de 2027 a 31 de dezembro de 2032. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*   E-         : (I  E C  ,  )
+	* § 1° Excetuam-se das desvinculações de que trata o caput deste artigo: (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* I -                     , ,   III     .    .   C ; (R   E C  ,  )
+		* I - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, o inciso III do § 2° do art. 198 e o art. 212 da Constituição Federal; (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-		* II -           ; (I   E   ,  ) P  
+		* II - receitas de contribuições previdenciárias e de assistência à saúde dos servidores; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* III -             ; (I   E   ,  ) P  
+		* III - transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* IV -    T  C  M. (I   E   ,  ) P  
+		* IV - fundos instituídos pelo Tribunal de Contas do Município. (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-	*   A   ,          ,   z,          ,      ,   ,      ,      P E . (I  E C  ,  )
+	* § 2° A cada exercício financeiro, até a data de que trata o caput deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os superávits financeiros, verificados no exercício financeiro imediatamente anterior, dos fundos públicos instituídos pelo Poder Executivo municipal. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-* A. . A     ,             : (I  E C  ,  )
+* Art. 77. Até o exercício financeiro de 2004, os recursos mínimos aplicados nas ações e serviços públicos de saúde serão equivalentes: (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-	* I -    U: (I  E C  ,  )
+	* I - no caso da União: (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-		* )   ,                 ,  ,   ; (I  E C  ,  )
+		* a) no ano 2000, o montante empenhado em ações e serviços públicos de saúde no exercício financeiro de 1999 acrescido de, no mínimo, cinco por cento; (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-		* )      ,      ,      P I B - PIB; (I  E C  ,  )
+		* b) do ano 2001 ao ano 2004, o valor apurado no ano anterior, corrigido pela variação nominal do Produto Interno Bruto - PIB; (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-	* II -    E   D , z              .         .   ,  I,  ,   II, z        M;  (I  E C  ,  )
+	* II - no caso dos Estados e do Distrito Federal, doze por cento do produto da arrecadação dos impostos a que se refere o art. 155 e dos recursos de que tratam os arts. 157 e 159, inciso I, alínea a, e inciso II, deduzidas as parcelas que forem transferidas aos respectivos Municípios; e (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-	* III -    M   D , z              .         .   ,  I,     . (I  E C  ,  )
+	* III - no caso dos Municípios e do Distrito Federal, quinze por cento do produto da arrecadação dos impostos a que se refere o art. 156 e dos recursos de que tratam os arts. 158 e 159, inciso I, alínea b e § 3°. (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-	*   O E,  D    M         II  III  - ,      , z    z ,  ,    ,  ,    ,         . (I  E C  ,  )
+	* § 1° Os Estados, o Distrito Federal e os Municípios que apliquem percentuais inferiores aos fixados nos incisos II e III deverão elevá-los gradualmente, até o exercício financeiro de 2004, reduzida a diferença à razão de, pelo menos, um quinto por ano, sendo que, a partir de 2000, a aplicação será de pelo menos sete por cento. (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-	*   D   U     , z  ,  ,    M,    ,       ,    . (I  E C  ,  )
+	* § 2° Dos recursos da União apurados nos termos deste artigo, quinze por cento, no mínimo, serão aplicados nos Municípios, segundo o critério populacional, em ações e serviços básicos de saúde, na forma da lei. (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-	*   O   E,  D    M             U            S     z  C  S,  z    .   C . (I  E C  ,  )
+	* § 3° Os recursos dos Estados, do Distrito Federal e dos Municípios destinados às ações e serviços públicos de saúde e os transferidos pela União para a mesma finalidade serão aplicados por meio de Fundo de Saúde que será acompanhado e fiscalizado por Conselho de Saúde, sem prejuízo do disposto no art. 74 da Constituição Federal. (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-	*   N          . ,  ,       , --  U,  E,  D    M    . (I  E C  ,  )
+	* § 4° Na ausência da lei complementar a que se refere o art. 198, § 3°, a partir do exercício financeiro de 2005, aplicar-se-á à União, aos Estados, ao Distrito Federal e aos Municípios o disposto neste artigo. (Incluído pela Emenda Constitucional n° 29, de 2000)
 
-* A. . R         ,   z ,      .   A  D C T                 z,         E        z    z        ,   ,    ,   ,   ,  z   z ,     . (I  E C  ,  )
+* Art. 78. Ressalvados os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. 33 deste Ato das Disposições Constitucionais Transitórias e suas complementações e os que já tiverem os seus respectivos recursos liberados ou depositados em juízo, os precatórios pendentes na data de promulgação desta Emenda e os que decorram de ações iniciais ajuizadas até 31 de dezembro de 1999 serão liquidados pelo seu valor real, em moeda corrente, acrescido de juros legais, em prestações anuais, iguais e sucessivas, no prazo máximo de dez anos, permitida a cessão dos créditos. (Incluído pela Emenda Constitucional n° 30, de 2000)
 
-	*   É     ,    . (I  E C  ,  )
+	* § 1° É permitida a decomposição de parcelas, a critério do credor. (Incluído pela Emenda Constitucional n° 30, de 2000)
 
-	*   A           ,            ,         . (I  E C  ,  ) (V E C  ,  )
+	* § 2° As prestações anuais a que se refere o caput deste artigo terão, se não liquidadas até o final do exercício a que se referem, poder liberatório do pagamento de tributos da entidade devedora. (Incluído pela Emenda Constitucional n° 30, de 2000) (Vide Emenda Constitucional n° 62, de 2009)
 
-	*   O z       z   ,             ,          . (I  E C  ,  )
+	* § 3° O prazo referido no caput deste artigo fica reduzido para dois anos, nos casos de precatórios judiciais originários de desapropriação de imóvel residencial do credor, desde que comprovadamente único à época da imissão na posse. (Incluído pela Emenda Constitucional n° 30, de 2000)
 
-	*   O P  T  ,   z       ,      ,    ,           ,     . (I  E C  ,  )
+	* § 4° O Presidente do Tribunal competente deverá, vencido o prazo ou em caso de omissão no orçamento, ou preterição ao direito de precedência, a requerimento do credor, requisitar ou determinar o seqüestro de recursos financeiros da entidade executada, suficientes à satisfação da prestação. (Incluído pela Emenda Constitucional n° 30, de 2000)
 
-* A. . É ,       ,    P E ,    C  E  Pz,           z          ,         , , , ,                  . (I  E C  ,  ) (V E C  ,  ..) (V E C  ,  )
+* Art. 79. É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida. (Incluído pela Emenda Constitucional n° 31, de 2000) (Vide Emenda Constitucional n° 42, de 19.12.2003) (Vide Emenda Constitucional n° 67, de 2010)
 
-	* P . O      C C   A          ,    . (I  E C  ,  )
+	* Parágrafo único. O Fundo previsto neste artigo terá Conselho Consultivo e de Acompanhamento que conte com a participação de representantes da sociedade civil, nos termos da lei. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-* A. . C    C  E  Pz: (I  E C  ,  ) (V E C  ,  )
+* Art. 80. Compõem o Fundo de Combate e Erradicação da Pobreza: (Incluído pela Emenda Constitucional n° 31, de 2000) (Vide Emenda Constitucional n° 67, de 2010)
 
-	* I -               ,             ,          .   A  D C T; (I  E C  ,  )
+	* I - a parcela do produto da arrecadação correspondente a um adicional de oito centésimos por cento, aplicável de 18 de junho de 2000 a 17 de junho de 2002, na alíquota da contribuição social de que trata o art. 75 do Ato das Disposições Constitucionais Transitórias; (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	* II -                  I  P Iz - IPI,       -,           ; (I  E C  ,  ) (V E C  ,  ) V
+	* II - a parcela do produto da arrecadação correspondente a um adicional de cinco pontos percentuais na alíquota do Imposto sobre Produtos Industrializados - IPI, ou do imposto que vier a substituí-lo, incidente sobre produtos supérfluos e aplicável até a extinção do Fundo; (Incluído pela Emenda Constitucional n° 31, de 2000) (Vide Emenda Constitucional n° 132, de 2023) Vigência
 
-	* III -           . ,  VII,  C; (I  E C  ,  )
+	* III - o produto da arrecadação do imposto de que trata o art. 153, inciso VII, da Constituição; (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	* IV -  ; (I  E C  ,  )
+	* IV - dotações orçamentárias; (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	* V- ,   z,       P   ; (I  E C  ,  )
+	* V- doações, de qualquer natureza, de pessoas físicas ou jurídicas do País ou do exterior; (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	* VI -  ,        . (I  E C  ,  )
+	* VI - outras receitas, a serem definidas na regulamentação do referido Fundo. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	*   A                .   ,  IV,  C,       . (I  E C  ,  )
+	* § 1° Aos recursos integrantes do Fundo de que trata este artigo não se aplica o disposto nos arts. 159 e 167, inciso IV, da Constituição, assim como qualquer desvinculação de recursos orçamentários. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	*   A       I  ,                       . ,     ,     ,    ,        ,    . (I  E C  ,  )
+	* § 2° A arrecadação decorrente do disposto no inciso I deste artigo, no período compreendido entre 18 de junho de 2000 e o início da vigência da lei complementar a que se refere a art. 79, será integralmente repassada ao Fundo, preservado o seu valor real, em títulos públicos federais, progressivamente resgatáveis após 18 de junho de 2002, na forma da lei. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-* A. . É        U    z           ,   ,                  A P,        ,  ,         ,     C  E  Pz. (I  E C  ,  ) (V E C  ,  )
+* Art. 81. É instituído Fundo constituído pelos recursos recebidos pela União em decorrência da desestatização de sociedades de economia mista ou empresas públicas por ela controladas, direta ou indiretamente, quando a operação envolver a alienação do respectivo controle acionário a pessoa ou entidade não integrante da Administração Pública, ou de participação societária remanescente após a alienação, cujos rendimentos, gerados a partir de 18 de junho de 2002, reverterão ao Fundo de Combate e Erradicação de Pobreza. (Incluído pela Emenda Constitucional n° 31, de 2000) (Vide Emenda Constitucional n° 67, de 2010)
 
-	*   C           C  E  Pz,    ,         . --     . ,  IV,  A   C T. (I  E C  ,  )
+	* § 1° Caso o montante anual previsto nos rendimentos transferidos ao Fundo de Combate e Erradicação da Pobreza, na forma deste artigo, não alcance o valor de quatro bilhões de reais. far-se-à complementação na forma do art. 80, inciso IV, do Ato das disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	*   S z     ,  P E                   U. (I  E C  ,  )
+	* § 2° Sem prejuízo do disposto no § 1°, o Poder Executivo poderá destinar ao Fundo a que se refere este artigo outras receitas decorrentes da alienação de bens da União. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	*   A         ,        C  E  Pz              ,       . ,  ,  II,  C. (I  E C  ,  )
+	* § 3° A constituição do Fundo a que se refere o caput, a transferência de recursos ao Fundo de Combate e Erradicação da Pobreza e as demais disposições referentes ao § 1° deste artigo serão disciplinadas em lei, não se aplicando o disposto no art. 165, § 9°, inciso II, da Constituição. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-* A. . O E,  D    M     C  Pz,              ,                . (I  E C  ,  )
+* Art. 82. Os Estados, o Distrito Federal e os Municípios devem instituir Fundos de Combate à Pobreza, com os recursos de que trata este artigo e outros que vierem a destinar, devendo os referidos Fundos ser geridos por entidades que contem com a participação da sociedade civil. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	*   P     E  D,             I  C  M  S - ICMS,                  . ,  , XII,  C,   ,   ,    . , IV,  C. (R   E C  ,  ..)
+	* § 1° Para o financiamento dos Fundos Estaduais e Distrital, poderá ser criado adicional de até dois pontos percentuais na alíquota do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, sobre os produtos e serviços supérfluos e nas condições definidas na lei complementar de que trata o art. 155, § 2°, XII, da Constituição, não se aplicando, sobre este percentual, o disposto no art. 158, IV, da Constituição. (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003)
 
-	*   P     M,             I         -,   . (I  E C  ,  ) (V E C  ,  ) V
+	* § 2° Para o financiamento dos Fundos Municipais, poderá ser criado adicional de até meio ponto percentual na alíquota do Imposto sobre serviços ou do imposto que vier a substituí-lo, sobre serviços supérfluos. (Incluído pela Emenda Constitucional n° 31, de 2000) (Vide Emenda Constitucional n° 132, de 2023) Vigência
 
 ****
 
 ****
 
-* A. . L             . , II,  ,  . (R   E C  ,  ..) (V E C  ,  ) V
+* Art. 83. Lei federal definirá os produtos e serviços supérfluos a que se referem os arts. 80, II, e 82, § 2°. (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) (Vide Emenda Constitucional n° 132, de 2023) Vigência
 
-* A. . A               z ,   . ,   , I,  A  D C T,      z  . (I  E C  ,  )
+* Art. 84. A contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira, prevista nos arts. 74, 75 e 80, I, deste Ato das Disposições Constitucionais Transitórias, será cobrada até 31 de dezembro de 2004. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*            ,    L  .,      ,   . (I  E C  ,  )
+	* § 1° Fica prorrogada até a data referida no caput deste artigo, a vigência da Lei n° 9.311, de 24 de outubro de 1996, e suas alterações. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*   D                   : (I  E C  ,  )
+	* § 2° Do produto da arrecadação da contribuição social de que trata este artigo será destinada a parcela correspondente à alíquota de: (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-		* I -       N  S,        ; (I  E C  ,  )
+		* I - vinte centésimos por cento ao Fundo Nacional de Saúde, para financiamento das ações e serviços de saúde; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-		* II - z        ; (I  E C  ,  )
+		* II - dez centésimos por cento ao custeio da previdência social; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-		* III -        C  E  Pz,     .     A  D C T. (I  E C  ,  )
+		* III - oito centésimos por cento ao Fundo de Combate e Erradicação da Pobreza, de que tratam os arts. 80 e 81 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*   A          : (I  E C  ,  )
+	* § 3° A alíquota da contribuição de que trata este artigo será de: (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-		* I -      ,       ; (I  E C  ,  )
+		* I - trinta e oito centésimos por cento, nos exercícios financeiros de 2002 e 2003; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-* A. . A       .   A  D C T  ,           E C,  : (I  E C  ,  )
+* Art. 85. A contribuição a que se refere o art. 84 deste Ato das Disposições Constitucionais Transitórias não incidirá, a partir do trigésimo dia da data de publicação desta Emenda Constitucional, nos lançamentos: (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* I -          z   : (I  E C  ,  ) (V L  .,  )
+	* I - em contas correntes de depósito especialmente abertas e exclusivamente utilizadas para operações de: (Incluído pela Emenda Constitucional n° 37, de 2002) (Vide Lei n° 10.982, de 2004)
 
-		* )                  .   L  .,      ; (I  E C  ,  )
+		* a) câmaras e prestadoras de serviços de compensação e de liquidação de que trata o parágrafo único do art. 2° da Lei n° 10.214, de 27 de março de 2001; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-		* )  z     L  .,      ; (I  E C  ,  )
+		* b) companhias securitizadoras de que trata a Lei n° 9.514, de 20 de novembro de 1997; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-		* )                  ; (I  E C  ,  )
+		* c) sociedades anônimas que tenham por objeto exclusivo a aquisição de créditos oriundos de operações praticadas no mercado financeiro; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* II -     ,  : (I  E C  ,  )
+	* II - em contas correntes de depósito, relativos a: (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-		* )       , z                z; (I  E C  ,  )
+		* a) operações de compra e venda de ações, realizadas em recintos ou sistemas de negociação de bolsas de valores e no mercado de balcão organizado; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-		* )        ,    ,     ,     ; (I  E C  ,  )
+		* b) contratos referenciados em ações ou índices de ações, em suas diversas modalidades, negociados em bolsas de valores, de mercadorias e de futuros; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* III -     ,     P          , ,        II  . (I  E C  ,  )
+	* III - em contas de investidores estrangeiros, relativos a entradas no País e a remessas para o exterior de recursos financeiros empregados, exclusivamente, em operações e contratos referidos no inciso II deste artigo. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*   O P E       z         E C. (I  E C  ,  )
+	* § 1° O Poder Executivo disciplinará o disposto neste artigo no prazo de trinta dias da data de publicação desta Emenda Constitucional. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*   O    I   -        P E,          . (I  E C  ,  )
+	* § 2° O disposto no inciso I deste artigo aplica-se somente às operações relacionadas em ato do Poder Executivo, dentre aquelas que constituam o objeto social das referidas entidades. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*   O    II   -           ,       ,            . (I  E C  ,  )
+	* § 3° O disposto no inciso II deste artigo aplica-se somente a operações e contratos efetuados por intermédio de instituições financeiras, sociedades corretoras de títulos e valores mobiliários, sociedades distribuidoras de títulos e valores mobiliários e sociedades corretoras de mercadorias. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-* A. . S     .   C ,             .   A  D C T,    z , E, D  M      ,  , ,   : (I  E C  ,  )
+* Art. 86. Serão pagos conforme disposto no art. 100 da Constituição Federal, não se lhes aplicando a regra de parcelamento estabelecida no caput do art. 78 deste Ato das Disposições Constitucionais Transitórias, os débitos da Fazenda Federal, Estadual, Distrital ou Municipal oriundos de sentenças transitadas em julgado, que preencham, cumulativamente, as seguintes condições: (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* I -        ; (I  E C  ,  )
+	* I - ter sido objeto de emissão de precatórios judiciários; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* II -                 .   C    .   A  D C T; (I  E C  ,  )
+	* II - ter sido definidos como de pequeno valor pela lei de que trata o § 3° do art. 100 da Constituição Federal ou pelo art. 87 deste Ato das Disposições Constitucionais Transitórias; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* III - ,   ,         E C. (I  E C  ,  )
+	* III - estar, total ou parcialmente, pendentes de pagamento na data da publicação desta Emenda Constitucional. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*   O         ,    ,          ,       . (I  E C  ,  )
+	* § 1° Os débitos a que se refere o caput deste artigo, ou os respectivos saldos, serão pagos na ordem cronológica de apresentação dos respectivos precatórios, com precedência sobre os de maior valor. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*   O         ,         ,    .   A  D C T,       ,     . (I  E C  ,  )
+	* § 2° Os débitos a que se refere o caput deste artigo, se ainda não tiverem sido objeto de pagamento parcial, nos termos do art. 78 deste Ato das Disposições Constitucionais Transitórias, poderão ser pagos em duas parcelas anuais, se assim dispuser a lei. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	*   O      ,    z            . (I  E C  ,  )
+	* § 3° Observada a ordem cronológica de sua apresentação, os débitos de natureza alimentícia previstos neste artigo terão precedência para pagamento sobre todos os demais. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-* A. . P         .   C    .   A  D C T     ,               ,        .   C ,        ,       : (I  E C  ,  )
+* Art. 87. Para efeito do que dispõem o § 3° do art. 100 da Constituição Federal e o art. 78 deste Ato das Disposições Constitucionais Transitórias serão considerados de pequeno valor, até que se dê a publicação oficial das respectivas leis definidoras pelos entes da Federação, observado o disposto no § 4° do art. 100 da Constituição Federal, os débitos ou obrigações consignados em precatório judiciário, que tenham valor igual ou inferior a: (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* I -  -,   z  E   D ; (I  E C  ,  )
+	* I - quarenta salários-mínimos, perante a Fazenda dos Estados e do Distrito Federal; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* II -  -,   z  M. (I  E C  ,  )
+	* II - trinta salários-mínimos, perante a Fazenda dos Municípios. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* P . S         ,   --, ,    ,            ,           ,        . . (I  E C  ,  )
+	* Parágrafo único. Se o valor da execução ultrapassar o estabelecido neste artigo, o pagamento far-se-á, sempre, por meio de precatório, sendo facultada à parte exeqüente a renúncia ao crédito do valor excedente, para que possa optar pelo pagamento do saldo sem o precatório, da forma prevista no § 3° do art. 100. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-* A. . E         I  III     .   C ,         III     : (I  E C  ,  )
+* Art. 88. Enquanto lei complementar não disciplinar o disposto nos incisos I e III do § 3° do art. 156 da Constituição Federal, o imposto a que se refere o inciso III do caput do mesmo artigo: (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* I -       ,           ,     L  S   D-L  ,    z  ; (I  E C  ,  )
+	* I - terá alíquota mínima de dois por cento, exceto para os serviços a que se referem os itens 32, 33 e 34 da Lista de Serviços anexa ao Decreto-Lei n° 406, de 31 de dezembro de 1968; (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* II -       ,    ,  ,   ,         I. (I  E C  ,  )
+	* II - não será objeto de concessão de isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso I. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-* A. . O           -T   R , ,            -T        E,             .   L C  ,    z  ,        E  R        G ,      , ,  ,      ,         ,   ,   ,   . (R   E C  ,  )
+* Art. 89. Os integrantes da carreira policial militar e os servidores municipais do ex-Território Federal de Rondônia que, comprovadamente, se encontravam no exercício regular de suas funções prestando serviço àquele ex-Território na data em que foi transformado em Estado, bem como os servidores e os policiais militares alcançados pelo disposto no art. 36 da Lei Complementar n° 41, de 22 de dezembro de 1981, e aqueles admitidos regularmente nos quadros do Estado de Rondônia até a data de posse do primeiro Governador eleito, em 15 de março de 1987, constituirão, mediante opção, quadro em extinção da administração federal, assegurados os direitos e as vantagens a eles inerentes, vedado o pagamento, a qualquer título, de diferenças remuneratórias. (Redação dada pela Emenda Constitucional n° 60, de 2009)
 
-	*   O   P M     E  R,    ,     P M,          . (I  E C  ,  )
+	* § 1° Os membros da Polícia Militar continuarão prestando serviços ao Estado de Rondônia, na condição de cedidos, submetidos às corporações da Polícia Militar, observadas as atribuições de função compatíveis com o grau hierárquico. (Incluído pela Emenda Constitucional n° 60, de 2009)
 
-	*   O            E  R    ,           ,   . (I  E C  ,  )
+	* § 2° Os servidores a que se refere o caput continuarão prestando serviços ao Estado de Rondônia na condição de cedidos, até seu aproveitamento em órgão ou entidade da administração federal direta, autárquica ou fundacional. (Incluído pela Emenda Constitucional n° 60, de 2009)
 
-* A. . O z     .   A  D C T      z  . (I  E C  ,  ..)
+* Art. 90. O prazo previsto no caput do art. 84 deste Ato das Disposições Constitucionais Transitórias fica prorrogado até 31 de dezembro de 2007. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003)
 
-	*    ,        ,    L  .,      ,   . (I  E C  ,  ..)
+	* § 1° Fica prorrogada, até a data referida no caput deste artigo, a vigência da Lei n° 9.311, de 24 de outubro de 1996, e suas alterações. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003)
 
-	*   A       ,         .   A  D C T        . (I  E C  ,  ..)
+	* § 2° Até a data referida no caput deste artigo, a alíquota da contribuição de que trata o art. 84 deste Ato das Disposições Constitucionais Transitórias será de trinta e oito centésimos por cento. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003)
 
-* A. . S  z   z   .   A  D C T. (I  E C  ,  ..) (V D  .,  )
+* Art. 92. São acrescidos dez anos ao prazo fixado no art. 40 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) (Vide Decreto n° 7.212, de 2010)
 
-* A. -A. S   ()   z   .   A  D C T. (I  E C  ,  )
+* Art. 92-A. São acrescidos 50 (cinquenta) anos ao prazo fixado pelo art. 92 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 83, de 2014)
 
-* A. -B. A       . -A  , V,  C     ,    ,  ,   ,      Z   M  .   -A             ,               .   ,   A  D C T. (I  E C  ,  )
+* Art. 92-B. As leis instituidoras dos tributos previstos nos arts. 156-A e 195, V, da Constituição Federal estabelecerão os mecanismos necessários, com ou sem contrapartidas, para manter, em caráter geral, o diferencial competitivo assegurado à Zona Franca de Manaus pelos arts. 40 e 92-A e às áreas de livre comércio existentes em 31 de maio de 2023, nos níveis estabelecidos pela legislação relativa aos tributos extintos a que se referem os arts. 126 a 129, todos deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   P     ,  z,   ,  ,   . (I  E C  ,  )
+	* § 1° Para assegurar o disposto no caput, serão utilizados, isolada ou cumulativamente, instrumentos fiscais, econômicos ou financeiros. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   L     S  D E  E  Az,       U    ,      E  Az    ,               E. (I  E C  ,  )
+	* § 2° Lei complementar instituirá Fundo de Sustentabilidade e Diversificação Econômica do Estado do Amazonas, que será constituído com recursos da União e por ela gerido, com a efetiva participação do Estado do Amazonas na definição das políticas, com o objetivo de fomentar o desenvolvimento e a diversificação das atividades econômicas no Estado. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A        : (I  E C  ,  )
+	* § 3° A lei complementar de que trata o § 2°: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -           ,       ; (I  E C  ,  )
+		* I - estabelecerá o montante mínimo de aporte anual de recursos ao Fundo, bem como os critérios para sua correção; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -     z            E  Az               . -A  , V,  C . (I  E C  ,  )
+		* II - preverá a possibilidade de utilização dos recursos do Fundo para compensar eventual perda de receita do Estado do Amazonas em função das alterações no sistema tributário decorrentes da instituição dos tributos previstos nos arts. 156-A e 195, V, da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A U,     E  Az,  z        ,              ,             () . (I  E C  ,  )
+	* § 4° A União, mediante acordo com o Estado do Amazonas, poderá reduzir o alcance dos instrumentos previstos no § 1°, condicionado ao aporte de recursos adicionais ao Fundo de que trata o § 2°, asseguradas a diversificação das atividades econômicas e a antecedência mínima de 3 (três) anos. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   N            III  IV    . -B  C . (I  E C  ,  )
+	* § 5° Não se aplica aos mecanismos previstos no caput o disposto nos incisos III e IV do caput do art. 149-B da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   L     D S  E  Az O   A,       U    ,      E    ,              . (I  E C  ,  )
+	* § 6° Lei complementar instituirá Fundo de Desenvolvimento Sustentável dos Estados da Amazônia Ocidental e do Amapá, que será constituído com recursos da União e por ela gerido, com a efetiva participação desses Estados na definição das políticas, com o objetivo de fomentar o desenvolvimento e a diversificação de suas atividades econômicas. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O           E   z            ,   ,     , I  II, ,    ,    E,    . (I  E C  ,  )
+	* § 7° O Fundo de que trata o § 6° será integrado pelos Estados onde estão localizadas as áreas de livre comércio de que trata o caput e observará, no que couber, o disposto no § 3°, I e II, sendo, quanto a este inciso, considerados os respectivos Estados, e no § 4°. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . A     . , III,   ,              III. (I  E C  ,  ..)
+* Art. 93. A vigência do disposto no art. 159, III, e § 4°, iniciará somente após a edição da lei de que trata o referido inciso III. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003)
 
-* A. . O              U,  E,  D    M            . , III, ,  C. (I  E C  ,  ..)
+* Art. 94. Os regimes especiais de tributação para microempresas e empresas de pequeno porte próprios da União, dos Estados, do Distrito Federal e dos Municípios cessarão a partir da entrada em vigor do regime previsto no art. 146, III, d, da Constituição. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003)
 
-* A. . O                E C,       ,               ,      R   B. (I  E C  ,  )
+* Art. 95. Os nascidos no estrangeiro entre 7 de junho de 1994 e a data da promulgação desta Emenda Constitucional, filhos de pai brasileiro ou mãe brasileira, poderão ser registrados em repartição diplomática ou consular brasileira competente ou em ofício de registro, se vierem a residir na República Federativa do Brasil. (Incluído pela Emenda Constitucional n° 54, de 2007)
 
-* A. .      , ,     M,         z  ,         E     . (I  E C  ,  ).
+* Art. 96. Ficam convalidados os atos de criação, fusão, incorporação e desmembramento de Municípios, cuja lei tenha sido publicada até 31 de dezembro de 2006, atendidos os requisitos estabelecidos na legislação do respectivo Estado à época de sua criação. (Incluído pela Emenda Constitucional n° 57, de 2008).
 
-* A. . A              .   C ,  E,  D    M ,      E C,        ,       ,               ,           ,      .   C ,     , , , , , ,   ,   z    z   z      E C. (I  E C  ,  ) (V E C  ,  )
+* Art. 97. Até que seja editada a lei complementar de que trata o § 15 do art. 100 da Constituição Federal, os Estados, o Distrito Federal e os Municípios que, na data de publicação desta Emenda Constitucional, estejam em mora na quitação de precatórios vencidos, relativos às suas administrações direta e indireta, inclusive os emitidos durante o período de vigência do regime especial instituído por este artigo, farão esses pagamentos de acordo com as normas a seguir estabelecidas, sendo inaplicável o disposto no art. 100 desta Constituição Federal, exceto em seus §§ 2°, 3°, 9°, 10, 11, 12, 13 e 14, e sem prejuízo dos acordos de juízos conciliatórios já formalizados na data de promulgação desta Emenda Constitucional. (Incluído pela Emenda Constitucional n° 62, de 2009) (Vide Emenda Constitucional n° 62, de 2009)
 
-	*   O E,  D    M          ,      P E: (I  E C  ,  )
+	* § 1° Os Estados, o Distrito Federal e os Municípios sujeitos ao regime especial de que trata este artigo optarão, por meio de ato do Poder Executivo: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* I -             ;  (I  E C  ,  )
+		* I - pelo depósito em conta especial do valor referido pelo § 2° deste artigo; ou (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* II -       z    (z) ,                     , ,      ,                                ,      ,   z            . (I  E C  ,  )
+		* II - pela adoção do regime especial pelo prazo de até 15 (quinze) anos, caso em que o percentual a ser depositado na conta especial a que se refere o § 2° deste artigo corresponderá, anualmente, ao saldo total dos precatórios devidos, acrescido do índice oficial de remuneração básica da caderneta de poupança e de juros simples no mesmo percentual de juros incidentes sobre a caderneta de poupança para fins de compensação da mora, excluída a incidência de juros compensatórios, diminuído das amortizações e dividido pelo número de anos restantes no regime especial de pagamento. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*   P   ,    ,   ,  E,  D    M   ,       , / ( z )          ,         ,    ,               z         , : (I  E C  ,  )
+	* § 2° Para saldar os precatórios, vencidos e a vencer, pelo regime especial, os Estados, o Distrito Federal e os Municípios devedores depositarão mensalmente, em conta especial criada para tal fim, 1/12 (um doze avos) do valor calculado percentualmente sobre as respectivas receitas correntes líquidas, apuradas no segundo mês anterior ao mês de pagamento, sendo que esse percentual, calculado no momento de opção pelo regime e mantido fixo até o final do prazo a que se refere o § 14 deste artigo, será: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* I -   E    D : (I  E C  ,  )
+		* I - para os Estados e para o Distrito Federal: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-			* ) ,  , ,% (      ),   E   N, N  C-O,   D ,                % (    )      ; (I  E C  ,  )
+			* a) de, no mínimo, 1,5% (um inteiro e cinco décimos por cento), para os Estados das regiões Norte, Nordeste e Centro-Oeste, além do Distrito Federal, ou cujo estoque de precatórios pendentes das suas administrações direta e indireta corresponder a até 35% (trinta e cinco por cento) do total da receita corrente líquida; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-			* ) ,  , % (  ),   E   S  S,                % (    )    ; (I  E C  ,  )
+			* b) de, no mínimo, 2% (dois por cento), para os Estados das regiões Sul e Sudeste, cujo estoque de precatórios pendentes das suas administrações direta e indireta corresponder a mais de 35% (trinta e cinco por cento) da receita corrente líquida; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* II -  M: (I  E C  ,  )
+		* II - para Municípios: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-			* ) ,  , % (  ),  M   N, N  C-O,                % (    )    ; (I  E C  ,  )
+			* a) de, no mínimo, 1% (um por cento), para Municípios das regiões Norte, Nordeste e Centro-Oeste, ou cujo estoque de precatórios pendentes das suas administrações direta e indireta corresponder a até 35% (trinta e cinco por cento) da receita corrente líquida; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-			* ) ,  , ,% (      ),  M   S  S,                 % (    )    . (I  E C  ,  )
+			* b) de, no mínimo, 1,5% (um inteiro e cinco décimos por cento), para Municípios das regiões Sul e Sudeste, cujo estoque de precatórios pendentes das suas administrações direta e indireta corresponder a mais de 35 % (trinta e cinco por cento) da receita corrente líquida. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*   E-    ,        ,     , , , ,     ,      ,        .   C ,            (z)  ,   ,  z: (I  E C  ,  )
+	* § 3° Entende-se como receita corrente líquida, para os fins de que trata este artigo, o somatório das receitas tributárias, patrimoniais, industriais, agropecuárias, de contribuições e de serviços, transferências correntes e outras receitas correntes, incluindo as oriundas do § 1° do art. 20 da Constituição Federal, verificado no período compreendido pelo mês de referência e os 11 (onze) meses anteriores, excluídas as duplicidades, e deduzidas: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* I -  E,     M   ; (I  E C  ,  )
+		* I - nos Estados, as parcelas entregues aos Municípios por determinação constitucional; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* II -  E,  D    M,                           .   C . (I  E C  ,  )
+		* II - nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio do seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § 9° do art. 201 da Constituição Federal. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*   A              T  J ,       . (I  E C  ,  )
+	* § 4° As contas especiais de que tratam os §§ 1° e 2° serão administradas pelo Tribunal de Justiça local, para pagamento de precatórios expedidos pelos tribunais. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*   O                    E, D   M . (I  E C  ,  )
+	* § 5° Os recursos depositados nas contas especiais de que tratam os §§ 1° e 2° deste artigo não poderão retornar para Estados, Distrito Federal e Municípios devedores. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*   P  % (  )              z         ,       ,            . ,      . (I  E C  ,  )
+	* § 6° Pelo menos 50% (cinquenta por cento) dos recursos de que tratam os §§ 1° e 2° deste artigo serão utilizados para pagamento de precatórios em ordem cronológica de apresentação, respeitadas as preferências definidas no § 1°, para os requisitórios do mesmo ano e no § 2° do art. 100, para requisitórios de todos os anos. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*   N             () , --      . (I  E C  ,  )
+	* § 7° Nos casos em que não se possa estabelecer a precedência cronológica entre 2 (dois) precatórios, pagar-se-á primeiramente o precatório de menor valor. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*   A            E, D   M ,    P E,    ,       : (I  E C  ,  )
+	* § 8° A aplicação dos recursos restantes dependerá de opção a ser exercida por Estados, Distrito Federal e Municípios devedores, por ato do Poder Executivo, obedecendo à seguinte forma, que poderá ser aplicada isoladamente ou simultaneamente: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* I -         ; (I  E C  ,  )
+		* I - destinados ao pagamento dos precatórios por meio do leilão; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* II -                  I,         ; (I  E C  ,  )
+		* II - destinados a pagamento a vista de precatórios não quitados na forma do § 6° e do inciso I, em ordem única e crescente de valor por precatório; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* III -         ,         ,            . (I  E C  ,  )
+		* III - destinados a pagamento por acordo direto com os credores, na forma estabelecida por lei própria da entidade devedora, que poderá prever criação e forma de funcionamento de câmara de conciliação. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*   O       I     : (I  E C  ,  )
+	* § 9° Os leilões de que trata o inciso I do § 8° deste artigo: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* I -  z         z  C  V M   B C  B; (I  E C  ,  )
+		* I - serão realizados por meio de sistema eletrônico administrado por entidade autorizada pela Comissão de Valores Mobiliários ou pelo Banco Central do Brasil; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* II -     ,         ,       ,    P J,      z,     P E       ,             z P        ,          ,               .   C ; (I  E C  ,  )
+		* II - admitirão a habilitação de precatórios, ou parcela de cada precatório indicada pelo seu detentor, em relação aos quais não esteja pendente, no âmbito do Poder Judiciário, recurso ou impugnação de qualquer natureza, permitida por iniciativa do Poder Executivo a compensação com débitos líquidos e certos, inscritos ou não em dívida ativa e constituídos contra devedor originário pela Fazenda Pública devedora até a data da expedição do precatório, ressalvados aqueles cuja exigibilidade esteja suspensa nos termos da legislação, ou que já tenham sido objeto de abatimento nos termos do § 9° do art. 100 da Constituição Federal; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* III -                ; (I  E C  ,  )
+		* III - ocorrerão por meio de oferta pública a todos os credores habilitados pelo respectivo ente federativo devedor; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* IV -             II; (I  E C  ,  )
+		* IV - considerarão automaticamente habilitado o credor que satisfaça o que consta no inciso II; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* V -  z  z       ; (I  E C  ,  )
+		* V - serão realizados tantas vezes quanto necessário em função do valor disponível; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* VI -            ,      ; (I  E C  ,  )
+		* VI - a competição por parcela do valor total ocorrerá a critério do credor, com deságio sobre o valor desta; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* VII -    ,              ,     ,       ,         ; (I  E C  ,  )
+		* VII - ocorrerão na modalidade deságio, associado ao maior volume ofertado cumulado ou não com o maior percentual de deságio, pelo maior percentual de deságio, podendo ser fixado valor máximo por credor, ou por outro critério a ser definido em edital; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* VIII -             ; (I  E C  ,  )
+		* VIII - o mecanismo de formação de preço constará nos editais publicados para cada leilão; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* IX -          T   . (I  E C  ,  )
+		* IX - a quitação parcial dos precatórios será homologada pelo respectivo Tribunal que o expediu. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*  . N             II           : (I  E C  ,  )
+	* § 10. No caso de não liberação tempestiva dos recursos de que tratam o inciso II do § 1° e os §§ 2° e 6° deste artigo: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* I -         E, D   M ,    P  T    ,       ; (I  E C  ,  )
+		* I - haverá o sequestro de quantia nas contas de Estados, Distrito Federal e Municípios devedores, por ordem do Presidente do Tribunal referido no § 4°, até o limite do valor não liberado; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* II - --, ,    P  T ,      ,  E, D   M ,    ,     ,           , ,      ,            E, D   M ,    ; (I  E C  ,  )
+		* II - constituir-se-á, alternativamente, por ordem do Presidente do Tribunal requerido, em favor dos credores de precatórios, contra Estados, Distrito Federal e Municípios devedores, direito líquido e certo, autoaplicável e independentemente de regulamentação, à compensação automática com débitos líquidos lançados por esta contra aqueles, e, havendo saldo em favor do credor, o valor terá automaticamente poder liberatório do pagamento de tributos de Estados, Distrito Federal e Municípios devedores, até onde se compensarem; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* III -    P E            ; (I  E C  ,  )
+		* III - o chefe do Poder Executivo responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* IV -    ,   : (I  E C  ,  )
+		* IV - enquanto perdurar a omissão, a entidade devedora: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-			* )       ; (I  E C  ,  )
+			* a) não poderá contrair empréstimo externo ou interno; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-			* )      ; (I  E C  ,  )
+			* b) ficará impedida de receber transferências voluntárias; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* V -  U        P  E   D      P  M,          ,   z       ,   . (I  E C  ,  )
+		* V - a União reterá os repasses relativos ao Fundo de Participação dos Estados e do Distrito Federal e ao Fundo de Participação dos Municípios, e os depositará nas contas especiais referidas no § 1°, devendo sua utilização obedecer ao que prescreve o § 5°, ambos deste artigo. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*  . N       ,  , -    , z  T    ,  , ,  ,         ,   ,  ,       .   C . (I  E C  ,  )
+	* § 11. No caso de precatórios relativos a diversos credores, em litisconsórcio, admite-se o desmembramento do valor, realizado pelo Tribunal de origem do precatório, por credor, e, por este, a habilitação do valor total a que tem direito, não se aplicando, neste caso, a regra do § 3° do art. 100 da Constituição Federal. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*  . S           .        (  ) ,       E C,  ,    ,    E, D   M ,   ,   : (I  E C  ,  )
+	* § 12. Se a lei a que se refere o § 4° do art. 100 não estiver publicada em até 180 (cento e oitenta) dias, contados da data de publicação desta Emenda Constitucional, será considerado, para os fins referidos, em relação a Estados, Distrito Federal e Municípios devedores, omissos na regulamentação, o valor de: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* I -  ()    E    D ; (I  E C  ,  )
+		* I - 40 (quarenta) salários mínimos para Estados e para o Distrito Federal; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* II -  ()    M. (I  E C  ,  )
+		* II - 30 (trinta) salários mínimos para Municípios. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*  . E E, D   M   z      ,      ,               II         . (I  E C  ,  )
+	* § 13. Enquanto Estados, Distrito Federal e Municípios devedores estiverem realizando pagamentos de precatórios pelo regime especial, não poderão sofrer sequestro de valores, exceto no caso de não liberação tempestiva dos recursos de que tratam o inciso II do § 1° e o § 2° deste artigo. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*  . O          I                 ,     ,   ,   z     (z) ,        II   . (I  E C  ,  )
+	* § 14. O regime especial de pagamento de precatório previsto no inciso I do § 1° vigorará enquanto o valor dos precatórios devidos for superior ao valor dos recursos vinculados, nos termos do § 2°, ambos deste artigo, ou pelo prazo fixo de até 15 (quinze) anos, no caso da opção prevista no inciso II do § 1°. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*  . O      .    .   A  D C T             z        ,         . (I  E C  ,  )
+	* § 15. Os precatórios parcelados na forma do art. 33 ou do art. 78 deste Ato das Disposições Constitucionais Transitórias e ainda pendentes de pagamento ingressarão no regime especial com o valor atualizado das parcelas não pagas relativas a cada precatório, bem como o saldo dos acordos judiciais e extrajudiciais. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*  . A       ,  z        E,  D    M,         ,      Í N  P  C A (IPCA), ,      ,   ,     % .. (    ),       . (R   E C  ,  )
+	* § 16. A partir de 1° de agosto de 2025, a atualização de valores de requisitórios expedidos contra os Estados, o Distrito Federal e os Municípios, a partir da sua expedição até o efetivo pagamento, será feita pela variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA), e, para fins de compensação da mora, desde a expedição, incidirão juros simples de 2% a.a. (dois por cento ao ano), ficando excluída a incidência de juros compensatórios. (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-	*  -A. C    z                  S E  L   C (S),       . (I  E C  ,  )
+	* § 16-A. Caso o índice de atualização e juros calculado nos termos do § 16 deste artigo represente valor superior à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), esta deve ser aplicada em substituição àquele. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*  . O           .   C   ,      ,            I, II  III     ,              .   C          . (I  E C  ,  )
+	* § 17. O valor que exceder o limite previsto no § 2° do art. 100 da Constituição Federal será pago, durante a vigência do regime especial, na forma prevista nos §§ 6° e 7° ou nos incisos I, II e III do § 8° deste artigo, devendo os valores dispendidos para o atendimento do disposto no § 2° do art. 100 da Constituição Federal serem computados para efeito do § 6° deste artigo. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	*  . D           , z                    ()          E C. (I  E C  ,  )
+	* § 18. Durante a vigência do regime especial a que se refere este artigo, gozarão também da preferência a que se refere o § 6° os titulares originais de precatórios que tenham completado 60 (sessenta) anos de idade até a data da promulgação desta Emenda Constitucional. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-* A. . O                D P    . (I  E C  ,  )
+* Art. 98. O número de defensores públicos na unidade jurisdicional será proporcional à efetiva demanda pelo serviço da Defensoria Pública e à respectiva população. (Incluído pela Emenda Constitucional n° 80, de 2014)
 
-	*   N z   () ,  U,  E   D           ,       . (I  E C  ,  )
+	* § 1° No prazo de 8 (oito) anos, a União, os Estados e o Distrito Federal deverão contar com defensores públicos em todas as unidades jurisdicionais, observado o disposto no caput deste artigo. (Incluído pela Emenda Constitucional n° 80, de 2014)
 
-	*   D    z      ,      , ,            . (I  E C  ,  )
+	* § 2° Durante o decurso do prazo previsto no § 1° deste artigo, a lotação dos defensores públicos ocorrerá, prioritariamente, atendendo as regiões com maiores índices de exclusão social e adensamento populacional. (Incluído pela Emenda Constitucional n° 80, de 2014)
 
-* A. . P      VII     . ,                 z   E,                 E     ,   : (I  E C  ,  )
+* Art. 99. Para efeito do disposto no inciso VII do § 2° do art. 155, no caso de operações e prestações que destinem bens e serviços a consumidor final não contribuinte localizado em outro Estado, o imposto correspondente à diferença entre a alíquota interna e a interestadual será partilhado entre os Estados de origem e de destino, na seguinte proporção: (Incluído pela Emenda Constitucional n° 87, de 2015)
 
-	* I -     : % (  )   E    % (  )   E  ; (I  E C  ,  )
+	* I - para o ano de 2015: 20% (vinte por cento) para o Estado de destino e 80% (oitenta por cento) para o Estado de origem; (Incluído pela Emenda Constitucional n° 87, de 2015)
 
-	* II -     : % (  )   E    % (  )   E  ; (I  E C  ,  )
+	* II - para o ano de 2016: 40% (quarenta por cento) para o Estado de destino e 60% (sessenta por cento) para o Estado de origem; (Incluído pela Emenda Constitucional n° 87, de 2015)
 
-	* III -     : % (  )   E    % (  )   E  ; (I  E C  ,  )
+	* III - para o ano de 2017: 60% (sessenta por cento) para o Estado de destino e 40% (quarenta por cento) para o Estado de origem; (Incluído pela Emenda Constitucional n° 87, de 2015)
 
-	* IV -     : % (  )   E    % (  )   E  ; (I  E C  ,  )
+	* IV - para o ano de 2018: 80% (oitenta por cento) para o Estado de destino e 20% (vinte por cento) para o Estado de origem; (Incluído pela Emenda Constitucional n° 87, de 2015)
 
-	* V -      : % (  )   E  . (I  E C  ,  )
+	* V - a partir do ano de 2019: 100% (cem por cento) para o Estado de destino. (Incluído pela Emenda Constitucional n° 87, de 2015)
 
-* A. . A             II     .   C ,  M  S T ,  T S   T  C  U --, ,   (  )   ,    .   C . (I  E C  ,  )
+* Art. 100. Até que entre em vigor a lei complementar de que trata o inciso II do § 1° do art. 40 da Constituição Federal, os Ministros do Supremo Tribunal Federal, dos Tribunais Superiores e do Tribunal de Contas da União aposentar-se-ão, compulsoriamente, aos 75 (setenta e cinco) anos de idade, nas condições do art. 52 da Constituição Federal. (Incluído pela Emenda Constitucional n° 88, de 2015)
 
-* A. . O E,  D    M ,      ,          ,    z  ,          , z  Í N  P  C A E (IPCA-E),        -,       T  J ,      , / ( z )                  ,          ,   ,  ,   ,                  ,            T  J . (R   E C  ,  )
+* Art. 101. Os Estados, o Distrito Federal e os Municípios que, em 25 de março de 2015, se encontravam em mora no pagamento de seus precatórios quitarão, até 31 de dezembro de 2029, seus débitos vencidos e os que vencerão dentro desse período, atualizados pelo Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E), ou por outro índice que venha a substituí-lo, depositando mensalmente em conta especial do Tribunal de Justiça local, sob única e exclusiva administração deste, 1/12 (um doze avos) do valor calculado percentualmente sobre suas receitas correntes líquidas apuradas no segundo mês anterior ao mês de pagamento, em percentual suficiente para a quitação de seus débitos e, ainda que variável, nunca inferior, em cada exercício, ao percentual praticado na data da entrada em vigor do regime especial a que se refere este artigo, em conformidade com plano de pagamento a ser anualmente apresentado ao Tribunal de Justiça local. (Redação dada pela Emenda Constitucional n° 109, de 2021)
 
-	*   E-    ,        ,     , , , ,     ,       ,        .   C ,                (z)  ,   ,  z: (I  E C  ,  )
+	* § 1° Entende-se como receita corrente líquida, para os fins de que trata este artigo, o somatório das receitas tributárias, patrimoniais, industriais, agropecuárias, de contribuições e de serviços, de transferências correntes e outras receitas correntes, incluindo as oriundas do § 1° do art. 20 da Constituição Federal, verificado no período compreendido pelo segundo mês imediatamente anterior ao de referência e os 11 (onze) meses precedentes, excluídas as duplicidades, e deduzidas: (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-		* I -  E,     M   ; (I  E C  ,  )
+		* I - nos Estados, as parcelas entregues aos Municípios por determinação constitucional; (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-		* II -  E,  D    M,                           .   C . (I  E C  ,  )
+		* II - nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § 9° do art. 201 da Constituição Federal. (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	*   O                       , ,   z    : (R   E   ,  )
+	* § 2° O débito de precatórios será pago com recursos orçamentários próprios provenientes das fontes de receita corrente líquida referidas no § 1° deste artigo e, adicionalmente, poderão ser utilizados recursos dos seguintes instrumentos: (Redação dada pela Emenda constitucional n° 99, de 2017)
 
-		* I -  % (    )               ,    ,      E,  D    M,    ,     ,           / ( )   ,              S E  L   C (S)   ,          ; (R   E   ,  )
+		* I - até 75% (setenta e cinco por cento) dos depósitos judiciais e dos depósitos administrativos em dinheiro referentes a processos judiciais ou administrativos, tributários ou não tributários, nos quais sejam parte os Estados, o Distrito Federal ou os Municípios, e as respectivas autarquias, fundações e empresas estatais dependentes, mediante a instituição de fundo garantidor em montante equivalente a 1/3 (um terço) dos recursos levantados, constituído pela parcela restante dos depósitos judiciais e remunerado pela taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, nunca inferior aos índices e critérios aplicados aos depósitos levantados; (Redação dada pela Emenda constitucional n° 99, de 2017)
 
-		* II -  % (  )           T  J,            ,              S E  L   C (S)   ,          , -: (R   E   ,  )
+		* II - até 30% (trinta por cento) dos demais depósitos judiciais da localidade sob jurisdição do respectivo Tribunal de Justiça, mediante a instituição de fundo garantidor em montante equivalente aos recursos levantados, constituído pela parcela restante dos depósitos judiciais e remunerado pela taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, nunca inferior aos índices e critérios aplicados aos depósitos levantados, destinando-se: (Redação dada pela Emenda constitucional n° 99, de 2017)
 
-			* )    D , % (  )     D ; (I  E C  ,  )
+			* a) no caso do Distrito Federal, 100% (cem por cento) desses recursos ao próprio Distrito Federal; (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-			* )    E, % (  )     E  % (  )   M,         , ,      M    ,       M ,    , z               I B  G  E (IBGE); (R   E   ,  )
+			* b) no caso dos Estados, 50% (cinquenta por cento) desses recursos ao próprio Estado e 50% (cinquenta por cento) aos respectivos Municípios, conforme a circunscrição judiciária onde estão depositados os recursos, e, se houver mais de um Município na mesma circunscrição judiciária, os recursos serão rateados entre os Municípios concorrentes, proporcionalmente às respectivas populações, utilizado como referência o último levantamento censitário ou a mais recente estimativa populacional da Fundação Instituto Brasileiro de Geografia e Estatística (IBGE); (Redação dada pela Emenda constitucional n° 99, de 2017)
 
-		* III - ,              VI  VII    .   C          ,                IV    .   C ; (R   E   ,  )
+		* III - empréstimos, excetuados para esse fim os limites de endividamento de que tratam os incisos VI e VII do caput do art. 52 da Constituição Federal e quaisquer outros limites de endividamento previstos em lei, não se aplicando a esses empréstimos a vedação de vinculação de receita prevista no inciso IV do caput do art. 167 da Constituição Federal; (Redação dada pela Emenda constitucional n° 99, de 2017)
 
-		* IV -                     z      ,           ,       z     T,           ,              . (I  E   ,  )
+		* IV - a totalidade dos depósitos em precatórios e requisições diretas de pagamento de obrigações de pequeno valor efetuados até 31 de dezembro de 2009 e ainda não levantados, com o cancelamento dos respectivos requisitórios e a baixa das obrigações, assegurada a revalidação dos requisitórios pelos juízos dos processos perante os Tribunais, a requerimento dos credores e após a oitiva da entidade devedora, mantidas a posição de ordem cronológica original e a remuneração de todo o período. (Incluído pela Emenda constitucional n° 99, de 2017)
 
-	*   O      I, II  IV                     ,       T  J ,      z             ,    z        . (I  E   ,  )
+	* § 3° Os recursos adicionais previstos nos incisos I, II e IV do § 2° deste artigo serão transferidos diretamente pela instituição financeira depositária para a conta especial referida no caput deste artigo, sob única e exclusiva administração do Tribunal de Justiça local, e essa transferência deverá ser realizada em até sessenta dias contados a partir da entrada em vigor deste parágrafo, sob pena de responsabilização pessoal do dirigente da instituição financeira por improbidade. (Incluído pela Emenda constitucional n° 99, de 2017)
 
-	*   (R). (R   E C  ,  )
+	* § 4° (Revogado). (Redação dada pela Emenda Constitucional n° 109, de 2021)
 
-		* I - (); (R   E C  ,  )
+		* I - (revogado); (Redação dada pela Emenda Constitucional n° 109, de 2021)
 
-		* II - (); (R   E C  ,  )
+		* II - (revogado); (Redação dada pela Emenda Constitucional n° 109, de 2021)
 
-		* III - (); (R   E C  ,  )
+		* III - (revogado); (Redação dada pela Emenda Constitucional n° 109, de 2021)
 
-		* IV - (). (R   E C  ,  )
+		* IV - (revogado). (Redação dada pela Emenda Constitucional n° 109, de 2021)
 
-	*   O       III        ,      P E,           ,       III     .   A  D C T. (I  E C  ,  ) (V ADI ) (V ADI )
+	* § 5° Os empréstimos de que trata o inciso III do § 2° deste artigo poderão ser destinados, por meio de ato do Poder Executivo, exclusivamente ao pagamento de precatórios por acordo direto com os credores, na forma do disposto no inciso III do § 8° do art. 97 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 113, de 2021) (Vide ADI 7047) (Vide ADI 7064)
 
-	*   A-                    .   C . (I  E C  ,  )
+	* § 6° Aplica-se ao regime de pagamento de precatórios descrito no caput deste artigo o disposto nos §§ 23 a 30 do art. 100 da Constituição Federal. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-* A. . E       E C,   % (  )   ,    .   A  D C T,          z        ,      , , ,    ,       ,       .   C ,         . (I  E C  ,  )
+* Art. 102. Enquanto viger o regime especial previsto nesta Emenda Constitucional, pelo menos 50% (cinquenta por cento) dos recursos que, nos termos do art. 101 deste Ato das Disposições Constitucionais Transitórias, forem destinados ao pagamento dos precatórios em mora serão utilizados no pagamento segundo a ordem cronológica de apresentação, respeitadas as preferências dos créditos alimentares, e, nessas, as relativas à idade, ao estado de saúde e à deficiência, nos termos do § 2° do art. 100 da Constituição Federal, sobre todos os demais créditos de todos os anos. (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	*   A    ,       E, D   M,     P E,       ,        ,  Jz A  C  P,     % (  )     z,                         . (N     E   ,  )
+	* § 1° A aplicação dos recursos remanescentes, por opção a ser exercida por Estados, Distrito Federal e Municípios, por ato do respectivo Poder Executivo, observada a ordem de preferência dos credores, poderá ser destinada ao pagamento mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado. (Numerado do parágrafo único pela Emenda constitucional n° 99, de 2017)
 
-	*   N       .   A  D C T,     ,                            .   C ,      ,            . (I  E   ,  )
+	* § 2° Na vigência do regime especial previsto no art. 101 deste Ato das Disposições Constitucionais Transitórias, as preferências relativas à idade, ao estado de saúde e à deficiência serão atendidas até o valor equivalente ao quíntuplo fixado em lei para os fins do disposto no § 3° do art. 100 da Constituição Federal, admitido o fracionamento para essa finalidade, e o restante será pago em ordem cronológica de apresentação do precatório. (Incluído pela Emenda constitucional n° 99, de 2017)
 
-* A. . E  E,  D    M              .   A  D C T,  ,    ,          ,         . (I  E C  ,  )
+* Art. 103. Enquanto os Estados, o Distrito Federal e os Municípios estiverem efetuando o pagamento da parcela mensal devida como previsto no caput do art. 101 deste Ato das Disposições Constitucionais Transitórias, nem eles, nem as respectivas autarquias, fundações e empresas estatais dependentes poderão sofrer sequestro de valores, exceto no caso de não liberação tempestiva dos recursos. (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	* P . N       .   A  D C T,     E,  D    M,        ,           ,    % (  )     ,            , ,  ,  ,       . (I  E   ,  )
+	* Parágrafo único. Na vigência do regime especial previsto no art. 101 deste Ato das Disposições Constitucionais Transitórias, ficam vedadas desapropriações pelos Estados, pelo Distrito Federal e pelos Municípios, cujos estoques de precatórios ainda pendentes de pagamento, incluídos os precatórios a pagar de suas entidades da administração indireta, sejam superiores a 70% (setenta por cento) das respectivas receitas correntes líquidas, excetuadas as desapropriações para fins de necessidade pública nas áreas de saúde, educação, segurança pública, transporte público, saneamento básico e habitação de interesse social. (Incluído pela Emenda constitucional n° 99, de 2017)
 
-* A. . S     .   A  D C T         ,     : (I  E C  ,  )
+* Art. 104. Se os recursos referidos no art. 101 deste Ato das Disposições Constitucionais Transitórias para o pagamento de precatórios não forem tempestivamente liberados, no todo ou em parte: (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	* I -  P  T  J    ,       ,      ; (I  E C  ,  )
+	* I - o Presidente do Tribunal de Justiça local determinará o sequestro, até o limite do valor não liberado, das contas do ente federado inadimplente; (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	* II -    P E     ,           ; (I  E C  ,  )
+	* II - o chefe do Poder Executivo do ente federado inadimplente responderá, na forma da legislação de responsabilidade fiscal e de improbidade administrativa; (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	* III -  U          P  E   D      P  M         .   A  D C T,  z   ; (I  E C  ,  )
+	* III - a União reterá os recursos referentes aos repasses ao Fundo de Participação dos Estados e do Distrito Federal e ao Fundo de Participação dos Municípios e os depositará na conta especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para utilização como nele previsto; (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	* IV -  E   C G  I  B  S    , ,       .   C          .   A  D C T,  z   . (R   E C  ,  )
+	* IV - os Estados e o Comitê Gestor do Imposto sobre Bens e Serviços reterão os repasses previstos, respectivamente, nos §§ 1° e 2° do art. 158 da Constituição Federal e os depositarão na conta especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para utilização como nele previsto. (Redação dada pela Emenda Constitucional n° 132, de 2023)
 
-	* P . E   ,          ,          .   A  D C T,       . (I  E C  ,  )
+	* Parágrafo único. Enquanto perdurar a omissão, o ente federado não poderá contrair empréstimo externo ou interno, exceto para os fins previstos no § 2° do art. 101 deste Ato das Disposições Constitucionais Transitórias, e ficará impedido de receber transferências voluntárias. (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-* A. . E          .   A  D C T,      ,    ,      z     z               E,  D    M,          . (I  E C  ,  )
+* Art. 105. Enquanto viger o regime de pagamento de precatórios previsto no art. 101 deste Ato das Disposições Constitucionais Transitórias, é facultada aos credores de precatórios, próprios ou de terceiros, a compensação com débitos de natureza tributária ou de outra natureza que até 25 de março de 2015 tenham sido inscritos na dívida ativa dos Estados, do Distrito Federal ou dos Municípios, observados os requisitos definidos em lei própria do ente federado. (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	*   N             ,           ,      . (N     E   ,  )
+	* § 1° Não se aplica às compensações referidas no caput deste artigo qualquer tipo de vinculação, como as transferências a outros entes e as destinadas à educação, à saúde e a outras finalidades. (Numerado do parágrafo único pela Emenda constitucional n° 99, de 2017)
 
-	*   O E,  D    M                        . (I  E   ,  )
+	* § 2° Os Estados, o Distrito Federal e os Municípios regulamentarão nas respectivas leis o disposto no caput deste artigo em até cento e vinte dias a partir de 1° de janeiro de 2018. (Incluído pela Emenda constitucional n° 99, de 2017)
 
-	*   D  z           ,      z            . (I  E   ,  )
+	* § 3° Decorrido o prazo estabelecido no § 2° deste artigo sem a regulamentação nele prevista, ficam os credores de precatórios autorizados a exercer a faculdade a que se refere o caput deste artigo. (Incluído pela Emenda constitucional n° 99, de 2017)
 
-* A. -A. A    ,  ,    ,                    .   C ,          ,      , ,     ,  ,% (      ) ,    ,    Í N  P  C A (IPCA),    I B  G  E,        -,           ,                           .     ,    . ,   C ,      : (R   E C  ,  )
+* Art. 107-A. Até o fim de 2026, fica estabelecido, para cada exercício financeiro, limite para alocação na proposta orçamentária das despesas com pagamentos em virtude de sentença judiciária de que trata o art. 100 da Constituição Federal, equivalente ao valor da despesa paga no exercício de 2016, incluídos os restos a pagar pagos, corrigido, para o exercício de 2017, em 7,2% (sete inteiros e dois décimos por cento) e, para os exercícios posteriores, pela variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA), publicado pela Fundação Instituto Brasileiro de Geografia e Estatística, ou de outro índice que vier a substituí-lo, apurado no exercício anterior a que se refere a lei orçamentária, devendo o espaço fiscal decorrente da diferença entre o valor dos precatórios expedidos e o respectivo limite ser destinado ao programa previsto no parágrafo único do art. 6° e à seguridade social, nos termos do art. 194, ambos da Constituição Federal, a ser calculado da seguinte forma: (Redação dada pela Emenda Constitucional n° 126, de 2022)
 
-	* I -    ,                               .     ,    . ,   C ; (I  E C  ,  )
+	* I - no exercício de 2022, o espaço fiscal decorrente da diferença entre o valor dos precatórios expedidos e o limite estabelecido no caput deste artigo deverá ser destinado ao programa previsto no parágrafo único do art. 6° e à seguridade social, nos termos do art. 194, ambos da Constituição Federal; (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-	* II -    ,                                    ;  (I  E C  ,  ) (V MI ) (V ADI )
+	* II - no exercício de 2023, pela diferença entre o total de precatórios expedidos entre 2 de julho de 2021 e 2 de abril de 2022 e o limite de que trata o caput deste artigo válido para o exercício de 2023; e (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide MI 7300) (Vide ADI 7064)
 
-	* III -      ,                                        . (I  E C  ,  ) (V ADI )
+	* III - nos exercícios de 2024 a 2026, pela diferença entre o total de precatórios expedidos entre 3 de abril de dois anos anteriores e 2 de abril do ano anterior ao exercício e o limite de que trata o caput deste artigo válido para o mesmo exercício. (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide ADI 7064)
 
-	*   O       ,   ,       , z                 ,     . (I  E C  ,  )
+	* § 1° O limite para o pagamento de precatórios corresponderá, em cada exercício, ao limite previsto no caput deste artigo, reduzido da projeção para a despesa com o pagamento de requisições de pequeno valor para o mesmo exercício, que terão prioridade no pagamento. (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-	*   O       z           ,            . (I  E C  ,  )
+	* § 2° Os precatórios que não forem pagos em razão do previsto neste artigo terão prioridade para pagamento em exercícios seguintes, observada a ordem cronológica e o disposto no § 8° deste artigo. (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-	*   É            z    ,         .   C    z           ,   ,     Jz A  C  P  C J   z P ,   ,      ,    % (  )    . (I  E C  ,  ) (V ADI )
+	* § 3° É facultado ao credor de precatório que não tenha sido pago em razão do disposto neste artigo, além das hipóteses previstas no § 11 do art. 100 da Constituição Federal e sem prejuízo dos procedimentos previstos nos §§ 9° e 21 do referido artigo, optar pelo recebimento, mediante acordos diretos perante Juízos Auxiliares de Conciliação de Pagamento de Condenações Judiciais contra a Fazenda Pública Federal, em parcela única, até o final do exercício seguinte, com renúncia de 40% (quarenta por cento) do valor desse crédito. (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide ADI 7064)
 
-	*   O C N  J     P  T      . (I  E C  ,  )
+	* § 4° O Conselho Nacional de Justiça regulamentará a atuação dos Presidentes dos Tribunais competentes para o cumprimento deste artigo. (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-	*   N                  ,     .   C       ,    z      . (I  E C  ,  ) (V ADI )
+	* § 5° Não se incluem no limite estabelecido neste artigo as despesas para fins de cumprimento do disposto nos §§ 11, 20 e 21 do art. 100 da Constituição Federal e no § 3° deste artigo, bem como a atualização monetária dos precatórios inscritos no exercício. (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide ADI 7064)
 
-	*   N       .   A  D C T     ,     .   C       . (I  E C  ,  ) (V ADI )
+	* § 6° Não se incluem nos limites estabelecidos no art. 107 deste Ato das Disposições Constitucionais Transitórias o previsto nos §§ 11, 20 e 21 do art. 100 da Constituição Federal e no § 3° deste artigo. (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide ADI 7064)
 
-	*   N       ,          ,                  . (I  E C  ,  )
+	* § 7° Na situação prevista no § 3° deste artigo, para os precatórios não incluídos na proposta orçamentária de 2022, os valores necessários à sua quitação serão providenciados pela abertura de créditos adicionais durante o exercício de 2022. (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-	*   O           .   C   z   : (I  E C  ,  )
+	* § 8° Os pagamentos em virtude de sentença judiciária de que trata o art. 100 da Constituição Federal serão realizados na seguinte ordem: (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-		* I -        ,      .   C ; (I  E C  ,  )
+		* I - obrigações definidas em lei como de pequeno valor, previstas no § 3° do art. 100 da Constituição Federal; (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-		* II -   z   ,     ,     ()   ,          ,      ,                ; (I  E C  ,  )
+		* II - precatórios de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham no mínimo 60 (sessenta) anos de idade, ou sejam portadores de doença grave ou pessoas com deficiência, assim definidos na forma da lei, até o valor equivalente ao triplo do montante fixado em lei como obrigação de pequeno valor; (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-		* III -    z                 ; (I  E C  ,  ) (I  E C  ,  )
+		* III - demais precatórios de natureza alimentícia até o valor equivalente ao triplo do montante fixado em lei como obrigação de pequeno valor; (Incluído pela Emenda Constitucional n° 114, de 2021) (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-		* IV -    z        III  ; (I  E C  ,  )
+		* IV - demais precatórios de natureza alimentícia além do valor previsto no inciso III deste parágrafo; (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-		* V -  . (I  E C  ,  )
+		* V - demais precatórios. (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-* A. . A                       . (I  E C  ,  )
+* Art. 113. A proposição legislativa que crie ou altere despesa obrigatória ou renúncia de receita deverá ser acompanhada da estimativa do seu impacto orçamentário e financeiro. (Incluído pela Emenda Constitucional n° 95, de 2016)
 
-* A. .   z           E,  D    M,     ,        ,        ,    ,  z    (z)  ,  z      ,   ,    (z)          ,    P  R P   M  P S                , : (R   E C  ,  )
+* Art. 115. Fica excepcionalmente autorizado o parcelamento das contribuições previdenciárias e dos demais débitos dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, com os respectivos regimes próprios de previdência social, com vencimento até 31 de agosto de 2025, inclusive os parcelados anteriormente, no prazo máximo de 300 (trezentas) prestações mensais, mediante autorização em lei específica do ente federativo, desde que comprovem, em até 15 (quinze) meses após a data da promulgação da alteração deste caput, ter aderido ao Programa de Regularidade Previdenciária junto ao Ministério da Previdência Social e alterado a respectiva legislação do regime próprio de previdência social para atendimento das seguintes condições, cumulativamente: (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-	* I -     ,         ,      I  III         ,     .   C ,               U               ; (I  E C  ,  )
+	* I - adoção de regras de elegibilidade, de cálculo e de reajustamento dos benefícios que contemplem, nos termos previstos nos incisos I e III do § 1° e nos §§ 3° a 5°, 7° e 8° do art. 40 da Constituição Federal, regras assemelhadas às aplicáveis aos servidores públicos do regime próprio de previdência social da União e que contribuam efetivamente para o atingimento e a manutenção do equilíbrio financeiro e atuarial; (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	* II -              .   E C  ,      ; (I  E C  ,  )
+	* II - adequação do rol de benefícios ao disposto nos §§ 2° e 3° do art. 9° da Emenda Constitucional n° 103, de 12 de novembro de 2019; (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	* III -        ,       .   E C  ,      ;  (I  E C  ,  )
+	* III - adequação da alíquota de contribuição devida pelos servidores, nos termos do § 4° do art. 9° da Emenda Constitucional n° 103, de 12 de novembro de 2019; e (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	* IV -                   ,       .   E C  ,      . (I  E C  ,  )
+	* IV - instituição do regime de previdência complementar e adequação do órgão ou entidade gestora do regime próprio de previdência social, nos termos do § 6° do art. 9° da Emenda Constitucional n° 103, de 12 de novembro de 2019. (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	*   A  M  P S,     ,         ,         I, II, III  IV         P  R P,   z          C  R P            ,   z           ,    ,      ,          . (I  E C  ,  )
+	* § 1° Ato do Ministério da Previdência Social, no âmbito de suas competências, definirá os critérios para o parcelamento previsto neste artigo, inclusive quanto ao cumprimento do disposto nos incisos I, II, III e IV do caput deste artigo e à adesão ao Programa de Regularidade Previdenciária, que contemplará prazos e condições diferenciados para o cumprimento das exigências do Certificado de Regularidade Previdenciária e para a busca do equilíbrio financeiro e atuarial dos regimes próprios, bem como disponibilizará as informações aos entes federativos subnacionais sobre o montante das dívidas, as formas de parcelamento, os juros e os encargos incidentes, de modo a possibilitar o acompanhamento da evolução desses débitos. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*   O                   (z)                        . (I  E C  ,  )
+	* § 2° O ente federativo que não comprovar o atendimento das condições cumulativas previstas no caput deste artigo em até 15 (quinze) meses após a data da promulgação deste parágrafo terá seu parcelamento suspenso e não poderá renegociar a respectiva dívida até ulterior cumprimento das condições. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*   O          ()      ()  ,              P  R P. (I  E C  ,  )
+	* § 3° O parcelamento será suspenso na hipótese de inadimplência por 3 (três) meses consecutivos ou por 6 (seis) meses alternados, relativa às contribuições previdenciárias referidas no caput deste artigo ou de descumprimento do Programa de Regularidade Previdenciária. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-* A. .   z          M,     ,   R G  P S,        ,        z,                    ,  z    (z)  . (R   E C  ,  )
+* Art. 116. Fica excepcionalmente autorizado o parcelamento dos débitos decorrentes de contribuições previdenciárias dos Municípios, incluídas suas autarquias e fundações, com o Regime Geral de Previdência Social, com vencimento até 31 de agosto de 2025, ainda que em fase de execução fiscal ajuizada, inclusive os decorrentes do descumprimento de obrigações acessórias e os que tenham sido objeto de parcelamento anterior não integralmente quitado, no prazo máximo de 300 (trezentas) prestações mensais. (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-	*   O M         ,         R G  P S     ,  ,      ,      I, II, III  IV    .   A  D C T,                    . (R   E C  ,  )
+	* § 1° Os Municípios que possuam regime próprio de previdência social deverão comprovar, para fins de continuidade do parcelamento com o Regime Geral de Previdência Social de que trata este artigo, ter atendido, até 1° de março de 2027, as condições estabelecidas nos incisos I, II, III e IV do caput do art. 115 deste Ato das Disposições Constitucionais Transitórias, sob pena de suspensão do parcelamento e de proibição de renegociação de suas respectivas dívidas até ulterior cumprimento das condições. (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-	*   O      % (  )    ,    ,  % (  )    ,  % (  )      % (    )   . (I  E C  ,  )
+	* § 2° Os débitos parcelados terão redução de 40% (quarenta por cento) das multas de mora, de ofício e isoladas, de 80% (oitenta por cento) dos juros de mora, de 40% (quarenta por cento) dos encargos legais e de 25% (vinte e cinco por cento) dos honorários advocatícios. (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	*   O        z   ,  ,                ,   : (R   E C  ,  )
+	* § 3° O valor de cada parcela será acrescido de atualização monetária e juros, acumulados mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento, nos seguintes termos: (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-		* I - z     IPCA       -; (I  E C  ,  )
+		* I - atualização monetária pela variação do IPCA ou por índice que vier a substituí-lo; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* II -    % .. (z    )   M ,    (z)      , ,  , % (  )       ; (I  E C  ,  )
+		* II - juros reais de 0% a.a. (zero por cento ao ano) para os Municípios que, em até 18 (dezoito) meses após a promulgação deste inciso, quitarem, no mínimo, 20% (vinte por cento) da dívida de que trata este artigo; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* III -    % .. (    )   M ,    (z)      , ,  , % (z  )        ; (I  E C  ,  )
+		* III - juros reais de 1% a.a. (um por cento ao ano) para os Municípios que, em até 18 (dezoito) meses após a promulgação deste inciso, quitarem, no mínimo, 10% (dez por cento) da dívida consolidada de que trata este artigo; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* IV -    % .. (    )   M ,    (z)      , ,  , % (  )       ; (I  E C  ,  )
+		* IV - juros reais de 2% a.a. (dois por cento ao ano) para os Municípios que, em até 18 (dezoito) meses após a promulgação deste inciso, quitarem, no mínimo, 5% (cinco por cento) da dívida de que trata este artigo; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* V -    % .. (    )   M       II, III  IV  . (I  E C  ,  )
+		* V - juros reais de 4% a.a. (quatro por cento ao ano) para os Municípios que não se enquadrarem nos incisos II, III ou IV deste parágrafo. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*   N    M       . (I  E C  ,  )
+	* § 4° Não constituem débitos dos Municípios aqueles considerados prescritos ou atingidos pela decadência. (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	*   A S E  R   B   P-G  z N,     ,          ,   z    M     ,    ,      ,          . (I  E C  ,  )
+	* § 5° A Secretaria Especial da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional, no âmbito de suas competências, deverão fixar os critérios para o parcelamento previsto neste artigo, bem como disponibilizar as informações aos Municípios sobre o montante das dívidas, as formas de parcelamento, os juros e os encargos incidentes, de modo a possibilitar o acompanhamento da evolução desses débitos. (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	*   O          ()      ()  ,         . (I  E C  ,  )
+	* § 6° O parcelamento será excluído na hipótese de inadimplência por 3 (três) meses consecutivos ou por 6 (seis) meses alternados, relativa às contribuições previdenciárias referidas no caput deste artigo. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*   E     ,  M        U,    ,    . (I  E C  ,  )
+	* § 7° Em caso de exclusão por inadimplência, o Município ficará impedido de receber transferências voluntárias da União, inclusive de emendas parlamentares, enquanto perdurar a inadimplência. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*   O   P E  M             . (I  E C  ,  )
+	* § 8° O chefe do Poder Executivo do Município inadimplente responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*   N  z  M      P E                          M      P E. (I  E C  ,  )
+	* § 9° Não serão responsabilizados os Municípios e os respectivos chefes do Poder Executivo que demonstrarem que a inadimplência ocorreu por variações negativas inesperadas e significativas nas receitas ou por incremento nas despesas não decorrentes de decisões próprias do Município ou do respectivo chefe do Poder Executivo. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*  . A                    (z)    % (  )         M         ,      . (I  E C  ,  )
+	* § 10. As parcelas a que se refere o caput deste artigo serão equivalentes ao saldo da dívida fracionado em até 300 (trezentas) parcelas ou a 1% (um por cento) da média mensal da receita corrente líquida do Município referente ao ano anterior ao do vencimento da parcela, o que resultar na menor prestação. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*  . E  z  ,                       ()  ,       z P . (I  E C  ,  )
+	* § 11. Encerrado o prazo do parcelamento, eventual resíduo da dívida não quitado na forma do caput deste artigo poderá ser pago à vista ou parcelado em até 60 (sessenta) prestações mensais, na forma da legislação aplicável à Fazenda Pública federal. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	*  . A                 z     : (I  E C  ,  )
+	* § 12. A quitação antecipada de parcela da dívida de que trata o § 3° deste artigo poderá ser realizada por meio dos seguintes instrumentos: (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* I -           T N,    z    ; (I  E C  ,  )
+		* I - transferência de valores em moeda corrente à conta única do Tesouro Nacional, a título de amortização extraordinária do saldo devedor; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* II - ,   U,         M,      z     U   M; (I  E C  ,  )
+		* II - transferência, para a União, de participações societárias em empresas de propriedade do Município, desde que a operação seja autorizada mediante leis específicas da União e do Município; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* III -        M   U,               z     M; (I  E C  ,  )
+		* III - transferência de bens móveis ou imóveis do Município para a União, desde que haja manifestação de aceite por ambas as partes e a operação seja autorizada mediante lei específica do Município; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* IV -        M    ,      U; (I  E C  ,  )
+		* IV - cessão de créditos líquidos e certos do Município para o setor privado, desde que previamente aceitos pela União; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* V -     M   U     ; (I  E C  ,  )
+		* V - transferência de créditos do Município com a União reconhecidos por ambas as partes; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* VI - ,   U,           z P          ,   : (I  E C  ,  )
+		* VI - cessão, para a União, dos recebíveis originados de créditos inscritos na dívida ativa da Fazenda Pública municipal confessados e considerados recuperáveis nos termos da legislação aplicável, nas seguintes condições: (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-			* )     z      z      ,    ; (I  E C  ,  )
+			* a) o valor considerado para amortização da dívida será o valor atualizado dos créditos com ou sem deságio, negociado entre as partes; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-			* )                  ; (I  E C  ,  )
+			* b) a cessão do crédito não gerará qualquer alteração na situação do devedor nem ensejará expedição de certidão negativa; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-			* )     ,            ; (I  E C  ,  )
+			* c) na hipótese de crédito cedido, regulamento disporá sobre as regras às quais se submeterão os sujeitos passivos; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-			* )         ,          ""  ,   z       U     % (z  )    ,             U   M ; (I  E C  ,  )
+			* d) os valores dos créditos de que trata este inciso, líquidos do deságio a que se refere a alínea "a" deste inciso, poderão ser utilizados como pagamento da dívida com a União até o limite de 10% (dez por cento) do montante da dívida, e a cessão terá de ser aceita em comum acordo entre a União e o Município cedente; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-			* )  M        ,     U,   P-G  z N,         ,          ; (I  E C  ,  )
+			* e) o Município deverá fornecer todas as informações necessárias à avaliação, pela administração tributária da União, representada pela Procuradoria-Geral da Fazenda Nacional, da carteira de dívida ativa originadora dos direitos cedidos, especialmente em relação à expectativa de recebimento do fluxo futuro; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-			* )  z P    P-G  z N      z  ,              ;  (I  E C  ,  )
+			* f) as Fazendas Públicas municipais e a Procuradoria-Geral da Fazenda Nacional poderão implementar soluções integradas para otimizar a administração, a cobrança e a representação judicial e extrajudicial dos créditos inscritos em dívida ativa; e (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-			* )                       ; (I  E C  ,  )
+			* g) a cessão prevista neste inciso preservará a base de cálculo das vinculações constitucionais no exercício financeiro em que o contribuinte efetuar o pagamento; (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* VII -     ,      ,   z    ,      P E ;  (I  E C  ,  )
+		* VII - cessão de outros ativos que, em comum acordo entre as partes, possam ser utilizados para pagamento das dívidas, nos termos de ato do Poder Executivo federal; e (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* VIII - ,   U,              ,                  ,  ,    z  ,   L  .,    z  ,  .,      ,        P E . (I  E C  ,  )
+		* VIII - cessão, para a União, dos recebíveis originados da compensação financeira advinda da exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica ou de recursos minerais em seus respectivos territórios, plataformas continentais, mar territorial ou zona econômica exclusiva, conforme as Leis n°s 7.990, de 28 de dezembro de 1989, e 9.478, de 6 de agosto de 1997, de acordo com definição em ato do Poder Executivo federal. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-* A. -A.   z               R G  P S,      ,        z,                    ,  z    (z)  . (I  E C  ,  )
+* Art. 116-A. Fica excepcionalmente autorizado o parcelamento dos débitos decorrentes de contribuições previdenciárias dos consórcios públicos intermunicipais com o Regime Geral de Previdência Social, até 31 de agosto de 2025, ainda que em fase de execução fiscal ajuizada, inclusive os decorrentes do descumprimento de obrigações acessórias e os que tenham sido objeto de parcelamento anterior não integralmente quitado, no prazo máximo de 300 (trezentas) prestações mensais. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	* P . A-            , , ,     .   A  D C T. (I  E C  ,  )
+	* Parágrafo único. Aplica-se ao refinanciamento de que trata este artigo o disposto nos §§ 2°, 3°, 4°, 5° e 6° do art. 116 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-* A. . A z       . ,   -A  A  D C T             z      P  M           ,      : (R   E C  ,  )
+* Art. 117. A formalização dos parcelamentos de que tratam os arts. 115, 116 e 116-A deste Ato das Disposições Constitucionais Transitórias deverá ocorrer até 31 de agosto de 2026 e ficará condicionada à autorização de vinculação do Fundo de Participação dos Municípios para fins de pagamento das prestações acordadas nos termos de parcelamento, observada a seguinte ordem de preferência: (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-	* I -          U         U,       .   C ; (I  E C  ,  )
+	* I - a prestação de garantia ou de contra garantia à União ou os pagamentos de débitos em favor da União, na forma do § 4° do art. 167 da Constituição Federal; (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	* II -      R G  P S; (I  E C  ,  )
+	* II - as contribuições parceladas devidas ao Regime Geral de Previdência Social; (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-	* III -           . (I  E C  ,  )
+	* III - as contribuições parceladas devidas ao respectivo regime próprio de previdência social. (Incluído pela Emenda Constitucional n° 113, de 2021)
 
-* A. . O ,  ,                  .     VI    .   C   ,       ,    z  , ,     ,        ,                . (I  E C  ,  )
+* Art. 118. Os limites, as condições, as normas de acesso e os demais requisitos para o atendimento do disposto no parágrafo único do art. 6° e no inciso VI do caput do art. 203 da Constituição Federal serão determinados, na forma da lei e respectivo regulamento, até 31 de dezembro de 2022, dispensada, exclusivamente no exercício de 2022, a observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa no referido exercício. (Incluído pela Emenda Constitucional n° 114, de 2021)
 
-* A. . E           C-,  E,  D ,  M           z ,     ,        ,      .   C . (I  E C  ,  )
+* Art. 119. Em decorrência do estado de calamidade pública provocado pela pandemia da Covid-19, os Estados, o Distrito Federal, os Municípios e os agentes públicos desses entes federados não poderão ser responsabilizados administrativa, civil ou criminalmente pelo descumprimento, exclusivamente nos exercícios financeiros de 2020 e 2021, do disposto no caput do art. 212 da Constituição Federal. (Incluído pela Emenda Constitucional n° 119, de 2022)
 
-	* P . P       ,            ,      ,        ,          ,             . (I  E C  ,  )
+	* Parágrafo único. Para efeitos do disposto no caput deste artigo, o ente deverá complementar na aplicação da manutenção e desenvolvimento do ensino, até o exercício financeiro de 2023, a diferença a menor entre o valor aplicado, conforme informação registrada no sistema integrado de planejamento e orçamento, e o valor mínimo exigível constitucionalmente para os exercícios de 2020 e 2021. (Incluído pela Emenda Constitucional n° 119, de 2022)
 
-* A. .  ,    ,              ,          . (I  E C  ,  )
+* Art. 120. Fica reconhecido, no ano de 2022, o estado de emergência decorrente da elevação extraordinária e imprevisível dos preços do petróleo, combustíveis e seus derivados e dos impactos sociais dela decorrentes. (Incluído pela Emenda Constitucional n° 123, de 2022)
 
-	* P . P           ,   ,                : (I  E C  ,  )
+	* Parágrafo único. Para enfretamento ou mitigação dos impactos decorrentes do estado de emergência reconhecido, as medidas implementadas, até os limites de despesas previstos em uma única e exclusiva norma constitucional observarão o seguinte: (Incluído pela Emenda Constitucional n° 123, de 2022)
 
-		* I -   : (I  E C  ,  )
+		* I - quanto às despesas: (Incluído pela Emenda Constitucional n° 123, de 2022)
 
-			* )       ; (I  E C  ,  )
+			* a) serão atendidas por meio de crédito extraordinário; (Incluída pela Emenda Constitucional n° 123, de 2022)
 
-			* )                 .   L  .,      ,        ,     I    .   A  D C T;  (I  E C  ,  )
+			* b) não serão consideradas para fins de apuração da meta de resultado primário estabelecida no caput do art. 2° da Lei n° 14.194, de 20 de agosto de 2021, e do limite estabelecido para as despesas primárias, conforme disposto no inciso I do caput do art. 107 do Ato das Disposições Constitucionais Transitórias; e (Incluída pela Emenda Constitucional n° 123, de 2022)
 
-			* )       III    .   C ; (I  E C  ,  )
+			* c) ficarão ressalvadas do disposto no inciso III do caput do art. 167 da Constituição Federal; (Incluída pela Emenda Constitucional n° 123, de 2022)
 
-		* II -         --           .   C ;  (I  E C  ,  )
+		* II - a abertura do crédito extraordinário para seu atendimento dar-se-á independentemente da observância dos requisitos exigidos no § 3° do art. 167 da Constituição Federal; e (Incluído pela Emenda Constitucional n° 123, de 2022)
 
-		* III -     ,      : (I  E C  ,  )
+		* III - a dispensa das limitações legais, inclusive quanto à necessidade de compensação: (Incluído pela Emenda Constitucional n° 123, de 2022)
 
-			* )  ,             ;  (I  E C  ,  )
+			* a) à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa; e (Incluída pela Emenda Constitucional n° 123, de 2022)
 
-			* )       . (I  E C  ,  )
+			* b) à renúncia de receita que possa ocorrer. (Incluída pela Emenda Constitucional n° 123, de 2022)
 
-* A. . A             .   C         z    ()      z   ()       D O  U,          z. (I  E C  ,  )
+* Art. 121. As contas referentes aos patrimônios acumulados de que trata o § 2° do art. 239 da Constituição Federal cujos recursos não tenham sido reclamados por prazo superior a 20 (vinte) anos serão encerradas após o prazo de 60 (sessenta) dias da publicação de aviso no Diário Oficial da União, ressalvada reivindicação por eventual interessado legítimo dentro do referido prazo. (Incluído pela Emenda Constitucional n° 126, de 2022)
 
-	* P . O          ,     III    . .  L  .,       (C C),     T N     z          -B  . ,         . ,   A  D C T,       U  z    ()     . (I  E C  ,  )
+	* Parágrafo único. Os valores referidos no caput deste artigo serão tidos por abandonados, nos termos do inciso III do caput do art. 1.275 da Lei n° 10.406, de 10 de janeiro de 2002 (Código Civil), e serão apropriados pelo Tesouro Nacional como receita primária para realização de despesas de investimento de que trata o § 6°-B do art. 107, que não serão computadas nos limites previstos no art. 107, ambos deste Ato das Disposições Constitucionais Transitórias, podendo o interessado reclamar ressarcimento à União no prazo de até 5 (cinco) anos do encerramento das contas. (Incluído pela Emenda Constitucional n° 126, de 2022)
 
-* A. . A   z   N  S    N  A S         ,   ,      C-,          z  . (I  E C  ,  )
+* Art. 122. As transferências financeiras realizadas pelo Fundo Nacional de Saúde e pelo Fundo Nacional de Assistência Social diretamente aos fundos de saúde e assistência social estaduais, municipais e distritais, para enfrentamento da pandemia da Covid-19, poderão ser executadas pelos entes federativos até 31 de dezembro de 2023. (Incluído pela Emenda Constitucional n° 126, de 2022)
 
-* A. . T    , ,         ,  , ,      ,   z     ,          ,   z   ,     z   ,       . (I  E C  ,  )
+* Art. 123. Todos os termos de credenciamentos, contratos, aditivos e outras formas de ajuste de permissão lotérica, em vigor, indistintamente, na data de publicação deste dispositivo, destinados a viabilizar a venda de serviços lotéricos, disciplinados em lei ou em outros instrumentos de alcance específico, terão assegurado prazo de vigência adicional, contado do término do prazo do instrumento vigente, independentemente da data de seu termo inicial. (Incluído pela Emenda Constitucional n° 129, de 2023)
 
-* A. . A       . -A   . , V,   C ,      .     A  D C T. (I  E C  ,  )
+* Art. 124. A transição para os tributos previstos no art. 156-A e no art. 195, V, todos da Constituição Federal, atenderá aos critérios estabelecidos nos arts. 125 a 133 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* P . A    . , V,           . -A,   C . (I  E C  ,  )
+	* Parágrafo único. A contribuição prevista no art. 195, V, será instituída pela mesma lei complementar de que trata o art. 156-A, ambos da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . E ,     . -A       ,% (   ),      . , V,   C ,      ,% (   ). (I  E C  ,  )
+* Art. 125. Em 2026, o imposto previsto no art. 156-A será cobrado à alíquota estadual de 0,1% (um décimo por cento), e a contribuição prevista no art. 195, V, ambos da Constituição Federal, será cobrada à alíquota de 0,9% (nove décimos por cento). (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O                 . , I, "",  IV,      P  I S      . ,   C . (I  E C  ,  )
+	* § 1° O montante recolhido na forma do caput será compensado com o valor devido das contribuições previstas no art. 195, I, "b", e IV, e da contribuição para o Programa de Integração Social a que se refere o art. 239, ambos da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   C                ,                  () ,  . (I  E C  ,  )
+	* § 2° Caso o contribuinte não possua débitos suficientes para efetuar a compensação de que trata o § 1°, o valor recolhido poderá ser compensado com qualquer outro tributo federal ou ser ressarcido em até 60 (sessenta) dias, mediante requerimento. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A      . -A  C            ,      C ,   ,   , : (I  E C  ,  )
+	* § 3° A arrecadação do imposto previsto no art. 156-A da Constituição Federal decorrente do disposto no caput deste artigo não observará as vinculações, repartições e destinações previstas na Constituição Federal, devendo ser aplicada, integral e sucessivamente, para: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -    C G  I  B  S,    . -B,  , III,  C ; (I  E C  ,  )
+		* I - o financiamento do Comitê Gestor do Imposto sobre Bens e Serviços, nos termos do art. 156-B, § 2°, III, da Constituição Federal; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -     C  B   -       . , II,  C . (I  E C  ,  )
+		* II - compor o Fundo de Compensação de Benefícios Fiscais ou Financeiro-Fiscais do imposto de que trata o art. 155, II, da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   D       ,                    ,     . (I  E C  ,  )
+	* § 4° Durante o período de que trata o caput, os sujeitos passivos que cumprirem as obrigações acessórias relativas aos tributos referidos no caput poderão ser dispensados do seu recolhimento, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . A   : (I  E C  ,  )
+* Art. 126. A partir de 2027: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* I -  :
+	* I - serão cobrados:
 
-		* )     . , V,  C ; (I  E C  ,  )
+		* a) a contribuição prevista no art. 195, V, da Constituição Federal; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* )     . , VIII,  C ; (I  E C  ,  )
+		* b) o imposto previsto no art. 153, VIII, da Constituição Federal; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* II -       . , I, "",  IV,      P  I S     . ,   C ,         ""   I; (I  E C  ,  )
+	* II - serão extintas as contribuições previstas no art. 195, I, "b", e IV, e a contribuição para o Programa de Integração Social de que trata o art. 239, todos da Constituição Federal, desde que instituída a contribuição referida na alínea "a" do inciso I; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* III -     . , IV,  C : (I  E C  ,  )
+	* III - o imposto previsto no art. 153, IV, da Constituição Federal: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* )    z  z,        z   Z   M,      ;  (I  E C  ,  )
+		* a) terá suas alíquotas reduzidas a zero, exceto em relação aos produtos que tenham industrialização incentivada na Zona Franca de Manaus, conforme critérios estabelecidos em lei complementar; e (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* )           . , VIII,  C . (I  E C  ,  )
+		* b) não incidirá de forma cumulativa com o imposto previsto no art. 153, VIII, da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . E   ,     . -A  C        ,% (   )      ,% (   ). (I  E C  ,  )
+* Art. 127. Em 2027 e 2028, o imposto previsto no art. 156-A da Constituição Federal será cobrado à alíquota estadual de 0,05% (cinco centésimos por cento) e à alíquota municipal de 0,05% (cinco centésimos por cento). (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* P . N    ,       . , V,  C ,  z  , ( )  . (I  E C  ,  )
+	* Parágrafo único. No período referido no caput, a alíquota da contribuição prevista no art. 195, V, da Constituição Federal, será reduzida em 0,1 (um décimo) ponto percentual. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . D   ,       . , II,  , III,  C ,           : (I  E C  ,  )
+* Art. 128. De 2029 a 2032, as alíquotas dos impostos previstos nos arts. 155, II, e 156, III, da Constituição Federal, serão fixadas nas seguintes proporções das alíquotas fixadas nas respectivas legislações: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* I - / ( ),  ; (I  E C  ,  )
+	* I - 9/10 (nove décimos), em 2029; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* II - / ( ),  ; (I  E C  ,  )
+	* II - 8/10 (oito décimos), em 2030; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* III - / ( ),  ; (I  E C  ,  )
+	* III - 7/10 (sete décimos), em 2031; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* IV - / ( ),  . (I  E C  ,  )
+	* IV - 6/10 (seis décimos), em 2032. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O             . , II,  , III,  C           z   . (I  E C  ,  )
+	* § 1° Os benefícios ou os incentivos fiscais ou financeiros relativos aos impostos previstos nos arts. 155, II, e 156, III, da Constituição Federal não alcançados pelo disposto no caput deste artigo serão reduzidos na mesma proporção. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O         .   L C  ,      ,  z    ,         -A  .    L C. (I  E C  ,  )
+	* § 2° Os benefícios e incentivos fiscais ou financeiros referidos no art. 3° da Lei Complementar n° 160, de 7 de agosto de 2017, serão reduzidos na forma deste artigo, não se aplicando a redução prevista no § 2°-A do art. 3° da referida Lei Complementar. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*       ,    z  ,   z           z      ,      . (I  E C  ,  )
+	* § 3° Ficam mantidos em sua integralidade, até 31 de dezembro de 2032, os percentuais utilizados para calcular os benefícios ou incentivos fiscais ou financeiros já reduzidos por força da redução das alíquotas, em decorrência do disposto no caput. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. .  ,    ,     . , II,  , III,  C . (I  E C  ,  )
+* Art. 129. Ficam extintos, a partir de 2033, os impostos previstos nos arts. 155, II, e 156, III, da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . R  S  ,     ,         . -A  , V,  C ,            ,    : (I  E C  ,  )
+* Art. 130. Resolução do Senado Federal fixará, para todas as esferas federativas, as alíquotas de referência dos tributos previstos nos arts. 156-A e 195, V, da Constituição Federal, observados a forma de cálculo e os limites previstos em lei complementar, de forma a assegurar: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* I -    ,     U      . , V,       . , VIII,   C ,      : (I  E C  ,  )
+	* I - de 2027 a 2033, que a receita da União com a contribuição prevista no art. 195, V, e com o imposto previsto no art. 153, VIII, todos da Constituição Federal, seja equivalente à redução da receita: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* )     . , I, "",  IV,      P  I S     . ,   C ; (I  E C  ,  )
+		* a) das contribuições previstas no art. 195, I, "b", e IV, e da contribuição para o Programa de Integração Social de que trata o art. 239, todos da Constituição Federal; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* )     . , IV;  (I  E C  ,  )
+		* b) do imposto previsto no art. 153, IV; e (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* )     . , V,  C ,    ; (I  E C  ,  )
+		* c) do imposto previsto no art. 153, V, da Constituição Federal, sobre operações de seguros; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* II -    ,     E   D       . -A  C     : (I  E C  ,  )
+	* II - de 2029 a 2033, que a receita dos Estados e do Distrito Federal com o imposto previsto no art. 156-A da Constituição Federal seja equivalente à redução: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* )       . , II,  C ;  (I  E C  ,  )
+		* a) da receita do imposto previsto no art. 155, II, da Constituição Federal; e (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* )                ,      ,        . , II,  C ,        ,          .   A  D C T; (I  E C  ,  )
+		* b) das receitas destinadas a fundos estaduais financiados por contribuições estabelecidas como condição à aplicação de diferimento, regime especial ou outro tratamento diferenciado, relativos ao imposto de que trata o art. 155, II, da Constituição Federal, em funcionamento em 30 de abril de 2023, excetuadas as receitas dos fundos mantidas na forma do art. 136 deste Ato das Disposições Constitucionais Transitórias; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* III -    ,     M   D       . -A           . , III,   C . (I  E C  ,  )
+	* III - de 2029 a 2033, que a receita dos Municípios e do Distrito Federal com o imposto previsto no art. 156-A seja equivalente à redução da receita do imposto previsto no art. 156, III, ambos da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A            ,       . , III, "",  C ,     z  T  C  U. (I  E C  ,  )
+	* § 1° As alíquotas de referência serão fixadas no ano anterior ao de sua vigência, não se aplicando o disposto no art. 150, III, "c", da Constituição Federal, com base em cálculo realizado pelo Tribunal de Contas da União. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   N     ,           ,                         . (I  E C  ,  )
+	* § 2° Na fixação das alíquotas de referência, deverão ser considerados os efeitos sobre a arrecadação dos regimes específicos, diferenciados ou favorecidos e de qualquer outro regime que resulte em arrecadação menor do que a que seria obtida com a aplicação da alíquota padrão. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   P        , - : (I  E C  ,  )
+	* § 3° Para fins do disposto nos §§ 4° a 6°, entende-se por: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I - T  R  U:          ,     PIB,     . , IV,     . , I, "",  IV,     P  I S     .       . , V,    ,   C ; (I  E C  ,  )
+		* I - Teto de Referência da União: a média da receita no período de 2012 a 2021, apurada como proporção do PIB, do imposto previsto no art. 153, IV, das contribuições previstas no art. 195, I, "b", e IV, da contribuição para o Programa de Integração Social de que trata o art. 239 e do imposto previsto no art. 153, V, sobre operações de seguro, todos da Constituição Federal; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II - T  R T:          ,     PIB,     . , IV, , II  , III,     . , I, "",  IV,     P  I S     .       . , V,    ,   C ; (I  E C  ,  )
+		* II - Teto de Referência Total: a média da receita no período de 2012 a 2021, apurada como proporção do PIB, dos impostos previstos nos arts. 153, IV, 155, II e 156, III, das contribuições previstas no art. 195, I, "b", e IV, da contribuição para o Programa de Integração Social de que trata o art. 239 e do imposto previsto no art. 153, V, sobre operações de seguro, todos da Constituição Federal; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* III - R-B  U:    U      . , V,       . , VIII,   C ,     PIB; (I  E C  ,  )
+		* III - Receita-Base da União: a receita da União com a contribuição prevista no art. 195, V, e com o imposto previsto no art. 153, VIII, ambos da Constituição Federal, apurada como proporção do PIB; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* IV - R-B  E S:    E,  D    M      . -A  C , z         ""   II  ,     PIB; (I  E C  ,  )
+		* IV - Receita-Base dos Entes Subnacionais: a receita dos Estados, do Distrito Federal e dos Municípios com o imposto previsto no art. 156-A da Constituição Federal, deduzida da parcela a que se refere a alínea "b" do inciso II do caput, apurada como proporção do PIB; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* V - R-B T:    R-B  U   R-B  E S,   : (I  E C  ,  )
+		* V - Receita-Base Total: a soma da Receita-Base da União com a Receita-Base dos Entes Subnacionais, sendo essa última: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )    (z)  ; (I  E C  ,  )
+			* a) multiplicada por 10 (dez) em 2029; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )    ()  ; (I  E C  ,  )
+			* b) multiplicada por 5 (cinco) em 2030; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )    (z)     ()  ; (I  E C  ,  )
+			* c) multiplicada por 10 (dez) e dividida por 3 (três) em 2031; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )    (z)     ()  ; (I  E C  ,  )
+			* d) multiplicada por 10 (dez) e dividida por 4 (quatro) em 2032; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )    ()  . (I  E C  ,  )
+			* e) multiplicada por 1 (um) em 2033. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A           . , V,  C   z       R-B  U       T  R  U. (I  E C  ,  )
+	* § 4° A alíquota de referência da contribuição a que se refere o art. 195, V, da Constituição Federal será reduzida em 2030 caso a média da Receita-Base da União em 2027 e 2028 exceda o Teto de Referência da União. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A           . , V,         . -A,   C ,  z       R-B T       T  R T. (I  E C  ,  )
+	* § 5° As alíquotas de referência da contribuição a que se refere o art. 195, V, e do imposto a que se refere o art. 156-A, ambos da Constituição Federal, serão reduzidas em 2035 caso a média da Receita-Base Total entre 2029 e 2033 exceda o Teto de Referência Total. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A          : (I  E C  ,  )
+	* § 6° As reduções de que tratam os §§ 4° e 5° serão: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -       R-B     T  R; (I  E C  ,  )
+		* I - definidas de forma a que a Receita-Base seja igual ao respectivo Teto de Referência; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -     ,       ,   . (I  E C  ,  )
+		* II - no caso do § 5°, proporcionais para as alíquotas de referência federal, estadual e municipal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A            ,                      . (I  E C  ,  )
+	* § 7° A revisão das alíquotas de referência em função do disposto nos §§ 4°, 5° e 6° não implicará cobrança ou restituição de tributo relativo a anos anteriores ou transferência de recursos entre os entes federativos. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O     C G  I  B  S   T  C  U             ,   . (I  E C  ,  )
+	* § 8° Os entes federativos e o Comitê Gestor do Imposto sobre Bens e Serviços fornecerão ao Tribunal de Contas da União as informações necessárias para o cálculo a que se referem os §§ 1°, 4° e 5°. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   N        ,          . -A  , V,  C ,              I, II  III  . (I  E C  ,  )
+	* § 9° Nos cálculos das alíquotas de que trata o caput, deverá ser considerada a arrecadação dos tributos previstos nos arts. 156-A e 195, V, da Constituição Federal, cuja cobrança tenha sido iniciada antes dos períodos de que tratam os incisos I, II e III do caput. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*  . O           z       P E  U   C G  I  B  S,     T  C  U    ,       ,     . (I  E C  ,  )
+	* § 10. O cálculo das alíquotas a que se refere este artigo será realizado com base em propostas encaminhadas pelo Poder Executivo da União e pelo Comitê Gestor do Imposto sobre Bens e Serviços, que deverão fornecer ao Tribunal de Contas da União todos os subsídios necessários, mediante o compartilhamento de dados e informações, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . D   ,      E,  D    M        . -A  C            . (I  E C  ,  )
+* Art. 131. De 2029 a 2077, o produto da arrecadação dos Estados, do Distrito Federal e dos Municípios com o imposto de que trata o art. 156-A da Constituição Federal será distribuído a esses entes federativos conforme o disposto neste artigo. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   S          E,  D     M            .   A  D C T,    . -C  -A,  , II,   , I  IV,       . , IV, "",   C : (I  E C  ,  )
+	* § 1° Serão retidos do produto da arrecadação do imposto de cada Estado, do Distrito Federal e de cada Município apurada com base nas alíquotas de referência de que trata o art. 130 deste Ato das Disposições Constitucionais Transitórias, nos termos dos arts. 149-C e 156-A, § 4°, II, e § 5°, I e IV, antes da aplicação do disposto no art. 158, IV, "b", todos da Constituição Federal: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -    , % (  ); (I  E C  ,  )
+		* I - de 2029 a 2032, 80% (oitenta por cento); (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -  , % (  ); (I  E C  ,  )
+		* II - em 2033, 90% (noventa por cento); (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* III -    ,      , z  z  / (    )  . (I  E C  ,  )
+		* III - de 2034 a 2077, percentual correspondente ao aplicado em 2033, reduzido à razão de 1/45 (um quarenta e cinco avos) por ano. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   N     ,             E,  D    M        ,   : (I  E C  ,  )
+	* § 2° Na forma estabelecida em lei complementar, o montante retido nos termos do § 1° será distribuído entre os Estados, o Distrito Federal e os Municípios proporcionalmente à receita média de cada ente federativo, devendo ser consideradas: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -    E: (I  E C  ,  )
+		* I - no caso dos Estados: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )       . , II,      . , IV, "",   C ;  (I  E C  ,  )
+			* a) a arrecadação do imposto previsto no art. 155, II, após aplicação do disposto no art. 158, IV, "a", todos da Constituição Federal; e (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )           . , II, "",  A  D C T; (I  E C  ,  )
+			* b) as receitas destinadas aos fundos estaduais de que trata o art. 130, II, "b", deste Ato das Disposições Constitucionais Transitórias; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -    D : (I  E C  ,  )
+		* II - no caso do Distrito Federal: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )       . , II,  C ;  (I  E C  ,  )
+			* a) a arrecadação do imposto previsto no art. 155, II, da Constituição Federal; e (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )       . , III,  C ; (I  E C  ,  )
+			* b) a arrecadação do imposto previsto no art. 156, III, da Constituição Federal; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* III -    M: (I  E C  ,  )
+		* III - no caso dos Municípios: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )       . , III,  C ;  (I  E C  ,  )
+			* a) a arrecadação do imposto previsto no art. 156, III, da Constituição Federal; e (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )       . , IV, "",  C . (I  E C  ,  )
+			* b) a parcela creditada na forma do art. 158, IV, "a", da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   N      . , IV, "",  C         , I,  . (I  E C  ,  )
+	* § 3° Não se aplica o disposto no art. 158, IV, "b", da Constituição Federal aos recursos distribuídos na forma do § 2°, I, deste artigo. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A              ,        .   A  D C T,     E,  D     M             . -A,  , I,  C ,              . (I  E C  ,  )
+	* § 4° A parcela do produto da arrecadação do imposto não retida nos termos do § 1°, após a retenção de que trata o art. 132 deste Ato das Disposições Constitucionais Transitórias, será distribuída a cada Estado, ao Distrito Federal e a cada Município de acordo com os critérios da lei complementar de que trata o art. 156-A, § 5°, I, da Constituição Federal, nela computada a variação de alíquota fixada pelo ente em relação à de referência. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O              , -  : (I  E C  ,  )
+	* § 5° Os recursos de que trata este artigo serão distribuídos nos termos estabelecidos em lei complementar, aplicando-se o seguinte: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -            . -A, II,  C ,  : (I  E C  ,  )
+		* I - constituirão a base de cálculo dos fundos de que trata o art. 212-A, II, da Constituição Federal, observado que: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )   E,       . -A, II,     z              , I, "",    ,           , I    ; (I  E C  ,  )
+			* a) para os Estados, o percentual de que trata o art. 212-A, II, será aplicado proporcionalmente à razão entre a soma dos valores distribuídos a cada ente nos termos do § 2°, I, "a", e do § 4°, e a soma dos valores distribuídos nos termos do § 2°, I e do § 4°; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )   D ,       . -A, II,     z           , II, "",    ,           , II,    , ,    ,            ; (I  E C  ,  )
+			* b) para o Distrito Federal, o percentual de que trata o art. 212-A, II, será aplicado proporcionalmente à razão entre a soma dos valores distribuídos nos termos do § 2°, II, "a", e do § 4°, e a soma dos valores distribuídos nos termos do § 2°, II, e do § 4°, considerada, em ambas as somas, somente a parcela estadual nos valores distribuídos nos termos do § 4°; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-			* )   M,       . -A, II,     z           , III, "",           , III; (I  E C  ,  )
+			* c) para os Municípios, o percentual de que trata o art. 212-A, II, será aplicado proporcionalmente à razão entre a soma dos valores distribuídos nos termos do § 2°, III, "b", e a soma dos valores distribuídos nos termos do § 2°, III; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -          . -A, ,  , ,  ,   ,  ,  C ,         , I, ""; (I  E C  ,  )
+		* II - constituirão as bases de cálculo de que tratam os arts. 29-A, 198, § 2°, 204, parágrafo único, 212 e 216, § 6°, da Constituição Federal, excetuados os valores distribuídos nos termos do § 2°, I, "b"; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* III -                  . ,  ,       U   -   ,    . ,  ,   C . (I  E C  ,  )
+		* III - poderão ser vinculados para prestação de garantias às operações de crédito por antecipação de receita previstas no art. 165, § 8°, para pagamento de débitos com a União e para prestar-lhe garantia ou contragarantia, nos termos do art. 167, § 4°, todos da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   D         ,    E,  D    M          . -A  C                   .   A  D C T. (I  E C  ,  )
+	* § 6° Durante o período de que trata o caput deste artigo, é vedado aos Estados, ao Distrito Federal e aos Municípios fixar alíquotas próprias do imposto de que trata o art. 156-A da Constituição Federal inferiores às necessárias para garantir as retenções de que tratam o § 1° deste artigo e o art. 132 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . D   E,  D    M            .   A  D C T, z       . ,  ,      % (  )        z : (I  E C  ,  )
+* Art. 132. Do imposto dos Estados, do Distrito Federal e dos Municípios apurado com base nas alíquotas de referência de que trata o art. 130 deste Ato das Disposições Constitucionais Transitórias, deduzida a retenção de que trata o art. 131, § 1°, será retido montante correspondente a 5% (cinco por cento) para distribuição aos entes com as menores razões entre: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* I -       . -C  -A,  , II,   , I  IV,      ,       . , IV, "",   C ;  (I  E C  ,  )
+	* I - o valor apurado nos termos dos arts. 149-C e 156-A, § 4°, II, e § 5°, I e IV, com base nas alíquotas de referência, após a aplicação do disposto no art. 158, IV, "b", todos da Constituição Federal; e (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* II -    ,     . ,  , I, II  III,  A  D C T,    () z         . (I  E C  ,  )
+	* II - a respectiva receita média, apurada nos termos do art. 131, § 2°, I, II e III, deste Ato das Disposições Constitucionais Transitórias, limitada a 3 (três) vezes a média nacional por habitante da respectiva esfera federativa. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O   ,   ,      z     ,   ,    ,       ,      z : (I  E C  ,  )
+	* § 1° Os recursos serão distribuídos, sequencial e sucessivamente, aos entes com as menores razões de que trata o caput, de maneira que, ao final da distribuição, para todos os entes que receberem recursos, seja observada a mesma a razão entre: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -          I          ;  (I  E C  ,  )
+		* I - a soma do valor apurado nos termos do inciso I do caput com o valor recebido nos termos deste artigo; e (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -         II  . (I  E C  ,  )
+		* II - a receita média apurada na forma do inciso II do caput. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A-           . ,    A  D C T. (I  E C  ,  )
+	* § 2° Aplica-se aos recursos distribuídos na forma deste artigo o disposto no art. 131, § 5° deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   L        ,    ,       ,    . (I  E C  ,  )
+	* § 3° Lei complementar estabelecerá os critérios para a redução gradativa, entre 2078 e 2097, do percentual de que trata o caput, até a sua extinção. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . O      . , IV, , II, , III,  , I, "",  IV,      P  I S      .              . -A        . , V,   C . (I  E C  ,  )
+* Art. 133. Os tributos de que tratam os arts. 153, IV, 155, II, 156, III, e 195, I, "b", e IV, e a contribuição para o Programa de Integração Social a que se refere o art. 239 não integrarão a base de cálculo do imposto de que trata o art. 156-A e da contribuição de que trata o art. 195, V, todos da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . O        . , II,  C ,                   . (I  E C  ,  )
+* Art. 134. Os saldos credores relativos ao imposto previsto no art. 155, II, da Constituição Federal, existentes ao final de 2032 serão aproveitados pelos contribuintes na forma deste artigo e nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O                     z           ,    z: (I  E C  ,  )
+	* § 1° O disposto neste artigo alcança os saldos credores cujos aproveitamento ou ressarcimento sejam admitidos pela legislação em vigor em 31 de dezembro de 2032 e que tenham sido homologados pelos respectivos entes federativos, observadas as seguintes diretrizes: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -     ,        z          ; (I  E C  ,  )
+		* I - apresentado o pedido de homologação, o ente federativo deverá se pronunciar no prazo estabelecido na lei complementar a que se refere o caput; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -          z       I  ,       . (I  E C  ,  )
+		* II - na ausência de resposta ao pedido de homologação no prazo a que se refere o inciso I deste parágrafo, os respectivos saldos credores serão considerados homologados. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A-           z   . (I  E C  ,  )
+	* § 2° Aplica-se o disposto neste artigo também aos créditos reconhecidos após o prazo previsto no caput. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O        E   D   C G  I  B  S            . -A  C : (I  E C  ,  )
+	* § 3° O saldo dos créditos homologados será informado pelos Estados e pelo Distrito Federal ao Comitê Gestor do Imposto sobre Bens e Serviços para que seja compensado com o imposto de que trata o art. 156-A da Constituição Federal: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -  z ,     . ,  ,  L C  ,      ,            ; (I  E C  ,  )
+		* I - pelo prazo remanescente, apurado nos termos do art. 20, § 5°, da Lei Complementar n° 87, de 13 de setembro de 1996, para os créditos relativos à entrada de mercadorias destinadas ao ativo permanente; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -   (z  )  ,   ,   . (I  E C  ,  )
+		* II - em 240 (duzentos e quarenta) parcelas mensais, iguais e sucessivas, nos demais casos. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   O C G  I  B  S z         . -A             ,             . , IV, ,  , ,  , , -A, II,  ,  ,   C . (I  E C  ,  )
+	* § 4° O Comitê Gestor do Imposto sobre Bens e Serviços deduzirá do produto da arrecadação do imposto previsto no art. 156-A devido ao respectivo ente federativo o valor compensado na forma do § 3°, o qual não comporá base de cálculo para fins do disposto nos arts. 158, IV, 198, § 2°, 204, parágrafo único, 212, 212-A, II, e 216, § 6°, todos da Constituição Federal. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   A   ,     z  IPCA        -. (I  E C  ,  )
+	* § 5° A partir de 2033, os saldos credores serão atualizados pelo IPCA ou por outro índice que venha a substituí-lo. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	*   L   : (I  E C  ,  )
+	* § 6° Lei complementar disporá sobre: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* I -           ; (I  E C  ,  )
+		* I - as regras gerais de implementação do parcelamento previsto no § 3°; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* II -               -  ; (I  E C  ,  )
+		* II - a forma pela qual os titulares dos créditos de que trata este artigo poderão transferi-los a terceiros; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-		* III -                  C G  I  B  S,              . (I  E C  ,  )
+		* III - a forma pela qual o crédito de que trata este artigo poderá ser ressarcido ao contribuinte pelo Comitê Gestor do Imposto sobre Bens e Serviços, caso não seja possível compensar o valor da parcela nos termos do § 3°. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . L      z  ,  ,       . , IV,        . , I, "",  IV,      P  I S      . ,   C ,     z   , -,                   ,        ,        V    .   C ,    . (I  E C  ,  )
+* Art. 135. Lei complementar disciplinará a forma de utilização dos créditos, inclusive presumidos, do imposto de que trata o art. 153, IV, e das contribuições de que tratam o art. 195, I, "b", e IV, e da contribuição para o Programa de Integração Social a que se refere o art. 239, todos da Constituição Federal, não apropriados ou não utilizados até a extinção, mantendo-se, apenas para os créditos que cumpram os requisitos estabelecidos na legislação vigente na data da extinção de tais tributos, a permissão para compensação com outros tributos federais, inclusive com a contribuição prevista no inciso V do caput do art. 195 da Constituição Federal, ou ressarcimento em dinheiro. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . O E  ,      ,                          ,      ,        . , II,  C ,    ,     ,  : (I  E C  ,  )
+* Art. 136. Os Estados que possuíam, em 30 de abril de 2023, fundos destinados a investimentos em obras de infraestrutura e habitação e financiados por contribuições sobre produtos primários e semielaborados estabelecidas como condição à aplicação de diferimento, regime especial ou outro tratamento diferenciado, relativos ao imposto de que trata o art. 155, II, da Constituição Federal, poderão instituir contribuições semelhantes, não vinculadas ao referido imposto, observado que: (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* I -                                 ; (I  E C  ,  )
+	* I - a alíquota ou o percentual de contribuição não poderão ser superiores e a base de incidência não poderá ser mais ampla que os das respectivas contribuições vigentes em 30 de abril de 2023; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* II -              ,        . , II,  C ,       ; (I  E C  ,  )
+	* II - a instituição de contribuição nos termos deste artigo implicará a extinção da contribuição correspondente, vinculada ao imposto de que trata o art. 155, II, da Constituição Federal, vigente em 30 de abril de 2023; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* III -                  ; (I  E C  ,  )
+	* III - a destinação de sua receita deverá ser a mesma das contribuições vigentes em 30 de abril de 2023; (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* IV -             z  . (I  E C  ,  )
+	* IV - a contribuição instituída nos termos do caput será extinta em 31 de dezembro de 2043. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* P . A                E      . , II, "",  ,  , I, "",  A  D C T. (I  E C  ,  )
+	* Parágrafo único. As receitas das contribuições mantidas nos termos deste artigo não serão consideradas como receita do respectivo Estado para fins do disposto nos arts. 130, II, "b", e 131, § 2°, I, "b", deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . O        N  S    N  A S,      C-      ,        ,    D    ,    z  ,              , , ,  z   S Ú  S   S Ú  A S. (I  E C  ,  )
+* Art. 137. Os saldos financeiros dos recursos transferidos pelo Fundo Nacional de Saúde e pelo Fundo Nacional de Assistência Social, para enfrentamento da pandemia de Covid-19 no período de 2020 a 2022, aos fundos de saúde e assistência social estaduais, municipais e do Distrito Federal poderão ser aplicados, até 31 de dezembro de 2024, para o custeio de ações e serviços públicos de saúde e de assistência social, observadas, respectivamente, as diretrizes emanadas do Sistema Único de Saúde e do Sistema Único de Assistência Social. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-* A. . A ,  ,            ,          ,                  ,           .   E C  ,    z  . (I  E C  ,  )
+* Art. 138. Até 2032, qualquer criação, alteração ou prorrogação de vinculação legal ou constitucional de receitas a despesas, inclusive na hipótese de aplicação mínima de montante de recursos, não poderá resultar em crescimento anual da respectiva despesa primária superior à variação do limite de despesas primárias, na forma prevista na lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022. (Incluído pela Emenda Constitucional n° 135, de 2024)
 
-* B,     .
+* Brasília, 5 de outubro de 1988.
 
-## ️ G L
-```
- LR
-  C("C")
-  y C :#,:#,-:
-  C --> CPCP(". C, P C  P ")
-  C --> E("E")
-  C --> D("D ")
-  C --> RC("R C")
-  C --> MS("M  S")
-  C --> AP("A  P")
-  C --> DS(". D S")
-  C --> AP("A P")
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  CF("CF")
+  style CF fill:#f9f,stroke:#333,stroke-width:4px
+  CF --> 0ConceitoPoderConstituinteePrincpiosFundamentais("0. Conceito, Poder Constituinte e Princípios Fundamentais")
+  CF --> Estado("Estado")
+  CF --> DireitosFundamentais("Direitos Fundamentais")
+  CF --> RemdiosConstitucionais("Remédios Constitucionais")
+  CF --> MandadodeSegurana("Mandado de Segurança")
+  CF --> AbusodePoder("Abuso de Poder")
+  CF --> 5DireitosSociais("5. Direitos Sociais")
+  CF --> AdministraoPblica("Administração Pública")
 ```

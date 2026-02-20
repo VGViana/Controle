@@ -1,29 +1,29 @@
-# **A A**
+# **Ato Administrativo**
 
-- **C**: M     E  z   ,     .
+- **Conceito**: Manifestação unilateral de vontade do Estado que produz efeitos jurídicos imediatos, sob regime de direito público.
 ---
-- **E (R)**:
-- C,
-- ,
-- ,
-- M  
-- O.
+- **Elementos (Requisitos)**:
+- Competência,
+- Finalidade,
+- Forma,
+- Motivo e 
+- Objeto.
 ---
-- **A**: 
-- P  L, 
-- I, 
-- A  
-- T.
+- **Atributos**: 
+- Presunção de Legitimidade, 
+- Imperatividade, 
+- Autoexecutoriedade e 
+- Tipicidade.
 ---
-- **C**: P     A (A)   J (I  J).
+- **Controle**: Pode ser anulado pela própria Administração (Autotutela) ou pelo Judiciário (Inafastabilidade de Jurisdição).
 
-## ️ G L
-```
- LR
-  AA("A A")
-  y AA :#,:#,-:
-  C(". C ") --> AA
-  DDIC(". DDIC ") --> AA
-  AA(". A A") --> AA
-  E("E") --> AA
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  AtoAdministrativo("Ato Administrativo")
+  style AtoAdministrativo fill:#f9f,stroke:#333,stroke-width:4px
+  7Crditotributrio("7. Crédito tributário") --> AtoAdministrativo
+  4DDIC2("4. DDIC 2") --> AtoAdministrativo
+  6AtosAdministrativos("6. Atos Administrativos") --> AtoAdministrativo
+  Estado("Estado") --> AtoAdministrativo
 ```

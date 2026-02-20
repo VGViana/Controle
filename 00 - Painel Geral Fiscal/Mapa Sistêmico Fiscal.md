@@ -1,42 +1,42 @@
 ---
-: [, , ]
+tags: [mapa, sistêmico, conexões]
 ---
 
-# M S 
+# Mapa Sistêmico Fiscal
 
-[[../README.|H]] | [[./.|P G]]
+[[../README.md|Home]] | [[./Fiscal.md|Painel Geral]]
 
-E        .
+Este mapa conecta os pontos vitais entre as disciplinas.
 
-## C I
+## Conexões Interdisciplinares
 
-### T  D P
-- **C / T**: O STN  C/. O **[[../ - D T/. P.|P T]]**   .
-- **C / A**: P  .  (LIMPE)  z  E.
-- **A / T**: O    **[[../ - D A/. A A.|A A]]** .
+### Tríade do Direito Público
+- **Constitucional / Tributário**: O STN na CF/88. Os **[[../01 - Direito Tributário/1. Princípios.md|Princípios Tributários]]** como garantias fundamentais.
+- **Constitucional / Administrativo**: Princípios do art. 37 (LIMPE) e organização do Estado.
+- **Administrativo / Tributário**: O lançamento tributário como **[[../03 - Direito Administrativo/6. Atos Administrativos.md|Ato Administrativo]]** vinculado.
 
-### C C-
-- **C / A**: C   (BP, DRE)    (CPC).
-- **T / C**: L R (L)    L L .
-- **A / T**: V       .
+### Ciclo Contábil-Fiscal
+- **Contabilidade / Auditoria**: Conformidade das demonstrações (BP, DRE) com as normas (CPCs).
+- **Tributário / Contabilidade**: Lucro Real (Lalur) a partir do Lucro Líquido contábil.
+- **Auditoria / Tributário**: Verificação do cumprimento das obrigações principais e acessórias.
 
-## E T
+## Eixos Temáticos
 
-### . P  P
-- **C**: P, P, D R.
-- **C**: D  P   S.
-- **T**: I   (IPTU, IPVA, ITR, ITBI, ITCMD).
-- **C**: A (B  D).
+### 1. Patrimônio e Propriedade
+- **Civil**: Posse, Propriedade, Direitos Reais.
+- **Constitucional**: Direito à Propriedade e Função Social.
+- **Tributário**: Impostos sobre patrimônio (IPTU, IPVA, ITR, ITBI, ITCMD).
+- **Contabilidade**: Ativo (Bens e Direitos).
 
-### . A E
-- **E**: E, S, .
-- **T**: C  R.
-- **C**: O E  .
+### 2. Atividade Econômica
+- **Empresarial**: Empresário, Sociedades, Falência.
+- **Tributário**: Capacidade e Responsabilidade.
+- **Constitucional**: Ordem Econômica e Financeira.
 
-### . C  T
-- **C**: C E  I.
-- **A**: C  A.
-- **A**: P  Mz  .
+### 3. Controle e Transparência
+- **Constitucional**: Controle Externo e Interno.
+- **Administrativo**: Controle da Administração.
+- **Auditoria**: Procedimentos e Matriz de risco.
 
 ---
-[[./.|P G]] | [[../README.|H]]
+[[./Fiscal.md|Painel Geral]] | [[../README.md|Home]]

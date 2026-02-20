@@ -1,38 +1,38 @@
-# **P   T**
+# **Pacto Federativo e Tributação**
 
-E       **[[. C, P C  P #. P |Oz  E]]** (D C)   **[[P T|C T]]** (D T).
-
----
-
-## **. A   C T**
-A     (U, E, D  M),   **A.   C/**,           .
-- **C P:** A C       (: ISS  M, ICMS  E).
-- **C C:** M        (**A. , I, C**).
-
-## **. L  P  T  G  P**
-A            :
-- **[[. I#. I T|I R]] (A. , VI, '', C):** V      ,     ,    .
-- **U G (A. , I, C):** V  U           ,   .
-
-## **. R  R T**
-O     z  z    z  :
-- **PE  PM:**   P  E  M,     .
-- **C:** A.     C/.
-
-## **. C  C**
-R   **L C** (**A. , I, C**),   B    **[[CTN]]**.
+Esta nota explora a intersecção entre a **[[0. Conceito, Poder Constituinte e Princípios Fundamentais#3. Princípios Fundamentais|Organização do Estado]]** (Direito Constitucional) e a **[[Poder Tributário|Competência Tributária]]** (Direito Tributário).
 
 ---
 
-## **G  C**
-```
- TD
-    C[C ] --> P[P ]
-    P --> CT[C T]
-    CT --> STN[S T N]
-    STN --> CTN[C T N]
-    P --> IR[I R]
-    IR --> IT[I T]
+## **1. Autonomia Financeira e Competência Tributária**
+A autonomia dos entes federativos (União, Estados, DF e Municípios), estabelecida pelo **Art. 18 da CF/88**, depende diretamente da sua capacidade de instituir e arrecadar tributos próprios.
+- **Competência Privativa:** A CF atribui a cada ente impostos específicos (ex: ISS para Municípios, ICMS para Estados).
+- **Competência Concorrente:** Matéria de legislação sobre direito tributário e financeiro (**Art. 24, I, CF**).
+
+## **2. Limitações ao Poder de Tributar como Garantia do Pacto**
+As limitações constitucionais ao poder de tributar protegem a harmonia entre os entes:
+- **[[2. Imunidades#1. Imunidades Tributárias|Imunidade Recíproca]] (Art. 150, VI, 'a', CF):** Veda que um ente tribute o patrimônio, renda ou serviços de outro, preservando a autonomia política.
+- **Uniformidade Geográfica (Art. 151, I, CF):** Veda à União instituir tributo que não seja uniforme em todo o território nacional, evitando privilégios regionais.
+
+## **3. Repartição de Receitas Tributárias**
+O Federalismo Fiscal brasileiro é caracterizado pela descentralização da arrecadação e centralização da distribuição:
+- **FPE e FPM:** Fundos de Participação dos Estados e Municípios, fundamentais para o equilíbrio regional.
+- **Conexão:** Art. 157 a 162 da CF/88.
+
+## **4. Conflitos de Competência**
+Resolvidos obrigatoriamente por **Lei Complementar** (**Art. 146, I, CF**), que no Brasil é papel do **[[CTN]]**.
+
+---
+
+## **Grafo de Conexão**
+```mermaid
+graph TD
+    CF[Constituição Federal] --> PF[Pacto Federativo]
+    PF --> CT[Competência Tributária]
+    CT --> STN[Sistema Tributário Nacional]
+    STN --> CTN[Código Tributário Nacional]
+    PF --> IR[Imunidade Recíproca]
+    IR --> IT[Imunidades Tributárias]
 ```
 
-V : [[C  D P]], [[P T]], [[E]]
+Ver também: [[Conexões de Direito Público]], [[Poder Tributário]], [[Estado]]

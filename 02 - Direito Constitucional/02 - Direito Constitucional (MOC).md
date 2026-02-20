@@ -1,40 +1,40 @@
-# **MOC - D C**
+# **MOC - Direito Constitucional**
 
- **[H](../README.)** |  **[P G](../%-%P%G%/.)**
+🏠 **[Home](../README.md)** | 📊 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)**
 
-E MOC z     D C,        .
+Este MOC organiza os temas estruturantes do Direito Constitucional, servindo como núcleo do sistema jurídico do vault.
 
-## **. T  C  P**
-- **[. C, P C  P ](./.%C,%P%C%%P%.)**
-    - S  C (L, S, K).
-    - C  C  E (J A  S).
-    - **P C**: O (, )  D.
-    - **P **: , O  R I (SCDVP).
+## **1. Teoria da Constituição e Princípios**
+- **[0. Conceito, Poder Constituinte e Princípios Fundamentais](./0.%20Conceito,%20Poder%20Constituinte%20e%20Princípios%20Fundamentais.md)**
+    - Sentidos da Constituição (Lassale, Schmitt, Kelsen).
+    - Classificação das Constituições e Elementos (José Afonso da Silva).
+    - **Poder Constituinte**: Originário (inicial, incondicionado) e Derivado.
+    - **Princípios Fundamentais**: Fundamentos, Objetivos e Relações Internacionais (SoCiDiVaPlu).
 
-## **. E  I**
-- **[. A  N C  I C](./.%A%%N%C%%I%C.)**
-    - E  N (P, C, L).
-    - M  P  I (U, M E, Hz).
-    - I C  C.
-- **[C  C](../%-%C%G/C%%C.)**
-    - C D . C.
-    - A D (ADI, ADC, ADO, ADP).
-    - P  E.
+## **2. Eficácia e Interpretação**
+- **[1. Aplicação das Normas Constitucionais e Interpretação Constitucional](./1.%20Aplicação%20das%20Normas%20Constitucionais%20e%20Interpretação%20Constitucional.md)**
+    - Eficácia das Normas (Plena, Contida, Limitada).
+    - Métodos e Princípios de Interpretação (Unidade, Máxima Efetividade, Harmonização).
+    - Interpretação Conforme a Constituição.
+- **[Controle de Constitucionalidade](../99%20-%20Conceitos%20Gerais/Controle%20de%20Constitucionalidade.md)**
+    - Controle Difuso vs. Concentrado.
+    - Ações Diretas (ADI, ADC, ADO, ADPF).
+    - Pressupostos e Efeitos.
 
-## **. Oz  E  P**
-- **[. TGD](./.%TGD.)**: T G  D .
-- **[. DDIC ](./.%DDIC%.)**: D  D I  C - P .
-- **[. DDIC ](./.%DDIC%.)**: D  D I  C - P .
-- **[. D S](./.%D%S.)**: D    .
+## **3. Organização do Estado e Poderes**
+- **[2. TGDF](./2.%20TGDF.md)**: Teoria Geral do Direito Fundamental.
+- **[3. DDIC 1](./3.%20DDIC%201.md)**: Direitos e Deveres Individuais e Coletivos - Parte 1.
+- **[4. DDIC 2](./4.%20DDIC%202.md)**: Direitos e Deveres Individuais e Coletivos - Parte 2.
+- **[5. Direitos Sociais](./5.%20Direitos%20Sociais.md)**: Direitos fundamentais de 2ª geração.
 
-## **. P I**
-- **[C  D P](../%-%C%G/C%%D%P.)**: R  D C, A  T.
-- **[P   T](../%-%C%G/P%%%T.)**: I     .
-- **[ - D T](../%-%D%T/%-%D%T%(MOC).)**: I   S T N.
-- **[ - D A](../%-%D%A/%-%D%A%(MOC).)**: I   Oz A.
-
----
- **A:** Pz    A.     C/,     .
+## **4. Pontes Interdisciplinares**
+- **[Conexões de Direito Público](../99%20-%20Conceitos%20Gerais/Conexões%20de%20Direito%20Público.md)**: Relação entre Direito Constitucional, Administrativo e Tributário.
+- **[Pacto Federativo e Tributação](../99%20-%20Conceitos%20Gerais/Pacto%20Federativo%20e%20Tributação.md)**: Interface entre federalismo e competência tributária.
+- **[01 - Direito Tributário](../01%20-%20Direito%20Tributário/01%20-%20Direito%20Tributário%20(MOC).md)**: Interface com o Sistema Tributário Nacional.
+- **[03 - Direito Administrativo](../03%20-%20Direito%20Administrativo/03%20-%20Direito%20Administrativo%20(MOC).md)**: Interface com a Organização Administrativa.
 
 ---
- **[P G](../%-%P%G%/.)** | ️ **[M S ](../%-%P%G%/M%S%.)**
+🚨 **Atenção:** Priorize o entendimento do Art. 1º ao 5º da CF/88, base para as competências fiscais.
+
+---
+🔙 **[Painel Geral](../00%20-%20Painel%20Geral%20Fiscal/Fiscal.md)** | 🗺️ **[Mapa Sistêmico Fiscal](../00%20-%20Painel%20Geral%20Fiscal/Mapa%20Sistêmico%20Fiscal.md)**

@@ -1,18 +1,18 @@
-# **R C**
-- **C**: I    **[[D ]]**.
-- **E**:
-	- **[[M  S]]**: D   .
-	- **[[H D]]**: I .
-	- **[[A P]]**: P   .
-	- **[[A C P]]**: I   .
+# **Remédios Constitucionais**
+- **Conceito**: Instrumentos para proteger os **[[Direitos Fundamentais]]**.
+- **Espécies**:
+	- **[[Mandado de Segurança]]**: Direito líquido e certo.
+	- **[[Habeas Data]]**: Informação pessoal.
+	- **[[Ação Popular]]**: Patrimônio público e moralidade.
+	- **[[Ação Civil Pública]]**: Interesses difusos e coletivos.
 
-## ️ G L
-```
- LR
-  RC("R C")
-  y RC :#,:#,-:
-  C("C") --> RC
-  CAP("C  A P") --> RC
-  RC --> D("D ")
-  RC --> MS("M  S")
+## 🕸️ Grafo Local
+```mermaid
+graph LR
+  RemdiosConstitucionais("Remédios Constitucionais")
+  style RemdiosConstitucionais fill:#f9f,stroke:#333,stroke-width:4px
+  CF("CF") --> RemdiosConstitucionais
+  ControledaAdministraoPblica("Controle da Administração Pública") --> RemdiosConstitucionais
+  RemdiosConstitucionais --> DireitosFundamentais("Direitos Fundamentais")
+  RemdiosConstitucionais --> MandadodeSegurana("Mandado de Segurança")
 ```
