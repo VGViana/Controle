@@ -103,40 +103,38 @@
 
 ## **1.1 Irretroatividade da lei**
 
-- As leis penais incriminadoras **não podem atingir fatos pretéritos (que já ocorreram)**, ou seja, não podem considerar condutas que ocorreram **antes da sua entrada em vigência como crimes.**
-- **Lei que for benéfica** **poderá retroagir** e, assim, atingir condutas que ocorreram antes da sua entrada em vigor. Ex: Se alguém estiver preso por ter cometido uma conduta que era considerada como crime por uma lei e, no caso, for criada outra lei que desconsidere tal conduta como criminosa, então, a pessoa será imediatamente solta (a lei que desconsiderou tal conduta como crime irá retroagirá).
+- As leis penais incriminadoras <span style="color:#fe8019">**não podem atingir fatos pretéritos (que já ocorreram)**</span>, ou seja, não podem considerar condutas que ocorreram <span style="color:#fe8019">**antes da sua entrada em vigência como crimes.**</span>
+- <span style="color:#b8bb26">**Lei que for benéfica** **poderá retroagir**</span> e, assim, atingir condutas que ocorreram antes da sua entrada em vigor. Ex: Se alguém estiver preso por ter cometido uma conduta que era considerada como crime por uma lei e, no caso, for criada outra lei que desconsidere tal conduta como criminosa, então, a pessoa será imediatamente solta (a lei que desconsiderou tal conduta como crime irá retroagirá).
 
-**Grave:**
+<span style="color:#fb4934">**Grave</span>:**
 
-- **lei penal incriminadora - não pode retroagir;**
-- **lei penal benéfica - pode retroagir.**
+- <span style="color:#fe8019">**lei penal incriminadora - não pode retroagir</span>;**
+- <span style="color:#b8bb26">**lei penal benéfica - pode retroagir</span>.**
 
 **STF** - não pode haver a **combinação de leis no tempo** mesmo que para beneficiar o réu.
 
-**1.2 Imprescritibilidade e inafiançabilidade** 
+## **1.2 Imprescritibilidade e inafiançabilidade** 
 
-- São **crimes inafiançáveis**:
+- São **crimes <u>inafiançáveis</u>**:
 
-- - **racismo;**
-    - **ação de grupos armados;**
-    - **tráfico, terrorismo, tortura; e** 
-    - **crimes hediondos.**
+<span style="color:#fe8019">- **racismo;**
+- **ação de grupos armados;**
+- **tráfico, terrorismo, tortura; e** 
+- **crimes hediondos.**</span>
 
 **Muito importante:**
+- **Imprescritíveis** <span style="color:#83a598">(RAÇÃO)</span>
+	- <span style="color:#83a598">RA</span>cismo;
+    - <span style="color:#83a598">AÇÃO</span> de grupos armados.
 
-- **Imprescritíveis** (RAÇÃO)
+-  **Insuscetíveis de graça** (<span style="color:#fe8019">3TH</span> não tem graça)
 
-- - RAcismo;
-    - AÇÃO de grupos armados.
-
--  **Insuscetíveis de graça** (3TH não tem graça)
-
-- - Tráfico;
+	- Tráfico;
     - Terrorismo;
     - Tortura;
     - Hediondos.
 
-**STF** - reconheceu que houve omissão por parte do Poder Legislativo quanto à tipificação dos crimes de **homofobia e transfobia**. E até que sejam tipificados, tais condutas terão as **mesmas penas dadas ao crime de racismo.**
+**STF** - reconheceu que houve omissão por parte do Poder Legislativo quanto à tipificação dos crimes de <span style="color:#d3869b">**homofobia e transfobia**</span>. E até que sejam tipificados, tais condutas terão as <span style="color:#d3869b">**mesmas penas dadas ao crime de racismo.**</span>
 
 **STF** - o crime de **injúria racial** foi considerado uma espécie do crime de racismo, também sendo **imprescritível**.
 
