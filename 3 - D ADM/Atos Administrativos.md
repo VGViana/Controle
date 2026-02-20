@@ -151,13 +151,13 @@
         - **depende** da **concordância** do delegado;
         - ato **<span style="color:#fb4934">bilateral</span>;**
         - **<span style="color:#fb4934">horizontal</span>.**
-- **Avocação:**
+- **<span style="color:#83a598">Avocação</span>:**
     - atrair para si **competência do subordinado**;
     - existência de **hierarquia;**
     - **excepcional;**
     - **motivos relevantes;**
     - **temporária;**
-    - **vedada** para **competência exclusiva** do subordinado.
+    - **<span style="color:#fb4934">vedada*</span>* para **<span style="color:#fb4934">competência exclusiva*</span>* do subordinado.
 
 **_Se liga!_**  **Não podem ser objeto de delegação: (_Bizu! 🥕 CE  NO_** u **_RA_)**
 
@@ -165,19 +165,19 @@
 - Decisão de **Recursos Administrativos;**
 - Matérias de **Competência Exclusiva** do órgão ou autoridade**.**
 
-**5.2 Finalidade**: 
+## **5.2 Finalidade**: 
 
-- **Geral**: **interesse público**;
-- **Específica**: objetivo diretamente **previsto na lei;**
-- Elemento **vinculado.**
+- <span style="color:#d3869b">**Geral**:</span> **<span style="color:#83a598">interesse público*</span>*;
+- <span style="color:#d3869b">**Específica</span>**: objetivo diretamente *<span style="color:#83a598">*previsto na lei</span>;**
+- Elemento <span style="color:#83a598">**vinculado.**</span>
 
-**5.3 Forma**:
+## **5.3 Forma**:
 
-- Sentido **estrito**:
-    - modo de **exteriorização** do ato.
-- Sentido **amplo**:
-    - **formalidades** do processo de formação da vontade;
-    - princípio do **devido processo legal.**
-- Elemento **vinculado;**
+- Sentido **<span style="color:#d3869b">estrito</span>**:
+    - modo de **<span style="color:#d3869b">exteriorização*</span>* do ato.
+- Sentido **<span style="color:#d3869b">amplo</span>**:
+    - **<span style="color:#d3869b">formalidades*</span>* do processo de formação da vontade;
+    - princípio do **<span style="color:#83a598">devido processo legal.**</span>
+- Elemento **<span style="color:#83a598">vinculado;</span>**
 - **Princípio da Solenidade:**
-    - forma **específica** prevista na **lei.**
+    - forma **<span style="color:#83a598">específica</span>** prevista na **lei.**
