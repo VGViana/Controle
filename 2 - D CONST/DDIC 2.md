@@ -303,61 +303,59 @@
 - Tem **natureza civil;**
 - **<span style="color:#d3869b">Legitimidade ativa</span>** **(quem impetra - entra com a ação)**: qualquer pessoa física ou jurídica, nacional ou estrangeira;
 - **<span style="color:#d3869b">Legitimidade passiva</span> -** impetrado contra *<span style="color:#d3869b">*autoridade pública ou privada</span>** que <u>detém banco de dados de caráter público</u>;
-- **É gratuito;**
-- **Não serve para pleitear acesso a autos de processo administrativo;**
-- **Não poderá** ser ajuizado para o conhecimento de informações que não sejam relativas ao impetrante;
-- Deve **haver a negativa da instituição em fornecer** as informações ao impetrante.
+- **<span style="color:#d3869b">É gratuito;</span>**
+- **<span style="color:#fe8019">Não serve</span> para pleitear acesso a autos de processo administrativo;**
+- **<span style="color:#fb4934">Não poderá</span>** ser ajuizado para o conhecimento de informações que não sejam relativas ao impetrante;
+- Deve **<span style="color:#d3869b">haver a negativa da instituição em fornecer</span>** as informações ao impetrante.
 
 **STF** - **cônjuge** sobrevivente poderá impetrar _habeas data_ em prol do cônjuge falecido.
 
 **STF** - o contribuinte poderá impetrar _habeas data_ para obter informações acerca do **pagamento de tributos.** ⚠️💣
 
-- **1.2 MANDADO DE SEGURANÇA**  
-    
+## **1.2 MANDADO DE SEGURANÇA**  
 
-- -  LXIX – conceder-se-á **mandado de segurança** para **proteger direito líquido e certo**, não amparado por “habeas corpus” ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público;
-    - Finalidade: **proteger direito líquido e certo**, não amparado por “habeas corpus” ou habeas data;
-    - Tem **natureza civil;**
-    - **Prova pré-constituída;**
-    - **Direito líquido e certo** é o que resulta de fato certo, ou seja, é aquele capaz de ser comprovado, de plano, por documentação inequívoca e sem **necessidade de nenhum tipo de instrução probatória (prova pré-constituída);**
-    - **Legitimidade ativa** (**quem pode impetrar** - **entra com a ação**): qualquer pessoa física ou jurídica, nacional ou estrangeira, universalidade (espólio, massa falida), alguns órgãos públicos, MP;
-    - **Legitimidade passiva:** é impetrado contra qualquer autoridade pública, representantes/órgãos de partidos políticos; administradores de autarquias; _particulares no exercício de função pública -_ **somente no que disser respeito a estas atribuições.**
+- LXIX – conceder-se-á **<span style="color:#b8bb26">mandado de segurança</span>** para **<span style="color:#b8bb26">proteger direito líquido e certo</span>**, <u>não amparado por “habeas corpus” ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público</u>;
+- Finalidade: **<span style="color:#b8bb26">proteger direito líquido e certo</span>**, <u>não amparado por “habeas corpus” ou habeas data</u>;
+- Tem **<span style="color:#b8bb26">natureza civil</span>;**
+- **<span style="color:#b8bb26">Prova pré-constituída</span>;**
+- **Direito líquido e certo** é o que resulta de fato certo, ou seja, é aquele capaz de ser comprovado, de plano, por documentação inequívoca e sem **<span style="color:#b8bb26">necessidade de nenhum tipo de instrução probatória (prova pré-constituída);**</span>
+- **<span style="color:#b8bb26">Legitimidade ativa</span>** (**quem pode impetrar** - **entra com a ação**): qualquer pessoa física ou jurídica, nacional ou estrangeira, universalidade (espólio, massa falida), alguns órgãos públicos, MP;
+- **<span style="color:#b8bb26">Legitimidade passiva</span>:** é impetrado contra qualquer autoridade pública, representantes/órgãos de partidos políticos; administradores de autarquias; _particulares no exercício de função pública -_ **somente no que disser respeito a estas atribuições.**
 
-**Importante destacar** que o prazo para impetrar mandado de segurança é de **120 dias contados da data de conhecimento do fato** que obstou o direito líquido e certo. Se já houver passado 120 dias, não se fala mais em mandado de segurança, mas a pessoa poderá entrar com ação na justiça pelos trâmites normais.
+**<span style="color:#fb4934">Importante destacar</span>** que o prazo para impetrar mandado de segurança é de **<span style="color:#b8bb26">120 dias contados da data de conhecimento do fato</span>** que obstou o direito líquido e certo. Se já houver passado 120 dias, não se fala mais em mandado de segurança, mas a pessoa poderá entrar com ação na justiça pelos trâmites normais.
 
-**STF** - é possível a desistência do mandado de segurança mesmo se este já tiver sido impetrado ou se já houver tipo decisão de mérito.
+**STF** - é possível a desistência do mandado de segurança <u>mesmo se este já tiver sido impetrado ou se já houver tipo decisão de mérito.</u>
 
-- **Não cabe mandado de segurança** quando:
+- **<span style="color:#b8bb26">Não cabe mandado de segurança</span>** quando:
 
-- -  contra ato judicial passível de recurso ou correição;
-    - contra ato administrativo em que caiba recurso com efeito suspensivo;
-    - contra decisão transitada em julgado;
-    - contra lei em tese;
-    - contra ato de natureza jurisdicional;
-    - contra decisões jurisdicionais do STF;
-    - contra a submissão a certa modalidade de tributação;
-    - atos de gestão comercial, são os atos praticados por pessoas jurídicas de direito privado, sem a natureza de ato do poder público;
+- contra ato judicial <u>passível de recurso</u> ou correição;
+- contra ato administrativo em que caiba <u>recurso com efeito suspensivo</u>;
+- contra <u>decisão transitada em julgado</u>;
+- contra <u>lei em tese</u>;
+- contra <u>ato de natureza jurisdicional</u>;
+- contra <u>decisões jurisdicionais do STF</u>;
+- <u>contra</u> a submissão a certa <u>modalidade de tributação</u>;
+- <u>atos de gestão comercial,</u> são os atos praticados por pessoas jurídicas de direito privado, sem a natureza de ato do poder público;
 
- **STF** - **Controvérsia sobre matéria de direito** não impede concessão de mandado de segurança.
+ **STF** - **<span style="color:#b8bb26">Controvérsia sobre matéria de direito</span>** <u>não impede</u> concessão de mandado de segurança.
 
-- O mandado de segurança é uma ação **onerosa**, mas não há condenação ao pagamento dos honorários advocatícios pela parte que foi vencida.
+- O mandado de segurança é uma ação **<span style="color:#b8bb26">onerosa</span>**, mas não há condenação ao pagamento dos honorários advocatícios pela parte que foi vencida.
 
-- **1.3 MANDADO DE SEGURANÇA COLETIVO**
+## **1.3 MANDADO DE SEGURANÇA COLETIVO**
 
-- - LXX - o **mandado de segurança coletivo** pode ser impetrado por:
+- LXX - o **<span style="color:#d3869b">mandado de segurança coletivo</span>** pode ser impetrado por:
+	- **partido político** com <u>representação no Congresso Nacional</u>;
+	- **organização sindical,** **entidade de classe** ou <span style="color:#d3869b">associação legalmente constituída e em funcionamento há pelo menos um ano</span>, em defesa dos interesses de seus membros ou associados;
 
-- - - **partido político** com representação no Congresso Nacional;
-        - **organização sindical,** **entidade de classe** ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;
-
-- -  As associações, apenas elas, devem ter sido constituídas e devem estar em funcionamento há pelo menos 1 ano.
+- <span style="color:#d3869b"> As associações, apenas elas, devem ter sido constituídas e devem estar em funcionamento há pelo menos 1 ano.</span>
     - Natureza civil;
     - Oneroso;
     - Legitimados ativos estão elencados no inciso acima.
 
-- O mandado de segurança coletivo trata de um remédio constitucional para defender o direito líquido e certo de uma coletividade. O instituto da **substituição processual** marca essa defesa, por isso, não há a necessidade de as entidades pedirem autorização específica para cada membro dela. ⚠️
+- O mandado de segurança coletivo trata de um remédio constitucional para defender o direito líquido e certo de uma coletividade. O instituto da **substituição processual** marca essa defesa, por isso, <span style="color:#d3869b">não há a necessidade de as entidades pedirem autorização específica para cada membro dela</span>. ⚠️
 
-**STF** - **ente político** não pode impetrar mandado de segurança coletivo.
+**STF** - **ente político** <u>não pode</u> impetrar mandado de segurança coletivo.
 
-**STF** - **partido político** não pode impetrar mandado de segurança coletivo para impugnar a majoração de tributos.
+**STF** - **partido político** <u>não pode</u> impetrar mandado de segurança coletivo para impugnar a majoração de tributos.
 
 **STF** - mandado de segurança coletivo pode referir-se a **apenas uma parte dos membros da entidade que o impetrará.**
