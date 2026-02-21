@@ -19,31 +19,31 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 # 1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)|Resumo]]
 
-* Art. 1° A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: ^77575b2
+* Art. 1° A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como <span style="color:#83a598">fundamentos</span>: ^77575b2
 
-	* I - a soberania; ^358f0d8
+	* I - a <span style="color:#83a598">so</span>berania; ^358f0d8
 
-	* II - a cidadania; ^9f5515b
+	* II - a <span style="color:#83a598">ci</span>dadania; ^9f5515b
 
-	* III - a dignidade da pessoa humana; ^b2aa964
+	* III - a <span style="color:#83a598">di</span>gnidade da pessoa humana; ^b2aa964
 
-	* IV - os valores sociais do trabalho e da livre iniciativa; (Vide Lei n° 13.874, de 2019) ^fc6cb69
+	* IV - os <span style="color:#83a598">va</span>lores sociais do trabalho e da livre iniciativa; (Vide Lei n° 13.874, de 2019) ^fc6cb69
 
-	* V - o pluralismo político. ^8004c2d
+	* V - o <span style="color:#83a598">plu</span>ralismo político. ^8004c2d
 
 	* Parágrafo único. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição. ^660e64d
 
 * Art. 2° São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário. ^bd4f65c
 
-* Art. 3° Constituem objetivos fundamentais da República Federativa do Brasil: ^197f612
+* Art. 3° Constituem <span style="color:#fb4934">objetivos</span> fundamentais da República Federativa do Brasil: ^197f612
 
-	* I - construir uma sociedade livre, justa e solidária; ^270a970
+	* I - <span style="color:#fb4934">con</span>struir uma sociedade livre, justa e solidária; ^270a970
 
-	* II - garantir o desenvolvimento nacional; ^8d986fd
+	* II - <span style="color:#fb4934">ga</span>rantir o desenvolvimento nacional; ^8d986fd
 
-	* III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; ^236dbcc
+	* III - <span style="color:#fb4934">erra</span>dicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; ^236dbcc
 
-	* IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. ^2c8c335
+	* IV - <span style="color:#fb4934">pro</span>mover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. ^2c8c335
 
 * Art. 4° A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: ^1955485
 
@@ -294,33 +294,33 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 ## 2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)|Resumo]]
 
-* Art. 6° São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional n° 90, de 2015) ^251d44c
+* Art. 6° São direitos sociais a <span style="color: #d79921">educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados</span>, na forma desta Constituição. (Redação dada pela Emenda Constitucional n° 90, de 2015) ^251d44c
 
-	* Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide Lei n° 14.601, de 2023) ^49a969f
+	* Parágrafo único. <span style="color:#83a598">Todo brasileiro em situação de vulnerabilidade social</span> terá direito a <span style="color:#83a598">uma renda básica familiar</span>, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão <span style="color:#83a598">determinados em lei</span>, observada a legislação fiscal e orçamentária (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide Lei n° 14.601, de 2023) ^49a969f
 
-* Art. 7° São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social: ^0f410c4
+* Art. 7° São <span style="color: #d79921">direitos dos trabalhadores urbanos e rurais,</span> além de outros que visem à melhoria de sua condição social: ^0f410c4
 
-	* I - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos; ^fe73bea
+	* I - relação de emprego protegida contra <span style="color: #d79921">despedida arbitrária ou sem justa causa,</span> nos termos de lei complementar, que <span style="color: #d79921">preverá indenização compensatória</span>, dentre outros direitos; ^fe73bea
 
-	* II - seguro-desemprego, em caso de desemprego involuntário; ^a335086
+	* II - <span style="color: #d79921">seguro-desemprego</span>, em caso de desemprego involuntário; ^a335086
 
-	* III - fundo de garantia do tempo de serviço; ^bff636c
+	* III - <span style="color: #d79921">f</span>undo de <span style="color: #d79921">g</span>arantia do <span style="color: #d79921">t</span>empo de <span style="color: #d79921">s</span>erviço; ^bff636c
 
-	* IV - salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim; ^d137e98
+	* IV - <span style="color: #d79921">salário mínimo</span>, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com <span style="color: #d79921">reajustes periódicos</span> que lhe preservem o poder aquisitivo, sendo <span style="color:#fb4934">vedada sua vinculação</span> para qualquer fim; ^d137e98
 
-	* V - piso salarial proporcional à extensão e à complexidade do trabalho; ^756e911
+	* V - <span style="color: #d79921">piso salarial</span> proporcional à extensão e à complexidade do trabalho; ^756e911
 
-	* VI - irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo; ^d255ee9
+	* VI - <span style="color: #d79921">irredutibilidade do salário,</span> <span style="color:#fb4934">salvo o disposto em convenção ou acordo coletivo</span>; ^d255ee9
 
 	* VII - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável; ^a29bb55
 
-	* VIII - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria; ^b7430d7
+	* VIII - <span style="color: #d79921">décimo terceiro</span> salário com base na remuneração integral ou no valor da aposentadoria; ^b7430d7
 
-	* IX - remuneração do trabalho noturno superior à do diurno; ^3f6af15
+	* IX - <span style="color: #d79921">remuneração do trabalho noturno superior</span> à do diurno; ^3f6af15
 
-	* X - proteção do salário na forma da lei, constituindo crime sua retenção dolosa; ^755091e
+	* X - proteção do salário na forma da lei, constituindo <span style="color:#fb4934">crime sua retenção dolosa</span>; ^755091e
 
-	* XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei; ^b0278fb
+	* XI - <span style="color: #d79921">participação nos lucros</span>, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei; ^b0278fb
 
 	* XII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0847d33
 
