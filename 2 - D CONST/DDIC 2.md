@@ -6,7 +6,7 @@
 
 ## **1.2 Direito à informação**
 
-- Vamos gravar as palavras mais importantes do inciso: <span style="color:#d3869b">**órgãos públicos</span>****,** <span style="color:#fb4934">**interesse particular ou coletivo</span>;
+- Vamos gravar as palavras mais importantes do inciso: <span style="color:#d3869b">**órgãos públicos</span>**, <span style="color:#fb4934">**interesse particular ou coletivo</span>**;
 - O direito à informação pode abranger, excepcionalmente, os <span style="color:#83a598">**órgãos privados**</span>, desde que estes prestem serviços públicos;
 - Ainda, não pode o indivíduo requisitar informações de outra pessoa, apenas as suas ou as de interesse coletivo;
 - Tal inciso obriga <span style="color:#d3869b">todos os órgãos e entidades da Administração Pública</span>;
