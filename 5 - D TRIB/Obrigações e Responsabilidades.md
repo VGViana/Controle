@@ -88,4 +88,20 @@ São solidariamente obrigadas
 ---
 ### Capacidade tributária
 
-É a aptidão para se tornar sujeito passivo da obrigação tributáriaj
+Capacidade tributária passiva é a aptidão para se tornar sujeito passivo da obrigação tributária, a qual independe de:
+- Da capacidade civil das pessoas naturais
+- De achar-se a pessoa natural sujeita a medidades que importem a privação ou limitação 
+- Exercício de atividades civis, comerciais ou profissionais, ou da administração direta de seus bens ou negócios
+- De estar a pessoa jurídica regularmente constituída, bastando que configure uma unidade econômica ou profissional
+---
+### Domicílio Tributário 
+
+É o local onde o sujeito passivo deve cumprir com as obrigaçõs, em regra, é eleito pelo próprio sujeito passivo
+
+Se o domicílio Tributário impossibilitar ou dificultar a arrecadação, pode a autoridade administrativa recusá-lo, caso em que será considerado como domicílio o lugar da situação dos bens ou da ocorrência dos atos ou fatos que deram origem à obrigação.
+
+Na falta de eleição: 
+- Pessoas naturais
+	- Residência habitual
+		- Se incerta ou desconhecida, será o centro habitual de sua atividade
+- Pessoas jurídicas de direito privado ou às firmas individuais
