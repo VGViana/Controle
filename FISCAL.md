@@ -2,8 +2,6 @@
 
 > *"A ordem é a base de toda virtude."*
 
-Bem-vindo ao centro de comando do seu estudo fiscal. Este é o seu **Mapa de Conteúdo (MOC)** principal.
-
 ---
 
 ## 🧭 Mapas Centrais (Matérias)
