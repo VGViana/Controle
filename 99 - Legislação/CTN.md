@@ -595,4 +595,4 @@ CÓDIGO TRIBUTÁRIO NACIONAL (LEI Nº 5.172/1966)
 * Art. 218. Esta Lei entra em vigor em 1º de janeiro de 1967. ^ctn-art218
 
 ---
-[[FISCAL|⬅️ Voltar para a Constituição Federal]] | [[5 - D TRIB/D TRIB|💸 MOC Tributário]] | [🏠 Home](./README.md)
+[[FISCAL|⬅️ Voltar para a Constituição Federal]] | [[5 - D TRIB/D TRIB|💸 MOC Tributário]] | [🏠 Home](README.md)

@@ -13,8 +13,8 @@
 ### 2. O CRÉDITO TRIBUTÁRIO
 - [**7. Crédito Tributário**](./7.%20Crédito%20Tributário.md) - Do fato gerador à cobrança.
 - [**8. Suspensão da Exigibilidade**](./8.%20Suspensão%20da%20Exigibilidade%20do%20Crédito.md) - Hipóteses que impedem o fisco de cobrar.
-- [**Extinção do Crédito**](./Extinção%20do%20Crédito.md) - Como a obrigação tributária se resolve.
-- [**Exclusão do Crédito Tributário**](./Exclusão%20do%20Crédito%20Tributário.md) - Isenção e Anistia.
+- [**Extinção do Crédito**](9.%20Extinção%20do%20Crédito.md) - Como a obrigação tributária se resolve.
+- [**Exclusão do Crédito Tributário**](10.%20Exclusão%20do%20Crédito%20Tributário.md) - Isenção e Anistia.
 
 ---
 
