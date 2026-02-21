@@ -25,6 +25,14 @@ Por meio do Business Intelligence, é possível transformar grandes volumes de d
 - <span style="color:#d3869b">**BPM**:</span> conexão de métricas com desempenhos reais da organização;
 - <span style="color:#83a598">**Interface de usuario**:</span> visão rápida dos dados por meio de ferramentas de visualização.
 
+## **2.2 Ferramentas de BI**
+
+Dividias nas seguintes fases:
+- Coleta
+- Análise
+- Visualização de dados
+- Tomada de decisão
+
 # **3. Data Warehouse (armazém de dados)**
 
 **O armazém de dados**, ou **Data Warehouse**, é um **repositório centralizado** onde informações de diferentes fontes são armazenadas e consolidadas. Essa estrutura facilita a análise e a extração de insights a partir dos dados coletados. Os Data Warehouses são projetados para lidar com dados históricos e atuais, permitindo uma visão ampla e detalhada dos negócios. Isso é crucial para o desenvolvimento de estratégias e aprimoramento dos processos empresariais.
