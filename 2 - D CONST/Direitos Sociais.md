@@ -1,11 +1,9 @@
 # **1.Direitos Sociais**
 
 - **Reserva do possível:**
-
-- - Demonstração objetiva: 
-
-- - - Inexistência de recursos;
-        - Ausência de previsão orçamentária.
+	- Demonstração objetiva: 
+	- Inexistência de recursos;
+	- Ausência de previsão orçamentária.
 
 **Importante! Tem como limite o "mínimo existencial".**
 
@@ -14,7 +12,7 @@
 ## **1.1 A vedação ao retrocesso**
 
 - O assunto **vedação ao retrocesso** é importante para que você entenda que os direitos sociais, uma vez implantados, não podem ser suprimidos posteriormente.
-
+---
 ## **1.2 Art. 6º. São direitos sociais:**
 
 - educação
@@ -29,9 +27,11 @@
 - proteção à maternidade e à infância      
 - assistência aos desamparados
 
+_Parágrafo único. Todo brasileiro em <span style="color:#fb4934">situação de vulnerabilidade</span> social terá direito a uma <span style="color:#83a598">renda básica familiar</span>[...]_
 
-atenção ao parágrafo único do art. 6º, ele é uma <span style="color:#d3869b">**novidade!</span>**📢
+atenção ao parágrafo único do art. 6º, ele é uma **<span style="color:#d3869b">novidade!</span>**📢
 
+---
 <span style="color:#fb4934">**Atenção**</span> ao art. 7°, vamos ressaltar as palavras-chaves dos incisos e fazer algumas considerações pontuais.🎯
 
 - I - proteção contra <span style="color:#fb4934">**despedida arbitrária**</span> ou sem justa causa;
