@@ -222,7 +222,7 @@
 
 - A prisão <u>apenas ocorrerá:</u>
 
-- - **<span style="color:#d3869b">Sem a necessidade de ordem judicial</span>****: flagrante delito ou nos crimes militares tratados em legislação própria;
+- - **<span style="color:#d3869b">Sem a necessidade de ordem judicial</span>**: flagrante delito ou nos crimes militares tratados em legislação própria;
 - **<span style="color:#b8bb26">Por ordem escrita e fundamentada</span>** de autoridade judicial competente nos **demais casos.**
 
 ## **1.5 Direitos assegurados ao preso**
@@ -261,7 +261,7 @@
 
 - Os **<span style="color:#fe8019">tratados internacionais**</span> sobre *<span style="color:#b8bb26"><u>*direitos humanos**,</u></span> quando aprovados por **3/5** dos membros **de cada Casa do Congresso Nacional**, em **dois turnos** de votação, **serão internalizados pelo ordenamento com equivalência de** **<span style="color:#fe8019">emendas constitucionais</span>.**
 
-- Caso o tratado discuta sobre **<span style="color:#b8bb26">direitos humanos</span>**, mas não passe pelo rito das **<span style="color:#fe8019">emendas constitucionais</span>,** eles terão **<span style="color:#b8bb26">_status supralegal_</span>**, ou seja, abaixo da Constituição e acima das demais leis. Porém, **se <span style="color:#d3869b">não tratar de direitos humanos*</span>*, o _status_ será de **<span style="color:#d3869b">lei ordinária</span>.**
+- Caso o tratado discuta sobre **<span style="color:#b8bb26">direitos humanos</span>**, mas não passe pelo rito das **<span style="color:#fe8019">emendas constitucionais</span>,** eles terão **<span style="color:#b8bb26">_status supralegal_</span>**, ou seja, abaixo da Constituição e acima das demais leis. Porém, **se <span style="color:#d3869b">não tratar de direitos humanos*</span>*, o _status_ será de **<span style="color:#d3869b">lei ordinária</span>.
 
 ## **1.3 Remédios Constitucionais**
 
