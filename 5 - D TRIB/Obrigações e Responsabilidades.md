@@ -12,6 +12,7 @@ Relação jurídica existente entre um credor e um devedor, que tem por objeto u
 	- Prestações positivas ou negativas no interesse da arrecadação  ou da fiscalização dos tributos
 	- Da inobservancia, converte-se em obrigação principal (penalidade pecuniária)
 
+---
 # Fato Gerador
 
 ## Conceito Doutrinário 
@@ -36,7 +37,8 @@ Relação jurídica existente entre um credor e um devedor, que tem por objeto u
 - Continuados
 	- Descreve uma conduta que revela um estado de premanência.
 
-## Elisão, Evasão e Elusão
+---
+# Elisão, Evasão e Elusão
 
 São as formas com as quais os contribuintes podem se valer para escapar da tributação, licita ou ilicitamente, a depender, em regra, da forma e momento em que são praticadas
 
@@ -53,4 +55,37 @@ São as formas com as quais os contribuintes podem se valer para escapar da trib
 
 ### Elusão fiscal/Elisão Ineficaz
 
-- Contribuinte simula o negócio jurídico, dissimulando o F
+- Contribuinte simula o negócio jurídico, dissimulando o FG
+- Busca ocultar a essência do negócio, alterando a sua forma.
+
+---
+# Sujeito Ativo e Passivo
+
+##  Sujeito Ativo
+
+- É a pessoa jurídica de direito público, titular da competência para exigir seu pagamento.
+--- 
+## Sujeito Passivo
+
+- Obrigada ao pagamento de tributo ou penalidade
+	- Sujeito passivo da obrigação principal:
+		- Contribuinte: relação pessoal e direta que constitua o FG
+		- Responsável: Quando sem ser contribuinte, obrigação decorre de disposição expressa de lei 
+	- Pagamento de tributo ou penalidade pecuniária
+		- É a pessoa obrigada às prestações que constituam seu objeto
+
+### Solidariedade
+
+No direito tributário não existe solidariedade ativa.
+Os efeitos da solidariedade passiva são: 
+- Pagamento de um aproveita aos demais
+- isenção ou remissão exonera todos, exceto se de caráter individual
+- A interrupção d prescrição, a favou ou contra um, favorece ou prejudica todos
+
+São solidariamente obrigadas
+- As pessoas que tenham interesse em comum na situação que constitua o FG
+- As pessoas expressamente designadas por lei
+---
+### Capacidade tributária
+
+É a aptidão para se tornar sujeito passivo da obrigação tributáriaj
