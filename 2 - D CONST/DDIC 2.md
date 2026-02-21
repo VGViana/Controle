@@ -23,7 +23,7 @@
 - Esse princípio objetiva o **exercício da cidadania**, por isso <span style="color:#fe8019">**não haverá o pagamento de taxas**</span> frente aos órgãos públicos, entidade públicas e entidades privadas que exercem serviços públicos;
 - <u>Direito de petição</u>: defesa de direitos, contra ilegalidade e abuso de poder;
 - <u>Obtenção de certidão</u>: defesa de direitos e esclarecimentos de situações de interesse particular;
-- <u>Caso haja negativa na expedição de certidões</u>, caberá ajuizar <span style="color:#fb4934">**mandado de segurança****.</span>**
+- <u>Caso haja negativa na expedição de certidões</u>, caberá ajuizar <span style="color:#fb4934">**mandado de segurança**.</span>
 
 <span style="color:#fb4934">**ATENÇÃO</span>! Não podemos confundir** **o remédio constitucional** <u>**mandado de segurança</u> que é previsto na negativa do direito de obtenção de certidão, com o <u>_habeas data_</u>. O examinador pode tentar te confundir!**
 
@@ -36,7 +36,7 @@
 
 ## **1.4 Inafastabilidade de jurisdição**
 
-- O Brasil adota o <span style="color:#b8bb26">**sistema inglês de jurisdição</span>****,** o que significa que apenas o **Poder Judiciário** poderá fazer coisa julgada material, também chamada de <u>jurisdição una</u>;
+- O Brasil adota o <span style="color:#b8bb26">**sistema inglês de jurisdição</span>**, o que significa que apenas o **Poder Judiciário** poderá fazer coisa julgada material, também chamada de <u>jurisdição una</u>;
 - Alguns examinadores tentam trocar qual tipo de jurisdição o Brasil adota. <u>**Tenhamos atenção</u>,** o Brasil adotou o **sistema inglês de jurisdição**. **Não confunda** com o <span style="color:#fb4934">**sistema francês**</span>, em que não só o judiciário poderá fazer coisa julgada material, mas o administrativo também, havendo duas cortes.
 - O que temos que entender é que todas as decisões tomadas, mesmo na seara de outros Poderes, poderão ser encaminhadas ao Poder Judiciário, a qualquer momento. E, apenas o Poder Judiciário ensejará a coisa julgada material, aquela que não pode ser mais recorrida e contestada. Entretanto, há algumas <span style="color:#fb4934">**exceções**</span>
 
