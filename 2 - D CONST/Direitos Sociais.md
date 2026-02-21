@@ -29,6 +29,7 @@
 - proteção à maternidade e à infância      
 - assistência aos desamparados
 
+
 atenção ao parágrafo único do art. 6º, ele é uma <span style="color:#d3869b">**novidade!</span>**📢
 
 <span style="color:#fb4934">**Atenção**</span> ao art. 7°, vamos ressaltar as palavras-chaves dos incisos e fazer algumas considerações pontuais.🎯

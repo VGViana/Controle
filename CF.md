@@ -322,39 +322,39 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* XI - <span style="color: #d79921">participação nos lucros</span>, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei; ^b0278fb
 
-	* XII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0847d33
+	* XII - <span style="color: #d79921">salário-família</span> pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0847d33
 
-	* XIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Vide Decreto-Lei n° 5.452, de 1943) ^544ec34
+	* XIII - duração do trabalho normal <span style="color:#83a598">não superior a oito horas diárias e quarenta e quatro semanais</span>, <span style="color:#fb4934">facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho;</span> (Vide Decreto-Lei n° 5.452, de 1943) ^544ec34
 
-	* XIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva; ^cced1f9
+	* XIV - jornada de <span style="color:#83a598">seis horas para o trabalho realizado em turnos ininterruptos de revezamento</span>, salvo <span style="color:#fb4934">negociação coletiva</span>; ^cced1f9
 
-	* XV - repouso semanal remunerado, preferencialmente aos domingos; ^13418a3
+	* XV - <span style="color: #d79921">repouso semanal remunerado</span>, preferencialmente aos domingos; ^13418a3
 
-	* XVI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1°) ^9cab680
+	* XVI - <span style="color: #d79921">remuneração do serviço extraordinário superior</span>, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1°) ^9cab680
 
-	* XVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; ^dec1e40
+	* XVII - gozo de <span style="color: #d79921">férias anuais remuneradas</span> com, pelo menos, um terço a mais do que o salário normal; ^dec1e40
 
-	* XVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias; ^30b33de
+	* XVIII - <span style="color: #d79921">licença à gestante</span>, sem prejuízo do emprego e do salário, com a duração de <span style="color:#b8bb26">cento e vinte dias</span>; ^30b33de
 
-	* XIX - licença-paternidade, nos termos fixados em lei; ^c6fbc10
+	* XIX - <span style="color: #d79921">licença-paternidade</span>, nos termos fixados em lei; ^c6fbc10
 
 	* XX - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei; ^269e85b
 
-	* XXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; ^24a4f6b
+	* XXI - <span style="color: #d79921">aviso prévio</span> proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; ^24a4f6b
 
 	* XXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança; ^be2a168
 
-	* XXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei; ^a134df9
+	* XXIII - adicional de remuneração para as atividades <span style="color: #d79921">penosas, insalubres ou perigosas</span>, na forma da lei; ^a134df9
 
-	* XXIV - aposentadoria; ^d2b3dc9
+	* XXIV - <span style="color: #d79921">aposentadoria;</span> ^d2b3dc9
 
-	* XXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^7444b20
+	* XXV - assistência gratuita aos filhos e dependentes desde o <span style="color:#b8bb26">nascimento até 5 (cinco) anos de idade em creches e pré-escolas</span>; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^7444b20
 
 	* XXVI - reconhecimento das convenções e acordos coletivos de trabalho; ^1bf7257
 
-	* XXVII - proteção em face da automação, na forma da lei; ^02079b3
+	* XXVII - <span style="color: #d79921">proteção em face da automação</span>, na forma da lei; ^02079b3
 
-	* XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa; ^1f0f98b
+	* XXVIII - <span style="color:#83a598">seguro contra acidentes de trabalho, a cargo do empregador</span>, <span style="color:#fb4934">sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa</span>; ^1f0f98b
 
 	* XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional n° 28, de 2000) ^bee76d7
 
@@ -368,41 +368,41 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos; ^6c135de
 
-	* XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^907361a
+	* XXXIII - <span style="color:#83a598">proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito</span> e de <span style="color:#83a598">qualquer trabalho a menores de dezesseis anos,</span> <span style="color:#fb4934">salvo na condição de aprendiz, a partir de quatorze anos</span>; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^907361a
 
 	* XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso ^dd2c4a2
 
-	* Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos [[#^d137e98|IV]], [[#^d255ee9|VI]], [[#^a29bb55|VII]], [[#^b7430d7|VIII]], [[#^755091e|X]], [[#^544ec34|XIII]], [[#^13418a3|XV]], [[#^9cab680|XVI]], [[#^dec1e40|XVII]], [[#^30b33de|XVIII]], [[#^c6fbc10|XIX]], [[#^24a4f6b|XXI]], [[#^be2a168|XXII]], [[#^d2b3dc9|XXIV]], [[#^1bf7257|XXVI]], [[#^13574f6|XXX]], [[#^3307df6|XXXI]] e [[#^907361a|XXXIII]] e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos [[#^fe73bea|I]], [[#^a335086|II]], [[#^bff636c|III]], [[#^3f6af15|IX]], [[#^0847d33|XII]], [[#^7444b20|XXV]] e [[#^1f0f98b|XXVIII]], bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional n° 72, de 2013) ^4179389
+	* Parágrafo único. São assegurados à categoria dos <span style="color:#83a598">trabalhadores domésticos</span> os direitos previstos nos incisos [[#^d137e98|IV]], [[#^d255ee9|VI]], [[#^a29bb55|VII]], [[#^b7430d7|VIII]], [[#^755091e|X]], [[#^544ec34|XIII]], [[#^13418a3|XV]], [[#^9cab680|XVI]], [[#^dec1e40|XVII]], [[#^30b33de|XVIII]], [[#^c6fbc10|XIX]], [[#^24a4f6b|XXI]], [[#^be2a168|XXII]], [[#^d2b3dc9|XXIV]], [[#^1bf7257|XXVI]], [[#^13574f6|XXX]], [[#^3307df6|XXXI]] e [[#^907361a|XXXIII]] e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos [[#^fe73bea|I]], [[#^a335086|II]], [[#^bff636c|III]], [[#^3f6af15|IX]], [[#^0847d33|XII]], [[#^7444b20|XXV]] e [[#^1f0f98b|XXVIII]], bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional n° 72, de 2013) ^4179389
 
 * Art. 8° É livre a associação profissional ou sindical, observado o seguinte: ^4778042
 
-	* I - a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical; ^11fb825
+	* I - a <span style="color:#83a598">lei não poderá exigir autorização do Estado para a fundação de sindicato</span>, <span style="color:#fb4934">ressalvado o registro no órgão competente</span>, <span style="color:#fe8019">vedadas ao Poder Público a interferência e a intervenção na organização sindical</span>; ^11fb825
 
-	* II - é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município; ^e6ca070
+	* II - é <span style="color:#fe8019">vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial,</span> que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município; ^e6ca070
 
-	* III - ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas; ^1e49026
+	* III - ao sindicato cabe a <span style="color: #d79921">defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas;</span> ^1e49026
 
-	* IV - a assembléia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, independentemente da contribuição prevista em lei; ^2986c80
+	* IV - a <span style="color:#d3869b">assembléia geral</span> fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do <span style="color: #d79921">sistema confederativo</span> da representação sindical respectiva, independentemente da contribuição prevista em lei; ^2986c80
 
 	* V - ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato; ^fc379f8
 
-	* VI - é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho; ^7f4991b
+	* VI - <span style="color:#83a598">é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho</span>; ^7f4991b
 
 	* VII - o aposentado filiado tem direito a votar e ser votado nas organizações sindicais; ^d9c8279
 
-	* VIII - é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei. ^6c6cebc
+	* VIII - é <span style="color:#fe8019">vedada a dispensa do empregado sindicalizado</span> a partir do <span style="color:#b8bb26">registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato</span>, <span style="color:#fb4934">salvo se cometer falta grave nos termos da lei</span>. ^6c6cebc
 
 	* Parágrafo único. As disposições deste artigo aplicam-se à organização de sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei estabelecer. ^4240cac
 
 * Art. 9° É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender. ^906184d
 
-	* § 1° A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade. ^e49bd0f
+	* § 1° <span style="color:#83a598">A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade.</span> ^e49bd0f
 
 	* § 2° Os abusos cometidos sujeitam os responsáveis às penas da lei. ^b12d23e
 
 * Art. 10. É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação. ^68b4123
 
-* Art. 11. Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. ^04140f2
+* Art. 11. <span style="color: #d79921">Nas empresas de mais de duzentos empregados,</span> é assegurada a eleição de um <span style="color: #d79921">representante</span> destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. ^04140f2
 
 ## 2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)|Resumo]]
