@@ -60,52 +60,51 @@ Toda relação jurídica entre dois sujeitos tem por objeto um bem sobre o qual 
 **Aplicação prática da distinção entre Imóveis e Móveis:**
 
 **A) Forma de aquisição da propriedade**
-
-- -  **Tradição** para<u> móveis</u>; e
-    -  **Registro** para os <u>imóveis</u>
+- **Tradição** para<u> móveis</u>; e
+-  **Registro** para os <u>imóveis</u>
 
 **B) Outorga UXÓRIA para bens imóveis**
 
-- - Necessidade de outorga uxória ou marital em casos de bens imóveis (sendo dispensada tal providência se for bem móvel)
+- Necessidade de outorga uxória ou marital em casos de bens imóveis (sendo dispensada tal providência se for bem móvel)
 
 **C) Usucapião**
 
-- - Prazos de usucapião (geralmente maiores para os bens imóveis) e os direitos reais (como regra hipoteca para imóveis e penhor para os móveis). 
+- Prazos de usucapião (geralmente maiores para os bens imóveis) e os direitos reais (como regra hipoteca para imóveis e penhor para os móveis). 
 
 **>> Navios e Aeronaves: fisicamente são bens móveis,** mas possuem uma disciplina jurídica como se imóveis fossem.
 
 ### **3.1.2. QUANTO À FUNGIBILIDADE**
 
-- - **Infungíveis:** não podem ser substituídos por outros do mesmo gênero, qualidade e quantidade (ex.:um apartamento, um veículo, um quadro famoso)_. Os imóveis só podem ser infungíveis._
-    - **Fungíveis**: podem ser substituídos por outros do mesmo gênero, qualidade e quantidade (ex.: gêneros alimentícios, dinheiro, etc.). 
+- **Infungíveis:** não podem ser substituídos por outros do mesmo gênero, qualidade e quantidade (ex.:um apartamento, um veículo, um quadro famoso)_. Os imóveis só podem ser infungíveis._
+- **Fungíveis**: podem ser substituídos por outros do mesmo gênero, qualidade e quantidade (ex.: gêneros alimentícios, dinheiro, etc.). 
 
 ### **3.1.3. QUANTO À CONSUNTIBILIDADE (possibilidade de consumo)**
 
-- - **Inconsumíveis:** proporcionam reiterados usos, permitindo que se retire toda a sua utilidade, sem atingir sua integridade (ex.: imóveis, veículos, roupas, livros, etc.).
-    - **Consumíveis:** são bens móveis, cujo uso importa na destruição imediata da própria coisa (consumíveis de fato); admitem apenas um uso (gêneros alimentícios, bebidas, dinheiro, etc.).
+- **Inconsumíveis:** proporcionam reiterados usos, permitindo que se retire toda a sua utilidade, sem atingir sua integridade (ex.: imóveis, veículos, roupas, livros, etc.).
+- **Consumíveis:** são bens móveis, cujo uso importa na destruição imediata da própria coisa (consumíveis de fato); admitem apenas um uso (gêneros alimentícios, bebidas, dinheiro, etc.).
 
 >> Há **bens que são consumíveis conforme a destinação que o homem lhe dá** (consumíveis de direito): os livros, em princípio, são bens inconsumíveis, pois permitem usos reiterados. Mas expostos numa livraria são considerados como consumíveis, pois a destinação é a venda.
 
 👉 Nota: O caso do vinho especial gravado com cláusula de inalienabilidade:
 
-- - - Sob o ponto de vista fático esse bem é consumível, pois se trata de um bem móvel, cujo uso normal importa na destruição imediata da coisa. No entanto, como foi declarado inalienável por testamento, tornou-se inconsumível sob o ponto de vista jurídico, pois aqui o que se leva em consideração é a possibilidade de alienação do bem. No caso o bem (por incrível que pareça) é ao mesmo tempo consumível e inconsumível. 
+- Sob o ponto de vista fático esse bem é consumível, pois se trata de um bem móvel, cujo uso normal importa na destruição imediata da coisa. No entanto, como foi declarado inalienável por testamento, tornou-se inconsumível sob o ponto de vista jurídico, pois aqui o que se leva em consideração é a possibilidade de alienação do bem. No caso o bem (por incrível que pareça) é ao mesmo tempo consumível e inconsumível. 
 
 ### **3.1.4. QUANTO À DIVISIBILIDADE**
 
-- - **Divisíveis:** podem ser fracionados em porções reais e distintas, formando cada qual um todo perfeito, sem alteração de sua substância, diminuição considerável de valor ou prejuízo do uso a que se destinam.
-    - **Indivisíveis:** não podem ser fracionados em porções, pois deixariam de formar um todo perfeito. A indivisibilidade pode ser:
-        - Por natureza (um cavalo),
-        - Por determinação legal (herança, hipoteca, módulo rural, lotes urbanos) ou
-        - Pela vontade das partes (contrato).
+- **Divisíveis:** podem ser fracionados em porções reais e distintas, formando cada qual um todo perfeito, sem alteração de sua substância, diminuição considerável de valor ou prejuízo do uso a que se destinam.
+- **Indivisíveis:** não podem ser fracionados em porções, pois deixariam de formar um todo perfeito. A indivisibilidade pode ser:
+	- Por natureza (um cavalo),
+	- Por determinação legal (herança, hipoteca, módulo rural, lotes urbanos) ou
+	- Pela vontade das partes (contrato).
 
 <mark style="background:rgba(240, 200, 0, 0.2)">**🤓 STJ - desde a abertura da sucessão, a herança incorpora-se ao patrimônio do herdeiro, como bem imóvel indivisível.**</mark> 
 
 ### **3.1.5. QUANTO À INDIVIDUALIDADE**
 
-- - **Singulares:** são os que, embora reunidos, se consideram de per si, independentemente dos demais.
-    - **Coletivos (ou universais):** são as coisas que se encerram agregadas em um todo.
-    - **Universalidade de fato:** pluralidade de bens singulares, corpóreos e homogêneos, que, pertinentes à mesma pessoa, tenham destinação unitária pela vontade humana (Estabelecimento Comercial, biblioteca, pinacoteca, rebanho, etc.). Cada um dos bens pode se objeto de relação jurídica própria.
-    - **Universalidade de direito:** pluralidade de bens singulares, corpóreos, dotadas de valor econômico, ligadas pela norma jurídica (patrimônio, herança, massa falida, etc.). 
+- **Singulares:** são os que, embora reunidos, se consideram de per si, independentemente dos demais.
+- **Coletivos (ou universais):** são as coisas que se encerram agregadas em um todo.
+	- **Universalidade de fato:** pluralidade de bens singulares, corpóreos e homogêneos, que, pertinentes à mesma pessoa, tenham destinação unitária pela vontade humana (Estabelecimento Comercial, biblioteca, pinacoteca, rebanho, etc.). Cada um dos bens pode se objeto de relação jurídica própria.
+	- **Universalidade de direito:** pluralidade de bens singulares, corpóreos, dotadas de valor econômico, ligadas pela norma jurídica (patrimônio, herança, massa falida, etc.). 
 
 ## **3.2. BENS RECIPROCAMENTE CONSIDERADOS (arts. 92/97, CC)**
 
@@ -120,16 +119,22 @@ b) proprietário do principal também é proprietário do acessório;
 
 c) a natureza do acessório é a mesma do principal. 
 
-### **3.2.1. Frutos:** são as utilidades que a coisa principal produz periodicamente; nascem e renascem da coisa e sua percepção mantém intacta a substância do bem que as gera (frutas, aluguéis, etc.).
+### **3.2.1. Frutos:** 
+
+- São as utilidades que a coisa principal produz periodicamente; nascem e renascem da coisa e sua percepção mantém intacta a substância do bem que as gera (frutas, aluguéis, etc.).
 
 - **Os Frutos são classificados como:**
     - Percebidos – os já colhidos.
     - Percipiendos - os que embora maduros ainda não foram colhidos.
     - Pendentes – os que ainda não estão maduros. 
 
-### **3.2.2. Produtos:** são as utilidades que se retiram da coisa, alterando a substância da coisa, com a diminuição da quantidade até o seu esgotamento.
+### **3.2.2. Produtos:** 
 
-### **3.2.3. Pertenças:** são os bens que, **não constituindo partes integrantes** (como os frutos, produtos e benfeitorias), se destinam, de modo duradouro, ao uso, ao serviço ou ao aformoseamento de outro.
+- São as utilidades que se retiram da coisa, alterando a substância da coisa, com a diminuição da quantidade até o seu esgotamento.
+
+### **3.2.3. Pertenças:**
+
+- são os bens que, **não constituindo partes integrantes** (como os frutos, produtos e benfeitorias), se destinam, de modo duradouro, ao uso, ao serviço ou ao aformoseamento de outro.
 
 - Ex**.:** acessórios de um veículo, ornamentos de uma residência, máquinas (trator) para exploração da propriedade agrícola, etc. Apesar de serem acessórios, mantém sua individualidade (ou seja, em relação a elas não se aplica a regra de que o acessório segue o principal). 
 
