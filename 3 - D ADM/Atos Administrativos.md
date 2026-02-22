@@ -265,16 +265,16 @@
 				- considerados válidos, sanados antes da arguição.  
                               
                             
-- **6.2 <span style="color:#83a598">De finalidade</span>:**
-    - - **<span style="color:#83a598">Desvio de poder ou de finalidade:</span>**
+## **6.2 <span style="color:#83a598">De finalidade</span>:**
+- **<span style="color:#83a598">Desvio de poder ou de finalidade:</span>**
 		- Finalidade distinta do interesse público;
 		- Finalidade específica diferente da prevista em lei;
 		- Vício **<span style="color:#fe8019">insanável</span>**;
 		- Ato **<span style="color:#fe8019">nulo</span>**.  
                   
                 
-- **<span style="color:#fb4934">6.3 De forma:</span>**
-    - - **<span style="color:#fb4934">Forma prevista em lei não** foi **observada</span>**;
+## **<span style="color:#fb4934">6.3 De forma:</span>**
+- **<span style="color:#fb4934">Forma prevista em lei não** foi **observada</span>**;
 		- Formalidade ou procedimento para a tomada de decisão **<span style="color:#fb4934">não seguiu o rito definido em lei</span>**;
 		- **<span style="color:#b8bb26">Sanável</span>**, em alguns casos, **<span style="color:#b8bb26">por convalidação</span>**:
                 - Exemplo: o interessado em um processo administrativo não é notificado nos termos definidos em lei, mas comparece voluntariamente na data marcada.
@@ -282,61 +282,62 @@
 
 _**<span style="color:#fe8019">Se liga</span>!**_   A **<span style="color:#fb4934">motivação compõe a forma</span>** do ato! Sua **<span style="color:#fb4934">ausência</span>** quando for obrigatória acarretará a <span style="color:#fb4934">**nulidade**</span> do ato **<span style="color:#fb4934">por vício de forma</span>.**
 
--j**De motivo:**
+- <span style="color:#83a598">**De motivo:**
         - **Falso**;
         - **Inexistente**;
         - **Juridicamente inadequado**/**ilegítimo**;
-        - **Insanável**.
+ </span>       - **<span style="color:#fe8019">Insanável</span>**.
 
-_**Bizu!**_  **ConForma convalida**
+_**<span style="color: #d79921">Bizu</span>!**_  **<span style="color:#d3869b">Con</span><span style="color:#fb4934">Forma</span> <span style="color:#83a598">convalida</span>**
 
--  **De objeto:**
+-  **<span style="color:#b8bb26">De objeto:**
     - **Proibido por lei** ou com conteúdo **não previsto em lei**;
     - **Diverso do previsto na lei** para a situação;
     - **Impossível**;
     - **Imoral**;
-    - **Incerto** em relação aos destinatários, às coisas, ao tempo, ao lugar.   
+    - **Incerto**</span> em relação aos destinatários, às coisas, ao tempo, ao lugar.   
           
         
-- **7. Mérito do ato administrativo:**
-    - - **Atos vinculados:**
-            - **Sem margem** de liberdade de **decisão**;
-            - **Lei define todos os elementos de formação** do ato administrativo;
-            - **Não existe mérito** ou juízo de **conveniência e oportunidade**.
+# **7. Mérito do ato administrativo:**
+- <span style="color:#d3869b"> **Atos vinculados:**</span>
+            - **<span style="color:#fe8019">Sem margem*</span>* de liberdade de **decisão**;
+            - **Lei define todos os <span style="color:#d3869b">elementos de formação</span>** do ato administrativo;
+            - **<span style="color:#fe8019">Não existe mérito</span>** ou juízo de **<span style="color:#fe8019">conveniência e oportunidade</span>**.
 
-- - **Atos discricionários:**
-        - **Margem de liberdade** para o agente público quanto ao:  
-            - **Motivo**:  
-                - **lei não define** os **exatos motivos** de edição do ato;
+- **<span style="color:#83a598">Atos discricionários:</span>**
+        - **<span style="color:#83a598">Margem de liberdade*</span>* para o agente público quanto ao:  
+            - **<span style="color:#83a598">Motivo</span>**:  
+                - **<span style="color:#fe8019">lei não define</span>** os **exatos motivos** de edição do ato;
                 - lei emprega **conceitos jurídicos indeterminados** (não possuem exatidão quanto ao seu sentido).
-            - **Objeto**:  
+            - **<span style="color:#b8bb26">Objeto</span>**:  
                 - lei definir **mais do que um conteúdo legalmente válido**:
                 - **distintas soluções;**
                 - **limites máximos e mínimos** para o ato.
-            - **Conveniência e oportunidade.**
+            - **<span style="color: #d79921">Conveniência e oportunidade</span>.**
 
-**_Se liga!_**   Há **entendimento doutrinário** que:
+**<span style="color:#fe8019">_Se liga!</span>_**   Há **<span style="color:#b8bb26">entendimento doutrinário</span>** que:
 
-- **Forma** também poderá ser **discricionária** quando a **lei:**  
-    - **Não definir a forma** a ser adotada;
-    - Mencionar **mais do que uma forma admitida**.
-- **Finalidade** geral (interesse público tem certa discricionaridade):  
-    - A própria definição “interesse público” depende de **interpretação** e avaliação da autoridade pública.
+- **<span style="color:#fb4934">Forma</span>** também poderá ser **discricionária** quando a **lei:**  
+    - **<span style="color:#fe8019">Não definir a forma</span>** a ser adotada;
+    - Mencionar **<span style="color:#fe8019">mais do que uma forma admitida</span>**.
+- **<span style="color:#83a598">Finalidade</span>** geral (interesse público tem certa discricionaridade):  
+    - A própria definição “interesse público” depende de <span style="color:#83a598">**interpretação**</span> e avaliação da autoridade pública.
 
-**Mas as provas costumam adotar a cobrança tradicional em que somente o motivo e o objeto são considerados discricionários.**
+<span style="color:#fe8019">**Mas as provas costumam adotar a cobrança tradicional em que somente o motivo e o objeto são considerados discricionários.**
+</span>
 
   
 **Controle de mérito:**
 
-**Poder Judiciário:**
+<span style="color:#83a598">**Poder Judiciário:</span>**
 
 - Realiza o **controle de legalidade** e, identificando o ato ilegal, poderá anulá-lo;
 - Não realiza controle de mérito, de tal forma que não poderá, por exemplo, revogar um ato administrativo.
 
-**Controle da razoabilidade e da proporcionalidade**:
+**<span style="color: #d79921">Controle da razoabilidade e da proporcionalidade**:</span>
 
 - **Limitam a discricionariedade** administrativa;
-- **Não há controle de mérito**;
+- **<span style="color:#fe8019">Não há controle de mérito</span>**;
 - **Abuso** da autoridade (**ilegalidade**);
 - Juízo quanto à **juridicidade ou legitimidade** do ato administrativo;
 - **Judiciário** ou a própria **administração**.
