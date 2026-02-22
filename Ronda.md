@@ -44,7 +44,7 @@
  
 - CIA COM 347
 
-- SPOL 
+- SPOL 332
 
 - RPOL
 
@@ -52,7 +52,7 @@
 - posto 045998
 - ccom 
 - pol1 0001333
-- pol2 
+- pol2 0001341
 - pol4 
 - cfs 
 - BC 
