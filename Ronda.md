@@ -40,9 +40,9 @@
 
 - LF 321
 
-- SSA 31i
+- SSA 318
  
-- CIA COM 
+- CIA COM 347
 
 - SPOL 
 
