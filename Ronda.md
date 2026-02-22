@@ -40,7 +40,7 @@
 
 - LF 321
 
-- SSA 
+- SSA 31i
  
 - CIA COM 
 
