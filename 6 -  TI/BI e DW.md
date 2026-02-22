@@ -85,3 +85,9 @@ Existem duas abordagens principais no desenvolvimento de data warehouses:
 | **Frequência** | Executados **continuamente**.                                       | Executados com **pouca frequência**.                      |
 | **Computação** | Exigem **baixo** poder de computação.                               | Exigem **alto** poder de computação por um curto período. |
 | **Conexão**    | Precisam de conexões de **rede confiáveis** e de **baixa latência** | Executadas geralmente **fora dos horários de pico**.      |
+
+## **4.2 Ingestão de dados** 
+
+Ingestão de dados refere-se ao processo de *<span style="color:#83a598">coleta e importação</span>* de dados brutos de diversas fontes *<span style="color:#83a598">para um sistema de armazenamento centralizado</span>*, como um data warehouse.
+
+A eficiência e a qualidade desse processo são fundamentais para garantir a *<u><span style="color:#83a598">confiabilidade</span></u>* das informações e o sucesso das análises de dados. Esses passos ajudam a *<u><span style="color:#83a598">assegurar a integridade e a utilidade</span></u>* dos dados ingeridos.
