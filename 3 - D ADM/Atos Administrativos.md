@@ -7,9 +7,6 @@
 - Predomínio do **<span style="color:#d3869b">direito público</span>**;
 - Manifestação/declaração **<span style="color:#d3869b">unilateral</span>**;
 - **<span style="color:#d3869b">Controle</span>** do poder judiciário.  
-      
-    
-
 # **1. Atos da administração:**
 
 - Mais amplo;
