@@ -220,7 +220,7 @@
 
 <span style="color:#83a598">**_Não confunda!_** </span>
 
-- **<span style="color:#fe8019">Objeto*</span>*: **<span style="color:#83a598">fim imediato</span>** (direto) do ato;
+- **<span style="color:#fe8019">Objeto*</span>*:  **<span style="color:#83a598">fim imediato</span> (direto) do ato;
 - <span style="color:#fe8019">**Finalidade*</span>*:  **<span style="color:#83a598">resultado desejado</span>**, **<span style="color:#83a598">fim mediato</span>** (indireto).
 
 **💡<span style="color:#fb4934">_Se liga!_*</span>*   Segundo **Maria S. Z. Di Pietro:**
@@ -236,3 +236,4 @@
         - **resolutiva:** **cessa** a produção dos **efeitos jurídicos** do ato **<span style="color:#d3869b">após o</span>** **<span style="color:#d3869b">adimplemento da condição.</span>**
     - **<span style="color:#83a598">encargo/modo</span>:** obrigação ou ônus para que o destinatário usufrua do benefício do ato;
     - **<span style="color:#b8bb26">somente pode ocorrer em atos discricionários.</span>**
+
