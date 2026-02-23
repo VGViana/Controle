@@ -134,11 +134,13 @@ c) a natureza do acessório é a mesma do principal. 
 
 ### **3.2.3. Pertenças:**
 
-- são os bens que, **não constituindo partes integrantes** (como os frutos, produtos e benfeitorias), se destinam, de modo duradouro, ao uso, ao serviço ou ao aformoseamento de outro.
+- São os bens que, **não constituindo partes integrantes** (como os frutos, produtos e benfeitorias), se destinam, de modo duradouro, ao uso, ao serviço ou ao aformoseamento de outro.
 
 - Ex**.:** acessórios de um veículo, ornamentos de uma residência, máquinas (trator) para exploração da propriedade agrícola, etc. Apesar de serem acessórios, mantém sua individualidade (ou seja, em relação a elas não se aplica a regra de que o acessório segue o principal). 
 
-### **3.2.4. Benfeitorias:** são acréscimos, melhoramentos ou despesas que são feitas em um bem já existente (móvel ou imóvel), para conservá-lo, melhorá-lo ou embelezá-lo.
+### **3.2.4. Benfeitorias:** 
+
+- São acréscimos, melhoramentos ou despesas que são feitas em um bem já existente (móvel ou imóvel), para conservá-lo, melhorá-lo ou embelezá-lo.
 
 - **Espécies:**
     - **a) Necessárias** (realizada para a conservação do bem: alicerce da casa),
@@ -148,17 +150,17 @@ c) a natureza do acessório é a mesma do principal. 
 #### **3.2.4.1. Indenização das Benfeitorias:**
 
 - **I - possuidor de boa-fé:**
-    - - direito à indenização das benfeitorias necessárias e úteis.
-    - - Caso elas não sejam indenizadas, o possuidor tem o direito de retenção pelo valor das mesmas.
-    - - Já as benfeitorias voluptuárias não serão indenizadas, mas elas poderão ser levantadas (art. 1.219, CC).
-    - -  O valor da indenização deve corresponder ao valor atual.
+    - direito à indenização das benfeitorias necessárias e úteis.
+    - Caso elas não sejam indenizadas, o possuidor tem o direito de retenção pelo valor das mesmas.
+    - Já as benfeitorias voluptuárias não serão indenizadas, mas elas poderão ser levantadas (art. 1.219, CC).
+    - O valor da indenização deve corresponder ao valor atual.
 - **II -  possuidor de má-fé:**
-    - - São ressarcidas somente as benfeitorias necessárias.
-    - - Não há indenização pelas benfeitorias úteis e voluptuárias.
-    - - Não pode levantar nenhuma das benfeitorias realizadas e não tem direito de retenção sobre nenhuma delas (art. 1.220, CC).
-    - - O proprietário poderá escolher entre o valor atual, e o valor da época em que foi realizada. 
+    - São ressarcidas somente as benfeitorias necessárias.
+    - Não há indenização pelas benfeitorias úteis e voluptuárias.
+    - Não pode levantar nenhuma das benfeitorias realizadas e não tem direito de retenção sobre nenhuma delas (art. 1.220, CC).
+    - O proprietário poderá escolher entre o valor atual, e o valor da época em que foi realizada. 
 
-<mark style="background:rgba(240, 200, 0, 0.2)">***Deixam de ser bens acessórios e passam a ser principais**: a pintura em relação à tela, a escultura em relação à matéria-prima, a escritura ou qualquer trabalho gráfico em relação à matéria-prima, qualquer trabalho gráfico em relação ao papel utilizado.</mark>
+<mark style="background:rgba(240, 200, 0, 0.2)">**Deixam de ser bens acessórios e passam a ser principais**: a pintura em relação à tela, a escultura em relação à matéria-prima, a escritura ou qualquer trabalho gráfico em relação à matéria-prima, qualquer trabalho gráfico em relação ao papel utilizado.</mark>
 
 ## **3.3. BENS CONSIDERADOS EM RELAÇÃO AO TITULAR DO DOMÍNIO (arts. 98/103, CC)**
 
@@ -176,7 +178,7 @@ c) a natureza do acessório é a mesma do principal. 
 - Impenhoráveis (não recai execução judicial ou penhora); 
 - Imprescritíveis (não podem ser objeto de usucapião, qualquer que seja a sua natureza: art. 191, parágrafo único, CF/88, art. 102, CC e Súmula 340 STF - Desde a vigência do Código Civil, os bens dominicais, como os demais bens públicos, não podem ser adquiridos por usucapião. 
 
-<mark style="background:#a3be8c">*os bens públicos de uso comum do povo e os de uso especial **são inalienáveis, enquanto conservarem a sua qualificação** (art. 100, CC).</mark>
+<mark style="background:#a3be8c">**os bens públicos de uso comum do povo e os de uso especial **são inalienáveis, enquanto conservarem a sua qualificação (art. 100, CC).</mark>
 
 <mark style="background:#a3be8c">>> Os bens públicos dominicais **podem ser alienados, <span style="color:#fb4934">_observadas as exigências da lei_</span> (**art. 101, CC).</mark>
 
@@ -206,11 +208,11 @@ Já pela desafetação permite-se que um bem de uso comum do povo ou de uso espe
 
 **Bem de família alugado:**
 
-<span style="color:#fe8019">- **Súmula 486 STJ: É impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família.**</span>
+<span style="color:#fe8019">**Súmula 486 STJ: É impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família.**</span>
 
 **Vaga de garagem não é bem de família**
 
-<span style="color:#fe8019">- **Súmula 449 do STJ, “A vaga de garagem que possui matrícula própria no registro de imóveis não constitui bem de família para efeito de penhora”.** </span>
+<span style="color:#fe8019">**Súmula 449 do STJ, “A vaga de garagem que possui matrícula própria no registro de imóveis não constitui bem de família para efeito de penhora”.** </span>
 
 **Terreno não edificado <span style="color:#fb4934"><mark style="background:rgba(240, 107, 5, 0.2)">não é bem de família**</mark></span>
 
