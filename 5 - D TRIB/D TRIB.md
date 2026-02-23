@@ -9,7 +9,8 @@
 
 ### 1. SISTEMA TRIBUTÁRIO NACIONAL
 - [**Princípios e Imunidades**](01.%20Princípios%20e%20Imunidades.md) - Limitações constitucionais ao poder de tributar.
-- [[
+- [[5. Obrigações]]
+- [[6. Responsabilidades]]
 ### 2. O CRÉDITO TRIBUTÁRIO
 - [**7. Crédito Tributário**](./7.%20Crédito%20Tributário.md) - Do fato gerador à cobrança.
 - [**8. Suspensão da Exigibilidade**](./8.%20Suspensão%20da%20Exigibilidade%20do%20Crédito.md) - Hipóteses que impedem o fisco de cobrar.
