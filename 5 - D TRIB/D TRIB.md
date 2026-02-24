@@ -21,7 +21,7 @@
 
 ## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)
 
-- 📒 **Ponte para [CONTABILIDADE](../0%20-%20CONT/CONT.md):** Ajuste do lucro contábil para o lucro tributável (LALUR).
+- 📒 **Ponte para [CONTABILIDADE](CONT.md):** Ajuste do lucro contábil para o lucro tributável (LALUR).
 - 🏛️ **Ponte para [DIREITO ADM](../3%20-%20D%20ADM/D%20ADM.md):** Atos administrativos vinculados ao lançamento tributário.
 - 🗳️ **Ponte para [DIREITO CONST](../2%20-%20D%20CONST/D%20CONST.md):** O STN dentro da Constituição Federal de 88.
 

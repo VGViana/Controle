@@ -19,7 +19,7 @@
 ## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)
 
 - 🔍 **Ponte para [AUDITORIA](../4%20-%20AUD/AUD.md):** Auditoria de sistemas e validação de bases de dados fiscais.
-- 📒 **Ponte para [CONTABILIDADE](../0%20-%20CONT/CONT.md):** O SPED e a escrituração digital contábil.
+- 📒 **Ponte para [CONTABILIDADE](CONT.md):** O SPED e a escrituração digital contábil.
 - 🏛️ **Ponte para [DIREITO ADM](../3%20-%20D%20ADM/D%20ADM.md):** Proteção de dados (LGPD) e transparência pública.
 
 ---

@@ -21,7 +21,7 @@ Este vault opera sob a arquitetura de **"Constituição Naveável"**:
 
 Abaixo estão os portais para as principais áreas de estudo. Clique nos links para acessar os Mapas de Conteúdo (MOCs) de cada disciplina (Links compatíveis com GitHub e Obsidian):
 
-### 📒 [0 - CONT (CONTABILIDADE)](./0%20-%20CONT/CONT.md)
+### 📒 [0 - CONT (CONTABILIDADE)](CONT.md)
 *Foco: CPC 00, Lei 6404 e Princípios Contábeis.*
 - **Resumo:** Estudo da mensuração de ativos, passivos e estruturação de relatórios financeiros. Inclui esquemas visuais de DRE e Equivalentes de Caixa.
 
