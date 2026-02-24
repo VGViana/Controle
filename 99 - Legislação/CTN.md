@@ -521,7 +521,11 @@ CÓDIGO TRIBUTÁRIO NACIONAL (LEI Nº 5.172/1966)
 * Art. 170. A lei pode, nas condições e sob as garantias que estipular, ou cuja estipulação em cada caso atribuir à autoridade administrativa, autorizar a compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda pública. ^ctn-art170
 * Art. 171. A lei pode facultar, nas condições que estabeleça, aos sujeitos ativo e passivo da obrigação tributária celebrar transação que, mediante concessões mútuas, importe em determinação de litígio e conseqüente extinção de crédito tributário. ^ctn-art171
 * Art. 172. A lei pode autorizar a autoridade administrativa a conceder, por despacho fundamentado, remissão total ou parcial do crédito tributário, atendendo: ^ctn-art172
-	- I - à situação econômica do sujeito passivo
+	- I - à situação econômica do sujeito passivo; 
+	- II - ao erro ou ignorÇancia excusáveis do sujeito passivo, quanto a matéria de fato
+	- III - à diminuta imporância do crédito tributário;
+	- IV - a considerações de equidade, em relação com as características pessoais ou materiais do caso;
+	- V - a condições peculiares a determinada região do território da entidade tributante.
 * Art. 173. O direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados: ^ctn-art173
 	* I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado; ^ctn-i-art173
 	* II - da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado. ^ctn-ii-art173
