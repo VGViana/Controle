@@ -338,3 +338,161 @@ _**<span style="color: #d79921">Bizu</span>!**_  **<span style="color:#d3869b">
 - **Abuso** da autoridade (**ilegalidade**);
 - Juízo quanto à **juridicidade ou legitimidade** do ato administrativo;
 - **Judiciário** ou a própria **administração**.
+
+# **8. Classificação:**
+
+## **8.1 📌 Quanto aos destinatários:**
+
+- **<span style="color:#83a598">Gerais/normativos</span>:**   
+    - **<span style="color:#fb4934">Não possuem</span>** **<span style="color:#fb4934">destinatários determinados</span>**;
+    - **Generalidade e abstração**.
+- **<span style="color:#83a598">Individuais</span>:**  
+    - **Destinatários determináveis, certos**;
+    - **Caso concreto**.
+
+_**<span style="color:#fb4934">Se liga</span>!**_   Segundo **Maria Di Pietro, ato normativo:** 
+
+- **<span style="color:#fb4934">Não pode ser impugnado diretamente pela pessoa lesada na via judicial</span>**  (competência somente das **pessoas previstas no art. 103 da CF** para **propor inconstitucionalidade de ato normativo**);
+- **Precedência hierárquica** sobre o ato individual;
+- **<span style="color:#fb4934">Não pode ser impugnado por meio de recursos administrativos</span>**;
+- **<span style="color:#b8bb26">Sempre revogável</span>**;
+- **Ato individual** tem **<span style="color:#fb4934">limitações para revogação</span>** (exemplo:  **direitos subjetivos a favor do administrado**).
+
+## **8.2 Quanto à sua estrutura:**
+
+- **<span style="color:#d3869b">Concretos</span>**:
+    - dispõem de um **caso único e específico;** 
+    - **equivalem aos individuais.**
+- **<span style="color:#fb4934">Abstratos</span>**:
+    - disciplinam situações reiteradas, com **aplicações ilimitadas;**
+    - **correspondem aos atos gerais.**
+
+## **8.3 Quanto ao âmbito de aplicação:**
+
+- **<span style="color:#83a598">Internos</span>:**  
+    - efeitos no **interior da administração** pública (**órgãos e agentes**);
+    - em regra, não geram direitos adquiridos;
+    - revogáveis a qualquer tempo;
+    - exemplo: portaria, ordem de serviço interna, etc.
+- **<span style="color:#b8bb26">Externos</span>:**
+    - tratam de direitos, obrigações, negócios ou conduta perante a Administração;
+    - devem ser publicados;
+    - possuem efeitos jurídicos externos à repartição;
+    - atos que onerem o patrimônio público.
+
+## **8.4 Quanto às prerrogativas de:**
+
+- **<span style="color:#fe8019">Império</span>**: **coerção;**
+- **<span style="color:#83a598">Gestão</span>**: **horizontalidade;**
+- **<span style="color:#d3869b">Expediente</span>**: **rotina.**
+
+## **8.5 Quanto à liberdade de ação:**
+
+- Vinculados;
+- Discricionários
+
+## **8.6 Quanto à formação ou intervenção da vontade administrativa:**
+
+- **<span style="color:#83a598">Simples</span>**: **<span style="color:#b8bb26">manifestação de vontade</span>** de um **único órgão;**
+- **<span style="color:#83a598">Complexo</span>**:
+    - **<span style="color:#b8bb26">manifestação de vontade</span>** de **dois ou mais órgãos;**
+    - **<span style="color:#83a598">ATO ÚNICO</span>**
+- **<span style="color:#d3869b">Composto</span>**:   
+    - **<span style="color:#b8bb26">manifestação de vontade</span>** de um **único órgão;**
+    - **<span style="color:#d3869b">DOIS ATOS (principal e acessório)</span>**
+
+**<span style="color:#fb4934">_Se liga!</span>_**     <mark style="background:#fff88f">Jurisprudência</mark> 
+
+- Processos perante o TCU deve respeitar o **<span style="color:#83a598">direito ao contraditório e à ampla defesa*</span>* quando da decisão **puder resultar anulação ou revogação** de ato administrativo que beneficie o interessado, **<span style="color:#fb4934">salvo a apreciação da legalidade do ato de _concessão inicial_ de aposentadoria, reforma e pensão.</span>**
+
+_**⚠️<span style="color:#83a598">Importante saber:</span>**_
+
+- Concessão de **aposentadoria, reforma e pensão** é **<span style="color:#83a598">ato complexo</span>**:
+    - **<span style="color:#83a598">Manifestação*</span>* do **órgão do servidor** e do **Tribunal de Contas**;
+- **Tribunal de Contas**:  
+    - **<span style="color:#fb4934">Não precisa conceder contraditório</span>** caso indefira o registro;
+    - Tem o prazo de **<span style="color:#fe8019">cinco anos</span>** para apreciar a aposentadoria, sob pena de **deferimento tácito do registro**;
+    - Prazo **<span style="color:#fb4934">decadencial</span> <span style="color:#fe8019">de cinco anos</span>**, **a partir do deferimento do registro**, para **<span style="color:#fb4934">anular</span>** a aposentadoria;
+- **Após o registro**, o **ato está formado;**
+- **<span style="color:#fb4934">Desfazimento</span> dependerá**:   
+    - **<span style="color:#83a598">de contraditório</span>**; 
+    - **<span style="color:#83a598">da participação</span>** do **TCU** e do **órgão**.
+
+# **9. Quanto aos efeitos:**
+
+- **<span style="color:#d3869b">Constitutivo</span>**:
+    - <u>Cria</u> uma **nova situação jurídica** (direito ou obrigação);
+    - **Exemplos**: licenças, autorizações; sanções.
+- **<span style="color:#83a598">Modificativo</span>**:
+    - <u>Altera</u> uma **situação jurídica preexistente.**
+- **<span style="color:#fe8019">Extintivo/desconstitutivo</span>:** 
+    - <u>Encerra</u> uma **situação jurídica;**
+    - **Exemplos:** cassação, caducidade.
+- **<span style="color:#b8bb26">Declaratório</span>:**
+    - <u>Reconhece</u> uma **situação preexistente;**
+    - <u>Atesta</u> **fato/situação.**
+
+**_💡<span style="color:#fe8019">Se liga!</span>_**  
+
+**<mark style="background:#fff88f">Hely Lopes Meirelles</mark>:**
+
+- **<span style="color:#b8bb26">Alienativos</span>**:  <u>Transferência</u> de **bens**.
+- **<span style="color:#fb4934">Abdicativos</span>**: <u>Renúncia</u> de **direito** em caráter definitivo (irreversível, imodificável)
+
+ **<mark style="background:#a3be8c">José dos Santos Carvalho Filho e Maria Di Pietro</mark>**:
+
+- **<span style="color:#d3869b">Constitutivo</span>**:
+    - <u>Cria, modifica ou extingue</u> **direito ou situação;**
+- **<span style="color:#b8bb26">Declaratório</span>**: 
+    - <u>Reconhece</u> um **direito prévio**;
+- **<span style="color:#83a598">Enunciativo</span>**:
+    - <span style="color:#83a598">Indicam</span> **juízo de valor**;
+    - Dependem de outro ato decisório.
+
+# **10. Quanto à eficácia:**
+
+- **<span style="color:#83a598">Válido</span>**:
+    - Observa **todos os requisitos legais**;
+    - **Sem vícios.**
+- **<span style="color:#fe8019">Nulo</span>**:
+    - **Vício insanável;**
+    - Anulado pela **Administração** ou pelo **Judiciário.**
+- **<span style="color:#b8bb26">Anulável</span>**:
+    - Passível de **convalidação;**
+    - Anulado pela **Administração** ou pelo **Judiciário.**
+- **<span style="color: #d79921">Inexistente</span>:**
+    - Apenas **aparência** de **manifestação de vontade** da administração;
+    - **Sem aperfeiçoamento** do ato;
+    - **Usurpador** de função pública;
+    - **Sem efeitos**;
+    - Ausência de **responsabilidade civil do Estado;**
+    - Ausência de **prescrição e decadência.**
+- **Irregulares**:
+    - **Vícios materiais** **irrelevantes**;
+    - **Anulável.**
+
+**_Se liga!_   Caso a questão seja sobre classificação:**
+
+- **Atos “irregulares” = “vício material irrelevante”  
+    **
+
+**Demais casos:**
+
+- **Termo _"irregular_ "= "viciado, ilegal, inválido"**
+
+**11. Quanto à exequibilidade:**
+
+- **Perfeito**:   
+    - Ciclo de formação **completo**;
+    - Ato **pronto**.
+- **Imperfeito**:
+    - Ainda **em formação.**
+- **Eficaz**:
+    - Produz **efeitos**;
+    - **Exequíveis**.
+- **Pendente**:
+    - **Condição suspensiva**;
+    - **Termo.**
+- **Consumado**: 
+    - **Exaurido**;
+    - **Já produziu todos os efeitos.**
