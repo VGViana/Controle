@@ -1,6 +1,6 @@
 # Capítulo 1 - Conceitos
 
-## [|Princípios Contábeis
+## [[15. Princípios Contábeis|Princípios Contábeis]]
 
   Existem dois pilares principais, em forma de pricípios ou postulados, na contabilidade:
   - Princípio da Entidade: O patrimônio da entidade não se confunde com o do seu administrador; e
