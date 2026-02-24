@@ -480,23 +480,23 @@ CÓDIGO TRIBUTÁRIO NACIONAL (LEI Nº 5.172/1966)
 ### CAPÍTULO IV - Extinção do Crédito Tributário
 [[NavegaLei/CTN/MOC/Extinção|Resumo]]
 * Art. 156. Extinguem o crédito tributário: ^ctn-art156
-	* I - o pagamento; ^ctn-i-art156
-	* II - a compensação; ^ctn-ii-art156
-	* III - a transação; ^ctn-iii-art156
-	* IV - remissão; ^ctn-iv-art156
-	* V - a prescrição e a decadência; ^ctn-v-art156
-	* VI - a conversão de depósito em renda; ^ctn-vi-art156
+	* I - o <span style="color: #d79921">pagamento</span>; ^ctn-i-art156
+	* II - a <span style="color: #d79921">compensação</span>; ^ctn-ii-art156
+	* III - a <span style="color: #d79921">transação</span>; ^ctn-iii-art156
+	* IV - <span style="color: #d79921">remissão</span>; ^ctn-iv-art156
+	* V - a <span style="color:#b8bb26">prescrição e a decadência</span>; ^ctn-v-art156
+	* VI - a <span style="color:#83a598">conversão de depósito em renda</span>; ^ctn-vi-art156
 	* VII - o pagamento antecipado e a homologação do lançamento nos termos do disposto no [[#^ctn-art150|artigo 150]] e seus [[#^ctn-p1-art150|§§ 1º]] e [[#^ctn-p4-art150|4º]]; ^ctn-vii-art156
-	* VIII - a consignação em pagamento, nos termos do disposto no [[#^ctn-p2-art164|§ 2º do artigo 164]]; ^ctn-viii-art156
-	* IX - a decisão administrativa irreformável, assim entendida a definitiva na órbita administrativa, que não mais possa ser objeto de ação anulatória; ^ctn-ix-art156
-	* X - a decisão judicial passada em julgado; ^ctn-x-art156
-	* XI – a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei. ^ctn-xi-art156
+	* VIII - a <span style="color: #d79921">consignação em pagamento</span>, nos termos do disposto no [[#^ctn-p2-art164|§ 2º do artigo 164]]; ^ctn-viii-art156
+	* IX - a <span style="color:#fe8019">decisão administrativa irreformável</span>, assim entendida a definitiva na órbita administrativa, que não mais possa ser objeto de ação anulatória; ^ctn-ix-art156
+	* X - a <span style="color:#fe8019">decisão judicial passada em julgado</span>; ^ctn-x-art156
+	* XI – a <span style="color:#83a598">dação em pagamento em bens imóveis</span>, na forma e condições estabelecidas em lei. ^ctn-xi-art156
 * Art. 157. A imposição de penalidade não elide o pagamento integral do crédito tributário. ^ctn-art157
-* Art. 158. O pagamento de um crédito não importa em presunção de pagamento: ^ctn-art158
-	* I - de outros créditos referentes ao mesmo ou a outros tributos; ^ctn-i-art158
-	* II - de quotas parciais do mesmo crédito. ^ctn-ii-art158
-* Art. 159. Quando a legislação tributária não dispuser a respeito, o pagamento é efetuado na repartição competente do domicílio do sujeito passivo. ^ctn-art159
-* Art. 160. Quando a legislação tributária não fixar o tempo do pagamento, o vencimento do crédito ocorre trinta dias depois da data em que se considera notificado o sujeito passivo do lançamento. ^ctn-art160
+* Art. 158. O <span style="color:#fb4934">pagamento de um crédito não importa em presunção</span> de pagamento: ^ctn-art158
+	* I - de <span style="color:#fb4934">outros créditos referentes</span> ao mesmo ou a outros tributos; ^ctn-i-art158
+	* II - de <span style="color:#fb4934">quotas parciais do mesmo</span> crédito. ^ctn-ii-art158
+* Art. 159. Quando a legislação tributária não dispuser a respeito, o <span style="color:#83a598">pagamento é efetuado na repartição competente do domicílio</span> do sujeito passivo. ^ctn-art159
+* Art. 160. Quando a legislação tributária não fixar o tempo do pagamento, o <span style="color:#b8bb26">vencimento do crédito ocorre trinta dias depois da data em que se considera notificado</span> o sujeito passivo do lançamento. ^ctn-art160
 * Art. 161. O crédito não pago no vencimento é acrescido de juros de mora, seja qual for o motivo determinante da falta, sem prejuízo da imposição das penalidades cabíveis e da aplicação de quaisquer medidas de garantia previstas [[#^ctn-art1|nesta Lei]] ou em lei tributária. ^ctn-art161
 * Art. 162. O pagamento é efetuado: ^ctn-art162
 	* I - em moeda corrente, cheque ou vale postal; ^ctn-i-art162
@@ -514,7 +514,7 @@ CÓDIGO TRIBUTÁRIO NACIONAL (LEI Nº 5.172/1966)
 	* I - cobrança ou pagamento espontâneo de tributo indevido ou maior que o devido em face da legislação tributária aplicável, ou da natureza ou circunstâncias materiais do fato gerador efetivamente ocorrido; ^ctn-i-art165
 	* II - erro na edificação do sujeito passivo, na determinação da alíquota aplicável, no cálculo do montante do débito ou na elaboração ou conferência de qualquer documento relativo ao pagamento; ^ctn-ii-art165
 	* III - reforma, anulação, revogação ou rescisão de decisão condenatória. ^ctn-iii-art165
-* Art. 166. A restituição de tributos que comportem, por sua natureza, transferência do respectivo encargo financeiro somente será feita a quem prove haver assumido o referido encargo, ou, no caso de tê-lo transferido a terceiro, estar por este expressamente autorizado a recebê-la. ^ctn-art166
+* Art. 166. A restituição de tributos que comportem, por sua natureza, transferência do respectivo encargo financeiro somente será feita a quem prove <span style="color:#d3869b">haver assumido o referido encargo</span>, ou, no caso de <span style="color:#fe8019">tê-lo transferido a terceiro, estar por este expressamente autorizado a recebê-la</span>. ^ctn-art166
 * Art. 167. A restituição total ou parcial do tributo dá lugar à restituição, na mesma proporção, dos juros de mora e das penalidades pecuniárias, salvo as referentes a infrações de caráter formal não prejudicadas pela causa da restituição. ^ctn-art167
 * Art. 168. O direito de pleitear a restituição extingue-se com o decurso do prazo de 5 (cinco) anos. ^ctn-art168
 * Art. 169. Prescreve em dois anos a ação anulatória da decisão administrativa que negar a restituição. ^ctn-art169
