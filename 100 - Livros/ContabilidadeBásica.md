@@ -51,5 +51,5 @@ Valor residual referente os bens e direitos decrescidos das obrigações.
 PL = B + D - O
 
 ---
-# Demonstrações Financeiras
+# Capítulo 3 - Demonstrações Financeiras
 
