@@ -2,7 +2,7 @@
 ## Sentinelas
 - PA 473
 
-- CAN 
+- CAN 247
 
 - PL  226
 
