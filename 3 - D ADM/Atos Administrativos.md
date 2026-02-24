@@ -462,37 +462,37 @@ _**⚠️<span style="color:#83a598">Importante saber:</span>**_
     - Anulado pela **Administração** ou pelo **Judiciário.**
 - **<span style="color: #d79921">Inexistente</span>:**
     - Apenas **aparência** de **manifestação de vontade** da administração;
-    - **Sem aperfeiçoamento** do ato;
+    - **<span style="color:#fb4934">Sem aperfeiçoamento</span>** do ato;
     - **Usurpador** de função pública;
-    - **Sem efeitos**;
-    - Ausência de **responsabilidade civil do Estado;**
-    - Ausência de **prescrição e decadência.**
-- **Irregulares**:
-    - **Vícios materiais** **irrelevantes**;
-    - **Anulável.**
+    - **<span style="color:#fb4934">Sem efeitos</span>**;
+    - Ausência de **<span style="color:#fb4934">responsabilidade civil do Estado</span>;**
+    - Ausência de **<span style="color:#fb4934">prescrição e decadência.</span>**
+- **<span style="color:#d3869b">Irregulares</span>**:
+    - **Vícios <mark style="background:#9254de">materiais</mark>** **irrelevantes**;
+    - **<span style="color:#b8bb26">Anulável.</span>**
 
-**_Se liga!_   Caso a questão seja sobre classificação:**
+**<span style="color:#fe8019">_Se liga!</span>_   Caso a questão seja sobre classificação:**
 
-- **Atos “irregulares” = “vício material irrelevante”  
+- **<mark style="background:#9254de">Atos “irregulares” = “vício material irrelevante</mark>”  
     **
 
 **Demais casos:**
 
-- **Termo _"irregular_ "= "viciado, ilegal, inválido"**
+- **Termo _"<span style="color:#fb4934">irregular_</span> "= "<span style="color:#fb4934">viciado, ilegal, inválido</span>"**
 
-**11. Quanto à exequibilidade:**
+# **11. Quanto à exequibilidade:**
 
-- **Perfeito**:   
+- **<span style="color:#fb4934">Perfeito</span>**:   
     - Ciclo de formação **completo**;
     - Ato **pronto**.
-- **Imperfeito**:
+- **<span style="color:#d3869b">Imperfeito</span>**:
     - Ainda **em formação.**
-- **Eficaz**:
+- **<span style="color:#b8bb26">Eficaz</span>**:
     - Produz **efeitos**;
     - **Exequíveis**.
-- **Pendente**:
+- **<span style="color:#83a598">Pendente</span>**:
     - **Condição suspensiva**;
     - **Termo.**
-- **Consumado**: 
+- **<span style="color:#fe8019">Consumado</span>**: 
     - **Exaurido**;
     - **Já produziu todos os efeitos.**
