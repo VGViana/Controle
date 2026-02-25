@@ -1,498 +1,61 @@
-# **<span style="color:#83a598">Atos Administrativos:</span>**
-
-- Manifestar a **<span style="color:#d3869b">vontade do Estado</span>**;
-- Espécie de **<span style="color:#d3869b">ato jurídico</span>**;
-- Depende da vontade;
-- Produção de **<span style="color:#d3869b">efeitos jurídicos</span>** com **<span style="color:#d3869b">fim público</span>**;
-- Predomínio do **<span style="color:#d3869b">direito público</span>**;
-- Manifestação/declaração **<span style="color:#d3869b">unilateral</span>**;
-- **<span style="color:#d3869b">Controle</span>** do poder judiciário.  
-# **1. Atos da administração:**
-
-- Mais amplo;
-- Diversas espécies:
-	- **<span style="color:#d3869b">atos administrativos</span>**;
-	- atos do direito privado;
-	- atos materiais;
-	- atos de conhecimento, opinião, juízo ou valor;
-	- atos políticos;
-	- contratos, convênios administrativos;
-	- atos normativos.  
-          
-
-# **2. Fatos administrativos:** 
-
-- Três sentidos:
-	- **<span style="color:#83a598">atividade material</span>** decorrente de um **ato administrativo**;
-	- **<span style="color:#83a598">atuação administrativa</span>** que produz **efeitos** **jurídicos indiretamente**;
-	- **<span style="color:#83a598">evento da natureza</span>** que produz **efeitos jurídicos**.
-- **<span style="color:#fb4934">Não possuem</span>** como *<span style="color:#fb4934">*finalidade*</span>* a produção de **efeitos jurídicos** (conquanto, eventualmente,   
-	possam decorrer efeitos jurídicos deles);
-- **<span style="color:#fb4934">Não há manifestação ou declaração de vontade*</span>*, com conteúdo jurídico, da administração pública;
-- **<span style="color:#fb4934">Não</span>** faz sentido falar em “*<u>*presunção de legitimidade*</u>*” de fatos administrativos;
-- **<span style="color:#fb4934">Não existe revogação ou anulação**</span> de fatos administrativos;
-- **<span style="color:#fb4934">Não</span>** faz sentido falar em **<span style="color:#fb4934">fatos administrativos discricionários e vinculados.</span>  
-        **
-
-# **3. Silêncio administrativo:**
-
-- **<span style="color:#83a598">Omissão da administração</span>** quando há o **dever de se pronunciar**;
-- Dependem de <span style="color:#83a598">**previsão legal**;</span>
-    -  a lei prescreve que o **<span style="color:#83a598">silêncio significa manifestação positiva</span>** (anuência tácita);
-    -  a lei dispõe que a **<span style="color:#83a598">omissão significa manifestação denegatória</span>** (pedido negado).
-- **<span style="color:#83a598">Omissão da lei quanto aos resultados do silêncio</span>:**
-    - <u>_após o decurso do prazo_</u> o juiz:
-        - **ato vinculado:**  **<span style="color:#83a598">defere o pedido</span>** ou **<span style="color:#83a598">manda*</span>* a administração **<span style="color:#83a598">deferir*</span>*;
-        - **ato discricionário**: **<span style="color:#83a598">prazo para a manifestação</span>** da administração.
-
-# **4. Atributos:**
-
-- **<span style="color:#83a598">Presunção de legitimidade ou veracidade (presente em todos os atos administrativos);**</span>
-- <span style="color:#d3869b">**Imperatividade;</span>**
-- <span style="color:#fb4934">**Autoexecutoriedade;**</span>
-- **<span style="color:#b8bb26">Tipicidade</span> (presente em todos os atos administrativos).**
-
-## <span style="color:#83a598"> **4.1 Presunção de legitimidade ou veracidade:**</span>
-
-- **Legitimidade:** ato em conformidade com a lei;
-- **Veracidade:** fatos verdadeiros;
-- **Fundamentos:**
-    - Necessidade de **celeridade**;
-    - <span style="color:#83a598">**Legalidade;**</span>
-    - **<span style="color:#83a598">Fé de ofício</span>** aos documentos;
-- **Consequências**:
-    - **<span style="color:#83a598">Produção de efeitos</span>** enquanto não decretada a invalidade do ato;
-    - **<span style="color:#83a598">Autoexecutoriedade**;</span>
-    - **<span style="color:#83a598">Inversão do ônus da prova</span>**;
-    - *<span style="color:#83a598">*Presunção relativa</span>**;
-    - **<span style="color:#83a598">Controle judicial</span>**.
-
-## <span style="color:#d3869b">**4.2 Imperatividade**</span>
-
-- **Imposição** de **<span style="color:#d3869b">obrigações a terceiros</span>;**
-- **<span style="color:#d3869b">Poder extroverso</span>;**
-- **Depende** de **<span style="color:#d3869b">previsão legal</span>;**
-- **Fundamento:**
-    -  <span style="color:#d3869b">**Supremacia do interesse público</span>;**
-- **Atos que impõem <span style="color:#d3869b">obrigações/restrições</span>;**
-- **<span style="color:#fb4934">Ausentes</span>:**
-    - **<span style="color:#d3869b">Atos negociais</span>;**
-    - **<span style="color:#d3869b">Atos enunciativos</span>.**
-
-## **<span style="color:#fb4934">4.3 Autoexecutoriedade:</span>**
-
-- **<span style="color:#fb4934">Execução imediata e direta</span>** pela administração, **<span style="color:#fb4934">sem necessidade de ordem judicial</span>;**
-- Uso da força permitido;
-- **<span style="color:#fb4934">Controle judicial**;</span>
-- Poderes:
-    - **<span style="color:#fb4934">de Polícia;</span>**
-    - <span style="color:#fb4934">**disciplinar;**</span>
-- **Fundamentos**:
-    - **<span style="color:#fb4934">Presunção de legitimidade</span>**;
-    - **<span style="color:#fb4934">Supremacia do interesse público</span>**;
-    - **<span style="color:#fb4934">Urgência</span>.**
-- **<span style="color:#fb4934">Exigibilidade</span>:**
-    -  Meios **<span style="color:#fb4934">indiretos</span>** de coação;
-    - O **<span style="color:#fb4934">administrado</span>** executa a medida.
-- **<span style="color:#fb4934">Executoriedade:</span>**
-    - Coação **<span style="color:#fb4934">direta</span>** ou **<span style="color:#fb4934">material</span>;**
-    - **<span style="color:#fb4934">Uso da força;</span>**
-    - A **<span style="color:#fb4934">administração</span>** executa a medida.
-
-## **<span style="color:#b8bb26">4.4 Tipicidade:</span>**
-
-- Previsão *<span style="color:#b8bb26">*legal</span>**;
-- **<span style="color:#b8bb26">Finalidade</span>** do ato;
-- **<span style="color:#b8bb26">Não existe</span>** ato **totalmente discricionário**;
-- **<span style="color:#b8bb26">Não existe</span>** ato inominado **unilateral**
-
-# **5. Elementos de formação:**
-
-- Requisitos ou aspectos de **<span style="color:#d3869b">validade</span>**;
-- **Elementos <span style="color:#d3869b">ESSENCIAIS*</span>*: _**(<span style="color:#fe8019">BIZU! Com Fi For M Ob</span>)**_  
-    - **Competência**;
-    - **Finalidade;**
-    - **Forma;**
-    - **Motivo;**
-    - **Objeto.** 
-- **Elementos <span style="color:#83a598">ACESSÓRIOS/ACIDENTAIS</span>**:
-    - <span style="color:#83a598">**Ampliam**</span> ou **<span style="color:#83a598">restringem*</span>* os efeitos jurídicos do ato;
-    - Referem-se ao **<span style="color:#fe8019">OBJETO*</span>* do **<span style="color:#fe8019">ato discricionário*</span>*;
-    - **<span style="color:#83a598">Termo*</span>*;
-    - <span style="color:#83a598">**Condição**:
-    - **Modo** ou **encargo**.</span>
-
-## **5.1 Competência (sujeito)**:
-
-- **<span style="color:#83a598">Poder legal</span>** conferido ao agente para o **desempenho de suas atribuições**;
-- Elemento **<span style="color:#83a598">vinculado</span>;**
-- Exercício **<span style="color:#83a598">obrigatório;</span>**
-- **<span style="color:#83a598">Irrenunciáveis</span>;**
-- **<span style="color:#83a598">Intransferíveis/inderrogáveis;</span>**
-- **<span style="color:#83a598">Imodificáveis</span>;**
-- **<span style="color:#83a598">Imprescritíveis;</span>**
-- **<span style="color:#83a598">Improrrogável</span>;**
-- **<span style="color:#83a598">Critérios de distribuição</span>:**
-    - matéria;
-    - território;
-    - grau hierárquico;
-    - tempo;
-    - fracionamento.
-- **<span style="color:#83a598">Delegação</span>:**
-    - quando **<span style="color:#fb4934">não houver impedimento legal**</span>, para órgãos ou agentes, **subordinados ou não;**
-    - presente a **<span style="color:#83a598">hierarquia</span>:**
-        - ato **<span style="color:#83a598">unilateral</span>**; 
-        - ordem superior **independente da anuência** do delegado;
-        - **<span style="color:#83a598">vertical</span>.**
-    - **<span style="color:#fb4934">ausência*</span>* de **hierarquia**:
-        - **depende** da **concordância** do delegado;
-        - ato **<span style="color:#fb4934">bilateral</span>;**
-        - **<span style="color:#fb4934">horizontal</span>.**
-- **<span style="color:#83a598">Avocação</span>:**
-    - atrair para si **competência do subordinado**;
-    - existência de **hierarquia;**
-    - **excepcional;**
-    - **motivos relevantes;**
-    - **temporária;**
-    - **<span style="color:#fb4934">vedada*</span>* para **<span style="color:#fb4934">competência exclusiva*</span>* do subordinado.
-
-**_Se liga!_**  **Não podem ser objeto de delegação: (_Bizu! 🥕 CE  NO_** u **_RA_)**
-
-- Edição de **atos de caráter NOrmativo;**
-- Decisão de **Recursos Administrativos;**
-- Matérias de **Competência Exclusiva** do órgão ou autoridade**.**
-
-## **5.2 Finalidade**: 
-
-- <span style="color:#d3869b">**Geral**:</span> **<span style="color:#83a598">interesse público*</span>*;
-- <span style="color:#d3869b">**Específica</span>**: objetivo diretamente *<span style="color:#83a598">*previsto na lei</span>;**
-- Elemento <span style="color:#83a598">**vinculado.**</span>
-
-## **5.3 Forma**:
-
-- Sentido **<span style="color:#d3869b">estrito</span>**:
-    - modo de **<span style="color:#d3869b">exteriorização</span>** do ato.
-- Sentido **<span style="color:#d3869b">amplo</span>**:
-    - **<span style="color:#d3869b">formalidades</span>** do processo de formação da vontade;
-    - princípio do **<span style="color:#83a598">devido processo legal.**</span>
-- Elemento **<span style="color:#83a598">vinculado;</span>**
-- **Princípio da Solenidade:**
-    - forma **<span style="color:#83a598">específica</span>** prevista na **lei.**
-
-## **<span style="color:#fe8019">5.4 Motivo:</span>**
-
-- **<span style="color:#d3869b">Situação*</span>* de **<span style="color:#d3869b">direito</span>** ou de **<span style="color:#d3869b">fato</span>** que **<span style="color:#83a598">determina</span>** ou <span style="color:#83a598">**autoriza**</span> a realização do **ato** administrativo;
-- **<span style="color:#d3869b">Situação</span>** de **<span style="color:#d3869b">direito</span>:** 
-    - **<span style="color:#d3869b">requisitos*</span>* previstos em **lei.**
-    - **<span style="color:#d3869b">Situação*</span>* de **<span style="color:#d3869b">fato</span>:**
-        - **<span style="color:#d3869b">concretização</span>** do pressuposto de **<span style="color:#d3869b">direito</span>** no "mundo real".
-
-**<span style="color:#fb4934">_Se liga!_</span>**   Segundo **<mark style="background:#9254de">Celso Antônio Bandeira de Mello</mark>:**
-
-- **<span style="color:#d3869b">Motivo</span>:** situação **objetiva, real, empírica, externa ao agente;  
-    **
-- **<span style="color:#d3869b">Motivação</span>:  intenção, vontade, propósito do agente** que editou o ato;
-    - subjetiva, interna e psicológica do agente.
-
-**<mark style="background:#afc7d9">_Não confunda!</mark>_**
-
-- **<span style="color:#d3869b">Motivação</span>** é a **demonstração dos motivos** (**justificativa do ato**)! Portanto, nem todos os atos precisam ter motivação:
-    -  **<span style="color:#fb4934">exoneração*</span>* de ocupante de **<span style="color:#fb4934">cargo de provimento em comissão.</span>**
-- **<span style="color:#d3869b">Motivo*</span>* é **elemento de formação** do ato, logo, <u>presente em todos os atos!</u>
-
-<span style="color:#fb4934">**_Importante saber!</span>_** 
-
-- Motivação **<span style="color:#d3869b">contextual</span>**: a própria autoridade enumera os motivos de forma expressa;
-- Motivação **<span style="color:#d3869b">aliunde*</span>*, ou **<span style="color:#d3869b">por referência _(per relationem)</span>_**:  referência a um documento anterior, utilizando-o como fonte de suas razões para decidir.
-- **<span style="color:#d3869b">Teoria dos motivos determinantes</span>:** a **<span style="color:#d3869b">validade do ato se vincula aos motivos</span>** indicados como seu fundamento:
-    - Aplicado aos atos **<span style="color:#d3869b">discricionários</span>** ou **<span style="color:#d3869b">vinculados*</span>*;
-    - **<span style="color:#d3869b">Motivação</span> <span style="color:#fb4934">obrigatória</span> ou não**;
-    - **<span style="color:#d3869b">Motivos</span>** indicados **<span style="color:#d3869b">inexistentes</span>** ou **<span style="color:#d3869b">falsos</span>**: **<span style="color:#fb4934">ato NULO</span>.**
-
-## **<span style="color:#fe8019">5.5 Objeto (conteúdo)**:</span>
-
-- **<span style="color:#83a598">Efeito</span>** jurídico do ato;
-- <span style="color:#83a598">**Vinculado*</span>* ou **<span style="color:#83a598">discricionário</span>;**
-- **<span style="color:#83a598">Lícito, possível, certo e moral.</span>**
-
-<span style="color:#83a598">**_Não confunda!_** </span>
-
-- **<span style="color:#fe8019">Objeto*</span>*:  **<span style="color:#83a598">fim imediato</span> (direto) do ato;
-- <span style="color:#fe8019">**Finalidade*</span>*:  **<span style="color:#83a598">resultado desejado</span>**, **<span style="color:#83a598">fim mediato</span>** (indireto).
-
-**💡<span style="color:#fb4934">_Se liga!_*</span>*   Segundo **Maria S. Z. Di Pietro:**
-
-
-- **<span style="color:#fe8019">Objeto natural:</span>** efeito jurídico que o ato produz, decorrente da própria natureza do ato, previsto em lei;
-- **<span style="color:#fe8019">Objeto acidental/acessório:</span>** efeito jurídico que o ato produz em decorrência de cláusulas acessórias inseridas, tais como:
-    - **<span style="color:#d3869b">termo:</span>** data de início ou término da eficácia do ato;
-        - evento **<span style="color:#d3869b">FUTURO*</span>* e **<span style="color:#d3869b">CERTO.</span>**
-    - **<span style="color:#d3869b">condição</span>:**
-        - evento **<span style="color:#d3869b">FUTURO** </span>e **<span style="color:#d3869b">INCERTO;</span>**
-        - **<span style="color:#d3869b">suspensiva:</span>**  **suspende** o início da eficácia do ato **<span style="color:#83a598">até o cumprimento da condição</span>**;
-        - **resolutiva:** **cessa** a produção dos **efeitos jurídicos** do ato **<span style="color:#d3869b">após o</span>** **<span style="color:#d3869b">adimplemento da condição.</span>**
-    - **<span style="color:#83a598">encargo/modo</span>:** obrigação ou ônus para que o destinatário usufrua do benefício do ato;
-    - **<span style="color:#b8bb26">somente pode ocorrer em atos discricionários.</span>**
-
-# **6. Vícios dos atos administrativos: **
-**<span style="color:#d3869b">6.1 De competência:</span>**
-- **Incompetência**
-	- <span style="color:#d3869b">Excesso de poder:</span>** 
-                - Passível de **convalidação (em regra);**
-                - **Vício insanável: competência **EXCLUSIVA;**
-	- **<span style="color:#d3869b">Função de fato</span>:** 
-				-  Exercida pelo “agente de fato” (sua investidura não ocorreu de forma normal ou regular);
-                - Teoria da aparência de legalidade: ato praticado em função de fato é considerado válido (boa-fé)
-	- **<span style="color:#d3869b">Usurpação de poder</span>:**
-			- Uma pessoa pratica ato administrativo sem ter qualquer forma de investidura na função pública;
-			- Crime previsto no art. 328 do Código Penal;
-			- Ato inexistente.
-	- **Incapacidade**: 
-			- Passíveis de convalidação por autoridade que não esteja na mesma situação de impedimento e de suspeição;
-		- **<span style="color:#83a598">Impedimento</span>**:
-				- hipóteses objetivas;
-				- interesse direto na matéria;
-				- presunção absoluta de incapacidade;
-				- deve ser declarada pela autoridade;
-				- nulidade desde a origem.
-		- **<span style="color:#b8bb26">Suspeição</span>**:
-				- hipóteses subjetivas;
-				- amizade íntima ou a inimizade notória dos interessados;
-				- presunção de incapacidade é relativa;
-				- considerados válidos, sanados antes da arguição.  
-                              
-                            
-## **6.2 <span style="color:#83a598">De finalidade</span>:**
-- **<span style="color:#83a598">Desvio de poder ou de finalidade:</span>**
-		- Finalidade distinta do interesse público;
-		- Finalidade específica diferente da prevista em lei;
-		- Vício **<span style="color:#fe8019">insanável</span>**;
-		- Ato **<span style="color:#fe8019">nulo</span>**.  
-                  
-                
-## **<span style="color:#fb4934">6.3 De forma:</span>**
-- **<span style="color:#fb4934">Forma prevista em lei não** foi **observada</span>**;
-		- Formalidade ou procedimento para a tomada de decisão **<span style="color:#fb4934">não seguiu o rito definido em lei</span>**;
-		- **<span style="color:#b8bb26">Sanável</span>**, em alguns casos, **<span style="color:#b8bb26">por convalidação</span>**:
-                - Exemplo: o interessado em um processo administrativo não é notificado nos termos definidos em lei, mas comparece voluntariamente na data marcada.
-            - **<span style="color:#fe8019">Insanável</span>** quando afetar o ato em seu próprio conteúdo (**<span style="color:#fe8019">forma</span>** é **<span style="color:#fe8019">essencial</span>** ao ato).
-
-_**<span style="color:#fe8019">Se liga</span>!**_   A **<span style="color:#fb4934">motivação compõe a forma</span>** do ato! Sua **<span style="color:#fb4934">ausência</span>** quando for obrigatória acarretará a <span style="color:#fb4934">**nulidade**</span> do ato **<span style="color:#fb4934">por vício de forma</span>.**
-
-- <span style="color:#83a598">**De motivo:**
-        - **Falso**;
-        - **Inexistente**;
-        - **Juridicamente inadequado**/**ilegítimo**;
- </span>       - **<span style="color:#fe8019">Insanável</span>**.
-
-_**<span style="color: #d79921">Bizu</span>!**_  **<span style="color:#d3869b">Con</span><span style="color:#fb4934">Forma</span> <span style="color:#83a598">convalida</span>**
-
--  **<span style="color:#b8bb26">De objeto:**
-    - **Proibido por lei** ou com conteúdo **não previsto em lei**;
-    - **Diverso do previsto na lei** para a situação;
-    - **Impossível**;
-    - **Imoral**;
-    - **Incerto**</span> em relação aos destinatários, às coisas, ao tempo, ao lugar.   
-          
-        
-# **7. Mérito do ato administrativo:**
-- <span style="color:#d3869b"> **Atos vinculados:**</span>
-            - **<span style="color:#fe8019">Sem margem*</span>* de liberdade de **decisão**;
-            - **Lei define todos os <span style="color:#d3869b">elementos de formação</span>** do ato administrativo;
-            - **<span style="color:#fe8019">Não existe mérito</span>** ou juízo de **<span style="color:#fe8019">conveniência e oportunidade</span>**.
-
-- **<span style="color:#83a598">Atos discricionários:</span>**
-        - **<span style="color:#83a598">Margem de liberdade*</span>* para o agente público quanto ao:  
-            - **<span style="color:#83a598">Motivo</span>**:  
-                - **<span style="color:#fe8019">lei não define</span>** os **exatos motivos** de edição do ato;
-                - lei emprega **conceitos jurídicos indeterminados** (não possuem exatidão quanto ao seu sentido).
-            - **<span style="color:#b8bb26">Objeto</span>**:  
-                - lei definir **mais do que um conteúdo legalmente válido**:
-                - **distintas soluções;**
-                - **limites máximos e mínimos** para o ato.
-            - **<span style="color: #d79921">Conveniência e oportunidade</span>.**
-
-**<span style="color:#fe8019">_Se liga!</span>_**   Há **<span style="color:#b8bb26">entendimento doutrinário</span>** que:
-
-- **<span style="color:#fb4934">Forma</span>** também poderá ser **discricionária** quando a **lei:**  
-    - **<span style="color:#fe8019">Não definir a forma</span>** a ser adotada;
-    - Mencionar **<span style="color:#fe8019">mais do que uma forma admitida</span>**.
-- **<span style="color:#83a598">Finalidade</span>** geral (interesse público tem certa discricionaridade):  
-    - A própria definição “interesse público” depende de <span style="color:#83a598">**interpretação**</span> e avaliação da autoridade pública.
-
-<span style="color:#fe8019">**Mas as provas costumam adotar a cobrança tradicional em que somente o motivo e o objeto são considerados discricionários.**
-</span>
-
-  
-**Controle de mérito:**
-
-<span style="color:#83a598">**Poder Judiciário:</span>**
-
-- Realiza o **controle de legalidade** e, identificando o ato ilegal, poderá anulá-lo;
-- Não realiza controle de mérito, de tal forma que não poderá, por exemplo, revogar um ato administrativo.
-
-**<span style="color: #d79921">Controle da razoabilidade e da proporcionalidade**:</span>
-
-- **Limitam a discricionariedade** administrativa;
-- **<span style="color:#fe8019">Não há controle de mérito</span>**;
-- **Abuso** da autoridade (**ilegalidade**);
-- Juízo quanto à **juridicidade ou legitimidade** do ato administrativo;
-- **Judiciário** ou a própria **administração**.
-
-# **8. Classificação:**
-
-## **8.1 📌 Quanto aos destinatários:**
-
-- **<span style="color:#83a598">Gerais/normativos</span>:**   
-    - **<span style="color:#fb4934">Não possuem</span>** **<span style="color:#fb4934">destinatários determinados</span>**;
-    - **Generalidade e abstração**.
-- **<span style="color:#83a598">Individuais</span>:**  
-    - **Destinatários determináveis, certos**;
-    - **Caso concreto**.
-
-_**<span style="color:#fb4934">Se liga</span>!**_   Segundo **Maria Di Pietro, ato normativo:** 
-
-- **<span style="color:#fb4934">Não pode ser impugnado diretamente pela pessoa lesada na via judicial</span>**  (competência somente das **pessoas previstas no art. 103 da CF** para **propor inconstitucionalidade de ato normativo**);
-- **Precedência hierárquica** sobre o ato individual;
-- **<span style="color:#fb4934">Não pode ser impugnado por meio de recursos administrativos</span>**;
-- **<span style="color:#b8bb26">Sempre revogável</span>**;
-- **Ato individual** tem **<span style="color:#fb4934">limitações para revogação</span>** (exemplo:  **direitos subjetivos a favor do administrado**).
-
-## **8.2 Quanto à sua estrutura:**
-
-- **<span style="color:#d3869b">Concretos</span>**:
-    - dispõem de um **caso único e específico;** 
-    - **equivalem aos individuais.**
-- **<span style="color:#fb4934">Abstratos</span>**:
-    - disciplinam situações reiteradas, com **aplicações ilimitadas;**
-    - **correspondem aos atos gerais.**
-
-## **8.3 Quanto ao âmbito de aplicação:**
-
-- **<span style="color:#83a598">Internos</span>:**  
-    - efeitos no **interior da administração** pública (**órgãos e agentes**);
-    - em regra, não geram direitos adquiridos;
-    - revogáveis a qualquer tempo;
-    - exemplo: portaria, ordem de serviço interna, etc.
-- **<span style="color:#b8bb26">Externos</span>:**
-    - tratam de direitos, obrigações, negócios ou conduta perante a Administração;
-    - devem ser publicados;
-    - possuem efeitos jurídicos externos à repartição;
-    - atos que onerem o patrimônio público.
-
-## **8.4 Quanto às prerrogativas de:**
-
-- **<span style="color:#fe8019">Império</span>**: **coerção;**
-- **<span style="color:#83a598">Gestão</span>**: **horizontalidade;**
-- **<span style="color:#d3869b">Expediente</span>**: **rotina.**
-
-## **8.5 Quanto à liberdade de ação:**
-
-- Vinculados;
-- Discricionários
-
-## **8.6 Quanto à formação ou intervenção da vontade administrativa:**
-
-- **<span style="color:#83a598">Simples</span>**: **<span style="color:#b8bb26">manifestação de vontade</span>** de um **único órgão;**
-- **<span style="color:#83a598">Complexo</span>**:
-    - **<span style="color:#b8bb26">manifestação de vontade</span>** de **dois ou mais órgãos;**
-    - **<span style="color:#83a598">ATO ÚNICO</span>**
-- **<span style="color:#d3869b">Composto</span>**:   
-    - **<span style="color:#b8bb26">manifestação de vontade</span>** de um **único órgão;**
-    - **<span style="color:#d3869b">DOIS ATOS (principal e acessório)</span>**
-
-**<span style="color:#fb4934">_Se liga!</span>_**     <mark style="background:#fff88f">Jurisprudência</mark> 
-
-- Processos perante o TCU deve respeitar o **<span style="color:#83a598">direito ao contraditório e à ampla defesa*</span>* quando da decisão **puder resultar anulação ou revogação** de ato administrativo que beneficie o interessado, **<span style="color:#fb4934">salvo a apreciação da legalidade do ato de _concessão inicial_ de aposentadoria, reforma e pensão.</span>**
-
-_**⚠️<span style="color:#83a598">Importante saber:</span>**_
-
-- Concessão de **aposentadoria, reforma e pensão** é **<span style="color:#83a598">ato complexo</span>**:
-    - **<span style="color:#83a598">Manifestação*</span>* do **órgão do servidor** e do **Tribunal de Contas**;
-- **Tribunal de Contas**:  
-    - **<span style="color:#fb4934">Não precisa conceder contraditório</span>** caso indefira o registro;
-    - Tem o prazo de **<span style="color:#fe8019">cinco anos</span>** para apreciar a aposentadoria, sob pena de **deferimento tácito do registro**;
-    - Prazo **<span style="color:#fb4934">decadencial</span> <span style="color:#fe8019">de cinco anos</span>**, **a partir do deferimento do registro**, para **<span style="color:#fb4934">anular</span>** a aposentadoria;
-- **Após o registro**, o **ato está formado;**
-- **<span style="color:#fb4934">Desfazimento</span> dependerá**:   
-    - **<span style="color:#83a598">de contraditório</span>**; 
-    - **<span style="color:#83a598">da participação</span>** do **TCU** e do **órgão**.
-
-# **9. Quanto aos efeitos:**
-
-- **<span style="color:#d3869b">Constitutivo</span>**:
-    - <u>Cria</u> uma **nova situação jurídica** (direito ou obrigação);
-    - **Exemplos**: licenças, autorizações; sanções.
-- **<span style="color:#83a598">Modificativo</span>**:
-    - <u>Altera</u> uma **situação jurídica preexistente.**
-- **<span style="color:#fe8019">Extintivo/desconstitutivo</span>:** 
-    - <u>Encerra</u> uma **situação jurídica;**
-    - **Exemplos:** cassação, caducidade.
-- **<span style="color:#b8bb26">Declaratório</span>:**
-    - <u>Reconhece</u> uma **situação preexistente;**
-    - <u>Atesta</u> **fato/situação.**
-
-**_💡<span style="color:#fe8019">Se liga!</span>_**  
-
-**<mark style="background:#fff88f">Hely Lopes Meirelles</mark>:**
-
-- **<span style="color:#b8bb26">Alienativos</span>**:  <u>Transferência</u> de **bens**.
-- **<span style="color:#fb4934">Abdicativos</span>**: <u>Renúncia</u> de **direito** em caráter definitivo (irreversível, imodificável)
-
- **<mark style="background:#a3be8c">José dos Santos Carvalho Filho e Maria Di Pietro</mark>**:
-
-- **<span style="color:#d3869b">Constitutivo</span>**:
-    - <u>Cria, modifica ou extingue</u> **direito ou situação;**
-- **<span style="color:#b8bb26">Declaratório</span>**: 
-    - <u>Reconhece</u> um **direito prévio**;
-- **<span style="color:#83a598">Enunciativo</span>**:
-    - <span style="color:#83a598">Indicam</span> **juízo de valor**;
-    - Dependem de outro ato decisório.
-
-# **10. Quanto à eficácia:**
-
-- **<span style="color:#83a598">Válido</span>**:
-    - Observa **todos os requisitos legais**;
-    - **Sem vícios.**
-- **<span style="color:#fe8019">Nulo</span>**:
-    - **Vício insanável;**
-    - Anulado pela **Administração** ou pelo **Judiciário.**
-- **<span style="color:#b8bb26">Anulável</span>**:
-    - Passível de **convalidação;**
-    - Anulado pela **Administração** ou pelo **Judiciário.**
-- **<span style="color: #d79921">Inexistente</span>:**
-    - Apenas **aparência** de **manifestação de vontade** da administração;
-    - **<span style="color:#fb4934">Sem aperfeiçoamento</span>** do ato;
-    - **Usurpador** de função pública;
-    - **<span style="color:#fb4934">Sem efeitos</span>**;
-    - Ausência de **<span style="color:#fb4934">responsabilidade civil do Estado</span>;**
-    - Ausência de **<span style="color:#fb4934">prescrição e decadência.</span>**
-- **<span style="color:#d3869b">Irregulares</span>**:
-    - **Vícios <mark style="background:#9254de">materiais</mark>** **irrelevantes**;
-    - **<span style="color:#b8bb26">Anulável.</span>**
-
-**<span style="color:#fe8019">_Se liga!</span>_   Caso a questão seja sobre classificação:**
-
-- **<mark style="background:#9254de">Atos “irregulares” = “vício material irrelevante</mark>”  
-    **
-
-**Demais casos:**
-
-- **Termo _"<span style="color:#fb4934">irregular_</span> "= "<span style="color:#fb4934">viciado, ilegal, inválido</span>"**
-
-# **11. Quanto à exequibilidade:**
-
-- **<span style="color:#fb4934">Perfeito</span>**:   
-    - Ciclo de formação **completo**;
-    - Ato **pronto**.
-- **<span style="color:#d3869b">Imperfeito</span>**:
-    - Ainda **em formação.**
-- **<span style="color:#b8bb26">Eficaz</span>**:
-    - Produz **efeitos**;
-    - **Exequíveis**.
-- **<span style="color:#83a598">Pendente</span>**:
-    - **Condição suspensiva**;
-    - **Termo.**
-- **<span style="color:#fe8019">Consumado</span>**: 
-    - **Exaurido**;
-    - **Já produziu todos os efeitos.**
+---
+id: Atos Administrativos
+aliases:
+  - Ato Administrativo
+---
+# **Atos Administrativos**
+
+# **1. Conceito:**
+
+- Declaração do Estado ou de quem o represente;
+- Regime Jurídico de Direito Público;
+- Inferior à lei (infralegal);
+- Sujeito a controle judicial.
+
+# **2. Requisitos/Elementos (CO-FI-FO-MO-OB):**
+
+## **2.1. [[Elementos_e_Atributos_do_Ato|Competência]] (Sujeito):**
+- Poder legal para praticar o ato.
+- **Vício:** Incompetência (excesso de poder ou usurpação de função).
+- **Convalidável?** SIM, se não for competência exclusiva. (Vício de foco).
+
+## **2.2. [[Elementos_e_Atributos_do_Ato|Finalidade]]:**
+- Interesse Público (mediato) e o efeito jurídico específico do ato (imediato).
+- **Vício:** Desvio de Finalidade (ou Desvio de Poder).
+- **Convalidável?** NÃO. É vício insanável.
+
+## **2.3. [[Elementos_e_Atributos_do_Ato|Forma]]:**
+- Exteriorização do ato (escrita, verbal, gestual).
+- **Vício:** Omissão ou observância errada da forma.
+- **Convalidável?** SIM, se a forma não for essencial à validade.
+
+## **2.4. [[Elementos_e_Atributos_do_Ato|Motivo]]:**
+- Situação de fato e de direito que autoriza o ato.
+- **Teoria dos Motivos Determinantes**: Se a administração alegar um motivo (mesmo que não fosse obrigada), o ato só vale se o motivo for verdadeiro.
+- **Convalidável?** NÃO. Se o motivo é falso ou inexistente, o ato é nulo.
+
+## **2.5. [[Elementos_e_Atributos_do_Ato|Objeto]]:**
+- É o conteúdo do ato (o que ele cria, extingue ou modifica).
+- Deve ser lícito, possível, certo e moral.
+- **Convalidável?** NÃO, em regra (exceto objetos plúrimos onde se aproveita a parte sã).
+
+# **3. Atributos (P-A-T-I):**
+
+- **[[Elementos_e_Atributos_do_Ato|Presunção de Legitimidade]]:** O ato é considerado verdadeiro e legal até prova em contrário (presunção relativa/juris tantum). Inverte o ônus da prova.
+- **[[Elementos_e_Atributos_do_Ato|Autoexecutoriedade]]:** Administração executa suas próprias decisões sem precisar de ordem judicial prévia (Ex: apreensão de mercadoria, guincho). Nem todo ato tem (multa não tem).
+- **[[Elementos_e_Atributos_do_Ato|Tipicidade]]:** O ato deve corresponder a figuras definidas previamente em lei. (Atributo criado por Maria Sylvia Di Pietro).
+- **[[Elementos_e_Atributos_do_Ato|Imperatividade]]:** Impõe obrigações a terceiros independentemente de concordância. (Ex: multa de trânsito). Atos negociais (licença) não têm imperatividade.
+
+# **4. Extinção dos Atos:**
+
+- **Anulação:** Ilegalidade. Efeito *Ex Tunc* (retroage). Pode ser feita pela Adm ou Judiciário. Prazo decadencial de 5 anos para a Adm (salvo má-fé).
+- **Revogação:** Conveniência e Oportunidade (Mérito). Efeito *Ex Nunc* (não retroage). Apenas pela Administração. Proibida para atos vinculados, consumados ou que geraram direitos adquiridos.
+- **Cassação:** O particular descumpre condições (Ex: hotel que vira bordel).
+- **Caducidade:** Lei nova torna o ato inválido.
+- **Contraposição:** Ato novo com efeitos opostos ao anterior (Ex: exoneração contrapõe a nomeação).
+
+### 🧠 Adendos do Gemini
+
+- **Silêncio Administrativo:** O silêncio da administração não é ato administrativo, é fato administrativo. Só produz efeitos se a lei atribuir (ex: aprovação tácita em alguns licenciamentos). Em regra, o silêncio é uma omissão que deve ser combatida via Mandado de Segurança ou Ação de Obrigação de Fazer.
+- **Vício de Competência vs. Finalidade:** Competência pode convalidar (se não exclusiva). Finalidade NUNCA convalida.
+- **Anulação pelo Judiciário:** O Judiciário SÓ anula (controle de legalidade). Não revoga (controle de mérito), pois violaria a separação dos poderes.
