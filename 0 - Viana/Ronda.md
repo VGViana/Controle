@@ -30,9 +30,9 @@
 ---
 # 02-04
 ## Sentinelas
-- PA 
+- PA 473
 
-- CAN 
+- CAN 247
 
 - PL  
 
