@@ -8,10 +8,10 @@
 ## 🧭 MAPA DE CONTEÚDO (CONSTITUIÇÃO)
 
 ### 1. FUNDAMENTOS
-- [**Conceitos e Objetivos**](./Conceitos%20e%20Objetivos.md) - Por que auditamos e o que buscamos.
+- [**Conceitos e Objetivos**](0.%20Conceitos%20e%20Objetivos.md) - Por que auditamos e o que buscamos.
 
 ### 2. APLICAÇÃO E TIPOS
-- [**Auditoria Interna**](./Auditoria%20Interna.md) - O controle vindo de dentro para o mestre.
+- [**Auditoria Interna**](1.%20Auditoria%20Interna.md) - O controle vindo de dentro para o mestre.
 
 ---
 
