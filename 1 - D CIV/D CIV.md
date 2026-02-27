@@ -1,9 +1,9 @@
 [[0. LINDB]]
 
-[[Pessoas Naturais]]
+[[1. Pessoas Naturais]]
 
-[[Pessoas Jurídicas]]
+[[2. Pessoas Jurídicas]]
 
-[[Bens]]
+[[3. Bens]]
 
-[[Fatos e Negócios Jurídicos]]
+[[4. Fatos e Negócios Jurídicos]]

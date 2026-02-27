@@ -8,7 +8,7 @@
 ## 🧭 MAPA DE CONTEÚDO (CONSTITUIÇÃO)
 
 ### 1. DADOS E INFORMAÇÃO
-- [**Teoria da Informação**](./Teoria%20da%20informação.md) - O fundamento dos dados.
+- [**Teoria da Informação**](0.%20Teoria%20da%20informação.md) - O fundamento dos dados.
 - [**BI e DW**](./BI%20e%20DW.md) - Business Intelligence e Data Warehousing para análise fiscal.
 
 ### 2. FERRAMENTAS PRÁTICAS
