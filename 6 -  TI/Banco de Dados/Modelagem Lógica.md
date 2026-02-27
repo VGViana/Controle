@@ -1,0 +1,70 @@
+# Modelagem Lógica (Modelo Relacional)
+
+---
+**MOC:** [[MOC - Banco de Dados]]
+**Nível Anterior:** [[Modelagem Conceitual]]
+**Próximo Nível:** [[Normalização de Dados]]
+**Tags:** #TI #BancoDeDados #ModelagemLogica #AlgebraRelacional #FiscoControle
+
+---
+
+## 1. Conceitos do Modelo Relacional
+
+O modelo lógico descreve a estrutura dos dados que será implementada no SGBD, baseando-se na teoria de conjuntos e lógica de primeira ordem.
+
+- **Tabela (Relação):** Conjunto de tuplas.
+- **Tupla (Linha):** Um registro individual na tabela.
+- **Atributo (Coluna):** Uma propriedade do objeto.
+- **Domínio:** Conjunto de valores permitidos para um atributo.
+- **Grau (Aridade):** Número de colunas da tabela.
+- **Cardinalidade:** Número de linhas da tabela.
+
+---
+
+## 2. Chaves, Índices e Visões
+
+### A. Tipos de Chaves
+| Chave | Descrição |
+| :--- | :--- |
+| **Superchave** | Conjunto de atributos que identifica univocamente uma tupla. Pode ter excesso de atributos. |
+| **Chave Candidata** | Uma superchave mínima (sem atributos redundantes). |
+| **Chave Primária (PK)** | A chave candidata escolhida para ser o identificador principal. Não aceita NULL. |
+| **Chave Estrangeira (FK)** | Atributo que referencia a PK de outra (ou da mesma) tabela para manter a integridade referencial. |
+
+### B. Índices (Index)
+- Estrutura de dados (geralmente B-Tree ou Hash) usada para acelerar a busca de registros.
+- **Cuidado:** Melhora a leitura (`SELECT`), mas pode tornar a escrita (`INSERT`, `UPDATE`, `DELETE`) mais lenta devido à manutenção do índice.
+
+### C. Visão (View)
+- É uma "tabela virtual" que não armazena dados fisicamente (exceto em *Materialized Views*).
+- Serve para simplificar consultas complexas e prover segurança (escondendo colunas sensíveis).
+
+---
+
+## 3. Implementação de Relacionamentos
+
+1.  **1:1 (Um para Um):** A FK pode ficar em qualquer uma das tabelas ou ambas podem ser fundidas.
+2.  **1:N (Um para Muitos):** A FK fica **obrigatoriamente** na tabela do lado **N** (o "lado muitos" recebe a chave do "lado um").
+3.  **N:M (Muitos para Muitos):** Exige a criação de uma **Tabela Associativa** (ou Tabela de Ligação), cuja chave primária é composta pelas PKs das tabelas originais.
+
+---
+
+## 4. Álgebra Relacional
+
+Operações fundamentais usadas para manipular relações.
+
+| Operação | Símbolo | Descrição | Resultado |
+| :--- | :---: | :--- | :--- |
+| **Seleção** | $\sigma$ | Filtra as **linhas** (tuplas) que atendem a um critério. | Mesma aridade, menos tuplas. |
+| **Projeção** | $\pi$ | Seleciona **colunas** (atributos) específicas. | Menor aridade, remove duplicatas. |
+| **Produto Cartesiano** | $X$ | Combina todas as linhas de A com todas de B. | $Grau = A+B$; $Card = A 	imes B$. |
+| **União** | $\cup$ | Combina tuplas de duas tabelas (devem ser compatíveis). | Remove duplicatas. |
+| **Diferença** | $-$ | Tuplas que estão em A, mas NÃO estão em B. | Tabelas devem ser compatíveis. |
+| **Junção (Join)** | $\bowtie$ | Produto cartesiano seguido de uma seleção baseada em condição. | Operação mais comum em consultas. |
+
+---
+## Checklist de Prova (Área Fiscal)
+- [ ] Integridade de Entidade: PK não pode ser nula.
+- [ ] Integridade Referencial: FK deve apontar para uma PK válida ou ser nula (se permitido).
+- [ ] A Projeção ($\pi$) na álgebra relacional purista REMOVE linhas duplicadas automaticamente.
+- [ ] Regras de Codd: São 12 regras que definem se um SGBD é verdadeiramente relacional.
