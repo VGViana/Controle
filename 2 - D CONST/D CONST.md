@@ -9,15 +9,15 @@
 
 ### 1. TEORIA E APLICAÇÃO
 - [**0. Conceitos Constitucionais**](./0.%20Conceitos%20Constitucionais.md) - O que é a Constituição e seus sentidos.
-- [**Aplicação das Normas**](./Aplicação%20das%20Normas%20e%20Interpretação.md) - Como a norma deve ser lida e aplicada.
+- [**Aplicação das Normas**](1.%20Aplicação%20das%20Normas%20e%20Interpretação.md) - Como a norma deve ser lida e aplicada.
 
 ### 2. DIREITOS E GARANTIAS
-- [**DDIC 1**](./DDIC%201.md) - Direitos Individuais e Coletivos (Caput).
-- [**DDIC 2**](./DDIC%202.md) - Direitos Individuais e Coletivos (Remédios).
-- [**Direitos Sociais**](./Direitos%20Sociais.md) - Educação, Saúde, Trabalho.
+- [**DDIC 1**](3.%20DDIC%201.md) - Direitos Individuais e Coletivos (Caput).
+- [**DDIC 2**](4.%20DDIC%202.md) - Direitos Individuais e Coletivos (Remédios).
+- [**Direitos Sociais**](6.%20Direitos%20Sociais.md) - Educação, Saúde, Trabalho.
 
 ### 3. ORGANIZAÇÃO DO ESTADO
-- [**TGDF**](./TGDF.md) - Teoria Geral da Organização Federativa.
+- [**TGDF**](3.%20TGDF.md) - Teoria Geral da Organização Federativa.
 
 ---
 
