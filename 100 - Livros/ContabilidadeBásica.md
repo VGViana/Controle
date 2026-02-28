@@ -53,11 +53,25 @@ PL = B + D - O
 ---
 # Capítulo 3 - Demonstrações Financeiras
 
-As demonstrações financeiras obrigatórias a partir da Lei n° 11.638/07 são: 
-- BP
-- DRE
-- DFC (S.A. fechadas com PL < 2 mi R$, ficam dispensadas)
-- DVA
-- DLPA
-
 Ativo > 240 mi R$ ou Receita Bruta anual > 300 mi R$ -> Sociedaddes de grande porte
+
+A data do término do ex. social é definida pelos proprietários da empresa e não pode ser alterada, exceto em condições supervenientes.
+
+As S.A. de capital aberto (ações na Bolsa) e instituições financeiras devem publicas as DF's semestralmente
+
+## Obrigatoriedade das Demonstrações
+
+
+|                                 | ITG 1000                | NBC TG 1000                    | S.A. Capital Aberto | Capital fechado e Ltdas |
+| ------------------------------- | ----------------------- | ------------------------------ | ------------------- | ----------------------- |
+|                                 | *Micro e Pequeno Porte* | *Pequeno e Médio porte*        |                     |                         |
+| BP                              | Obrigatório             | Obrigatório                    | Obrigatório         | Obrigatório             |
+| DRE                             | Obrigatório             | Obrigatório                    | Obrigatório         | Obrigatório             |
+| DRA (pode ser inclusa na DMPL)  | Facultativo             | Pode ser substituído pela DMPL | Obrigatório         | Obrigatório             |
+| DLPA (pode ser inclusa na DMPL) | Facultativo             | Facultativo                    | Facultativo         | Facultativo             |
+| DMPL                            | Facultativo             | Obrigatório                    | Obrigatório         | Obrigatório             |
+| DFC (PL > 2miR$)                | Facultativo             | Obrigatório                    | Obrigatório         | Obrigatório             |
+| DVA (companhias abertas)        | Facultativo             | Facultativo                    | Obrigatório         | Facultativo             |
+| Notas Explicativas              | Obrigatório             | Obrigatório                    | Obrigatório         | Obrigatório             |
+---
+#
