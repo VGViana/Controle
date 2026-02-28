@@ -1,3 +1,9 @@
+---
+id: ContabilidadeBásica
+aliases: []
+tags: []
+---
+
 # Capítulo 1 - Conceitos
 
 ## [[15. Princípios Contábeis|Princípios Contábeis]]
@@ -61,18 +67,16 @@ As S.A. de capital aberto (ações na Bolsa) e instituições financeiras devem 
 
 ## Obrigatoriedade das Demonstrações
 
-
-|                                 |        ITG 1000         |          NBC TG 1000           | S.A. Capital Aberto | Capital fechado e Ltdas |
-| :-----------------------------: | :---------------------: | :----------------------------: | :-----------------: | :---------------------: |
-|                                 | *Micro e Pequeno Porte* |    *Pequeno e Médio porte*     |                     |                         |
-|               BP                |       Obrigatório       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
-|               DRE               |       Obrigatório       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
-| DRA (pode ser inclusa na DMPL)  |       Facultativo       | Pode ser substituído pela DMPL |     Obrigatório     |       Obrigatório       |
-| DLPA (pode ser inclusa na DMPL) |       Facultativo       |          Facultativo           |     Facultativo     |       Facultativo       |
-|              DMPL               |       Facultativo       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
-|        DFC (PL > 2miR$)         |       Facultativo       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
-|    DVA (companhias abertas)     |       Facultativo       |          Facultativo           |     Obrigatório     |       Facultativo       |
-|       Notas Explicativas        |       Obrigatório       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
+| Demonstração              | Pequeno / Médio Porte | Micro e Pequeno Porte | S.A. Capital Aberto | Capital Fechado / Ltdas   |
+|---------------------------|-----------------------|-----------------------|---------------------|---------------------------|
+| Balanço Patrimonial (BP)  | Obrigatório           | Obrigatório           | Obrigatório         | Obrigatório               |
+| DRE                       | Obrigatório           | Obrigatório           | Obrigatório         | Obrigatório               |
+| DRA (ou DMPL)             | Obrigatório           | Facultativo           | Obrigatório         | Pode substituir pela DMPL |
+| DMPL                      | Obrigatório           | Facultativo           | Obrigatório         | Obrigatório               |
+| DLPA (pode estar na DMPL) | Facultativo           | Facultativo           | Facultativo         | Facultativo               |
+| DFC (PL > 2 milhões)      | Obrigatório           | Facultativo           | Obrigatório         | Obrigatório               |
+| DVA (companhias abertas)  | Facultativo           | Facultativo           | Obrigatório         | Facultativo               |
+| Notas Explicativas        | Obrigatório           | Obrigatório           | Obrigatório         | Obrigatório               |
 
 ---
 # 4. Balanço Patrimonial
@@ -150,3 +154,6 @@ As S.A. de capital aberto (ações na Bolsa) e instituições financeiras devem 
 
 - Prejuízo no Exercício
 	- Prejuízos Acumulados
+
+---
+
