@@ -102,3 +102,37 @@ As S.A. de capital aberto (ações na Bolsa) e instituições financeiras devem 
 
 # 5. BP - GRUPO DE CONTAS
 
+## Ativo
+### Ativo Circulante
+
+- Caixa e equivalentes
+
+### Ativo Não Circulante - Realizável a Longo Prazo 
+
+- Direitos a receber > ciclo operacional 
+
+### Investimentos
+- Aplicações que não têm nada a ver com a atividade da empresa
+
+### Imobilizado
+- Bens corpóres destinados à manutenção da atividade principal da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à empresa os benefícios, riscos e controle. 
+
+### Intangível
+- Bens incorpóreos destinados à manutenção da empresa
+
+## Passivo
+### Passivo Circulante
+
+- Dívidas que serão pagas a curto prazo 
+
+### Passivo Não Circulante
+
+- Obrigações com 3°'s que serão liquidadas no longo prazo 
+
+---
+## PRINCIPAIS DEDUÇÕES DO ATIVO E DO PATRIMÔNIO LÍQUIDO 
+### DEDUÇÕES DO ATIVO CIRCULANTE 
+
+- Duplicatas a Receber
+	- Provisão para Devedores Duvidosos(PECLD): Cálculo é feito mediante aplicação de percentual obtido pela média considerada como incobrável em períodos anteriores
+- 
