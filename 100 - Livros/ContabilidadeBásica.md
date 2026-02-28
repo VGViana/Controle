@@ -106,14 +106,15 @@ As S.A. de capital aberto (ações na Bolsa) e instituições financeiras devem 
 ### Ativo Circulante
 
 - Caixa e equivalentes
-
+- Compreeende contas que estão constantemente em giro
+- Conversão em dinheiro até no máx, próximo Ex. Social
 ### Ativo Não Circulante - Realizável a Longo Prazo 
 
 - Direitos a receber > ciclo operacional 
 
-### Investimentos
-- Aplicações que não têm nada a ver com a atividade da empresa
 
+### Investimentos
+- Aplicações de caráter permanente que geram rendimentos não necessários à manutenção da atividade principal da empresa
 ### Imobilizado
 - Bens corpóres destinados à manutenção da atividade principal da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à empresa os benefícios, riscos e controle. 
 
@@ -135,4 +136,17 @@ As S.A. de capital aberto (ações na Bolsa) e instituições financeiras devem 
 
 - Duplicatas a Receber
 	- Provisão para Devedores Duvidosos(PECLD): Cálculo é feito mediante aplicação de percentual obtido pela média considerada como incobrável em períodos anteriores
-- 
+- Estoques
+	- Provisão para Perdas de Estoque: O preço da aquisição (Preço de Custo), tornou-se maior do que o preço efetivo no mercado (Preço de Mercado)
+
+### DEDUÇÕES DO ATIVO NÃO CIRCULANTE (EXEMPLO DO IMOBILIZADO)
+
+- Imobilizado
+	- Depreciação Acumulada: valor líquido (valor bruto - depreciação acumulada) 
+- Intangível 
+	- Amortização: Valores brutos serão deduzidos periodicamente se houver perdas, desvalorizações
+
+### DEDUÇÕES DO PL
+
+- Prejuízo no Exercício
+	- Prejuízos Acumulados
