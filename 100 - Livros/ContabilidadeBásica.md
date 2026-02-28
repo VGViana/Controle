@@ -53,3 +53,11 @@ PL = B + D - O
 ---
 # Capítulo 3 - Demonstrações Financeiras
 
+As demonstrações financeiras obrigatórias a partir da Lei n° 11.638/07 são: 
+- BP
+- DRE
+- DFC (S.A. fechadas com PL < 2 mi R$, ficam dispensadas)
+- DVA
+- DLPA
+
+Ativo > 240 mi R$ ou Receita Bruta anual > 300 mi R$ -> Sociedaddes de grande porte
