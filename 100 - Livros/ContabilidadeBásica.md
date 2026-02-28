@@ -3,15 +3,15 @@
 ## [[15. Princípios Contábeis|Princípios Contábeis]]
 
   Existem dois pilares principais, em forma de pricípios ou postulados, na contabilidade:
-  - Princípio da <u>Entidade</u>: O patrimônio da entidade não se confunde com o do seu administrador; e
-  - Princípio da <u>Continuidade</u>: A empresa deve presumir que continuará exercendo as atividades por prazo indeterminado
+  - Princípio da <u><span style="color:#83a598">Entidade</span></u>: O patrimônio da entidade não se confunde com o do seu administrador; e
+  - Princípio da <u><span style="color:#b8bb26">Continuidade</span></u>: A empresa deve presumir que continuará exercendo as atividades por prazo indeterminado
   Contudo, estes não são os únicos princípios existentes.
   --- 
 # Capítulo 2 - Patrimônio
 
 ## Conceito
 
-  Patrimônio é o <u>*conjunto*</u> de Bens, Direitos e Obrigações   
+  Patrimônio é o <u>*conjunto*</u> de *<span style="color:#83a598">Bens</span>*, <span style="color:#b8bb26">*Direitos*</span> e <span style="color:#fb4934">*Obrigações*</span>   
 
 ## Bens
 
@@ -62,16 +62,43 @@ As S.A. de capital aberto (ações na Bolsa) e instituições financeiras devem 
 ## Obrigatoriedade das Demonstrações
 
 
-|                                 | ITG 1000                | NBC TG 1000                    | S.A. Capital Aberto | Capital fechado e Ltdas |
-| ------------------------------- | ----------------------- | ------------------------------ | ------------------- | ----------------------- |
-|                                 | *Micro e Pequeno Porte* | *Pequeno e Médio porte*        |                     |                         |
-| BP                              | Obrigatório             | Obrigatório                    | Obrigatório         | Obrigatório             |
-| DRE                             | Obrigatório             | Obrigatório                    | Obrigatório         | Obrigatório             |
-| DRA (pode ser inclusa na DMPL)  | Facultativo             | Pode ser substituído pela DMPL | Obrigatório         | Obrigatório             |
-| DLPA (pode ser inclusa na DMPL) | Facultativo             | Facultativo                    | Facultativo         | Facultativo             |
-| DMPL                            | Facultativo             | Obrigatório                    | Obrigatório         | Obrigatório             |
-| DFC (PL > 2miR$)                | Facultativo             | Obrigatório                    | Obrigatório         | Obrigatório             |
-| DVA (companhias abertas)        | Facultativo             | Facultativo                    | Obrigatório         | Facultativo             |
-| Notas Explicativas              | Obrigatório             | Obrigatório                    | Obrigatório         | Obrigatório             |
+|                                 |        ITG 1000         |          NBC TG 1000           | S.A. Capital Aberto | Capital fechado e Ltdas |
+| :-----------------------------: | :---------------------: | :----------------------------: | :-----------------: | :---------------------: |
+|                                 | *Micro e Pequeno Porte* |    *Pequeno e Médio porte*     |                     |                         |
+|               BP                |       Obrigatório       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
+|               DRE               |       Obrigatório       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
+| DRA (pode ser inclusa na DMPL)  |       Facultativo       | Pode ser substituído pela DMPL |     Obrigatório     |       Obrigatório       |
+| DLPA (pode ser inclusa na DMPL) |       Facultativo       |          Facultativo           |     Facultativo     |       Facultativo       |
+|              DMPL               |       Facultativo       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
+|        DFC (PL > 2miR$)         |       Facultativo       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
+|    DVA (companhias abertas)     |       Facultativo       |          Facultativo           |     Obrigatório     |       Facultativo       |
+|       Notas Explicativas        |       Obrigatório       |          Obrigatório           |     Obrigatório     |       Obrigatório       |
+
 ---
-#
+# 4. Balanço Patrimonial
+
+## Ativo 
+
+- Conjunto de bens e direitos de propriedade ou controlado pela empresa
+- De maneira geral, o Ativo é registrado inicialmente pelo preço de aquisição ou fabricação, ou seja pelo CUSTO HISTÓRICO ou VALOR ORIGINAL
+
+## Passivo
+
+- Obrigações exigíveis da empresa (dívidas)
+- Capital de 3°'s
+- Evidencia o endividamento da empresa
+
+## Patrimônio Líquido
+
+- Total de aplicações dos proprietários
+- Obrigações não exigíveis
+- Capital próprio
+
+## Conceito de ativo, passiovo e patrimônio líquido conforme o CPC 00
+
+- Ativo: Recurso econômico presente, controlado pela entidade como resultado de eventos passados
+- Passivo: Obrigação presente da entidade de transferir um recurso econômico como resultado de eventos passados
+- PL: Participação residual nos Ativos da entidade após a dedução de todos os seus passivos
+
+# 5. BP - GRUPO DE CONTAS
+
