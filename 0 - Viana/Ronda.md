@@ -1,30 +1,30 @@
 # 14-16
 ## Sentinelas
-- PA 473
+- PA 
 
-- CAN 247
+- CAN 
 
-- PL  226
+- PL  
 
-- 1ª/2ª 428
+- 1ª/2ª 
 
-- LF 477
+- LF 
 
-- SSA 421
+- SSA 
 
-- CIA COM 474
+- CIA COM 473
 
-- SPOL 578
+- SPOL 
 
 - RPOL
 
 ## Lacre 
 - posto 
-- ccom 0001323
-- pol1 0001333
-- pol2 0001341
-- pol4 0001344
-- cfs 0001352
+- ccom 
+- pol1 
+- pol2 
+- pol4 
+- cfs 
 - BC 
 - bmsl 
 ---
