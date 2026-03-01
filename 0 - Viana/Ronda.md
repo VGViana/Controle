@@ -14,7 +14,7 @@
 
 - CIA COM 473
 
-- SPOL 
+- SPOL 577
 
 - RPOL
 
@@ -22,7 +22,7 @@
 - posto 
 - ccom 
 - pol1 0001333
-- pol2 
+- pol2 Lacre quebrado
 - pol4 
 - cfs 
 - BC 
