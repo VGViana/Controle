@@ -419,11 +419,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* II - naturalizados: ^12c01b3
 
-		* a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral; ^8e7c195
+		* a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos <span style="color:#b8bb26">**originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral**</span>; ^8e7c195
 
-		* b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^24ad95a
+		* b) os <span style="color:#b8bb26">**estrangeiros**</span> de qualquer nacionalidade, residentes na República Federativa do Brasil há <span style="color:#83a598">**mais de quinze anos ininterruptos e sem condenação penal**</span>, desde que <span style="color:#fb4934">**requeiram a nacionalidade brasileira**</span>. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^24ad95a
 
-	* § 1° Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
+	* § 1° Aos <span style="color:#b8bb26">**portugueses**</span> com <span style="color:#83a598">**residência permanente no País**</span>, <span style="color:#fb4934"><span style="color: #d79921">se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro</span></span>, <span style="color:#fb4934">**salvo os casos previstos nesta Constituição.**</span> (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
 
 	* § 2° A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição. ^5873957
 
