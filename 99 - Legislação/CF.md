@@ -445,13 +445,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 4° - Será declarada a perda da nacionalidade do brasileiro que: ^ee6d597
 
-		* I - tiver cancelada sua naturalização, por sentença judicial, em virtude de fraude relacionada ao processo de naturalização ou de atentado contra a ordem constitucional e o Estado Democrático; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
+		* I - tiver <span style="color:#83a598">**cancelada sua naturalização, por sentença judicial**</span>, em virtude de <span style="color:#b8bb26">**fraude relacionada ao processo de naturalização**</span> ou de <span style="color:#fb4934">**atentado contra a ordem constitucional e o Estado Democrático**</span>; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
 
-		* II - fizer pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
-
-			* a) revogada; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^138643d
-
-			* b) revogada. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^dc58c98
+		* II - fizer <span style="color:#83a598">**pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente**</span>, <span style="color:#fb4934">ressalvadas situações que acarretem apatridia</span>. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
 
 	* § 5° A renúncia da nacionalidade, nos termos do inciso [[#^8d80025|II]] do § [[#^ee6d597|4°]] deste artigo, não impede o interessado de readquirir sua nacionalidade brasileira originária, nos termos da lei. (Incluído pela Emenda Constitucional n° 131, de 2023) ^351709f
 
