@@ -429,19 +429,19 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 3° São privativos de brasileiro nato os cargos: ^882b017
 
-		* I - de Presidente e Vice-Presidente da República; ^d8f45ab
+		* I - de <span style="color:#fb4934">Presidente e Vice-Presidente</span> da República; ^d8f45ab
 
-		* II - de Presidente da Câmara dos Deputados; ^d97fa37
+		* II - de <span style="color:#fb4934">Presidente da Câmara</span> dos Deputados; ^d97fa37
 
-		* III - de Presidente do Senado Federal; ^43b58cd
+		* III - de <span style="color:#fb4934">Presidente do Senado</span> Federal; ^43b58cd
 
-		* IV - de Ministro do Supremo Tribunal Federal; ^ceff13b
+		* IV - de <span style="color:#fb4934">Ministro do Supremo</span> Tribunal Federal; ^ceff13b
 
-		* V - da carreira diplomática; ^d5d853d
+		* V - da carreira <span style="color:#fb4934">diplomática</span>; ^d5d853d
 
-		* VI - de oficial das Forças Armadas. ^e02dd15
+		* VI - de <span style="color:#fb4934">oficial</span> das Forças Armadas. ^e02dd15
 
-		* VII - de Ministro de Estado da Defesa. (Incluído pela Emenda Constitucional n° 23, de 1999) ^147c3ba
+		* VII - de <span style="color:#fb4934">Ministro de Estado da Defesa</span>. (Incluído pela Emenda Constitucional n° 23, de 1999) ^147c3ba
 
 	* § 4° - Será declarada a perda da nacionalidade do brasileiro que: ^ee6d597
 
