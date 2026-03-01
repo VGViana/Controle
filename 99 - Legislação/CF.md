@@ -411,11 +411,11 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* I - natos: ^658d4e0
 
-		* a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país; ^452e9e4
+		* a) os <span style="color:#b8bb26">**nascidos na República Federativa do Brasil**</span>, ainda que de <span style="color:#83a598">**pais estrangeiros**</span>, <span style="color:#fb4934">**desde que estes não estejam a serviço de seu país**</span>; ^452e9e4
 
-		* b) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil; ^f66ec68
+		* b) os <span style="color:#b8bb26">**nascidos no estrangeiro**</span>, de <span style="color:#83a598">**pai brasileiro ou mãe brasileira**</span>, desde que <span style="color: #d79921">qualquer deles esteja a serviço da República Federativa do Brasil</span>; ^f66ec68
 
-		* c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira; (Redação dada pela Emenda Constitucional n° 54, de 2007) ^3ad78fe
+		* c) os <span style="color:#b8bb26">**nascidos no estrangeiro**</span> de <span style="color:#83a598">**pai brasileiro ou de mãe brasileira,**</span> desde que <span style="color: #d79921"><u>sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira</u></span>; (Redação dada pela Emenda Constitucional n° 54, de 2007) ^3ad78fe
 
 	* II - naturalizados: ^12c01b3
 
