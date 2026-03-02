@@ -2,17 +2,17 @@
 ## Sentinelas
 - PA 376
 
-- CAN 321
+- CAN 
 
-- PL 225
+- PL 
 
-- 1ª/2ª 503
+- 1ª/2ª 
 
-- LF 507
+- LF 
 
-- SSA 551
+- SSA
 
-- CIA COM 473
+- CIA COM 
 
 - SPOL 577
 
@@ -30,7 +30,7 @@
 ---
 # 02-04
 ## Sentinelas
-- PA 473
+- PA 
 
 - CAN 247
 
