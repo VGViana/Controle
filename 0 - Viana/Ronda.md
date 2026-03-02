@@ -32,22 +32,21 @@
 ## Sentinelas
 - PA 
 
-- CAN 247
+- CAN 
 
-- PL 226
+- PL 
 
-- 1ª/2ª 428
+- 1ª/2ª 
 
-- LF 477
+- LF 
 
-- SSA 421
+- SSA 
  
-- CIA COM 474
+- CIA COM 473
 
-- SPOL 578
+- SPOL 
 
-- RPOL 276
-
+- RPOL 
 ## Lacre 
 - posto 
 - ccom 
