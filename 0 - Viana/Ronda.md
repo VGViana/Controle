@@ -1,11 +1,11 @@
 # 14-16
 ## Sentinelas
 
-- PA
+- PA 312
 
-- CAN 
+- CAN 273
 
-- PL 
+- PL 229
 
 - 1ª/2ª 507
 
@@ -25,4 +25,4 @@
 - pol4 
 - cfs 
 - BC 
-- bmsl 0000929
+- bmsl 
