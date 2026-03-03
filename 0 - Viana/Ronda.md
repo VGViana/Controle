@@ -1,52 +1,22 @@
 # 14-16
 ## Sentinelas
-- PA 376
 
-- CAN 
+- PA 312
 
-- PL 
+- CAN 273
 
-- 1ª/2ª 
+- PL 229
 
-- LF 
+- 1ª/2ª 507
 
-- SSA
+- LF 340
 
-- CIA COM 
+- SSA 474
 
-- SPOL 577
+- CIA COM 313
 
-- RPOL
+- SPOL 408
 
-## Lacre 
-- posto 
-- ccom 0000943
-- pol1 0001333
-- pol2 Lacre quebrado
-- pol4 0001344
-- cfs 0000934
-- BC 0000933
-- bmsl 0000944
----
-# 02-04
-## Sentinelas
-- PA 376
-
-- CAN 321
-
-- PL 225
-
-- 1ª/2ª 503
-
-- LF 507
-
-- SSA 551
- 
-- CIA COM 473
-
-- SPOL 577
-
-- RPOL 252
 ## Lacre 
 - posto 
 - ccom 
