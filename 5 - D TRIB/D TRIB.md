@@ -10,6 +10,7 @@
 ### 1. SISTEMA TRIBUTÁRIO NACIONAL
 - [[0. Conceito de Tributo]]
 - [[1. Princípios Tributários]]
+- [[2. Imunidades Tributárias]]
 - [**Princípios e Imunidades**](01.%20Princípios%20e%20Imunidades.md) - Limitações constitucionais ao poder de tributar.
 - [[5. Obrigações]]
 - [[6. Responsabilidades]]
