@@ -34,6 +34,7 @@ tags: []
 ### 💻 Tecnologia e Ferramentas
 - [[TI]] **Tecnologia da Informação**
   - *Banco de dados, SQL e auditoria digital.*
+  - [[RLM]]
 
 ---
 
