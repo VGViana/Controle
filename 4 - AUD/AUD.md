@@ -1,3 +1,9 @@
+---
+id: AUD
+aliases: []
+tags: []
+---
+
 # 🔍 MOC: AUDITORIA
 
 > [!abstract] "O exame independente para validação da verdade."
@@ -12,7 +18,7 @@
 
 ### 2. APLICAÇÃO E TIPOS
 - [**Auditoria Interna**](1.%20Auditoria%20Interna.md) - O controle vindo de dentro para o mestre.
-
+- [[2. Planejamento]]
 ---
 
 ## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)

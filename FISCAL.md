@@ -1,3 +1,9 @@
+---
+id: FISCAL
+aliases: []
+tags: []
+---
+
 # 🏛️ Constituição Naveável: Fisco
 
 > *"A ordem é a base de toda virtude."*
