@@ -88,22 +88,22 @@ q: proposição 2
     - "O <u>auditor fiscal **entrou** na empresa</u>, **<span style="color: #d79921">mas</span>** **<u>não verificou** o livro contábil</u>" => **p ∧~q**
 - Mesma equivalência lógica que **<span style="color: #d79921">e</span>** **não**. Lembre-se das conjunções adversativas (mas, todavia, entretanto...)
 
-**1.4.2 Disjunção Inclusiva ("OU")**
+### **1.4.2 Disjunção Inclusiva ("OU")**
 
 O conectivo OU é simbolizado por "_∨" (p ∨ q)._ Ele cria proposições compostas e requer que **qualquer uma das proposições simples que a compõem seja verdadeira.**
 
 Somente será falso se **todas as proposições simples que o compõem sejam falsas.**
 
-**1.4.3** **Condicional (SE... ENTÃO)**
+### **1.4.3** **Condicional (SE... ENTÃO)**
 
 A ideia por trás do operador condicional é que a **proposição antecedente (a primeira)** estabelece uma **condição para a ocorrência da segunda**, que também pode ser chamada de **consequente**.
 
-**Se** **eu for à festa,** **então** **ficarei solteiro” (p** **→→****q)**
+**<span style="color: #d79921">Se</span>** **eu for à festa,** **<span style="color: #d79921">então</span>** **ficarei solteiro” (p→q)**
 
 **  
-❗Atenção**, poderá haver outros operadores além do “se.… então...”, por exemplo, “_Quando eu for à festa, ficarei solteiro_” equivale a “_Se_ _eu for à festa,_ _então_ _ficarei solteiro_” e “_Penso, logo existo_” é o mesmo que “_Se_ _penso,_ _então_ _existo_”. Portanto, **atente-se ao sentido da frase (condicional)** **e não ao operador "se... então..."**
+❗Atenção**, poderá haver outros operadores além do “se.… então...”, por exemplo, “_Quando eu for à festa, ficarei solteiro_” equivale a “<span style="color: #d79921">_Se_</span> _eu for à festa,_ <span style="color: #d79921">_então_</span> _ficarei solteiro_” e “_Penso, logo existo_” é o mesmo que “<span style="color: #d79921">_Se_</span> _penso,_ <span style="color: #d79921">_então_</span> _existo_”. Portanto, **atente-se ao sentido da frase (condicional)** **e não ao operador "se... então..."**
 
-🎯**Dica:** Proposição simples "**p"** (suficiente) **V** e proposição simples "**q"** (necessária) **F** resultam numa proposição composta **falsa**, a **V****era** **F****isher é** **F****oda 😂** . As demais serão **verdadeiras**.
+🎯**Dica:** Proposição simples "**p"** (suficiente) **V** e proposição simples "**q"** (necessária) **F** resultam numa proposição composta **<span style="color:#fb4934">falsa</span>**, a **V**era **F**isher é **F**oda. As demais serão **<span style="color:#b8bb26">verdadeiras</span>**.
 
 **Formas alternativas de se representar a condicional "se...então"** 
 
@@ -124,16 +124,16 @@ A ideia por trás do operador condicional é que a **proposição antecedente (a
 
 **❗****Atenção**, você deve identificar qual proposição simples é a suficiente e qual é a necessária: ⚠️ **Bancas já fizeram essa cobrança.**
 
-**Se** **eu for à festa,** **então** **ficarei solteiro” (p****→→****q)**
+**<span style="color: #d79921">Se</span>** **eu for à festa,** **<span style="color: #d79921">então</span>** **ficarei solteiro” (p→q)**
 
 - **p** é condição **suficiente** para **q;**
 - **q** é condição **necessária** para **p.**
 
-*Isto é, **na proposição destacada**, a condição de **eu ir à festa** é **suficiente** para **eu ficar solteiro** e a condição de **eu ficar solteiro** é **necessária** para **eu ir à festa**, beleza?
+*Isto é, **na proposição destacada**, a condição de **<u>eu ir à festa</u>** é **suficiente** para **<u>eu ficar solteiro</u>** e a condição de **<u>eu ficar solteiro</u>** é **necessária** para **<u>eu ir à festa</u>**, beleza?
 
 **⚠️ Quando houver o "Se...então..." fica fácil identificar a proposição suficiente:**
 
-**S**uficiente: **S**e eu for à festa...
+**<span style="color: #d79921">S</span>**uficiente: **<span style="color: #d79921">S</span>**e eu for à festa...
 
 **Relação com os Quantificadores Universais**
 
@@ -142,7 +142,7 @@ O quantificador **TODOS** se relaciona a uma condição suficiente e o quantifi
 - Todo A é B : _A → B_
 - Nenhum A é B: _A → ~ B_
 
-**1.4.4 Disjunção Exclusiva (OU... MAS NÃO AMBOS)**
+### **1.4.4 Disjunção Exclusiva (OU... MAS NÃO AMBOS)**
 
 O Operador **OU... MAS NÃO AMBOS** se diferencia do operador **OU** convencional, porque ele não aceita que todas as proposições que o componham sejam verdadeiras. 
 
@@ -150,29 +150,29 @@ Ele é indicado pelo símbolo **V** :  “**Ou irei à festa** **ou ficarei em 
 
 🎯 **Dica:** Caso as proposições simples forem de **igual** valor lógico, então o valor lógico da proposição composta será **falso**; e quando as simples **forem diferentes**, a composta será **verdadeira.**
 
-**1.4.5 Bicondicional (SE... E SOMENTE SE)**
+### **1.4.5 Bicondicional (SE... E SOMENTE SE)**
 
-"**Assistirei ao filme de terror** **se, e somente se** **for de manhã**" (**p****↔↔****q**)
+"**Assistirei ao filme de terror** **<span style="color: #d79921">se, e somente se</span>** **for de manhã**" (**p↔q**)
 
 **❗Atenção:** Assim como no condicional, aqui **você deverá prestar atenção ao sentido da frase e não à identificação do "se... e somente se"**, por exemplo: _"Assistirei ao filme de terror_ **_se e só se_** _for de manhã" e "O rei vai à batalha_ **_assim como_** _a rainha vai ao castelo"._
 
-**🎯 Dica:** Quando as proposições forem **iguais,** o valor lógico é **verdadeiro** e quando forem **diferentes** será **falso**. **Perceba que é justamente o contrário da disjunção exclusiva (v)**
+**🎯 Dica:** Quando as proposições forem **<span style="color:#b8bb26">iguais</span>,** o valor lógico é **<span style="color:#b8bb26">verdadeiro</span>** e quando forem **<span style="color:#fb4934">diferentes*</span>* será **<span style="color:#fb4934">falso</span>**. **Perceba que é justamente o contrário da disjunção exclusiva (v)**
 
-**1.5** **Tabela Verdade**
+## **1.5** **Tabela Verdade**
 
-|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
-|p|q|~p|p ^ q|p v q|p  ➜ q|p ⇿ q|p **v** q|
-|V|V|F|V|V|V|V|F|
-|V|F|F|F|V|F|F|V|
-|F|V|V|F|V|V|F|V|
-|F|F|V|F|F|V|V|F|
+|     |     |     |       |       |        |       |           |
+| --- | --- | --- | ----- | ----- | ------ | ----- | --------- |
+| p   | q   | ~p  | p ^ q | p v q | p  ➜ q | p ⇿ q | p **v** q |
+| V   | V   | F   | V     | V     | V      | V     | F         |
+| V   | F   | F   | F     | V     | F      | F     | V         |
+| F   | V   | V   | F     | V     | V      | F     | V         |
+| F   | F   | V   | F     | F     | V      | V     | F         |
 
-**1.5.1 Número de linhas da Tabela-Verdade**
+### **1.5.1 Número de linhas da Tabela-Verdade**
 
 Se uma proposição composta apresenta **"n"** proposições, então a tabela verdade terá **"** 2n2n ", na qual n é o número de proposições simples
 
-**1.6 Equivalências Lógicas  Fundamentais**
+## **1.6 Equivalências Lógicas  Fundamentais**
 
 - _p → q_ _≡_ _~q →_ _~__p_ (Contrapositiva)
 - _p → q_ _≡_ _~__p ∨ q_ (Transformação da condicional em disjunção inclusiva)
@@ -183,7 +183,7 @@ Se uma proposição composta apresenta **"n"** proposições, então a tabela v
 
 ![[Lógica de Preposições.png]]
 
-**1.7** **Negação de proposições**
+## **1.7** **Negação de proposições**
 
 - _~(~p)_ _≡_ _p_ (Dupla negação da proposição simples)
 - _~ (__p ^ q)_ _≡_ _~__p ∨ ~q_ (Negação da conjunção)
@@ -192,12 +192,8 @@ Se uma proposição composta apresenta **"n"** proposições, então a tabela v
 - _~(p ↔ q)_ _≡_ _p v q_ (Negação da bicondicional)
 - _~(p v q)_ _≡_ _p ↔ q_ (Negação da disjunção exclusiva)
 
-**1.8 Tautologia, Contradição e Contingência  
-  
-**
+## **1.8 Tautologia, Contradição e Contingência**
 
-Tautologia: é uma proposição cujo valor lógico é **sempre verdadeiro**.
+<span style="color:#fe8019">Contradição</span>: é uma proposição cujo valor lógico é **sempre falso**.
 
-Contradição: é uma proposição cujo valor lógico é **sempre falso**.
-
-Contingência: é uma proposição cujos valores lógicos podem ser **tanto V quanto F**.
+<span style="color: #d79921">Contingência</span>: é uma proposição cujos valores lógicos podem ser **tanto V quanto F**.
