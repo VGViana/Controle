@@ -75,20 +75,20 @@ A fim de representar as proposições quantificadores, iremos montar **diagramas
 
 "**<span style="color:#fb4934">Nenhum</span>** aluno Guruja foi aprovado" 😢
 
-![[quantificador universal negativo.png]]
+![[quantificador universal negativo.png|519]]
 
 - **Quantificador existencial afirmativo** **(<span style="color:#b8bb26">parte verde</span>)**
 
 **"<span style="color:#83a598">Existe pelo menos um</span>** aluno Guruja que foi aprovado**"**
 
-![[quantificador existencial afirmativo.png]]
+![[quantificador existencial afirmativo.png|481]]
 
 
 - **Quantificador existencial negativo** (**<span style="color:#b8bb26">parte verde</span>**)
 
 "**<span style="color:#fb4934">Existe pelo menos um</span>** aluno Guruja que **<span style="color:#fb4934">não</span>** foi aprovado"
 
-![[quantificador existencial negativo.png]]
+![[quantificador existencial negativo.png|475]]
 
 🎯 **Dica:** Bastante importante aprender a manusear e criar os Diagramas de Venn para **entender a conversão**!!
 
