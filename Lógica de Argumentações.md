@@ -1,6 +1,6 @@
 # **1.LÓGICA DE ARGUMENTAÇÃO** 
 
-**1.1 Para resolver algumas questões precisamos relembrar a tabela verdade de cada um dos conectivos lógicos:**
+## **1.1 Para resolver algumas questões precisamos relembrar a tabela verdade de cada um dos conectivos lógicos:**
 
 - **Conjunção (p ^ q):** é **<span style="color:#b8bb26">verdadeira</span>** quando as proposições **p** e **q** são **<span style="color:#b8bb26">ambas verdadeiras</span>**. Fora desse caso, ela é sempre falsa.
     - Ex: O gato é rosa **e** o cachorro é verde.
@@ -26,7 +26,7 @@ P **pois** Q = **Se** Q **então** P
 - <span style="color:#b8bb26">Argumento válido</span>: a **conclusão** é necessariamente **verdadeira** quando as **premissas são verdadeiras**.
 - <span style="color:#fb4934">Argumento inválido</span>: a **conclusão é falsa** quando as **premissas são verdadeiras**.
 
-❗Veracidade é diferente de validade. A primeira refere-se à característica das **proposições** de serem verdadeiras ou falsas. A segunda está relacionada à estrutura lógica dos **argumentos**.  
+❗<span style="color:#83a598">Veracidade</span> é diferente de <span style="color:#d3869b">validade</span>. A primeira refere-se à característica das <span style="color:#83a598">**proposições**</span> de serem verdadeiras ou falsas. A segunda está relacionada à estrutura lógica dos **<span style="color:#d3869b">argumentos</span>**.  
   
 
 ## **1.3 Argumento Dedutivo**
@@ -35,6 +35,10 @@ P **pois** Q = **Se** Q **então** P
     
 - Ex: Sabemos que tabela verdade do conectivo Se, e então, só apresenta uma possibilidade de valor F (quanto V→F), logo, se a questão falar que uma proposição com Se, e então é F, já podemos inferir os valor da premissa. 
 
+## **Argumento Indutivo**
+
+- Particular -> Geral
+    - Observação -> Formulação das hipóteses -> Teoria, enunciados, leis
 # **2. DIAGRAMAS LÓGICOS**
 
 ## **2.1 Tipos de quantificadores**
