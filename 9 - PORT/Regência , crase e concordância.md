@@ -9,7 +9,7 @@ Principais casos:
 - **<span style="color:#d3869b">Repetição da Preposição</span>**: quando a palavra determinante é acompanhada por mais de um complemento é possível manter ou não a segunda preposição.
     - _Ex.: "Os medos **da** infância e **da** adolescência voltavam"._
     - _Ex.: "Os medos **da infância e adolescência** voltavam"_. 
-- **Termos que indicam ressalva**: segundo a norma, **não se admite preposição após termos que indicam _ressalva, exceção_**. *_**Polêmica!**_ 
+- **<span style="color:#d3869b">Termos que indicam ressalva</span>**: segundo a norma, **não se admite preposição após termos que indicam <span style="color: #d79921">_ressalva, exceção_</span>**. *_**<span style="color:#fb4934">Polêmica</span>!**_ 
     - _Ex.: "Posso tirar meu sustento de qualquer trabalho, exceto esse". ✔️ [exceto **d**esse - ❌]_ 
     - _Ex.: "Eu gosto de tudo, menos brócolis". ✔️ [menos **de** brócolis - ❌]_
     - _Ex.: "Não tenho medo de nada, salvo ratos". ✔️ [salvo **de** ratos - ❌]_
@@ -20,7 +20,7 @@ Principais casos:
 
 **_Fonte: Manual Completo de Português para Concursos_**
 
-- **Contração de preposição e artigo quando temos sujeito com verbo no infinitivo**:  
+- **<span style="color:#d3869b">Contração de preposição e artigo quando temos sujeito com verbo no infinitivo</span>**:  
 
 - _Ex.: "Está na hora_ **_de a_** _onça beber água"_. 
 
@@ -30,7 +30,7 @@ Em oposição aos que defendem o não uso da contração, está _**Evanildo Bech
 
 - _Está na hora_ **_da_** _onça beber água_.
 
-_**Principais Regências Nominais**_ 
+_**<span style="color:#b8bb26">Principais Regências Nominais</span>**_ 
 
 |                                                                                                                                                                                                                              |                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@ Como vimos, regência é o processo sintático em que uma palavra determinante s
 
 Vejamos alguns casos importantes sobre regência:
 
-- **Complemento comum a verbos de regência diferente**:
+- **<span style="color:#d3869b">Complemento comum a verbos de regência diferente</span>**:
     - Coloquialmente, é muito frequente o uso do mesmo complemento para verbos cuja regência exige preposições distintas, veja:
         - _Ex.: "**Entrei** e **saí** de casa rapidamente"_. 
         - _Ex.: "**Fui** e **voltei** do trabalho e ainda estava bem disposto"._
@@ -59,48 +59,48 @@ Portanto, são corretas as formas:
 - _**"Entrei**_ em casa e dela _**saí**_ rapidamente".
 - _**"Fui**_ ao trabalho e quando _**voltei**_ dele ainda estava bem disposto". 
 
-_**Verbos com mais de uma regência**_ 
+_**<span style="color:#b8bb26">Verbos com mais de uma regência</span>**_ 
 
 _**Verbo Agradar**_ 
 
-- **No sentido de acariciar, não rege preposição alguma = VTD:**.  
+- **<span style="color:#d3869b">No sentido de acariciar, não rege preposição alguma = VTD</span>:**.  
     - _Ex.: O pai sempre **agrada seu filho**._
-- **No sentido de s****atisfazer, rege a preposição "a"**  **= VTI**:
+- **<span style="color:#d3869b">No sentido de satisfazer, rege a preposição "a"</span>**  **= <span style="color:#d3869b">VTI</span>**:
     - _Ex.: O espetáculo sempre **agrada à plateia**._
 
 _**Verbo Aspirar**_
 
-- **No sentido de** **respirar, inspirar, não rege preposição = VTD**:
+- **<span style="color:#d3869b">No sentido de</span>** **respirar, inspirar, não rege preposição = VTD**:
     - _Ex.: Com essa altitude, não conseguimos **aspirar o ar**._
-- **No sentido de a****lmejar, rege a preposição "a"** **= VTI**:
+- **No sentido de <span style="color:#d3869b">almejar, rege a preposição "a</span>"** **= <span style="color:#d3869b">VTI</span>**:
     - _Ex.: Ela almeja **ao cargo** mais alto._
 
 _**Verbo Assistir**_
 
 Para o verbo assistir, Rocha Lima apresenta cinco acepções que, segundo ele, são as que persistem no português. São elas:
 
-- **Com sentido de estar presente a, ser espectador de, presenciar**: **VTI**
+- **<span style="color:#d3869b">Com sentido de estar presente a, ser espectador de, presenciar*</span>*: **VTI**
     - _Ex.: “Infelizmente os meus olhos não gozaram a bem-aventurança de **assistir a** esse espetáculo vivo do nosso evangelho.” (Rui Barbosa)_
-- **Sentido de competir, caber (direito, ou razão, a alguém)**: **VTI**
+- **<span style="color:#d3869b">Sentido de competir, caber (direito, ou razão, a alguém)</span>**: **VTI**
     - _Ex.: “[...] o direito que **assiste ao** autor de ligar o nome a todos os seus produtos intelectuais.” (Rui Barbosa)_
-- **Sentido de servir de ajudante a alguém, acompanhá-lo, assessorá-lo**: **VTD**
+- **<span style="color:#d3869b">Sentido de servir de ajudante a alguém, acompanhá-lo, assessorá-lo</span>**: **VTD**
     - _Ex.: “Fazer competência de quem mais há de **assistir o** príncipe” (Antônio Vieira)_
-- **Sentido de prestar socorro a um doente, agonizante ou desvalido, tratando-o, ou confortando-o moralmente**: **VTD**
+- **<span style="color:#d3869b">Sentido de prestar socorro a um doente, agonizante ou desvalido, tratando-o, ou confortando-o moralmente</span>**: **VTD**
     - _Ex.: “Deus bom, que **assiste os** coitados.” (Cyro dos Anjos)_
-- **Sentido de ajudar, proteger alguém**: **VTD**
+- **<span style="color:#d3869b">Sentido de ajudar, proteger alguém</span>**: **VTD**
     - _Ex.: “Enquanto conservou (Sansão) os cabelos, **assistiu-o** Deus.” (Antônio Vieira)_.
 
 _**Verbo Implicar**_
 
-- **VTD** - _Ex: Seguir seus sonhos implica **força de vontade.**_
-- **VTI** - _Ex: João está sendo implicado_ **_em má conduta_.**
+- **<span style="color:#d3869b">VTD</span>** - _Ex: Seguir seus sonhos implica **força de vontade.**_
+- **<span style="color:#d3869b">VTI</span>** - _Ex: João está sendo implicado_ **_em má conduta_.**
 
 _**Verbo Preferir**_
 
-- 🚨 **Apenas aceita a preposição "a", quando VTDI**
-    - VTDI - _Ex.: Preferiu contabilidade à **estatística.**_ ️Fique atento ao  **PARALELISMO!**
+- 🚨 **<span style="color:#d3869b">Apenas aceita a preposição "a", quando VTDI</span>**
+    - VTDI - _Ex.: Preferiu contabilidade à **estatística.**_ ️Fique atento ao  **<span style="color:#fb4934">PARALELISMO</span>!**
 
-_**2 - Crase**_
+# _**2 - Crase**_
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,17 +115,17 @@ _**2 - Crase**_
 - _**Palavras determinadas**_: são aquelas que impõem a regra de concordância [_**substantivos e pronomes**_] . 
 - _**Palavras determinantes**_: são palavras que seguem a concordância exigida pela palavra determinada. [_**adjetivos, artigos, numerais**_] 
 
-_**Principais casos**:_ 
+_**<span style="color:#b8bb26">Principais casos</span>**:_ 
 
 **➡ _Quando há apenas uma palavra determinada e uma determinante_** 
 
-- É o caso mais simples. _**Ex.: Rapaz estudado**_ - [Concorda em gênero (masculino/feminino) e número (singular e plural) coma palavra determinada].
+- É o caso mais simples. _**Ex.: Rapaz <span style="color:#b8bb26">estudado</span>**_ - [Concorda em gênero (masculino/feminino) e número (singular e plural) coma palavra determinada].
 
 **➡ _Quando há mais de uma palavra determinada_** 
 
-- Se for do **mesmo gênero**, há duas possibilidades:
-    - Concordância total - _Ex.: "**A brisa e a maré** **tranquilas** conduziam o barco adiante."_ 
-    - Concordância atrativa - concorda com o termo mais próximo - _Ex.: A brisa e a **maré tranquila** conduziam o barco adiante._ 
+- Se for do **<span style="color: #d79921">mesmo gênero</span>**, há duas possibilidades:
+    - Concordância total - _Ex.: "**A <span style="color:#83a598">brisa e a maré</span>** **tranquilas** conduziam o barco adiante."_ 
+    - Concordância atrativa - concorda com o termo mais próximo - _Ex.: A brisa e a **<span style="color:#83a598">maré tranquila</span>** conduziam o barco adiante._ 
 - Se forem de **gêneros diferentes**, também há duas possibilidades:
     - Concordância se fará com **gênero masculino** - _Ex.: "Todos os seus **desejos e vontades** eram **satisfeitos**."_
     - Concordância atrativa - concorda com o termo mais próximo - _Ex.: "Homens e **mulheres perfiladas** aguardavam a ordem para partir."_
