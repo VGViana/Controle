@@ -6,7 +6,7 @@
 
 Principais casos:
 
-- **Repetição da Preposição**: quando a palavra determinante é acompanhada por mais de um complemento é possível manter ou não a segunda preposição.
+- **<span style="color:#d3869b">Repetição da Preposição</span>**: quando a palavra determinante é acompanhada por mais de um complemento é possível manter ou não a segunda preposição.
     - _Ex.: "Os medos **da** infância e **da** adolescência voltavam"._
     - _Ex.: "Os medos **da infância e adolescência** voltavam"_. 
 - **Termos que indicam ressalva**: segundo a norma, **não se admite preposição após termos que indicam _ressalva, exceção_**. *_**Polêmica!**_ 
