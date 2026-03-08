@@ -124,11 +124,11 @@ _**<span style="color:#b8bb26">Principais casos</span>**:_ 
 **➡ _Quando há mais de uma palavra determinada_** 
 
 - Se for do **<span style="color: #d79921">mesmo gênero</span>**, há duas possibilidades:
-    - Concordância total - _Ex.: "**A <span style="color:#83a598">brisa e a maré</span>** **tranquilas** conduziam o barco adiante."_ 
+    - Concordância total - _Ex.: "**A <span style="color:#83a598">brisa e a maré</span>** **<span style="color:#83a598">tranquilas</span>** conduziam o barco adiante."_ 
     - Concordância atrativa - concorda com o termo mais próximo - _Ex.: A brisa e a **<span style="color:#83a598">maré tranquila</span>** conduziam o barco adiante._ 
-- Se forem de **gêneros diferentes**, também há duas possibilidades:
-    - Concordância se fará com **gênero masculino** - _Ex.: "Todos os seus **desejos e vontades** eram **satisfeitos**."_
-    - Concordância atrativa - concorda com o termo mais próximo - _Ex.: "Homens e **mulheres perfiladas** aguardavam a ordem para partir."_
+- Se forem de **<span style="color: #d79921">gêneros diferentes</span>**, também há duas possibilidades:
+    - Concordância se fará com **gênero masculino** - _Ex.: "Todos os seus **desejos e vontades** eram **<span style="color:#83a598">satisfeitos</span>**."_
+    - Concordância atrativa - concorda com o termo mais próximo - _Ex.: "Homens e **mulheres <span style="color:#83a598">perfiladas</span>** aguardavam a ordem para partir."_
 
 **➡ _Quando há apenas uma palavra determinada e mais de uma determinante_**
 
