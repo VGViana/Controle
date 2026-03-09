@@ -1,6 +1,25 @@
 Tags:: #LEI
 Fonte:: [Constituição Federal de 1988 (CF1988)](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+Data:: 25/03/2025 16:48:24
 
+Siga o [@navegamente_](https://instagram.com/navegamente_?igshid=NjIwNzIyMDk2Mg==) para dicas e conteúdo sobre Obsidian e 2° cérebro!
+
+> [!FALE CONOSCO!]- FALE COM O NAVEGAMENTE!
+> Encontrou algum problema ou deseja deixar algum comentário ou sugestão?
+>
+> Nos avise por [AQUI](mailto:suporte@navegamente.com.br)
+
+> [!IMPORTANT]- AVISO
+> O Navega Lei é projetado para auxiliar o estudo da lei por meio de formatação e referências, com o intuito de facilitar a leitura e o aprendizado.
+>
+> Qualquer texto presente no Navega Lei não deve ser considerado como base legal para decisões ou ações jurídicas. Se você planeja usar a legislação para fins legais ou profissionais, é crucial verificar sempre a legislação original e atualizada nos órgãos governamentais competentes.
+>
+> O Navega Lei não substitui a consulta direta à legislação oficial para fins legais.
+
+> [!WARNING]- IMPORTANTE
+> Utilize apenas documentos Navega Lei.
+>
+> Versões adquiridas por fora podem estar erradas, desatualizadas ou conter arquivos maliciosos (vírus), prejudicando o usuário. Confie apenas na formatação das leis fornecidas através da nossa área de membros.
 
 ***
 
@@ -19,31 +38,31 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 # 1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/1. TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS (ARTS. 1 A 4)|Resumo]]
 
-* Art. 1° A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como <span style="color:#83a598">fundamentos</span>: ^77575b2
+* Art. 1° A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: ^77575b2
 
-	* I - a <span style="color:#83a598">so</span>berania; ^358f0d8
+	* I - a soberania; ^358f0d8
 
-	* II - a <span style="color:#83a598">ci</span>dadania; ^9f5515b
+	* II - a cidadania; ^9f5515b
 
-	* III - a <span style="color:#83a598">di</span>gnidade da pessoa humana; ^b2aa964
+	* III - a dignidade da pessoa humana; ^b2aa964
 
-	* IV - os <span style="color:#83a598">va</span>lores sociais do trabalho e da livre iniciativa; (Vide Lei n° 13.874, de 2019) ^fc6cb69
+	* IV - os valores sociais do trabalho e da livre iniciativa; (Vide Lei n° 13.874, de 2019) ^fc6cb69
 
-	* V - o <span style="color:#83a598">plu</span>ralismo político. ^8004c2d
+	* V - o pluralismo político. ^8004c2d
 
 	* Parágrafo único. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição. ^660e64d
 
 * Art. 2° São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário. ^bd4f65c
 
-* Art. 3° Constituem <span style="color:#fb4934">objetivos</span> fundamentais da República Federativa do Brasil: ^197f612
+* Art. 3° Constituem objetivos fundamentais da República Federativa do Brasil: ^197f612
 
-	* I - <span style="color:#fb4934">con</span>struir uma sociedade livre, justa e solidária; ^270a970
+	* I - construir uma sociedade livre, justa e solidária; ^270a970
 
-	* II - <span style="color:#fb4934">ga</span>rantir o desenvolvimento nacional; ^8d986fd
+	* II - garantir o desenvolvimento nacional; ^8d986fd
 
-	* III - <span style="color:#fb4934">erra</span>dicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; ^236dbcc
+	* III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; ^236dbcc
 
-	* IV - <span style="color:#fb4934">pro</span>mover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. ^2c8c335
+	* IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. ^2c8c335
 
 * Art. 4° A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: ^1955485
 
@@ -294,67 +313,67 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 ## 2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)|Resumo]]
 
-* Art. 6° São direitos sociais a <span style="color: #d79921">educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados</span>, na forma desta Constituição. (Redação dada pela Emenda Constitucional n° 90, de 2015) ^251d44c
+* Art. 6° São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional n° 90, de 2015) ^251d44c
 
-	* Parágrafo único. <span style="color:#83a598">Todo brasileiro em situação de vulnerabilidade social</span> terá direito a <span style="color:#83a598">uma renda básica familiar</span>, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão <span style="color:#83a598">determinados em lei</span>, observada a legislação fiscal e orçamentária (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide Lei n° 14.601, de 2023) ^49a969f
+	* Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide Lei n° 14.601, de 2023) ^49a969f
 
-* Art. 7° São <span style="color: #d79921">direitos dos trabalhadores urbanos e rurais,</span> além de outros que visem à melhoria de sua condição social: ^0f410c4
+* Art. 7° São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social: ^0f410c4
 
-	* I - relação de emprego protegida contra <span style="color: #d79921">despedida arbitrária ou sem justa causa,</span> nos termos de lei complementar, que <span style="color: #d79921">preverá indenização compensatória</span>, dentre outros direitos; ^fe73bea
+	* I - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos; ^fe73bea
 
-	* II - <span style="color: #d79921">seguro-desemprego</span>, em caso de desemprego involuntário; ^a335086
+	* II - seguro-desemprego, em caso de desemprego involuntário; ^a335086
 
-	* III - <span style="color: #d79921">f</span>undo de <span style="color: #d79921">g</span>arantia do <span style="color: #d79921">t</span>empo de <span style="color: #d79921">s</span>erviço; ^bff636c
+	* III - fundo de garantia do tempo de serviço; ^bff636c
 
-	* IV - <span style="color: #d79921">salário mínimo</span>, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com <span style="color: #d79921">reajustes periódicos</span> que lhe preservem o poder aquisitivo, sendo <span style="color:#fb4934">vedada sua vinculação</span> para qualquer fim; ^d137e98
+	* IV - salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim; ^d137e98
 
-	* V - <span style="color: #d79921">piso salarial</span> proporcional à extensão e à complexidade do trabalho; ^756e911
+	* V - piso salarial proporcional à extensão e à complexidade do trabalho; ^756e911
 
-	* VI - <span style="color: #d79921">irredutibilidade do salário,</span> <span style="color:#fb4934">salvo o disposto em convenção ou acordo coletivo</span>; ^d255ee9
+	* VI - irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo; ^d255ee9
 
 	* VII - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável; ^a29bb55
 
-	* VIII - <span style="color: #d79921">décimo terceiro</span> salário com base na remuneração integral ou no valor da aposentadoria; ^b7430d7
+	* VIII - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria; ^b7430d7
 
-	* IX - <span style="color: #d79921">remuneração do trabalho noturno superior</span> à do diurno; ^3f6af15
+	* IX - remuneração do trabalho noturno superior à do diurno; ^3f6af15
 
-	* X - proteção do salário na forma da lei, constituindo <span style="color:#fb4934">crime sua retenção dolosa</span>; ^755091e
+	* X - proteção do salário na forma da lei, constituindo crime sua retenção dolosa; ^755091e
 
-	* XI - <span style="color: #d79921">participação nos lucros</span>, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei; ^b0278fb
+	* XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei; ^b0278fb
 
-	* XII - <span style="color: #d79921">salário-família</span> pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0847d33
+	* XII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0847d33
 
-	* XIII - duração do trabalho normal <span style="color:#83a598">não superior a oito horas diárias e quarenta e quatro semanais</span>, <span style="color:#fb4934">facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho;</span> (Vide Decreto-Lei n° 5.452, de 1943) ^544ec34
+	* XIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Vide Decreto-Lei n° 5.452, de 1943) ^544ec34
 
-	* XIV - jornada de <span style="color:#83a598">seis horas para o trabalho realizado em turnos ininterruptos de revezamento</span>, salvo <span style="color:#fb4934">negociação coletiva</span>; ^cced1f9
+	* XIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva; ^cced1f9
 
-	* XV - <span style="color: #d79921">repouso semanal remunerado</span>, preferencialmente aos domingos; ^13418a3
+	* XV - repouso semanal remunerado, preferencialmente aos domingos; ^13418a3
 
-	* XVI - <span style="color: #d79921">remuneração do serviço extraordinário superior</span>, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1°) ^9cab680
+	* XVI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1°) ^9cab680
 
-	* XVII - gozo de <span style="color: #d79921">férias anuais remuneradas</span> com, pelo menos, um terço a mais do que o salário normal; ^dec1e40
+	* XVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; ^dec1e40
 
-	* XVIII - <span style="color: #d79921">licença à gestante</span>, sem prejuízo do emprego e do salário, com a duração de <span style="color:#b8bb26">cento e vinte dias</span>; ^30b33de
+	* XVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias; ^30b33de
 
-	* XIX - <span style="color: #d79921">licença-paternidade</span>, nos termos fixados em lei; ^c6fbc10
+	* XIX - licença-paternidade, nos termos fixados em lei; ^c6fbc10
 
 	* XX - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei; ^269e85b
 
-	* XXI - <span style="color: #d79921">aviso prévio</span> proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; ^24a4f6b
+	* XXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; ^24a4f6b
 
 	* XXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança; ^be2a168
 
-	* XXIII - adicional de remuneração para as atividades <span style="color: #d79921">penosas, insalubres ou perigosas</span>, na forma da lei; ^a134df9
+	* XXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei; ^a134df9
 
-	* XXIV - <span style="color: #d79921">aposentadoria;</span> ^d2b3dc9
+	* XXIV - aposentadoria; ^d2b3dc9
 
-	* XXV - assistência gratuita aos filhos e dependentes desde o <span style="color:#b8bb26">nascimento até 5 (cinco) anos de idade em creches e pré-escolas</span>; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^7444b20
+	* XXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^7444b20
 
 	* XXVI - reconhecimento das convenções e acordos coletivos de trabalho; ^1bf7257
 
-	* XXVII - <span style="color: #d79921">proteção em face da automação</span>, na forma da lei; ^02079b3
+	* XXVII - proteção em face da automação, na forma da lei; ^02079b3
 
-	* XXVIII - <span style="color:#83a598">seguro contra acidentes de trabalho, a cargo do empregador</span>, <span style="color:#fb4934">sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa</span>; ^1f0f98b
+	* XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa; ^1f0f98b
 
 	* XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional n° 28, de 2000) ^bee76d7
 
@@ -368,41 +387,41 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos; ^6c135de
 
-	* XXXIII - <span style="color:#83a598">proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito</span> e de <span style="color:#83a598">qualquer trabalho a menores de dezesseis anos,</span> <span style="color:#fb4934">salvo na condição de aprendiz, a partir de quatorze anos</span>; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^907361a
+	* XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^907361a
 
 	* XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso ^dd2c4a2
 
-	* Parágrafo único. São assegurados à categoria dos <span style="color:#83a598">trabalhadores domésticos</span> os direitos previstos nos incisos [[#^d137e98|IV]], [[#^d255ee9|VI]], [[#^a29bb55|VII]], [[#^b7430d7|VIII]], [[#^755091e|X]], [[#^544ec34|XIII]], [[#^13418a3|XV]], [[#^9cab680|XVI]], [[#^dec1e40|XVII]], [[#^30b33de|XVIII]], [[#^c6fbc10|XIX]], [[#^24a4f6b|XXI]], [[#^be2a168|XXII]], [[#^d2b3dc9|XXIV]], [[#^1bf7257|XXVI]], [[#^13574f6|XXX]], [[#^3307df6|XXXI]] e [[#^907361a|XXXIII]] e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos [[#^fe73bea|I]], [[#^a335086|II]], [[#^bff636c|III]], [[#^3f6af15|IX]], [[#^0847d33|XII]], [[#^7444b20|XXV]] e [[#^1f0f98b|XXVIII]], bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional n° 72, de 2013) ^4179389
+	* Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos [[#^d137e98|IV]], [[#^d255ee9|VI]], [[#^a29bb55|VII]], [[#^b7430d7|VIII]], [[#^755091e|X]], [[#^544ec34|XIII]], [[#^13418a3|XV]], [[#^9cab680|XVI]], [[#^dec1e40|XVII]], [[#^30b33de|XVIII]], [[#^c6fbc10|XIX]], [[#^24a4f6b|XXI]], [[#^be2a168|XXII]], [[#^d2b3dc9|XXIV]], [[#^1bf7257|XXVI]], [[#^13574f6|XXX]], [[#^3307df6|XXXI]] e [[#^907361a|XXXIII]] e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos [[#^fe73bea|I]], [[#^a335086|II]], [[#^bff636c|III]], [[#^3f6af15|IX]], [[#^0847d33|XII]], [[#^7444b20|XXV]] e [[#^1f0f98b|XXVIII]], bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional n° 72, de 2013) ^4179389
 
 * Art. 8° É livre a associação profissional ou sindical, observado o seguinte: ^4778042
 
-	* I - a <span style="color:#83a598">lei não poderá exigir autorização do Estado para a fundação de sindicato</span>, <span style="color:#fb4934">ressalvado o registro no órgão competente</span>, <span style="color:#fe8019">vedadas ao Poder Público a interferência e a intervenção na organização sindical</span>; ^11fb825
+	* I - a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical; ^11fb825
 
-	* II - é <span style="color:#fe8019">vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial,</span> que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município; ^e6ca070
+	* II - é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município; ^e6ca070
 
-	* III - ao sindicato cabe a <span style="color: #d79921">defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas;</span> ^1e49026
+	* III - ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas; ^1e49026
 
-	* IV - a <span style="color:#d3869b">assembléia geral</span> fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do <span style="color: #d79921">sistema confederativo</span> da representação sindical respectiva, independentemente da contribuição prevista em lei; ^2986c80
+	* IV - a assembléia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, independentemente da contribuição prevista em lei; ^2986c80
 
 	* V - ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato; ^fc379f8
 
-	* VI - <span style="color:#83a598">é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho</span>; ^7f4991b
+	* VI - é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho; ^7f4991b
 
 	* VII - o aposentado filiado tem direito a votar e ser votado nas organizações sindicais; ^d9c8279
 
-	* VIII - é <span style="color:#fe8019">vedada a dispensa do empregado sindicalizado</span> a partir do <span style="color:#b8bb26">registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato</span>, <span style="color:#fb4934">salvo se cometer falta grave nos termos da lei</span>. ^6c6cebc
+	* VIII - é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei. ^6c6cebc
 
 	* Parágrafo único. As disposições deste artigo aplicam-se à organização de sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei estabelecer. ^4240cac
 
 * Art. 9° É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender. ^906184d
 
-	* § 1° <span style="color:#83a598">A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade.</span> ^e49bd0f
+	* § 1° A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade. ^e49bd0f
 
 	* § 2° Os abusos cometidos sujeitam os responsáveis às penas da lei. ^b12d23e
 
 * Art. 10. É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação. ^68b4123
 
-* Art. 11. <span style="color: #d79921">Nas empresas de mais de duzentos empregados,</span> é assegurada a eleição de um <span style="color: #d79921">representante</span> destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. ^04140f2
+* Art. 11. Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. ^04140f2
 
 ## 2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)|Resumo]]
@@ -411,43 +430,47 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* I - natos: ^658d4e0
 
-		* a) os <span style="color:#b8bb26">**nascidos na República Federativa do Brasil**</span>, ainda que de <span style="color:#83a598">**pais estrangeiros**</span>, <span style="color:#fb4934">**desde que estes não estejam a serviço de seu país**</span>; ^452e9e4
+		* a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país; ^452e9e4
 
-		* b) os <span style="color:#b8bb26">**nascidos no estrangeiro**</span>, de <span style="color:#83a598">**pai brasileiro ou mãe brasileira**</span>, desde que <span style="color: #d79921">qualquer deles esteja a serviço da República Federativa do Brasil</span>; ^f66ec68
+		* b) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil; ^f66ec68
 
-		* c) os <span style="color:#b8bb26">**nascidos no estrangeiro**</span> de <span style="color:#83a598">**pai brasileiro ou de mãe brasileira,**</span> desde que <span style="color: #d79921"><u>sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira</u></span>; (Redação dada pela Emenda Constitucional n° 54, de 2007) ^3ad78fe
+		* c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira; (Redação dada pela Emenda Constitucional n° 54, de 2007) ^3ad78fe
 
 	* II - naturalizados: ^12c01b3
 
-		* a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos <span style="color:#b8bb26">**originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral**</span>; ^8e7c195
+		* a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral; ^8e7c195
 
-		* b) os <span style="color:#b8bb26">**estrangeiros**</span> de qualquer nacionalidade, residentes na República Federativa do Brasil há <span style="color:#83a598">**mais de quinze anos ininterruptos e sem condenação penal**</span>, desde que <span style="color:#fb4934">**requeiram a nacionalidade brasileira**</span>. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^24ad95a
+		* b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^24ad95a
 
-	* § 1° Aos <span style="color:#b8bb26">**portugueses**</span> com <span style="color:#83a598">**residência permanente no País**</span>, <span style="color:#fb4934"><span style="color: #d79921">se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro</span></span>, <span style="color:#fb4934">**salvo os casos previstos nesta Constituição.**</span> (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
+	* § 1° Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
 
 	* § 2° A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição. ^5873957
 
 	* § 3° São privativos de brasileiro nato os cargos: ^882b017
 
-		* I - de <span style="color:#fb4934">Presidente e Vice-Presidente</span> da República; ^d8f45ab
+		* I - de Presidente e Vice-Presidente da República; ^d8f45ab
 
-		* II - de <span style="color:#fb4934">Presidente da Câmara</span> dos Deputados; ^d97fa37
+		* II - de Presidente da Câmara dos Deputados; ^d97fa37
 
-		* III - de <span style="color:#fb4934">Presidente do Senado</span> Federal; ^43b58cd
+		* III - de Presidente do Senado Federal; ^43b58cd
 
-		* IV - de <span style="color:#fb4934">Ministro do Supremo</span> Tribunal Federal; ^ceff13b
+		* IV - de Ministro do Supremo Tribunal Federal; ^ceff13b
 
-		* V - da carreira <span style="color:#fb4934">diplomática</span>; ^d5d853d
+		* V - da carreira diplomática; ^d5d853d
 
-		* VI - de <span style="color:#fb4934">oficial</span> das Forças Armadas. ^e02dd15
+		* VI - de oficial das Forças Armadas. ^e02dd15
 
-		* VII - de <span style="color:#fb4934">Ministro de Estado da Defesa</span>. (Incluído pela Emenda Constitucional n° 23, de 1999) ^147c3ba
+		* VII - de Ministro de Estado da Defesa. (Incluído pela Emenda Constitucional n° 23, de 1999) ^147c3ba
 
 	* § 4° - Será declarada a perda da nacionalidade do brasileiro que: ^ee6d597
 
-		* I - tiver <span style="color:#83a598">**cancelada sua naturalização, por sentença judicial**</span>, em virtude de <span style="color:#b8bb26">**fraude relacionada ao processo de naturalização**</span> ou de <span style="color:#fb4934">**atentado contra a ordem constitucional e o Estado Democrático**</span>; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
+		* I - tiver cancelada sua naturalização, por sentença judicial, em virtude de fraude relacionada ao processo de naturalização ou de atentado contra a ordem constitucional e o Estado Democrático; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
 
-		* II - fizer <span style="color:#83a598">**pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente**</span>, <span style="color:#fb4934">ressalvadas situações que acarretem apatridia</span>. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
+		* II - fizer pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
+
+			* a) revogada; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^138643d
+
+			* b) revogada. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^dc58c98
 
 	* § 5° A renúncia da nacionalidade, nos termos do inciso [[#^8d80025|II]] do § [[#^ee6d597|4°]] deste artigo, não impede o interessado de readquirir sua nacionalidade brasileira originária, nos termos da lei. (Incluído pela Emenda Constitucional n° 131, de 2023) ^351709f
 
@@ -6996,3 +7019,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 * Art. 137. Os saldos financeiros dos recursos transferidos pelo Fundo Nacional de Saúde e pelo Fundo Nacional de Assistência Social, para enfrentamento da pandemia de Covid-19 no período de 2020 a 2022, aos fundos de saúde e assistência social estaduais, municipais e do Distrito Federal poderão ser aplicados, até 31 de dezembro de 2024, para o custeio de ações e serviços públicos de saúde e de assistência social, observadas, respectivamente, as diretrizes emanadas do Sistema Único de Saúde e do Sistema Único de Assistência Social. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
 * Art. 138. Até 2032, qualquer criação, alteração ou prorrogação de vinculação legal ou constitucional de receitas a despesas, inclusive na hipótese de aplicação mínima de montante de recursos, não poderá resultar em crescimento anual da respectiva despesa primária superior à variação do limite de despesas primárias, na forma prevista na lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022. (Incluído pela Emenda Constitucional n° 135, de 2024)
+
+* Brasília, 5 de outubro de 1988.
+
+* Ulysses Guimarães
+
+* , Presidente - Mauro Benevides, 1.° Vice-Presidente - Jorge Arbage, 2.° Vice-Presidente - Marcelo Cordeiro, 1.° Secretário - Mário Maia, 2.° Secretário - Arnaldo Faria de Sá, 3.° Secretário - Benedita da Silva, 1.° Suplente de Secretário - Luiz Soyer, 2.° Suplente de Secretário - Sotero Cunha, 3.° Suplente de Secretário - Bernardo Cabral, Relator Geral - Adolfo Oliveira, Relator Adjunto - Antônio Carlos Konder Reis, Relator Adjunto - José Fogaça, Relator Adjunto - Abigail Feitosa - Acival Gomes - Adauto Pereira - Ademir Andrade - Adhemar de Barros Filho - Adroaldo Streck - Adylson Motta - Aécio de Borba - Aécio Neves - Affonso Camargo - Afif Domingos - Afonso Arinos - Afonso Sancho - Agassiz Almeida - Agripino de Oliveira Lima - Airton Cordeiro - Airton Sandoval - Alarico Abib - Albano Franco - Albérico Cordeiro - Albérico Filho - Alceni Guerra - Alcides Saldanha - Aldo Arantes - Alércio Dias - Alexandre Costa - Alexandre Puzyna - Alfredo Campos - Almir Gabriel - Aloisio Vasconcelos - Aloysio Chaves - Aloysio Teixeira - Aluizio Bezerra - Aluízio Campos - Álvaro Antônio - Álvaro Pacheco - Álvaro Valle - Alysson Paulinelli - Amaral Netto - Amaury Müller - Amilcar Moreira - Ângelo Magalhães - Anna Maria Rattes - Annibal Barcellos - Antero de Barros - Antônio Câmara - Antônio Carlos Franco - Antonio Carlos Mendes Thame - Antônio de Jesus - Antonio Ferreira - Antonio Gaspar - Antonio Mariz - Antonio Perosa - Antônio Salim Curiati - Antonio Ueno - Arnaldo Martins - Arnaldo Moraes - Arnaldo Prieto - Arnold Fioravante - Arolde de Oliveira - Artenir Werner - Artur da Távola - Asdrubal Bentes - Assis Canuto - Átila Lira - Augusto Carvalho - Áureo Mello - Basílio Villani - Benedicto Monteiro - Benito Gama - Beth Azize - Bezerra de Melo - Bocayuva Cunha - Bonifácio de Andrada - Bosco França - Brandão Monteiro - Caio Pompeu - Carlos Alberto - Carlos Alberto Caó - Carlos Benevides - Carlos Cardinal - Carlos Chiarelli - Carlos Cotta - Carlos DeCarli - Carlos Mosconi - Carlos SantAnna - Carlos Vinagre - Carlos Virgílio - Carrel Benevides - Cássio Cunha Lima - Célio de Castro - Celso Dourado - César Cals Neto - César Maia - Chagas Duarte - Chagas Neto - Chagas Rodrigues - Chico Humberto - Christóvam Chiaradia - Cid Carvalho - Cid Sabóia de Carvalho - Cláudio Ávila - Cleonâncio Fonseca - Costa Ferreira - Cristina Tavares - Cunha Bueno - Dálton Canabrava - Darcy Deitos - Darcy Pozza - Daso Coimbra - Davi Alves Silva - Del Bosco Amaral - Delfim Netto - Délio Braz - Denisar Arneiro - Dionisio Dal Prá - Dionísio Hage - Dirce Tutu Quadros - Dirceu Carneiro - Divaldo Suruagy - Djenal Gonçalves - Domingos Juvenil - Domingos Leonelli - Doreto Campanari - Edésio Frias - Edison Lobão - Edivaldo Motta - Edme Tavares - Edmilson Valentim - Eduardo Bonfim - Eduardo Jorge - Eduardo Moreira - Egídio Ferreira Lima - Elias Murad - Eliel Rodrigues - Eliézer Moreira - Enoc Vieira - Eraldo Tinoco - Eraldo Trindade - Erico Pegoraro - Ervin Bonkoski - Etevaldo Nogueira - Euclides Scalco - Eunice Michiles - Evaldo Gonçalves - Expedito Machado - Ézio Ferreira - Fábio Feldmann - Fábio Raunheitti - Farabulini Júnior - Fausto Fernandes - Fausto Rocha - Felipe Mendes - Feres Nader - Fernando Bezerra Coelho - Fernando Cunha - Fernando Gasparian - Fernando Gomes - Fernando Henrique Cardoso - Fernando Lyra - Fernando Santana - Fernando Velasco - Firmo de Castro - Flavio Palmier da Veiga - Flávio Rocha - Florestan Fernandes - Floriceno Paixão - França Teixeira - Francisco Amaral - Francisco Benjamim - Francisco Carneiro - Francisco Coelho - Francisco Diógenes - Francisco Dornelles - Francisco Küster - Francisco Pinto - Francisco Rollemberg - Francisco Rossi - Francisco Sales - Furtado Leite - Gabriel Guerreiro - Gandi Jamil - Gastone Righi - Genebaldo Correia - Genésio Bernardino - Geovani Borges - Geraldo Alckmin Filho - Geraldo Bulhões - Geraldo Campos - Geraldo Fleming - Geraldo Melo - Gerson Camata - Gerson Marcondes - Gerson Peres - Gidel Dantas - Gil César - Gilson Machado - Gonzaga Patriota - Guilherme Palmeira - Gumercindo Milhomem - Gustavo de Faria - Harlan Gadelha - Haroldo Lima - Haroldo Sabóia - Hélio Costa - Hélio Duque - Hélio Manhães - Hélio Rosas - Henrique Córdova - Henrique Eduardo Alves - Heráclito Fortes - Hermes Zaneti - Hilário Braun - Homero Santos - Humberto Lucena - Humberto Souto - Iberê Ferreira - Ibsen Pinheiro - Inocêncio Oliveira - Irajá Rodrigues - Iram Saraiva - Irapuan Costa Júnior - Irma Passoni - Ismael Wanderley - Israel Pinheiro - Itamar Franco - Ivo Cersósimo - Ivo Lech - Ivo Mainardi - Ivo Vanderlinde - Jacy Scanagatta - Jairo Azi - Jairo Carneiro - Jalles Fontoura - Jamil Haddad - Jarbas Passarinho - Jayme Paliarin - Jayme Santana - Jesualdo Cavalcanti - Jesus Tajra - Joaci Góes - João Agripino - João Alves - João Calmon - João Carlos Bacelar - João Castelo - João Cunha - João da Mata - João de Deus Antunes - João Herrmann Neto - João Lobo - João Machado Rollemberg - João Menezes - João Natal - João Paulo - João Rezek - Joaquim Bevilácqua - Joaquim Francisco - Joaquim Hayckel - Joaquim Sucena - Jofran Frejat - Jonas Pinheiro - Jonival Lucas - Jorge Bornhausen - Jorge Hage - Jorge Leite - Jorge Uequed - Jorge Vianna - José Agripino - José Camargo - José Carlos Coutinho - José Carlos Grecco - José Carlos Martinez - José Carlos Sabóia - José Carlos Vasconcelos - José Costa - José da Conceição - José Dutra - José Egreja - José Elias - José Fernandes - José Freire - José Genoíno - José Geraldo - José Guedes - José Ignácio Ferreira - José Jorge - José Lins - José Lourenço - José Luiz de Sá - José Luiz Maia - José Maranhão - José Maria Eymael - José Maurício - José Melo - José Mendonça Bezerra - José Moura - José Paulo Bisol - José Queiroz - José Richa - José Santana de Vasconcellos - José Serra - José Tavares - José Teixeira - José Thomaz Nonô - José Tinoco - José Ulísses de Oliveira - José Viana - José Yunes - Jovanni Masini - Juarez Antunes - Júlio Campos - Júlio Costamilan - Jutahy Júnior - Jutahy Magalhães - Koyu Iha - Lael Varella - Lavoisier Maia - Leite Chaves - Lélio Souza - Leopoldo Peres - Leur Lomanto - Levy Dias - Lézio Sathler - Lídice da Mata - Louremberg Nunes Rocha - Lourival Baptista - Lúcia Braga - Lúcia Vânia - Lúcio Alcântara - Luís Eduardo - Luís Roberto Ponte - Luiz Alberto Rodrigues - Luiz Freire - Luiz Gushiken - Luiz Henrique - Luiz Inácio Lula da Silva - Luiz Leal - Luiz Marques - Luiz Salomão - Luiz Viana - Luiz Viana Neto - Lysâneas Maciel - Maguito Vilela - Maluly Neto - Manoel Castro - Manoel Moreira - Manoel Ribeiro - Mansueto de Lavor - Manuel Viana - Márcia Kubitschek - Márcio Braga - Márcio Lacerda - Marco Maciel - Marcondes Gadelha - Marcos Lima - Marcos Queiroz - Maria de Lourdes Abadia - Maria Lúcia - Mário Assad - Mário Covas - Mário de Oliveira - Mário Lima - Marluce Pinto - Matheus Iensen - Mattos Leão - Maurício Campos - Maurício Correa - Maurício Fruet - Maurício Nasser - Maurício Pádua - Maurílio Ferreira Lima - Mauro Borges - Mauro Campos - Mauro Miranda - Mauro Sampaio - Max Rosenmann - Meira Filho - Melo Freire - Mello Reis - Mendes Botelho - Mendes Canale - Mendes Ribeiro - Messias Góis - Messias Soares - Michel Temer - Milton Barbosa - Milton Lima - Milton Reis - Miraldo Gomes - Miro Teixeira - Moema São Thiago - Moysés Pimentel - Mozarildo Cavalcanti - Mussa Demes - Myrian Portella - Nabor Júnior - Naphtali Alves de Souza - Narciso Mendes - Nelson Aguiar - Nelson Carneiro - Nelson Jobim - Nelson Sabrá - Nelson Seixas - Nelson Wedekin - Nelton Friedrich - Nestor Duarte - Ney Maranhão - Nilso Sguarezi - Nilson Gibson - Nion Albernaz - Noel de Carvalho - Nyder Barbosa - Octávio Elísio - Odacir Soares - Olavo Pires - Olívio Dutra - Onofre Corrêa - Orlando Bezerra - Orlando Pacheco - Oscar Corrêa - Osmar Leitão - Osmir Lima - Osmundo Rebouças - Osvaldo Bender - Osvaldo Coelho - Osvaldo Macedo - Osvaldo Sobrinho - Oswaldo Almeida - Oswaldo Trevisan - Ottomar Pinto - Paes de Andrade - Paes Landim - Paulo Delgado - Paulo Macarini - Paulo Marques - Paulo Mincarone - Paulo Paim - Paulo Pimentel - Paulo Ramos - Paulo Roberto - Paulo Roberto Cunha - Paulo Silva - Paulo Zarzur - Pedro Canedo - Pedro Ceolin - Percival Muniz - Pimenta da Veiga - Plínio Arruda Sampaio - Plínio Martins - Pompeu de Sousa - Rachid Saldanha Derzi - Raimundo Bezerra - Raimundo Lira - Raimundo Rezende - Raquel Cândido - Raquel Capiberibe - Raul Belém - Raul Ferraz - Renan Calheiros - Renato Bernardi - Renato Johnsson - Renato Vianna - Ricardo Fiuza - Ricardo Izar - Rita Camata - Rita Furtado - Roberto Augusto - Roberto Balestra - Roberto Brant - Roberto Campos - Roberto DÁvila - Roberto Freire - Roberto Jefferson - Roberto Rollemberg - Roberto Torres - Roberto Vital - Robson Marinho - Rodrigues Palma - Ronaldo Aragão - Ronaldo Carvalho - Ronaldo Cezar Coelho - Ronan Tito - Ronaro Corrêa - Rosa Prata - Rose de Freitas - Rospide Netto - Rubem Branquinho - Rubem Medina - Ruben Figueiró - Ruberval Pilotto - Ruy Bacelar - Ruy Nedel - Sadie Hauache - Salatiel Carvalho - Samir Achôa - Sandra Cavalcanti - Santinho Furtado - Sarney Filho - Saulo Queiroz - Sérgio Brito - Sérgio Spada - Sérgio Werneck - Severo Gomes - Sigmaringa Seixas - Sílvio Abreu - Simão Sessim - Siqueira Campos - Sólon Borges dos Reis - Stélio Dias - Tadeu França - Telmo Kirst - Teotonio Vilela Filho - Theodoro Mendes - Tito Costa - Ubiratan Aguiar - Ubiratan Spinelli - Uldurico Pinto - Valmir Campelo - Valter Pereira - Vasco Alves - Vicente Bogo - Victor Faccioni - Victor Fontana - Victor Trovão - Vieira da Silva - Vilson Souza - Vingt Rosado - Vinicius Cansanção - Virgildásio de Senna - Virgílio Galassi - Virgílio Guimarães - Vitor Buaiz - Vivaldo Barbosa - Vladimir Palmeira - Wagner Lago - Waldec Ornélas - Waldyr Pugliesi - Walmor de Luca - Wilma Maia - Wilson Campos - Wilson Martins - Ziza Valadares.
+
+* Participantes: Álvaro Dias - Antônio Britto - Bete Mendes - Borges da Silveira - Cardoso Alves - Edivaldo Holanda - Expedito Júnior - Fadah Gattass - Francisco Dias - Geovah Amarante - Hélio Gueiros - Horácio Ferraz - Hugo Napoleão - Iturival Nascimento - Ivan Bonato - Jorge Medauar - José Mendonça de Morais - Leopoldo Bessone - Marcelo Miranda - Mauro Fecury - Neuto de Conto - Nivaldo Machado - Oswaldo Lima Filho - Paulo Almada - Prisco Viana - Ralph Biasi - Rosário Congro Neto - Sérgio Naya - Tidei de Lima.
+
+In Memoriam: Alair Ferreira - Antônio Farias - Fábio Lucena - Norberto Schwantes - Virgílio Távora.

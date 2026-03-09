@@ -2,24 +2,7 @@ Tags:: #LEI
 Fonte:: [Lei n° 5.172 (CTN)](https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm)
 Data:: 23/01/2026 20:30:00
 
-Siga o [@navegamente_](https://instagram.com/navegamente_?igshid=NjIwNzIyMDk2Mg==) para dicas e conteúdo sobre Obsidian e 2° cérebro!
 
-> [!FALE CONOSCO!]- FALE COM O NAVEGAMENTE!
-> Encontrou algum problema ou deseja deixar algum comentário ou sugestão?
->
-> Nos avise por [AQUI](mailto:suporte@navegamente.com.br)
-
-> [!IMPORTANT]- AVISO
-> O Navega Lei é projetado para auxiliar o estudo da lei por meio de formatação e referências, com o intuito de facilitar a leitura e o aprendizado.
->
-> Qualquer texto presente no Navega Lei não deve ser considerado como base legal para decisões ou ações jurídicas. Se você planeja usar a legislação para fins legais ou profissionais, é crucial verificar sempre a legislação original e atualizada nos órgãos governamentais competentes.
->
-> O Navega Lei não substitui a consulta direta à legislação oficial para fins legais.
-
-> [!WARNING]- IMPORTANTE
-> Utilize apenas documentos Navega Lei.
->
-> Versões adquiridas por fora podem estar erradas, desatualizadas ou conter arquivos maliciosos (vírus), prejudicando o usuário. Confie apenas na formatação das leis fornecidas através da nossa área de membros.
 
 ***
 
@@ -59,11 +42,11 @@ DISPOSIÇÃO PRELIMINAR
 ### 1.2.1. CAPÍTULO I - DISPOSIÇÕES GERAIS (ARTS. 6 A 8)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/1.2.1. CAPÍTULO I - DISPOSIÇÕES GERAIS (ARTS. 6 A 8)|Resumo]]
 
-* Art. 6° A atribuição constitucional de competência tributária compreende a competência legislativa plena, ressalvadas as limitações contidas na Constituição Federal, nas Constituições dos Estados e nas Leis Orgânicas do Distrito Federal e dos Municípios, e observado o disposto nesta Lei. ^251d44c
+* Art. 6° A atribuição constitucional de competência tributária compreende a <span style="color:#83a598">competência legislativa plena</span>, ressalvadas as limitações contidas na Constituição Federal, nas Constituições dos Estados e nas Leis Orgânicas do Distrito Federal e dos Municípios, e observado o disposto nesta Lei. ^251d44c
 
-	* Parágrafo único. Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público pertencerá à competência legislativa daquela a que tenham sido atribuídos. ^49a969f
+	* Parágrafo único. Os <span style="color:#b8bb26">tributos cuja receita seja distribuída, no todo ou em parte</span>, a outras pessoas jurídicas de direito público <span style="color:#b8bb26">pertencerá à competência legislativa daquela a que tenham sido atribuídos.</span> ^49a969f
 
-* Art. 7° A competência tributária é indelegável, salvo atribuição das funções de arrecadar ou fiscalizar tributos, ou de executar leis, serviços, atos ou decisões administrativas em matéria tributária, conferida por uma pessoa jurídica de direito público a outra, nos termos do § 3° do art. 18 da Constituição. ^0f410c4
+* Art. 7° A <span style="color:#83a598">**competência tributária é indelegável**</span>, <span style="color:#fb4934">salvo atribuição das funções de arrecadar ou fiscalizar tributos</span>, ou de executar leis, serviços, atos ou decisões administrativas em matéria tributária, <span style="color:#fb4934">conferida por uma pessoa jurídica de direito público a outra</span>, nos termos do § 3° do art. 18 da Constituição. ^0f410c4
 
 	* § 1° A atribuição compreende as garantias e os privilégios processuais que competem à pessoa jurídica de direito público que a conferir. ^470709d
 
