@@ -720,50 +720,50 @@ DISPOSIÇÃO PRELIMINAR
 
 * Art. 106. A lei <span style="color:#b8bb26">aplica-se a ato ou fato pretérito</span>: ^765b69b
 
-	* I - <span style="color:#83a598">em qualquer caso, quando seja expressamente interpretativa,</span> excluída a aplicação de penalidade à infração dos dispositivos interpretados; ^2edd85b
+	* I - <span style="color:#83a598">em qualquer caso, quando seja expressamente interpretativa,</span> <span style="color:#fb4934">excluída a aplicação de penalidade à infração dos dispositivos interpretados</span>; ^2edd85b
 
-	* II - tratando-se de ato não definitivamente julgado: ^ad40b07
+	* II - tratando-se de <span style="color: #d79921">ato não definitivamente julgado</span>: ^ad40b07
 
-		* a) quando deixe de defini-lo como infração; ^e51979d
+		* a) quando <span style="color:#83a598">deixe de defini-lo como infração</span>; ^e51979d
 
-		* b) quando deixe de tratá-lo como contrário a qualquer exigência de ação ou omissão, desde que não tenha sido fraudulento e não tenha implicado em falta de pagamento de tributo; ^db35fb5
+		* b) <span style="color:#83a598">quando deixe de tratá-lo como contrário a qualquer exigência de ação ou omissão</span>, <span style="color:#fb4934">desde que não tenha sido fraudulento e não tenha implicado em falta de pagamento de tributo</span>; ^db35fb5
 
-		* c) quando lhe comine penalidade menos severa que a prevista na lei vigente ao tempo da sua prática. ^faaa86b
+		* c) quando lhe comine <span style="color:#83a598">penalidade menos severa</span> que a prevista na lei vigente ao tempo da sua prática. ^faaa86b
 
 ### 2.1.4. CAPÍTULO IV - INTERPRETAÇÃO E INTEGRAÇÃO DA LEGISLAÇÃO TRIBUTÁRIA (ARTS. 107 A 112)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/2.1.4. CAPÍTULO IV - INTERPRETAÇÃO E INTEGRAÇÃO DA LEGISLAÇÃO TRIBUTÁRIA (ARTS. 107 A 112)|Resumo]]
 
 * Art. 107. A legislação tributária será interpretada conforme o disposto neste Capítulo. ^6628a87
 
-* Art. 108. Na ausência de disposição expressa, a autoridade competente para aplicar a legislação tributária utilizará sucessivamente, na ordem indicada: ^0141ad8
+* Art. 108. Na <span style="color:#83a598">ausência de disposição expressa</span>, a autoridade competente para aplicar a legislação tributária <span style="color: #d79921">utilizará sucessivamente, na ordem indicada</span>: ^0141ad8
 
-	* I - a analogia; ^04e3271
+	* I - a <span style="color: #d79921">analogia</span>; ^04e3271
 
-	* II - os princípios gerais de direito tributário; ^a8b1af7
+	* II - os <span style="color: #d79921">princípios gerais de direito tributário</span>; ^a8b1af7
 
-	* III - os princípios gerais de direito público; ^ac2bb11
+	* III - os <span style="color: #d79921">princípios gerais de direito público</span>; ^ac2bb11
 
-	* IV - a eqüidade. ^4160df8
+	* IV - a <span style="color: #d79921">eqüidade</span>. ^4160df8
 
-	* § 1° O emprêgo da analogia não poderá resultar na exigência de tributo não previsto em lei. ^35d6ca7
+	* § 1° O <span style="color:#fb4934">emprêgo da analogia não poderá resultar na exigência de tributo não previsto</span> em lei. ^35d6ca7
 
-	* § 2° O emprêgo da eqüidade não poderá resultar na dispensa do pagamento de tributo devido. ^9b1b92d
+	* § 2° O <span style="color:#fb4934">emprêgo da eqüidade não poderá resultar na dispensa do pagamento de tributo</span> devido. ^9b1b92d
 
 * Art. 109. Os princípios gerais de direito privado utilizam-se para pesquisa da definição, do conteúdo e do alcance de seus institutos, conceitos e formas, mas não para definição dos respectivos efeitos tributários. ^a5ffae3
 
 * Art. 110. A lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos, conceitos e formas de direito privado, utilizados, expressa ou implicitamente, pela Constituição Federal, pelas Constituições dos Estados, ou pelas Leis Orgânicas do Distrito Federal ou dos Municípios, para definir ou limitar competências tributárias. ^b309e0b
 
-* Art. 111. Interpreta-se literalmente a legislação tributária que disponha sôbre: ^75b5211
+* Art. 111. <span style="color: #d79921">Interpreta-se literalmente</span> a legislação tributária que disponha sôbre: ^75b5211
 
-	* I - suspensão ou exclusão do crédito tributário; ^e7f459c
+	* I - <span style="color: #d79921">suspensão ou exclusão</span> do crédito tributário; ^e7f459c
 
-	* II - outorga de isenção; ^3b46194
+	* II - outorga de <span style="color: #d79921">isenção</span>; ^3b46194
 
-	* III - dispensa do cumprimento de obrigações tributárias acessórias. ^e2c9613
+	* III - <span style="color: #d79921">dispensa do cumprimento de obrigações tributárias acessórias</span>. ^e2c9613
 
-* Art. 112. A lei tributária que define infrações, ou lhe comina penalidades, interpreta-se da maneira mais favorável ao acusado, em caso de dúvida quanto: ^13832e3
+* Art. 112. A lei tributária que define infrações, ou lhe comina penalidades, <span style="color:#b8bb26">interpreta-se da maneira mais favorável ao acusado, em caso de dúvida quanto:</span> ^13832e3
 
-	* I - à capitulação legal do fato; ^a5f2039
+	* I - à <span style="color: #d79921">capitulação legal</span> do fato; ^a5f2039
 
 	* II - à natureza ou às circunstâncias materiais do fato, ou à natureza ou extensão dos seus efeitos; ^387c4ed
 
