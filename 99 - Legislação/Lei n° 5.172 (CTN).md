@@ -44,17 +44,17 @@ DISPOSIÇÃO PRELIMINAR
 
 * Art. 6° A atribuição constitucional de competência tributária compreende a <span style="color:#83a598">competência legislativa plena</span>, ressalvadas as limitações contidas na Constituição Federal, nas Constituições dos Estados e nas Leis Orgânicas do Distrito Federal e dos Municípios, e observado o disposto nesta Lei. ^251d44c
 
-	* Parágrafo único. Os <span style="color:#b8bb26">tributos cuja receita seja distribuída, no todo ou em parte</span>, a outras pessoas jurídicas de direito público <span style="color:#b8bb26">pertencerá à competência legislativa daquela a que tenham sido atribuídos.</span> ^49a969f
+	* Parágrafo único. Os <span style="color: #d79921">tributos cuja receita seja distribuída,</span> no todo ou em parte, a outras pessoas jurídicas de direito público <span style="color:#b8bb26">pertencerá à competência legislativa daquela a que tenham sido atribuídos.</span> ^49a969f
 
 * Art. 7° A <span style="color:#83a598">**competência tributária é indelegável**</span>, <span style="color:#fb4934">salvo atribuição das funções de arrecadar ou fiscalizar tributos</span>, ou de executar leis, serviços, atos ou decisões administrativas em matéria tributária, <span style="color:#fb4934">conferida por uma pessoa jurídica de direito público a outra</span>, nos termos do § 3° do art. 18 da Constituição. ^0f410c4
 
-	* § 1° A atribuição compreende as garantias e os privilégios processuais que competem à pessoa jurídica de direito público que a conferir. ^470709d
+	* § 1° A atribuição <span style="color:#83a598">compreende as garantias e os privilégios processuais que competem à pessoa jurídica de direito público que a conferir</span>. ^470709d
 
-	* § 2° A atribuição pode ser revogada, a qualquer tempo, por ato unilateral da pessoa jurídica de direito público que a tenha conferido. ^5bdaa83
+	* § 2° A atribuição <span style="color:#b8bb26">pode ser revogada, a qualquer tempo, por ato unilateral</span> da pessoa jurídica de direito público que a tenha conferido. ^5bdaa83
 
-	* § 3° Não constitui delegação de competência o cometimento, a pessoas de direito privado, do encargo ou da função de arrecadar tributos. ^aeb1f88
+	* § 3° <span style="color:#fb4934">Não constitui delegação de competência o cometimento, a pessoas de direito privado, do encargo ou da função de arrecadar tributos.</span> ^aeb1f88
 
-* Art. 8° O não-exercício da competência tributária não a defere a pessoa jurídica de direito público diversa daquela a que a Constituição a tenha atribuído. ^4778042
+* Art. 8° O <span style="color:#fb4934">não-exercício</span> da competência tributária <span style="color:#fb4934">não a defere a pessoa jurídica de direito público diversa</span> daquela a que a Constituição a tenha atribuído. ^4778042
 
 ### 1.2.2. CAPÍTULO II - LIMITAÇÕES DA COMPETÊNCIA TRIBUTÁRIA (ARTS. 9 A 15)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/1.2.2. CAPÍTULO II - LIMITAÇÕES DA COMPETÊNCIA TRIBUTÁRIA (ARTS. 9 A 15)|Resumo]]
@@ -62,54 +62,54 @@ DISPOSIÇÃO PRELIMINAR
 #### 1.2.2.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 9 A 11)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/1.2.2.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 9 A 11)|Resumo]]
 
-* Art. 9° É vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^906184d
+* Art. 9° É <span style="color:#fb4934">vedado à União, aos Estados, ao Distrito Federal e aos Municípios</span>: ^906184d
 
-	* I - instituir ou majorar tributo sem que a lei o estabeleça, ressalvado, quanto à majoração, o disposto nos arts. [[#^41903be|21]], [[#^e0d9bc8|26]] e [[#^e119300|65]]; ^c9757bb
+	* I - <span style="color:#83a598">instituir ou majorar tributo sem que a lei o estabeleça</span>, <span style="color:#fb4934">ressalvado, quanto à majoração</span>, o disposto nos arts. [[#^41903be|21]], [[#^e0d9bc8|26]] e [[#^e119300|65]]; (legalidade) ^c9757bb
 
-	* II - cobrar impôsto sôbre o patrimônio e a renda com base em lei posterior à data inicial do exercício financeiro a que corresponda; ^5509b42
+	* II - <span style="color:#83a598">cobrar impôsto sôbre o patrimônio e a renda com base em lei posterior à data inicial do exercício financeiro a que corresponda (irretroatividade)</span>; ^5509b42
 
-	* III - estabelecer limitações ao tráfego, no território nacional, de pessoas ou mercadorias, por meio de tributos interestaduais ou intermunicipais; ^9294aff
+	* III - estabelecer <span style="color:#83a598">limitações ao tráfego, no território nacional, de pessoas ou mercadorias</span>, por meio de tributos interestaduais ou intermunicipais; ^9294aff
 
 	* IV - cobrar impostos e a contribuição de que trata o inciso V do art. 195 da Constituição Federal sobre: (Redação dada pela Lei Complementar n° 214, de 2025) Produção de efeitos ^8a50dbc
 
-		* a) o patrimônio, a renda ou os serviços uns dos outros; ^540c1c4
+		* a) o <span style="color:#83a598">patrimônio, a renda ou os serviços</span> uns dos outros; ^540c1c4
 
-		* b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (Redação dada pela Lei Complementar n° 214, de 2025) Produção de efeitos ^83c7521
+		* b) <span style="color:#83a598">entidades religiosas e templos de qualquer culto</span>, <span style="color: #d79921">inclusive suas organizações assistenciais e beneficentes</span>; (Redação dada pela Lei Complementar n° 214, de 2025) Produção de efeitos ^83c7521
 
-		* c) o patrimônio, a renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, observados os requisitos fixados na Seção II deste Capítulo; (Redação dada pela Lei Complementar n° 104, de 2001) ^1792c1b
+		* c) o <span style="color:#83a598">patrimônio, a renda ou serviços dos partidos políticos</span>, <span style="color: #d79921">inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos</span>, observados os requisitos fixados na Seção II deste Capítulo; (Redação dada pela Lei Complementar n° 104, de 2001) ^1792c1b
 
-		* d) papel destinado exclusivamente à impressão de jornais, periódicos e livros. ^9a31c83
+		* d) <span style="color:#83a598">papel destinado exclusivamente à impressão de jornais, periódicos e livros</span>. ^9a31c83
 
 	* § 1° O disposto no inciso [[#^8a50dbc|IV]] não exclui a atribuição, por lei, às entidades nêle referidas, da condição de responsáveis pelos tributos que lhes caiba reter na fonte, e não as dispensa da prática de atos, previstos em lei, assecuratórios do cumprimento de obrigações tributárias por terceiros. ^e49bd0f
 
 	* § 2° O disposto na alínea [[#^540c1c4|a]] do inciso [[#^8a50dbc|IV]] aplica-se, exclusivamente, aos serviços próprios das pessoas jurídicas de direito público a que se refere este artigo, e inerentes aos seus objetivos. ^b12d23e
 
-* Art. 10. É vedado à União instituir tributo que não seja uniforme em todo o território nacional, ou que importe distinção ou preferência em favor de determinado Estado ou Município. ^68b4123
+* Art. 10. É <span style="color:#fb4934">vedado à União instituir tributo que não seja uniforme em todo o território nacional,</span> ou que importe distinção ou preferência em favor de determinado Estado ou Município. ^68b4123
 
-* Art. 11. É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens de qualquer natureza, em razão da sua procedência ou do seu destino. ^04140f2
+* Art. 11. É <span style="color:#fb4934">vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens de qualquer natureza, em razão da sua procedência ou do seu destino.</span> ^04140f2
 
 #### 1.2.2.2. SEÇÃO II - DISPOSIÇÕES ESPECIAIS (ARTS. 12 A 15)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/1.2.2.2. SEÇÃO II - DISPOSIÇÕES ESPECIAIS (ARTS. 12 A 15)|Resumo]]
 
-* Art. 12. O disposto na alínea [[#^540c1c4|a]] do inciso [[#^8a50dbc|IV]] do art. [[#^906184d|9°]], observado o disposto nos seus §§ [[#^82f4366|1°]] e [[#^5873957|2°]], é extensivo às autarquias criadas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, tão-somente no que se refere ao patrimônio, à renda ou aos serviços vinculados às suas finalidades essenciais, ou delas decorrentes. ^fae93a6
+* Art. 12. O disposto na alínea [[#^540c1c4|a]] do inciso [[#^8a50dbc|IV]] do art. [[#^906184d|9°]], observado o disposto nos seus §§ [[#^82f4366|1°]] e [[#^5873957|2°]], é <span style="color: #d79921">extensivo às autarquias</span> criadas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, tão-somente <span style="color: #d79921">no que se refere ao patrimônio, à renda ou aos serviços vinculados às suas finalidades essenciais, ou delas decorrentes.</span> ^fae93a6
 
 * Art. 13. O disposto na alínea [[#^540c1c4|a]] do inciso [[#^8a50dbc|IV]] do art. [[#^906184d|9°]] não se aplica aos serviços públicos concedidos, cujo tratamento tributário é estabelecido pelo poder concedente, no que se refere aos tributos de sua competência, ressalvado o que dispõe o parágrafo único. ^6308548
 
-	* Parágrafo único. Mediante lei especial e tendo em vista o interêsse comum, a União pode instituir isenção de tributos federais, estaduais e municipais para os serviços públicos que conceder, observado o disposto no § [[#^e49bd0f|1°]] do art. [[#^906184d|9°]]. ^c4fed99
+	* Parágrafo único. Mediante lei especial e tendo em vista o interêsse comum, <span style="color: #d79921">a União pode instituir isenção de tributos federais, estaduais e municipais para os serviços públicos que conceder,</span> observado o disposto no § [[#^e49bd0f|1°]] do art. [[#^906184d|9°]]. ^c4fed99
 
 * Art. 14. O disposto na alínea [[#^1792c1b|c]] do inciso [[#^8a50dbc|IV]] do art. [[#^906184d|9°]] é subordinado à observância dos seguintes requisitos pelas entidades nêle referidas: ^90c0025
 
-	* I - não distribuírem qualquer parcela de seu patrimônio ou de suas rendas, a qualquer título; (Redação dada pela Lcp n° 104, de 2001) ^f26767d
+	* I - <span style="color:#fb4934">não distribuírem qualquer parcela de seu patrimônio ou de suas rendas</span>, a qualquer título; (Redação dada pela Lcp n° 104, de 2001) ^f26767d
 
-	* II - aplicarem integralmente, no País, os seus recursos na manutenção dos seus objetivos institucionais; ^fa4432a
+	* II - <span style="color:#83a598">aplicarem integralmente, no País, os seus recursos na manutenção dos seus objetivos</span> institucionais; ^fa4432a
 
-	* III - manterem escrituração de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão. ^2301667
+	* III - manterem <span style="color:#83a598">escrituração</span> de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão. ^2301667
 
-	* § 1° Na falta de cumprimento do disposto neste artigo, ou no § [[#^e49bd0f|1°]] do art. [[#^906184d|9°]], a autoridade competente pode suspender a aplicação do benefício. ^466e846
+	* § 1° Na <span style="color: #d79921">falta de cumprimento</span> do disposto neste artigo, ou no § [[#^e49bd0f|1°]] do art. [[#^906184d|9°]], a <span style="color: #d79921">autoridade competente pode suspender</span> a aplicação do benefício. ^466e846
 
 	* § 2° Os serviços a que se refere a alínea [[#^1792c1b|c]] do inciso [[#^8a50dbc|IV]] do art. [[#^906184d|9°]] são exclusivamente, os diretamente relacionados com os objetivos institucionais das entidades de que trata este artigo, previstos nos respectivos estatutos ou atos constitutivos. ^edef9fd
 
-* Art. 15. Somente a União, nos seguintes casos excepcionais, pode instituir empréstimos compulsórios: ^483bc20
+* Art. 15. Somente a <span style="color: #d79921">União</span>, nos seguintes casos excepcionais, pode instituir empréstimos compulsórios: ^483bc20
 
 	* I - guerra externa, ou sua iminência; ^0d77049
 
