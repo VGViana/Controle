@@ -14,6 +14,8 @@
 ### 2. LEGISLAÇÃO E PRÁTICA
 - [**Lei 6404/76**](./Lei%206404.md) - A Lei das Sociedades por Ações e suas diretrizes contábeis.
 
+### 3. DEMONSTRAÇÕES
+- [[DFC]]
 ---
 
 ## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)
