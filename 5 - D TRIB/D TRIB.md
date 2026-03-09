@@ -11,7 +11,8 @@
 - [[0. Conceito de Tributo]]
 - [[1. Princípios Tributários]]
 - [[2. Imunidades Tributárias]]
-- [**Princípios e Imunidades**](01.%20Princípios%20e%20Imunidades.md) - Limitações constitucionais ao poder de tributar.
+- [[3. Competência Tributária]]
+- [[4. Legislação Tributária]]
 - [[5. Obrigações]]
 - [[6. Responsabilidades]]
 ### 2. O CRÉDITO TRIBUTÁRIO
