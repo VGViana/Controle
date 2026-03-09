@@ -109,11 +109,11 @@ DISPOSIÇÃO PRELIMINAR
 
 	* § 2° Os serviços a que se refere a alínea [[#^1792c1b|c]] do inciso [[#^8a50dbc|IV]] do art. [[#^906184d|9°]] são exclusivamente, os diretamente relacionados com os objetivos institucionais das entidades de que trata este artigo, previstos nos respectivos estatutos ou atos constitutivos. ^edef9fd
 
-* Art. 15. Somente a <span style="color: #d79921">União</span>, nos seguintes casos excepcionais, pode instituir empréstimos compulsórios: ^483bc20
+* Art. 15. Somente a <span style="color: #d79921">União</span>, nos seguintes casos excepcionais, <span style="color: #d79921">pode instituir empréstimos compulsórios:</span> ^483bc20
 
-	* I - guerra externa, ou sua iminência; ^0d77049
+	* I - <span style="color: #d79921">guerra externa, ou sua iminência</span>; ^0d77049
 
-	* II - calamidade pública que exija auxílio federal impossível de atender com os recursos orçamentários disponíveis; ^6d53719
+	* II - <span style="color: #d79921">calamidade pública</span> que exija auxílio federal impossível de atender com os recursos orçamentários disponíveis; ^6d53719
 
 	* III - conjuntura que exija a absorção temporária de poder aquisitivo. ^5d63055
 
@@ -648,47 +648,47 @@ DISPOSIÇÃO PRELIMINAR
 #### 2.1.1.1. SEÇÃO I - DISPOSIÇÃO PRELIMINAR (ART. 96)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/2.1.1.1. SEÇÃO I - DISPOSIÇÃO PRELIMINAR (ART. 96)|Resumo]]
 
-* Art. 96. A expressão "legislação tributária" compreende as leis, os tratados e as convenções internacionais, os decretos e as normas complementares que versem, no todo ou em parte, sôbre tributos e relações jurídicas a eles pertinentes. ^aee4697
+* Art. 96. A expressão "legislação tributária" compreende as <span style="color:#83a598">leis, os tratados e as convenções internacionais, os decretos e as normas complementares</span> que versem, no todo ou em parte, sôbre tributos e relações jurídicas a eles pertinentes. ^aee4697
 
 #### 2.1.1.2. SEÇÃO II - LEIS, TRATADOS E CONVENÇÕES INTERNACIONAIS E DECRETOS (ARTS. 97 A 99)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/2.1.1.2. SEÇÃO II - LEIS, TRATADOS E CONVENÇÕES INTERNACIONAIS E DECRETOS (ARTS. 97 A 99)|Resumo]]
 
-* Art. 97. Sòmente a lei pode estabelecer: ^80e1bd0
+* Art. 97. <span style="color:#83a598">Sòmente a lei pode estabelecer</span>: ^80e1bd0
 
-	* I - a instituição de tributos, ou a sua extinção; ^3b13ea0
+	* I - a <span style="color:#83a598">instituição de tributos, ou a sua extinção</span>; ^3b13ea0
 
-	* II - a majoração de tributos, ou sua redução, ressalvado o disposto nos arts. [[#^41903be|21]], [[#^e0d9bc8|26]], [[#^a4b00e0|39]], [[#^4c66ff2|57]] e [[#^e119300|65]]; ^79c722c
+	* II - a <span style="color:#83a598">majoração</span> de tributos, <span style="color:#83a598">ou sua redução</span>, ressalvado o disposto nos arts. [[#^41903be|21]], [[#^e0d9bc8|26]], [[#^a4b00e0|39]], [[#^4c66ff2|57]] e [[#^e119300|65]]; ^79c722c
 
-	* III - a definição do fato gerador da obrigação tributária principal, ressalvado o disposto no inciso [[#^62b159a|I]] do § [[#^ce67cab|3°]] do art. [[#^f00796a|52]], e do seu sujeito passivo; ^789c666
+	* III - a <span style="color:#83a598">definição do fato gerador</span> da obrigação tributária principal, ressalvado o disposto no inciso [[#^62b159a|I]] do § [[#^ce67cab|3°]] do art. [[#^f00796a|52]], e do seu sujeito passivo; ^789c666
 
-	* IV - a fixação de alíquota do tributo e da sua base de cálculo, ressalvado o disposto nos arts. [[#^41903be|21]], [[#^e0d9bc8|26]], [[#^a4b00e0|39]], [[#^4c66ff2|57]] e [[#^e119300|65]]; ^ca28295
+	* IV - a <span style="color:#83a598">fixação de alíquota do tributo e da sua base de cálculo</span>, ressalvado o disposto nos arts. [[#^41903be|21]], [[#^e0d9bc8|26]], [[#^a4b00e0|39]], [[#^4c66ff2|57]] e [[#^e119300|65]]; ^ca28295
 
-	* V - a cominação de penalidades para as ações ou omissões contrárias a seus dispositivos, ou para outras infrações nela definidas; ^1b35428
+	* V - a <span style="color:#83a598">cominação de penalidades</span> para as ações ou omissões contrárias a seus dispositivos, ou para outras infrações nela definidas; ^1b35428
 
-	* VI - as hipóteses de exclusão, suspensão e extinção de créditos tributários, ou de dispensa ou redução de penalidades. ^79491ac
+	* VI - as <span style="color:#83a598">hipóteses de exclusão, suspensão e extinção</span> de créditos tributários, ou de <span style="color:#83a598">dispensa ou redução de penalidades</span>. ^79491ac
 
-	* § 1° Equipara-se à majoração do tributo a modificação da sua base de cálculo, que importe em torná-lo mais oneroso. ^94497ac
+	* § 1° <span style="color: #d79921">Equipara-se à majoração do tributo a modificação da sua base de cálculo, que importe em torná-lo mais oneroso</span>. ^94497ac
 
-	* § 2° Não constitui majoração de tributo, para os fins do disposto no inciso [[#^79c722c|II]] dêste artigo, a atualização do valor monetário da respectiva base de cálculo. ^bf27456
+	* § 2° <span style="color:#fb4934">Não constitui majoração de tributo</span>, para os fins do disposto no inciso [[#^79c722c|II]] dêste artigo, <span style="color:#fb4934">a atualização do valor monetário da respectiva base de cálculo.</span> ^bf27456
 
-* Art. 98. Os tratados e as convenções internacionais revogam ou modificam a legislação tributária interna, e serão observados pela que lhes sobrevenha. ^308ecd2
+* Art. 98. Os <span style="color:#83a598">tratados e as convenções internacionais revogam ou modificam a legislação tributária interna</span>, e serão observados pela que lhes sobrevenha. ^308ecd2
 
 * Art. 99. O conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos, determinados com observância das regras de interpretação estabelecidas nesta Lei. ^c5fbc9e
 
 #### 2.1.1.3. SEÇÃO III - NORMAS COMPLEMENTARES (ART. 100)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/2.1.1.3. SEÇÃO III - NORMAS COMPLEMENTARES (ART. 100)|Resumo]]
 
-* Art. 100. São normas complementares das leis, dos tratados e das convenções internacionais e dos decretos: ^615122f
+* Art. 100. São <span style="color: #d79921">normas complementares</span> das leis, dos tratados e das convenções internacionais e dos decretos: ^615122f
 
-	* I - os atos normativos expedidos pelas autoridades administrativas; ^7c6c6d3
+	* I - os <span style="color: #d79921">atos normativos expedidos pelas autoridades administrativas</span>; ^7c6c6d3
 
-	* II - as decisões dos órgãos singulares ou coletivos de jurisdição administrativa, a que a lei atribua eficácia normativa; ^94322a2
+	* II - as <span style="color: #d79921">decisões dos órgãos singulares ou coletivos de jurisdição administrativa, a que a lei atribua eficácia normativa</span>; ^94322a2
 
-	* III - as práticas reiteradamente observadas pelas autoridades administrativas; ^db22136
+	* III - as <span style="color: #d79921">práticas reiteradamente observadas pelas autoridades administrativas;</span> ^db22136
 
-	* IV - os convênios que entre si celebrem a União, os Estados, o Distrito Federal e os Municípios. ^5cd9b4d
+	* IV - os <span style="color: #d79921">convênios que entre si celebrem</span> a União, os Estados, o Distrito Federal e os Municípios. ^5cd9b4d
 
-	* Parágrafo único. A observância das normas referidas neste artigo exclui a imposição de penalidades, a cobrança de juros de mora e a atualização do valor monetário da base de cálculo do tributo. ^a305a22
+	* Parágrafo único. A <span style="color:#fb4934">observância das normas referidas neste artigo exclui a imposição de penalidades, a cobrança de juros de mora e a atualização do valor monetário da base de cálculo do tributo.</span> ^a305a22
 
 ### 2.1.2. CAPÍTULO II - VIGÊNCIA DA LEGISLAÇÃO TRIBUTÁRIA (ARTS. 101 A 104)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/2.1.2. CAPÍTULO II - VIGÊNCIA DA LEGISLAÇÃO TRIBUTÁRIA (ARTS. 101 A 104)|Resumo]]
@@ -697,30 +697,30 @@ DISPOSIÇÃO PRELIMINAR
 
 * Art. 102. A legislação tributária dos Estados, do Distrito Federal e dos Municípios vigora, no País, fora dos respectivos territórios, nos limites em que lhe reconheçam extraterritorialidade os convênios de que participem, ou do que disponham esta ou outras leis de normas gerais expedidas pela União. ^80db993
 
-* Art. 103. Salvo disposição em contrário, entram em vigor: ^eae251b
+* Art. 103. <span style="color:#fb4934">Salvo disposição em contrário</span>, entram em vigor: ^eae251b
 
-	* I - os atos administrativos a que se refere o inciso [[#^7c6c6d3|I]] do art. [[#^615122f|100]], na data da sua publicação; ^e0a01ca
+	* I - os <span style="color:#83a598">atos administrativos a que se refere o inciso [[#^7c6c6d3|I]] do art. [[#^615122f|100]],</span> na <span style="color:#b8bb26">data da sua publicação</span>; ^e0a01ca
 
-	* II - as decisões a que se refere o inciso [[#^94322a2|II]] do art. [[#^615122f|100]], quanto a seus efeitos normativos, 30 (trinta) dias após a data da sua publicação; ^eda9c1b
+	* II - as <span style="color:#83a598">decisões</span> a que se refere o inciso [[#^94322a2|II]] do art. [[#^615122f|100]], <span style="color:#b8bb26">quanto a seus efeitos normativos, 30 (trinta) dias após a data da sua publicação</span>; ^eda9c1b
 
-	* III - os convênios a que se refere o inciso [[#^5cd9b4d|IV]] do art. [[#^615122f|100]], na data nêles prevista. ^38c9563
+	* III - os <span style="color:#83a598">convênios</span> a que se refere o inciso [[#^5cd9b4d|IV]] do art. [[#^615122f|100]], <span style="color:#b8bb26">na data nêles prevista</span>. ^38c9563
 
-* Art. 104. Entram em vigor no primeiro dia do exercício seguinte àquele em que ocorra a sua publicação os dispositivos de lei, referentes a impostos sobre o patrimônio ou a renda: ^b467534
+* Art. 104. <span style="color:#b8bb26">Entram em vigor no</span> <span style="color:#b8bb26">primeiro dia do exercício seguinte</span> àquele em que ocorra a sua publicação os dispositivos de lei, referentes a impostos sobre o patrimônio ou a renda: ^b467534
 
-	* I - que instituem ou majoram tais impostos; ^8905bb6
+	* I - que <span style="color:#fb4934">instituem ou majoram</span> tais impostos; ^8905bb6
 
-	* II - que definem novas hipóteses de incidência; ^75de106
+	* II - que definem <span style="color: #d79921">novas hipóteses de incidência</span>; ^75de106
 
-	* III - que extinguem ou reduzem isenções, salvo se a lei dispuser de maneira mais favorável ao contribuinte, e observado o disposto no artigo [[#^a342dd2|178]]. ^3ca86f9
+	* III - que <span style="color:#83a598">extinguem ou reduzem isenções</span>, <span style="color:#fb4934">salvo se a lei dispuser de maneira mais favorável ao contribuinte</span>, e observado o disposto no artigo [[#^a342dd2|178]]. ^3ca86f9
 
 ### 2.1.3. CAPÍTULO III - APLICAÇÃO DA LEGISLAÇÃO TRIBUTÁRIA (ARTS. 105 A 106)
 [[NavegaLei/Lei n° 5.172 (CTN)/MOC/2.1.3. CAPÍTULO III - APLICAÇÃO DA LEGISLAÇÃO TRIBUTÁRIA (ARTS. 105 A 106)|Resumo]]
 
 * Art. 105. A legislação tributária aplica-se imediatamente aos fatos geradores futuros e aos pendentes, assim entendidos aquêles cuja ocorrência tenha tido início mas não esteja completa nos têrmos do artigo [[#^4b2e6a5|116]]. ^b73dd39
 
-* Art. 106. A lei aplica-se a ato ou fato pretérito: ^765b69b
+* Art. 106. A lei <span style="color:#b8bb26">aplica-se a ato ou fato pretérito</span>: ^765b69b
 
-	* I - em qualquer caso, quando seja expressamente interpretativa, excluída a aplicação de penalidade à infração dos dispositivos interpretados; ^2edd85b
+	* I - <span style="color:#83a598">em qualquer caso, quando seja expressamente interpretativa,</span> excluída a aplicação de penalidade à infração dos dispositivos interpretados; ^2edd85b
 
 	* II - tratando-se de ato não definitivamente julgado: ^ad40b07
 
