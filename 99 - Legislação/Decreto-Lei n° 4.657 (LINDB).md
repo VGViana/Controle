@@ -86,61 +86,55 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 	* § 2° A autoridade judiciária brasileira cumprirá, concedido o exequatur e segundo a forma estabelecida pela lei brasileira, as diligências deprecadas por autoridade estrangeira competente, observando a lei desta, quanto ao objeto das diligências. ^5873957
 
-* Art. 13. A prova dos fatos ocorridos em país estrangeiro rege-se pela lei que nele vigorar, quanto ao ônus e aos meios de produzir-se, não admitindo os tribunais brasileiros provas que a lei brasileira desconheça. ^6308548
+* Art. 13. A <span style="color: #d79921">prova dos fatos ocorridos em país estrangeiro rege-se pela lei que nele vigorar</span>, quanto ao ônus e aos meios de produzir-se, <span style="color:#fb4934">não admitindo os tribunais brasileiros provas que a lei brasileira desconheça.</span> ^6308548
 
-* Art. 14. Não conhecendo a lei estrangeira, poderá o juiz exigir de quem a invoca prova do texto e da vigência. ^90c0025
+* Art. 14. <span style="color:#83a598">Não conhecendo a lei estrangeira, poderá o juiz exigir de quem a invoca prova do texto e da vigência</span>. ^90c0025
 
-* Art. 15. Será executada no Brasil a sentença proferida no estrangeiro, que reúna os seguintes requisitos: ^483bc20
+* Art. 15. Será <span style="color: #d79921">executada no Brasil a sentença proferida no estrangeiro,</span> que reúna os seguintes requisitos: ^483bc20
 
-	* a) haver sido proferida por juiz competente; ^7d12666
+	* a) haver sido <span style="color: #d79921">proferida por juiz competente;</span> ^7d12666
 
 	* b) terem sido os partes citadas ou haver-se legalmente verificado à revelia; ^4d4f4d9
 
-	* c) ter passado em julgado e estar revestida das formalidades necessárias para a execução no lugar em que foi proferida; ^a69284d
+	* c) ter <span style="color: #d79921">passado em julgado e estar revestida das formalidades necessárias</span> para a execução no lugar em que foi proferida; ^a69284d
 
-	* d) estar traduzida por intérprete autorizado; ^74cae73
+	* d) estar <span style="color: #d79921">traduzida por intérprete autorizado</span>; ^74cae73
 
-	* e) ter sido homologada pelo Supremo Tribunal Federal. (Vide art.[[NavegaMente/NavegaLei/Constituição Federal de 1988 (CF1988)/Constituição Federal de 1988 (CF1988)#^b73dd39|105]], [[NavegaMente/NavegaLei/Constituição Federal de 1988 (CF1988)/Constituição Federal de 1988 (CF1988)#^e0f56e7|I]], [[NavegaMente/NavegaLei/Constituição Federal de 1988 (CF1988)/Constituição Federal de 1988 (CF1988)#^5e00ffd|i]] da Constituição Federal). ^40b34a6
-
-	* ~~Parágrafo único. Não dependem de homologação as sentenças meramente declaratórias do estado das pessoas.~~ (Revogado pela Lei n° 12.036, de 2009).
+	* e) ter sido <span style="color: #d79921">homologada pelo Supremo Tribunal Federal</span>. (Vide art.[[NavegaMente/NavegaLei/Constituição Federal de 1988 (CF1988)/Constituição Federal de 1988 (CF1988)#^b73dd39|105]], [[NavegaMente/NavegaLei/Constituição Federal de 1988 (CF1988)/Constituição Federal de 1988 (CF1988)#^e0f56e7|I]], [[NavegaMente/NavegaLei/Constituição Federal de 1988 (CF1988)/Constituição Federal de 1988 (CF1988)#^5e00ffd|i]] da Constituição Federal). ^40b34a6
 
 * Art. 16. Quando, nos termos dos artigos precedentes, se houver de aplicar a lei estrangeira, ter-se-á em vista a disposição desta, sem considerar-se qualquer remissão por ela feita a outra lei. ^29136e8
 
 * Art. 17. As leis, atos e sentenças de outro país, bem como quaisquer declarações de vontade, não terão eficácia no Brasil, quando ofenderem a soberania nacional, a ordem pública e os bons costumes. ^10f159f
 
-* ~~Art. 18. Tratando-se de brasileiros ausentes de seu domicílio no país, são competentes as autoridades consulares brasileiras para lhes celebrar o casamento, assim como para exercer as funções de tabelião e de oficial do registo civil em atos a eles relativos no estrangeiro.~~
-
 * Art. 18. Tratando-se de brasileiros, são competentes as autoridades consulares brasileiras para lhes celebrar o casamento e os mais atos de Registro Civil e de tabelionato, inclusive o registro de nascimento e de óbito dos filhos de brasileiro ou brasileira nascido no país da sede do Consulado. (Redação dada pela Lei n° 3.238, de 1957) ^c251e03
 
 	* § 1° As autoridades consulares brasileiras também poderão celebrar a separação consensual e o divórcio consensual de brasileiros, não havendo filhos menores ou incapazes do casal e observados os requisitos legais quanto aos prazos, devendo constar da respectiva escritura pública as disposições relativas à descrição e à partilha dos bens comuns e à pensão alimentícia e, ainda, ao acordo quanto à retomada pelo cônjuge de seu nome de solteiro ou à manutenção do nome adotado quando se deu o casamento. (Incluído pela Lei n° 12.874, de 2013) Vigência ^77541e1
 
-	* § 2° É indispensável a assistência de advogado, devidamente constituído, que se dará mediante a subscrição de petição, juntamente com ambas as partes, ou com apenas uma delas, caso a outra constitua advogado próprio, não se fazendo necessário que a assinatura do advogado conste da escritura pública. (Incluído pela Lei n° 12.874, de 2013) Vigência ^4b5bae5
+	* § 2° É <span style="color:#83a598">**indispensável a assistência de advogado**</span>, devidamente constituído, que se dará mediante a subscrição de petição, juntamente com ambas as partes, ou com apenas uma delas, caso a outra constitua advogado próprio, não se fazendo necessário que a assinatura do advogado conste da escritura pública. (Incluído pela Lei n° 12.874, de 2013) Vigência ^4b5bae5
 
 * Art. 19. Reputam-se válidos todos os atos indicados no artigo anterior e celebrados pelos cônsules brasileiros na vigência do Decreto-lei n° 4.657, de 4 de setembro de 1942, desde que satisfaçam todos os requisitos legais. (Incluído pela Lei n° 3.238, de 1957) ^b8fe562
 
 	* Parágrafo único. No caso em que a celebração dêsses atos tiver sido recusada pelas autoridades consulares, com fundamento no artigo [[#^c251e03|18]] do mesmo Decreto-lei, ao interessado é facultado renovar o pedido dentro em 90 (noventa) dias contados da data da publicação desta lei. (Incluído pela Lei n° 3.238, de 1957) ^380b820
 
-* Art. 20. Nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^7798582
+* Art. 20. Nas esferas <span style="color:#fb4934">**administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão**</span>. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^7798582
 
-	* Parágrafo único. A motivação demonstrará a necessidade e a adequação da medida imposta ou da invalidação de ato, contrato, ajuste, processo ou norma administrativa, inclusive em face das possíveis alternativas. (Incluído pela Lei n° 13.655, de 2018) ^01c085f
+	* Parágrafo único. A motivação demonstrará a <span style="color:#83a598">necessidade e a adequação</span> da medida imposta ou da invalidação de ato, contrato, ajuste, processo ou norma administrativa, inclusive em face das possíveis alternativas. (Incluído pela Lei n° 13.655, de 2018) ^01c085f
 
-* Art. 21. A decisão que, nas esferas administrativa, controladora ou judicial, decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar de modo expresso suas consequências jurídicas e administrativas. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^41903be
+* Art. 21. A decisão que, nas esferas <span style="color:#83a598">administrativa, controladora ou judicial, decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar de modo expresso suas consequências jurídicas e administrativas.</span> (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^41903be
 
-	* Parágrafo único. A decisão a que se refere o caput deste artigo deverá, quando for o caso, indicar as condições para que a regularização ocorra de modo proporcional e equânime e sem prejuízo aos interesses gerais, não se podendo impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos. (Incluído pela Lei n° 13.655, de 2018) ^f4c6dc1
+	* Parágrafo único. A decisão a que se refere o caput deste artigo deverá, quando for o caso, indicar as condições para que a regularização ocorra de modo <span style="color:#83a598">proporcional e equânime e sem prejuízo aos interesses gerais</span>, não se podendo impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos. (Incluído pela Lei n° 13.655, de 2018) ^f4c6dc1
 
-* Art. 22. Na interpretação de normas sobre gestão pública, serão considerados os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados. (Regulamento) ^1687197
+* Art. 22. Na <span style="color: #d79921">interpretação de normas sobre gestão pública, serão considerados os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados</span>. (Regulamento) ^1687197
 
-	* § 1° Em decisão sobre regularidade de conduta ou validade de ato, contrato, ajuste, processo ou norma administrativa, serão consideradas as circunstâncias práticas que houverem imposto, limitado ou condicionado a ação do agente. (Incluído pela Lei n° 13.655, de 2018) ^821cea0
+	* § 1° Em decisão sobre regularidade de <span style="color: #d79921">conduta ou validade de ato, contrato, ajuste, processo ou norma administrativa, serão consideradas as circunstâncias práticas que houverem imposto, limitado ou condicionado a ação do agente</span>. (Incluído pela Lei n° 13.655, de 2018) ^821cea0
 
-	* § 2° Na aplicação de sanções, serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para a administração pública, as circunstâncias agravantes ou atenuantes e os antecedentes do agente. (Incluído pela Lei n° 13.655, de 2018) ^327c87d
+	* § 2° Na aplicação de <span style="color:#fb4934">sanções, serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para a administração pública, as circunstâncias agravantes ou atenuantes e os antecedentes do agente</span>. (Incluído pela Lei n° 13.655, de 2018) ^327c87d
 
 	* § 3° As sanções aplicadas ao agente serão levadas em conta na dosimetria das demais sanções de mesma natureza e relativas ao mesmo fato. (Incluído pela Lei n° 13.655, de 2018) ^8956d91
 
-* Art. 23. A decisão administrativa, controladora ou judicial que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, deverá prever regime de transição quando indispensável para que o novo dever ou condicionamento de direito seja cumprido de modo proporcional, equânime e eficiente e sem prejuízo aos interesses gerais. (Regulamento) ^382bb16
+* Art. 23. A decisão <span style="color:#83a598">**administrativa, controladora ou judicial que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, deverá prever regime de transição**</span> quando indispensável para que o novo dever ou condicionamento de direito seja cumprido de modo proporcional, equânime e eficiente e sem prejuízo aos interesses gerais. (Regulamento) ^382bb16
 
-	* Parágrafo único. (VETADO). (Incluído pela Lei n° 13.655, de 2018) ^e98793c
-
-* Art. 24. A revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^4c71af5
+* Art. 24. A <span style="color: #d79921">revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado levará em conta as orientações gerais da época</span>, <span style="color:#fb4934">sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas</span>. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^4c71af5
 
 	* Parágrafo único. Consideram-se orientações gerais as interpretações e especificações contidas em atos públicos de caráter geral ou em jurisprudência judicial ou administrativa majoritária, e ainda as adotadas por prática administrativa reiterada e de amplo conhecimento público. (Incluído pela Lei n° 13.655, de 2018) ^135cf6e
 
