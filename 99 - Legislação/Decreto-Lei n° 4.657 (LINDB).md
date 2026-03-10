@@ -2,24 +2,6 @@ Tags:: #LEI
 Fonte:: [Decreto-Lei n° 4.657 (LINDB)](https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657.htm)
 Data:: 27/01/2025 20:00:43
 
-Siga o [@navegamente_](https://instagram.com/navegamente_?igshid=NjIwNzIyMDk2Mg==) para dicas e conteúdo sobre Obsidian e 2° cérebro!
-
-> [!FALE CONOSCO!]- FALE COM O NAVEGAMENTE!
-> Encontrou algum problema ou deseja deixar algum comentário ou sugestão?
-> 
-> Nos avise por [AQUI](mailto:suporte@navegamente.com.br)
-
-> [!IMPORTANT]- AVISO
-> O Navega Lei é projetado para auxiliar o estudo da lei por meio de formatação e referências, com o intuito de facilitar a leitura e o aprendizado.
-> 
-> Qualquer texto presente no Navega Lei não deve ser considerado como base legal para decisões ou ações jurídicas. Se você planeja usar a legislação para fins legais ou profissionais, é crucial verificar sempre a legislação original e atualizada nos órgãos governamentais competentes.
-> 
-> O Navega Lei não substitui a consulta direta à legislação oficial para fins legais.
-
-> [!WARNING]- IMPORTANTE
-> Utilize apenas documentos Navega Lei.
-> 
-> Versões adquiridas por fora podem estar erradas, desatualizadas ou conter arquivos maliciosos (vírus), prejudicando o usuário. Confie apenas na formatação das leis fornecidas através da nossa área de membros.
 
 ***
 <table border="0" cellpadding="0" cellspacing="0" width="70%" height="82"> <tr> <td width="14%" height="82"><p align="center"><font SIZE="2"> <img SRC="https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/Image4.gif" WIDTH="76" HEIGHT="82"></font></td> <td width="86%" height="82"><p align="center"><font color="808000" face="Arial"><strong><big><big>Presidência da República</big></big><br> <big>Casa Civil<br> </big>Subchefia para Assuntos Jurídicos</strong></font></td> </tr> </table>
@@ -30,33 +12,33 @@ DECRETO-LEI N° 4.657, DE 4 DE SETEMBRO DE 1942.
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição, decreta:
 
-* Art. 1° Salvo disposição contrária, a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada. ^77575b2
+* Art. 1° Salvo disposição contrária, a <span style="color:#b8bb26">**lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada**</span>. ^77575b2
 
-	* § 1° Nos Estados estrangeiros, a obrigatoriedade da lei brasileira, quando admitida, se inicia três meses depois de oficialmente publicada. (Vide Lei n° 1.991, de 1953) (Vide Lei n° 2.145, de 1953) (Vide Lei n° 2.598, de 1955) (Vide Lei n° 2.410, de 1955) (Vide Lei n° 2.770, de 1956) (Vide Lei n° 3.244, de 1957) (Vide Lei n° 4.966, de 1966) (Vide Decreto-Lei n° 333, de 1967) (Vide Lei n° 2.807, de 1956) (Vide Lei n° 4.820, de 1965) ^e18a0e8
+	* § 1° Nos <span style="color:#fb4934">**Estados estrangeiros**</span>, a obrigatoriedade da lei brasileira, quando admitida, se inicia <span style="color:#fb4934">**três meses depois de oficialmente publicada**</span>. (Vide Lei n° 1.991, de 1953) (Vide Lei n° 2.145, de 1953) (Vide Lei n° 2.598, de 1955) (Vide Lei n° 2.410, de 1955) (Vide Lei n° 2.770, de 1956) (Vide Lei n° 3.244, de 1957) (Vide Lei n° 4.966, de 1966) (Vide Decreto-Lei n° 333, de 1967) (Vide Lei n° 2.807, de 1956) (Vide Lei n° 4.820, de 1965) ^e18a0e8
 
 	* ~~§ 2° A vigência das leis, que os Governos Estaduais elaborem por autorização do Governo Federal, depende da aprovação deste e começa no prazo que a legislação estadual fixar.~~ [(Revogado pela Lei n° 12.036, de 2009).
 
-	* § 3° Se, antes de entrar a lei em vigor, ocorrer nova publicação de seu texto, destinada a correção, o prazo deste artigo e dos parágrafos anteriores começará a correr da nova publicação. ^0eea03b
+	* § 3° Se, <span style="color:#b8bb26">antes de entrar a lei em vigor,</span> ocorrer <span style="color:#b8bb26">nova publicação</span> de seu texto, destinada a <span style="color:#b8bb26">correção</span>, o prazo deste artigo e dos parágrafos anteriores <span style="color:#b8bb26">começará a correr da nova publicação</span>. ^0eea03b
 
-	* § 4° As correções a texto de lei já em vigor consideram-se lei nova. ^472c1ce
+	* § 4° As <span style="color: #d79921">correções a texto de lei já em vigor consideram-se lei nova</span>. ^472c1ce
 
-* Art. 2° Não se destinando à vigência temporária, a lei terá vigor até que outra a modifique ou revogue. ^bd4f65c
+* Art. 2° <span style="color:#fb4934">Não se destinando à vigência temporária,</span> a lei <span style="color:#83a598">terá vigor até que outra a modifique ou revogue</span>. ^bd4f65c
 
-	* § 1° A lei posterior revoga a anterior quando expressamente o declare, quando seja com ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior. ^490e2e9
+	* § 1° A lei <span style="color: #d79921">posterior revoga a anterior quando expressamente o declare</span>, quando seja com ela <span style="color: #d79921">incompatível</span> ou quando <span style="color: #d79921">regule inteiramente a matéria de que tratava</span> a lei anterior. ^490e2e9
 
-	* § 2° A lei nova, que estabeleça disposições gerais ou especiais a par das já existentes, não revoga nem modifica a lei anterior. ^460b5c0
+	* § 2° A <span style="color: #d79921">lei nova</span>, que <span style="color:#fb4934">estabeleça disposições gerais ou especiais a par das já existentes, não revoga nem modifica a lei anterior</span>. ^460b5c0
 
-	* § 3° Salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência. ^3583884
+	* § 3° Salvo disposição em contrário, a <span style="color:#fb4934">lei revogada não se restaura por ter a lei revogadora perdido a vigência</span>. ^3583884
 
 * Art. 3° Ninguém se escusa de cumprir a lei, alegando que não a conhece. ^197f612
 
-* Art. 4° Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e os princípios gerais de direito. ^1955485
+* Art. 4° Quando a <span style="color:#83a598">lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e os princípios gerais de direito</span>. ^1955485
 
-* Art. 5° Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum. ^30f4637
+* Art. 5° Na aplicação da lei, o <span style="color: #d79921">juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum</span>. ^30f4637
 
 * ~~Art. 6° A lei em vigor terá efeito imediato e geral. Não atingirá, entretanto, salvo disposição expressa em contrário, as situações jurídicas definitivamente constituídas e a execução do ato jurídico perfeito.~~
 
-* Art. 6° A Lei em vigor terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada. (Redação dada pela Lei n° 3.238, de 1957) ^251d44c
+* Art. 6° A Lei em vigor terá efeito imediato e geral, <span style="color:#83a598">respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada</span>. (Redação dada pela Lei n° 3.238, de 1957) ^251d44c
 
 	* § 1° Reputa-se ato jurídico perfeito o já consumado segundo a lei vigente ao tempo em que se efetuou. (Incluído pela Lei n° 3.238, de 1957) ^507bff4
 
@@ -64,7 +46,7 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 	* § 3° Chama-se coisa julgada ou caso julgado a decisão judicial de que já não caiba recurso. (Incluído pela Lei n° 3.238, de 1957) ^1e3949e
 
-* Art. 7° A lei do país em que domiciliada a pessoa determina as regras sobre o começo e o fim da personalidade, o nome, a capacidade e os direitos de família. ^0f410c4
+* Art. 7° A lei do país em que <span style="color: #d79921">domiciliada a pessoa determina as regras sobre o começo e o fim da personalidade</span>, o nome, a capacidade e os direitos de família. ^0f410c4
 
 	* § 1° Realizando-se o casamento no Brasil, será aplicada a lei brasileira quanto aos impedimentos dirimentes e às formalidades da celebração. ^470709d
 
@@ -74,7 +56,7 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 	* § 3° Tendo os nubentes domicílio diverso, regerá os casos de invalidade do matrimônio a lei do primeiro domicílio conjugal. ^aeb1f88
 
-	* § 4° O regime de bens, legal ou convencional, obedece à lei do país em que tiverem os nubentes domicílio, e, se este for diverso, a do primeiro domicílio conjugal. ^d60111a
+	* § 4° <span style="color:#83a598">O regime de bens, legal ou convencional, obedece à lei do país em que tiverem os nubentes domicílio,</span> e, se este for <span style="color:#fb4934">diverso, a do primeiro domicílio conjugal.</span> ^d60111a
 
 	* ~~§ 5° O estrangeiro casado, que se naturalizar brasileiro, pode, mediante expressa anuência de seu cônjuge, requerer ao juiz, no ato de entrega do decreto de naturalização, se apostile ao mesmo a adoção do regime da comunhão universal de bens, respeitados os direitos de terceiro e dada esta adoção ao competente registro.~~
 
