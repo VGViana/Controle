@@ -15,9 +15,6 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 * Art. 1° Salvo disposição contrária, a <span style="color:#b8bb26">**lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada**</span>. ^77575b2
 
 	* § 1° Nos <span style="color:#fb4934">**Estados estrangeiros**</span>, a obrigatoriedade da lei brasileira, quando admitida, se inicia <span style="color:#fb4934">**três meses depois de oficialmente publicada**</span>. (Vide Lei n° 1.991, de 1953) (Vide Lei n° 2.145, de 1953) (Vide Lei n° 2.598, de 1955) (Vide Lei n° 2.410, de 1955) (Vide Lei n° 2.770, de 1956) (Vide Lei n° 3.244, de 1957) (Vide Lei n° 4.966, de 1966) (Vide Decreto-Lei n° 333, de 1967) (Vide Lei n° 2.807, de 1956) (Vide Lei n° 4.820, de 1965) ^e18a0e8
-
-	* ~~§ 2° A vigência das leis, que os Governos Estaduais elaborem por autorização do Governo Federal, depende da aprovação deste e começa no prazo que a legislação estadual fixar.~~ [(Revogado pela Lei n° 12.036, de 2009).
-
 	* § 3° Se, <span style="color:#b8bb26">antes de entrar a lei em vigor,</span> ocorrer <span style="color:#b8bb26">nova publicação</span> de seu texto, destinada a <span style="color:#b8bb26">correção</span>, o prazo deste artigo e dos parágrafos anteriores <span style="color:#b8bb26">começará a correr da nova publicação</span>. ^0eea03b
 
 	* § 4° As <span style="color: #d79921">correções a texto de lei já em vigor consideram-se lei nova</span>. ^472c1ce
@@ -36,8 +33,6 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 * Art. 5° Na aplicação da lei, o <span style="color: #d79921">juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum</span>. ^30f4637
 
-* ~~Art. 6° A lei em vigor terá efeito imediato e geral. Não atingirá, entretanto, salvo disposição expressa em contrário, as situações jurídicas definitivamente constituídas e a execução do ato jurídico perfeito.~~
-
 * Art. 6° A Lei em vigor terá efeito imediato e geral, <span style="color:#83a598">respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada</span>. (Redação dada pela Lei n° 3.238, de 1957) ^251d44c
 
 	* § 1° Reputa-se ato jurídico perfeito o já consumado segundo a lei vigente ao tempo em que se efetuou. (Incluído pela Lei n° 3.238, de 1957) ^507bff4
@@ -50,57 +45,42 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 	* § 1° Realizando-se o casamento no Brasil, será aplicada a lei brasileira quanto aos impedimentos dirimentes e às formalidades da celebração. ^470709d
 
-	* ~~§ 2° O casamento de estrangeiros pode celebrar-se perante as autoridades diplomáticas ou consulares do país em que um dos nubentes seja domiciliado.~~
-
 	* § 2° O casamento de estrangeiros poderá celebrar-se perante autoridades diplomáticas ou consulares do país de ambos os nubentes. (Redação dada pela Lei n° 3.238, de 1957) ^5bdaa83
 
 	* § 3° Tendo os nubentes domicílio diverso, regerá os casos de invalidade do matrimônio a lei do primeiro domicílio conjugal. ^aeb1f88
-
 	* § 4° <span style="color:#83a598">O regime de bens, legal ou convencional, obedece à lei do país em que tiverem os nubentes domicílio,</span> e, se este for <span style="color:#fb4934">diverso, a do primeiro domicílio conjugal.</span> ^d60111a
-
-	* ~~§ 5° O estrangeiro casado, que se naturalizar brasileiro, pode, mediante expressa anuência de seu cônjuge, requerer ao juiz, no ato de entrega do decreto de naturalização, se apostile ao mesmo a adoção do regime da comunhão universal de bens, respeitados os direitos de terceiro e dada esta adoção ao competente registro.~~
-
 	* § 5° - O estrangeiro casado, que se naturalizar brasileiro, pode, mediante expressa anuência de seu cônjuge, requerer ao juiz, no ato de entrega do decreto de naturalização, se apostile ao mesmo a adoção do regime de comunhão parcial de bens, respeitados os direitos de terceiros e dada esta adoção ao competente registro. (Redação dada pela Lei n° 6.515, de 1977) ^bea5761
-
-	* ~~§ 6° Não será reconhecido no Brasil o divórcio, se os cônjuges forem brasileiros. Se um deles o for, será reconhecido o divórcio quanto ao outro, que não poderá, entretanto, casar-se no Brasil.~~
-
-	* ~~§ 6° - O divórcio realizado no estrangeiro, se um ou ambos os cônjuges forem brasileiros, só será reconhecido no Brasil depois de três anos da data da sentença, salvo se houver sido antecedida de separarão judicial por igual prazo, caso em que a homologação produzirá efeito imediato, obedecidas as condições estabelecidas para a eficácia das sentenças estrangeiras no País. O Supremo Tribunal Federal, na forma de seu regimento interno, poderá reexaminar, a requerimento do interessado, decisões já proferidas em pedidos de homologação de sentenças estrangeiras de divórcio de brasileiros, a fim de que passem a produzir todos os efeitos legais. (Redação dada pela Lei n° 6.515, de 1977)~~
-
-	* § 6° O divórcio realizado no estrangeiro, se um ou ambos os cônjuges forem brasileiros, só será reconhecido no Brasil depois de 1 (um) ano da data da sentença, salvo se houver sido antecedida de separação judicial por igual prazo, caso em que a homologação produzirá efeito imediato, obedecidas as condições estabelecidas para a eficácia das sentenças estrangeiras no país. O Superior Tribunal de Justiça, na forma de seu regimento interno, poderá reexaminar, a requerimento do interessado, decisões já proferidas em pedidos de homologação de sentenças estrangeiras de divórcio de brasileiros, a fim de que passem a produzir todos os efeitos legais. (Redação dada pela Lei n° 12.036, de 2009). ^ae488a2
-
+	
 	* § 7° Salvo o caso de abandono, o domicílio do chefe da família estende-se ao outro cônjuge e aos filhos não emancipados, e o do tutor ou curador aos incapazes sob sua guarda. ^62d3a0c
 
-	* § 8° Quando a pessoa não tiver domicílio, considerar-se-á domiciliada no lugar de sua residência ou naquele em que se encontre. ^bb16e40
+	* § 8° Quando a <span style="color: #d79921">pessoa não tiver domicílio, considerar-se-á domiciliada no lugar de sua residência ou naquele em que se encontre</span>. ^bb16e40
 
-* Art. 8° Para qualificar os bens e regular as relações a eles concernentes, aplicar-se-á a lei do país em que estiverem situados. ^4778042
+* Art. 8° Para qualificar os <span style="color: #d79921">bens e regular as relações a eles concernentes, aplicar-se-á a lei do país em que estiverem situados</span>. ^4778042
 
-	* § 1° Aplicar-se-á a lei do país em que for domiciliado o proprietário, quanto aos bens moveis que ele trouxer ou se destinarem a transporte para outros lugares. ^289bdd5
+	* § 1° Aplicar-se-á a <span style="color: #d79921">lei do país em que for domiciliado o proprietário, quanto aos bens moveis que ele trouxer ou se destinarem a transporte para outros lugares</span>. ^289bdd5
 
-	* § 2° O penhor regula-se pela lei do domicílio que tiver a pessoa, em cuja posse se encontre a coisa apenhada. ^1615357
+	* § 2° O <span style="color: #d79921">penhor regula-se pela lei do domicílio que tiver a pessoa, em cuja posse se encontre a coisa apenhada.</span> ^1615357
 
-* Art. 9° Para qualificar e reger as obrigações, aplicar-se-á a lei do país em que se constituirem. ^906184d
+* Art. 9° Para qualificar e reger as <span style="color:#83a598">obrigações, aplicar-se-á a lei do país em que se constituirem.</span> ^906184d
 
 	* § 1° Destinando-se a obrigação a ser executada no Brasil e dependendo de forma essencial, será esta observada, admitidas as peculiaridades da lei estrangeira quanto aos requisitos extrínsecos do ato. ^e49bd0f
 
-	* § 2° A obrigação resultante do contrato reputa-se constituida no lugar em que residir o proponente. ^b12d23e
+	* § 2° A obrigação resultante do <span style="color:#83a598">contrato reputa-se constituida no lugar em que residir o proponente</span>. ^b12d23e
 
-* Art. 10. A sucessão por morte ou por ausência obedece à lei do país em que domiciliado o defunto ou o desaparecido, qualquer que seja a natureza e a situação dos bens. ^68b4123
-
-	* ~~§ 1° A vocação para suceder em bens de estrangeiro situados no Brasil. será regulada pela lei brasileira em benefício do cônjuge brasileiro e dos filhos do casal, sempre que não lhes seja mais favorável a lei do domicílio.~~
-
+* Art. 10. A <span style="color: #d79921">sucessão por morte ou por ausência</span> obedece à lei do país em que <span style="color: #d79921">domiciliado o defunto ou o desaparecido</span>, qualquer que seja a natureza e a situação dos bens. ^68b4123
 	* § 1° A sucessão de bens de estrangeiros, situados no País, será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, ou de quem os represente, sempre que não lhes seja mais favorável a lei pessoal do de cujus. (Redação dada pela Lei n° 9.047, de 1995) ^a80943e
 
 	* § 2° A lei do domicílio do herdeiro ou legatário regula a capacidade para suceder. ^cb55b78
 
-* Art. 11. As organizações destinadas a fins de interesse coletivo, como as sociedades e as fundações, obedecem à lei do Estado em que se constituirem. ^04140f2
+* Art. 11. As <span style="color:#fb4934">organizações destinadas a fins de interesse coletivo</span>, como as sociedades e as fundações, obedecem à lei do Estado em que se constituirem. ^04140f2
 
-	* § 1° Não poderão, entretanto ter no Brasil filiais, agências ou estabelecimentos antes de serem os atos constitutivos aprovados pelo Governo brasileiro, ficando sujeitas à lei brasileira. ^ec72aa0
+	* § 1° <span style="color:#fb4934">Não poderão, entretanto ter no Brasil filiais, agências ou estabelecimentos antes de serem os atos constitutivos aprovados</span> pelo Governo brasileiro, ficando sujeitas à lei brasileira. ^ec72aa0
 
 	* § 2° Os Governos estrangeiros, bem como as organizações de qualquer natureza, que eles tenham constituido, dirijam ou hajam investido de funções públicas, não poderão adquirir no Brasil bens imóveis ou susceptiveis de desapropriação. ^a8e1d61
 
 	* § 3° Os Governos estrangeiros podem adquirir a propriedade dos prédios necessários à sede dos representantes diplomáticos ou dos agentes consulares. (Vide Lei n° 4.331, de 1964) ^94729b1
 
-* Art. 12. É competente a autoridade judiciária brasileira, quando for o réu domiciliado no Brasil ou aqui tiver de ser cumprida a obrigação. ^fae93a6
+* Art. 12. É <span style="color: #d79921">competente a autoridade judiciária brasileira</span>, quando for o <span style="color: #d79921">réu domiciliado no Brasil ou aqui tiver de ser cumprida a obrigação</span>. ^fae93a6
 
 	* § 1° Só à autoridade judiciária brasileira compete conhecer das ações relativas a imóveis situados no Brasil. ^82f4366
 
