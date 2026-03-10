@@ -136,9 +136,7 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 * Art. 24. A <span style="color: #d79921">revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado levará em conta as orientações gerais da época</span>, <span style="color:#fb4934">sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas</span>. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^4c71af5
 
-	* Parágrafo único. Consideram-se orientações gerais as interpretações e especificações contidas em atos públicos de caráter geral ou em jurisprudência judicial ou administrativa majoritária, e ainda as adotadas por prática administrativa reiterada e de amplo conhecimento público. (Incluído pela Lei n° 13.655, de 2018) ^135cf6e
-
-* Art. 25. (VETADO). (Incluído pela Lei n° 13.655, de 2018) ^2412c38
+	* Parágrafo único. <span style="color:#83a598">Consideram-se orientações gerais as interpretações e especificações contidas em atos públicos de caráter geral ou em jurisprudência judicial ou administrativa majoritária</span>, e ainda as adotadas por prática administrativa reiterada e de amplo conhecimento público. (Incluído pela Lei n° 13.655, de 2018) ^135cf6e
 
 * Art. 26. Para eliminar irregularidade, incerteza jurídica ou situação contenciosa na aplicação do direito público, inclusive no caso de expedição de licença, a autoridade administrativa poderá, após oitiva do órgão jurídico e, quando for o caso, após realização de consulta pública, e presentes razões de relevante interesse geral, celebrar compromisso com os interessados, observada a legislação aplicável, o qual só produzirá efeitos a partir de sua publicação oficial. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^e0d9bc8
 
@@ -146,41 +144,22 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 		* I - buscará solução jurídica proporcional, equânime, eficiente e compatível com os interesses gerais; (Incluído pela Lei n° 13.655, de 2018) ^6c62148
 
-		* II - (VETADO); (Incluído pela Lei n° 13.655, de 2018) ^0e69879
-
-		* III - não poderá conferir desoneração permanente de dever ou condicionamento de direito reconhecidos por orientação geral; (Incluído pela Lei n° 13.655, de 2018) ^ae04695
+		* III - <span style="color:#fb4934">**não poderá conferir desoneração permanente de dever ou condicionamento de direito reconhecidos por orientação geral;**</span> (Incluído pela Lei n° 13.655, de 2018) ^ae04695
 
 		* IV - deverá prever com clareza as obrigações das partes, o prazo para seu cumprimento e as sanções aplicáveis em caso de descumprimento. (Incluído pela Lei n° 13.655, de 2018) ^29fd5ee
 
-	* § 2° (VETADO). (Incluído pela Lei n° 13.655, de 2018) ^33b7175
-
-* Art. 27. A decisão do processo, nas esferas administrativa, controladora ou judicial, poderá impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^f316d70
+* Art. 27. <span style="color: #d79921">A decisão do processo, nas esferas administrativa, controladora ou judicial, poderá impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos</span>. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^f316d70
 
 	* § 1° A decisão sobre a compensação será motivada, ouvidas previamente as partes sobre seu cabimento, sua forma e, se for o caso, seu valor. (Incluído pela Lei n° 13.655, de 2018) ^321c719
 
 	* § 2° Para prevenir ou regular a compensação, poderá ser celebrado compromisso processual entre os envolvidos. (Incluído pela Lei n° 13.655, de 2018) ^c4fc2cc
 
-* Art. 28. O agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^a3a0ad1
-
-	* § 1° (VETADO). (Incluído pela Lei n° 13.655, de 2018) ^657d37f
-
-	* § 2° (VETADO). (Incluído pela Lei n° 13.655, de 2018) ^f868764
-
-	* § 3° (VETADO). (Incluído pela Lei n° 13.655, de 2018) ^d7afaca
+* Art. 28. <span style="color: #d79921">**O agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro.**</span> (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^a3a0ad1
 
 * Art. 29. Em qualquer órgão ou Poder, a edição de atos normativos por autoridade administrativa, salvo os de mera organização interna, poderá ser precedida de consulta pública para manifestação de interessados, preferencialmente por meio eletrônico, a qual será considerada na decisão. (Incluído pela Lei n° 13.655, de 2018) (Vigência) (Regulamento) ^459c68c
 
 	* § 1° A convocação conterá a minuta do ato normativo e fixará o prazo e demais condições da consulta pública, observadas as normas legais e regulamentares específicas, se houver. (Incluído pela Lei n° 13.655, de 2018) (Vigência) ^300ffb3
 
-	* § 2° (VETADO). (Incluído pela Lei n° 13.655, de 2018) (Vigência) ^e07488a
-
 * Art. 30. As autoridades públicas devem atuar para aumentar a segurança jurídica na aplicação das normas, inclusive por meio de regulamentos, súmulas administrativas e respostas a consultas. (Incluído pela Lei n° 13.655, de 2018) (Regulamento) ^0b01b35
 
 	* Parágrafo único. Os instrumentos previstos no caput deste artigo terão caráter vinculante em relação ao órgão ou entidade a que se destinam, até ulterior revisão. (Incluído pela Lei n° 13.655, de 2018) ^cecd7f1
-
-	* Rio de Janeiro, 4 de setembro de 1942, 121° da Independência e 54° da República.
-
-
-
-
-
