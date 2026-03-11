@@ -1,9 +1,9 @@
 # 14-16
 ## Sentinelas
 
-- PA 
+- PA 251
 
-- CAN 
+- CAN 240
 
 - PL 
 
