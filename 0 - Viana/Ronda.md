@@ -1,21 +1,21 @@
 # 14-16
 ## Sentinelas
 
-- PA 312
+- PA 
 
-- CAN 273
+- CAN 
 
-- PL 229
+- PL 
 
-- 1ª/2ª 507
+- 1ª/2ª 
 
-- LF 340
+- LF 
 
-- SSA 474
+- SSA 
 
-- CIA COM 313
+- CIA COM 262
 
-- SPOL 408
+- SPOL 
 
 ## Lacre 
 - posto 
