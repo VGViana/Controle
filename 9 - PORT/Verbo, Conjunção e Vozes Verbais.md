@@ -146,18 +146,18 @@ Acerca das _**<span style="color:#b8bb26">Conjunções</span>**_ _**<span style=
 
 ## 1. **<span style="color:#83a598">_Integrantes</span>:_**
 
-Introduzem a **Oração Subordinada Substantiva (ISSO -** leia da direita para a esquerda e nunca mais se esqueça!**).** Geralmente, são encabeçadas pelas integrantes **"que/se"**. Se pudermos substituir esses termos pela palavra **"ISSO"**, estaremos diante de uma conjunção integrante.
+Introduzem a **<u>Oração Subordinada Substantiva</u> (ISSO -** leia da direita para a esquerda e nunca mais se esqueça!**).** Geralmente, são encabeçadas pelas integrantes **"que/se"**. Se pudermos substituir esses termos pela palavra **"ISSO"**, estaremos diante de uma conjunção integrante.
 
 1. - _Ex.: Não sei **se** devo insistir em tanto estudo. (Não sei **ISSO**)._
-    - _Ex.: Percebe-se **que** os alunos Guruja são os melhores (Percebe-se **ISSO**)._
-2. _**Adverbiais:**_
+    - _Ex.: Percebe-se **<span style="color:#b8bb26">que</span>** os alunos Guruja são os melhores (Percebe-se **ISSO**)._
+## 2. _**<span style="color:#fe8019">Adverbiais:</span>**_
 
-**_Condicionais_:** exprimem **condição, hipótese** - se; caso; **contanto que**; **exceto se**; desde que (quando seguido de verbo no subjuntivo); **a menos que**; sem que;
+**_Condicionais_:** exprimem **condição, hipótese** - se; caso; **contanto que**; **exceto se**; desde que (<u>quando seguido de verbo no subjuntivo</u>); **a menos que**; sem que;
 
-- _Ex.: Sua vida mudará **contanto que** você mude._ 
-- _Ex.: **Desde que** você estude, logrará êxito._ 
+- _Ex.: Sua vida mudará **<span style="color:#b8bb26">contanto que</span>** você mude._ 
+- _Ex.: **<span style="color:#b8bb26">Desde que</span>** você estude, logrará êxito._ 
 
-Fique atento à **mudança verbal** quando pedir a **troca do "se" pelo "caso"**. 
+Fique atento à **mudança verbal** quando pedir a **<span style="color:#fe8019">troca do "se" pelo "caso</span>"**. 
 
 **_Conformativas_** [indicam **conformidade, maneira**] -conforme; **consoante**; segundo; como;
 
