@@ -185,19 +185,19 @@ Não nos custa lembrar que não devemos confundir as expressões "**<span style=
 
 - _Ex.: Nenhum aluno estudou **tanto** ao longo dessa jornada **como** nós da Guruja._  
 
-Não se esqueça da variação da expressão "**tal qual**". Esse termo quando varia deve concordar com seus referentes, ou seja, o **"tal"** (pronome demonstrativo) e o **"qual"** (pronome relativo). _Ex.: Os alunos estudam **tais** qual o professor / O aluno estuda tal **quais** os professores / Os alunos estudam **tais quais** os professores._ 
+Não se esqueça da variação da expressão "**tal qual**". Esse termo quando varia deve concordar com seus referentes, ou seja, o **"<span style="color:#b8bb26">tal</span>"** (pronome demonstrativo) e o **"<span style="color:#b8bb26">qual</span>"** (pronome relativo). _Ex.: <span style="color:#fe8019"><u>Os alunos</u></span> estudam **<span style="color:#fe8019">tais</span>** qual o professor / O aluno estuda tal **<span style="color:#fe8019">quais</span>** <span style="color:#fe8019"><u>os professores</u></span> / <span style="color:#fe8019">Os alunos</span> estudam **<span style="color:#fe8019">tais quais</span>** <span style="color:#fe8019">os professores</span>._ 
 
 **_Causais_** [dão ideia de **causa, motivo de algum efeito**] Tenhamos **mais atenção aos vocábulos em negrito**, pois são menos usuais - porque; **porquanto**; como (**somente no início da oração = visto que**); **pois que**; **dado que**; **visto como**; já que; na medida em que;
 
 O mais importante no estudo dessas conjunções é saber seu sentido e suas eventuais substituições. Devemos tomar cuidado para não confundir uma classificação com outra, vejamos:
 
-Não se deve confundir o "**como**" **causal com o aditivo, comparativo e conformativo**. 
+Não se deve confundir o "**<span style="color:#b8bb26">como</span>**" **causal com o aditivo, comparativo e conformativo**. 
 
-- _Ex.: **Como** estudou bastante, passou de primeira._
+- _Ex.: **<span style="color:#b8bb26">Como</span>** estudou bastante, passou de primeira._
 
-(**Fique ligado!** Sempre que puder usar "O FATO DE, FAZ COM QUE", estará diante de uma **causa (UM FATO)** e uma **consequência (FAZ COM QUE)**. 
+(**Fique ligado!** Sempre que puder usar "<span style="color:#fe8019"><u>O FATO DE, FAZ COM QUE</u></span>", estará diante de uma **causa (UM FATO)** e uma **consequência (FAZ COM QUE)**. 
 
-- Veja o mesmo exemplo: **O FATO DE** ter estudado bastante, **FEZ COM QUE** passasse de primeira.
+- Veja o mesmo exemplo: **<span style="color:#b8bb26">O FATO DE</span>** ter estudado bastante, **<span style="color:#b8bb26">FEZ COM QUE</span>** passasse de primeira.
 
 Outra dica: não confunda **NA MEDIDA EM QUE** (causa) com **À MEDIDA QUE** (proporção).
 
