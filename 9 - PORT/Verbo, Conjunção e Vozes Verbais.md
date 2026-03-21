@@ -36,16 +36,17 @@ _**Tempos do Verbo:**_
 _**Formas nominais dos Verbos:**_
 
 - _**<span style="color:#83a598">Infinitivo</span>**__: são identificados pela **<span style="color:#fe8019">desinência "r"</span>** -_ _**pode assumir o valor de substantivo**__. Ex.: "**<span style="color:#fe8019">O andar</span>** do bêbado era cômico"._
-- _**<span style="color:#83a598">Gerúndio</span>**__: são identificados pela **desinência "-ndo"** -_ _**pode assumir o valor de advérbio ou adjetivo**__._
-    - _Ex.: "Pensando bem, vou ficar em casa"_ - _**equivale a "ao pensar melhor"**__._
-    - _Ex.: "Jogue a água fervendo fora" -_ _**equivale a "água fervente"**_.
-- _**Particípio**__: são identificados pela **desinência "-do"** -_ _**pode assumir o valor de adjetivo**__. Ex.: "Coração partido"._
+- _**<span style="color:#83a598">Gerúndio</span>**__: são identificados pela **<span style="color:#fe8019">desinência "-ndo</span>"** -_ _**pode assumir o valor de advérbio ou adjetivo**__._
+    - _Ex.: "Pensando bem, vou ficar em casa"_ - _**equivale a "<span style="color:#83a598">ao pensar melhor</span>"**__._
+    - _Ex.: "Jogue a água fervendo fora" -_ _**equivale a "<span style="color:#83a598">água fervente</span>"**_.
+- _**<span style="color:#83a598">Particípio</span>**__: são identificados pela **<span style="color:#fe8019">desinência "-do"</span>** -_ _**pode assumir o valor de adjetivo**__. Ex.: "Coração partido"._
 
-_**Locuções Verbais** - combinação de **dois verbos** em que o **primeiro [verbo auxiliar]** é empregado sob diversas formas **junto ao infinitivo, gerúndio ou particípio**_ _**[verbo principal]**__._ 
-
-|   |   |
-|---|---|
-|- _Servem para_ _**alterar o sentido do verbo principal**__:_<br>    - _"__**Começar a escrever**__" - sentido de início da ação._<br>    - "_**Continuar andando**__" - a ação já estava em andamento._<br>    - _"__**Parar de chorar**__" - fim da ação._<br>    - "_**Tentar alcançar**__" - demonstrar o esforço_<br>    - "_**Querer cantar**__" - expressa um desejo._|_**🚩 A****tenção!** **Apenas o verbo auxiliar recebe flexões de pessoa e número**__._<br><br>- _Ex.:_ _**Ela tinha**_ _partido /_ _**Elas tinham**_ _partido._|
+_**<span style="color:#83a598">Locuções Verbais</span>** - combinação de **dois verbos** em que o **<span style="color:#fe8019">primeiro [verbo auxiliar]</span>** é empregado sob diversas formas **junto ao infinitivo, gerúndio ou particípio**_ _**<span style="color:#fe8019">[verbo principal]</span>**__._ 
+				
+|                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - _Servem para_ _**alterar o sentido do verbo principal**__:_<br>    - _"__**Começar a escrever**__" - sentido de início da ação._<br>    - "_**Continuar andando**__" - a ação já estava em andamento._<br>    - _"__**Parar de chorar**__" - fim da ação._<br>    - "_**Tentar alcançar**__" - demonstrar o esforço_<br>    - "_**Querer cantar**__" - expressa um desejo._ | _**🚩 Atenção!** **Apenas o verbo auxiliar recebe flexões de pessoa e número**__._<br><br>- _Ex.:_ _**Ela tinha**_ _partido /_ _**Elas tinham**_ _partido._ |
+|                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                             |
 
 _**Principais Locuções Verbais**:_
 
