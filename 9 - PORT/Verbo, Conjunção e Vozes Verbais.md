@@ -21,10 +21,10 @@ _**Tempos do Verbo:**_
 - _**Modo Indicativo**__:_
     - _**Presente**_ _- Ex.: - "Eu vendo"_
     - _**Pretérito Perfeito**_ _- Fato aconteceu e terminou pontualmente - Ex.: "Eu vendi"_
-    - _**Pretérito Imperfeito**_ - _Fato que se estende no tempo - Ex.: "Eu vend<span style="color:#d3869b">ia</span>**
-    - _**Pretérito Mais-que-perfeito**_ - _Fato passado anterior a outros também passados - Ex.: "Eu vende__**ra**__"_
-    - _**Futuro do presente**_ _- representa o tempo futuro - Ex.: Eu vende__**rei**__"_
-    - _**Futuro do pretérito**_ _- representa o futuro condicionado a outro evento - "Ex.: Eu vende__**ria**__"_
+    - _**Pretérito Imperfeito**_ - _Fato que se estende no tempo - Ex.: "Eu vend<span style="color:#d3869b">ia</span>
+    - _**Pretérito Mais-que-perfeito**_ - _Fato passado anterior a outros também passados - Ex.: "Eu vende<span style="color:#d3869b">ra</span>"_
+    - _**Futuro do presente**_ _- representa o tempo futuro - Ex.: Eu vende<span style="color:#d3869b">rei</span>
+    - _**Futuro do pretérito**_ _- representa o futuro condicionado a outro evento - "Ex.: Eu vende<span style="color:#d3869b">ria</span>
 - _**Modo Subjuntivo**__:_
     - _**Presente**_ _- Ex.: - "[Que] eu venda"_
     - _**Pretérito Perfeito**_ _- Ex.: "[Se] eu vend__**esse**__"_
