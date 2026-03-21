@@ -12,9 +12,9 @@
 
 _**Modos do verbo:**_
 
-- _**Indicativo**__: representa_ _**fatos e ações certos e determinados**__. Ex.: Eu_ _**<span style="color:#83a598"><u>ando</u></span>**_ _rápido._
-- _**Subjuntivo**__: representa_ _**situações incertas**_ _ou cuja existência_ _**não é possível determinar**__. Ex.: Se eu **<span style="color:#83a598"><u>andasse</u></span>** **<span style="color:#d3869b">mais rápido</span>**, chegaria mais cedo._
-- _**Imperativo**__: exprime ordem ou comandos. Ex.:_ _**<span style="color:#83a598">Anda logo</span>**__!_
+- _**Indicativo**: representa_ _**fatos e ações certos e determinados**__. Ex.: Eu_ _**<span style="color:#83a598"><u>ando</u></span>**_ _rápido._
+- _**Subjuntivo**: representa_ _**situações incertas**_ _ou cuja existência_ _**não é possível determinar**__. Ex.: Se eu **<span style="color:#83a598"><u>andasse</u></span>** **<span style="color:#d3869b">mais rápido</span>**, chegaria mais cedo._
+- **Imperativo**: exprime ordem ou comandos. Ex.:**<span style="color:#83a598">Anda logo</span>**!
 
 _**Tempos do Verbo:**_
 
