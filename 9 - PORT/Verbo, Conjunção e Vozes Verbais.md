@@ -90,31 +90,25 @@ Importa mencionar que os verbos _**<span style="color:#b8bb26">lembrar-se</span>
 - _Ex.: Lembrou-se **de** que já era tarde. ➡️ Ex.: Lembrou que já era tarde._
 - _Ex.: Esqueceu-se completamente **dos** afazeres. ➡️ Ex.: Esqueceu completamente os afazeres._
 
-_**2 - Conjunções**_ 
+# _**2 - Conjunções**_ 
 
 O que precisamos saber para acertarmos as questões que tratam das conjunções? Via de regra, é preciso dominar os principais conectivos e saber o valor semântico que eles possuem. A maneira mais simples, não que seja fácil, é decorar. É isso mesmo! Decorar os conetivos. Para facilitar, seguem algumas observações:
 
-🔶 1º passo: saber a diferença entre **coordenação e subordinação**.  
+🔶 1º passo: saber a diferença entre **<span style="color:#d3869b">coordenação e subordinação</span>**.  
 
-|   |   |
-|---|---|
-|_**Coordenação**_|_**Subordinação**_|
-|- Os termos que se relacionam por **coordenação** têm **sentidos independentes e completos**, ou seja, podem existir um sem o outro:<br><br>_Ex.: Eu canto e você toca._<br><br>O termo “_**eu canto**_” pode muito bem ter sentido completo sem o “_**você toca**_” e vice-versa.|- Na subordinação, por seu turno, os termos precisam um do outro para se complementarem.<br><br>_Ex.: Enquanto eu canto, você toca_. <br><br>Aqui ficará incompleta a expressão “_**enquanto eu canto**_” sem que haja um complemento para ela. Nesse sentido, é pertinente a pergunta: “o que acontece?”. O termo “_**você toca**_” responde tal pergunta, completando o sentido da oração e, portanto, sendo subordinado a ela.|
+| _**Coordenação**_                                                                                                                                                                                                                                                                  | _**Subordinação**_                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Os termos que se relacionam por **coordenação** têm **sentidos independentes e completos**, ou seja, podem existir um sem o outro:<br><br>_Ex.: Eu canto e você toca._<br><br>O termo “_**eu canto**_” pode muito bem ter sentido completo sem o “_**você toca**_” e vice-versa. | - Na subordinação, por seu turno, os termos precisam um do outro para se complementarem.<br><br>_Ex.: Enquanto eu canto, você toca_. <br><br>Aqui ficará incompleta a expressão “_**enquanto eu canto**_” sem que haja um complemento para ela. Nesse sentido, é pertinente a pergunta: “o que acontece?”. O termo “_**você toca**_” responde tal pergunta, completando o sentido da oração e, portanto, sendo subordinado a ela. |
 
 🔶 2º passo: saber a qual classe pertence cada conectivo, se coordenado ou subordinado. Nesse sentido, veja:
 
 - _**C**_**onjunções coordenativas:**
-    
-    |   |
-    |---|
-    |**_Aditivas, Adversativas, Alternativas, Conclusivas e Explicativas_**|
+    **_Aditivas, Adversativas, Alternativas, Conclusivas e Explicativas_**
     
      
 - _**C**_**onjunções subordinativas:**
     
-    |   |
-    |---|
-    |**_Causais, Comparativas, Concessivas, Condicionais, Conformativas, Consecutivas, Finais, Proporcionais e Temporais_**|
+    **_Causais, Comparativas, Concessivas, Condicionais, Conformativas, Consecutivas, Finais, Proporcionais e Temporais_**|
     
 
 Algumas gramáticas citam também a _**conjunção subordinativa modal**_, ou seja, expressa ideia de modo, maneira. 
