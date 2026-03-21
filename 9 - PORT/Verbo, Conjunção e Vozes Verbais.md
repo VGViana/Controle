@@ -12,16 +12,16 @@
 
 _**Modos do verbo:**_
 
-- _**Indicativo**__: representa_ _**fatos e ações certos e determinados**__. Ex.: Eu_ _**ando**_ _rápido._
-- _**Subjuntivo**__: representa_ _**situações incertas**_ _ou cuja existência_ _**não é possível determinar**__. Ex.: Se eu **andasse** **mais rápido**, chegaria mais cedo._
-- _**Imperativo**__: exprime ordem ou comandos. Ex.:_ _**Anda logo**__!_
+- _**Indicativo**__: representa_ _**fatos e ações certos e determinados**__. Ex.: Eu_ _**<span style="color:#83a598"><u>ando</u></span>**_ _rápido._
+- _**Subjuntivo**__: representa_ _**situações incertas**_ _ou cuja existência_ _**não é possível determinar**__. Ex.: Se eu **<span style="color:#83a598"><u>andasse</u></span>** **<span style="color:#d3869b">mais rápido</span>**, chegaria mais cedo._
+- _**Imperativo**__: exprime ordem ou comandos. Ex.:_ _**<span style="color:#83a598">Anda logo</span>**__!_
 
 _**Tempos do Verbo:**_
 
 - _**Modo Indicativo**__:_
     - _**Presente**_ _- Ex.: - "Eu vendo"_
     - _**Pretérito Perfeito**_ _- Fato aconteceu e terminou pontualmente - Ex.: "Eu vendi"_
-    - _**Pretérito Imperfeito**_ - _Fato que se estende no tempo - Ex.: "Eu vend__**ia**__"_
+    - _**Pretérito Imperfeito**_ - _Fato que se estende no tempo - Ex.: "Eu vend<span style="color:#d3869b">ia</span>**
     - _**Pretérito Mais-que-perfeito**_ - _Fato passado anterior a outros também passados - Ex.: "Eu vende__**ra**__"_
     - _**Futuro do presente**_ _- representa o tempo futuro - Ex.: Eu vende__**rei**__"_
     - _**Futuro do pretérito**_ _- representa o futuro condicionado a outro evento - "Ex.: Eu vende__**ria**__"_
