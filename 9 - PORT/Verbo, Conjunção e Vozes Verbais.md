@@ -27,16 +27,16 @@ _**Tempos do Verbo:**_
     - _**Futuro do pretérito**_ _- representa o futuro condicionado a outro evento - "Ex.: Eu vende<span style="color:#d3869b">ria</span>
 - _**Modo Subjuntivo**__:_
     - _**Presente**_ _- Ex.: - "[Que] eu venda"_
-    - _**Pretérito Perfeito**_ _- Ex.: "[Se] eu vend__**esse**__"_
+    - _**Pretérito Perfeito**_ _- Ex.: "[Se] eu vend<span style="color:#d3869b">esse</span>
     - _**Futuro**_ _- Ex.: "[Quando] eu vender"_
 - _**Modo Imperativo**__:_
-    - _**Imperativo** **afirmativo** - "Vende tu"_
-    - _**Imperativo** **negativo** - "Não vendas tu"._
+    - _**Imperativo** **<span style="color:#83a598">afirmativo</span>** - "Vende tu"_
+    - _**Imperativo** **<span style="color:#fb4934">negativo</span>** - "Não vendas tu"._
 
 _**Formas nominais dos Verbos:**_
 
-- _**Infinitivo**__: são identificados pela **desinência "r"** -_ _**pode assumir o valor de substantivo**__. Ex.: "**O andar** do bêbado era cômico"._
-- _**Gerúndio**__: são identificados pela **desinência "-ndo"** -_ _**pode assumir o valor de advérbio ou adjetivo**__._
+- _**<span style="color:#83a598">Infinitivo</span>**__: são identificados pela **<span style="color:#fe8019">desinência "r"</span>** -_ _**pode assumir o valor de substantivo**__. Ex.: "**<span style="color:#fe8019">O andar</span>** do bêbado era cômico"._
+- _**<span style="color:#83a598">Gerúndio</span>**__: são identificados pela **desinência "-ndo"** -_ _**pode assumir o valor de advérbio ou adjetivo**__._
     - _Ex.: "Pensando bem, vou ficar em casa"_ - _**equivale a "ao pensar melhor"**__._
     - _Ex.: "Jogue a água fervendo fora" -_ _**equivale a "água fervente"**_.
 - _**Particípio**__: são identificados pela **desinência "-do"** -_ _**pode assumir o valor de adjetivo**__. Ex.: "Coração partido"._
