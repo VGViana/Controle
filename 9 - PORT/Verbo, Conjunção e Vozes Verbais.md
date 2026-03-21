@@ -161,25 +161,25 @@ Fique atento à **mudança verbal** quando pedir a **<span style="color:#fe8019"
 
 **_Conformativas_** [indicam **conformidade, maneira**] -conforme; **consoante**; segundo; como;
 
-- _Ex.: **Conforme** sabemos, devemos nos ater aos estudos._ 
+- _Ex.: **<span style="color:#b8bb26">Conforme</span>** sabemos, devemos nos ater aos estudos._ 
 
-O destaque aqui é para **não confundirmos** o "**como**" **comparativo** com o "**como**" **conformidade**. No comparativo, devemos observar que deve haver ao menos dois seres para comparação, o que não se verifica nas conjunções conformativas. Ex.: **como** te falei, esses exercícios são muito bons (conformidade). / Esses exercícios são bons **como** aqueles (comparação). 
+O destaque aqui é para **não confundirmos** o "**<span style="color:#b8bb26">como</span>**" **comparativo** com o "**<span style="color:#b8bb26">como</span>**" **conformidade**. No comparativo, devemos observar que deve haver ao menos dois seres para comparação, o que não se verifica nas conjunções conformativas. Ex.: **<span style="color:#b8bb26">como</span>** te falei, esses exercícios são muito bons (conformidade). / Esses exercícios são bons **<span style="color:#b8bb26">como</span>** aqueles (comparação). 
 
 **_Finais_** [indicam **finalidade, objetivo**] - para que; a fim de que;
 
-- _Ex.: Estamos estudando **a fim de que** a vida possa melhorar._
+- _Ex.: Estamos estudando **<span style="color:#b8bb26">a fim de que</span>** a vida possa melhorar._
 
 O cuidado que devemos ter aqui é para não confundirmos o "afim" (**afinidade** - Ex.: Matemática e Física são matérias afins) com o "a fim" (**finalidade** - Ex.: Estudou a fim de passar na prova). 
 
 **_Proporcionais_** [sinalizam **proporção, simultaneidade**] - à proporção que; ao passo que; à medida que; 
 
-- _Ex.: **Ao passo que** ia estudando, mais capacitado se sentia._ 
+- _Ex.: **<span style="color:#b8bb26">Ao passo que</span>** ia estudando, mais capacitado se sentia._ 
 
-Não nos custa lembrar que não devemos confundir as expressões "**à medida que**" (proporção) com "**na medida em que**" (causa).
+Não nos custa lembrar que não devemos confundir as expressões "**<span style="color:#b8bb26">à medida que</span>**" (proporção) com "**<span style="color:#b8bb26">na medida em que</span>**" (causa).
 
 **_Temporais_** [exprimem **tempo**] - quando; enquanto; sempre que; logo que; assim que;
 
-- _Ex.: **Logo que** soubemos do edital, fomos montar nosso plano de estudos._
+- _Ex.: **<span style="color:#b8bb26">Logo que</span>** soubemos do edital, fomos montar nosso plano de estudos._
 
 **_Comparativas_** [sinalizam ideia de **comparação**] - tal qual; tão como/quanto; tanto..., como; assim como;
 
