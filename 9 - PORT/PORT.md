@@ -7,3 +7,5 @@
 [[Interpretação textual]]
 
 [[Coesão, Coerência, reescrita]]
+
+[[Verbo, Conjunção e Vozes Verbais]]
