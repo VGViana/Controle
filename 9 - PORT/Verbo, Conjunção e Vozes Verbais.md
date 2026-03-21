@@ -65,19 +65,17 @@ _**Principais Locuções Verbais**:_
 |Infinitivo composto|Ter amado ou haver amado|
 |Gerúndio composto|Tendo amado ou havendo amado|
 
-**_Fonte: Manual Completo de Português para Concursos_**
-
 _**Verbos impessoais**_
 
-São verbos que _**não possuem sujeito**_. Costumam estar na 3ª pessoa do singular.
+São verbos que _**<span style="color:#d3869b">não possuem sujeito</span>**_. Costumam estar na 3ª pessoa do singular.
 
-- Verbos que indicam _**fenômenos** **da** **natureza**_. _Ex.:_ **_Choveu_** _a noite toda._
-- Verbo _**haver**_ - sentido de _**existir, ocorrer ou tempo transcorrido**_: 
-- Verbo _**fazer**_ - sentido de tempo decorrido. _Ex.:_ **_Faz_** _duas horas que a espero._
+- Verbos que indicam _**<u>fenômenos</u>** **da** **<u>natureza</u>**_. _Ex.:_ **_Choveu_** _a noite toda._
+- Verbo _**<u>haver</u>**_ - sentido de _**existir, ocorrer ou tempo transcorrido**_: 
+- Verbo _**<u>fazer</u>**_ - sentido de tempo decorrido. _Ex.:_ **_Faz_** _duas horas que a espero._
 
 **_Verbos de ligação_**
 
-São chamados de **copulativos ou relacionais**, ou seja, são verbos que **indicam estado**, _**ligam o sujeito ao predicativo**_ (predicativo é o termo que demonstra um estado do sujeito). _Ex.: Ela **ficou**_ _entusiasmada hoje. (entusiasmada é o predicativo do sujeito)_. 
+São chamados de **copulativos ou relacionais**, ou seja, são verbos que **indicam estado**, _**<span style="color:#83a598">ligam o sujeito ao predicativo</span>**_ (predicativo é o termo que demonstra um estado do sujeito). _Ex.: Ela **ficou**_ <u>_entusiasmada</u> hoje. (entusiasmada é o predicativo do sujeito)_. 
 
 - _**Estado: permanência, continuação, circunstância, mudança, percepção.**_ 
 
@@ -87,7 +85,7 @@ São aqueles trazem um pronome como parte que integra o próprio verbo, fazendo 
 
 - **Assemelhar-se; esforçar-se; suicidar-se**.  
 
-Importa mencionar que os verbos _**lembrar-se** e **esquecer-se**_ **exigem o uso da preposição "DE"** quando usados com o pronome "SE". Se usados sem o pronome, não há preposição. 
+Importa mencionar que os verbos _**<span style="color:#b8bb26">lembrar-se</span>** e **<span style="color:#b8bb26">esquecer-se</span>**_ **exigem o uso da preposição "DE"** quando usados com o pronome "SE". Se usados sem o pronome, não há preposição. 
 
 - _Ex.: Lembrou-se **de** que já era tarde. ➡️ Ex.: Lembrou que já era tarde._
 - _Ex.: Esqueceu-se completamente **dos** afazeres. ➡️ Ex.: Esqueceu completamente os afazeres._
