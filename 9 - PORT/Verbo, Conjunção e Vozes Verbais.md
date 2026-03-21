@@ -44,26 +44,27 @@ _**Formas nominais dos Verbos:**_
 _**<span style="color:#83a598">Locuções Verbais</span>** - combinação de **dois verbos** em que o **<span style="color:#fe8019">primeiro [verbo auxiliar]</span>** é empregado sob diversas formas **junto ao infinitivo, gerúndio ou particípio**_ _**<span style="color:#fe8019">[verbo principal]</span>**__._ 
 
 
-| - _Servem para_ _**alterar o sentido do verbo principal**__:_<br>    - _"__**Começar a escrever**__" - sentido de início da ação._<br>    - "_**Continuar andando**__" - a ação já estava em andamento._<br>    - _"__**Parar de chorar**__" - fim da ação._<br>    - "_**Tentar alcançar**__" - demonstrar o esforço_<br>    - "_**Querer cantar**__" - expressa um desejo._ | _**🚩 <span style="color:#fb4934">Atenção</span>!** **<span style="color:#d3869b">Apenas o verbo auxiliar recebe flexões de pessoa e número</span>**__._<br><br>- _Ex.:_ _**Ela tinha**_ _partido /_ _**Elas tinham**_ _partido._ |
+|                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - _Servem para_ _**alterar o sentido do verbo principal**__:_<br>    - _"__**Começar a escrever**__" - sentido de início da ação._<br>    - "_**Continuar andando**__" - a ação já estava em andamento._<br>    - _"__**Parar de chorar**__" - fim da ação._<br>    - "_**Tentar alcançar**__" - demonstrar o esforço_<br>    - "_**Querer cantar**__" - expressa um desejo._ | _**🚩 <span style="color:#fb4934">Atenção</span>!** **<span style="color:#d3869b">Apenas o verbo auxiliar recebe flexões de pessoa e número</span>**__._<br><br>- _Ex.:_ _**Ela tinha**_ _partido /_ _**Elas tinham**_ _partido._ |
 
 
 _**Principais Locuções Verbais**:_
 
-|   |   |
-|---|---|
-|_**MODO INDICATIVO**_|   |
-|Pretérito perfeito composto|Tenho amado ou hei amado|
-|Pretérito mais-que-perfeito composto|Tinha amado ou havia amado|
-|Futuro do presente composto|Terei amado ou haverei amado|
-|Futuro do pretérito composto|Teria amado ou haveria amado|
-|**_MODO SUBJUNTIVO_**|   |
-|Pretérito perfeito composto|Tenha amado ou haja amado|
-|Pretérito mais-que-perfeito composto|Tivesse amado ou houvesse amado|
-|Futuro composto|Tiver amado ou houver amado|
-|_**FORMAS NOMINAIS**_|   |
-|Infinitivo composto|Ter amado ou haver amado|
-|Gerúndio composto|Tendo amado ou havendo amado|
+|                                      |                                 |
+| :----------------------------------: | :-----------------------------: |
+|        _**MODO INDICATIVO**_         |                                 |
+|     Pretérito perfeito composto      |    Tenho amado ou hei amado     |
+| Pretérito mais-que-perfeito composto |   Tinha amado ou havia amado    |
+|     Futuro do presente composto      |  Terei amado ou haverei amado   |
+|     Futuro do pretérito composto     |  Teria amado ou haveria amado   |
+|        **_MODO SUBJUNTIVO_**         |                                 |
+|     Pretérito perfeito composto      |    Tenha amado ou haja amado    |
+| Pretérito mais-que-perfeito composto | Tivesse amado ou houvesse amado |
+|           Futuro composto            |   Tiver amado ou houver amado   |
+|        _**FORMAS NOMINAIS**_         |                                 |
+|         Infinitivo composto          |    Ter amado ou haver amado     |
+|          Gerúndio composto           |  Tendo amado ou havendo amado   |
 
 _**Verbos impessoais**_
 
