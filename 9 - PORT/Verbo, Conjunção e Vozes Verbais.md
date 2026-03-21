@@ -103,23 +103,22 @@ O que precisamos saber para acertarmos as questões que tratam das conjunções?
 🔶 2º passo: saber a qual classe pertence cada conectivo, se coordenado ou subordinado. Nesse sentido, veja:
 
 - _**C**_**onjunções coordenativas:**
-    **_Aditivas, Adversativas, Alternativas, Conclusivas e Explicativas_**
+	- **_Aditivas, Adversativas, Alternativas, Conclusivas e Explicativas_**
     
      
 - _**C**_**onjunções subordinativas:**
-    
-    **_Causais, Comparativas, Concessivas, Condicionais, Conformativas, Consecutivas, Finais, Proporcionais e Temporais_**|
+	- **_Causais, Comparativas, Concessivas, Condicionais, Conformativas, Consecutivas, Finais, Proporcionais e Temporais_**
     
 
 Algumas gramáticas citam também a _**conjunção subordinativa modal**_, ou seja, expressa ideia de modo, maneira. 
 
 - _Ex.: Caminhávamos sem que fizéssemos o menor ruído_. _[modo como caminhávamos]_ 
 
-Temos também uma importante classificação quando falamos em conjunções subordinadas. Estamos falando da _**Conjunção Subordinativa Integrante**_. Elas são responsáveis por introduzirem **orações subordinadas substantivas**. Normalmente, quem faz a conexão dessas orações são os termos "_**Que**_" e "_**Se**_". 
+Temos também uma importante classificação quando falamos em conjunções subordinadas. Estamos falando da _**<span style="color:#b8bb26">Conjunção Subordinativa Integrante</span>**_. Elas são responsáveis por introduzirem **orações subordinadas substantivas**. Normalmente, quem faz a conexão dessas orações são os termos "_**Que**_" e "_**Se**_". 
 
-|   |
-|---|
-|Exemplos:<br><br>- _Afirmo **que** sou estudante. (G. RAMOS)_<br>- _Não sabia **se** avançava pela direita ou pela esquerda. (G. RAMOS)_|
+|                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Exemplos:<br><br>- _Afirmo **que** sou estudante. (G. RAMOS)_<br>- _Não sabia **se** avançava pela direita ou pela esquerda. (G. RAMOS)_ |
 
 Indo mais além, seguem alguns exemplos para ficar mais claro o entendimento:
 
@@ -143,9 +142,9 @@ Indo mais além, seguem alguns exemplos para ficar mais claro o entendimento:
 
 - _Vamos comer, Açucena, **que** estou morrendo de fome. (ADONIAS FILHO)_
 
-Acerca das _**Conjunções**_ _**Subordinativas**_, vamos aos exemplos: 
+Acerca das _**<span style="color:#b8bb26">Conjunções</span>**_ _**<span style="color:#b8bb26">Subordinativas</span>**_, vamos aos exemplos: 
 
-1. **_Integrantes:_**
+## 1. **<span style="color:#83a598">_Integrantes</span>:_**
 
 Introduzem a **Oração Subordinada Substantiva (ISSO -** leia da direita para a esquerda e nunca mais se esqueça!**).** Geralmente, são encabeçadas pelas integrantes **"que/se"**. Se pudermos substituir esses termos pela palavra **"ISSO"**, estaremos diante de uma conjunção integrante.
 
