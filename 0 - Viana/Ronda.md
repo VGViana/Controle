@@ -1,8 +1,8 @@
 # 14-16
 ## Sentinelas
 
-- PA 
-- CAN 
+- PA 267
+- CAN 272
 - PL 297
 - BOSQUE 308
 - CX DAGUA 310
