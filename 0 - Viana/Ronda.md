@@ -1,23 +1,21 @@
 # 14-16
 ## Sentinelas
 
-- PA 251
+- PA 
+- CAN 
+- PL 
+- 1ª/2ª 
+- LF 
+- SSA 
+- CIA COM 
+- SPOL 
 
-- CAN 240
-
-- PL 219
-
-- 1ª/2ª 247
-
-- LF 296
-
-- SSA 299
-
-- CIA COM 262
-
-- SPOL 228
-
+- PBMSL
+- PBC
+- PCCOM
+- PCFGS
 ## Lacre 
+
 - posto 
 - ccom 
 - pol1 
@@ -27,28 +25,26 @@
 - BC 
 - bmsl 
 
-
+---
 # 2-4
 ## Sentinelas
 
-- PA 312
+- PA 
+- CAN 
+- PL 
+- 1ª/2ª 
+- LF 
+- SSA 
+- CIA COM 
+- SPOL 
+- rpol 
 
-- CAN 273
-
-- PL 229
-
-- 1ª/2ª 507
-
-- LF 340
-
-- SSA 474
-
-- CIA COM 313
-
-- SPOL 408
-- rpol 267
-
+- PBMSL
+- PBC
+- PCCOM
+- PCFGS
 ## Lacre 
+
 - posto 
 - ccom 
 - pol1 
@@ -56,6 +52,6 @@
 - pol4 
 - cfs 
 - BC 
--  bmsl 0000929
+-  bmsl 
 
 
