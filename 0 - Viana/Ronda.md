@@ -35,14 +35,14 @@
 - PA 
 - CAN 
 - PL 
-- 1ª/2ª 
+- 1ª/2ª 284
 - LF 
 - SSA 
 - CIA COM 
 - SPOL 
 - rpol 
 
-- PBMSL 
+- PBMSL 507
 - PBC
 - PCCOM
 - PCFGS
