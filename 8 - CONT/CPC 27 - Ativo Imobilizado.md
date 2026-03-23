@@ -7,7 +7,7 @@ Ativo Imobilizado é o **<span style="color:#83a598">item tangível</span>** que
 
 ## **1.1. Reconhecimento**
 
-O custo de um item de ativo imobilizado deve ser reconhecido como ativo **se, e apenas se**:
+O <span style="color:#fb4934"><u>**custo de um item de**</u></span> ativo imobilizado deve ser reconhecido como ativo **se, e apenas se**:
 
 - for **<span style="color:#83a598">provável</span> que futuros benefícios econômicos** associados ao <span style="color:#83a598">item fluirão para a entidade</span>; e
 - o custo do item puder ser **<span style="color:#83a598">mensurado confiavelmente</span>**.
