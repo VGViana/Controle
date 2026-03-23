@@ -10,6 +10,7 @@
 ### 1. FUNDAMENTOS E RELATÓRIO
 - [**Princípios Contábeis**](15.%20Princípios%20Contábeis.md) - A base ética e técnica da contabilidade.
 - [**CPC 00 - Estrutura Conceitual**](14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md) - O "Norte" para elaboração de relatórios.
+- [[CPC 27 - Ativo Imobilizado]]
 
 ### 2. LEGISLAÇÃO E PRÁTICA
 - [**Lei 6404/76**](./Lei%206404.md) - A Lei das Sociedades por Ações e suas diretrizes contábeis.
