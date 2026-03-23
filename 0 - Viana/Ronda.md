@@ -44,7 +44,7 @@
 - bosque 308
 - cx dagua 310
 - PBMSL 507
-- PBC
+- PBC 336 335
 - PCCOM  433 (439 vomito) 434 
 - PCFGS 2168 2173
 ## Lacre 
