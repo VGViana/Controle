@@ -38,7 +38,7 @@
 - 1ª/2ª 284
 - LF 273
 - SSA 309
-- CIA COM 
+- CIA COM 311
 - SPOL 
 - rpol 
 - bosque 308
