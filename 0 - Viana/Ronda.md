@@ -32,9 +32,9 @@
 # 2-4
 ## Sentinelas
 
-- PA 
-- CAN 
-- PL 
+- PA 267
+- CAN 272
+- PL 297
 - 1ª/2ª 284
 - LF 273
 - SSA 309
@@ -42,7 +42,7 @@
 - SPOL 
 - rpol 
 - bosque 308
-- cx dagua 
+- cx dagua 310
 - PBMSL 507
 - PBC
 - PCCOM
