@@ -1,5 +1,6 @@
 # A fazer
 
-- [ ] Consolidar Jurisprudencia Tributaria.
+- [ ] Implantar auxílio transporte dos ev's 01/abr
+- [ ] 
 
 ---
