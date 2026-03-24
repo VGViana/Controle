@@ -4,6 +4,7 @@ Ativo Imobilizado é o **<span style="color:#83a598">item tangível</span>** que
 
 - é **mantido para uso** na produção ou fornecimento de mercadorias ou serviços, **para aluguel a outros**, ou **para fins administrativos**; e
 - se **<span style="color:#83a598">espera utilizar por mais de um período</span>**.
+-  Podem ser adquiridos por <span style="color:#83a598">**razões de segurança ou ambientais.**</span>
 
 ## **1.1. Reconhecimento**
 
@@ -44,6 +45,8 @@ O custo de um item do ativo imobilizado compreende:
 	- Valor depreciável = Custo do ativo - Valor residual
 - A depreciação do ativo se <span style="color:#83a598">inicia quando este está disponível para uso</span>
 - A depreciação de um ativo deve <span style="color:#fb4934">cessar na data em que o ativo é classificado  como mantido para venda ou, ainda, na data em que o ativo é baixado</span>, o que ocorrer primeiro  
+-  Cada componente de um item do ativo imobilizado com <span style="color:#fb4934">custo significativo em relação ao custo total do item deve  ser depreciado separadamente.</span>  
+ 
 ---
 ### Mapeamento
 
