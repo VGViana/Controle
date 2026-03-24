@@ -10,21 +10,50 @@
 ### 1. FUNDAMENTOS E RELATÓRIO
 - [**Princípios Contábeis**](15.%20Princípios%20Contábeis.md) - A base ética e técnica da contabilidade.
 - [**CPC 00 - Estrutura Conceitual**](14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md) - O "Norte" para elaboração de relatórios.
-- [[CPC 27 - Ativo Imobilizado]]
-
-### 2. LEGISLAÇÃO E PRÁTICA
-- [**Lei 6404/76**](./Lei%206404.md) - A Lei das Sociedades por Ações e suas diretrizes contábeis.
+- [[18. CPC 27 - Ativo Imobilizado]]
 
 ### 3. DEMONSTRAÇÕES
 - [[DFC]]
 - [[DVA]]
 ---
 
-## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)
-
-- 💸 **Ponte para [DIREITO TRIBUTÁRIO](../5%20-%20D%20TRIB/D%20TRIB.md):** A relação entre o lucro contábil e a base de cálculo de tributos (IRPJ/CSLL).
-- 🔍 **Ponte para [AUDITORIA](../4%20-%20AUD/AUD.md):** Como a contabilidade fornece a evidência necessária para o parecer do auditor.
-- 💻 **Ponte para [TI](../6%20-%20%20TI/TI.md):** Escrituração Digital (SPED) e o cruzamento de dados contábeis.
+Tags:: #moc #contabilidade
 
 ---
-[[FISCAL|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)
+
+## CPC
+
+[[MOC CPC]]
+
+---
+
+## LEIS
+
+[[Lei 6404]]
+[[Lei 11638]]
+[[Lei 11941]]
+
+---
+
+## TEMAS
+
+[[MOC Ativo]]
+[[MOC Passivo]]
+[[MOC Receita]]
+[[MOC Imobilizado]]
+[[MOC Estoques]]
+[[MOC Demonstrações]]
+[[MOC Impairment]]
+[[MOC Provisões]]
+[[MOC Arrendamento]]
+
+---
+
+## BANCAS
+
+[[FGV]]
+[[CEBRASPE]]
+[[FCC]]
+[[VUNESP]]
+
+---
