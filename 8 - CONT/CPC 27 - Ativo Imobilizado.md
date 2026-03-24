@@ -12,6 +12,7 @@ O custo de um item de ativo imobilizado deve ser reconhecido como ativo **se, e 
 - for **<span style="color:#83a598">provável</span> que futuros benefícios econômicos** associados ao <span style="color:#83a598">item fluirão para a entidade</span>; e
 - o custo do item puder ser **<span style="color:#83a598">mensurado confiavelmente</span>**.
 
+ O <span style="color:#fb4934">**custo**</span> de um item de ativo imobilizado é equivalente ao <span style="color:#fb4934">**preço à vista na data do  reconhecimento.**</span> 
 ## **1.2. Mensuração**
 
 O custo de um item do ativo imobilizado compreende:
@@ -19,6 +20,7 @@ O custo de um item do ativo imobilizado compreende:
 - seu **<span style="color:#83a598">preço de aquisição</span>,** **acrescido de impostos de importação e impostos não recuperáveis sobre a compra**, **<span style="color:#fb4934">depois de deduzidos os descontos comerciais e abatimentos</span>**;
 -  **<span style="color:#83a598">quaisquer custos diretamente atribuíveis</span>** para colocar o <u>ativo no local e condição necessárias para o mesmo ser capaz de funcionar</u> da forma pretendida pela administração;
 - a estimativa inicial dos custos de **desmontagem e remoção do item e de restauração do local** (sítio) no qual este está localizado. Tais custos representam a obrigação em que a entidade incorre quando o item é adquirido ou como consequência de usá-lo durante determinado período para finalidades diferentes da produção de estoque durante esse período.
+-  O *aumento de valor de um terreno no qual um edifício esteja construído* <span style="color:#fb4934">**<u>não afeta o valor contábil do edifício.</u>**</span>   
 
 | <center>**Custo do Ativo Imobilizado**</center>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,13 +37,14 @@ O custo de um item do ativo imobilizado compreende:
     - Reposição de peças e inspeções regulares em busca de falhas, independentemente das peças serem substituídas.
     - Reconhecimento → **<span style="color:#83a598">Valor Contábil</span>** (Mensuração do Imobilizado)
 
----
-### Mapeamento
+## 1.3 Depreciação 
 
-- O <span style="color:#fb4934">**custo**</span> de um item de ativo imobilizado é equivalente ao <span style="color:#fb4934">**preço à vista na data do  reconhecimento.**</span> 
 - Uma entidade será levada a <span style="color:#b8bb26">**cessar a depreciação**</span> de um item do ativo imobilizado que ainda <span style="color:#b8bb26">não  tenha sido baixado e que não esteja totalmente depreciado</span> quando o <span style="color:#b8bb26">**<u>ativo for classificado como mantido  para a venda</u>**</span>.  
 - <span style="color:#83a598">Valor residual</span> de um ativo é o <span style="color:#83a598">valor estimado que a entidade obteria com a venda do ativo, após  deduzir as despesas estimadas de venda</span>, caso o ativo já tivesse a idade e a condição esperadas para  o fim de sua vida útil.  
 	- Valor depreciável = Custo do ativo - Valor residual
-- A depreciação de um ativo deve cessar na data em que o ativo é classificado  como mantido para venda ou, ainda, na data em que o ativo é baixado, o que ocorrer primeiro  
-- O *aumento de valor de um terreno no qual um edifício esteja construído* <span style="color:#fb4934">**<u>não afeta o valor contábil do edifício.</u>**</span>   
-- 
+- A depreciação do ativo se <span style="color:#83a598">inicia quando este está disponível para uso</span>
+- A depreciação de um ativo deve <span style="color:#fb4934">cessar na data em que o ativo é classificado  como mantido para venda ou, ainda, na data em que o ativo é baixado</span>, o que ocorrer primeiro  
+---
+### Mapeamento
+
+-  
