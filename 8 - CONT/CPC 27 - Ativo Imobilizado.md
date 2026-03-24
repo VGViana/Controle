@@ -46,8 +46,3 @@ O custo de um item do ativo imobilizado compreende:
 - A depreciação do ativo se <span style="color:#83a598">inicia quando este está disponível para uso</span>
 - A depreciação de um ativo deve <span style="color:#fb4934">cessar na data em que o ativo é classificado  como mantido para venda ou, ainda, na data em que o ativo é baixado</span>, o que ocorrer primeiro  
 -  Cada componente de um item do ativo imobilizado com <span style="color:#fb4934">custo significativo em relação ao custo total do item deve  ser depreciado separadamente.</span>  
- 
----
-### Mapeamento
-
--  
