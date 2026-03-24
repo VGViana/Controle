@@ -27,7 +27,7 @@ O custo de um item do ativo imobilizado compreende:
 | <center>**<span style="color:#fb4934">Não são Custos do Ativo Imobilizado</span>**</center>                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Custos de **Abertura de Nova Instalação**<br>- Custos incorridos na **Introdução de Novo Produto ou Serviço**<br>    - Incluindo **Propaganda** e Atividades Promocionais<br>- Custos da **Transferência das Atividades** para novo local ou para nova categoria de clientes<br>    - Incluindo Custos de **Treinamento**<br>- **Custos Administrativos** e outros Custos Indiretos. |
-
+- Sempre devemos utilizar a <span style="color:#b8bb26">**<u>vida útil esperada pelo usuário.</u>**</span>  
 - **Manutenção Periódica ("Reparo e Manutenção")**
     - Limitado a um exercício, a fim de **manter** o imobilizado em condições operacionais
     - Reconhecimento → **<span style="color:#fb4934">Despesa do Exercício</span>.**
@@ -42,4 +42,4 @@ O custo de um item do ativo imobilizado compreende:
 - Uma entidade será levada a <span style="color:#b8bb26">**cessar a depreciação**</span> de um item do ativo imobilizado que ainda <span style="color:#b8bb26">não  tenha sido baixado e que não esteja totalmente depreciado</span> quando o <span style="color:#b8bb26">**<u>ativo for classificado como mantido  para a venda</u>**</span>.  
 - <span style="color:#83a598">Valor residual</span> de um ativo é o <span style="color:#83a598">valor estimado que a entidade obteria com a venda do ativo, após  deduzir as despesas estimadas de venda</span>, caso o ativo já tivesse a idade e a condição esperadas para  o fim de sua vida útil.  
 	- Valor depreciável = Custo do ativo - Valor residual
-- 
+-  
