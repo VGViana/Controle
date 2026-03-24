@@ -34,3 +34,9 @@ O custo de um item do ativo imobilizado compreende:
 - **Paradas Programadas**
     - Reposição de peças e inspeções regulares em busca de falhas, independentemente das peças serem substituídas.
     - Reconhecimento → **<span style="color:#83a598">Valor Contábil</span>** (Mensuração do Imobilizado)
+
+---
+### Mapeamento
+
+- O <span style="color:#fb4934">**custo**</span> de um item de ativo imobilizado é equivalente ao <span style="color:#fb4934">**preço à vista na data do  reconhecimento.**</span> 
+- Uma entidade será levada a <span style="color:#b8bb26">**cessar a depreciação**</span> de um item do ativo imobilizado que ainda <span style="color:#b8bb26">não  tenha sido baixado e que não esteja totalmente depreciado</span> quando o <span style="color:#b8bb26">**<u>ativo for classificado como mantido  para a venda</u>**</span>.  
