@@ -42,4 +42,6 @@ O custo de um item do ativo imobilizado compreende:
 - Uma entidade será levada a <span style="color:#b8bb26">**cessar a depreciação**</span> de um item do ativo imobilizado que ainda <span style="color:#b8bb26">não  tenha sido baixado e que não esteja totalmente depreciado</span> quando o <span style="color:#b8bb26">**<u>ativo for classificado como mantido  para a venda</u>**</span>.  
 - <span style="color:#83a598">Valor residual</span> de um ativo é o <span style="color:#83a598">valor estimado que a entidade obteria com a venda do ativo, após  deduzir as despesas estimadas de venda</span>, caso o ativo já tivesse a idade e a condição esperadas para  o fim de sua vida útil.  
 	- Valor depreciável = Custo do ativo - Valor residual
--  
+- A depreciação de um ativo deve cessar na data em que o ativo é classificado  como mantido para venda ou, ainda, na data em que o ativo é baixado, o que ocorrer primeiro  
+- O *aumento de valor de um terreno no qual um edifício esteja construído* <span style="color:#fb4934">**<u>não afeta o valor contábil do edifício.</u>**</span>   
+- 
