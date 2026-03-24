@@ -40,3 +40,6 @@ O custo de um item do ativo imobilizado compreende:
 
 - O <span style="color:#fb4934">**custo**</span> de um item de ativo imobilizado é equivalente ao <span style="color:#fb4934">**preço à vista na data do  reconhecimento.**</span> 
 - Uma entidade será levada a <span style="color:#b8bb26">**cessar a depreciação**</span> de um item do ativo imobilizado que ainda <span style="color:#b8bb26">não  tenha sido baixado e que não esteja totalmente depreciado</span> quando o <span style="color:#b8bb26">**<u>ativo for classificado como mantido  para a venda</u>**</span>.  
+- <span style="color:#83a598">Valor residual</span> de um ativo é o <span style="color:#83a598">valor estimado que a entidade obteria com a venda do ativo, após  deduzir as despesas estimadas de venda</span>, caso o ativo já tivesse a idade e a condição esperadas para  o fim de sua vida útil.  
+	- Valor depreciável = Custo do ativo - Valor residual
+- 
