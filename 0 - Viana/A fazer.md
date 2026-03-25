@@ -1,6 +1,6 @@
 # A fazer
 
-- [ ] férias
-- [ ] 
+- [ ] férias Cb e SD
+- [ ]  
 
 ---
