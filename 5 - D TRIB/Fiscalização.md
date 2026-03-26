@@ -1,6 +1,6 @@
-**1. ADMINISTRAÇÃO TRIBUTÁRIA**
+# **1. ADMINISTRAÇÃO TRIBUTÁRIA**
 
-**1.1. Fiscalização**
+## **1.1. Fiscalização**
 
 - Cada ente federativo poderá legislar sobre normas de fiscalização tributária;
 - Imunidade e isenção - o sujeito passivo continuará a sofrer a ação da fiscalização!
@@ -8,7 +8,7 @@
 
 Súmula STF 439 - Estão sujeitos a fiscalização tributária ou previdenciária quaisquer livros comerciais, limitado o exame aos pontos objeto da investigação.
 
-_Art. 195. Parágrafo único, CTN. Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles efetuados_ **_serão conservados_** **_até que ocorra a prescrição dos créditos tributários_** **_decorrentes das operações a que se refiram._**
+_Art. 195. Parágrafo único, CTN. Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles efetuados_ **<span style="color:#fb4934">_serão conservados_</span>** **<span style="color: #d79921">_até que ocorra a prescrição dos créditos tributários_</span>** **<span style="color:#fb4934">_decorrentes das operações a que se refiram</span>._**
 
 ⚠️ O examinador irá estabelecer um prazo aleatório nas questões de prova (como cinco anos, para te confundir com o prazo de decadência e prescrição), mas você não vai cair nessa pegadinha. Então, **GRAVE**: Serão conservados **ATÉ QUE OCORRA A PRESCRIÇÃO!**
 
