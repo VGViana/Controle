@@ -71,7 +71,7 @@ _II -_ **<span style="color:#fb4934">_solicitações de autoridade administrativ
 - **Regra**: não pode haver divulgação das informações;
 - **Exceções** ⚠️ **DECORE TODAS!**
 
-_Art. 198, § 3º, CTN. **Não é vedada a divulgação de informações relativas a:**_
+_Art. 198, § 3º, CTN. **<span style="color:#b8bb26">Não é vedada a divulgação de informações relativas a</span>:**_
 
 _I - representações fiscais para fins penais;_
 
