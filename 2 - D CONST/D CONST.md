@@ -17,6 +17,7 @@
 - [**Direitos Sociais**](5.%20Direitos%20Sociais.md) - Educação, Saúde, Trabalho.
 - [[6. Nacionalidade]]
 - [[7. Direitos Políticos]]
+- [[8. Partidos Políticos]]
 
 ### 3. ORGANIZAÇÃO DO ESTADO
 - [**TGDF**](2.%20TGDF.md) - Teoria Geral da Organização Federativa.
