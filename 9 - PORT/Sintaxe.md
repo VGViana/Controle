@@ -52,9 +52,12 @@ _**<span style="color:#b8bb26">Classificação dos Sujeitos</span>**_
 - **Cuidado** com verbos acompanhados da _**partícula apassivadora "SE"**_. Geralmente, a banca traz a construção na voz passiva sintética para confundir o sujeito simples com o indeterminado. 
     - _Ex.: "**Comemora-se** nesta semana **<span style="color: #d79921">um grande dia</span>."** (Voz passiva sintática - sujeito simples)_ 
 
-**🔶**_**Oculto**_: aqui, o _**núcleo está implícito, elíptico, mas é de fácil identificação contextual**_. _Ex.: Não conseguimos deixar de estudar português. (Quem não consegue? **nós**)_.
+**🔶**_**Oculto**_: aqui, o _**núcleo está implícito, elíptico, mas é de fácil identificação contextual**_. 
+- _Ex.: Não conseguimos deixar de estudar português. (Quem não consegue? **nós**)_.
 
-**🔶**_**Composto**_: formado por _**mais de um núcleo explícito**_. _Ex.: "**A felicidade e a tristeza representam** estados de espírito_." 
+**🔶**_**Composto**_: formado por _**mais de um núcleo explícito**_. 
+
+- _Ex.: "**A felicidade e a tristeza representam** estados de espírito_." 
 
 - _**<span style="color:#fb4934">Atenção</span>!**_
     - _**Sujeito composto depois do verbo**_. Nesse caso, _pode concordar com o termo mais próximo_. _Ex.: "**Foi perdida <span style="color: #d79921">minha chave</span>** e minha carteira."_
