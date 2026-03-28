@@ -1,12 +1,9 @@
 # _**1 - Sintaxe**_
 
-|                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔶 "_**<span style="color:#d3869b">Sintaxe</span>** é a parte da gramática que trata da **ordem**, da **relação** e da **função** das palavras na frase"._ |
-
+🔶 "_**<span style="color:#d3869b">Sintaxe</span>** é a parte da gramática que trata da **ordem**, da **relação** e da **função** das palavras na frase"._
 ## _**1.1 - Frase, Oração e Período**_
 
-| Frase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Período                                                                                                                                                                                                                                                                                                                                                                          |
+| <center>Frase</center>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | <center>Período</center>                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Qualquer **enunciado que expresse comunicação**, ou seja, inteligível. Pode ser **nominal** ou **verbal**.<br><br>- A gramática aponta cinco tipos de frase:<br>    - _**Declarativa**_ (afirmativa ou negativa);<br>    - _**Interrogativa**_ (direta ou indireta);<br>    - _**Exclamativa**_;<br>    - _**Imperativa**_; e <br>    - _**Optativa**_ - exprime desejo. <br><br>**Oração**<br><br>Frase cujo núcleo é um verbo ou uma locução verbal.<br><br>- As orações absolutas são assim denominadas por possuírem **apenas um verbo em sua formação**. As principais orações são:<br>    - Orações **coordenadas, principais, subordinadas e interferentes**. | Frase que possui uma ou mais orações. <br><br>- Pode-se dividir o período em **simples e composto**. <br>    - _**Simples**_: formado por apenas uma oração.<br>    - _**Composto**_: formado por mais de uma oração. <br><br>Quando um elemento sintático exerce função de oração, dá-se o nome de "estrutura oracional”. Por exemplo: sujeito oracional, objeto oracional etc. |
 
@@ -94,7 +91,7 @@ São aqueles sujeitos que vêm em forma de oração. **_O verbo sempre ficará n
 
 O **predicado** é entendido como tudo aquilo que se declara ao sujeito.
 
-**♦****️** _**Predicativo do Sujeito**_ 
+**♦** _**Predicativo do Sujeito**_ 
 
 - Serve para **demonstrar uma qualidade, característica ou estado do** **<span style="color:#83a598">sujeito</span>** **da oração.** Normalmente, o predicativo se dá por meio de um **<span style="color:#83a598">verbo de ligação</span>**. 
     - _Ex.:_ _Nós **estamos** felizes_.
@@ -102,7 +99,7 @@ O **predicado** é entendido como tudo aquilo que se declara ao sujeito.
     - _Ex.: Ele **<span style="color:#b8bb26">permaneceu</span>** **calado** o tempo todo. (“permaneceu” é verbo de ligação. “Calado” é uma característica que remete ao sujeito “ele”)._
     - _Ex.: Ele **<span style="color:#b8bb26">permaneceu</span>** **em casa** o tempo todo. (agora, “permaneceu” é verbo intransitivo e “em casa” é adjunto adverbial)._
 
-****♦********️**** _**Predicativo do Objeto**_
+**♦** _**Predicativo do Objeto**_
 
 - Do mesmo modo que ocorre com o sujeito, o **<span style="color:#83a598">objeto</span>** **também pode possuir predicativo**, ou seja, uma qualidade ou um estado. É mais comum em se tratando de **Objeto Direto**. 
     - _Ex.: Achei o filme **legal**. O termo "legal"_ _é o predicativo do objeto direto “filme”_.
