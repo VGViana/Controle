@@ -1,20 +1,6 @@
 # 🏛️ CONSTITUIÇÃO NAVEÁVEL: FISCO (VIANA)
 
 > *"A ordem é a base de toda virtude."*
-
-Bem-vindo ao seu **Vault de Estudo de Alto Nível**. Este sistema foi arquitetado para transformar o conhecimento bruto em uma rede interconectada de conceitos jurídicos e contábeis, utilizando uma estética de **Minimalismo Japonês** e o poder do **Vim**.
-
----
-
-## 🧭 FILOSOFIA DO SISTEMA
-
-Este vault opera sob a arquitetura de **"Constituição Naveável"**:
-
-1.  **MOCs (Maps of Content):** Notas centrais que atuam como atlas para cada matéria. Elas não guardam conteúdo, mas organizam as conexões.
-2.  **Notas-Ponte:** Notas interdisciplinares que conectam, por exemplo, o Direito Tributário à Contabilidade.
-3.  **Backlinks Semânticos:** Links que garantem que nenhuma informação fique isolada (estilo Zettelkasten).
-4.  **Interface Zen:** Estética **Soft Gruvbox** otimizada para notebooks de 15.6", garantindo que o texto ocupe toda a tela com legibilidade máxima.
-
 ---
 
 ## 📚 SUMÁRIO DAS MATÉRIAS (MAPAS CENTRAIS)
@@ -53,17 +39,3 @@ Abaixo estão os portais para as principais áreas de estudo. Clique nos links p
 *Foco: Direito Societário e Atividade Econômica.*
 - **Resumo:** Tipos de sociedades, títulos de crédito e falência.
 
----
-
-## ⚡ FERRAMENTAS DO MESTRE
-
-- **Tema:** `japanese-gruvbox.css` (Soft Gruvbox + Japanese Minimalism)
-- **Modo Vim:** Otimizado via `.obsidian.vimrc`
-  - `jk` ou `kj` para sair do modo Insert.
-  - `J` / `K` para navegação rápida de 5 linhas.
-  - `<leader>f` para Busca Global rápida.
-  - Cursor muda de cor conforme o modo (**Normal=Laranja**, **Insert=Verde**, **Visual=Azul**).
-
----
-
-> *Este README é o seu centro de comando. Utilize-o para revisar a estrutura geral antes de mergulhar nas notas.*

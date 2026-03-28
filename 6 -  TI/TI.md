@@ -24,4 +24,4 @@
 - 🏛️ **Ponte para [DIREITO ADM](../3%20-%20D%20ADM/D%20ADM.md):** Proteção de dados (LGPD) e transparência pública.
 
 ---
-[[FISCAL|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)
+[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)

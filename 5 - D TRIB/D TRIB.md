@@ -32,4 +32,4 @@
 - 🗳️ **Ponte para [DIREITO CONST](../2%20-%20D%20CONST/D%20CONST.md):** O STN dentro da Constituição Federal de 88.
 
 ---
-[[FISCAL|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)
+[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)

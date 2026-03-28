@@ -23,4 +23,4 @@
 - 🏢 **Ponte para [DIREITO EMPRESARIAL](../7%20-%20D%20EMP/D%20EMP.md):** A atuação de empresas privadas prestando serviços públicos.
 
 ---
-[[FISCAL|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)
+[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)

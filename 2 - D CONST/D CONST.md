@@ -31,4 +31,4 @@
 - 🔍 **Ponte para [AUDITORIA](../4%20-%20AUD/AUD.md):** O controle externo exercido pelo Congresso com o auxílio do TCU.
 
 ---
-[[FISCAL|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)
+[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)
