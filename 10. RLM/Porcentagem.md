@@ -1,7 +1,9 @@
 - A porcentagem é uma **forma particular de representação de um tipo específico de fração,** no qual o **denominador** (parte de baixo de uma fração) é sempre igual a 100.
 - As **razões de denominador 100** são as chamadas porcentagens, ou seja:
 
-![[Porcentagem.png|342]]
+$$
+P\% = \frac{P}{100}
+$$
 
 - Vejamos alguns exemplos:
 
@@ -117,3 +119,43 @@ Pi: valor inicial
 
 i: percentual
 
+## 1.4 Variação Percentual
+
+- Podemos calcular a variação percentual através da seguinte fórmula:
+
+$$
+\Delta\% = \frac{V_{final} - V_{inicial}}{V_{inicial}} \times 100
+$$
+
+🔎 Vejamos um exemplo:
+
+- Se um preço final era R$ 600,00 e seu preço inicial era R$ 500,00, qual seria a variação?
+
+$$
+\Delta\% = \frac{600 - 500}{500} = 0{,}2 = 20\%
+$$
+
+veja pela fórmula da atividade passada:
+
+$$
+500 \times \left(1 + \frac{20}{100}\right) = 600
+$$
+
+confirmando o valor final.
+
+⚠️ A variação pode ser negativa!
+
+🎥 Se tiver dúvidas, sugerimos que assista o seguinte vídeo:
+https://www.youtube.com/watch?v=k0ES_kZKENC
+
+---
+
+## 1.5 Variação Acumulada
+
+- Para fazermos os cálculos de variação acumulada de diversos descontos/aumentos aplicados sucessivamente, basta seguirmos a fórmula a seguir:
+
+$$
+(1 + i_{acumulada}) = (1 + i_1) \cdot (1 + i_2) \cdot \ldots \cdot (1 + i_n)
+$$
+
+Basicamente, a fórmula consiste em multiplicarmos todas as taxas presentes no nosso problema somadas de 1.
