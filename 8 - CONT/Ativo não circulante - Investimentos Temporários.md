@@ -13,6 +13,7 @@
 	- contrapartida outros resultados abrangentes
 	- valor justo por outros resultados abrangentes
 	- fluxo de caixa com venda e rendimentos
+	- ajuste de avaliação patrimonial
 
 - mantido até o vencimento
 	  - custo amortizado
