@@ -77,7 +77,7 @@ Classificado no circulante quando:
 - Mantido com a finalidade de ser negociado
 - Liquidado até 12 meses do balanço 
 - Não há direito de diferir a liquidação durante 12 meses atá a data do balanço
-- 
+- Quando a entidade **quebrar um acordo contratual** (covenant) **de empréstimo de longo prazo** 
 ##### Exceção
 
 Quando o ciclo operacional é claramente identificável, a classificação em circulante e não circulante proporciona informação útil
