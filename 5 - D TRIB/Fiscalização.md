@@ -80,3 +80,4 @@ _II - inscrições na Dívida Ativa da Fazenda Pública;_
 _III - parcelamento ou moratória;_
 
 _IV - incentivo, renúncia, benefício ou imunidade de natureza tributária cujo beneficiário seja pessoa jurídica._
+
