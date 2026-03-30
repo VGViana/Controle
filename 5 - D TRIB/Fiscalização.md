@@ -80,4 +80,66 @@ _II - inscrições na Dívida Ativa da Fazenda Pública;_
 _III - parcelamento ou moratória;_
 
 _IV - incentivo, renúncia, benefício ou imunidade de natureza tributária cujo beneficiário seja pessoa jurídica._
+# **2. Dívida Ativa**
 
+_Art. 201, CTN. Constitui **dívida ativa tributária** a proveniente de crédito dessa natureza,_ **_regularmente inscrita na repartição administrativa competente,_** **_<span style="color:#fb4934">depois de esgotado o prazo fixado, para pagamento, pela lei ou por decisão final proferida em processo regular.</span>_**
+
+- **<span style="color:#d3869b">Presunção relativa de certeza e liquidez</span>.**
+
+🚨 **DECORE** OS REQUISITOS DO **<u>TERMO DE INSCRIÇÃO DA DÍVIDA ATIVA</u>:**
+
+_Art. 202, CTN. O termo de inscrição da dívida ativa, **autenticado pela autoridade competente**,_ **<span style="color:#fb4934">_indicará obrigatoriamente</span>:_**
+
+_I - o nome do devedor e, sendo caso, o dos co-responsáveis, bem como, **<span style="color:#d3869b">sempre que possível</span>**, o domicílio ou a residência de um e de outros;_
+
+_II - a quantia devida e a maneira de calcular os juros de mora acrescidos;_
+
+_III - a origem e natureza do crédito, mencionada especificamente a disposição da lei em que seja fundado;_
+
+_IV - a data em que foi inscrita;_
+
+_V -_ **_<span style="color:#d3869b">sendo caso</span>_**_, o número do processo administrativo de que se originar o crédito._
+
+O **<u>inciso "V"</u>** trata de um requisito **<span style="color: #d79921">facultativo</span>**, já que não são todos os termos de inscrição em dívida ativa que possuem processo administrativo iniciado. Então saiba que, com exceção deste inciso, os outros são obrigatórios.
+
+_Parágrafo único. A certidão conterá, além dos requisitos deste artigo, a indicação do livro e da folha da inscrição._
+
+- O <u>número do processo</u> **<span style="color:#fe8019">não é um requisito essencial</span>;**
+- Omissão/erro dos requisitos causam a nulidade da inscrição e do processo de cobrança;
+- Pode haver o saneamento **<span style="color:#fe8019">ATÉ A DECISÃO DE 1ª INSTÂNCIA.</span>** ⚠️
+
+Súmula STJ 392 - A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução.
+
+# **3. Certidões Negativas**
+
+- Será fornecida no prazo de **<span style="color: #d79921">10 dias!</span>**
+- **<span style="color:#b8bb26">Certidão positiva com efeitos de negativa:</span>**
+    - Créditos tributários **<span style="color:#fe8019">NÃO VENCIDOS</span>;**
+    - Créditos tributários **<span style="color:#fe8019">GARANTIDOS POR PENHORA</span>;**
+    - Créditos tributários que tenham a exigibilidade **<span style="color:#fe8019">SUSPENSA</span>.**
+
+Súmula STJ 446 - Declarado e não pago o débito tributário pelo contribuinte, é legítima a recusa de expedição de certidão negativa ou positiva com efeito de negativa.
+
+## **3.1. Dispensa da apresentação de certidão negativa  **
+
+**🚨 DECORE**!
+
+- Dispensada a prova de quitação - quando se tratar de **<span style="color:#fe8019">ATO INDISPENSÁVEL À CADUCIDADE DE DIREITO</span>.**
+
+- Respondem pelo crédito tributário todos os participantes, <span style="color:#fe8019">exceto se a responsabilidade pela infração for pessoal.</span>
+
+## **3.2. Responsabilidade por expedição de certidão com erro **
+
+⚠️ Tópico cobrado em sua literalidade, portanto, grave que:
+
+_Art. 208, CTN. A certidão negativa_ **_expedida com dolo ou fraude_**_, que contenha erro contra a Fazenda Pública,_ **_<span style="color: #d79921">responsabiliza pessoalmente o funcionário que a expedir</span>,_** _pelo crédito tributário e juros de mora acrescidos._
+
+_Parágrafo único. O disposto neste artigo_ _<span style="color:#fe8019">não exclui a responsabilidade criminal e funcional que no caso couber.</span>_
+
+# **4. CTN - DISPOSIÇÕES FINAIS E TRANSITÓRIAS**
+
+⚠️ Tópico cobrado em sua literalidade, portanto, grave que:
+
+_Art. 210, CTN. Os prazos fixados nesta Lei ou legislação tributária serão contínuos, excluindo-se na sua contagem o dia de início e incluindo-se o de vencimento._
+
+_Parágrafo único._ **_<span style="color:#fe8019">Os prazos só se iniciam ou vencem em dia de expediente normal na repartição em que corra o processo ou deva ser praticado o ato.</span>_**
