@@ -13,6 +13,7 @@
 - [[18. CPC 27 - Ativo Imobilizado]]
 - [[19. CPC 04 - Ativo Intangível]]
 - [[Ativo não circulante - Investimentos Temporários]]
+- [[CPC 26]]
 
 ### 3. DEMONSTRAÇÕES
 - [[DFC]]
