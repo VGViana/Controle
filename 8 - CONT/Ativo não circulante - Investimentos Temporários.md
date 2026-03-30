@@ -1,12 +1,17 @@
 # **1. INVESTIMENTOS TEMPORÁRIOS**
 
-Investimentos temporários classificados no **Ativo Não Circulante – Realizável a Longo Prazo** são aplicações de recursos feitas pela empresa com intenção de resgate ou realização **após o término do exercício seguinte**. Apesar de serem “temporários” em natureza, o prazo maior que 12 meses faz com que fiquem fora do Ativo Circulante. Exemplos: aplicações financeiras de renda fixa com vencimento em dois anos, CDBs ou debêntures que só serão resgatados no longo prazo, ou fundos de investimento com prazo de resgate superior a um ano.
+Investimentos temporários classificados no **Ativo Não Circulante – Realizável a Longo Prazo** são aplicações de recursos feitas pela empresa com <span style="color:#b8bb26">intenção de resgate ou realização</span> **<span style="color:#b8bb26">após o término do exercício seguinte</span>**. 
 
-Alguns desses investimentos temporários são **instrumentos financeiros**, como:
+Apesar de serem “temporários” em natureza, o <span style="color:#b8bb26">**prazo maior que 12 meses faz com que fiquem fora do Ativo Circulante.**</span> Exemplos: 
+- aplicações financeiras de renda fixa com vencimento em dois anos, 
+- CDBs ou debêntures que só serão resgatados no longo prazo, 
+- ou fundos de investimento com prazo de resgate superior a um ano.
 
-- **Disponíveis para venda ou negociação** (registrados pelo valor justo e com ajustes ao resultado ou patrimônio líquido, conforme o caso).
+<span style="color: #d79921">Alguns desses investimentos</span> temporários são **<span style="color: #d79921">instrumentos financeiros</span>**, como:
+
+- **<span style="color: #d79921">Disponíveis para venda ou negociação</span>** (registrados pelo <span style="color:#b8bb26">**valor justo**</span> e com <span style="color:#83a598">ajustes ao resultado ou patrimônio líquido</span>, conforme o caso).
     
-- **Mantidos até o vencimento** (registrados pelo custo amortizado).
+- **<span style="color: #d79921">Mantidos até o vencimento</span>** (registrados pelo <span style="color:#b8bb26">**custo amortizado**</span>).
     
 
 🔹 **Diferença breve**:
