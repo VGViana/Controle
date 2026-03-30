@@ -1,5 +1,6 @@
-- As demonstrações apresentam a situação patrimonial, financeira, de desempenho e os fluxos de caixa da entidade
-- As demonstrações são elaboradas na pressuposição de que a entidade vai continuar em operação no futuro (princípio da continuidade)
+- As demonstrações apresentam a situação patrimonial e financeira (BP), de desempenho (DRE e DRA) e os fluxos de caixa da entidade (DFC)
+- As demonstrações são elaboradas na pressuposição de que a entidade vai continuar em operação no futuro (princípio da continuidade), a menos que:
+	- A administração tenha intenção de liquidar a entidade ou cessar seus negócios, ou não possua uma alternativa realista senão a descontinuidade de suas atividades
 - Todas as demonstrações são feitas pelo regime de competência, exceto a DFC, que é feita pelo regime de caixa
 - Nas hipóteses de exercício mais longo ou curto, deve ser justificada a razão e salientar que não comparáveis os montantes apresentados nessas demonstrações, por conta dessa diferença
 
