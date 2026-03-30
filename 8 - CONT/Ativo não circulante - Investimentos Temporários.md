@@ -1,30 +1,16 @@
-# Ativo não circulante - Investimentos Temporários
+# **1. INVESTIMENTOS TEMPORÁRIOS**
 
-## Instrumentos financeiros
+Investimentos temporários classificados no **Ativo Não Circulante – Realizável a Longo Prazo** são aplicações de recursos feitas pela empresa com intenção de resgate ou realização **após o término do exercício seguinte**. Apesar de serem “temporários” em natureza, o prazo maior que 12 meses faz com que fiquem fora do Ativo Circulante. Exemplos: aplicações financeiras de renda fixa com vencimento em dois anos, CDBs ou debêntures que só serão resgatados no longo prazo, ou fundos de investimento com prazo de resgate superior a um ano.
 
-- destinado a negociação
-	- avaliado a valor justo (marcação a valor de mercado)
-	- contrapartida vai para o resultado
-	- valor justo por meio de resultado
-	- fluxo de caixa com venda
+Alguns desses investimentos temporários são **instrumentos financeiros**, como:
 
-- disponível pra venda
-	- valor justo (marcação a valor de mercado)
-	- contrapartida outros resultados abrangentes
-	- valor justo por outros resultados abrangentes
-	- fluxo de caixa com venda e rendimentos
-	- ajuste de avaliação patrimonial
+- **Disponíveis para venda ou negociação** (registrados pelo valor justo e com ajustes ao resultado ou patrimônio líquido, conforme o caso).
+    
+- **Mantidos até o vencimento** (registrados pelo custo amortizado).
+    
 
-- mantido até o vencimento
-	  - custo amortizado
-	  - juros contratuais
-	  - fluxo de caixa é o rendimento
-	  - mensurados pela curva
+🔹 **Diferença breve**:
 
----
-
-a classificação dos ativos e passivos financeiros é baseada no:
-- Modelo de negócios
-- Características dos títulos
-
----
+- **Temporário** → intenção de manter por um período limitado (curto ou longo prazo), com possibilidade de conversão em caixa.
+    
+- **Permanente** → adquirido com a intenção de manter de forma duradoura, geralmente participações societárias estratégicas ou bens não destinados à venda.
