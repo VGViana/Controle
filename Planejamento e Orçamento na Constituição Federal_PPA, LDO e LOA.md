@@ -1,6 +1,6 @@
 São instrumentos de planejamento:
 
-![[Instrumentos de planejamento orçamentário.png]]
+![[Instrumentos de planejamento orçamentário.png|824]]
 
 Fique ligado ao fato de que o PPA, LDO e LOA são de **iniciativa do poder executivo**, **<span style="color:#fe8019">não do poder legislativo</span>.**
 
@@ -59,7 +59,7 @@ _XIII - **meta** - valor **<span style="color:#d3869b">esperado</span>** para o 
 
 **Na CF88, há um parágrafo do Art. 167 muito importante e você precisa saber os detalhes para acertar as questões:**
 
-- _§ 1º Nenhum_ _investimento_ _cuja execução_ _ultrapasse um exercício financeiro_ _poderá ser iniciado sem prévia inclusão no_ _plano plurianual__, ou sem lei que autorize a inclusão, sob pena de_ _crime de responsabilidade__._
+> _§ 1º Nenhum_ _investimento_ _cuja execução_ _ultrapasse um exercício financeiro_ _poderá ser iniciado sem prévia inclusão no_ _plano plurianual, ou sem lei que autorize a inclusão, sob pena de_ _crime de responsabilidade._
 
 ⚠️Fique ligado nas palavras chaves desse parágrafo:
 
@@ -72,6 +72,6 @@ _XIII - **meta** - valor **<span style="color:#d3869b">esperado</span>** para o 
 
 Se o investimento **<span style="color: #d79921">ultrapassar</span>** um exercício financeiro, **<span style="color: #d79921">precisa</span>** ser incluído no **PPA**.
 
-Se o investimento **NÃO ultrapassa**r um exercício financeiro, **NÃO precisa** ser incluído do **PPA**.
+Se o investimento **<span style="color:#fb4934">NÃO</span> ultrapassa**r um exercício financeiro, **<span style="color:#fb4934">NÃO</span> precisa** ser incluído do **PPA**.
 
 ⚠️ Atenção especial ao item anterior, pois as bancas costumam fazer um jogo de palavras com o advérbio "NÃO".
