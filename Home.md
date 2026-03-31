@@ -16,6 +16,7 @@ tags: []
   - *A "Lei das Leis". Base para todo o sistema jurídico.*
 - [[D ADM]] **Direito Administrativo**
   - *Gestão da máquina pública, atos e agentes.*
+  [[A]]
 
 ### ⚖️ Núcleo Fiscal e Tributário
 - [[D TRIB]] **Direito Tributário**
