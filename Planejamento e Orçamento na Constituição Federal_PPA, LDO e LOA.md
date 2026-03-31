@@ -11,26 +11,26 @@ Fique ligado ao fato de que o PPA, LDO e LOA são de **iniciativa do poder exec
     - Médio Prazo
 
 - LDO
-    - Planejamento **tático** (metas fiscais)
-    - Planejamento **operacional** ( Critérios para limitação de empenho)
+    - Planejamento **<span style="color:#b8bb26">tático</span>** (metas fiscais)
+    - Planejamento **<span style="color:#b8bb26">operacional</span>** ( Critérios para limitação de empenho)
     - 1 ano e meio
 - LOA
-    - Planejamento **operacional** (receitas e despesas nas classificações orçamentárias, ações orçamentárias)
+    - Planejamento **<span style="color:#b8bb26">operacional</span>** (receitas e despesas nas classificações orçamentárias, ações orçamentárias)
     - 1 ano
 
-💎São leis ordinárias, necessita-se apenas de **maioria simples** do Poder legislativo. Na União: maioria de cada casa legislativa em sessão comum, ou seja, **mesma sessão com votos separados** por cada casa.
+💎São leis ordinárias, necessita-se apenas de **maioria simples** do Poder legislativo. Na União: maioria de cada casa legislativa em sessão comum, ou seja, **<span style="color:#fb4934">mesma sessão com votos separados</span>** por cada casa.
 
-Ainda sobre as 3 leis, **não há hierarquia formal, mas há material** em termos de compatibilidade. Assim, a LOA deve ser compatível com o PPA vigente e LDO vigente. E a LDO deve ser compatível com o PPA vigente. 
+Ainda sobre as 3 leis, **<span style="color:#b8bb26">não há hierarquia formal, mas há material</span>** em termos de compatibilidade. Assim, a LOA deve ser compatível com o PPA vigente e LDO vigente. E a LDO deve ser compatível com o PPA vigente. 
 
-**1**.**PPA**
+# **1**.**PPA**
 
-**1.1. DEFINIÇÃO**
+## **1.1. DEFINIÇÃO**
 
-O PPA traduz-se em instrumento de planejamento **estratégico e de médio** prazo do Governo (duração de quatro anos) e estabelece,  _de forma **regionalizada**, as **diretrizes, objetivos e metas** da administração pública federal para as **despesas de capital e outras delas decorrentes** e para as relativas aos **programas de duração continuada**._
+O PPA traduz-se em instrumento de planejamento **<span style="color:#d3869b">estratégico e de médio</span>** prazo do Governo (duração de quatro anos) e estabelece,  _de forma **regionalizada**, as **diretrizes, objetivos e metas** da administração pública federal para as **despesas de capital e outras delas decorrentes** e para as relativas aos **programas de duração continuada**._
 
-Definições_:_
+<u>Definições</u>_:_
 
-_III - **diretrizes** - orientações **transversais** que d**irecionam os objetivos estratégicos e os programas** que compõem o PPA 2024-2027, validados por processo de participação social;_
+_III - **diretrizes** - orientações **<span style="color:#fb4934">transversais</span>** que <span style="color:#d3869b">direcionam os objetivos estratégicos e os programas</span>** que compõem o PPA 2024-2027, validados por processo de participação social;_
 
 _VIII - **objetivo** - **mudança na realidade social** que o programa visa promover ao enfrentar o problema público;_
 
