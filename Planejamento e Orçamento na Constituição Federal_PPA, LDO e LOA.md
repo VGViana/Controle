@@ -30,11 +30,9 @@ O PPA traduz-se em instrumento de planejamento **<span style="color:#d3869b">est
 
 <u>Definições</u>_:_
 
-_III - **diretrizes** - orientações **<span style="color:#fb4934">transversais</span>** que **<span style="color:#d3869b">direcionam os objetivos estratégicos e os programas</span>** que compõem o PPA 2024-2027, validados por processo de participação social;_
-
-_VIII - **objetivo** - **<span style="color:#d3869b">mudança na realidade social</span>** que o programa visa promover ao enfrentar o problema público;_
-
-_XIII - **meta** - valor **<span style="color:#d3869b">esperado</span>** para o **<span style="color:#b8bb26">indicador</span>** no período a que se refere;_
+> _III - **diretrizes** - orientações **<span style="color:#fb4934">transversais</span>** que **<span style="color:#d3869b">direcionam os objetivos estratégicos e os programas</span>** que compõem o PPA 2024-2027, validados por processo de participação social;
+> __VIII - **objetivo** - **<span style="color:#d3869b">mudança na realidade social</span>** que o programa visa promover ao enfrentar o problema público;
+> __XIII - **meta** - valor **<span style="color:#d3869b">esperado</span>** para o **<span style="color:#b8bb26">indicador</span>** no período a que se refere;_
 
 - **Algumas características importantes do PPA:**
     - Regional
