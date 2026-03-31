@@ -30,11 +30,11 @@ O PPA traduz-se em instrumento de planejamento **<span style="color:#d3869b">est
 
 <u>Definições</u>_:_
 
-_III - **diretrizes** - orientações **<span style="color:#fb4934">transversais</span>** que <span style="color:#d3869b">direcionam os objetivos estratégicos e os programas</span>** que compõem o PPA 2024-2027, validados por processo de participação social;_
+_III - **diretrizes** - orientações **<span style="color:#fb4934">transversais</span>** que **<span style="color:#d3869b">direcionam os objetivos estratégicos e os programas</span>** que compõem o PPA 2024-2027, validados por processo de participação social;_
 
-_VIII - **objetivo** - **mudança na realidade social** que o programa visa promover ao enfrentar o problema público;_
+_VIII - **objetivo** - **<span style="color:#d3869b">mudança na realidade social</span>** que o programa visa promover ao enfrentar o problema público;_
 
-_XIII - **meta** - valor **esperado** para o **indicador** no período a que se refere;_
+_XIII - **meta** - valor **<span style="color:#d3869b">esperado</span>** para o **<span style="color:#b8bb26">indicador</span>** no período a que se refere;_
 
 - **Algumas características importantes do PPA:**
     - Regional
@@ -53,9 +53,9 @@ _XIII - **meta** - valor **esperado** para o **indicador** no período a que se 
 - Vigência de 4 anos
 - Sua vigência inicia no segundo ano do mandato do Chefe do Executivo. 
 
-**⚠️Não há regra constitucional que determina que o PPA atual deve ser sempre compatível com o PPA anterior!**
+**⚠️<span style="color:#fb4934">Não há regra constitucional que determina que o PPA atual deve ser sempre compatível com o PPA anterior!</span>**
 
-**1.2. INVESTIMENTO**
+## **1.2. INVESTIMENTO**
 
 **Na CF88, há um parágrafo do Art. 167 muito importante e você precisa saber os detalhes para acertar as questões:**
 
@@ -65,12 +65,12 @@ _XIII - **meta** - valor **esperado** para o **indicador** no período a que se 
 
 - Investimento;
 - Ultrapasse um exercício financeiro;
-- PPA (**não é LDO ou LOA**, cuidado);
+- PPA (**<span style="color:#fb4934">não é LDO ou LOA</span>**, cuidado);
 - Crime de responsabilidade.
 
 📝 Guarde o seguinte:
 
-Se o investimento **ultrapassar** um exercício financeiro, **precisa** ser incluído no **PPA**.
+Se o investimento **<span style="color: #d79921">ultrapassar</span>** um exercício financeiro, **<span style="color: #d79921">precisa</span>** ser incluído no **PPA**.
 
 Se o investimento **NÃO ultrapassa**r um exercício financeiro, **NÃO precisa** ser incluído do **PPA**.
 
