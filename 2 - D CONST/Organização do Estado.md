@@ -1,0 +1,128 @@
+**<span style="color:#83a598">Todos os entes federais são dotados de autonomia.</span>**
+
+- E para que esta fosse assegurada, **a CF/88 estabeleceu a repartição de competências** entre a União, Estados, DF e Municípios.
+- Nela, há matérias **<span style="color:#83a598">legislativas, administrativas e tributárias.</span>**
+
+Ainda, saiba que a repartição ocorreu regulada pelo **Princípio da Predominância do Interesse.**
+
+| ENTE FEDERATIVO  | INTERESSE        |
+| ---------------- | ---------------- |
+| União            | Geral            |
+| Estados-membros  | Regional         |
+| Municípios       | Local            |
+| Distrito federal | Regional + Local |
+
+Também, utiliza-se o **<span style="color:#83a598">Princípio da Subsidiariedade</span>** que estabelece que a competência deve ser do ente federativo mais próximo da tomada de decisões.
+
+**Repartição de competências e a Federação brasileira**
+
+- Competência **<span style="color:#b8bb26">Material ou Administrativa</span> = <span style="color:#b8bb26">Comum ou Exclusivas</span>;**
+- Competência **<span style="color:#83a598">Legislativa</span> = <span style="color:#83a598">Exclusiva, Privativa, Concorrente, Suplementar</span>.**
+
+Técnicas de Repartição:
+
+- **↔ <span style="color:#d3869b">Repartição Horizontal</span>** - cada ente possui suas **<span style="color:#fb4934">próprias competências</span>** para agir em áreas específicas, não havendo interferência de outros entes. Age-se isoladamente.
+    - CF/88: Competências Exclusivas e Competências Privativas.
+- **↑ <span style="color:#b8bb26">Repartição Vertical</span>** - os entes federativos **<span style="color:#fb4934">agem conjuntamente</span>**.
+    - CF/88: Competências Comuns e Competências Concorrentes.
+
+# **1. Competências Exclusivas da União**
+
+- manter relações com **Estados estrangeiros** e participar de **organizações internacionais**;
+- declarar a **<span style="color:#83a598">guerra</span>** e celebrar a **<span style="color:#83a598">paz</span>**;
+- assegurar a **defesa nacional;**
+- permitir que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente;
+- decretar o <span style="color:#83a598">estado de sítio</span>, o <span style="color:#83a598">estado de defesa</span> e a <span style="color:#83a598">intervenção federal</span>;
+- produção e o comércio de material bélico;
+
+**STF**: é <span style="color:#fb4934">inconstitucional lei estadual</span> que autorize a utilização, pelas polícias civil e militar, de armas de fogo apreendidas;
+
+**STF**: é <span style="color:#fb4934">incompatível</span> com a Constituição Federal a concessão de porte de arma a procuradores estaduais por <span style="color:#fb4934">lei estadual</span>.
+
+- emitir **moeda**;
+- administrar as reservas cambiais do País e fiscalizar as operações de natureza financeira;
+
+**STF**: <span style="color:#fb4934">é inconstitucional lei estadual</span> que estabeleça a obrigatoriedade de utilização, pelas agências bancárias, de equipamento que ateste a autenticidade de cédulas.
+
+- elaborar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social;
+- manter serviço postal e o correio aéreo nacional;
+
+**STF**: <span style="color:#83a598">é constitucional</span> a atribuição de monopólio do serviço postal à Empresa Brasileira de Correios e Telégrafos.
+
+- explorar, **diretamente ou mediante autorização, concessão ou permissão**, os serviços de **telecomunicações**; 
+
+**STF**:
+
+1. É <span style="color:#fb4934">inconstitucional lei estadual ou distrital</span> que proíba as empresas de telecomunicações de cobrarem taxas para a instalação do segundo ponto de acesso à internet;
+2. É <span style="color:#fb4934">inconstitucional lei estadual ou distrital</span> que estabeleça a possibilidade de acúmulo das franquias de minutos mensais ofertados pelas operadoras de telefonia, determinando a transferência dos minutos não utilizados no mês de sua aquisição, enquanto não forem utilizados, para os meses subsequentes;
+3. É <span style="color:#fb4934">inconstitucional lei estadual</span> que determine que as empresas telefônicas criem ou mantenham um cadastro de assinantes interessados em receber ofertas de produtos ou serviços;
+4. É <span style="color:#fb4934">inconstitucional lei estadual</span> que obrigue empresas de telefonia móvel a instalarem equipamentos de bloqueio do serviço de celular em presídio;
+5. É <span style="color:#fb4934">inconstitucional norma estadual</span> que obrigue empresa privada de telefonia celular e instituição de ensino a garantir idênticos benefícios promocionais tanto aos novos clientes quanto aos antigos;
+6. É <span style="color:#fb4934">inconstitucional</span> — por violar a competência da União privativa para legislar sobre telecomunicações (art. 22, IV) e exclusiva para explorar esses serviços (art. 21, XI) — norma estadual que institua a obrigatoriedade de licenciamento ambiental para a instalação de Rede de Transmissão de Sistemas de Telefonia e de Estações Rádio Base (ERBs) e Equipamentos de Telefonia sem Fio em seu território local;
+
+- explorar, diretamente ou mediante autorização, concessão ou permissão:
+    - serviços de **radiodifusão sonora**, e de **sons** e **imagens**;
+    - **energia elétrica e o aproveitamento energético dos cursos de água**, em articulação com os Estados onde se situam os potenciais hidroenergéticos;
+    - navegação aérea, aeroespacial e a infra-estrutura aeroportuária;
+    - transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais;
+    - transporte rodoviário interestadual e internacional de passageiros;
+    - os portos marítimos, fluviais e lacustres;
+- organizar e manter o <u>Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios</u>;   
+
+⚠️Fique atento: <u>desde a Emenda Constitucional no 69/2012</u>, a <span style="color:#b8bb26">Defensoria Pública do DF</span> passou a ser organizada e mantida **<span style="color:#b8bb26">pelo próprio Distrito Federal</span>**.
+
+- polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal; 
+
+**<u>STF - Súmula Vinculante n. 39</u>:** “_compete privativamente <span style="color:#fb4934">à União</span> legislar sobre vencimentos dos <span style="color:#fb4934">membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal_</span>”.
+
+- organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional;
+- **exercer a classificação,** para efeito indicativo, de diversões públicas e de programas de rádio e televisão;
+- conceder **<span style="color:#83a598">anistia</span>**;
+
+**STF**: a <span style="color:#fb4934">Lei da Anistia</span>, que concedeu anistia àqueles que cometeram crimes durante a época da ditadura, <span style="color:#fb4934">é constitucional.</span>
+
+- planejar e promover a defesa permanente contra as calamidades públicas;
+- instituir sistema nacional de gerenciamento de recursos hídricos;        
+- instituir **diretrizes para o desenvolvimento urbano,** inclusive habitação, saneamento básico e transportes urbanos;
+- estabelecer princípios e diretrizes para o sistema nacional de viação;
+- executar os os serviços de polícia **marítima, aeroportuária e de fronteiras;**       
+- explorar os serviços e instalações **nucleares de qualquer natureza e exercer monopólio estatal** sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições:
+    - toda atividade nuclear em território nacional somente será admitida **para fins pacíficos e mediante aprovação do Congresso Nacional;**
+    - sob regime de **<span style="color:#b8bb26">permissão</span>**, são autorizadas a comercialização e a utilização de radioisótopos para pesquisa e uso agrícolas e industriais; 
+    - sob regime de **<span style="color:#b8bb26">permissão</span>**, são autorizadas a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos;   
+    - **a responsabilidade civil por danos nucleares <span style="color:#fb4934">independe da existência de culpa</span>**;        
+- organizar e manter a inspeção **do trabalho;**
+- **atividade de garimpagem**, em forma associativa.
+-  Organizar e fiscalizar a proteção **e o tratamento de dados pessoais,** nos termos da lei.
+
+# **2. Competências Privativas da União**
+
+- **👮<span style="color:#fe8019">CAPACETE de PM (é privativo)</span>;**
+- **C**: D. Civil: relações comerciais;**
+- **A**: D. Aeronáutico;**
+- **P**: D. Penal** **(penitenciário = concorrente);**
+- **A**: D. Agrário;**
+- **C**: D. Comercial ? empresarial;**
+- **E**: D. Eleitoral;
+- **T:** **D. Trabalho;**
+- **E**: D. Espacial;**
+- **P**: D. Processual** **(PROCEDIMENTOS é concorrente);**
+- **M**: D. Marítimo;**
+- Tudo relacionado a estabelecer **<span style="color:#fe8019">diretrizes</span>**, **<span style="color:#fe8019">bases</span>**, **<span style="color:#fe8019">normas gerais</span>**, etc;
+- **<span style="color:#fe8019">Trânsito</span>** **e** **<span style="color:#fe8019">transporte</span>;**
+- **<span style="color:#fe8019">Águas</span>**, **<span style="color:#fe8019">energia</span>**, **<span style="color:#fe8019">informática</span>**, **<span style="color:#fe8019">telecomunicações</span>;**
+- **<span style="color:#fe8019">Propaganda comercial</span>;**
+- **<span style="color:#fe8019">Serviço postal</span>;**
+- **<span style="color:#fe8019">Proteção e tratamento de dados pessoais</span>.**
+
+**Cancelamento de multas de trânsito anotadas em rodovias estaduais em certo período relativas a determinada espécie de veículo. Inconstitucionalidade formal. <span style="color:#fb4934">Violação da competência privativa da União para legislar sobre trânsito e transporte.</span>**
+
+_Súmula Vinculante 46: A_ **_definição_** _dos_ **_<span style="color:#83a598">crimes de responsabilidade</span>_** **_e_** _o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa_ **_<span style="color:#83a598">privativa da União</span>_**_._
+
+_**Art. 22, CF/88**. Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo_.
+
+<span style="color:#fe8019">Observe que a delegação de competência privativa da União aos Estados depende de:</span>
+
+- Lei Complementar;
+- Matéria Específica;
+- Se houver delegação a um Estado, deve ser feita a todos os demais.

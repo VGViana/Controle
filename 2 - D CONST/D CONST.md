@@ -1,8 +1,5 @@
 # 🗳️ MOC: DIREITO CONSTITUCIONAL
 
-> [!abstract] "A norma fundamental que fundamenta o Estado Brasileiro."
-> A base de todo o ordenamento jurídico, onde nascem os tributos e as garantias do cidadão.
-
 ---
 
 ## 🧭 MAPA DE CONTEÚDO (CONSTITUIÇÃO)
@@ -21,6 +18,7 @@
 
 ### 3. ORGANIZAÇÃO DO ESTADO
 - [**TGDF**](2.%20TGDF.md) - Teoria Geral da Organização Federativa.
+- [[Organização do Estado]]
 
 ---
 
