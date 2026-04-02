@@ -73,3 +73,7 @@ Se o investimento **<span style="color: #d79921">ultrapassar</span>** um exercí
 Se o investimento **<span style="color:#fb4934">NÃO</span> ultrapassa**r um exercício financeiro, **<span style="color:#fb4934">NÃO</span> precisa** ser incluído do **PPA**.
 
 ⚠️ Atenção especial ao item anterior, pois as bancas costumam fazer um jogo de palavras com o advérbio "NÃO".
+
+princípio orçamentário constitucional da exclusividade: 
+
+> A LOA deve conter apenas matérias atinentes à previsão das receitas e à fixação das  despesas, sendo liberadas, em caráter de exceção, as autorizações para créditos suplementares e  operações de crédito, inclusive por antecipação de receita orçamentária.
