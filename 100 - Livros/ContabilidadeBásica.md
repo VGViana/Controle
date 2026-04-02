@@ -156,4 +156,6 @@ As S.A. de capital aberto (ações na Bolsa) e instituições financeiras devem 
 	- Prejuízos Acumulados
 
 ---
+# 6. Apuração do Resultado e Regimes de Contabilidade
+
 
