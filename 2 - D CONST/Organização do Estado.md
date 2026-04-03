@@ -126,3 +126,119 @@ _**Art. 22, CF/88**. Parágrafo único. Lei complementar poderá autorizar os Es
 - Lei Complementar;
 - Matéria Específica;
 - Se houver delegação a um Estado, deve ser feita a todos os demais.
+
+# **3. Competências Comuns dos Entes Federativos**
+
+I - zelar pela guarda da Constituição, das leis e das instituições democráticas e conservar o patrimônio público;
+
+II - cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de deficiência;
+
+III - proteger os documentos, as obras e outros bens de valor histórico, artístico e cultural, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos;
+
+IV - impedir a evasão, a destruição e a descaracterização de obras de arte e de outros bens de valor histórico, artístico ou cultural;
+
+V - proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à inovação;
+
+VI - proteger o meio ambiente e combater a poluição em qualquer de suas formas;
+
+VII - preservar as florestas, a fauna e a flora;
+
+VIII - fomentar a produção agropecuária e organizar o abastecimento alimentar;
+
+IX - promover programas de construção de moradias e a melhoria das condições habitacionais e de saneamento básico;
+
+X - combater as causas da pobreza e os fatores de marginalização, promovendo a integração social dos setores desfavorecidos;
+
+XI - registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e exploração de recursos hídricos e minerais em seus territórios;
+
+XII - estabelecer e implantar **<span style="color:#fe8019">política de educação para a segurança do trânsito.</span>**
+
+Parágrafo único. Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.
+
+**STF**: é <span style="color:#fb4934">constitucional</span> a instituição, por lei municipal, de feriado local para a comemoração do **Dia da Consciência Negra, a ser celebrado em 20 de novembro**, em especial porque a data representa um símbolo de resistência cultural e configura ação afirmativa contra o preconceito racial.
+
+**STF**: <span style="color:#fb4934">é inconstitucional</span>, por invadir a competência municipal para legislar sobre assuntos de interesse local (CF/1988, art. 30, I e V), <span style="color:#fb4934">lei estadual</span> que concede, por período determinado, <span style="color:#fb4934"><u>isenção das tarifas de água e esgoto e de energia elétrica</u></span> aos consumidores residenciais, industriais e comerciais.
+
+- Verbos no **INFINITIVO: proteger, preservar, combater, impedir**, etc.
+- Cuidado que, apesar desses itens falarem em **recursos hídricos e minerais** e **trânsito**, não são competência somente da União:
+- **Registrar**, **acompanhar** e **fiscalizar** as concessões de direitos de pesquisa e exploração de **recursos hídricos e minerais** em seus territórios;
+- **Estabelecer** e **implantar** política de educação para a segurança no **trânsito**.
+
+**4. Competências legislativas concorrentes**
+
+- **Tri - Fi - Penit - Ec - Ur = CONCORRENTE**
+- **Financeiro**
+- **Econômico, Orçamento**
+- **Urbanístico**
+- **Tributário**
+- **Penitenciário**
+- **Produção** e **Consumo**
+- **Proteção à infância** e à **juventude**
+- Compete à **União**, aos **Estados** e ao Distrito Federal **legislar concorrentemente** X,Y,Z...
+- **limitando-se a União a estabelecer normas gerais**
+- **e cabendo aos Estados exercer competência suplementar.**
+
+👉No âmbito da **legislação concorrente**, **inexistindo lei federal sobre normas gerais**, os **Estados** exercerão a **competência legislativa plena**, para atender a suas peculiaridades.
+
+- Entretanto, a **superveniência** de **lei federal sobre normas gerais SUSPENDE** **a eficácia da lei estadual (não revoga)**, no que lhe for contrário.
+
+**Comparativos Principais**
+
+- **CAP** **-** **C****PC**
+- **União: C****oncessão,** **A****utorização e** **P****ermissão [3]**
+- **Estados:** **C****oncessão [1]**
+- **Municípios: C****oncessão e** **P****ermissão [2]**
+
+- **Meio ambiente:**
+- **Combater, proteger... = comum**
+- **Legislar sobre a proteção = concorrente**
+- **Legislar sobre a responsabilidade = concorrente**
+
+- **SS X PREVIDÊNCIA:**
+- **Seguridade Social = UNIÃO ? Seguridade = saúde + assistência social + previdência**
+- **Previdência = CONCORRENTE**
+
+- **TRANSPORTE**
+- **Transporte União:**
+- **legislar sobre transporte coletivo interestadual**
+- d**iretrizes de desenvolvimento urbano, habitação, saneamento básico e transportes URBANOS**
+- **Privativa à União (legislar)**
+- **Trânsito e transporte**
+
+- **Transporte Estado:**
+- **legislar sobre transporte coletivo** **intermunicipal**
+- **instituição de regras para meia-passagem, em transportes coletivos** **intermunicipais****.**
+
+- **Transporte: Municípios:**
+- **legislar sobre transporte coletivo** **local**
+
+- **TRABALHO, COMÉRCIO, PRODUÇÃO E CONSUMO**
+- **Direito do trabalho = UNIÃO**
+- **Direito comercial (empresarial) = UNIÃO**
+- **Produção e consumo = CONCORRENTE**
+
+- **INFORMÁTICA X TECNOLOGIA**
+- **Informática = UNIÃO**
+- **Tecnologia = CONCORRENTE**
+- **Proporcionar meios de acesso à TECNOLOGIA** **= COMUM**
+
+**CUIDADO:**
+
+Definição do **tempo máximo de espera** de clientes em filas de **instituições** **bancárias** é competência dos **Municípios**.
+
+**STJ Súmula 19**: _A fixação do_ **_horário bancário_**_, para atendimento ao público, é da competência da_ **_União_**.
+
+**STF** **Súmula 646**: **_Ofende_** _o princípio da livre concorrência_ **_lei municipal_** _que_ **_impede a instalação_** _de estabelecimentos comerciais do_ **_mesmo ramo em determinada área_**_._
+
+**STF**: É **inconstitucional lei municipal** que, na **competência legislativa concorrente**, utilize-se do argumento do interesse local para **restringir ou ampliar** as determinações contidas em texto normativo de âmbito nacional.
+
+**5. Competências dos Estados e do Distrito Federal**
+
+_Art. 25.§ 1º, CF/88 São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição._ **(Competência residual)**
+
+_Art. 25.§ 2º, CF/88 Cabe aos Estados explorar diretamente, ou mediante_ **_concessão_**_, os_ **_serviços locais de gás canalizado_**_, na forma da lei,_ **_vedada a edição de medida provisória para a sua regulamentação._**      
+
+_Art. 25.§3º, CF/88 Os Estados poderão, mediante_ **_lei complementar,_** _instituir_ **_regiões metropolitanas_**_, aglomerações urbanas e microrregiões, constituídas por agrupamentos de_ **_municípios limítrofes_**_, para integrar a organização, o planejamento e a_ **_execução de funções públicas de interesse comum._**
+
+- Distrito Federal - competência dos Municípios e Estados, exceto:
+- Manter o Poder Judiciário - Compete à União.
