@@ -159,14 +159,14 @@ Parágrafo único. Leis complementares fixarão normas para a cooperação entre
 
 **STF**: <span style="color:#fb4934">é inconstitucional</span>, por invadir a competência municipal para legislar sobre assuntos de interesse local (CF/1988, art. 30, I e V), <span style="color:#fb4934">lei estadual</span> que concede, por período determinado, <span style="color:#fb4934"><u>isenção das tarifas de água e esgoto e de energia elétrica</u></span> aos consumidores residenciais, industriais e comerciais.
 
-- Verbos no **INFINITIVO: proteger, preservar, combater, impedir**, etc.
-- Cuidado que, apesar desses itens falarem em **recursos hídricos e minerais** e **trânsito**, não são competência somente da União:
-- **Registrar**, **acompanhar** e **fiscalizar** as concessões de direitos de pesquisa e exploração de **recursos hídricos e minerais** em seus territórios;
-- **Estabelecer** e **implantar** política de educação para a segurança no **trânsito**.
+- Verbos no **<span style="color:#b8bb26">INFINITIVO: proteger, preservar, combater, impedir</span>**, etc.
+- Cuidado que, apesar desses itens falarem em **<span style="color:#b8bb26">recursos hídricos e minerais</span>** e **<span style="color:#b8bb26">trânsito</span>**, <span style="color:#fb4934">não são competência somente da União</span>:
+	- **<span style="color:#fb4934">Registrar</span>**, **<span style="color:#fb4934">acompanhar</span>** e **<span style="color:#fb4934">fiscalizar</span>** as concessões de direitos de pesquisa e exploração de **<span style="color:#fb4934">recursos hídricos e minerais</span>** em seus <span style="color:#fb4934">territórios</span>;
+	- **<span style="color:#fb4934">Estabelecer</span>** e **<span style="color:#fb4934">implantar</span>** <span style="color:#fb4934">política de educação para a segurança no</span> **<span style="color:#fb4934">trânsito</span>**.
 
-**4. Competências legislativas concorrentes**
+# **4. Competências legislativas concorrentes**
 
-- **Tri - Fi - Penit - Ec - Ur = CONCORRENTE**
+- **<span style="color:#b8bb26">Tri</span> - <span style="color:#d3869b">Fi</span> - <span style="color:#83a598">Penit</span> - <span style="color:#fe8019">Ec</span> - <span style="color:#fb4934">Ur</span> = CONCORRENTE**
 - **Financeiro**
 - **Econômico, Orçamento**
 - **Urbanístico**
@@ -180,63 +180,69 @@ Parágrafo único. Leis complementares fixarão normas para a cooperação entre
 
 👉No âmbito da **legislação concorrente**, **inexistindo lei federal sobre normas gerais**, os **Estados** exercerão a **competência legislativa plena**, para atender a suas peculiaridades.
 
-- Entretanto, a **superveniência** de **lei federal sobre normas gerais SUSPENDE** **a eficácia da lei estadual (não revoga)**, no que lhe for contrário.
+- Entretanto, a **superveniência** de **lei federal sobre normas gerais <span style="color:#fb4934">SUSPENDE</span>** **a eficácia da lei estadual (não revoga)**, no que lhe for contrário.
 
 **Comparativos Principais**
 
-- **CAP** **-** **C****PC**
-- **União: C****oncessão,** **A****utorização e** **P****ermissão [3]**
-- **Estados:** **C****oncessão [1]**
-- **Municípios: C****oncessão e** **P****ermissão [2]**
+- **<span style="color:#d3869b">CAP</span>** **-** **<span style="color:#b8bb26">C</span><span style="color:#fe8019">PC</span>**
+- **<span style="color:#d3869b">União</span>: <span style="color:#d3869b">C</span>oncessão,** **<span style="color:#d3869b">A</span>utorização e** **<span style="color:#d3869b">P</span>ermissão [3]**
+- **<span style="color:#b8bb26">Estados</span>:** **<span style="color:#b8bb26">C</span>oncessão [1]**
+- **<span style="color:#fe8019">Municípios</span>: <span style="color:#fe8019">C</span>oncessão e** **<span style="color:#fe8019">P</span>ermissão [2]**
 
+---
 - **Meio ambiente:**
-- **Combater, proteger... = comum**
-- **Legislar sobre a proteção = concorrente**
-- **Legislar sobre a responsabilidade = concorrente**
+- **<span style="color:#b8bb26">Combater, proteger... = comum</span>**
+- **<span style="color:#fe8019">Legislar sobre a proteção = concorrente</span>**
+- **<span style="color: #d79921">Legislar sobre a responsabilidade = concorrente</span>**
 
+---
 - **SS X PREVIDÊNCIA:**
-- **Seguridade Social = UNIÃO ? Seguridade = saúde + assistência social + previdência**
-- **Previdência = CONCORRENTE**
+- **<span style="color:#d3869b">Seguridade Social = UNIÃO ? Seguridade = saúde + assistência social + previdência</span>**
+- **<span style="color: #d79921">Previdência = CONCORRENTE*</span>*
 
+---
 - **TRANSPORTE**
-- **Transporte União:**
-- **legislar sobre transporte coletivo interestadual**
-- d**iretrizes de desenvolvimento urbano, habitação, saneamento básico e transportes URBANOS**
-- **Privativa à União (legislar)**
-- **Trânsito e transporte**
+- **<span style="color:#d3869b">Transporte União</span>:**
+- **<span style="color:#d3869b">legislar sobre transporte coletivo interestadual</span>**
+- **<span style="color:#d3869b">diretrizes de desenvolvimento urbano, habitação, saneamento básico e transportes URBANOS</span>**
+- **<span style="color:#d3869b">Privativa à União (legislar)</span>**
+- **<span style="color:#d3869b">Trânsito e transporte</span>**
 
-- **Transporte Estado:**
-- **legislar sobre transporte coletivo** **intermunicipal**
-- **instituição de regras para meia-passagem, em transportes coletivos** **intermunicipais****.**
+---
+- **<span style="color:#b8bb26">Transporte Estado:</span>**
+- **<span style="color:#b8bb26">legislar sobre transporte coletivo</span>** **<span style="color: #d79921"><u>intermunicipal</u></span>**
+- **<span style="color:#b8bb26">instituição de regras para meia-passagem, em transportes coletivos</span>** **<span style="color: #d79921"><u>intermunicipais</u></span>.**
+---
+- **<span style="color:#fe8019">Transporte: Municípios</span>:**
+- **<span style="color:#fe8019">legislar sobre transporte coletivo</span>** **<span style="color: #d79921">local</span>**
 
-- **Transporte: Municípios:**
-- **legislar sobre transporte coletivo** **local**
-
+---
 - **TRABALHO, COMÉRCIO, PRODUÇÃO E CONSUMO**
-- **Direito do trabalho = UNIÃO**
-- **Direito comercial (empresarial) = UNIÃO**
-- **Produção e consumo = CONCORRENTE**
+- **<span style="color:#d3869b">Direito do trabalho = UNIÃO</span>**
+- **<span style="color:#d3869b">Direito comercial (empresarial) = UNIÃO</span>**
+- **<span style="color: #d79921">Produção e consumo = CONCORRENTE</span>**
 
+---
 - **INFORMÁTICA X TECNOLOGIA**
-- **Informática = UNIÃO**
-- **Tecnologia = CONCORRENTE**
-- **Proporcionar meios de acesso à TECNOLOGIA** **= COMUM**
+- **<span style="color:#d3869b">Informática = UNIÃO</span>**
+- **<span style="color: #d79921">Tecnologia = CONCORRENTE</span>**
+- **<span style="color:#b8bb26">Proporcionar meios de acesso à TECNOLOGIA</span>** **= <span style="color:#b8bb26">COMUM</span>**
 
-**CUIDADO:**
+**<span style="color:#fb4934">CUIDADO</span>:**
 
 Definição do **tempo máximo de espera** de clientes em filas de **instituições** **bancárias** é competência dos **Municípios**.
 
-**STJ Súmula 19**: _A fixação do_ **_horário bancário_**_, para atendimento ao público, é da competência da_ **_União_**.
+**<u>STJ Súmula 19</u>**: _A fixação do_ **_horário bancário_**_, para atendimento ao público, é da competência da_ **_União_**.
 
-**STF** **Súmula 646**: **_Ofende_** _o princípio da livre concorrência_ **_lei municipal_** _que_ **_impede a instalação_** _de estabelecimentos comerciais do_ **_mesmo ramo em determinada área_**_._
+**<u>STF</u>** **<u>Súmula 646</u>**: **_Ofende_** _o princípio da livre concorrência_ **_lei municipal_** _que_ **_impede a instalação_** _de estabelecimentos comerciais do_ **_mesmo ramo em determinada área_**_._
 
-**STF**: É **inconstitucional lei municipal** que, na **competência legislativa concorrente**, utilize-se do argumento do interesse local para **restringir ou ampliar** as determinações contidas em texto normativo de âmbito nacional.
+**<u>STF</u>**: É **inconstitucional lei municipal** que, na **competência legislativa concorrente**, utilize-se do argumento do interesse local para **restringir ou ampliar** as determinações contidas em texto normativo de âmbito nacional.
 
-**5. Competências dos Estados e do Distrito Federal**
+# **5. Competências dos Estados e do Distrito Federal**
 
 _Art. 25.§ 1º, CF/88 São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição._ **(Competência residual)**
 
-_Art. 25.§ 2º, CF/88 Cabe aos Estados explorar diretamente, ou mediante_ **_concessão_**_, os_ **_serviços locais de gás canalizado_**_, na forma da lei,_ **_vedada a edição de medida provisória para a sua regulamentação._**      
+_Art. 25.§ 2º, CF/88 Cabe aos Estados explorar diretamente, ou mediante_ **<span style="color:#83a598">_concessão_</span>**_, <span style="color:#83a598">os</span>_ **_<span style="color:#83a598">serviços locais de gás canalizado</span>_**_, na forma da lei,_ **<span style="color:#fe8019"><u>_vedada a edição de medida provisória para a sua regulamentação.</u></span>_**      
 
 _Art. 25.§3º, CF/88 Os Estados poderão, mediante_ **_lei complementar,_** _instituir_ **_regiões metropolitanas_**_, aglomerações urbanas e microrregiões, constituídas por agrupamentos de_ **_municípios limítrofes_**_, para integrar a organização, o planejamento e a_ **_execução de funções públicas de interesse comum._**
 
