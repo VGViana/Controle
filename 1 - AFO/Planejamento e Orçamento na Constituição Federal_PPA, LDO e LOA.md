@@ -152,3 +152,4 @@ Os orçamentos **<span style="color:#fb4934">fiscal e de investimentos</span>**
 |     **LOA**     |                       **<span style="color:#fb4934">4 meses</span>** antes do encerramento exercício financeiro (31/08)                       |                 Encerramento da sessão legislativa (22/12)                 |
 |     **LDO**     |                   **<span style="color:#fb4934">8 meses e meio</span>** antes do encerramento exercício financeiro (15/04)                    |       Encerramento do primeiro período da sessão legislativa (17/07)       |
 
+![[Requisitos para apresentação de emendas ao projeto de LOA.png]]
