@@ -133,13 +133,12 @@ A Lei Orçamentária Anual é a peça pela qual a Administração Pública prev�
 
 A LOA compreende o orçamento de investimentos, da seguridade social e o fiscal.
 
-![[Orçamentos na LOA.png]]
-
 Os orçamentos **<span style="color:#fb4934">fiscal e de investimentos</span>** têm como função **<span style="color:#fb4934">reduzir desigualdades inter-regionais</span>**, segundo **critério** **populacional. ATENÇÃO! O orçamento DA SEGURIDADE SOCIAL (saúde, previdência e assistência social) NÃO TEM ESSA FUNÇÃO!**
+
+![[LOA 2.png]]
 ## Princípio orçamentário constitucional da <span style="color:#d3869b">**exclusividade**</span>
 > A LOA deve conter apenas matérias atinentes à previsão das receitas e à fixação das  despesas, sendo liberadas, em caráter de exceção, as autorizações para créditos suplementares e  operações de crédito, inclusive por antecipação de receita orçamentária.
 
-![[LOA 2.png]]
 # **4. PRAZOS**
 
 É importante que você saiba os prazos de aprovação da LDO, LOA e PPA, veja o quadro abaixo:
