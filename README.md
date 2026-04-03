@@ -11,7 +11,7 @@ Abaixo estão os portais para as principais áreas de estudo. Clique nos links p
 *Foco: CPC 00, Lei 6404 e Princípios Contábeis.*
 - **Resumo:** Estudo da mensuração de ativos, passivos e estruturação de relatórios financeiros. Inclui esquemas visuais de DRE e Equivalentes de Caixa.
 
-### 📜 [1 - D CIV (DIREITO CIVIL)](./1%20-%20D%20CIV/D%20CIV.md)
+### 📜 [1 - D CIV (DIREITO CIVIL)](D%20CIV.md)
 *Foco: Código Civil e Relações Jurídicas.*
 - **Resumo:** Estrutura fundamental das obrigações, contratos e responsabilidade civil.
 
@@ -27,7 +27,7 @@ Abaixo estão os portais para as principais áreas de estudo. Clique nos links p
 *Foco: Normas da NBC e Técnicas de Verificação.*
 - **Resumo:** Procedimentos de fiscalização e validação de demonstrações contábeis.
 
-### 💸 [5 - D TRIB (DIREITO TRIBUTÁRIO)](./5%20-%20D%20TRIB/D%20TRIB.md)
+### 💸 [5 - D TRIB (DIREITO TRIBUTÁRIO)](D%20TRIB.md)
 *Foco: CTN e Legislação Tributária.*
 - **Resumo:** O núcleo do cargo. Tributos, competência, crédito e obrigações tributárias.
 
@@ -35,7 +35,7 @@ Abaixo estão os portais para as principais áreas de estudo. Clique nos links p
 *Foco: Bancos de Dados e Auditoria Digital.*
 - **Resumo:** Ferramentas modernas de fiscalização, SQL, e gestão de dados.
 
-### 🏢 [7 - D EMP (DIREITO EMPRESARIAL)](./7%20-%20D%20EMP/D%20EMP.md)
+### 🏢 [7 - D EMP (DIREITO EMPRESARIAL)](D%20EMP.md)
 *Foco: Direito Societário e Atividade Econômica.*
 - **Resumo:** Tipos de sociedades, títulos de crédito e falência.
 

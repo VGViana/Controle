@@ -19,9 +19,9 @@
 
 ## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)
 
-- 💸 **Ponte para [DIREITO TRIBUTÁRIO](../5%20-%20D%20TRIB/D%20TRIB.md):** O lançamento tributário como ato administrativo vinculado.
+- 💸 **Ponte para [DIREITO TRIBUTÁRIO](D%20TRIB.md):** O lançamento tributário como ato administrativo vinculado.
 - 🗳️ **Ponte para [DIREITO CONST](../2%20-%20D%20CONST/D%20CONST.md):** Fundamentação no Art. 37 da CF/88.
-- 🏢 **Ponte para [DIREITO EMPRESARIAL](../7%20-%20D%20EMP/D%20EMP.md):** A atuação de empresas privadas prestando serviços públicos.
+- 🏢 **Ponte para [DIREITO EMPRESARIAL](D%20EMP.md):** A atuação de empresas privadas prestando serviços públicos.
 
 ---
 [[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)

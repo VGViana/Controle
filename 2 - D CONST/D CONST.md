@@ -24,7 +24,7 @@
 
 ## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)
 
-- 💸 **Ponte para [DIREITO TRIBUTÁRIO](../5%20-%20D%20TRIB/D%20TRIB.md):** O STN e as limitações constitucionais ao poder de tributar.
+- 💸 **Ponte para [DIREITO TRIBUTÁRIO](D%20TRIB.md):** O STN e as limitações constitucionais ao poder de tributar.
 - 🏛️ **Ponte para [DIREITO ADM](../3%20-%20D%20ADM/D%20ADM.md):** Organização da Administração Pública no texto constitucional.
 - 🔍 **Ponte para [AUDITORIA](../4%20-%20AUD/AUD.md):** O controle externo exercido pelo Congresso com o auxílio do TCU.
 
