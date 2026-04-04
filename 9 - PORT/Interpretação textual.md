@@ -1,17 +1,9 @@
 # _**1 - Interpretação Textual**_
 
-O assunto desta atividade é tido como um dos mais intimidadores quando se trata do estudo da língua portuguesa. Sabemos, realmente, que _**<span style="color:#b8bb26">interpretar e compreender textos não é missão das mais simplórias</span>**_. Entretanto, devemos superar quaisquer dificuldades que nos impeçam de lograr êxito quando o tema é a interpretação, haja vista o grande percentual de questões que são cobradas. 
-
-Dito isso, vamos trabalhar! 📖
-
-O primeiro questionamento que pode surgir é: **_é possível aprender interpretação de textos_**? De forma bem objetiva podemos dizer que _**<span style="color:#83a598">é possível</span>**_! Assim como qualquer outra habilidade, por meio da prática é perfeitamente possível que aprimoremos a arte de interpretar. 
-
 _**Afinal, o que significa interpretar**_? 
 - Interpretar significa _**<span style="color:#b8bb26">extrair o sentido</span>**_. Extrair indica que nem sempre o sentido daquilo que está sendo dito está claro, direto, objetivo. Na maioria das vezes, é necessário investigar, analisar a intenção do autor, visualizar a escolha dos termos utilizados, dentre outros fatores.
 
 O intérprete é aquele que vai além da superficialidade das palavras, ou seja, ultrapassa o significado puro dos vocábulos. Você, caro aluno, precisa adotar a **postura de questionador** a fim de **aprofundar o raciocínio** na busca pela <u>mensagem central do texto</u>, aquilo que de fato o autor deseja explorar. 
-
-Como sabemos, o português é uma língua complexa e repleta de termos com variadas significações. Então. até mesmo os textos mais simples não devem dispensar a boa interpretação. 
 
 Vejamos o exemplo a seguir: 
 
