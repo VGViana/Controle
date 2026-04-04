@@ -44,7 +44,7 @@ Em conclusão, os autores assim dizem: "_**para entender qualquer passagem de um
 
 Vale destacar que nem sempre o contexto vem explícito linguisticamente, ou seja, isso vai depender dos elementos que foram utilizados no momento da criação textual.
 
-- **Segunda consideração:** "_**todo texto contém um pronunciamento dentro de um debate de escala mais ampla**._"
+- **Segunda consideração:** "_**<span style="color:#83a598">todo texto contém um pronunciamento dentro de um debate de escala mais ampla</span>**._"
 
 Para os autores, _**o texto sempre é construído para marcar uma posição ou participar de um debate de escala mais ampla**_ em discussão na sociedade. 
 
