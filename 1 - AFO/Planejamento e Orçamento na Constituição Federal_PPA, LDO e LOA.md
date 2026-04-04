@@ -26,7 +26,7 @@ Ainda sobre as 3 leis, **<span style="color:#b8bb26">não há hierarquia formal,
 
 ## **1.1. DEFINIÇÃO**
 
-O PPA traduz-se em instrumento de planejamento **<span style="color:#d3869b">estratégico e de médio</span>** prazo do Governo (duração de quatro anos) e estabelece,  _de forma **regionalizada**, as **diretrizes, objetivos e metas** da administração pública federal para as **despesas de capital e outras delas decorrentes** e para as relativas aos **programas de duração continuada**._
+> O PPA traduz-se em instrumento de planejamento **<span style="color:#d3869b">estratégico e de médio</span>** prazo do Governo (duração de quatro anos) e estabelece,  _de forma **regionalizada**, as **diretrizes, objetivos e metas** da administração pública federal para as **despesas de capital e outras delas decorrentes** e para as relativas aos **programas de duração continuada**._
 
 <u>Definições</u>_:_
 
@@ -74,8 +74,7 @@ Se o investimento **<span style="color:#fb4934">NÃO</span> ultrapassa**r um exe
 
 ⚠️ Atenção especial ao item anterior, pois as bancas costumam fazer um jogo de palavras com o advérbio "NÃO".
 
-princípio orçamentário constitucional da exclusividade: 
-
+---
 ## **1.3. PLANOS  PROGRAMAS NACIONAIS, REGIONAIS E SETORIAIS**
 
 Os planos e programas nacionais, regionais e setoriais serão elaborados em consonância com o PPA e apreciados pelo Congresso Nacional. **Percebeu que não é o PPA que é elaborado em consonância com os planos e programas?** Não confunda, pois pode ser uma pegadinha de questão.
@@ -97,7 +96,7 @@ Investimento = PPA
 
 ## **2.1. DEFINIÇÃO**
 
-_Art. 165 2º A lei de diretrizes orçamentárias compreenderá as **<span style="color:#fb4934">metas e prioridades</span> da administração pública federal, estabelecerá as diretrizes de política fiscal e respectivas metas**, em **<span style="color:#d3869b">consonância com trajetória sustentável da dívida pública</span>**, orientará a elaboração da lei orçamentária anual, disporá sobre as alterações na legislação tributária e estabelecerá a política de aplicação das agências financeiras oficiais de fomento._ 
+> _Art. 165 2º A lei de diretrizes orçamentárias compreenderá as **<span style="color:#fb4934">metas e prioridades</span> da administração pública federal, estabelecerá as diretrizes de política fiscal e respectivas metas**, em **<span style="color:#d3869b">consonância com trajetória sustentável da dívida pública</span>**, orientará a elaboração da lei orçamentária anual, disporá sobre as alterações na legislação tributária e estabelecerá a política de aplicação das agências financeiras oficiais de fomento._ 
 
 **_Metas e prioridades: Administração pública Federal_**
 
