@@ -20,6 +20,7 @@ tags: []
 - [[D TRIB]] **Direito Tributário**
 - [[CONT]] **Contabilidade**
 - [[AUD]] **Auditoria**
+- [[AUD GOV]]
 
 ### 🏢 Direito Privado
 - [[D CIV]] **Direito Civil**
