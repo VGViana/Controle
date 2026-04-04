@@ -7,10 +7,7 @@ Dito isso, vamos trabalhar! 📖
 O primeiro questionamento que pode surgir é: **_é possível aprender interpretação de textos_**? De forma bem objetiva podemos dizer que _**<span style="color:#83a598">é possível</span>**_! Assim como qualquer outra habilidade, por meio da prática é perfeitamente possível que aprimoremos a arte de interpretar. 
 
 _**Afinal, o que significa interpretar**_? 
-
-|                                                                                                                                                                                                                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Interpretar significa _**<span style="color:#b8bb26">extrair o sentido</span>**_. Extrair indica que nem sempre o sentido daquilo que está sendo dito está claro, direto, objetivo. Na maioria das vezes, é necessário investigar, analisar a intenção do autor, visualizar a escolha dos termos utilizados, dentre outros fatores. |
+- Interpretar significa _**<span style="color:#b8bb26">extrair o sentido</span>**_. Extrair indica que nem sempre o sentido daquilo que está sendo dito está claro, direto, objetivo. Na maioria das vezes, é necessário investigar, analisar a intenção do autor, visualizar a escolha dos termos utilizados, dentre outros fatores.
 
 O intérprete é aquele que vai além da superficialidade das palavras, ou seja, ultrapassa o significado puro dos vocábulos. Você, caro aluno, precisa adotar a **postura de questionador** a fim de **aprofundar o raciocínio** na busca pela <u>mensagem central do texto</u>, aquilo que de fato o autor deseja explorar. 
 
