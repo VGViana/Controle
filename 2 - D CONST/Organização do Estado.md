@@ -249,3 +249,59 @@ _Art. 25.§3º, CF/88 Os Estados poderão, mediante_ **_lei complementar,_** _in
 - Distrito Federal - competência dos Municípios e Estados, exceto:
 - Manter o Poder Judiciário - Compete à União.
 
+# **6. Competências dos Municípios**
+
+- Competência exclusiva - interesse local;
+- Competência suplementar - suplementar lei federal ou estadual quando possível.
+
+_Art. 30. Compete aos Municípios:_
+
+_I - legislar sobre assuntos de_ **_interesse local;_**
+
+_II -_ **_suplementar a legislação federal e a estadual_** _no que couber;_
+
+_III - instituir e arrecadar os_ **_tributos de sua competência_**_, bem como aplicar suas rendas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei;_
+
+_IV - criar, organizar e suprimir_ **_distritos_**_,_ **_observada a legislação estadual;_**
+
+_V - organizar e prestar, diretamente ou sob r_**_egime de concessão ou permissão, os serviços públicos de interesse local_**_, incluído o de transporte coletivo, que tem caráter essencial;_
+
+_VI - manter, com a cooperação técnica e financeira da União e do Estado, programas de_ **_educação infantil e de ensino fundamental;_**
+
+_VII - prestar, com a cooperação técnica e financeira da União e do Estado,_ **_serviços de atendimento à saúde da população;_**
+
+_VIII - promover, no que couber, adequado ordenamento territorial, mediante p_**_lanejamento e controle do uso, do parcelamento e da ocupação do solo urbano;_**
+
+_IX - promover a_ **_proteção do patrimônio histórico-cultural local,_** _observada a legislação e a ação fiscalizadora federal e estadual._
+
+**<span style="color:#fb4934"><u>Jurisprudência Importantes</u></span>:**  
+
+STF - A iniciativa de leis que versem sobre matéria tributária é concorrente entre o chefe do Poder Executivo e os membros do Legislativo. A circunstância de as leis que versem sobre matéria tributária poderem repercutir no orçamento do ente federado não conduz à conclusão de que sua iniciativa é privativa do chefe do Executivo" .
+
+Súmula Vinculante nº 46, **“<span style="color:#83a598">a definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União</span>.”**
+
+STF -  **<span style="color:#fb4934">inconstitucional</span>** a lei distrital ou estadual que disponha sobre **<span style="color:#83a598">condições do exercício ou criação de profissão, sobretudo quando esta diga respeito à segurança de trânsito.</span>**
+
+STF - **<span style="color:#fb4934">inconstitucional</span>** lei estadual que **<span style="color:#83a598">limita o valor das quantias cobradas pelo uso de estacionamento.</span>** A inconstitucionalidade da lei estadual **<span style="color: #d79921">se deve ao fato de que é competência privativa da União legislar sobre direito civil</span>.**
+
+STF - **<span style="color:#fb4934">inconstitucional</span>** lei estadual que dispõe sobre **<span style="color:#83a598">atos de juiz, direcionando</span>** **sua atuação em face de situações específicas.** Isso porque **<span style="color: #d79921">compete privativamente à União legislar sobre direito processual</span>.**
+
+STF - **<span style="color:#fb4934">inconstitucional</span>** lei estadual que disciplina o **<span style="color:#83a598">valor que deve ser dado a uma causa.</span>** Novamente, a razão para isso é o fato de que a **<span style="color: #d79921">União tem competência privativa para legislar sobre direito processual</span>.**
+
+STF - **<span style="color:#fb4934">inconstitucional</span>** lei estadual que impõe a **<span style="color:#83a598">obrigatoriedade da prestação de serviço de segurança em estacionamento</span>.** A inconstitucionalidade se deve ao fato de que é **<span style="color: #d79921">competência privativa da União legislar sobre direito civil.</span>**
+
+STF - Súmula Vinculante nº 38. o Município é competente para fixar o horário de funcionamento de estabelecimento comercial Esse entendimento também abrange drogarias, farmácias e plantões obrigatórios destes.
+
+STF - Município é competente para, dispondo sobre a segurança de sua população, impor a estabelecimentos bancários a obrigação de instalarem portas eletrônicas, com detector de metais, travamento e retorno automático e vidros à prova de balas.
+
+**<span style="color:#fb4934">STF - fixação do horário de funcionamento das agências bancárias, por estar relacionado ao sistema financeiro nacional, extrapola o interesse local.</span>** Portanto, não é de competência dos Municípios**.**
+
+**<span style="color:#83a598">STF - Município é competente para legislar sobre</span>** **<span style="color:#83a598">limite de tempo de espera em fila dos usuários dos serviços prestados pelos cartórios localizados no seu respectivo território, sem que isso represente ofensa à competência privativa da União para legislar sobre registros públicos</span>.** **<span style="color:#83a598">Também entende a Corte que o Município possui competência para legislar sobre tempo de atendimento em filas nos estabelecimentos bancários, tratando-se de assunto de interesse local, o que não se confunde com a atividade-fim do banco</span>.**
+
+**<span style="color:#83a598">Constitucional</span>** lei estadual que concede **“<span style="color: #d79921">meia passagem” aos estudantes nos transportes coletivos intermunicipais.</span>** Já no caso de serviço de **transporte local,** a competência para dispor a respeito é da **legislação municipal**.
+
+**<span style="color:#fb4934">Inconstitucional</span>** lei municipal que **<span style="color:#83a598">obriga ao uso de cinto de segurança e proíbe transporte de menores de 10 anos no banco dianteiro dos veículos</span>**, **<span style="color: #d79921">por ofender à competência privativa da União Federal para legislar sobre trânsito (CF, art. 22, XI)</span>**
+
+Súmula Vinculante nº 49 - **<span style="color:#fb4934">Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área</span>.**
+
+STF - Município é competente para **<span style="color:#83a598">legislar sobre meio ambiente, <u>desde que haja interesse local</u></span>.**
