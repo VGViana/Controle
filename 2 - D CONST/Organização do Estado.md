@@ -248,3 +248,4 @@ _Art. 25.§3º, CF/88 Os Estados poderão, mediante_ **_lei complementar,_** _in
 
 - Distrito Federal - competência dos Municípios e Estados, exceto:
 - Manter o Poder Judiciário - Compete à União.
+
