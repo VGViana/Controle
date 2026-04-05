@@ -305,3 +305,39 @@ STF - Município é competente para, dispondo sobre a segurança de sua populaç
 Súmula Vinculante nº 49 - **<span style="color:#fb4934">Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área</span>.**
 
 STF - Município é competente para **<span style="color:#83a598">legislar sobre meio ambiente, <u>desde que haja interesse local</u></span>.**
+
+# **<u>Intervenção Federal, Estadual e Controle da Intervenção</u>**
+
+-Presidente da República **decreta;**
+
+-Apenas nos casos **taxativos.**
+
+- **<span style="color:#83a598"><u>ESPONTÂNEA</u></span>** **<span style="color: #d79921">União</span> >>** **<span style="color:#d3869b"><u>Estados</u></span>**
+
+**Integridade, Invasão, Grave, Finanças**
+
+- **<span style="color:#83a598">Reorganizar</span>** **as** **<span style="color:#83a598">finanças</span>** **do Estado**
+- **<span style="color:#fb4934">Suspender</span>** **o pagamento de dívida fundada por mais de** **<span style="color:#fb4934">2 anos seguidos</span>,** **<u>salvo motivo de força maior</u>;**
+- **<span style="color:#fb4934">Não</span>** **entregar aos Municípios no prazo legal a** **<span style="color:#fb4934">receita tributária</span>**
+- **Manter a** **<span style="color:#83a598">integridade nacional</span>**
+- **Repelir** **<span style="color:#83a598">invasão estrangeira ou de um Estado no outro</span>;**
+- **Por fim a** **<span style="color:#fb4934">grave</span>** **<span style="color:#83a598">comprometimento da Ordem da República</span>**
+
+- **<span style="color:#b8bb26"><u>PROVOCADA</u></span>** **<span style="color: #d79921">União</span> >>** **<span style="color:#d3869b"><u>Estados</u></span>**
+- **Assegurar os** **<span style="color:#b8bb26">Princípios Sensíveis</span>** **(ensino, saúde, autonomia, direitos, forma rep...)**
+- **Garantir o** **<span style="color:#b8bb26">livre exercício</span>** **de qualquer dos Poderes, DEPENDE:**
+	- **De** **<span style="color: #d79921">solicitação</span>** **do Poder Legislativo ou do Poder Executivo coacto ou impedido;**
+	- **De** **<span style="color:#fb4934">requisição</span>** **do STF se a coação for contra o Poder Judiciário.**
+- **<span style="color:#b8bb26">Promover</span>** **a execução de** **<span style="color:#b8bb26">lei federal ou decisão judicial</span>**
+
+**<span style="color: #d79921">Atenção</span>**: No caso de **desobediência de decisão judicial** - **<span style="color:#fb4934">depende</span>** **<u>requisição</u> do STF, STJ ou TSE.**
+
+**<span style="color: #d79921">Atenção</span>**: Para **assegurar princípios constitucionais sensíveis ou no caso de recusa a execução de lei federal** - **<span style="color:#fb4934">depende</span>** de **<u>provimento</u> pelo STF, de <u>representação</u> do PGR**
+
+- **Intervenção** **<span style="color:#d3869b"><u>Estados</u></span>>>** **<span style="color:#83a598">Municípios</span>**
+- **<span style="color:#d3869b">Governador Decreta</span>**
+- **Município parar de pagar por** **<span style="color:#d3869b">2 anos seguidos</span>** **a dívida fundada**
+- **Município** **<span style="color:#d3869b">não prestar contas</span>** **na forma da lei**
+- **Município** **<span style="color:#d3869b">não aplica</span>** **o mínimo exigido de receita municipal na** **saúde e no ensino**
+- **Para assegurar os** **<span style="color:#d3869b">princípios da Constituição Estadual</span> >>** **DEPENDE: provimento do TJ e representação do PGJ**
+- **Promover a** **<span style="color:#d3869b">execução de lei, ordem ou decisão judicial</span> >>** **DEPENDE: provimento do TJ e representação do PGJ**
