@@ -28,6 +28,59 @@ Os Estados poderão, mediante <span style="color:#83a598">**lei complementar**</
 
 - Súmula Vinculante no 39: “Compete <u>privativamente à União</u> legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal”. 
 
+Em Municípios com <span style="color:#83a598">**mais de 200.000 eleitores**</span>, a eleição do Prefeito e Vice-Prefeito ocorrerá pelo <span style="color:#83a598">**sistema majoritário de 2 (dois) turnos.**</span> Em Municípios com <span style="color:#fb4934">**menos de 200.000 eleitores**</span>, a eleição se dará pelo sistema <span style="color:#fb4934">**<u>majoritário simples</u>**</span>. 
+
+# Julgamento do Prefeito: 
+
+- Nos crimes de competência da Justiça comum estadual, o Prefeito será processado e julgado pelo Tribunal de Justiça; 
+
+- Nos crimes eleitorais, a competência será do Tribunal Regional Eleitoral;
+
+- Nos crimes federais, a competência será do Tribunal Regional Federal;
+
+- Nos crimes de responsabilidade <span style="color:#83a598">**próprios**</span>, a competência para julgamento do Prefeito será da <span style="color:#83a598">**Câmara Municipal**</span>
+
+- Nos crimes de responsabilidade <span style="color:#fb4934">impróprios</span>, a competência para julgamento do Prefeito será do <span style="color:#fb4934">Poder Judiciário, independentemente do pronunciamento doLegislativo</span>.
+- Os <span style="color:#83a598">Vereadores</span> gozam de inviolabilidade por suas opiniões, palavras e votos(<span style="color:#83a598">imunidade material</span>) no exercício do mandato e na circunscrição do Município.
+
+# Alterações na estrutura da federação
+
+## Envolvendo Estados:
+
+> Art. 18 (...) § 3° Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do <u>Congresso Nacional</u>, por <u>lei complementar</u>.
+
+- A edição da lei complementar é ato discricionário do Congresso Nacional. Assim, mesmo que o resultado do plebiscito seja favorável, o Congresso Nacional não é obrigado a editar a lei complementar.
+- A expressão “população diretamente interessada” abrange toda a população do(s) Estado(s) afetado(s). 
+
+## Envolvendo Municípios:
+
+> Art. 18 (...) § 4° A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por <span style="color:#fb4934">lei estadual, dentro do período determinado por Lei Complementar Federal</span>, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. 
+
+- O art. 18, § 4o, CF/88, é norma de eficácia limitada, uma vez que é exigida a edição de lei complementar federal definindo o período dentro do qual podem ocorrer alterações federativas envolvendo Municípios.
+- Até hoje, a referida <span style="color:#fb4934">lei complementar não foi editada</span>, motivo pelo qual, atualmente, <span style="color:#fb4934">não podem ser criados novos Municípios</span> no Brasil.
+- A edição de <span style="color:#83a598">lei ordinária estadual é ato discricionário da Assembleia</span> Legislativa. 
+
+# Bens Públicos
+
+> Art. 20. São bens da União:
+>  I - os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos;
+>  II - as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções militares, das vias federais de comunicação e à preservação ambiental, definidas em lei; 
+>  III - os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem mais de um Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham, bem como os terrenos marginais e as praias fluviais; 
+>  IV - as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a sede de Municípios, exceto aquelas áreas afetadas ao serviço público e a unidade ambiental federal, e as referidas no art. 26, II; 
+>  V - os recursos naturais da plataforma continental e da zona econômica exclusiva; 
+>  VI - o mar territorial; 
+>  VII - os terrenos de marinha e seus acrescidos; 
+>  VIII - os potenciais de energia hidráulica; 
+>  IX - os recursos minerais, inclusive os do subsolo; 
+>  X - as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos; 
+>  XI - as terras tradicionalmente ocupadas pelos índios. (...) 
+
+> Art. 26. Incluem-se entre os bens dos Estados: 
+> I - as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas, neste caso, na forma da lei, as decorrentes de obras da União; 
+> II - as áreas, nas ilhas oceânicas e costeiras, que estiverem no seu domínio, excluídas aquelas sob domínio da União, Municípios ou terceiros; 
+> III - as ilhas fluviais e lacustres não pertencentes à União; 
+> IV - as terras devolutas não compreendidas entre as da União. 
+
 
 **<span style="color:#83a598">Todos os entes federais são dotados de autonomia.</span>**
 
