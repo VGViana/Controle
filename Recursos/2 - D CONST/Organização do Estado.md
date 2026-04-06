@@ -60,6 +60,7 @@ Em Municípios com <span style="color:#83a598">**mais de 200.000 eleitores**</sp
 - Até hoje, a referida <span style="color:#fb4934">lei complementar não foi editada</span>, motivo pelo qual, atualmente, <span style="color:#fb4934">não podem ser criados novos Municípios</span> no Brasil.
 - A edição de <span style="color:#83a598">lei ordinária estadual é ato discricionário da Assembleia</span> Legislativa. 
 
+![[Alterações na estrutura das federações.png]]
 # Bens Públicos
 
 > Art. 20. São bens da União:
@@ -80,6 +81,9 @@ Em Municípios com <span style="color:#83a598">**mais de 200.000 eleitores**</sp
 > II - as áreas, nas ilhas oceânicas e costeiras, que estiverem no seu domínio, excluídas aquelas sob domínio da União, Municípios ou terceiros; 
 > III - as ilhas fluviais e lacustres não pertencentes à União; 
 > IV - as terras devolutas não compreendidas entre as da União. 
+
+![[Bens Públicos.png]]
+
 
 
 **<span style="color:#83a598">Todos os entes federais são dotados de autonomia.</span>**
@@ -109,6 +113,12 @@ Técnicas de Repartição:
     - CF/88: Competências Exclusivas e Competências Privativas.
 - **↑ <span style="color:#b8bb26">Repartição Vertical</span>** - os entes federativos **<span style="color:#fb4934">agem conjuntamente</span>**.
     - CF/88: Competências Comuns e Competências Concorrentes.
+
+
+![[Repartição de competências.png]]
+
+![[Repartição de competencias na federação brasileira.png]]
+
 
 # **1. Competências Exclusivas da União**
 
