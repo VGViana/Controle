@@ -1,3 +1,23 @@
+Não se pode confundir federação e confederação. 
+- ○ A <span style="color:#83a598">federação</span> é uma união indissolúvel de <span style="color:#83a598">entes autônomos</span>, que tem como fundamento uma Constituição.
+- ○ A <span style="color:#b8bb26">confederação</span> é uma reunião de <span style="color:#b8bb26">Estados soberanos</span>, baseada em um tratado internacional. 
+
+Em uma federação, os entes federativos são dotados de autonomia política, a qual se manifesta por meio de 4 (quatro) capacidades: 
+- Auto-organização
+- Autolegislação
+- Autoadministração
+- Autogoverno
+
+Características de uma federação: 
+- Repartição constitucional de competências.
+- Indissolubilidade do vínculo federativo. Em uma federação, <span style="color:#fb4934">**não há direito de secessão.**</span>
+- Nacionalidade única. 
+- <span style="color:#83a598">**Rigidez constitucional**</span>.
+- Existência de mecanismo de intervenção, a fim de se proteger o pacto federativo.
+- Existência de Tribunal federativo. No Brasil, os conflitos federativos envolvendo União e Estados são competência do STF.
+- Participação dos entes federativos na formação da vontade nacional. 
+
+
 **<span style="color:#83a598">Todos os entes federais são dotados de autonomia.</span>**
 
 - E para que esta fosse assegurada, **a CF/88 estabeleceu a repartição de competências** entre a União, Estados, DF e Municípios.
