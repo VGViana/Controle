@@ -26,7 +26,7 @@ Os Estados organizarão sua Justiça, observados os princípios da Constituiçã
 
 Os Estados poderão, mediante <span style="color:#83a598">**lei complementar**</span>, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum (art. 25, § 3o, CF/88). 
 
-
+- Súmula Vinculante no 39: “Compete <u>privativamente à União</u> legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal”. 
 
 
 **<span style="color:#83a598">Todos os entes federais são dotados de autonomia.</span>**
