@@ -24,8 +24,8 @@ tags: []
 ## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)
 
 - 📒 **Ponte para [CONTABILIDADE](CONT.md):** Auditoria de demonstrações contábeis e evidências de auditoria.
-- 💻 **Ponte para [TI](../6%20-%20%20TI/TI.md):** Auditoria em ambiente de processamento eletrônico de dados (EDP).
+- 💻 **Ponte para [TI](TI.md):** Auditoria em ambiente de processamento eletrônico de dados (EDP).
 - 💸 **Ponte para [DIREITO TRIBUTÁRIO](D%20TRIB.md):** A auditoria fiscal como procedimento para apuração de tributos devidos.
 
 ---
-[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)
+[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](README.md)

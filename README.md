@@ -15,15 +15,15 @@ Abaixo estão os portais para as principais áreas de estudo. Clique nos links p
 *Foco: Código Civil e Relações Jurídicas.*
 - **Resumo:** Estrutura fundamental das obrigações, contratos e responsabilidade civil.
 
-### 🗳️ [2 - D CONST (DIREITO CONSTITUCIONAL)](./2%20-%20D%20CONST/D%20CONST.md)
+### 🗳️ [2 - D CONST (DIREITO CONSTITUCIONAL)](D%20CONST.md)
 *Foco: Constituição Federal e Direitos Fundamentais.*
 - **Resumo:** A "Lei das Leis". O ponto de partida para todas as outras matérias do fisco.
 
-### 🏛️ [3 - D ADM (DIREITO ADMINISTRATIVO)](./3%20-%20D%20ADM/D%20ADM.md)
+### 🏛️ [3 - D ADM (DIREITO ADMINISTRATIVO)](D%20ADM.md)
 *Foco: Atos, Contratos e Agentes Públicos.*
 - **Resumo:** Gestão da máquina pública, princípios da administração e licitações.
 
-### 🔍 [4 - AUD (AUDITORIA)](./4%20-%20AUD/AUD.md)
+### 🔍 [4 - AUD (AUDITORIA)](AUD.md)
 *Foco: Normas da NBC e Técnicas de Verificação.*
 - **Resumo:** Procedimentos de fiscalização e validação de demonstrações contábeis.
 
@@ -31,7 +31,7 @@ Abaixo estão os portais para as principais áreas de estudo. Clique nos links p
 *Foco: CTN e Legislação Tributária.*
 - **Resumo:** O núcleo do cargo. Tributos, competência, crédito e obrigações tributárias.
 
-### 💻 [6 - TI (TECNOLOGIA DA INFORMAÇÃO)](./6%20-%20%20TI/TI.md)
+### 💻 [6 - TI (TECNOLOGIA DA INFORMAÇÃO)](TI.md)
 *Foco: Bancos de Dados e Auditoria Digital.*
 - **Resumo:** Ferramentas modernas de fiscalização, SQL, e gestão de dados.
 

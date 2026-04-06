@@ -13,15 +13,15 @@
 - [**BI e DW**](6.%20BI%20e%20DW.md) - Business Intelligence e Data Warehousing para análise fiscal.
 - [[7. Modelagem Multidimensional]]
 ### 2. FERRAMENTAS PRÁTICAS
-- [**5. SQL**](./5.%20SQL.md) - A linguagem essencial para extração de dados de contribuintes.
+- [**5. SQL**](5.%20SQL.md) - A linguagem essencial para extração de dados de contribuintes.
 
 ---
 
 ## 🌉 NOTAS-PONTE (INTERDISCIPLINARIDADE)
 
-- 🔍 **Ponte para [AUDITORIA](../4%20-%20AUD/AUD.md):** Auditoria de sistemas e validação de bases de dados fiscais.
+- 🔍 **Ponte para [AUDITORIA](AUD.md):** Auditoria de sistemas e validação de bases de dados fiscais.
 - 📒 **Ponte para [CONTABILIDADE](CONT.md):** O SPED e a escrituração digital contábil.
-- 🏛️ **Ponte para [DIREITO ADM](../3%20-%20D%20ADM/D%20ADM.md):** Proteção de dados (LGPD) e transparência pública.
+- 🏛️ **Ponte para [DIREITO ADM](D%20ADM.md):** Proteção de dados (LGPD) e transparência pública.
 
 ---
 [[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](../../README.md)
