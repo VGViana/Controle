@@ -38,3 +38,78 @@ O princípio do **<span style="color:#b8bb26">Orçamento Bruto</span>** está di
 > _Art. 6º Todas as receitas e despesas constarão da Lei de Orçamento pelos seus totais,_ _vedadas quaisquer deduções_.
 
 _🎯<span style="color:#fb4934">Não confunda o princípio do Orçamento Bruto com o da Universalidade, aquele veda explicitamente deduções no orçamento.</span>_
+
+# **5. PRINCÍPIO DA ESPECIFICAÇÃO**
+
+Veja as exceções do princípio da **<span style="color:#83a598">especificação</span>**:
+
+![[Exceções ao princípio da especificação.png]]
+
+⚠️Programas especiais de trabalho são despesas de capital de investimentos
+
+O princípio da especificação está estabelecido na Lei nº 4.320/64 e chamamos sua atenção para o Art. 15:
+
+> _Art. 15. Na Lei de Orçamento a discriminação da despesa far-se-á no_ _mínimo por elementos._
+
+**<span style="color:#fb4934">Não é suficiente dominar o entendimento desse princípio à luz da Lei 4.320/64; mas também a aplicação dele pela portaria STN e SOF 163/2001</span>:**
+
+> _Art. 6° Na lei orçamentária, a discriminação da despesa, quanto à sua **natureza**, far-se-á, no **mínimo**, por **<span style="color:#fb4934">categoria econômica, grupo de natureza de despesa e modalidade</span>** de aplicação._
+
+⚠️Fique atento ao que pede o enunciado da questão que trata do princípio da especificação. 
+
+# **6. PRINCÍPIO DA EXCLUSIVIDADE OU PUREZA**
+
+Outro princípio muito importante é o da **<span style="color:#fe8019">exclusividade</span>**, você precisa saber as exceções e que esse princípio possui status constitucional.
+
+> _§ 8º A lei orçamentária anual não conterá dispositivo estranho à_ _previsão da receita e à fixação da despesa,_ _não se incluindo na proibição a autorização para abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei._
+
+É necessário saber todas as exceções dos princípios orçamentários. As exceções ao princípio da exclusividade são:
+
+1. **Autorização para abertura de créditos suplementares.** 
+2. **Autorização contratação de operações de crédito (INCLUSIVE ARO)**
+
+![[Exceções ao princípio da exclusividade-1.png]]
+
+⚠️Atente-se ao fato que os créditos especiais e extraordinários **<span style="color:#fb4934">não são exceções</span>** ao princípio da exclusividade.
+
+# **7. PRINCÍPIO DA NÃO VINCULAÇÃO DA RECEITA DE IMPOSTOS**
+
+O princípio da **<span style="color:#fe8019">não vinculação da receita de impostos</span>** tem detalhes importantes que você precisa saber.
+
+🎯Primeiro tenha consciência de que ele está relacionado aos **impostos**, então fique alerta para as questões que generalizam, relacionando esse princípios aos tributos, está errado. 
+
+Além disso, esse **princípio tem status constitucional:**
+
+> _Art. 167. São vedados:_
+
+> _IV - a vinculação de receita de_ **_impostos_** _a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. 198, § 2º, 212 e 37, XXII, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo;_  
+
+Atenção, concurseiro, é muito importante que você memorizar as exceções, lembre-se do seguinte mnemônico_:_ **<span style="color:#fb4934">_RESAGAGA_</span>**  
+  
+
+| **<span style="color:#fb4934">EXCEÇÕES DO PRINCÍPIO DA NÃO AFETAÇÃO DAS RECEITA DE IMPOSTOS</span>**                        |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| Repartição constitucional do produto da arrecadação dos **<span style="color:#d3869b">impostos</span>**                     |
+| Destinação de recursos para manutenção e desenvolvimento do **<span style="color:#d3869b">ensino</span>**                   |
+| Destinação de recursos para as ações e serviços públicos de **<span style="color:#d3869b">saúde</span>**                    |
+| Destinação de recursos para a realização de atividade da **<span style="color:#d3869b">administração tributária</span>**    |
+| Prestação de garantias às operações de crédito por **<span style="color:#d3869b">antecipação de receita (ARO)</span>**      |
+| Prestação de **<span style="color:#d3869b">garantia ou contragarantia</span>** à União e pagamento de débitos para com esta |
+
+R - Repartição
+E - Ensino
+S - Saúde
+A - Administração Tributária
+GA - Garantia às ARO
+GA - Garantia ou contragarantia à União
+
+# **8. PRINCÍPIO DA PROIBIÇÃO DO ESTORNO**
+
+Outro princípio importante que você deve saber é o da **<span style="color:#d3869b">Proibição do Estorno</span>**, o qual está na CF88:
+
+> _Art. 167. São vedados: [...]_  
+>> _VI - a_ _transposição, o remanejamento ou a transferência_ _de recursos de uma categoria de programação para outra ou de um órgão para outro,_ **_sem prévia autorização legislativa_**_;_
+
+Fique ligado que há uma **<span style="color:#fb4934">exceção</span>** a esse princípio: não é necessário autorização legislativa para as atividades de **<span style="color:#fb4934">CIÊNCIA, TECNOLOGIA E INOVAÇÃO</span>.**
+
+**Mnemônico: <span style="color:#fb4934">CTI</span>**
