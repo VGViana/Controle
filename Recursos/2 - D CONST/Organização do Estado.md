@@ -435,3 +435,16 @@ STF - Município é competente para **<span style="color:#83a598">legislar sobre
 - **Município** **<span style="color:#d3869b">não aplica</span>** **o mínimo exigido de receita municipal na** **saúde e no ensino**
 - **Para assegurar os** **<span style="color:#d3869b">princípios da Constituição Estadual</span> >>** **DEPENDE: provimento do TJ e representação do PGJ**
 - **Promover a** **<span style="color:#d3869b">execução de lei, ordem ou decisão judicial</span> >>** **DEPENDE: provimento do TJ e representação do PGJ**
+
+![[intervenção.png]]
+
+![[intervenção 2.png]]
+
+![[intervenção federal.png]]
+
+![[intervenção federal 2.png]]
+
+![[intervenção federal 3.png]]
+
+![[Intervenção estadual.png]]
+
