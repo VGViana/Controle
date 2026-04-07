@@ -35,6 +35,6 @@ Atenção também para a **diferença** entre as exceções dos princípios da *
 
 O princípio do **<span style="color:#b8bb26">Orçamento Bruto</span>** está discriminado na Lei nº 4.320/64:
 
-- _Art. 6º Todas as receitas e despesas constarão da Lei de Orçamento pelos seus totais,_ _vedadas quaisquer deduções__._
+> _Art. 6º Todas as receitas e despesas constarão da Lei de Orçamento pelos seus totais,_ _vedadas quaisquer deduções_.
 
 _🎯<span style="color:#fb4934">Não confunda o princípio do Orçamento Bruto com o da Universalidade, aquele veda explicitamente deduções no orçamento.</span>_
