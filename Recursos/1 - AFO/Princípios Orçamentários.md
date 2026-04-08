@@ -112,3 +112,39 @@ Outro princípio importante que você deve saber é o da **<span style="color:#d
 Fique ligado que há uma **<span style="color:#fb4934">exceção</span>** a esse princípio: não é necessário autorização legislativa para as atividades de **<span style="color:#fb4934">CIÊNCIA, TECNOLOGIA E INOVAÇÃO</span>.**
 
 **Mnemônico: <span style="color:#fb4934">CTI</span>**
+
+# **9. PRINCÍPIO DA PUBLICIDADE E TRANSPARÊNCIA**
+
+Princípio da Publicidade = DIVULGAÇÃO DAS INFORMAÇÕES
+
+Princípio da Transparência = AMPLA DIVULGAÇÃO
+
+⭕De acordo com o ENAP, os princípios orçamentários **modernos** são **<span style="color:#d3869b">simplificação, descentralização e responsabilização.</span>**
+
+# **10. PRINCÍPIO DO EQUILÍBRIO**
+
+**A <span style="color: #d79921">regra de ouro</span> está relacionada ao princípio do equilíbrio e está expressa na CF88:**  
+  
+> _Art. 167. São vedados:_
+>> _III - a realização de operações de créditos que_ **<span style="color:#fb4934">excedam o montante das despesas de capital</span>**, _ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por_ _maioria **absoluta**;_   
+  
+Atenção para as exceções da regra de ouro:
+
+| **Créditos suplementares**<br>e especiais | - _Finalidade precisa_<br>- _Aprovados pelo Poder Legislativo por_ **<span style="color:#d3869b">_maioria absoluta_</span>** |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+
+**<span style="color:#fb4934">O princípio do equilíbrio (em sentido</span> <span style="color: #d79921">formal</span>)** visa assegurar que as despesas autorizadas não serão superiores à previsão das receitas na lei orçamentária anual.
+
+**<span style="color:#fb4934">O princípio do equilíbrio em sentido</span> <span style="color:#b8bb26">material</span>** veda a realização de operações de créditos que **excedam o montante das despesas de capital,** ressalvadas as autorizadas mediante créditos suplementares ou especiais (regra de ouro).  
+
+| **PRINCÍPIO**            | **REGRA**                                                                                                                                    | **EXCEÇÃO**                                                                                                                                                     |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Anualidade**           | LOA deve se referir a um período (exercício financeiro).                                                                                     | Créditos especiais e extraordinários abertos nos últimos 4 meses.                                                                                               |
+| **Unidade**              | Apenas uma LOA por exercício financeiro.                                                                                                     | -                                                                                                                                                               |
+| **Universalidade**       | Todas as receitas e despesas devem constar na LOA.                                                                                           | Receitas e despesas extraorçamentárias.                                                                                                                         |
+| **Orçamento Bruto**      | As receitas e despesas devem constar na LOA pelos seus totais, vedadas deduções.                                                             | -                                                                                                                                                               |
+| **Especificação**        | Vedadas dotações globais na LOA.                                                                                                             | PET e reserva de contingência.                                                                                                                                  |
+| **Exclusividade**        | Deve constar na LOA exclusivamente a previsão de receita e fixação de despesa.                                                               | Autorização para abertura de créditos suplementares e para operação de crédito, inclusive ARO.                                                                  |
+| **Não vinculação**       | Vedada a vinculação de receita de Impostos.                                                                                                  | Transferências constitucionais; despesas com educação; despesas com saúde; despesas administração tributárias e garantias a operação de crédito, inclusive ARO. |
+| **Proibição do estorno** | É vedado o remanejamento, a transposição e a transferência de recursos sem autorização legislativa.                                          | Atividades de ciência, tecnologia e inovação.                                                                                                                   |
+| **Equilíbrio**           | Deve haver equilíbrio entre a receita prevista e a despesa fixada.<br><br>As operações de créditos não podem superar as despesas de capital. | Créditos suplementares e especiais aprovados por maioria absoluta do legislativo                                                                                |
