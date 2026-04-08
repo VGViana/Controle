@@ -81,8 +81,7 @@ O princípio da **<span style="color:#fe8019">não vinculação da receita de im
 Além disso, esse **princípio tem status constitucional:**
 
 > _Art. 167. São vedados:_
-
-> _IV - a vinculação de receita de_ **_impostos_** _a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. 198, § 2º, 212 e 37, XXII, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo;_  
+>> _IV - a vinculação de receita de_ **_impostos_** _a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. 198, § 2º, 212 e 37, XXII, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem como o disposto no § 4º deste artigo;_  
 
 Atenção, concurseiro, é muito importante que você memorizar as exceções, lembre-se do seguinte mnemônico_:_ **<span style="color:#fb4934">_RESAGAGA_</span>**  
   
