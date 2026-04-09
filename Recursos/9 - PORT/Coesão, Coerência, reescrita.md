@@ -60,7 +60,7 @@ Formas remissivas _**referenciais e não-referenciais**_:
 
 _**Coesão sequencial**_
 
-É aquela que "_**diz respeito aos procedimentos linguísticos por meio dos quais se estabelecem diversos tipos de relações semânticas, à medida que se faz o texto progredi****r**_".
+É aquela que "_**diz respeito aos procedimentos linguísticos por meio dos quais se estabelecem diversos tipos de relações semânticas, à medida que se faz o texto progredir**_".
 
 - **Recorrência de termos**: _**Ex.: "E o trem corria, corria, corria...**_"
 - **Recorrência de estruturas**:
@@ -72,9 +72,10 @@ _**Coesão sequencial**_
 - **Recorrência de conteúdos semânticos - Paráfrases**: mesmo conteúdo semântico apresentado sob formas estruturais distintas.
     - _Ex.: "Em todo enunciado, fala-se de um determinado estado de coisas de uma determinada maneira: **isto é, ao lado daquilo que se diz, há o modo como aquilo que se diz é dito"**_. 
 
-## Elementos anafóricos
+## Elementos anafóricos x catafóricos
 
-Fazem referência 
+- Anafóricos: Fazem referência a algo que já foi mencionado anteriormente
+- Catafóricos: Fazem referência a algo que ainda será mencionado 
 
 # **_2 - Coerência_**
 
