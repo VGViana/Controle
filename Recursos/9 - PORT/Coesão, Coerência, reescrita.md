@@ -1,8 +1,7 @@
 # **_1 - Coesão_**
 
-|   |
-|---|
-|**Coesão Textual:** <br><br>- "_**Conceito semântico que se refere às relações de sentido existentes no interior do texto e que o definem como um texto**_".|
+| **Coesão Textual:** <br><br>- "_**Conceito semântico que se refere às relações de sentido existentes no interior do texto e que o definem como um texto**_". |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 _**Halliday & Hasan**_
 
