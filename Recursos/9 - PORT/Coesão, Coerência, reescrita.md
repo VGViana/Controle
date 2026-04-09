@@ -72,6 +72,10 @@ _**Coesão sequencial**_
 - **Recorrência de conteúdos semânticos - Paráfrases**: mesmo conteúdo semântico apresentado sob formas estruturais distintas.
     - _Ex.: "Em todo enunciado, fala-se de um determinado estado de coisas de uma determinada maneira: **isto é, ao lado daquilo que se diz, há o modo como aquilo que se diz é dito"**_. 
 
+## Elementos anafóricos
+
+Fazem referência 
+
 # **_2 - Coerência_**
 
 |   |
