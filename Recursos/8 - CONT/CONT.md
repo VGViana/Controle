@@ -9,10 +9,11 @@
 - [[19. CPC 04 - Ativo Intangível]]
 - [[Ativo não circulante - Investimentos Temporários]]
 - [[CPC 26]]
-- [[6. Demonstração do Resultado do Exercício]]
 
 ### 3. DEMONSTRAÇÕES
+- [[5. Balanço Patrimonial]]
 - [[DFC]]
+- [[6. Demonstração do Resultado do Exercício]]
 - [[DVA]]
 ---
 ## LEIS
