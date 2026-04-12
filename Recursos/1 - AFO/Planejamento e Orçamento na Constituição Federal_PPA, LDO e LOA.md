@@ -26,7 +26,7 @@ Ainda sobre as 3 leis, **<span style="color:#b8bb26">não há hierarquia formal,
 
 ## **1.1. DEFINIÇÃO**
 
-> O PPA traduz-se em instrumento de planejamento **<span style="color:#d3869b">estratégico e de médio</span>** prazo do Governo (duração de quatro anos) e estabelece,  _de forma **regionalizada**, as **diretrizes, objetivos e metas** da administração pública federal para as **despesas de capital e outras delas decorrentes** e para as relativas aos **programas de duração continuada**._
+> O PPA traduz-se em instrumento de planejamento **<span style="color:#d3869b">estratégico e de médio</span>** prazo do Governo (duração de quatro anos) e estabelece,  _de forma **regionalizada**, as **diretrizes, objetivos e metas** da administração pública federal para as **despesas de capital e outras delas decorrentes** e para as relativas aos **programas de duração continuada, sendo matéria tratada por meio de lei complementar**._
 
 <u>Definições</u>_:_
 
@@ -50,6 +50,8 @@ Ainda sobre as 3 leis, **<span style="color:#b8bb26">não há hierarquia formal,
 - Médio Prazo
 - Vigência de 4 anos
 - Sua vigência inicia no segundo ano do mandato do Chefe do Executivo. 
+- Realização de audiências públicas para discutir o PPA com a sociedade
+- Alterações, inclusões e exclusões no PPA e para essas modificações chamamos de revisão. 
 
 **⚠️<span style="color:#fb4934">Não há regra constitucional que determina que o PPA atual deve ser sempre compatível com o PPA anterior!</span>**
 
