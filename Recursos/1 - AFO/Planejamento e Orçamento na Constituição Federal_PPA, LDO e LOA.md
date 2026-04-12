@@ -137,16 +137,6 @@ A LOA compreende o orçamento de investimentos, da seguridade social e o fiscal.
 Os orçamentos **<span style="color:#fb4934">fiscal e de investimentos</span>** têm como função **<span style="color:#fb4934">reduzir desigualdades inter-regionais</span>**, segundo **critério** **populacional. ATENÇÃO! O orçamento DA SEGURIDADE SOCIAL (saúde, previdência e assistência social) NÃO TEM ESSA FUNÇÃO!**
 
 ![[LOA 2.png]]
-## Princípio orçamentário constitucional da <span style="color:#d3869b">**exclusividade**</span>
-> A LOA deve conter apenas matérias atinentes à previsão das receitas e à fixação das  despesas, sendo liberadas, em caráter de exceção, as autorizações para créditos suplementares e  operações de crédito, inclusive por antecipação de receita orçamentária.
-
->> <span style="color:#fb4934">**Exceções**</span>
->> 1. **Autorização para abertura de créditos suplementares.**
->> 2. **Autorização contratação de operações de crédito (INCLUSIVE ARO)**
-
-## Princípio orçamentário constitucional da <span style="color:#fb4934">**universalidade**</span>
-> O orçamento deve conter todas as receitas e  despesas referentes aos Poderes da União, seus fundos, órgãos e entidades da Administração  direta e indireta, ou seja, Ente da Federação que arrecadar tributos pertencentes a outro ente deverá incluir o produto  integral da receita em seu próprio orçamento.
-
 # **4. PRAZOS**
 
 É importante que você saiba os prazos de aprovação da LDO, LOA e PPA, veja o quadro abaixo:
