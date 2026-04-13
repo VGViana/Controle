@@ -6,6 +6,7 @@
 ### 2. ORGANIZAÇÃO
 - [**Entidades Paraestatais**](4.%20Entidades%20Paraestatais%20e%20o%203°%20Setor.md) - Onde a Administração não atua sozinha.
 - [[10. Serviços Públicos]]
+- [[11. PPP]]
 
 ---
 [[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](README.md)
