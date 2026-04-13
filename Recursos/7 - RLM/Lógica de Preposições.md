@@ -194,6 +194,6 @@ Se uma proposição composta apresenta **"n"** proposições, então a tabela v
 
 ## **1.8 Tautologia, Contradição e Contingência**
 
+<span style="color:#b8bb26">Tautologia</span>: é uma proposição cujo valor lógico é sempre verdadeiro.
 <span style="color:#fe8019">Contradição</span>: é uma proposição cujo valor lógico é **sempre falso**.
-
 <span style="color: #d79921">Contingência</span>: é uma proposição cujos valores lógicos podem ser **tanto V quanto F**.
