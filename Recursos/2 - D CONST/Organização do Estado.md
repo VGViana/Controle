@@ -43,7 +43,46 @@ Em Municípios com <span style="color:#83a598">**mais de 200.000 eleitores**</sp
 - Nos crimes de responsabilidade <span style="color:#fb4934">impróprios</span>, a competência para julgamento do Prefeito será do <span style="color:#fb4934">Poder Judiciário, independentemente do pronunciamento doLegislativo</span>.
 - Os <span style="color:#83a598">Vereadores</span> gozam de inviolabilidade por suas opiniões, palavras e votos(<span style="color:#83a598">imunidade material</span>) no exercício do mandato e na circunscrição do Município.
 
+_Art. 31, §§ 1º e 2º da Constituição Federal:_  
+>_Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei._  
+>>_§ 1º - O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver._  
+>>_§ 2º - O parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal._
+
+# Vereadores
+
+o máximo é de **55 vereadores** para municípios com **mais de 8 milhões de habitantes**
+
+
+| **Vereadores (até)** | **Habitantes**           |
+| -------------------- | ------------------------ |
+| 9                    | Até 15.000               |
+| 11                   | + 15.000 a 30.000        |
+| 13                   | + 30.000 a 50.000        |
+| 15                   | + 50.000 a 80.000        |
+| 17                   | + 80.000 a 120.000       |
+| 19                   | + 120.000 a 160.000      |
+| 21                   | + 160.000 a 300.000      |
+| 23                   | + 300.000 a 450.000      |
+| 25                   | + 450.000 a 600.000      |
+| 27                   | + 6000.000 a 750.000     |
+| 29                   | + 750.000 a 900.000      |
+| 31                   | + 900.000 a 1.050 milhão |
+| 33                   | + 1.050 a 1.2 milhão     |
+| 35                   | + 1.2 a 1.350 milhão     |
+| 37                   | + 1.350 a 1.5 milhão     |
+| 39                   | + 1.5 a 1.8 milhão       |
+| 41                   | + 1.8 a 2.4 milhões      |
+| 43                   | + 2.4 a 3 milhões        |
+| 45                   | + 3 a 4 milhões          |
+| 47                   | + 4 a 5 milhões          |
+| 49                   | + 5 a 6 milhões          |
+| 51                   | + 6 a 7 milhões          |
+| 53                   | + 7 a 8 milhões          |
+| 55                   | + de 8 milhões           |
+>Art. 29 (...)
+>VII - o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de **cinco por cento** da receita do Município;
 # Alterações na estrutura da federação
+
 
 ## Envolvendo Estados:
 
@@ -402,6 +441,8 @@ Súmula Vinculante nº 49 - **<span style="color:#fb4934">Ofende o princípio da
 
 STF - Município é competente para **<span style="color:#83a598">legislar sobre meio ambiente, <u>desde que haja interesse local</u></span>.**
 
+A <span style="color:#fb4934">**União detém competência para legislar sobre as normas gerais de licitação**</span>, podendo os Estados e Municípios legislar sobre o tema para complementar as normas gerais e adaptá-las às suas realidades.
+Assim, <span style="color:#d3869b">**lei municipal pode proibir que os agentes políticos do município (e seus parentes) mantenham contrato com o Poder Público municipal.**</span>
 # **<u>Intervenção Federal, Estadual e Controle da Intervenção</u>**
 
 -Presidente da República **decreta;**
