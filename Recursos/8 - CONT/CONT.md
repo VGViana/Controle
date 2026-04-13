@@ -3,7 +3,7 @@
 - [[18. CPC 27 - Ativo Imobilizado]]
 - [[19. CPC 04 - Ativo Intangível]]
 - [[Ativo não circulante - Investimentos Temporários]]
-
+- [[7. Reservas e dividendos]]
 - [[CPC 26]]
 - [[5. Balanço Patrimonial]]
 - [[6. Demonstração do Resultado do Exercício]]
