@@ -208,6 +208,8 @@ Técnicas de Repartição:
 - **<span style="color:#fe8019">Propaganda comercial</span>;**
 - **<span style="color:#fe8019">Serviço postal</span>;**
 - **<span style="color:#fe8019">Proteção e tratamento de dados pessoais</span>.**
+- Desapropriação
+
 
 **Cancelamento de multas de trânsito anotadas em rodovias estaduais em certo período relativas a determinada espécie de veículo. Inconstitucionalidade formal. <span style="color:#fb4934">Violação da competência privativa da União para legislar sobre trânsito e transporte.</span>**
 
