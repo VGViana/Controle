@@ -28,7 +28,7 @@ tags: []
 
 ### 💻 Tecnologia e Ferramentas
 - [[TI]] **Tecnologia da Informação**
-  - [[RLM]]
+- [[RLM]]
 
 ---
 

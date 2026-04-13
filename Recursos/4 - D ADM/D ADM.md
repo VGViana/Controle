@@ -1,11 +1,11 @@
 # 🏛️ MOC: DIREITO ADMINISTRATIVO
 
 > [!abstract] "O conjunto de regras que rege a Administração Pública."
-> Onde o poder se torna dever e a finalidade é o interesse público.
+> Onde o poder se torna dever e a finalidade é o 
 
 ---
 
-## 🧭 MAPA DE CONTEÚDO (CONSTITUIÇÃO)
+
 
 ### 1. ATIVIDADE E ATO
 - [**Atos Administrativos**](6.%20Atos%20Administrativos.md) - Requisitos, atributos, classificação.
