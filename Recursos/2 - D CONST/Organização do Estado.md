@@ -81,7 +81,16 @@ o máximo é de **55 vereadores** para municípios com **mais de 8 milhões de 
 | 55                   | + de 8 milhões           |
 >Art. 29 (...)
 >VII - o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de **cinco por cento** da receita do Município;
+>VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subsequente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos:
+>>f) em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a setenta e cinco por cento do subsídio dos Deputados Estaduais;  
+
+> XIII - **iniciativa popular** de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, **cinco por cento do eleitorado;**
+
+> Art. 29-A (...)
+§1 o A Câmara Municipal não gastará mais de setenta por cento de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores.  
+
 # Alterações na estrutura da federação
+
 
 
 ## Envolvendo Estados:
