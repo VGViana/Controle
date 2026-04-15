@@ -11,3 +11,5 @@
 [[Verbo, Conjunção e Vozes Verbais]]
 
 [[Sintaxe]]
+
+[[Semântica, Tipos de discurso e Tipologia e Gênero Textual]]
