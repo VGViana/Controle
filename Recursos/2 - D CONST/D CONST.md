@@ -19,6 +19,7 @@
 ### 3. ORGANIZAÇÃO DO ESTADO
 - [**TGDF**](2.%20TGDF.md) - Teoria Geral da Organização Federativa.
 - [[Organização do Estado]]
+- [[Da organização da Administração Pública]]
 
 ---
 
