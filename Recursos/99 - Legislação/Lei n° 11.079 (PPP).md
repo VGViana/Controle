@@ -1,37 +1,9 @@
 Tags:: #LEI
 Fonte:: [Lei n° 11.079 (PPP)](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm)
-Data:: 12/08/2025 20:30:00
-
-Siga o [@navegamente_](https://instagram.com/navegamente_?igshid=NjIwNzIyMDk2Mg==) para dicas e conteúdo sobre Obsidian e 2° cérebro!
-
-> [!FALE CONOSCO!]- FALE COM O NAVEGAMENTE!
-> Encontrou algum problema ou deseja deixar algum comentário ou sugestão?
-> 
-> Nos avise por [AQUI](mailto:suporte@navegamente.com.br)
-
-> [!IMPORTANT]- AVISO
-> O Navega Lei é projetado para auxiliar o estudo da lei por meio de formatação e referências, com o intuito de facilitar a leitura e o aprendizado.
-> 
-> Qualquer texto presente no Navega Lei não deve ser considerado como base legal para decisões ou ações jurídicas. Se você planeja usar a legislação para fins legais ou profissionais, é crucial verificar sempre a legislação original e atualizada nos órgãos governamentais competentes.
-> 
-> O Navega Lei não substitui a consulta direta à legislação oficial para fins legais.
-
-> [!WARNING]- IMPORTANTE
-> Utilize apenas documentos Navega Lei.
-> 
-> Versões adquiridas por fora podem estar erradas, desatualizadas ou conter arquivos maliciosos (vírus), prejudicando o usuário. Confie apenas na formatação das leis fornecidas através da nossa área de membros.
-
-***
-
-Presidência da República
-
-Casa Civil
-
-Subchefia para Assuntos Jurídicos
 
 LEI N° 11.079, DE 30 DE DEZEMBRO DE 2004
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%"> <tbody> <tr> <td width="49%"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/L11079compilado.htm"> Texto compilado</a></font><p style="text-indent: 0"> <a href="https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/Msg/Vep/VEP-1006-04.htm"> <font face="Arial" size="2"> Mensagem de veto</font></a></p> <p style="text-indent: 0"> <span style="font-size: 10.0pt; font-family: Arial,sans-serif"> <font FACE="Arial" SIZE="2"> <a href="https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htmart186">(Vide Lei n° 14.133, de 2021)</a></font></span></p> <p style="text-indent: 0"> <font face="Arial" size="2"> <a href="https://www.planalto.gov.br/ccivil_03/LEIS/LCP/Lcp214.htmart513">(Vide Lei Complementar n° 214, de 2025)</a> <a href="https://www.planalto.gov.br/ccivil_03/LEIS/LCP/Lcp214.htmart544-3">Produção de efeitos</a></font></p> </td> <td width="51%"> <p style="text-align: justify; text-indent:0"> <font color="800000" face="Arial" size="2"> Institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública.</font></p> </td> </tr> </tbody> </table>
+ Institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública.
 
 O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
