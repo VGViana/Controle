@@ -7,6 +7,7 @@
 - [[CPC 26]]
 - [[5. Balanço Patrimonial]]
 - [[6. Demonstração do Resultado do Exercício]]
+- [[DLPA]]
 - [[DVA]]
 - [[DFC]]
 
