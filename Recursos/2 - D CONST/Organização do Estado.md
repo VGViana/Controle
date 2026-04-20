@@ -448,6 +448,8 @@ STF - Município é competente para, dispondo sobre a segurança de sua populaç
 
 Súmula Vinculante nº 49 - **<span style="color:#fb4934">Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área</span>.**
 
+STF - É **comum** aos poderes Executivo **(decreto)** e Legislativo **(lei formal)** a competência destinada a denominação de próprios, vias e logradouros públicos e suas alterações, cada qual no âmbito de suas atribuições.
+
 STF - Município é competente para **<span style="color:#83a598">legislar sobre meio ambiente, <u>desde que haja interesse local</u></span>.**
 
 A <span style="color:#fb4934">**União detém competência para legislar sobre as normas gerais de licitação**</span>, podendo os Estados e Municípios legislar sobre o tema para complementar as normas gerais e adaptá-las às suas realidades.
