@@ -4,36 +4,27 @@ aliases: []
 tags: []
 ---
 
-# 🏛️ Constituição Naveável: Fisco
 
 > *"A ordem é a base de toda virtude."*
 ---
 
 ### 🏛️ Fundamentos do Estado
 
-- [[D CONST]] **Direito Constitucional**
-- [[D ADM]] **Direito Administrativo**
+- [[D CONST]] 
+- [[D ADM]] 
 -  [[AFO]]
 - [[APU]]
 
 ### ⚖️ Núcleo Fiscal e Tributário
-- [[D TRIB]] **Direito Tributário**
-- [[CONT]] **Contabilidade**
-- [[AUD]] **Auditoria**
+- [[D TRIB]] 
+- [[CONT]] 
+- [[AUD]] 
 - [[AUD GOV]]
 
 ### 🏢 Direito Privado
-- [[D CIV]] **Direito Civil**
-- [[D EMP]] **Direito Empresarial**
+- [[D CIV]] 
+- [[D EMP]] 
 
 ### 💻 Tecnologia e Ferramentas
-- [[TI]] **Tecnologia da Informação**
+- [[TI]] 
 - [[RLM]]
-
----
-
-## 📜 Legislação e Referência
-
-- [[CF]] - *Constituição Federal (Texto Integral/Resumo)*
-- [[CTN]] - *Código Tributário Nacional*
-- [[A fazer]] - *Inbox e Tarefas pendentes*
