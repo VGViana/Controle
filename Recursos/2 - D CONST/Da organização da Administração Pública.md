@@ -395,3 +395,155 @@ _Art. 40, § 4º, CF/88._ _É_ **_vedada_** _a adoção de requisitos ou critér
 -Cada ente federativo estabelecerá se instituirá ou não o abono de permanência.
 
 **Pensão por morte** não poderá ser inferior a um salário mínimo.
+
+# **<u>Responsabilidade Civil do Estado</u>**
+
+_Art.37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direito privado_ **_prestadoras de serviços públicos_** **<span style="color:#fe8019">_responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros_</span>**_, <u>assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.</u>_
+
+<u>Pessoas Jurídicas</u>:
+
+- Direito Público
+- Direito Privado - quando prestadoras de serviços público, mesmo que não integrem a Administração Indireta
+
+# **<span style="color:#d3869b">1. Teoria do Risco Administrativo</span>**  
+
+- Adotada no Brasil como regra.  
+    
+- Estado deve indenizar, <u>independente de culpa.</u>  
+    
+- <span style="color:#fe8019">Responsabilidade objetiva</span>.  
+    
+- Fato do serviço + nexo de causalidade + dano.  
+    
+- ADMITE excludente de responsabilidade.
+    - Culpa **exclusiva** da vítima;
+    - **Caso fortuito ou força maior;**
+    - Fato **exclusivo** de terceiros.
+- Abrange usuários e não usuários do serviço público.
+
+Há o **<span style="color:#83a598">direito de regresso do Estado</span>**, este poderá ser ressarcido pelo servidor público que cometeu dano, caso tenha agido por dolo ou culpa, em razão do princípio da indisponibilidade do interesse público.
+
+# **<span style="color:#d3869b">2. Responsabilidade civil por ato jurisdicional</span>**
+
+- erro judiciário;
+- prisão além do tempo fixado na sentença;
+- condutas dolosas praticadas pelo juiz que causem prejuízos à parte ou terceiros;
+
+# **<span style="color:#d3869b">3. Responsabilidade civil por ato legislativo</span>**
+
+- edição de lei inconstitucional;
+- edição de leis de efeitos concretos;
+- omissão legislativa.
+
+# **<u>Administração Tributária</u>** 
+
+- Prioridade dos recursos
+
+_Art. 37, XXII, CF/88 - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão_ **_recursos prioritários para a realização de suas atividades e atuarão de forma integrada_**_, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio._
+
+# **<u>Contrato de desempenho (contrato de gestão)</u>**
+
+- Princípio da Eficiência
+
+_Art. 37, § 8º, CF/88. A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por_ **_objeto a fixação de metas de desempenho para o órgão ou entidade_**_, cabendo à lei dispor sobre:_
+
+_I - o prazo de duração do contrato;_
+
+_II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos dirigentes;_
+
+_III - a remuneração do pessoal._
+
+# **<u>Obrigatoriedade de Licitação</u>**
+
+- Princípio da Indisponibilidade do Interesse Público
+
+_Art. 37, XXI, CF/88 - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações._
+
+# **<u>Improbidade Administrativa</u>**
+
+_Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível_.
+
+- **Atos de Improbidade**
+- Enriquecimento Ilícito
+- Prejuízo ao Erário
+- Contra os princípios da Administração Pública
+- **Sanções**
+- SUSPENSÃO dos direitos políticos
+- PERDA da função pública
+- INDISPONIBILIDADE dos bens
+- RESSARCIMENTO ao erário
+
+**<mark style="background:rgba(240, 200, 0, 0.2)">GRAVE</mark>:** Não há pena de cassação dos direitos políticos.
+
+# **<u>Militares dos Estados</u>**
+
+# **<span style="color:#b8bb26">1. Classificação dos Militares</span>**
+
+- **Forças Armadas**: Exército, Marinha e Aeronáutica → Denominados apenas "militares".
+-  **Militares dos Estados**: Policiais Militares (PMs) e Bombeiros Militares (CBMs).
+    -  **<span style="color: #d79921">Polícias Civis</span>**: **<span style="color: #d79921">Não são militares</span>**, <span style="color: #d79921">sendo servidores públicos civis</span>.
+
+# **<span style="color:#b8bb26">2. Acumulação de Cargos Públicos</span>**
+
+-  **Emenda Constitucional nº 101/2019** – Expansão das regras de acumulação:
+- **Antes**: Somente permitido para cargos na área da saúde.
+    - **Agora**: Permitida acumulação com:
+        - **1 cargo de professor**.
+        - **1 cargo técnico ou científico**.
+        - **1 cargo na área da saúde**.
+
+⚠ **<span style="color:#fb4934">Regra Importante</span>**: Deve haver **prevalência da atividade militar**! Não há obrigação de compatibilizar horários.
+
+- **Restrição**: Regra se aplica **apenas aos militares dos Estados**.
+- **Militares das Forças Armadas** **só podem acumular** com cargo na área da saúde.
+
+# **<span style="color:#b8bb26">3. Polícias Militares e Bombeiros Militares</span>**
+
+- São **forças auxiliares e reserva do Exército**.
+- Subordinam-se aos **Governadores dos Estados, do Distrito Federal e dos Territórios**.
+- Competência do **Governador para legislar** sobre o regime jurídico dos militares estaduais e distritais.
+
+#  **<span style="color:#b8bb26">4. Diferença no Distrito Federal</span>**
+
+- A **União** organiza e mantém a PM e o CBM do DF, **mas continuam subordinados ao Governador**.
+
+# **<span style="color:#b8bb26">5. Princípios Estruturantes</span>**
+
+- **Hierarquia e disciplina** → Fundamentos essenciais das Polícias Militares e Bombeiros Militares.
+
+# **<span style="color:#b8bb26">6. Competências</span>**
+
+- **Polícias Militares** → Polícia ostensiva e preservação da ordem pública.
+- **Corpos de Bombeiros Militares** → Defesa civil e prevenção de desastres.
+
+#  **<span style="color:#b8bb26">7. Estatuto dos Militares dos Estados – Regras Constitucionais</span>**
+
+- **CF, Art. 42** – Aplicabilidade de Regras Específicas
+
+# **<span style="color:#b8bb26">8.Elegibilidade de Militares (Art. 14, §8º)</span>**
+
+- **Menos de 10 anos de serviço** → Deve afastar-se da atividade.
+- **Mais de 10 anos de serviço** → Será agregado e, se eleito, passa à inatividade.
+
+# **<span style="color:#b8bb26">9.Aposentadoria e Tempo de Contribuição (Art. 40, §9º)</span>**
+
+- Tempo de contribuição **federal, estadual, distrital ou municipal** será contado para aposentadoria.
+
+# **<span style="color:#b8bb26">10. Habeas Corpus e Punições Disciplinares (Art. 142, §2º)</span>**
+
+- **Não cabe habeas corpus** para punições disciplinares militares.
+- **STF permite controle de legalidade**, mas **não do mérito** da punição.
+
+# **<span style="color:#b8bb26">11. Regras do Art. 142, §3º</span>**
+
+- **Patentes dos oficiais** → Conferidas pelos Governadores.
+- **Posse em cargo público permanente** → Transferência para a reserva (exceto acumulação de cargos na saúde – Art. 37, XVI, “c”).
+- **Posse em cargo público temporário** → Militar fica **agregado** e, após 2 anos de afastamento, **transferido para a reserva**.
+- **Proibição de sindicalização e greve**.
+- **Proibição de filiação partidária** enquanto estiver na ativa.
+- **Aplicação de direitos trabalhistas** → Exemplo: 13º salário, salário-família, férias, licença-maternidade e paternidade.
+
+# **<span style="color:#b8bb26">12. Fim da Prisão Disciplinar - Lei Federal nº 13.967/2019</span>**
+
+- **Extinguiu a prisão disciplinar** para PMs e Bombeiros Militares.
+- Instituiu a necessidade de **Código de Ética e Disciplina** para reger essas corporações.
