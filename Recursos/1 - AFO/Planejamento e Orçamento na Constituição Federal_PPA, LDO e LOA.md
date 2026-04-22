@@ -134,7 +134,8 @@ A Lei Orçamentária Anual é a peça pela qual a Administração Pública prev�
 
 A LOA compreende o orçamento de investimentos, da seguridade social e o fiscal.
 
-Os orçamentos **<span style="color:#fb4934">fiscal e de investimentos</span>** têm como função **<span style="color:#fb4934">reduzir desigualdades inter-regionais</span>**, segundo **critério** **populacional. ATENÇÃO! O orçamento DA SEGURIDADE SOCIAL (saúde, previdência e assistência social) NÃO TEM ESSA FUNÇÃO!**
+Os orçamentos <span style="color:#83a598">**fiscal e de investimentos**</span> têm como função **<span style="color:#83a598">reduzir desigualdades inter-regionais</span>**, segundo <span style="color:#83a598">**critério populacional**</span>.
+- ATENÇÃO! O orçamento <span style="color:#fb4934">**DA SEGURIDADE SOCIAL**</span> (saúde, previdência e assistência social) <span style="color:#fb4934">NÃO TEM ESSA FUNÇÃO</span>!
 
 ![[LOA 2.png]]
 # **4. PRAZOS**
