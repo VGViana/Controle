@@ -55,6 +55,11 @@ Ainda sobre as 3 leis, **<span style="color:#b8bb26">não há hierarquia formal,
 
 **⚠️<span style="color:#fb4934">Não há regra constitucional que determina que o PPA atual deve ser sempre compatível com o PPA anterior!</span>**
 
+### Transparência conforme LRF
+> § 1º A transparência será assegurada também mediante: 
+> I – incentivo à participação popular e realização de audiências públicas, durante os processos de elaboração e discussão dos planos, lei de diretrizes orçamentárias e orçamentos."
+
+
 ## **1.2. INVESTIMENTO**
 
 **Na CF88, há um parágrafo do Art. 167 muito importante e você precisa saber os detalhes para acertar as questões:**
