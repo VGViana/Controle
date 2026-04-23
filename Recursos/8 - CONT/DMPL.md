@@ -9,7 +9,7 @@
 
 - Segundo o CPC 26, a DMPL inclui as seguintes **informações:**
     - O **<span style="color:#83a598">Resultado Abrangente</span>** do Período, apresentando **separadamente:**
-		- Apesar de a DMPL conter o RA, a DRA deve ser uma demonstração separada
+		- Apesar de a DMPL poder conter o RA, a DRA deve ser uma demonstração separada
         - O montante total atribuível aos **proprietários da entidade controladora** e
         - O **montante** correspondente à **participação de não controladores**; _[Esse dado vem da DRA]_
 
