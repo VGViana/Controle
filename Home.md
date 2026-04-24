@@ -15,7 +15,7 @@ tags: []
 -  [[AFO]]
 - [[APU]]
 
-### ⚖️ Núcleo Fiscal e Tributário
+### ⚖️ Núcleo Fiscal e Controle
 - [[D TRIB]] 
 - [[CONT]] 
 - [[AUD]] 
