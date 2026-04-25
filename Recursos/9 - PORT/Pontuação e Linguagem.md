@@ -1,12 +1,6 @@
 # _**1 - Pontuação**_
 
-Conforme bem exemplifica Nina Catach, _**pontuação**_ é “um sistema de reforço da escrita, constituído de sinais sintáticos, destinados a organizar as relações e a proporção das partes do discurso e das pausas orais e escritas. _**Estes sinais também participam de todas as funções da sintaxe**_: _**<span style="color: #d79921">gramaticais, entonacionais e semânticas</span>**_."
-
 Logo, são sinais utilizados para facilitar a estruturação dos termos da mensagem, além de transmitir determinado sentido. Falando em sentido, vejamos os seguintes exemplos:
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - "Deixo meus bens a meu irmão não a meu sobrinho jamais será paga a conta do alfaiate nada dou aos pobres. "<br><br>Sem os devidos sinais de pontuação, esse trecho pode ser motivo de severos entraves. <br><br>_**Para o irmão**_, poderá assim ser entendido: "deixo meus bens a meu irmão, não a meu sobrinho. Jamais será paga a conta do alfaiate. Nada dou aos pobres."<br><br>_**Para o sobrinho**_, o trecho diria o seguinte: "deixo meus bens a meu irmão? Não! A meu sobrinho. Jamais será paga a conta do alfaiate. Nada dou aos pobres."<br><br>_**O Alfaiate**_ também poderia ser beneficiado nessa história, veja: "deixo meus bens a meu irmão? Não! Ao meu sobrinho? Jamais! Será paga a conta do alfaiate. Nada dou aos pobres."<br><br>Por fim, ainda é possível uma última análise, ou seja, _**a herança poderia ser dada aos pobres**_, veja: "deixo meus bens a meu irmão? Não! Ao meu sobrinho? Jamais! Será paga a conta do alfaiate? Nada! Dou aos pobres.” <br><br>_**Fonte: Manual Completo de Português para Concursos.**_ |
 
 São sinais tradicionalmente usados na gramática: 
 
@@ -23,7 +17,7 @@ usado para finalizar orações **interrogativas diretas**. 
 
 - _Ex.: Quando será a próxima prova da RFB?_ 
 
-Ao se deparar com uma **interrogação indireta**, não se deve usar o sinal de interrogação, veja:
+Ao se deparar com uma **<span style="color:#fb4934">interrogação indireta</span>**, <span style="color:#fb4934">não se deve usar o sinal de interrogação</span>, veja:
 
 - _Ex.: Ontem o professor foi à aula e perguntou quando você fará a prova._ 
 
@@ -55,7 +49,7 @@ a vírgula está _**intimamente ligada à sintaxe da língua**_, ou seja, seu us
 
 É importante sabermos que a **estrutura direta da língua** é assim formada: **<mark style="background:rgba(3, 135, 102, 0.2)">SUJEITO + VERBO + COMPLEMENTOS</mark>**.
 
-Se estivermos diante de uma estrutura direta, não há necessidade do uso de vírgulas. Na estrutura indireta, por sua vez, devemos separar o termo deslocado. Note, entretanto, o seguinte:
+Se estivermos diante de uma <span style="color:#fb4934">estrutura direta, não há necessidade do uso de vírgulas</span>. Na estrutura <span style="color:#83a598">indireta, por sua vez, devemos separar o termo deslocado</span>. Note, entretanto, o seguinte:
 
 - _podemos ter situações em que a oração, mesmo na ordem direta, haverá uso de vírgula; e_
 - _haverá situações em que, mesmo na ordem inversa, o uso da vírgula será facultativo_. 
