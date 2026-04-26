@@ -1,5 +1,4 @@
-- [x] 1. Contabilidade básica - Marion
-
+[[Contabilidade Básica]]
 1. Direito Constitucional Esquematizado
 👤 Pedro Lenza
 📅 28ª ed., 2024
