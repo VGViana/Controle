@@ -67,3 +67,60 @@
 [[Lucro Real]]
 [[Prazo Fixo]]
 [[Resultado da Equivalência Patrimonial]]
+
+# Parte II - Ciclo Contábil
+
+## 8. Demonstração dos Fluxos de Caixa e Plano de Contas
+
+[[Codificação do plano de contas]]
+[[DFC]]
+[[Empresas Coligadas]]
+[[Impostos a Recolher]]
+
+## 9. Contabilidade por Balanços Sucessivos
+
+[[Balanços Sucessivos]]
+[[Capital a integralizar]]
+[[Capital Subscrito]]
+[[Contrato Social]]
+
+## 10. Contabilização das Contas de Balanço - Débito e Crédito
+
+[[Crédito]]
+[[Débito]]
+[[Razonete]]
+
+## 11. Balancete de Verificação e Método das Partidas Dobradas
+
+[[Método das Partidas Dobradas]]
+
+## 12. Contabilização de Contas de Resultado e Apuração Contábil do Lucro
+
+[[Caixa(Regime de Caixa)]]
+[[Competência]]
+[[Lucros acumulados]]
+[[Prejuízos Acumulados]]
+[[Reservas de Lucros]]
+
+## 13. Livros Contábeis
+
+[[Diário]]
+[[Diversos]]
+[[Razão]]
+
+## 14. Sistemas Contábeis de Disposições sobre Escrituração Mercantil
+
+[[Lucro Presumido]]
+[[Sociedade Civil]]
+
+## 15. Ativo Não Circulante, Leasing e Depreciação
+
+[[Amortização]]
+[[Depreciação]]
+[[Exaustão]]
+[[Ativo Intangível]]
+
+## 16. Ciclo Contábil e Levantamentos das Demonstrações Financeiras
+
+[[Notas Explicativas]]
+[[Equivalentes de Caixa]]

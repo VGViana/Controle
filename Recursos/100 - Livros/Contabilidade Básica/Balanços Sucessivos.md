@@ -1,0 +1,1 @@
+Elaboração de um novo balanço para cada nova operação empresarial

@@ -1,0 +1,1 @@
+livro ou conjunto de fichas, obrigatório por lei, em que se faz uma descrição sucinta (histórico) de cada operação, evidenciando a data, a conta de [[Débito]] e [[Crédito]] e seu valor em ordem cronológica
