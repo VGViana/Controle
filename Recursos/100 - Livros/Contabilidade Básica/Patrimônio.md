@@ -1,0 +1,1 @@
+conjunto de bens, direitos a receber e obrigações a pagar pertencentes a uma pessoa ou empresa
