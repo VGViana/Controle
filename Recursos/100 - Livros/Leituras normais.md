@@ -1,13 +1,5 @@
 # 📚 Leitura Estratégica
 
-## 🎯 Regras
-- Ler 1 livro por vez
-- 20–40 min por dia
-- Sem pressa
-- Pensar sobre o que leu
-
----
-
 ## 📖 Em andamento
 - [ ] Livro atual:
 
@@ -36,11 +28,3 @@
 - [ ] Grande Sertão: Veredas — Guimarães Rosa  
 
 ---
-
-## 🧠 Notas de Leitura
-
-### Livro:
-- Ideias principais:
-- Trechos importantes:
-- Reflexões:
-- Aplicação na vida:
