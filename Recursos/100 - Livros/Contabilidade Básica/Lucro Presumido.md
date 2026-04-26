@@ -1,0 +1,1 @@
+lucro fiscal (tributário), calculado multiplicando-se um percentual sobre as vendas, servindo de base de cálculo de Imposto de Renda e Contribuição Social para algumas empresas permitido pelo Fisco.

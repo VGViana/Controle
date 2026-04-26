@@ -1,15 +1,7 @@
 # Parte I | Relatórios Contábeis
 ## 1. Contabilidade
 ### Conceito
-
-- Contabilidade é o instrumento que fornece o máximo de informações úteis para a <span style="color:#83a598">**tomada de decisões**</span> 
-- Todas as movimentações passíveis de mensuração monetária são *registradas* pela Contabilidade, que, em seguida, resume os dados registrados em forma de relatórios e os entrega aos interessados em conhecer a situação da empresa
-
-### Pilares da Contabilidade
-
-- A contabilidade repousa, basicamente, em dois pilares da teoria contábil: 
-	- A entidade contábil e
-	- A continuidade da empresa
+#### Pilares da Contabilidade
 
 [[Continuidade]]
 [[Entidade Contábil]]
@@ -18,12 +10,6 @@
 [[Usuários da contabilidade]]
 
 ## 2. Patrimônio
-
-### Conceito
-
-- O termo *patrimônio* tem sentido amplo:
-	- Conjunto de bens e direitos pertencentes a uma pessoa ou empresa;
-	- Obrigações a serem pagas
 
 [[Bens]]
 [[Duplicatas a receber]]
@@ -35,12 +21,49 @@
 
 ### Conceitos
 
-- Dados coletados, apresentados periodicamente aos interessados de maneira resumida e ordenada
-
-### Principais Demonstrações Financeiras
-
+[[Exercício Social]]
+[[Notas Explicativas]]
 [[BP]]
 [[DLPA]]
 [[DRE]]
 [[DFC]]
 [[DVA]]
+
+## 4. Balanço Patrimonial
+
+[[Ativo]]
+[[Capital Social]]
+[[Capital Próprio]]
+[[Capital de Terceiros]]
+[[Equação Contábil]]
+[[Falência]]
+[[Leasing]]
+[[Recuperação Judicial]]
+[[Risco do negócio]]
+
+## 5. Balanco Patrimonial - Grupo de Contas
+
+[[Ativo Circulante]]
+[[Ativo Fixo]]
+[[Capital de Giro]]
+[[Capital Intelectual]]
+[[Fundo de Comércio]]
+[[Goodwill]]
+
+## 6. Apuração do Resultado e Regimes de Contabilidade
+
+[[Ajustes]]
+[[Custo]]
+[[Despesa]]
+[[Receita]]
+
+## 7. Demonstração do Resultado do Exercício
+
+[[Deduções]]
+[[Despesas Operacionais]]
+[[Dividendos]]
+[[Juros de Mora]]
+[[Lucro Presumido]]
+[[Lucro Real]]
+[[Prazo Fixo]]
+[[Resultado da Equivalência Patrimonial]]

@@ -1,0 +1,1 @@
+perigo de perder o dinheiro aplicado

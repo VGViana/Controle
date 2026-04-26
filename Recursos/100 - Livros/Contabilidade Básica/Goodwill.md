@@ -1,0 +1,1 @@
+reputação de um marca e a sua capacidade de gerar lucros futuros
