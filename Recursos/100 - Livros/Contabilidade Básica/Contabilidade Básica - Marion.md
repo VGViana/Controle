@@ -30,3 +30,17 @@
 [[Fornecedores]]
 [[Patrimônio]]
 [[Patrimônio Líquido]]
+
+## 3. Demonstrações Financeiras
+
+### Conceitos
+
+- Dados coletados, apresentados periodicamente aos interessados de maneira resumida e ordenada
+
+### Principais Demonstrações Financeiras
+
+[[BP]]
+[[DLPA]]
+[[DRE]]
+[[DFC]]
+[[DVA]]
