@@ -5,3 +5,5 @@
 - [[7. Modelagem Multidimensional]]
 ### 2. FERRAMENTAS PRÁTICAS
 - [**5. SQL**](5.%20SQL.md) - A linguagem essencial para extração de dados de contribuintes.
+
+- [[Representação de Dados]]
