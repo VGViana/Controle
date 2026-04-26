@@ -1,3 +1,0 @@
-- obrigações reclamáveis
-- No momento em que a dívida vence, sua liquidação é exigida
-- Passivo Exigível
