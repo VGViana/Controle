@@ -1,11 +1,7 @@
 [[Contabilidade Básica - Marion]]
-1. Direito Constitucional Esquematizado
-👤 Pedro Lenza
-📅 28ª ed., 2024
+[[Direito Constitucional Esquematizado - Pedro Lenza]]
 
-2. Curso de Direito Constitucional
-👤 Gilmar Mendes, Paulo Gustavo Gonet Branco
-📅 16ª ed., 2023
+- [ ] 2. Curso de Direito Constitucional 👤 Gilmar Mendes, Paulo Gustavo Gonet Branco 📅 16ª ed., 2023
 
 🔁 LEI BASE (LER EM PARALELO)
 Constituição da República Federativa do Brasil de 1988
