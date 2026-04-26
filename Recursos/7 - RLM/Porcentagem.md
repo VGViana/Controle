@@ -80,7 +80,7 @@ Pf = 10.000 (1+0,10)x(1+0,10) = <span style="color:#b8bb26">R$12.100</span>
 ❗Percebeu a diferença?   
   
 
-## **1.3.2 Descontos**
+### **1.3.2 Descontos**
 
 Exemplo: O preço de uma bicicleta era R$ 200,00. O comerciante deu um desconto à vista de 20%, quanto ficaria o preço final?
 
