@@ -1,10 +1,3 @@
----
-id: FISCAL
-aliases: []
-tags: []
----
-
-
 > *"A ordem é a base de toda virtude."*
 ---
 
