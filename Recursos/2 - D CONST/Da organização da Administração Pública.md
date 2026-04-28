@@ -57,7 +57,7 @@ Regime Jurídico-Administrativo - **apenas normas de direito público** que rege
 
 # **3. Princípios Explícitos da Administração Pública**
 
-- **Previstos na CF/88:** **DECORE****!**
+- **Previstos na CF/88:** **DECORE!**
 - <span style="color:#83a598">Legalidade</span>
 - <span style="color:#83a598">Impessoalidade</span>
 - <span style="color:#83a598">Moralidade</span>
