@@ -28,4 +28,4 @@ tags: []
 - 💸 **Ponte para [DIREITO TRIBUTÁRIO](D%20TRIB.md):** A auditoria fiscal como procedimento para apuração de tributos devidos.
 
 ---
-[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](README.md)
+[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](Estudos/README.md)
