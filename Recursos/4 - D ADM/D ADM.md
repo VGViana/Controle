@@ -8,6 +8,3 @@
 - [[10. Serviços Públicos]]
 - [[11. PPP]]
 - [[12. Convênios]]
-
----
-[[Home|⬅️ Voltar para a Constituição Federal]] | [🏠 Home](Estudos/README.md)
