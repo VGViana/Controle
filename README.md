@@ -38,3 +38,5 @@ Abaixo estão os portais para as principais áreas de estudo. Clique nos links p
 ### 🏢 [7 - D EMP (DIREITO EMPRESARIAL)](D%20EMP.md)
 *Foco: Direito Societário e Atividade Econômica.*
 - **Resumo:** Tipos de sociedades, títulos de crédito e falência.
+
+este é um teste que estou fazendo 
