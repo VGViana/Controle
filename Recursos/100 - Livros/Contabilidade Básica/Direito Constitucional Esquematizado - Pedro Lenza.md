@@ -16,4 +16,7 @@
 ## 1.6 Constitucionalismo popular (Tushnet) - "judicial review" - "teorias do diálogo constitucional" (Bateup) e "os papéis das supremas cortes e tribunais constitucionais nas democracias contemporâneas" (Barroso)
 ### 1.6.2 Supremacia judicial versus soberania judicial: A nossa posição no sentido do diálogo constitucional 
 
-- Souza Neto e Sarmento: "[...] salutar atribuir a um único órgão qualquer a prerrogativa de dar a última palavra sobre o sentido da Constituição. [...] É preferível adotar-se um modelo que não atribua a nenhuma instituição - nem do Judiciário, nem o Legislativo - o "direito de errar por último"
+- Souza Neto e Sarmento: "[...] salutar atribuir a um único órgão qualquer a prerrogativa de dar a última palavra sobre o sentido da Constituição. [...] É preferível adotar-se um modelo que não atribua a nenhuma instituição - nem do Judiciário, nem o Legislativo - o "direito de errar por último" - [[3. DDIC 1]]
+	- Princípio dos freios e contrapesos
+
+
