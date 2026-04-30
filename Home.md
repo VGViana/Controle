@@ -21,3 +21,5 @@
 ### 💻 Tecnologia e Ferramentas
 - [[TI]] 
 - [[RLM]]
+
+teste 1 2 e teste se prepara
