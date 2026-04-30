@@ -11,8 +11,11 @@
     - As Reversões de Reservas e a distribuição do Lucro Líquido do Exercício.
     - As Transferências para Reservas, os Dividendos, a parcela dos lucros incorporada ao Capital e o Saldo ao Fim do Período.
 
-| ⚠️ **<span style="color:#83a598">Ajustes de Exercício Anteriores</span>** considerados na DLPA<br><br>- Decorrentes de efeitos da **Mudança de Critério Contábil.**<br>- Decorrentes da **Retificação de Erro** Imputável a determinado Exercício Anterior.<br>- **<span style="color:#fb4934">Não</span>** possam ser **Atribuídos a Fatos Subsequentes.** |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+⚠️ **<span style="color:#83a598">Ajustes de Exercício Anteriores</span>** considerados na DLPA
+
+- Decorrentes de efeitos da **Mudança de Critério Contábil.**
+- Decorrentes da **Retificação de Erro** Imputável a determinado Exercício Anterior.
+- **<span style="color:#fb4934">Não</span>** possam ser **Atribuídos a Fatos Subsequentes.**
 
 ## Exemplo da Estrutura da DLPA:
 
