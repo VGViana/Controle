@@ -227,9 +227,7 @@ _Art. 37, X, CF/88 - a remuneração dos servidores públicos e o subsídio de q
 
 REMUNERAÇÃO = VENCIMENTOS + VANTAGENS (indenizações, gratificações e adicionais)
 
-_Art. 37, § 9º, CF/88. É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo_
-
-_efetivo._
+_Art. 37, § 9º, CF/88. É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo._
 
 **ATENÇÃO**!
 
