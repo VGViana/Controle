@@ -325,7 +325,7 @@ Empregado público possui estatuto celetista, portanto não é previsto o direit
 - **Disponibilidade** - quando o cargo público é extinto ou houver a declaração de sua desnecessidade, o servidor <u>estável ficará em disponibilidade com remuneração proporcional ao tempo de serviço</u> até haver seu aproveitamento em cargo semelhante;
 - **Aproveitamento** - quando o servidor estável é conduzido a cargo semelhante.
 
-# **<span style="color:#83a598">9. Regime Previdenciário dos Servidores Públicos - RPPS</span>**
+# **9. Regime Previdenciário dos Servidores Públicos - RPPS**
 
 Aplica-se aos **<span style="color:#83a598">SERVIDORES TITULARES DE CARGOS EFETIVOS.</span>**
 
