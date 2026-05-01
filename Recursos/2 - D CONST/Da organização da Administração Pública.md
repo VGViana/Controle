@@ -78,11 +78,10 @@ Regime Jurídico-Administrativo - **apenas normas de direito público** que rege
 _Art. 37, § 1º, CF/88 - A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos._  
 
 - <u>Isonomia</u> - concurso público
-- <u>Os atos praticados pelo servidor público são imputados ao órgão ou entidade pública.</u> Responsabilidade objetiva da Administração Pública.
+- <u>Os atos praticados pelo servidor público são imputados ao órgão ou entidade pública.
+	- </u> Responsabilidade objetiva da Administração Pública.
 
-_Art. 37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a_
-
-_terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa._
+_Art. 37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa._
 
 ## **3.3 Moralidade** 
 
