@@ -457,14 +457,14 @@ _Art. 37, XXI, CF/88 - ressalvados os casos especificados na legislação, as ob
 _Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível_.
 
 - **Atos de Improbidade**
-- Enriquecimento Ilícito
-- Prejuízo ao Erário
-- Contra os princípios da Administração Pública
+	- Enriquecimento Ilícito
+	- Prejuízo ao Erário
+	- Contra os princípios da Administração Pública
 - **Sanções**
-- SUSPENSÃO dos direitos políticos
-- PERDA da função pública
-- INDISPONIBILIDADE dos bens
-- RESSARCIMENTO ao erário
+	- SUSPENSÃO dos direitos políticos
+	- PERDA da função pública
+	- INDISPONIBILIDADE dos bens
+	- RESSARCIMENTO ao erário
 
 **<mark style="background:rgba(240, 200, 0, 0.2)">GRAVE</mark>:** Não há pena de cassação dos direitos políticos.
 
