@@ -172,13 +172,13 @@ Apenas por lei poderá ser exigida a realização do exame psicotécnico em conc
 - não há a necessidade de concurso público
 - o indivíduo contratado não estará submetido ao regime estatutário e nem à CLT.
 - requisitos:
-- Interesse público deve ser excepcional
-- Contratação deve ser por tempo determinado
-- Hipóteses devem estar legalmente previstas
+	- Interesse público deve ser excepcional
+	- Contratação deve ser por tempo determinado
+	- Hipóteses devem estar legalmente previstas
 
 # **<span style="color:#83a598">2. Cargos em comissão e funções de confiança</span>**
 
-![[Cargo em comissão x função de confiança.png]]
+![[Cargo em comissão x função de confiança.png|1120]]
 
 - Nepotismo
 
