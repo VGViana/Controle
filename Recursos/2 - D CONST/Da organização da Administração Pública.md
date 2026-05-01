@@ -1,4 +1,4 @@
-# **<u>Da Administração Pública</u>**
+# **Da Administração Pública**
 
 # **1. Função Administrativa**
 
@@ -46,7 +46,7 @@ C**<span style="color:#83a598">o</span>**ncentração/Desc**<span style="color:#
 
 **<span style="color:#fe8019">Cen</span>**tralização/Des**<span style="color:#fe8019">cen</span>**tralização - **<span style="color:#fe8019">En</span>**tidades Públicas  
 
-## **<u>2.1 Regime Jurídico da Administração x Regime Jurídico-Administrativo</u>**
+## **2.1 Regime Jurídico da Administração x Regime Jurídico-Administrativo**
 
 Regime Jurídico da Administração - normas jurídicas da Administração Pública, podem ser de direito público (ex. quando executar serviços públicos) ou de direito privado (ex. quando praticar atividades econômicas). Consiste no TODO, em t**odas as relações que envolvem a adm. pública.**
 
@@ -110,7 +110,7 @@ Saiba que: o direito de petição é um dos instrumentos para a concretização 
     - Princípio da razoabilidade e da proporcionalidade
     - Princípio da continuidade do serviço público
 
-# **<u>Agentes Públicos</u>**
+# **Agentes Públicos**
 
 - _Art. 37, I, CF/88 - os cargos, empregos e funções públicas são acessíveis aos_ **_brasileiros_** _que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei;_
 - Súmula Vinculante nº 44 (STF): "Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
@@ -126,9 +126,7 @@ Brasileiros (<u>natos ou naturalizados</u>) - podem ocupar cargos públicos na f
 
 Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve haver lei autorizando.**
 
-# **<u>Agentes Públicos</u>**
-
-# **<span style="color:#83a598">1. Concurso Público</span>**
+# **1. Concurso Público**
 
 - _Art. 37, II, CF/88 - a investidura em cargo ou emprego público depende de_ **_aprovação prévia em concurso público de provas ou de provas e títulos_**_, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para_ **_cargo em comissão declarado em lei de livre nomeação e exoneração_**_;_ 
 - Súmula Vinculante nº 43, que diz: “é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, **sem prévia aprovação em concurso público** destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido”.
@@ -176,7 +174,7 @@ Apenas por lei poderá ser exigida a realização do exame psicotécnico em conc
 	- Contratação deve ser por tempo determinado
 	- Hipóteses devem estar legalmente previstas
 
-# **<span style="color:#83a598">2. Cargos em comissão e funções de confiança</span>**
+# **2. Cargos em comissão e funções de confiança**
 
 ![[Cargo em comissão x função de confiança.png|1120]]
 
@@ -184,7 +182,7 @@ Apenas por lei poderá ser exigida a realização do exame psicotécnico em conc
 
 **Súmula Vinculante 13:** Também há vedação à **nomeação cruzada.**
 
-# **<span style="color:#83a598">3. Direitos Sociais dos servidores públicos</span>**
+# **3. Direitos Sociais dos servidores públicos**
 
 Poderá haver:
 
@@ -198,7 +196,7 @@ Ainda não houve a edição da lei específica que rege o direito de greve aos s
 - Poderá haver desconto na remuneração dos servidores durante os dias de greve, exceto se a greve for causada por ato ilícito do Poder Público, como atraso no pagamento das remunerações dos servidores públicos.
 - _A CF proíbe a greve pelos militares e a sindicalização._
 
-# **<span style="color:#83a598">4. Direitos Sociais</span>**
+# **4. Direitos Sociais**
 
 - Salário mínimo
 - Salário nunca inferior ao mínimo - aos que recebem remuneração variável
@@ -213,7 +211,7 @@ Ainda não houve a edição da lei específica que rege o direito de greve aos s
 - Proteção à mulher no mercado de trabalho
 - Proibição de diferenças salariais sexo, idade, cor, estado civil
 
-# **<span style="color:#83a598">5. Remuneração dos Servidores Públicos</span>**
+# **5. Remuneração dos Servidores Públicos**
 
 _Art. 37, X, CF/88 - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;_
 
@@ -251,7 +249,7 @@ _Art. 37, XII, CF/88. - os vencimentos dos cargos do Poder Legislativo e do Pode
 
 Art.37, XV, CF/88. - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I; - Fato que não impede a incidência tributária sob a remuneração.
 
-# **<span style="color:#83a598">6. Acumulação remunerada de cargos, empregos e funções públicas</span>**
+# 6. Acumulação remunerada de cargos, empregos e funções públicas**
 
 Saiba que a proibição de acumulação de cargos públicos é estendida a **toda Administração Pública**, Direta e Indireta, não importado se a entidade é pessoa jurídica de direito público ou privado!
 
@@ -290,9 +288,7 @@ d) <span style="color:#fe8019">profissionais de saúde das Forças Armadas</span
 
 e) <span style="color:#fe8019">militares dos estados e do Distrito Federal</span> se submetem as regras principais de acumulação dos servidores públicos (que listamos acima), com prevalência da atividade militar (Art. 42, § 3º).
 
-# **<u>Agentes Públicos</u>**
-
-# **<span style="color:#83a598">7. Servidores Públicos e Mandato Eletivo</span>**
+# **7. Servidores Públicos e Mandato Eletivo**
 
 - **<span style="color:#83a598">Mandato eletivo federal, distrital ou estadual</span>** - o servidor eleito será afastado do cargo e receberá a remuneração do mandato eletivo;
 - **<span style="color:#b8bb26">Mandato eletivo municipal</span>:**
@@ -301,7 +297,7 @@ e) <span style="color:#fe8019">militares dos estados e do Distrito Federal</span
 
 **<mark style="background:rgba(240, 200, 0, 0.2)">Atenção</mark>**: Nos casos de afastamento para exercício de mandato eletivo, o tempo de serviço no mandato será contado como tempo de serviço, **<span style="color:#fe8019">exceto para promoção por merecimento.</span>**
 
-# **<span style="color:#83a598">8. Regime Jurídico dos Servidores Públicos</span>**
+# **8. Regime Jurídico dos Servidores Públicos**
 
 Deverá ser instituído **<span style="color:#d3869b">regime jurídico único</span>** para os servidores públicos, em cada esfera federativa.
 
