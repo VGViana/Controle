@@ -30,8 +30,8 @@
 - **Autarquias** - pessoas jurídicas de direito públicos **criadas** por lei que exercem atividade administrativas;
 - **Fundações Públicas** - podem ter personalidade jurídica de direito público (consideradas autarquias) que são **criadas** por lei. Ou podem ter personalidade jurídica de direito privado, no caso são **autorizadas** por lei;
 - **Empresas Públicas** - pessoas jurídicas de direito privado que são **autorizadas** por lei e exercem atividade econômica (há empresas públicas que exercem serviços públicos). O capital social deve ser 100% público;
-- **Sociedade de economia mista** - pessoas jurídicas de direito privado que são **autorizadas** por lei e exercem atividade econômica. O capital social deve ser majoritariamente público.  
-    
+- **Sociedade de economia mista** - pessoas jurídicas de direito privado que são **autorizadas** por lei e exercem atividade econômica. O capital social deve ser majoritariamente público.
+
 
  A criação de subsidiárias depende de autorização legislativa.
 
@@ -44,7 +44,7 @@
 
 C**<span style="color:#83a598">o</span>**ncentração/Desc**<span style="color:#83a598">o</span>**ncentração - **<span style="color:#83a598">Ó</span>**rgãos Públicos
 
-**<span style="color:#fe8019">Cen</span>**tralização/Des**<span style="color:#fe8019">cen</span>**tralização - **<span style="color:#fe8019">En</span>**tidades Públicas  
+**<span style="color:#fe8019">Cen</span>**tralização/Des**<span style="color:#fe8019">cen</span>**tralização - **<span style="color:#fe8019">En</span>**tidades Públicas
 
 ## **2.1 Regime Jurídico da Administração x Regime Jurídico-Administrativo**
 
@@ -75,7 +75,7 @@ Regime Jurídico-Administrativo - **apenas normas de direito público** que rege
 - Sentido Restrito - finalidade específica
 - <u>Vedação à promoção especial</u>:
 
-_Art. 37, § 1º, CF/88 - A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos._  
+_Art. 37, § 1º, CF/88 - A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos._
 
 - <u>Isonomia</u> - concurso público
 - <u>Os atos praticados pelo servidor público são imputados ao órgão ou entidade pública.
@@ -239,7 +239,7 @@ Empregados Públicos - apenas há limites ao teto de vencimento quando referente
 
 **Atenção**!
 
-_Art. 37, XII, CF/88. - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo;_  
+_Art. 37, XII, CF/88. - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo;_
 
 - Não pode haver vinculação ou equiparação de remuneração - "aumentos em cascata"
 
@@ -303,8 +303,8 @@ Deverá ser instituído **<span style="color:#d3869b">regime jurídico único</s
 
 ## **8.1 Estágio Probatório**
 
-- O **<span style="color:#fe8019">estágio probatório</span>** começa a partir da **<span style="color:#fe8019">entrada em exercício</span>.**   
-    
+- O **<span style="color:#fe8019">estágio probatório</span>** começa a partir da **<span style="color:#fe8019">entrada em exercício</span>.** 
+
 - O estágio probatório tem uma duração de **<span style="color:#fe8019">três anos <u>de efetivo exercício.</u></span>**
 
 Se o servidor usufruir de licença durante o período de seu estágio probatório, este ficará suspenso durante a licença e será retomado a partir do término do impedimento.
@@ -343,7 +343,7 @@ Aplica-se aos **<span style="color:#83a598">SERVIDORES TITULARES DE CARGOS EFETI
 
 _Art. 40, CF/88. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá_ **<span style="color:#fe8019">_caráter contributivo e solidário_</span>**_, mediante_ **<span style="color:#83a598">_contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas,</span>_** _observados critérios que_
 
-_preservem o equilíbrio financeiro e atuarial._  
+_preservem o equilíbrio financeiro e atuarial._
 
 -**Aposentadoria por** **<span style="color:#fe8019">incapacidade permanente</span>** **para o trabalho**
 
@@ -398,16 +398,16 @@ _Art.37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direi
 - Direito Público
 - Direito Privado - quando prestadoras de serviços público, mesmo que não integrem a Administração Indireta
 
-# **<span style="color:#d3869b">1. Teoria do Risco Administrativo</span>**  
+# **<span style="color:#d3869b">1. Teoria do Risco Administrativo</span>**
 
-- Adotada no Brasil como regra.  
-    
-- Estado deve indenizar, <u>independente de culpa.</u>  
-    
-- <span style="color:#fe8019">Responsabilidade objetiva</span>.  
-    
-- Fato do serviço + nexo de causalidade + dano.  
-    
+- Adotada no Brasil como regra.
+
+- Estado deve indenizar, <u>independente de culpa.</u>
+
+- <span style="color:#fe8019">Responsabilidade objetiva</span>.
+
+- Fato do serviço + nexo de causalidade + dano.
+
 - ADMITE excludente de responsabilidade.
     - Culpa **exclusiva** da vítima;
     - **Caso fortuito ou força maior;**
