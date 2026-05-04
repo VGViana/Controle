@@ -1,6 +1,6 @@
 [[Pontuação e Linguagem]]
 
-[[06 - Pronomes e Colocação Pronominal]]
+[[Pronomes e Colocação Pronominal]]
 
 [[Regência , crase e concordância]]
 

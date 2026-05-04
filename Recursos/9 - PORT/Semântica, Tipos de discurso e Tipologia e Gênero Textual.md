@@ -23,6 +23,8 @@ _**Conotação**_: Representa os **<span style="color:#d3869b">significados subj
 
 - A palavra "rosa" pode conotar romantismo, delicadeza ou até paixão, dependendo do contexto.
 
+A presença do modo imperativo caracteriza a função conativa.
+
 ### **<span style="color:#b8bb26">Teorias de Semântica Lexical</span>** 
 
 A semântica lexical estuda o significado das palavras individualmente e suas relações dentro do léxico de uma língua. Entre os fenômenos mais relevantes, destacam-se:
