@@ -60,3 +60,4 @@
     Para um **programador** que está começando a entender sobre **conversões de sistemas numéricos**, é importante compreender a **lógica por trás do sistema binário** e sua importância na **computação**, visto que muitas **operações em programação** são realizadas em **binário**.  
       
     Além disso, é importante saber como realizar **conversões** entre **sistemas numéricos** para trabalhar com diferentes **formatos de dados** e entender melhor como as **informações são armazenadas e processadas pelo computador**.
+
