@@ -61,3 +61,31 @@
       
     Além disso, é importante saber como realizar **conversões** entre **sistemas numéricos** para trabalhar com diferentes **formatos de dados** e entender melhor como as **informações são armazenadas e processadas pelo computador**.
 
+# **4. Bit de sinal**
+
+- Para um computador conseguir considerar todo o conjunto de números inteiros, foi definido que o primeiro bit é responsável pela definição de sinal.
+
+Sendo o primeiro bit **0 para valores positivos** e **1 para negativos**, este modelo apresenta <u>dois problemas</u>:
+
+1. Dificuldade de subtração;
+2. Duas representações para 0 (100000 e 000000).
+
+![](https://miro.medium.com/v2/resize:fit:500/1*xlLFSSAfDpRagCwDgBsaMA.gif)
+Máquina de 6 bits — Bit de sinal
+
+# **5. Complemento de 1**
+
+- Para facilitar as operações algébricas, foi desenvolvido outro sistema de representação de números inteiros, o qual é conhecido como complemento de 1.
+
+O funcionamento dos positivos é da mesma forma que o modelo “bit de sinal”. Em sua representação negativa o comportamento dos bits é alterando, aonde tinha 0 vira 1, e aonde tinha 1 vira 0. **Assim o negativo de 000011 é 111100.**
+
+![](https://miro.medium.com/v2/resize:fit:500/1*wdCGMu_YAHnDSB3byQb8dQ.gif)
+
+Máquina de 6 bits — Complemento de 1
+
+Mesmo tendo facilitado algumas operações matemáticas, ainda <u>manteve o problema de dupla representação para 0.</u>
+
+# **6. Complemento de 2**
+
+- Aperfeiçoando o modelo anterior, John Von Neuman reestruturou o formato da sequencia dos bits na representação dos números inteiros.
+- Para aproveitar o espaço desperdiçado nos modelos anteriores, aonde existiam duas posições para a representação do 0 (+0 e -0), Neumann propôs um modelo que, além de inverter os bits quando negativos, é adicionado mais 1. **Assim o negativo de 000011 é 111101.** O acréscimo de 1 quando o numero for negativo, permite que com a mesma quantidade de bits possa ser representado um número negativo a mais.
