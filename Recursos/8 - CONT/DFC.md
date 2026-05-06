@@ -194,8 +194,8 @@ A DFC deve **Apresentar os Fluxos de Caixa** do período classificados **por Ati
 - Fluxos de Caixa do **<span style="color:#83a598">IR / CSLL</span>**
     - Devem ser **Divulgados Separadamente**
 
-- - Classificados como **<span style="color:#83a598">Atividade Operacional</span>** (Regra)  
-        - **<span style="color:#fb4934">Exceto</span>** se puderem ser **Identificados Especificamente** como **AF ou AI.**
+- Classificados como **<span style="color:#83a598">Atividade Operacional</span>** (Regra)  
+	- **<span style="color:#fb4934">Exceto</span>** se puderem ser **Identificados Especificamente** como **AF ou AI.**
 
 # **6. Transação que Não Envolve** **(CX e EQCX)**
 
