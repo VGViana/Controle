@@ -181,7 +181,7 @@ A DFC deve **Apresentar os Fluxos de Caixa** do período classificados **por Ati
 - **Em Dinheiro** → Atividade de **<span style="color:#83a598">Financiamento</span>.**
 - **Com Bens** → **<span style="color:#fb4934">Não</span> é Fluxo de Caixa.**
 
-**5.5.4. Juros, Juros sobre Capital Próprio (JCP) e Dividendos**
+### **5.5.4. Juros, Juros sobre Capital Próprio (JCP) e Dividendos**
 
 |                                                          |             | **CPC Encoraja** | **Alternativa** |
 | -------------------------------------------------------- | ----------- | ---------------- | --------------- |
@@ -189,36 +189,36 @@ A DFC deve **Apresentar os Fluxos de Caixa** do período classificados **por Ati
 |                                                          | Recebimento | Operacional      | Investimento    |
 | **Juros Sobre o Capital Próprio (JCP) e Dividendos**<br> | Pagamento   | Financiamento    | Operacional     |
 |                                                          | Recebimento | Operacional      | Investimento    |
-**5.5.5. Imposto de Renda (IR) e Contribuição Social sobre o Lucro Líquido (CSLL)**
+### **5.5.5. Imposto de Renda (IR) e Contribuição Social sobre o Lucro Líquido (CSLL)**
 
-- Fluxos de Caixa do **IR / CSLL**
+- Fluxos de Caixa do **<span style="color:#83a598">IR / CSLL</span>**
     - Devem ser **Divulgados Separadamente**
 
-- - Classificados como **Atividade Operacional** (Regra)  
-        - **Exceto** se puderem ser **Identificados Especificamente** como **AF ou AI.**
+- - Classificados como **<span style="color:#83a598">Atividade Operacional</span>** (Regra)  
+        - **<span style="color:#fb4934">Exceto</span>** se puderem ser **Identificados Especificamente** como **AF ou AI.**
 
-**6. Transação que Não Envolve** **(CX e EQCX)**
+# **6. Transação que Não Envolve** **(CX e EQCX)**
 
-Transações de **Investimento e Financiamento** **que** **Não envolvem** o uso de **CX e EQCX**
+Transações de **Investimento e Financiamento** **que** **<span style="color:#fb4934">Não envolvem</span>** o uso de **CX e EQCX**
 
-- Devem ser **Excluídas da DFC.**
-- Divulgadas nas **Notas Explicativas.**
+- Devem ser **<span style="color:#fb4934">Excluídas</span> da DFC.**
+- Divulgadas nas **<span style="color:#83a598">Notas Explicativas</span>.**
 - **Exemplos** de Transações:
     - Aquisição de Ativos → Seja pela assunção direta de Passivo ou por meio de Arrendamento.
     - Aquisição de Entidade por meio de Emissão de Instrumentos Patrimoniais.
     - Conversão de Dívida em Instrumentos Patrimoniais.
 
-**7. Métodos de Apresentação da DFC**
+# **7. Métodos de Apresentação da DFC**
 
-**7.1. Método Direto**
+## **7.1. Método Direto**
 
 - As Principais Classes de **Recebimentos Brutos e Pagamentos Brutos** são divulgadas.
-- Caso utilize o Método Direto (apurar Fluxo das AO) ⇒ Deve ser fornecida a **Conciliação entre o Lucro Líquido e o Fluxo de Caixa Líquido** das Atividades Operacionais
+- Caso utilize o Método Direto (apurar Fluxo das AO) ⇒ Deve ser fornecida a **<span style="color:#83a598">Conciliação</span> entre o Lucro Líquido e o Fluxo de Caixa Líquido** das Atividades Operacionais
 
-**-** Aumento do Ativo: **Aplicação** de recursos
+**-** Aumento do Ativo: **<span style="color:#fb4934">Aplicação</span>** de recursos
 
-**-** Diminuição do Ativo: **Origem** de recursos
+**-** Diminuição do Ativo: **<span style="color:#83a598">Origem</span>** de recursos
 
-**-** Aumento do Passivo: **Origem** de recursos
+**-** Aumento do Passivo: **<span style="color:#83a598">Origem</span>** de recursos
 
-**-** Diminuição do Passivo: **Aplicação** de recursos
+**-** Diminuição do Passivo: **<span style="color:#fb4934">Aplicação</span>** de recursos
