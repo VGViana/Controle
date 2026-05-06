@@ -76,3 +76,33 @@ FC = FCO + FCI + FCF
 | ---------- | --------------- | --------------- |
 | AUMENTO    | DIMINUI O CAIXA | AUMENTA O CAIXA |
 | DIMINUIÇÃO | AUMENTA O CAIXA | DIMINUI O CAIXA |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
