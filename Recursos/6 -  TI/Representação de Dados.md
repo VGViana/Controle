@@ -89,3 +89,38 @@ Mesmo tendo facilitado algumas operações matemáticas, ainda <u>manteve o pro
 
 - Aperfeiçoando o modelo anterior, John Von Neuman reestruturou o formato da sequencia dos bits na representação dos números inteiros.
 - Para aproveitar o espaço desperdiçado nos modelos anteriores, aonde existiam duas posições para a representação do 0 (+0 e -0), Neumann propôs um modelo que, além de inverter os bits quando negativos, é adicionado mais 1. **Assim o negativo de 000011 é 111101.** O acréscimo de 1 quando o numero for negativo, permite que com a mesma quantidade de bits possa ser representado um número negativo a mais.
+
+# **7. Aritmética Computacional**
+
+**Adição**: Faça como uma adição normal  
+Regras da adição:  
+0 + 0 = 0  
+0 + 1 = 1  
+1 + 0 = 1  
+1 + 1 = 0, vai um
+
+**Subtração**:
+
+Regras da subtração:  
+0 - 0 = 0  
+0 - 1 = 1, e vem um  
+1 - 0 = 1  
+1 - 1 = 0
+
+**Multiplicação**: Semelhante a multiplicação regular  
+Regras da multiplicação :  
+0 x 0 = 0  
+0 x 1 = 0  
+1 x 0 = 0  
+1 x 1 = 1
+
+**Divisão**: Mesmo processo da divisão com decimais
+
+# **8. Representação de Dados Espaciais**
+
+Os dados espaciais, em SIG, têm dois formatos primários (arranjo de dados para armazenamento ou apresentação): 
+
+- **raster/matricial:** formato matricial é baseado numa estrutura de grade de células;
+- **vector/vetorial**. formato vetorial é mais parecido com um mapa de linhas.
+
+![[Matricial x Vetorial.png]]
