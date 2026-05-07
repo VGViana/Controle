@@ -222,3 +222,42 @@ Transações de **Investimento e Financiamento** **que** **<span style="color:#f
 **-** Aumento do Passivo: **<span style="color:#83a598">Origem</span>** de recursos
 
 **-** Diminuição do Passivo: **<span style="color:#fb4934">Aplicação</span>** de recursos
+
+## **7.2. Método Indireto**
+
+- O Fluxo de Caixa Líquido das Atividades Operacionais é determinado **Ajustando o Lucro Líquido ou Prejuízo** quanto **aos Efeitos de:**
+    - Variações ocorridas nos **Estoques e nas Contas Operacionais a Receber e a Pagar.**
+    - Itens que **<span style="color:#fb4934">Não Afetam o Caixa</span>**
+        - Depreciação
+        - Provisões
+        - Tributos diferidos
+        - Ganhos e perdas cambiais não realizados
+        - Resultado de equivalência patrimonial
+    - Demais itens tratados como **Fluxos de Caixa de AI ou AF.**
+
+⚠️ Método **Direto ou Indireto, só há diferença** no método de contabilização do **Fluxo Operacional.** Os Fluxos de AI e AF são iguais em ambos os Métodos.
+
+### **7.2.1. Fluxo Operacional no Método Indireto**
+
+**<span style="color:#83a598">1° Passo</span>** | **Ajustar o Lucro** com relação aos itens que **<span style="color:#fb4934">Não Afetam o Caixa</span> ou são Fluxos de AI ou AF.** Exemplo:
+
+Lucro Lucro Líquido do Exercício  
+( + ) Depreciação/Amortização/Exaustão  
+(+ / -) Resultado de Equivalência Patrimonial  
+(+ / -) Resultado da Venda de Investimentos, imobilizado e Intangível  
+**<span style="color:#b8bb26">( = ) Lucro Ajustado</span>**
+
+**<span style="color:#83a598">2° Passo</span>** | Procurar as **Contas Operacionais** e fazer o ajuste:
+
+**↑A e ↓P = ↓Caixa** (**<span style="color:#fb4934">Consumo</span>** de Caixa - Aplicação)
+
+**↓A e ↑P = ↑Caixa** (**<span style="color:#83a598">Geração</span>** de Caixa - Origem /  Fonte)
+
+Exemplo:
+
+**<span style="color:#b8bb26">Lucro Ajustado</span>**  
+( – ) **↑** Contas Operacionais do Ativo  
+( + ) **↓** Contas Operacionais do Ativo  
+( + ) **↑** Contas Operacionais do Passivo  
+( – ) **↓** Contas Operacionais do Passivo  
+**<span style="color:#b8bb26">( = ) Caixa Líquido (Gerado / Consumido) pelas Atividades Operacionais</span>**
