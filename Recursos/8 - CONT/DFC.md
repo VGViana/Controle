@@ -1,6 +1,6 @@
 # **1. Objetivo**
 
-Requerer a prestação de informações acerca das **<span style="color:#83a598">Alterações Históricas de Caixa e Equivalentes de Caixa</span>** da entidade por meio de DFC que classifique os **Fluxos de Caixa <span style="color:#83a598">(FCAIXA)</span>** do período por:
+Requerer a prestação de informações acerca das **<span style="color:#83a598">Alterações Históricas de Caixa e Equivalentes de Caixa</span>** da entidade por meio de DFC que classifique os **Fluxos de Caixa <span style="color:#83a598">(FCaixa)</span>** do período por:
 
 - Atividades **Operacionais <span style="color:#83a598">(AO)</span>.**
 - Atividades de **Investimento <span style="color:#83a598">(AI)</span>.**
