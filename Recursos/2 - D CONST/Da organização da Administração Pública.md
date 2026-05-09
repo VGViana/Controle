@@ -249,6 +249,9 @@ _Art. 37, XII, CF/88. - os vencimentos dos cargos do Poder Legislativo e do Pode
 
 Art.37, XV, CF/88. - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I; - Fato que não impede a incidência tributária sob a remuneração.
 
+Art. 37 (...) 
+§ 11. **Não serão computadas**, para efeito dos limites remuneratórios de que trata o inciso XI do caput deste artigo, as **parcelas de caráter indenizatório** expressamente previstas em **<span style="color:#83a598">lei ordinária</span>, <span style="color:#fe8019">aprovada pelo Congresso Nacional</span>, <span style="color:#fb4934">de caráter nacional</span>, aplicada a todos os Poderes e órgãos constitucionalmente autônomos**.
+
 # 6. Acumulação remunerada de cargos, empregos e funções públicas**
 
 Saiba que a proibição de acumulação de cargos públicos é estendida a **toda Administração Pública**, Direta e Indireta, não importado se a entidade é pessoa jurídica de direito público ou privado!
