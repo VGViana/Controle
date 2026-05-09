@@ -46,11 +46,11 @@ Elaboração e Publicação da DFC
   
 📌 **Atividades de Financiamento <span style="color:#83a598">(AF)</span>** ⇒ São aquelas que resultam em **<span style="color:#83a598">Mudanças</span>** no tamanho e na composição do **Capital Próprio e no Capital de Terceiros** da entidade.
 
-# **4. Caixa e Equivalentes de Caixa (CX e EQCX)**
+# **4. Caixa e Equivalentes de Caixa (Cx e EqCx)**
 
 **<span style="color:#83a598">Equivalentes de Caixa</span>** ⇒ Mantidos com a Finalidade de atender a Compromissos de Caixa de Curto Prazo e, Não, para Investimento ou outros propósitos
 
-- Requisitos para que um **<span style="color:#83a598">Investimento seja qualificado como EQCX</span>:**
+- Requisitos para que um **<span style="color:#83a598">Investimento seja qualificado como EqCx</span>:**
     - **Conversibilidade Imediata** em montante conhecido de Caixa
     - **Insignificante Risco de Mudança de Valor**
     - Vencimento de **Curto Prazo (até 3 meses da Aquisição).**
@@ -70,7 +70,7 @@ Elaboração e Publicação da DFC
 
 - Característica desses arranjos → Frequentemente os **saldos flutuam de devedor para credor.**
 
--  **<span style="color:#83a598">Incluídos como CX e EQCX.</span>**
+-  **<span style="color:#83a598">Incluídos como Cx e EqCx.</span>**
     - Ficam no Passivo Circulante, mas **<span style="color:#fb4934">Deduz</span> do Saldo de Disponibilidades.**
         - ⚡ **Questão FGV** [**#1975684**](https://www.tecconcursos.com.br/questoes/1975684)
 
