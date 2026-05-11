@@ -124,3 +124,42 @@ Os dados espaciais, em SIG, têm dois formatos primários (arranjo de dados para
 - **vector/vetorial**. formato vetorial é mais parecido com um mapa de linhas.
 
 ![[Matricial x Vetorial.png]]
+
+# **9. CSV**
+
+- Os valores separados por vírgulas;
+- Arquivo de texto com formato específico;
+- Possibilitar o salvamento dos dados em um formato estruturado de tabela;
+- Formato mais simples possível para se armazenar dados tabulares;
+- Formato aberto
+
+**Estrutura do CSV**
+
+- Um arquivo CSV nada mais é do que uma planilha em texto puro;
+- Cada linha do arquivo é uma linha da planilha, e as colunas de uma linha são separadas por um **delimitador** que normalmente é a vírgula ou o ponto-e-vírgula.
+
+Segue um exemplo de conteúdo de um pequeno arquivo CSV (cidades.csv):
+
+- Repare que, assim como numa planilha convencional (Excel ou Calc), a primeira linha pode conter um cabeçalho que descreve cada coluna.
+- Em inglês, é bom se familiarizar com o termo _header_, o que vem em cima, a primeira linha. Ele vai nomear todas as nossas colunas.
+
+![[CSV.png]]
+
+# **10. XML**
+
+A estrutura dos dados em um arquivo XML é definida por meio do uso de tags (etiquetas) <span style="color: #d79921">iniciadas por <nome_da_tag></span> e finalizadas por <span style="color: #d79921"></nome_da_tag></span> em uma estrutura hierárquica.
+
+- Em XML, as tags não são pré-definidas, mas sim “inventadas” pelo autor do documento.
+- Quando uma <span style="color: #d79921">tag for aberta ele deve ser, obrigatoriamente, fechada.</span>
+
+## **10.1 Quais são as vantagens de usar XML?** 
+
+Dentre os principais benefícios de usar o arquivo, seja para criação ou consulta, podemos destacar as seguintes: 
+
+- **Legibilidade**: o XML é legível tanto por humanos quanto por máquinas. Sua estrutura baseada em tags facilita a compreensão do conteúdo por qualquer pessoa que esteja familiarizada com a sintaxe. 
+- **Independência**: ele é independente de plataforma, o que significa que os dados podem ser trocados entre diferentes sistemas e dispositivos sem problemas de compatibilidade. 
+- **Extensibilidade**: essa é uma opção altamente extensível, permitindo que você defina suas próprias tags e estruturas de dados conforme as necessidades de seu aplicativo ou domínio. 
+- **Suporte a dados hierárquicos**: o XML é bem adequado para representar dados hierárquicos, como configurações de aplicativos. Dessa forma, documentos podem ter relações pai-filho facilmente. 
+- **Interoperabilidade**: esse formato é amplamente adotado e suportado por muitas linguagens de programação, bancos de dados e tecnologias da web, facilitando a integração de sistemas heterogêneos. 
+- **Processamento**: existem várias ferramentas disponíveis para processar e manipular dados XML, como parsers XML, Extensible Stylesheet Language Transformations (XSLT), Simple API for XML (SAX) e Document Object Model (DOM), entre outros. 
+- **Suporte a metadados**: o XML é frequentemente usado para representar metadados em documentos, como informações sobre a estrutura e o conteúdo, facilitando a busca e a indexação.
