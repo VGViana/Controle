@@ -261,3 +261,12 @@ Exemplo:
 ( + ) **↑** Contas Operacionais do Passivo  
 ( – ) **↓** Contas Operacionais do Passivo  
 **<span style="color:#b8bb26">( = ) Caixa Líquido (Gerado / Consumido) pelas Atividades Operacionais</span>**
+
+### Cálculos
+
+$$ 
+Variação~das~ Participações~societárias = (SF - SI) - Resultado~ do~ Método~ de~ Eq~Patrimonial
+$$
+
+$$ 
+Variação~dos~Veículos = (SF - SI) + Depreciação
