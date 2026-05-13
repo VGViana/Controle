@@ -163,3 +163,33 @@ Dentre os principais benefícios de usar o arquivo, seja para criação ou consu
 - **Interoperabilidade**: esse formato é amplamente adotado e suportado por muitas linguagens de programação, bancos de dados e tecnologias da web, facilitando a integração de sistemas heterogêneos. 
 - **Processamento**: existem várias ferramentas disponíveis para processar e manipular dados XML, como parsers XML, Extensible Stylesheet Language Transformations (XSLT), Simple API for XML (SAX) e Document Object Model (DOM), entre outros. 
 - **Suporte a metadados**: o XML é frequentemente usado para representar metadados em documentos, como informações sobre a estrutura e o conteúdo, facilitando a busca e a indexação.
+
+## **10.2. JSON**
+
+JSON e XML são considerados concorrentes – eles possuem diversas semelhanças e diferenças.
+
+## **10.3 JSON vs XML: o duelo**
+
+- Tanta popularidade em torno desse ambiente com o _JavaScript_ como grande ponto central fortaleceu comunidades empenhadas a melhorar todas as tecnologias periféricas.
+- Da mesma forma que o **_Node.js_** tem hoje uma capacidade computacional impressionante, o _JSON_ conseguiu desenvolver-se da mesma forma.
+- Com isso, grandes vantagens que o _XML_ possuía em comparação ao JSON tem caído aos poucos.
+- Exemplos disso são os _XML Schemas_, as transformações _XSLT_ e o _XPath_, que já possuem tecnologias equivalentes no _JSON_ – _JSON Schema_, _JOLT_ _e_ _JSONPath_, respectivamente.
+- A integração com outros ambientes de desenvolvimento também deixou de ser problema. Embora _JSON_ se encaixe muito bem com o _JavaScript_ **(e com _Python_**), isso não era necessariamente verdade em outras linguagens.
+- Porém, a notação hoje conta com centenas de ferramentas de integração em **_C++, Perl, R_** e tantas outras linguagens, encontradas facilmente na **página oficial do formato**.
+
+## **10.4 O que é JSON?**
+
+- O _JSON_ (_JavaScript Object Notation_) é um formato leve de troca de informações entre sistemas, principalmente por meio de _APIs Rest_.
+- Por ser muito leve e fácil de ler, o _JSON_ é amplamente utilizado por aplicações web. Sua capacidade de estruturar informações de maneira compacta é uma característica fundamental que o leva a ser adotado por grandes empresas como **Google** e **Yahoo**.
+- Devido a essa grande popularidade, o _JSON_ já se tornou quase um pré-requisito para qualquer programador. Toda pessoa que trabalha ou deseja trabalhar como desenvolvedor de _softwares_ precisa entender o que ele é e como funciona.
+- Uma confusão muito comum que se faz é assumir que, por ser um formato de representação de dados que se baseia em **JavaScript**, o _JSON_ só pode ser usado com essa linguagem. Não é assim que funciona, a possibilidade de uso dele é muito abrangente.
+- Inclusive, para a maioria das linguagens, são disponibilizados vários _parsers_ diferentes e cada empresa pode implementar seus próprios parsers, com fundamentos distintos.
+
+**<span style="color:#fb4934">Sobre JSON, veja o curto vídeo a seguir:</span> [JSON](https://www.youtube.com/watch?v=H3Q63XyHk20)**
+
+O Javascript possui funções para conversão de arquivos JSON em objetos JavaScript e vice-versa:
+
+- JSON.parse(): converte strings JSON para objetos JavaScritpt.
+- JSON.stringify(): converte um objeto JavaScript para uma string JSON.
+
+⚠️JSON é derivado de JavaScript e <span style="color: #d79921">não de Java</span>.
