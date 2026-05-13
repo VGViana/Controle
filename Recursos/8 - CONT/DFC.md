@@ -264,9 +264,19 @@ Exemplo:
 
 ### Cálculos
 
+
 $$ 
 Variação~das~ Participações~societárias = (SF - SI) - Resultado~ do~ Método~ de~ Eq~Patrimonial
 $$
-
+---
 $$ 
 Variação~dos~Veículos = (SF - SI) + Depreciação
+$$
+---
+$$
+custo~original~do~equipamento - depreciação = valor~contábil~líquido
+$$
+
+$$
+ganho~na~venda=valor~de~venda-valor~contábil~líquido
+$$
