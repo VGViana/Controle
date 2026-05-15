@@ -1,4 +1,5 @@
-- [ ] Ver quem esta no meu grupo
-- 
+# Equipe
 
--[ ] 
+- [ ] Ver quem esta no meu grupo
+# Local 
+
