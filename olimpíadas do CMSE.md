@@ -8,3 +8,4 @@
 
 # Prova
 
+- [ ] os inspecionadores ficam nos vértices para verificar qualquer irregularidade.
