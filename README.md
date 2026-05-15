@@ -11,6 +11,6 @@
 
 ### 🏛️ [3 - AUD GOV (Auditoria Governamental)](AUD%20GOV.md)
 
-### 🔍 [4 - AUD (AUDITORIA)](AUD.md)
+### 🔍 [4 - D ADM (Direito Administrativo)](D%20ADM.md)
 
 ### 💻 [5 - TI (TECNOLOGIA DA INFORMAÇÃO)](TI.md)
