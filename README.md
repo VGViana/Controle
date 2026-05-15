@@ -6,9 +6,9 @@
 
  [ AUD GOV (Auditoria Governamental)](<AUD GOV/>)
 
- [4 - D ADM (Direito Administrativo)](<4 - D ADM/>)
+ [D ADM (Direito Administrativo)](<4 - D ADM/>)
 
- [5 - APU (Administração Pública)](<5 - APU/>)
+ [5 - APU (Administração Pública)](<APU/>)
 
  [6 - TI (Tecnologia da Informação)](<6 - TI/>)
 
