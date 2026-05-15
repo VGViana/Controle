@@ -1,1 +1,4 @@
-- [ ]Ver quem esta no meu grupo
+- [ ] Ver quem esta no meu grupo
+- 
+
+-[ ] 
