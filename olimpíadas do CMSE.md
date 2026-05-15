@@ -1,5 +1,5 @@
 # Equipe
 
-- [ ] Ver quem esta no meu grupo
+- [ ] Ver quem esta no meu grupo e dar as coordenadas
 # Local 
 
