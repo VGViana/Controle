@@ -1,3 +1,11 @@
+---
+nome: AFO
+progresso: 35
+revisao: 2026-05-15
+status: estudando
+cor: yellow
+banner: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40
+---
 [[0. PPA, LDO e LOA]]
 
 [[1. Princípios Orçamentários]]
