@@ -60,23 +60,19 @@ Mas, quando acontece o mês bissexto?
     - ❗Porém, atente-se que os anos que são múltiplos de 100 (por exemplo,1800, 1900, 2100) são exceção e o múltiplos de 400 são exceção da exceção (por exemplo, 1600, 2000, 2400).
 
 Resumindo:
-**Ano múltiplo de 4 = Bissexto   
-Ano múltiplo de 4 e de 100 = Não é bissexto**
-**Ano múltiplo de 4, de 100 e de 400 = Bissexto.**
+**Ano múltiplo de 4 = <span style="color: #d79921">Bissexto</span>   
+Ano múltiplo de 4 e de 100 = <span style="color: #d79921">Não é bissexto</span>**
+**Ano múltiplo de 4, de 100 e de 400 = <span style="color: #d79921">Bissexto</span>.**
 
 ![[Cálculo de dias no mês.png]]
 
 ![[Cálculo de dias no calendário.png]]
 
-**3. PRINCÍPIO DA CASA DOS POMBOS**
+# **3. PRINCÍPIO DA CASA DOS POMBOS**
 
 - Aqui temos um princípio matemático que descreve uma propriedade básica dos números inteiros. Ele afirma que se você colocar mais de um objeto em menos espaços do que o número total de objetos, então pelo menos um dos espaços deve conter mais de um objeto.
-- Exemplo: Imagine que temos que estacionar 5 carros em 4 garagens, veja que obrigatoriamente pelo menos uma garagem terá 2 carros ou mais. Não acredita? Pode tentar aí testar as possibilidades rs.
+- Exemplo: Imagine que temos que estacionar 5 carros em 4 garagens, veja que obrigatoriamente <span style="color:#83a598">pelo menos uma garagem terá 2 carros ou mais</span>.
 
 ⚠️ Lembre-se que, apenas com essas informações do nosso exemplo, não é possível fazer outras afirmações como: a quantidade de carros por estacionamento, quantos estacionamentos vão ter 2 ou mais carros entre outras. O que podemos afirmar é que pelos uma garagem terá ao menos 2 carros. 
 
 ❗A**⚡Questão [#695108](https://www.tecconcursos.com.br/questoes/695108)** mostra uma abordagem desse tópico.
-
-**4. OUTROS PROBLEMAS DE LÓGICA** 
-
-- As questões desse tópico não apresentam regras especificas para a resolução. Sugerimos que tente responder o maior número de questões possível para estar preparado para eventual cobrança dos raciocínios necessários para o desenvolvimento da resolução.
