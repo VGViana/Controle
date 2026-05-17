@@ -1,26 +1,5 @@
 Tags:: #LEI
 Fonte:: [Constituição Federal de 1988 (CF1988)](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
-Data:: 25/03/2025 16:48:24
-
-Siga o [@navegamente_](https://instagram.com/navegamente_?igshid=NjIwNzIyMDk2Mg==) para dicas e conteúdo sobre Obsidian e 2° cérebro!
-
-> [!FALE CONOSCO!]- FALE COM O NAVEGAMENTE!
-> Encontrou algum problema ou deseja deixar algum comentário ou sugestão?
->
-> Nos avise por [AQUI](mailto:suporte@navegamente.com.br)
-
-> [!IMPORTANT]- AVISO
-> O Navega Lei é projetado para auxiliar o estudo da lei por meio de formatação e referências, com o intuito de facilitar a leitura e o aprendizado.
->
-> Qualquer texto presente no Navega Lei não deve ser considerado como base legal para decisões ou ações jurídicas. Se você planeja usar a legislação para fins legais ou profissionais, é crucial verificar sempre a legislação original e atualizada nos órgãos governamentais competentes.
->
-> O Navega Lei não substitui a consulta direta à legislação oficial para fins legais.
-
-> [!WARNING]- IMPORTANTE
-> Utilize apenas documentos Navega Lei.
->
-> Versões adquiridas por fora podem estar erradas, desatualizadas ou conter arquivos maliciosos (vírus), prejudicando o usuário. Confie apenas na formatação das leis fornecidas através da nossa área de membros.
-
 ***
 
 <table border="0" cellpadding="0" cellspacing="0" width="70%"> <tr> <td width="14%"> <p align="center"> <img alt="Brastra.gif (4376 bytes)" height="82" src="https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif" width="74"/></img> </p> </td> <td width="86%"> <p align="center"> <font color="808000" face="Arial"> <strong> <big> <big> Presidência da República</big></big><br/></br> <big> Casa Civil<br/></br> </big> Subchefia para Assuntos Jurídicos</strong></font></p> </td> </tr> </table>
