@@ -11,18 +11,13 @@
 - O **sistema hexadecimal** é um **sistema numérico** que utiliza **16 símbolos diferentes** para representar valores: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A (que vale 10), B (vale 11), C (12), D (13), E (14) e F (15).
 - O sistema é muito utilizado na **programação** por ser uma forma mais **compacta** e **conveniente** de **representar valores binários**.
 - Em termos de **conversão**, cada **dígito hexadecimal** representa **4 bits** (ou **2 dígitos binários**). Por exemplo, o **número hexadecimal** "2A" representa o **número binário** "00101010". Para **converter** um  número **decimal** em **hexadecimal**, basta **dividir o número por 16** e utilizar o **resto da divisão** como um **dígito hexadecimal**. Esse processo é repetido até que o **resultado da divisão** seja **menor que 16**.  
-      
     - Por exemplo, para **converter** o **número decimal 1234** em **hexadecimal**, começamos **dividindo por 16**  
-      
     - 1234 / 16 = 77, com **resto 2**  
-      
     - O **resto 2** é o **primeiro dígito hexadecimal** do número, portanto o número em **hexadecimal** começa com "**2**". Em seguida, **dividimos 77 por 16**  
-      
     - 77 / 16 = 4, com **resto 13**  
-      
     - O **resto 13** corresponde à **letra "D"** em **hexadecimal**, portanto o **segundo dígito** do número é "**D**". Como o **resultado da divisão** é menor que 16, o processo termina e o **número em hexadecimal** é "**4D2**".  
       
-    Aqui temos um uso bem comum dos números hexadecimais na programação: [**<span style="color:#83a598"><u>Conversor de Cores RGB e Hexadecimal</u></span>**](https://wallky.com.br/tech/conversores/conversor-cor-rgb-hexadecimal.php?a=cnum).  
+Aqui temos um uso bem comum dos números hexadecimais na programação: [**<span style="color:#83a598"><u>Conversor de Cores RGB e Hexadecimal</u></span>**](https://wallky.com.br/tech/conversores/conversor-cor-rgb-hexadecimal.php?a=cnum).  
       
     
 # 3. Sistema numérico binário
