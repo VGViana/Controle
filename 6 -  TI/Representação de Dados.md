@@ -6,10 +6,6 @@
     - Por exemplo, o número 1234 pode ser escrito como (1 x **10³**) + (2 x **10²**) + (3 x **10¹**) + (4 x **10⁰**).  
       
     Para um **programador** que está começando a entender sobre **conversões de sistemas numéricos**, é importante entender que o **sistema decimal** é o mais comum e amplamente utilizado em **programação**.  
-    Além disso, é importante saber como **converter números** de outros **sistemas numéricos**, como **binário** ou **hexadecimal**, para o **sistema decimal** e vice-versa, utilizando as **potências** correspondentes à **base de cada sistema**.  
-      
-    
-
 # 2.Sistema numérico hexadecimal
 
 - O **sistema hexadecimal** é um **sistema numérico** que utiliza **16 símbolos diferentes** para representar valores: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A (que vale 10), B (vale 11), C (12), D (13), E (14) e F (15).
