@@ -4152,21 +4152,21 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 3° As <span style="color:#83a598">emendas ao projeto de lei</span> do orçamento anual ou aos projetos que o modifiquem somente podem ser aprovadas caso: ^17bbcf8
 
-		* I - sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias; ^886b6f7
+		* I - sejam <span style="color:#83a598">compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias</span>; ^886b6f7
 
-		* II - indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre: ^c0c0b8d
+		* II - <span style="color:#83a598">indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa</span>, <span style="color:#fb4934">excluídas</span> as que incidam sobre: ^c0c0b8d
 
-			* a) dotações para pessoal e seus encargos; ^c87c601
+			* a) <span style="color:#fb4934">dotações para pessoal e seus encargos</span>; ^c87c601
 
-			* b) serviço da dívida; ^e0ccf1c
+			* b) <span style="color:#fb4934">serviço da dívida</span>; ^e0ccf1c
 
-			* c) transferências tributárias constitucionais para Estados, Municípios e Distrito Federal; ou ^f7b31d2
+			* c) <span style="color:#fb4934">transferências tributárias constitucionais</span> para Estados, Municípios e Distrito Federal; ou ^f7b31d2
 
-		* III - sejam relacionadas: ^d6ab767
+		* III - <span style="color:#83a598">sejam relacionadas</span>: ^d6ab767
 
-			* a) com a correção de erros ou omissões; ou ^acc7de2
+			* a) com a <span style="color:#83a598">correção de erros ou omissões</span>; ou ^acc7de2
 
-			* b) com os dispositivos do texto do projeto de lei. ^db59ee2
+			* b) com os <span style="color:#83a598">dispositivos do texto</span> do projeto de lei. ^db59ee2
 
 	* § 4° As emendas ao projeto de lei de diretrizes orçamentárias não poderão ser aprovadas quando incompatíveis com o plano plurianual. ^e77c80e
 
