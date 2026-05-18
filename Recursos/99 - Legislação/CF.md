@@ -4206,47 +4206,47 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 17. <span style="color:#b8bb26">Os restos a pagar provenientes das programações orçamentárias previstas nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] deste artigo poderão ser considerados para fins de cumprimento da execução financeira até o limite de 1% (um por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto de lei orçamentária, para as programações das emendas individuais, e até o limite de 0,5% (cinco décimos por cento), para as programações das emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal.</span> (Redação dada pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^0d166d3
 
-	* § 18. Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias, os montantes previstos nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] deste artigo poderão ser reduzidos em até a mesma proporção da limitação incidente sobre o conjunto das demais despesas discricionárias. (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^55d7da7
+	* § 18. Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias, os montantes previstos nos §§ [[#^e4a921f|11]] e [[#^4759a33|12]] deste artigo <span style="color:#fe8019">poderão ser reduzidos em até a mesma proporção da limitação incidente sobre o conjunto das demais despesas discricionárias.</span> (Redação dada pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^55d7da7
 
 	* § 19. Considera-se equitativa a execução das programações de caráter obrigatório que observe critérios objetivos e imparciais e que atenda de forma igualitária e impessoal às emendas apresentadas, independentemente da autoria, observado o disposto no § [[#^d9126b2|9°-A]] deste artigo. (Redação dada pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^05eef7b
 
-	* § 20. As programações de que trata o § [[#^4759a33|12]] deste artigo, quando versarem sobre o início de investimentos com duração de mais de 1 (um) exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda pela mesma bancada estadual, a cada exercício, até a conclusão da obra ou do empreendimento. (Incluído pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^39f6c18
+	* § 20. <span style="color:#b8bb26">As programações de que trata o § [[#^4759a33|12]] deste artigo, quando versarem sobre o início de investimentos com duração de mais de 1 (um) exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda pela mesma bancada estadual, a cada exercício, até a conclusão da obra ou do empreendimento.</span> (Incluído pela Emenda Constitucional n° 100, de 2019) (Produção de efeito) (Vide ADI 7697) ^39f6c18
 
-* Art. 166-A. As emendas individuais impositivas apresentadas ao projeto de lei orçamentária anual poderão alocar recursos a Estados, ao Distrito Federal e a Municípios por meio de: (Incluído pela Emenda Constitucional n° 105, de 2019) (Vide ADI 7697) ^707890a
+* Art. 166-A. As <span style="color:#fe8019">emendas individuais impositivas apresentadas ao projeto de lei orçamentária anual poderão alocar recursos</span> a Estados, ao Distrito Federal e a Municípios por meio de: (Incluído pela Emenda Constitucional n° 105, de 2019) (Vide ADI 7697) ^707890a
 
-	* I - transferência especial; ou (Incluído pela Emenda Constitucional n° 105, de 2019) ^9897336
+	* I - <span style="color:#fe8019">transferência especial</span>; ou (Incluído pela Emenda Constitucional n° 105, de 2019) ^9897336
 
-	* II - transferência com finalidade definida. (Incluído pela Emenda Constitucional n° 105, de 2019) ^c515d31
+	* II - <span style="color:#fe8019">transferência com finalidade definida</span>. (Incluído pela Emenda Constitucional n° 105, de 2019) ^c515d31
 
-	* § 1° Os recursos transferidos na forma do caput deste artigo não integrarão a receita do Estado, do Distrito Federal e dos Municípios para fins de repartição e para o cálculo dos limites da despesa com pessoal ativo e inativo, nos termos do § [[#^632ba5e|16]] do art. [[#^88327c6|166]], e de endividamento do ente federado, vedada, em qualquer caso, a aplicação dos recursos a que se refere o caput deste artigo no pagamento de: (Incluído pela Emenda Constitucional n° 105, de 2019) ^69e497a
+	* § 1° <span style="color:#b8bb26">Os recursos transferidos na forma do caput deste artigo não integrarão a receita do Estado, do Distrito Federal e dos Municípios para fins de repartição e para o cálculo dos limites da despesa com pessoal ativo e inativo</span>, nos termos do § [[#^632ba5e|16]] do art. [[#^88327c6|166]], e de endividamento do ente federado, <span style="color:#fb4934">vedada, em qualquer caso, a aplicação dos recursos</span> a que se refere o caput deste artigo no pagamento de: (Incluído pela Emenda Constitucional n° 105, de 2019) ^69e497a
 
-		* I - despesas com pessoal e encargos sociais relativas a ativos e inativos, e com pensionistas; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^96c58de
+		* I - <span style="color:#fb4934">despesas com pessoal e encargos sociais relativas a ativos e inativos</span>, e com pensionistas; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^96c58de
 
-		* II - encargos referentes ao serviço da dívida. (Incluído pela Emenda Constitucional n° 105, de 2019) ^4f03a82
+		* II - <span style="color:#fb4934">encargos referentes ao serviço da dívida</span>. (Incluído pela Emenda Constitucional n° 105, de 2019) ^4f03a82
 
-	* § 2° Na transferência especial a que se refere o inciso [[#^9897336|I]] do caput deste artigo, os recursos: (Incluído pela Emenda Constitucional n° 105, de 2019) ^a6a35c8
+	* § 2° Na <span style="color:#fe8019">transferência especial a</span> que se refere o inciso [[#^9897336|I]] do caput deste artigo, os <span style="color:#fe8019">recursos</span>: (Incluído pela Emenda Constitucional n° 105, de 2019) ^a6a35c8
 
-		* I - serão repassados diretamente ao ente federado beneficiado, independentemente de celebração de convênio ou de instrumento congênere; (Incluído pela Emenda Constitucional n° 105, de 2019) ^1161ddc
+		* I - <span style="color:#fe8019">serão repassados diretamente ao ente federado beneficiado</span>, <span style="color:#fb4934">independentemente de celebração de convênio ou de instrumento congênere</span>; (Incluído pela Emenda Constitucional n° 105, de 2019) ^1161ddc
 
-		* II - pertencerão ao ente federado no ato da efetiva transferência financeira; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^5a48773
+		* II - <span style="color:#fe8019">pertencerão ao ente federado no ato da efetiva transferência financeira</span>; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^5a48773
 
-		* III - serão aplicadas em programações finalísticas das áreas de competência do Poder Executivo do ente federado beneficiado, observado o disposto no § [[#^b64b748|5°]] deste artigo. (Incluído pela Emenda Constitucional n° 105, de 2019) ^cc065d3
+		* III - <span style="color:#fe8019">serão aplicadas em programações finalísticas das áreas de competência</span> do Poder Executivo do ente federado beneficiado, observado o disposto no § [[#^b64b748|5°]] deste artigo. (Incluído pela Emenda Constitucional n° 105, de 2019) ^cc065d3
 
-	* § 3° O ente federado beneficiado da transferência especial a que se refere o inciso [[#^9897336|I]] do caput deste artigo poderá firmar contratos de cooperação técnica para fins de subsidiar o acompanhamento da execução orçamentária na aplicação dos recursos. (Incluído pela Emenda Constitucional n° 105, de 2019) ^f26ef54
+	* § 3° O ente federado beneficiado da <span style="color:#fe8019">transferência especial a que se refere o inciso [[#^9897336|I]] do caput deste artigo poderá firmar contratos de cooperação técnica para fins de subsidiar o acompanhamento da execução orçamentária na aplicação dos recursos.</span> (Incluído pela Emenda Constitucional n° 105, de 2019) ^f26ef54
 
-	* § 4° Na transferência com finalidade definida a que se refere o inciso [[#^c515d31|II]] do caput deste artigo, os recursos serão: (Incluído pela Emenda Constitucional n° 105, de 2019) ^8ece512
+	* § 4° Na transferência com <span style="color:#83a598">finalidade definida</span> a que se refere o inciso [[#^c515d31|II]] do caput deste artigo, os recursos serão: (Incluído pela Emenda Constitucional n° 105, de 2019) ^8ece512
 
-		* I - vinculados à programação estabelecida na emenda parlamentar; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^e164fbb
+		* I - <span style="color:#83a598">vinculados à programação estabelecida</span> na emenda parlamentar; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^e164fbb
 
-		* II - aplicados nas áreas de competência constitucional da União. (Incluído pela Emenda Constitucional n° 105, de 2019) ^95b091e
+		* II - <span style="color:#83a598">aplicados nas áreas de competência constitucional da União</span>. (Incluído pela Emenda Constitucional n° 105, de 2019) ^95b091e
 
-	* § 5° Pelo menos 70% (setenta por cento) das transferências especiais de que trata o inciso [[#^9897336|I]] do caput deste artigo deverão ser aplicadas em despesas de capital, observada a restrição a que se refere o inciso [[#^4f03a82|II]] do § [[#^69e497a|1°]] deste artigo. (Incluído pela Emenda Constitucional n° 105, de 2019) ^b64b748
+	* § 5° <span style="color:#83a598">Pelo menos 70% (setenta por cento) das transferências especiais de que trata o inciso [[#^9897336|I]] do caput deste artigo deverão ser aplicadas em despesas de capital</span>, observada a restrição a que se refere o inciso [[#^4f03a82|II]] do § [[#^69e497a|1°]] deste artigo. (Incluído pela Emenda Constitucional n° 105, de 2019) ^b64b748
 
-* Art. 167. São vedados: ^68bd784
+* Art. 167. São <span style="color:#fb4934">vedados</span>: ^68bd784
 
-	* I - o início de programas ou projetos não incluídos na lei orçamentária anual; ^7a6e6b6
+	* I - o <span style="color:#fb4934">início de programas ou projetos não incluídos</span> na lei orçamentária anual; ^7a6e6b6
 
-	* II - a realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais; ^debf5c7
+	* II - a <span style="color:#fb4934">realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais</span>; ^debf5c7
 
 	* III - a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta; (Vide Emenda constitucional n° 106, de 2020) ^51aabc4
 
