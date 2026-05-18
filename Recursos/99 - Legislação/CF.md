@@ -4180,7 +4180,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 9° <span style="color:#b8bb26">As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 2% (dois por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto, observado que a metade desse percentual será destinada a ações e serviços públicos de saúde.</span> (Redação dada pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^a366198
 
-	* § 9°-A Do limite a que se refere o § [[#^a366198|9°]] deste artigo, 1,55% (um inteiro e cinquenta e cinco centésimos por cento) caberá às emendas de Deputados e 0,45% (quarenta e cinco centésimos por cento) às de Senadores. (Incluído pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^d9126b2
+	* § 9°-A Do limite a que se refere o § [[#^a366198|9°]] deste artigo, <span style="color:#fe8019">1,55% (um inteiro e cinquenta e cinco centésimos por cento) caberá às emendas de Deputados e 0,45% (quarenta e cinco centésimos por cento) às de Senadores.</span> (Incluído pela Emenda Constitucional n° 126, de 2022) (Vide ADI 7697) ^d9126b2
 
 	* § 10. A execução do montante destinado a ações e serviços públicos de saúde previsto no § [[#^a366198|9°]], inclusive custeio, será computada para fins do cumprimento do inciso [[#^4ebe8ce|I]] do § [[#^d6a1b1d|2°]] do art. [[#^a8a5a19|198]], vedada a destinação para pagamento de pessoal ou encargos sociais. (Incluído pela Emenda Constitucional n° 86, de 2015) (Vide ADI 7697) ^b95a2e2
 
