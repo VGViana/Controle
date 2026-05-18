@@ -4023,21 +4023,21 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 * Art. 163. Lei complementar disporá sobre: ^400cad1
 
-	* I - finanças públicas; ^af8b19b
+	* I - <span style="color:#b8bb26">finanças públicas</span>; ^af8b19b
 
-	* II - dívida pública externa e interna, incluída a das autarquias, fundações e demais entidades controladas pelo Poder Público; ^c3deb09
+	* II - <span style="color:#b8bb26">dívida pública</span> externa e interna, incluída a das autarquias, fundações e demais entidades controladas pelo Poder Público; ^c3deb09
 
-	* III - concessão de garantias pelas entidades públicas; ^1402c01
+	* III - <span style="color:#83a598">concessão de garantias</span> pelas entidades públicas; ^1402c01
 
 	* IV - emissão e resgate de títulos da dívida pública; ^f76d6d8
 
-	* V - fiscalização financeira da administração pública direta e indireta; (Redação dada pela Emenda Constitucional n° 40, de 2003) ^a241ade
+	* V - <span style="color:#fb4934">fiscalização financeira</span> da administração pública direta e indireta; (Redação dada pela Emenda Constitucional n° 40, de 2003) ^a241ade
 
 	* VI - operações de câmbio realizadas por órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios; ^fad8fd1
 
 	* VII - compatibilização das funções das instituições oficiais de crédito da União, resguardadas as características e condições operacionais plenas das voltadas ao desenvolvimento regional. ^7d12de6
 
-	* VIII - sustentabilidade da dívida, especificando: (Incluído pela Emenda Constitucional n° 109, de 2021) ^7e96035
+	* VIII - <span style="color:#b8bb26">sustentabilidade da dívida</span>, especificando: (Incluído pela Emenda Constitucional n° 109, de 2021) ^7e96035
 
 		* a) indicadores de sua apuração; (Incluído pela Emenda Constitucional n° 109, de 2021) ^c6fbb41
 
@@ -4049,7 +4049,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 		* e) planejamento de alienação de ativos com vistas à redução do montante da dívida. (Incluído pela Emenda Constitucional n° 109, de 2021) ^4e591fc
 
-	* IX - condições e limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária. (Incluído pela Emenda Constitucional n° 135, de 2024) ^a1a2801
+	* IX - <span style="color: #d79921">condições e limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária</span>. (Incluído pela Emenda Constitucional n° 135, de 2024) ^a1a2801
 
 	* Parágrafo único. A lei complementar de que trata o inciso [[#^7e96035|VIII]] do caput deste artigo pode autorizar a aplicação das vedações previstas no art. [[#^d70fb6b|167-A]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^49d55b8
 
@@ -4059,7 +4059,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 1° É vedado ao banco central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira. ^9d0f7ab
 
-	* § 2° O banco central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros. ^bb35cf0
+	* § 2° <span style="color:#83a598">O banco central poderá comprar e vender títulos de emissão do Tesouro</span> Nacional, com o objetivo de <span style="color:#83a598">regular a oferta de moeda ou a taxa de juros.</span> ^bb35cf0
 
 	* § 3° As disponibilidades de caixa da União serão depositadas no banco central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei. ^de3541b
 
@@ -4070,31 +4070,31 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 ### 6.2.2. SEÇÃO II - DOS ORÇAMENTOS (ARTS. 165 A 169)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.2.2. SEÇÃO II - DOS ORÇAMENTOS (ARTS. 165 A 169)|Resumo]]
 
-* Art. 165. Leis de iniciativa do Poder Executivo estabelecerão: ^17f7c34
+* Art. 165. <span style="color:#83a598">Leis de iniciativa do Poder Executivo</span> estabelecerão: ^17f7c34
 
-	* I - o plano plurianual; ^cfb6f52
+	* I - o <span style="color:#83a598">plano</span> <span style="color:#83a598">plurianual</span>; ^cfb6f52
 
-	* II - as diretrizes orçamentárias; ^b2d3113
+	* II - as <span style="color:#83a598">diretrizes orçamentárias</span>; ^b2d3113
 
-	* III - os orçamentos anuais. ^6b00484
+	* III - os <span style="color:#83a598">orçamentos anuais</span>. ^6b00484
 
-	* § 1° A lei que instituir o plano plurianual estabelecerá, de forma regionalizada, as diretrizes, objetivos e metas da administração pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada. ^0dcb151
+	* § 1° A <span style="color: #d79921">lei que instituir o plano plurianual</span> estabelecerá, de forma <span style="color: #d79921">regionalizada</span>, as <span style="color: #d79921">diretrizes, objetivos e metas</span> da administração pública federal para as <span style="color: #d79921">despesas de capital</span> e outras delas <span style="color: #d79921">decorrentes</span> e para as relativas aos <span style="color: #d79921">programas de duração continuada</span>. ^0dcb151
 
-	* § 2° A lei de diretrizes orçamentárias compreenderá as metas e prioridades da administração pública federal, estabelecerá as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública, orientará a elaboração da lei orçamentária anual, disporá sobre as alterações na legislação tributária e estabelecerá a política de aplicação das agências financeiras oficiais de fomento. (Redação dada pela Emenda Constitucional n° 109, de 2021) ^8704a57
+	* § 2° A <span style="color:#b8bb26">lei de diretrizes orçamentárias</span> compreenderá as <span style="color:#b8bb26">metas e prioridades</span> da administração pública federal, estabelecerá as <span style="color:#b8bb26">diretrizes de política fiscal</span> e respectivas <span style="color:#b8bb26">metas, em consonância com trajetória sustentável da dívida pública</span>, <span style="color:#b8bb26">orientará a elaboração da lei orçamentária</span> anual, disporá sobre as <span style="color:#b8bb26">alterações na legislação tributária</span> e estabelecerá a <span style="color:#b8bb26">política de aplicação das agências financeiras oficiais de fomento</span>. (Redação dada pela Emenda Constitucional n° 109, de 2021) ^8704a57
 
-	* § 3° O Poder Executivo publicará, até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária. (Vide Emenda constitucional n° 106, de 2020) ^a24d410
+	* § 3° O <span style="color:#fe8019">Poder Executivo</span> publicará, <span style="color:#fe8019">até trinta dias após o encerramento de cada bimestre</span>, <span style="color:#fe8019">relatório resumido da execução orçamentária</span>. (Vide Emenda constitucional n° 106, de 2020) ^a24d410
 
-	* § 4° Os planos e programas nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo Congresso Nacional. ^ca94985
+	* § 4° Os <span style="color: #d79921">planos e programas nacionais</span>, <span style="color: #d79921">regionais e setoriais</span> previstos nesta Constituição serão <span style="color: #d79921">elaborados em consonância com o plano plurianual</span> e apreciados pelo Congresso Nacional. ^ca94985
 
-	* § 5° A lei orçamentária anual compreenderá: ^be60b9e
+	* § 5° A <span style="color:#83a598">lei orçamentária anual</span> compreenderá: ^be60b9e
 
-		* I - o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público; ^8d90907
+		* I - o <span style="color:#83a598">orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público</span>; ^8d90907
 
-		* II - o orçamento de investimento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto; ^c7c314e
+		* II - o orçamento de <span style="color:#83a598">investimento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto</span>; ^c7c314e
 
-		* III - o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo Poder Público. ^d1b715e
+		* III - o orçamento da <span style="color:#83a598">seguridade social, abrangendo todas as entidades e órgãos a ela vinculados</span>, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo Poder Público. ^d1b715e
 
-	* § 6° O projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia. ^1d0fda6
+	* § 6° O projeto de lei orçamentária <span style="color:#83a598">será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia.</span> ^1d0fda6
 
 	* § 7° Os orçamentos previstos no § [[#^be60b9e|5°]], [[#^8d90907|I]] e [[#^c7c314e|II]], deste artigo, compatibilizados com o plano plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério populacional. ^677488d
 
