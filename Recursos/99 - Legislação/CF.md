@@ -4248,7 +4248,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* II - a <span style="color:#fb4934">realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais</span>; ^debf5c7
 
-	* III - a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta; (Vide Emenda constitucional n° 106, de 2020) ^51aabc4
+	* III - a <span style="color:#83a598">realização de operações de créditos que excedam o montante das despesas de capital</span>, ressalvadas as autorizadas mediante <span style="color:#fb4934">créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta</span>; (Vide Emenda constitucional n° 106, de 2020) ^51aabc4
 
 	* IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. [[#^bfd7c36|158]] e [[#^835537a|159]], a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, como determinado, respectivamente, pelos arts. [[#^a8a5a19|198]], § [[#^d6a1b1d|2°]], [[#^9ea8a92|212]] e [[#^73a80b7|37]], [[#^3a78ba0|XXII]], e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. [[#^17f7c34|165]], § [[#^4395aa0|8°]], bem como o disposto no § [[#^6551a0f|4°]] deste artigo; (Redação dada pela Emenda Constitucional n° 42, de 19.12.2003) ^e2bdce5
 
