@@ -4114,13 +4114,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 		* I - subordina-se ao cumprimento de dispositivos constitucionais e legais que estabeleçam metas fiscais ou limites de despesas e não impede o cancelamento necessário à abertura de créditos adicionais; ^7d4d829
 
-		* II - não se aplica nos casos de impedimentos de ordem técnica devidamente justificados; ^0a8adbb
+		* II - <span style="color:#fb4934">não se aplica nos casos de impedimentos de ordem técnica devidamente justificados</span>; ^0a8adbb
 
-		* III - aplica-se exclusivamente às despesas primárias discricionárias. ^b117f1e
+		* III - aplica-se exclusivamente às <span style="color:#83a598">despesas primárias discricionárias.</span> ^b117f1e
 
-	* § 12. Integrará a lei de diretrizes orçamentárias, para o exercício a que se refere e, pelo menos, para os 2 (dois) exercícios subsequentes, anexo com previsão de agregados fiscais e a proporção dos recursos para investimentos que serão alocados na lei orçamentária anual para a continuidade daqueles em andamento. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^d492937
+	* § 12. <span style="color:#b8bb26">Integrará a lei de diretrizes orçamentárias, para o exercício a que se refere e, pelo menos, para os 2 (dois) exercícios subsequentes, anexo com previsão de agregados fiscais e a proporção dos recursos para investimentos que serão alocados na lei orçamentária anual para a continuidade daqueles em andamento</span>. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^d492937
 
-	* § 13. O disposto no inciso [[#^88470b6|III]] do § [[#^08f239c|9°]] e nos §§ [[#^879098b|10]], [[#^b21f2e5|11]] e [[#^d492937|12]] deste artigo aplica-se exclusivamente aos orçamentos fiscal e da seguridade social da União. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^63ef3d5
+	* § 13. O disposto no inciso [[#^88470b6|III]] do § [[#^08f239c|9°]] e nos §§ [[#^879098b|10]], [[#^b21f2e5|11]] e [[#^d492937|12]] deste artigo <span style="color: #d79921">aplica-se exclusivamente aos orçamentos fiscal e da seguridade social da União</span>. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^63ef3d5
 
 	* § 14. A lei orçamentária anual poderá conter previsões de despesas para exercícios seguintes, com a especificação dos investimentos plurianuais e daqueles em andamento. (Incluído pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^b20ba82
 
