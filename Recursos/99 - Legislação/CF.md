@@ -4096,9 +4096,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 6° O projeto de lei orçamentária <span style="color:#83a598">será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia.</span> ^1d0fda6
 
-	* § 7° Os orçamentos previstos no § [[#^be60b9e|5°]], [[#^8d90907|I]] e [[#^c7c314e|II]], deste artigo, compatibilizados com o plano plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério populacional. ^677488d
+	* § 7° Os orçamentos previstos no § [[#^be60b9e|5°]], [[#^8d90907|I]] e [[#^c7c314e|II]], deste artigo, compatibilizados com o plano plurianual, terão entre suas <span style="color:#83a598">funções a de reduzir desigualdades inter-regionais</span>, <span style="color:#83a598">segundo critério populacional.</span> ^677488d
 
-	* § 8° A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei. ^4395aa0
+	* § 8° A <span style="color:#fb4934">lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa</span>, não se incluindo na proibição a autorização para <span style="color:#fb4934">abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita</span>, nos termos da lei. ^4395aa0
 
 	* § 9° Cabe à lei complementar: ^08f239c
 
