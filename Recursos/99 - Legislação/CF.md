@@ -4382,13 +4382,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 2° O saldo financeiro decorrente dos recursos entregues na forma do caput deste artigo deve ser restituído ao caixa único do Tesouro do ente federativo, ou terá seu valor deduzido das primeiras parcelas duodecimais do exercício seguinte. (Incluído pela Emenda Constitucional n° 109, de 2021) ^b8c7ddb
 
-* Art. 169. A despesa com pessoal ativo e inativo e pensionistas da União, dos Estados, do Distrito Federal e dos Municípios não pode exceder os limites estabelecidos em lei complementar. (Redação dada pela Emenda Constitucional n° 109, de 2021) ^7ac0258
+* Art. 169. A <span style="color:#fb4934">despesa com pessoal ativo e inativo e pensionistas</span> da União, dos Estados, do Distrito Federal e dos Municípios <span style="color:#fb4934">não pode exceder os limites estabelecidos em lei complementar</span>. (Redação dada pela Emenda Constitucional n° 109, de 2021) ^7ac0258
 
-	* § 1° A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos, empregos e funções ou alteração de estrutura de carreiras, bem como a admissão ou contratação de pessoal, a qualquer título, pelos órgãos e entidades da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo poder público, só poderão ser feitas: (Renumerado do parágrafo único, pela Emenda Constitucional n° 19, de 1998) (Vide Emenda constitucional n° 106, de 2020) ^75891ed
+	* § 1° A <span style="color:#fe8019">concessão de qualquer vantagem ou aumento de remuneração</span>, a criação de cargos, empregos e funções ou alteração de estrutura de carreiras, bem como a admissão ou contratação de pessoal, a qualquer título, pelos órgãos e entidades da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo poder público, <span style="color:#fe8019">só poderão ser feitas</span>: (Renumerado do parágrafo único, pela Emenda Constitucional n° 19, de 1998) (Vide Emenda constitucional n° 106, de 2020) ^75891ed
 
-		* I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes; (Incluído pela Emenda Constitucional n° 19, de 1998) ^ca3861e
+		* I - <span style="color:#83a598">se houver prévia dotação orçamentária suficiente</span> para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes; (Incluído pela Emenda Constitucional n° 19, de 1998) ^ca3861e
 
-		* II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista. (Incluído pela Emenda Constitucional n° 19, de 1998) ^c465b5c
+		* II - <span style="color:#83a598">se houver autorização específica na lei</span> de <span style="color:#83a598">diretrizes orçamentárias</span>, ressalvadas as empresas públicas e as sociedades de economia mista. (Incluído pela Emenda Constitucional n° 19, de 1998) ^c465b5c
 
 	* § 2° Decorrido o prazo estabelecido na lei complementar referida neste artigo para a adaptação aos parâmetros ali previstos, serão imediatamente suspensos todos os repasses de verbas federais ou estaduais aos Estados, ao Distrito Federal e aos Municípios que não observarem os referidos limites. (Incluído pela Emenda Constitucional n° 19, de 1998) ^755dd75
 
