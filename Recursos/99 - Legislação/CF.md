@@ -4272,9 +4272,9 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* XIV - a criação de fundo público, quando seus objetivos puderem ser alcançados mediante a vinculação de receitas orçamentárias específicas ou mediante a execução direta por programação orçamentária e financeira de órgão ou entidade da administração pública. (Incluído pela Emenda Constitucional n° 109, de 2021) ^de76e34
 
-	* § 1° Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de responsabilidade. ^a1cc4f7
+	* § 1° <span style="color:#fb4934">Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de responsabilidade.</span> ^a1cc4f7
 
-	* § 2° Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subseqüente. ^d93ff04
+	* § 2° <span style="color:#b8bb26">Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subseqüente.</span> ^d93ff04
 
 	* § 3° A abertura de crédito extraordinário somente será admitida para atender a despesas imprevisíveis e urgentes, como as decorrentes de guerra, comoção interna ou calamidade pública, observado o disposto no art. [[#^fee24d9|62]]. ^a9bc9a1
 
@@ -4286,21 +4286,21 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* § 7° A lei não imporá nem transferirá qualquer encargo financeiro decorrente da prestação de serviço público, inclusive despesas de pessoal e seus encargos, para a União, os Estados, o Distrito Federal ou os Municípios, sem a previsão de fonte orçamentária e financeira necessária à realização da despesa ou sem a previsão da correspondente transferência de recursos financeiros necessários ao seu custeio, ressalvadas as obrigações assumidas espontaneamente pelos entes federados e aquelas decorrentes da fixação do salário mínimo, na forma do inciso [[#^d137e98|IV]] do caput do art. [[#^0f410c4|7°]] desta Constituição. (Incluído pela Emenda Constitucional n° 128, de 2022) ^5679ec6
 
-* Art. 167-A. Apurado que, no período de 12 (doze) meses, a relação entre despesas correntes e receitas correntes supera 95% (noventa e cinco por cento), no âmbito dos Estados, do Distrito Federal e dos Municípios, é facultado aos Poderes Executivo, Legislativo e Judiciário, ao Ministério Público, ao Tribunal de Contas e à Defensoria Pública do ente, enquanto permanecer a situação, aplicar o mecanismo de ajuste fiscal de vedação da: (Incluído pela Emenda Constitucional n° 109, de 2021) ^d70fb6b
+* Art. 167-A. <span style="color:#b8bb26">Apurado que, no período de 12 (doze) meses</span>, a relação entre despesas correntes e receitas correntes <span style="color:#83a598">supera 95%</span> (noventa e cinco por cento), no âmbito dos Estados, do Distrito Federal e dos Municípios, <span style="color:#fe8019">é facultado aos Poderes Executivo, Legislativo e Judiciário, ao Ministério Público, ao Tribunal de Contas e à Defensoria Pública do ente</span>, <span style="color:#83a598">enquanto permanecer a situação, aplicar o mecanismo de ajuste fiscal de vedação da</span>: (Incluído pela Emenda Constitucional n° 109, de 2021) ^d70fb6b
 
-	* I - concessão, a qualquer título, de vantagem, aumento, reajuste ou adequação de remuneração de membros de Poder ou de órgão, de servidores e empregados públicos e de militares, exceto dos derivados de sentença judicial transitada em julgado ou de determinação legal anterior ao início da aplicação das medidas de que trata este artigo; (Incluído pela Emenda Constitucional n° 109, de 2021) ^ba86cea
+	* I - <span style="color: #d79921">concessão, a qualquer título, de vantagem, aumento, reajuste ou adequação de remuneração de membros de Poder ou de órgão, de servidores e empregados públicos e de militares</span>, <span style="color:#fb4934">exceto dos derivados de sentença judicial transitada em julgado ou de determinação legal anterior ao início da aplicação das medidas de que trata este artigo</span>; (Incluído pela Emenda Constitucional n° 109, de 2021) ^ba86cea
 
-	* II - criação de cargo, emprego ou função que implique aumento de despesa; (Incluído pela Emenda Constitucional n° 109, de 2021) ^7311a3c
+	* II - <span style="color: #d79921">criação de cargo, emprego ou função que implique aumento de despesa</span>; (Incluído pela Emenda Constitucional n° 109, de 2021) ^7311a3c
 
-	* III - alteração de estrutura de carreira que implique aumento de despesa; (Incluído pela Emenda Constitucional n° 109, de 2021) ^aea3639
+	* III - <span style="color: #d79921">alteração de estrutura de carreira que implique aumento de despesa</span>; (Incluído pela Emenda Constitucional n° 109, de 2021) ^aea3639
 
-	* IV - admissão ou contratação de pessoal, a qualquer título, ressalvadas: (Incluído pela Emenda Constitucional n° 109, de 2021) ^9ccac06
+	* IV - <span style="color: #d79921">admissão ou contratação de pessoal</span>, a qualquer título, <span style="color:#fb4934">ressalvadas</span>: (Incluído pela Emenda Constitucional n° 109, de 2021) ^9ccac06
 
-		* a) as reposições de cargos de chefia e de direção que não acarretem aumento de despesa; (Incluído pela Emenda Constitucional n° 109, de 2021) ^0e0ae72
+		* a) as <span style="color:#fb4934">reposições de cargos de chefia e de direção que não acarretem aumento de despesa</span>; (Incluído pela Emenda Constitucional n° 109, de 2021) ^0e0ae72
 
-		* b) as reposições decorrentes de vacâncias de cargos efetivos ou vitalícios; (Incluído pela Emenda Constitucional n° 109, de 2021) ^3faa63b
+		* b) as <span style="color:#fb4934">reposições decorrentes de vacâncias de cargos efetivos ou vitalícios</span>; (Incluído pela Emenda Constitucional n° 109, de 2021) ^3faa63b
 
-		* c) as contratações temporárias de que trata o inciso [[#^68b8c5a|IX]] do caput do art. [[#^73a80b7|37]] desta Constituição; e (Incluído pela Emenda Constitucional n° 109, de 2021) ^a155528
+		* c) as <span style="color:#fb4934">contratações temporárias</span> de que trata o inciso [[#^68b8c5a|IX]] do caput do art. [[#^73a80b7|37]] desta Constituição; e (Incluído pela Emenda Constitucional n° 109, de 2021) ^a155528
 
 		* d) as reposições de temporários para prestação de serviço militar e de alunos de órgãos de formação de militares; (Incluído pela Emenda Constitucional n° 109, de 2021) ^42092c5
 
@@ -4316,7 +4316,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* X - concessão ou ampliação de incentivo ou benefício de natureza tributária. (Incluído pela Emenda Constitucional n° 109, de 2021) ^86187db
 
-	* § 1° Apurado que a despesa corrente supera 85% (oitenta e cinco por cento) da receita corrente, sem exceder o percentual mencionado no caput deste artigo, as medidas nele indicadas podem ser, no todo ou em parte, implementadas por atos do Chefe do Poder Executivo com vigência imediata, facultado aos demais Poderes e órgãos autônomos implementá-las em seus respectivos âmbitos. (Incluído pela Emenda Constitucional n° 109, de 2021) ^6972fc4
+	* § 1° Apurado que a despesa corrente <span style="color:#b8bb26">supera 85% (oitenta e cinco por cento) da receita corrente, sem exceder o percentual mencionado no caput deste artigo, as medidas nele indicadas podem ser, no todo ou em parte, implementadas por atos do Chefe do Poder Executivo com vigência imediata, facultado aos demais Poderes e órgãos autônomos implementá-las em seus respectivos âmbitos.</span> (Incluído pela Emenda Constitucional n° 109, de 2021) ^6972fc4
 
 	* § 2° O ato de que trata o § [[#^6972fc4|1°]] deste artigo deve ser submetido, em regime de urgência, à apreciação do Poder Legislativo. (Incluído pela Emenda Constitucional n° 109, de 2021) ^fa70690
 
