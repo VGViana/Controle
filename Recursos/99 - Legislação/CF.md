@@ -4142,15 +4142,15 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 * Art. 166. Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na forma do regimento comum. ^88327c6
 
-	* § 1° Caberá a uma Comissão mista permanente de Senadores e Deputados: ^6ae6c3a
+	* § 1° Caberá a uma <span style="color:#fe8019">Comissão mista permanente de Senadores e Deputados</span>: ^6ae6c3a
 
-		* I - examinar e emitir parecer sobre os projetos referidos neste artigo e sobre as contas apresentadas anualmente pelo Presidente da República; ^1d8a936
+		* I - <span style="color:#fe8019">examinar e emitir parecer sobre os projetos</span> referidos neste artigo e sobre as <span style="color:#fe8019">contas apresentadas anualmente pelo Presidente da República</span>; ^1d8a936
 
-		* II - examinar e emitir parecer sobre os planos e programas nacionais, regionais e setoriais previstos nesta Constituição e exercer o acompanhamento e a fiscalização orçamentária, sem prejuízo da atuação das demais comissões do Congresso Nacional e de suas Casas, criadas de acordo com o art. [[#^4b6567b|58]]. ^d5682c1
+		* II - <span style="color:#fe8019">examinar e emitir parecer sobre os planos e programas nacionais, regionais e setoriais</span> previstos nesta Constituição e exercer o acompanhamento e a fiscalização orçamentária, sem prejuízo da atuação das demais comissões do Congresso Nacional e de suas Casas, criadas de acordo com o art. [[#^4b6567b|58]]. ^d5682c1
 
 	* § 2° As emendas serão apresentadas na Comissão mista, que sobre elas emitirá parecer, e apreciadas, na forma regimental, pelo Plenário das duas Casas do Congresso Nacional. ^7215729
 
-	* § 3° As emendas ao projeto de lei do orçamento anual ou aos projetos que o modifiquem somente podem ser aprovadas caso: ^17bbcf8
+	* § 3° As <span style="color:#83a598">emendas ao projeto de lei</span> do orçamento anual ou aos projetos que o modifiquem somente podem ser aprovadas caso: ^17bbcf8
 
 		* I - sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias; ^886b6f7
 
