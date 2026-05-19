@@ -1,3 +1,8 @@
+- [[Conceitos]]
+- [[1. Patrimônio]]
+- [[2. Contas]]
+- [[3. Fatos Contábeis]]
+- [[4. Escrituração]]
 - [**CPC 00 - Estrutura Conceitual**](14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md) 
 - [**Princípios Contábeis**](15.%20Princípios%20Contábeis.md) 
 - [[18. CPC 27 - Ativo Imobilizado]]
@@ -11,5 +16,4 @@
 - [[DVA]]
 - [[DFC]]
 - [[DMPL]]
-- [[Conceitos]]
 - [[Lei 6404]]
