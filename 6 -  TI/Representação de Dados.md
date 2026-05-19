@@ -155,6 +155,32 @@ Dentre os principais benefícios de usar o arquivo, seja para criação ou consu
 - **Processamento**: existem várias ferramentas disponíveis para processar e manipular dados XML, como parsers XML, Extensible Stylesheet Language Transformations (XSLT), Simple API for XML (SAX) e Document Object Model (DOM), entre outros. 
 - **Suporte a metadados**: o XML é frequentemente usado para representar metadados em documentos, como informações sobre a estrutura e o conteúdo, facilitando a busca e a indexação.
 
+## Escrita
+
+XML é uma linguagem de marcação na qual as tags são CASE SENSITIVE, ou seja, a tag <span style="color:#fb4934"><Pessoa></span> é diferente da tag <span style="color:#fb4934"> <pessoa> </span>, assim, deve haver diferenciação entre letras maiúsculas e minúsculas.
+
+Quanto aos comentários na linguagem XML, eles são similares aos do HTML, sendo que sua sintaxe é:
+
+> <!-- Esse é um comentário válido --> 
+
+### Validação
+
+**Para um documento XML ser considerado válido é preciso também que seja bem formado. A validação de arquivos XML pode ser feita utilizando-se os padrões:**
+
+**Document Type Definition − DTD ou XML Schema Definition − XSD.**
+
+O DTD é utilizado para definir a estrutura, os elementos e os atributos que podem estar em um documento XML.
+
+O XSD é utilizado para descrever a estrutura de um documento XML.
+
+O objetivo de um XML Schema é definir os blocos de construção legais de um documento XML:
+ 
+- os elementos e atributos que podem aparecer em um documento
+- o número de (e ordem de) elementos filhos
+- tipos de dados para elementos e atributos
+- valores padrão e fixos para elementos e atributos
+
+
 ## **10.2. JSON**
 
 JSON e XML são considerados concorrentes – eles possuem diversas semelhanças e diferenças.
@@ -184,3 +210,10 @@ O Javascript possui funções para conversão de arquivos JSON em objetos JavaSc
 - JSON.stringify(): converte um objeto JavaScript para uma string JSON.
 
 ⚠️JSON é derivado de JavaScript e <span style="color: #d79921">não de Java</span>.
+
+## Escrita
+
+- **colchetes** são usados para delimitar **arrays**, não objetos. 
+- Objetos são delimitados por **chaves** `{}`.
+- Nomes (chaves) e valores estão separados por `:`.
+- Itens do array são separados por vírgulas
