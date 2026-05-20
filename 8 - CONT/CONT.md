@@ -3,15 +3,15 @@
 - [[2. Contas]]
 - [[3. Fatos Contábeis]]
 - [[4. Escrituração]]
+- [[BP]]
+- [[DRE]]
+- [[7. Reservas e dividendos]]
 - [**CPC 00 - Estrutura Conceitual**](14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md) 
 - [**Princípios Contábeis**](15.%20Princípios%20Contábeis.md) 
 - [[18. CPC 27 - Ativo Imobilizado]]
 - [[19. CPC 04 - Ativo Intangível]]
 - [[Ativo não circulante - Investimentos Temporários]]
-- [[7. Reservas e dividendos]]
 - [[CPC 26]]
-- [[BP]]
-- [[DRE]]
 - [[DLPA]]
 - [[DVA]]
 - [[DFC]]
