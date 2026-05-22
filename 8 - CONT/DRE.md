@@ -46,8 +46,8 @@ Principais Diferenças:
 
 Pelo **<span style="color:#83a598">CPC 26</span>**, as despesas podem ser agregadas na DRE pelo método da **<span style="color:#83a598">Natureza</span>** ou da **<span style="color:#83a598">Função</span>.** A **<span style="color:#b8bb26">Lei 6.404</span>** **<span style="color:#b8bb26">Induz</span>** a apresentação das despesas **por Função.**
 
-- **Natureza** → Agregadas conforme a natureza da despesa, como **depreciações, compras de materiais, transporte, benefícios aos empregados e publicidade.**
-- **Função** → Classifica as despesas pela sua **função como parte do custo dos produtos vendidos, como despesas administrativas, despesas de vendas.**
+- **Natureza** → Agregadas conforme a natureza da despesa, como **depreciações, compras de materiais, transporte, benefícios aos empregados e publicidade.** Mais detalhada, específica
+- **Função** → Classifica as despesas pela sua **função como parte do custo dos produtos vendidos, como despesas administrativas, despesas de vendas.** Conceito mais amplo, macro, generalista
 - ⚡ **Questão FGV: [#573487](https://www.tecconcursos.com.br/questoes/573487).**
 
 🚨 Cálculo das Participações:
