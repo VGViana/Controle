@@ -142,6 +142,26 @@ A estrutura dos dados em um arquivo XML é definida por meio do uso de tags (eti
 
 - Em XML, as tags não são pré-definidas, mas sim “inventadas” pelo autor do documento.
 - Quando uma <span style="color: #d79921">tag for aberta ele deve ser, obrigatoriamente, fechada.</span>
+- No XML, a estrutura é de uma árvore com namespaces para diferentes categorias de dados
+
+Para um xml ser válido, ele tem que estar de acordo com a sua DTD. Ela possui diversos símbolos para organização dos documentos.
+
+Elementos que podem contem apenas outros elementos: para declarar elementos dentro de um outro elemento, utiliza-se uma notação especial, descrita na lista abaixo:  
+  
+, -> Descreve uma sentença obrigatória de elementos. Também funciona como operador E (AND). Exemplo: A,B significa que B deve vir depois de A. B seguido de A não é permitido.  
+  
+| -> Descreve uma alternativa, funciona como o operador OU (OR). Exemplo: A|B|C significa que qualquer elemento é aceitável. **Apenas uma opção é permitida**, você deve escolher entre um dos três elementos.  
+  
+(...) -> Agrupa o conteúdo. Você pode usar a quantidade e parênteses que for preciso. Exemplo: (A|B), C significa que você deve escolher entre A ou B, e este deve ser seguido por um C. Portanto, tanto A C e B C são permitidos.  
+  
+? -> **Descreve uma sentença opcional**. Exemplo: A ? significa que você pode escolher se vai usar ou não o elemento A.  
+  
++-> Requere que pelo menos uma vez o elemento seja declarado, e não limite de quantas vezes este se repete. Exemplo: (A|B)+ significa que deve haver um número positivo e diferente de zero de As ou Bs. A sequência ABBBAAA é válida.  
+  
+*-> Significa que o elemento pode aparecer várias vezes, não tendo limite, e também é opcional.  
+Exemplo: (A|B)* significa que a sequência pode ter tamanho zero e pode ter inúmeros elementos A ou B.
+
+
 
 ## **10.1 Quais são as vantagens de usar XML?** 
 
@@ -202,14 +222,14 @@ JSON e XML são considerados concorrentes – eles possuem diversas semelhanças
 - Uma confusão muito comum que se faz é assumir que, por ser um formato de representação de dados que se baseia em **JavaScript**, o _JSON_ só pode ser usado com essa linguagem. Não é assim que funciona, a possibilidade de uso dele é muito abrangente.
 - Inclusive, para a maioria das linguagens, são disponibilizados vários _parsers_ diferentes e cada empresa pode implementar seus próprios parsers, com fundamentos distintos.
 
-**<span style="color:#fb4934">Sobre JSON, veja o curto vídeo a seguir:</span> [JSON](https://www.youtube.com/watch?v=H3Q63XyHk20)**
+**Sobre JSON, veja o curto vídeo a seguir: [JSON](https://www.youtube.com/watch?v=H3Q63XyHk20)**
 
 O Javascript possui funções para conversão de arquivos JSON em objetos JavaScript e vice-versa:
 
 - JSON.parse(): converte strings JSON para objetos JavaScritpt.
 - JSON.stringify(): converte um objeto JavaScript para uma string JSON.
 
-⚠️JSON é derivado de JavaScript e <span style="color: #d79921">não de Java</span>.
+⚠️JSON é derivado de JavaScript e não de Java
 
 ## Escrita
 
@@ -217,3 +237,20 @@ O Javascript possui funções para conversão de arquivos JSON em objetos JavaSc
 - Objetos são delimitados por **chaves** `{}`.
 - Nomes (chaves) e valores estão separados por `:`.
 - Itens do array são separados por vírgulas
+
+
+# JSON X XML
+
+|   |   |   |
+|---|---|---|
+||JSON|XML|
+|Significa|_JSON_ é a abreviação de JavaScript Object Notation (Notação de objeto JavaScript).|_XML_ é a abreviação de Extensible Markup Language (Linguagem de marcação extensível).|
+|História|Douglas Crockford e Chip Morningstar lançaram o JSON em 2001.|O Grupo de trabalho XML lançou o XML em 1998.|
+|Formato|**O JSON usa uma estrutura semelhante a um mapa com pares de valores-chave.**|O XML armazena dados em uma estrutura de árvore com namespaces para diferentes categorias de dados.|
+|Syntax|A sintaxe do JSON é mais compacta e fácil de ler e escrever.|A sintaxe do XML substitui alguns caracteres por referências de entidades, tornando-a mais detalhada.|
+|Análise|Você pode analisar o JSON com uma função JavaScript padrão.|Você precisa analisar o XML com um analisador de XML.|
+|Documentação do esquema|O JSON é simples e mais flexível.|O XML é complexo e menos flexível.|
+|Tipos de dados|O JSON é compatível com números, objetos, cadeias de caracteres e matrizes booleanas.|O XML é compatível com todos os tipos de dados JSON, além de outros tipos como booleano, datas, imagens e namespaces.|
+|Facilidade de uso|O JSON tem de arquivos de tamanhos menores e transmissão de dados mais rápida.|A estrutura de tags XML é mais complexa de escrever e ler e resulta em arquivos volumosos.|
+|Segurança|O JSON é mais seguro que o XML.|Para mitigar possíveis riscos de segurança, desative o DTD ao trabalhar com XML.|
+
