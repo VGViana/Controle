@@ -39,6 +39,8 @@
 | 🚨 **<span style="color:#fb4934">Não Há Conflito</span>** entre **Lei 6.404 e** as sugestões do **CPC 26** (Pronunciamento não determina estrutura rígida). |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+- A demonstração do resultado evidencia os resultados abrangentes.
+	- O resultado em si afeta a posição patrimonial
 Principais Diferenças:
 
 - Para fins de divulgação, o **<span style="color:#83a598">CPC 26</span>** diz que a **DRE** deve iniciar-se pela **<span style="color:#83a598">Receita Líquida</span>**; a **Receita Bruta** e suas deduções deverão ser evidenciadas em **Notas Explicativas**.
