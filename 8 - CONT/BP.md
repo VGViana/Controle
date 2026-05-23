@@ -32,6 +32,14 @@
 
 # Balanço Patrimonial 
 
+- Evidencia as origens e aplicações de recursos da entidade, refletindo sua estrutura patrimonial ao final do exercício social
+
+	- **<span style="color:#fb4934">ORIGENS</span> DE RECURSOS (lado direito do balanço):**
+		- **Passivo Exigível:** recursos originados de terceiros (fornecedores, bancos, credores diversos)
+		- **Patrimônio Líquido:** recursos originados dos sócios/acionistas (capital social) e gerados pela própria entidade (lucros retidos, reservas)
+	
+	- **<span style="color:#83a598">APLICAÇÕES</span> DE RECURSOS (lado esquerdo do balanço):**
+		- **Ativo:** representa onde todos os recursos captados (origens) foram aplicados, seja em bens, direitos ou investimentos
 ## Ativo Circulante
 
 - Disponibilidades
