@@ -44,6 +44,7 @@
 
 - Disponibilidades
 - Direitos realizáveis no curso do exercício social subsequente
+	- Ex.: Aplicação financeira resgatável em 180 dias
 - Aplicações de recursos em despesas do exercício seguinte
 ## Ativo Não Circulante
 ### Realizável a longo prazo
@@ -70,3 +71,5 @@
 
 ## Patrimônio Líquido 
 - Representa a Riqueza Própria da entidade e possui como fontes os recursos dos sócios e os lucros auferidos
+
+Os Outros Resultados Abrangentes (ORA), previstos no CPC 26 (R1) - Apresentação das Demonstrações Contábeis, item 7, são registrados no patrimônio líquido (em uma conta específica, como "Ajustes de Avaliação Patrimonial" ou similares) e não afetam o resultado do exercício imediatamente.
