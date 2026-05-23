@@ -76,3 +76,10 @@
 - Representa a Riqueza Própria da entidade e possui como fontes os recursos dos sócios e os lucros auferidos
 
 Os Outros Resultados Abrangentes (ORA), previstos no CPC 26 (R1) - Apresentação das Demonstrações Contábeis, item 7, são registrados no patrimônio líquido (em uma conta específica, como "Ajustes de Avaliação Patrimonial" ou similares) e não afetam o resultado do exercício imediatamente.
+
+--- 
+## Saldo em tesouraria
+
+$$
+\text{Saldo em Tesouraria (ST)} = \text{Ativo Circulante Financeiro (ACF)} - \text{Passivo Circulante Financeiro (PCF)}
+$$
