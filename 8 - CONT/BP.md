@@ -52,7 +52,10 @@
 - Direitos derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas, diretores, acionistas ou participantes no lucro da companhia, que não constituam negócios usuais da entidades (independentemente do prazo)
 ### Investimentos
 - Participações permanentes em outras sociedades
+	- As **participações societárias** de controladas, coligadas e empreendimentos controlados em conjunto são geralmente avaliadas pelo **método de equivalência patrimonial** (MEP)
+	- A avaliação pelo **valor justo** com variação em outros resultados abrangentes é aplicável principalmente para instrumentos financeiros classificados como "ativos financeiros mensurados ao valor justo por meio de outros resultados abrangentes"
 - Direitos não classificáveis no ativo circulante e que não se destinem à manutenção da atividade da companhia ou da empresa
+
 
 ### Imobilizado
 - Bens corpóreos
