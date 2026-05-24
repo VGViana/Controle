@@ -44,7 +44,7 @@
 | --------------------------- | --------------------------------------------------- |
 | **A ∪ B** (união)           | **A ou B** (disjunção inclusiva - conectivo "ou")   |
 | **A ∩ B** (interseção)      | **A e B** (conjunção - conectivo "e")               |
-| A‾A (complementar)          | **Não A** (modificador - negação de uma proposição) |
+| Ã (complementar)            | **Não A** (modificador - negação de uma proposição) |
 
 - ⚠️Em boa parte das questões envolvendo conjuntos, você pode resolver através de diagramas (que é a forma mais fácil) ou usando as fórmulas a seguir:
     - Se o problema envolver dois conjuntos:
