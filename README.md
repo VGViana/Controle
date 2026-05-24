@@ -18,4 +18,6 @@
 
  [9 - PORT (Português)](<9 - PORT/>)
 
+[10 - CONT EXT (Controle Externo)](<10 - CONT EXT/>)
+
  [Recursos](<Recursos/>)
