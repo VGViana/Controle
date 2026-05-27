@@ -1,7 +1,6 @@
 - [[0. Princípios Administrativos]]
 - [[1. Regime jurídico da APU]]
 - [[2. Org Adm 1]]
-- [[3. Org Adm 2]]
 - [**Atos Administrativos**](6.%20Atos%20Administrativos.md) 
 - [**Poderes e Deveres**](5.%20Poderes%20e%20Deveres.md) 
 - [**Entidades Paraestatais**](4.%20Entidades%20Paraestatais%20e%20o%203°%20Setor.md) 
