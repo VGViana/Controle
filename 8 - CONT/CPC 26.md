@@ -95,9 +95,9 @@ As DC's devem ser **elaboradas no pressuposto da Continuidade,**
     - Pelo Menos **<span style="color:#83a598">Anualmente</span>** → Inclusive Informação Comparativa.
 
 - **<span style="color:#fb4934">Período Diferente</span>** → No caso de **Alteração da data de Encerramento** das DC's. A Entidade **deve Divulgar:**
-        - O Período Abrangido pelas DC's.
-        - A Razão para usar um período mais longo ou mais curto
-        - O Fato de que não são inteiramente comparáveis.
+	- O Período Abrangido pelas DC's.
+	- A Razão para usar um período mais longo ou mais curto
+	- O Fato de que não são inteiramente comparáveis.
 
 # **4. Estrutura e Conteúdo**
 
