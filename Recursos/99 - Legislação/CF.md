@@ -141,7 +141,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 	- Iminente perigo público
 	- Interesse público
 STF: **<span style="color:#fe8019">um ente federativo não poderá requisitar bens, serviços e pessoal de outro ente</span>.**  
-- **<span style="color:#d3869b">Pequena propriedade rural</span>** não poderá ser penhorada para paramento de débitos <u>originados da atividade produtiva</u>, quando (**cumulativamente**):
+- **<span style="color:#d3869b">Pequena propriedade rural</span>** não poderá ser penhorada para pagamento de débitos <u>originados da atividade produtiva</u>, quando (**cumulativamente**):
 	- houver exploração econômica do bem pela família, e
 	- o débito for decorrente da atividade produtiva desenvolvida.
 	
