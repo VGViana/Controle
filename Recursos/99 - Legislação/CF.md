@@ -73,7 +73,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 ## 2.1. CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (ART. 5)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.1. CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (ART. 5)|Resumo]]
 
-* Art. 5° Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes: ^30f4637
+* Art. 5° Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos <span style="color:#fb4934">brasileiros e aos estrangeiros residentes no País</span> a inviolabilidade do direito à <u>vida, à liberdade, à igualdade, à segurança e à propriedade</u>, nos termos seguintes: ^30f4637
 
 	* I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição; ^85978ff
 
@@ -81,7 +81,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* III - ninguém será submetido a tortura nem a tratamento desumano ou degradante; ^575ac5a
 
-	* IV - é livre a manifestação do pensamento, sendo vedado o anonimato; ^d268ac1
+	* IV - é livre a manifestação do pensamento, sendo <span style="color:#fb4934">vedado</span> o anonimato; ^d268ac1
 
 	* V - é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem; ^5e2015f
 
@@ -89,43 +89,66 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* VII - é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva; ^42ac770
 
-	* VIII - ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei; ^c4621eb
+	* VIII - ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, <span style="color:#fb4934">salvo</span> se as invocar para eximir-se de obrigação legal a todos imposta e <span style="color:#fb4934">recusar-se</span> a cumprir <u>prestação alternativa</u>, fixada em lei; ^c4621eb
 
 	* IX - é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença; ^bd2e94f
 
-	* X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação; ^eaedacb
+	* X - são <u>invioláveis</u> a <span style="color:#83a598">intimidade, a vida privada, a honra e a imagem</span> das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação; ^eaedacb
 
-	* XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial; (Vide Lei n° 13.105, de 2015) (Vigência) ^96c4e7b
+	* XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, <span style="color:#fb4934">salvo</span> em caso de <span style="color:#83a598"><u>flagrante delito ou desastre</u></span>, ou para <span style="color:#83a598"><u>prestar socorro</u></span>, ou, <span style="color:#fb4934">durante o dia</span>, por <u>determinação judicial</u>; (Vide Lei n° 13.105, de 2015) (Vigência) ^96c4e7b
+		- ⚠️ **Salvo**:
+			- flagrante delito ou desastre
+			- prestar socorro
+			- determinação judicial - durante o dia!
 
-	* XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal; (Vide Lei n° 9.296, de 1996) ^bab8238
+	* XII - é <span style="color:#fb4934">inviolável</span> o sigilo da <u>correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas</u>, <span style="color:#fb4934">salvo</span>, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para <u>fins de investigação criminal ou instrução processual penal</u>; (Vide Lei n° 9.296, de 1996) ^bab8238
+		- ⚠️**Salvo**:
+			- por ordem judicial, quando:
+			- na forma que a lei estabelecer
+			- para fins de investigação criminal ou instrução processual penal
 
-	* XIII - é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer; ^9b62699
+	* XIII - é livre o exercício de qualquer <u>trabalho, ofício ou profissão</u>, atendidas as qualificações profissionais que a lei estabelecer; ^9b62699
+		- <span style="color:#fb4934">Norma de eficácia contida</span>
 
 	* XIV - é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional; ^d13eabf
 
 	* XV - é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens; ^06e3aca
 
-	* XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente; ^9e95ff4
+	* XVI - todos podem reunir-se pacificamente, <u>sem armas</u>, em locais abertos ao público, <span style="color:#fb4934">independentemente de autorização</span>, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas <u>exigido prévio aviso à autoridade competente</u>; ^9e95ff4
 
-	* XVII - é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar; ^50873c0
+	* XVII - é plena a liberdade de associação para fins lícitos, <span style="color:#fb4934">vedada a de caráter paramilitar</span>; ^50873c0
 
-	* XVIII - a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento; ^7640a02
+	* XVIII - a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo <span style="color:#fb4934">vedada a interferência estatal em seu funcionamento</span>; ^7640a02
 
-	* XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado; ^6431343
+	* XIX - as associações <u>só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas</u> por **decisão judicial**, exigindo-se, no primeiro caso, o **trânsito em julgado**; ^6431343
 
 	* XX - ninguém poderá ser compelido a associar-se ou a permanecer associado; ^c27a014
 
-	* XXI - as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente; ^d04939a
+	* XXI - as entidades associativas, quando <span style="color:#fb4934">expressamente autorizadas</span>, têm legitimidade para representar seus filiados judicial ou extrajudicialmente; ^d04939a
 
-	* XXII - é garantido o direito de propriedade; ^43328d1
+	* XXII - é garantido o **direito de propriedade**; ^43328d1
 
 	* XXIII - a propriedade atenderá a sua função social; ^7867285
 
-	* XXIV - a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição; ^9af1e70
+	* XXIV - a lei estabelecerá o procedimento para <span style="color:#83a598">desapropriação</span> por <u>necessidade ou utilidade pública</u>, ou por <span style="color:#fb4934">interesse social</span>, <u>mediante justa e prévia indenização em dinheiro</u>, ressalvados os casos previstos nesta Constituição; ^9af1e70
+		
+		---
+- ⚠️Desapropriação: <span style="color:#d3869b">necessidade pública, utilidade pública ou interesse social.</span> Haverá indenização prévia e em dinheiro, <span style="color:#fe8019">exceto se for realizada para desapropriar</span>:
+	- para reforma agrária
+	- imóvel urbano não-edificado que não cumpriu sua função social
+	- confiscatória.
+- ⚠️Requisição administrativa:
+	- Iminente perigo público
+	- Interesse público
+STF: **<span style="color:#fe8019">um ente federativo não poderá requisitar bens, serviços e pessoal de outro ente</span>.**  
+- **<span style="color:#d3869b">Pequena propriedade rural</span>** não poderá ser penhorada para paramento de débitos <u>originados da atividade produtiva</u>, quando (**cumulativamente**):
+	- houver exploração econômica do bem pela família, e
+	- o débito for decorrente da atividade produtiva desenvolvida.
+	
+	---
+	* XXV - no caso de **iminente perigo público**, a autoridade competente <u>poderá usar de propriedade particular</u>, **assegurada ao proprietário indenização ulterior**, <span style="color:#fb4934">se houver dano</span>; ^e76d7be
 
-	* XXV - no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano; ^e76d7be
-
-	* XXVI - a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento; ^04247b2
+	* XXVI - a pequena propriedade rural, assim definida em lei, desde que **trabalhada pela família**, <span style="color:#fb4934">não será objeto de penhora</span> para pagamento de débitos <u>decorrentes de sua atividade produtiva</u>, dispondo a lei sobre os meios de financiar o seu desenvolvimento; ^04247b2
 
 	* XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar; ^b88d96e
 
@@ -143,13 +166,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* XXXII - o Estado promoverá, na forma da lei, a defesa do consumidor; ^30f1a0c
 
-	* XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado; (Regulamento) (Vide Lei n° 12.527, de 2011) ^797d26c
+	* XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, <span style="color:#fb4934">ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado</span>; (Regulamento) (Vide Lei n° 12.527, de 2011) ^797d26c
 
-	* XXXIV - são a todos assegurados, independentemente do pagamento de taxas: ^4450271
+	* XXXIV - são a todos assegurados, <span style="color:#fb4934">independentemente do pagamento de taxas</span>: ^4450271
 
-		* a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder; ^4cba4c0
+		* a) o **direito de petição** aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder; ^4cba4c0
 
-		* b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal; ^fa269b9
+		* b) a **obtenção de certidões em repartições públicas**, para defesa de direitos e esclarecimento de situações de interesse pessoal; ^fa269b9
 
 	* XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito; ^114c3bd
 
@@ -159,13 +182,27 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* XXXVIII - é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados: ^d62a1cc
 
-		* a) a plenitude de defesa; ^e648cab
+		* a) a **plenitude** de defesa; ^e648cab
 
-		* b) o sigilo das votações; ^3c3b800
+		* b) o **sigilo** das votações; ^3c3b800
 
-		* c) a soberania dos veredictos; ^d6eeece
+		* c) a **soberania** dos veredictos; ^d6eeece
 
-		* d) a competência para o julgamento dos crimes dolosos contra a vida; ^8e70002
+		* d) a competência para o julgamento dos **crimes dolosos contra a vida**; ^8e70002
+	
+	---
+	**<u>STF</u>** - não pode a **legislação estadual** criar órgão que invada a competência do tribunal do júri.
+	
+	**<u>STF</u>** - o **crime de latrocínio** (roubo seguido de morte) é de competência do **juiz singular.**
+	
+	Quando houver **foro especial** delimitado pela **CF/88**, <span style="color:#fe8019"><u>a competência do tribunal do júri não subsistirá.</u></span> Ainda, se o foro for delimitado pela **Constituição Estadual,** a <span style="color:#b8bb26"><u>competência do tribunal do júri prevalecerá</u></span>.  
+	
+	**<u>STF</u>** - **vereadores** que cometerem crimes dolosos contra a vida serão julgados pelo **tribunal do júri**, mesmo que haja foro especial decorrente da Constituição Estadual.
+	
+	**<u>STF</u>** - a soberania do tribunal do júri não afasta a recorribilidade das suas decisões, quando for <span style="color:#fe8019"><u>manifestamente contrária às provas dos autos.</u></span>
+	
+	--- 
+	
 
 	* XXXIX - não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal; ^7e793f2
 
@@ -173,13 +210,13 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* XLI - a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais; ^6e53da3
 
-	* XLII - a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei; ^aec14bf
+	* XLII - a prática do **racismo** constitui crime <span style="color:#fb4934">**inafiançável e imprescritível**</span>, sujeito à pena de reclusão, nos termos da lei; ^aec14bf
 
-	* XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem; (Regulamento) ^dbc2060
+	* XLIII - a lei considerará crimes <span style="color:#fb4934">**inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos**</span>, por eles respondendo os mandantes, <u>os executores e os que, podendo evitá-los, se omitirem</u>; (Regulamento) ^dbc2060
 
-	* XLIV - constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático; ^847fcf4
+	* XLIV - constitui crime <span style="color:#fb4934">**inafiançável e imprescritível**</span> a **ação de grupos armados, civis ou militares**, <u>contra a ordem constitucional e o Estado Democrático;</u> ^847fcf4
 
-	* XLV - nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido; ^d84b66c
+	* XLV - nenhuma pena passará da pessoa do condenado, podendo a <span style="color:#fb4934">obrigação de reparar o dano e a decretação do perdimento de bens</span> ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, **até o limite do valor do patrimônio transferido**; ^d84b66c
 
 	* XLVI - a lei regulará a individualização da pena e adotará, entre outras, as seguintes: ^241873b
 
@@ -195,7 +232,7 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 	* XLVII - não haverá penas: ^e8379e8
 
-		* a) de morte, salvo em caso de guerra declarada, nos termos do art. [[#^b346ba5|84]], [[#^a737d5a|XIX]]; ^da62708
+		* a) de morte, <span style="color:#fe8019">salvo em caso de guerra declarada, nos termos do art.</span> [[#^b346ba5|84]], [[#^a737d5a|XIX]]; ^da62708
 
 		* b) de caráter perpétuo; ^acc6332
 
@@ -205,89 +242,110 @@ Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Consti
 
 		* e) cruéis; ^9aa42a0
 
-	* XLVIII - a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado; ^007e3f0
+---
+**Imprescritíveis** (RAÇÃO)
 
-	* XLIX - é assegurado aos presos o respeito à integridade física e moral; ^4199147
+**<span style="color:#fe8019">RA</span>**cismo
 
-	* L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação; ^67c0552
+**<span style="color:#fe8019">AÇÃO</span>** **de grupos armados**
 
-	* LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei; ^d7e4479
+**Insuscetíveis de graça** (3TH não tem graça)
 
-	* LII - não será concedida extradição de estrangeiro por crime político ou de opinião; ^1ccc5de
+**<span style="color:#fe8019">T</span>ráfico**
 
-	* LIII - ninguém será processado nem sentenciado senão pela autoridade competente; ^b69e3d0
+**<span style="color:#fe8019">T</span>errorismo**
 
-	* LIV - ninguém será privado da liberdade ou de seus bens sem o devido processo legal; ^79c9aee
+**<span style="color:#fe8019">T</span>ortura**
 
-	* LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes; ^d573e6b
+**<span style="color:#fe8019">H</span>ediondos**
 
-	* LVI - são inadmissíveis, no processo, as provas obtidas por meios ilícitos; ^353dcca
+A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
-	* LVII - ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória; ^22c9e39
+---
 
-	* LVIII - o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei; (Regulamento) ^aefdcef
+* XLVIII - a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado; ^007e3f0
 
-	* LIX - será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal; ^81e5c21
+* XLIX - é assegurado aos presos o respeito à integridade física e moral; ^4199147
 
-	* LX - a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem; ^20b249b
+* L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação; ^67c0552
 
-	* LXI - ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei; ^49b6d3a
+* LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei; ^d7e4479
 
-	* LXII - a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada; ^400baca
+* LII - não será concedida extradição de estrangeiro por crime político ou de opinião; ^1ccc5de
 
-	* LXIII - o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado; ^5d9b804
+* LIII - ninguém será processado nem sentenciado senão pela autoridade competente; ^b69e3d0
 
-	* LXIV - o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial; ^036082f
+* LIV - ninguém será privado da liberdade ou de seus bens sem o devido processo legal; ^79c9aee
 
-	* LXV - a prisão ilegal será imediatamente relaxada pela autoridade judiciária; ^3c399ae
+* LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes; ^d573e6b
 
-	* LXVI - ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança; ^c0ede91
+* LVI - são inadmissíveis, no processo, as provas obtidas por meios ilícitos; ^353dcca
 
-	* LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel; ^8166269
+* LVII - ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória; ^22c9e39
 
-	* LXVIII - conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder; ^16da261
+* LVIII - o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei; (Regulamento) ^aefdcef
 
-	* LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data ", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público; ^1f431d6
+* LIX - será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal; ^81e5c21
 
-	* LXX - o mandado de segurança coletivo pode ser impetrado por: ^30595c2
+* LX - a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem; ^20b249b
 
-		* a) partido político com representação no Congresso Nacional; ^2dd330b
+* LXI - ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei; ^49b6d3a
 
-		* b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados; ^d110a08
+* LXII - a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada; ^400baca
 
-	* LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania; ^7e4ddbc
+* LXIII - o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado; ^5d9b804
 
-	* LXXII - conceder-se-á "habeas-data": ^ce16bec
+* LXIV - o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial; ^036082f
 
-		* a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; ^84c1650
+* LXV - a prisão ilegal será imediatamente relaxada pela autoridade judiciária; ^3c399ae
 
-		* b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo; ^afbacac
+* LXVI - ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança; ^c0ede91
 
-	* LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência; ^f17d449
+* LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel; ^8166269
 
-	* LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos; ^f7530d0
+* LXVIII - conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder; ^16da261
 
-	* LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença; ^6cb0e0b
+* LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data ", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público; ^1f431d6
 
-	* LXXVI - são gratuitos para os reconhecidamente pobres, na forma da lei: (Vide Lei n° 7.844, de 1989) ^8ac6cb3
+* LXX - o mandado de segurança coletivo pode ser impetrado por: ^30595c2
 
-		* a) o registro civil de nascimento; ^1d75f60
+	* a) partido político com representação no Congresso Nacional; ^2dd330b
 
-		* b) a certidão de óbito; ^c0f2937
+	* b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados; ^d110a08
 
-	* LXXVII - são gratuitas as ações de "habeas-corpus" e "habeas-data", e, na forma da lei, os atos necessários ao exercício da cidadania. (Regulamento) ^0087f19
+* LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania; ^7e4ddbc
 
-	* LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) ^0162659
+* LXXII - conceder-se-á "habeas-data": ^ce16bec
 
-	* LXXIX - é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais. (Incluído pela Emenda Constitucional n° 115, de 2022) ^6903034
+	* a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; ^84c1650
 
-	* § 1° As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata. ^a7776cf
+	* b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo; ^afbacac
 
-	* § 2° Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte. ^99e3f0f
+* LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência; ^f17d449
 
-	* § 3° Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) (Vide Atos decorrentes do disposto no § 3° do art. 5° da Constituição) ^9a1d41b
+* LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos; ^f7530d0
 
-	* § 4° O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. (Incluído pela Emenda Constitucional n° 45, de 2004) ^7634135
+* LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença; ^6cb0e0b
+
+* LXXVI - são gratuitos para os reconhecidamente pobres, na forma da lei: (Vide Lei n° 7.844, de 1989) ^8ac6cb3
+
+	* a) o registro civil de nascimento; ^1d75f60
+
+	* b) a certidão de óbito; ^c0f2937
+
+* LXXVII - são gratuitas as ações de "habeas-corpus" e "habeas-data", e, na forma da lei, os atos necessários ao exercício da cidadania. (Regulamento) ^0087f19
+
+* LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) ^0162659
+
+* LXXIX - é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais. (Incluído pela Emenda Constitucional n° 115, de 2022) ^6903034
+
+* § 1° As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata. ^a7776cf
+
+* § 2° Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte. ^99e3f0f
+
+* § 3° Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) (Vide Atos decorrentes do disposto no § 3° do art. 5° da Constituição) ^9a1d41b
+
+* § 4° O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. (Incluído pela Emenda Constitucional n° 45, de 2004) ^7634135
 
 ## 2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)|Resumo]]
