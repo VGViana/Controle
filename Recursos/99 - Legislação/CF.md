@@ -269,7 +269,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação; ^67c0552
 
-* LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei; ^d7e4479
+* LI - <span style="color:#fb4934">nenhum brasileiro será extraditado</span>, **salvo o naturalizado**, em caso de **crime comum, praticado antes da naturalização**, ou de **comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins**, na forma da lei; ^d7e4479
 
 * LII - não será concedida extradição de estrangeiro por crime político ou de opinião; ^1ccc5de
 
@@ -289,7 +289,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * LX - a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem; ^20b249b
 
-* LXI - ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei; ^49b6d3a
+* LXI - ninguém será preso senão em <span style="color:#fb4934">flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente</span>, <u>salvo nos casos de transgressão militar ou crime propriamente militar</u>, definidos em lei; ^49b6d3a
 
 * LXII - a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada; ^400baca
 
@@ -301,7 +301,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * LXVI - ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança; ^c0ede91
 
-* LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel; ^8166269
+* LXVII - <span style="color:#fb4934">não haverá prisão civil por dívida</span>, salvo a do responsável pelo **inadimplemento voluntário e inescusável de obrigação alimentícia** e a do depositário infiel; ^8166269
 	* STF - é **<span style="color:#fe8019">ilícita</span>** a prisão civil do **depositário infiel**, <span style="color:#fe8019">em qualquer modalidade de depósito.</span>
 	- STF - é **<span style="color:#d3869b">lícita</span>** a prisão civil do **devedor de alimentos.**
 	- No caso do **<span style="color:#d3869b">devedor de alimentos</span>**, a prisão ocorrerá **<u>apenas quando</u>** houver o **<span style="color:#d3869b"><u>inadimplemento for voluntário e inescusável</u></span>** da obrigação de alimentos. **<span style="color:#fe8019">Esse é o único caso de <u>prisão civil</u> adotado no Brasil.</span>**
@@ -313,23 +313,19 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * LXVIII - conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder; ^16da261
 
-* LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por "habeas-corpus" ou "habeas-data ", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público; ^1f431d6
+* LXIX - conceder-se-á mandado de segurança para proteger <span style="color:#83a598">**direito líquido e certo**</span>, <span style="color:#fb4934">não amparado por "habeas-corpus" ou "habeas-data "</span>, <u>quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público</u>; ^1f431d6
 
-* LXX - o mandado de segurança coletivo pode ser impetrado por: ^30595c2
-
-	* a) partido político com representação no Congresso Nacional; ^2dd330b
-
+* LXX - o <span style="color:#83a598">**mandado de segurança coletivo**</span> pode ser impetrado por: ^30595c2
+	* a) partido político <u>com representação no Congresso Nacional</u>; ^2dd330b
 	* b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados; ^d110a08
 
-* LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania; ^7e4ddbc
+* LXXI - conceder-se-á mandado de injunção sempre que a <span style="color:#fb4934">**falta de norma regulamentadora**</span> torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania; ^7e4ddbc
 
-* LXXII - conceder-se-á "habeas-data": ^ce16bec
+* LXXII - conceder-se-á "<span style="color:#83a598">**habeas-data**</span>": ^ce16bec
+	* a) para assegurar o conhecimento de <u>informações relativas à pessoa do impetrante</u>, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; ^84c1650
+	* b) para a <u>retificação de dados</u>, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo; ^afbacac
 
-	* a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; ^84c1650
-
-	* b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo; ^afbacac
-
-* LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência; ^f17d449
+* LXXIII - qualquer **cidadão** é parte legítima para propor **ação popular** que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência; ^f17d449
 
 * LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos; ^f7530d0
 
