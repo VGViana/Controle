@@ -331,10 +331,8 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença; ^6cb0e0b
 
-* LXXVI - são gratuitos para os reconhecidamente pobres, na forma da lei: (Vide Lei n° 7.844, de 1989) ^8ac6cb3
-
+* LXXVI - são **gratuitos** para os <span style="color:#fb4934">reconhecidamente pobres</span>, na forma da lei: (Vide Lei n° 7.844, de 1989) ^8ac6cb3
 	* a) o registro civil de nascimento; ^1d75f60
-
 	* b) a certidão de óbito; ^c0f2937
 
 * LXXVII - são gratuitas as ações de "habeas-corpus" e "habeas-data", e, na forma da lei, os atos necessários ao exercício da cidadania. (Regulamento) ^0087f19
@@ -347,88 +345,103 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * § 2° Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte. ^99e3f0f
 
-* § 3° Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais. (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) (Vide Atos decorrentes do disposto no § 3° do art. 5° da Constituição) ^9a1d41b
+* § 3° Os tratados e convenções internacionais **sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros**, serão <span style="color:#83a598">equivalentes às emendas constitucionais.</span> (Incluído pela Emenda Constitucional n° 45, de 2004) (Vide ADIN 3392) (Vide Atos decorrentes do disposto no § 3° do art. 5° da Constituição) ^9a1d41b
 
 * § 4° O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. (Incluído pela Emenda Constitucional n° 45, de 2004) ^7634135
 
 ## 2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)|Resumo]]
 
-* Art. 6° São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional n° 90, de 2015) ^251d44c
+* Art. 6° São <span style="color:#83a598">**direitos sociais**</span> a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional n° 90, de 2015) ^251d44c
+	- **⚠️<span style="color:#fb4934">Não esqueça!</span>**
+	- A **<span style="color:#83a598">Teoria da Reserva do Possível</span>** consiste na ideia de que cabe ao Estado efetivar os direitos sociais, mas apenas na medida do **financeiramente possível.** Para não deixar os indivíduos vulneráveis frente ao poder estatal de realizar as políticas sociais, houve a criação do **<span style="color:#b8bb26">Mínimo Existencial</span>**.
+	- **Art. 6º. São direitos sociais:**
+		- educação
+		- saúde
+		- alimentação
+		- trabalho
+		- moradia
+		- transporte
+		- lazer
+		- segurança
+		- previdência social
+		- proteção à maternidade e à infância
+		- assistência aos desamparados
 
-	* Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide Lei n° 14.601, de 2023) ^49a969f
+	* **Parágrafo único**. Todo brasileiro <span style="color:#fe8019"><u>em situação de vulnerabilidade social</u></span> terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária (Incluído pela Emenda Constitucional n° 114, de 2021) (Vide Lei n° 14.601, de 2023) ^49a969f
 
-* Art. 7° São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social: ^0f410c4
+* Art. 7° São direitos dos trabalhadores <span style="color:#83a598">**urbanos e rurais**</span>, além de outros que visem à melhoria de sua condição social: ^0f410c4
 
-	* I - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos; ^fe73bea
+	* I - relação de emprego protegida contra <span style="color:#fe8019">despedida arbitrária ou sem justa causa</span>, nos termos de <u>lei complementar</u>, que preverá indenização compensatória, dentre outros direitos; ^fe73bea
 
-	* II - seguro-desemprego, em caso de desemprego involuntário; ^a335086
+	* II - seguro-desemprego, em caso de <span style="color:#fe8019">desemprego involuntário</span>; ^a335086
 
-	* III - fundo de garantia do tempo de serviço; ^bff636c
+	* III - <span style="color:#fe8019">fundo de garantia do tempo de serviço</span>; ^bff636c
 
-	* IV - salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim; ^d137e98
+	* IV - **salário mínimo**, fixado em lei, <span style="color:#fe8019">nacionalmente unificado</span>, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, <span style="color:#fe8019">com reajustes periódicos que lhe preservem o poder aquisitivo</span>, <u>sendo vedada sua vinculação para qualquer fim</u>; ^d137e98
+		- **<u>Súmula Vinculante nº 04</u>**: Salvo nos casos previstos na Constituição, o salário-mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial.
 
-	* V - piso salarial proporcional à extensão e à complexidade do trabalho; ^756e911
+	* V - piso salarial <span style="color:#fe8019">proporcional à extensão e à complexidade</span> do trabalho; ^756e911
 
-	* VI - irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo; ^d255ee9
+	* VI - <span style="color:#fe8019">**irredutibilidade do salário**</span>, <span style="color:#83a598">**salvo o disposto em convenção ou acordo coletivo**</span>; ^d255ee9
 
-	* VII - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável; ^a29bb55
+	* VII - garantia de salário, <span style="color:#fe8019">**nunca inferior ao mínimo**</span>, para os que percebem remuneração variável; ^a29bb55
 
-	* VIII - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria; ^b7430d7
+	* VIII - décimo terceiro salário <span style="color:#fe8019">**com base na remuneração integral ou no valor da aposentadoria**</span>; ^b7430d7
 
 	* IX - remuneração do trabalho noturno superior à do diurno; ^3f6af15
 
-	* X - proteção do salário na forma da lei, constituindo crime sua retenção dolosa; ^755091e
+	* X - proteção do salário na forma da lei, <span style="color:#fe8019">**constituindo crime sua retenção dolosa**</span>; ^755091e
 
 	* XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei; ^b0278fb
 
-	* XII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0847d33
+	* XII - <span style="color:#fe8019">**salário-família pago em razão do dependente**</span> do trabalhador de baixa renda nos termos da lei; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^0847d33
 
-	* XIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Vide Decreto-Lei n° 5.452, de 1943) ^544ec34
+	* XIII - duração do trabalho normal <span style="color:#fe8019">**não superior a oito horas diárias e quarenta e quatro semanais**</span>, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Vide Decreto-Lei n° 5.452, de 1943) ^544ec34
 
-	* XIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva; ^cced1f9
+	* XIV - jornada de <span style="color:#fe8019">**seis horas para o trabalho realizado em turnos ininterruptos de revezamento,**</span> salvo negociação coletiva; ^cced1f9
 
-	* XV - repouso semanal remunerado, preferencialmente aos domingos; ^13418a3
+	* XV - repouso semanal remunerado, **preferencialmente** aos domingos; ^13418a3
 
-	* XVI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal; (Vide Del 5.452, art. 59 § 1°) ^9cab680
+	* XVI - remuneração do **serviço extraordinário superior**, no mínimo, em <span style="color:#fe8019">**cinqüenta por cento à do normal**</span>; (Vide Del 5.452, art. 59 § 1°) ^9cab680
 
-	* XVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; ^dec1e40
+	* XVII - gozo de férias anuais remuneradas com, pelo menos, <span style="color:#fe8019">**um terço a mais do que o salário normal**</span>; ^dec1e40
 
-	* XVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias; ^30b33de
+	* XVIII - **licença à gestante**, sem prejuízo do emprego e do salário, <span style="color:#fe8019">**com a duração de cento e vinte dias**</span>; ^30b33de
 
-	* XIX - licença-paternidade, nos termos fixados em lei; ^c6fbc10
+	* XIX - **licença-paternidade**, nos termos fixados em lei; ^c6fbc10
 
 	* XX - proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei; ^269e85b
 
-	* XXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei; ^24a4f6b
+	* XXI - aviso prévio proporcional ao tempo de serviço, sendo no <span style="color:#fe8019">**mínimo de trinta dias**</span>, nos termos da lei; ^24a4f6b
 
 	* XXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança; ^be2a168
 
-	* XXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei; ^a134df9
+	* XXIII - adicional de remuneração para as atividades <span style="color:#fe8019">**penosas, insalubres ou perigosas**</span>, na forma da lei; ^a134df9
 
 	* XXIV - aposentadoria; ^d2b3dc9
 
-	* XXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^7444b20
+	* XXV - assistência gratuita aos filhos e dependentes desde o nascimento <span style="color:#fe8019">**até 5 (cinco) anos de idade em creches e pré-escolas**</span>; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^7444b20
 
-	* XXVI - reconhecimento das convenções e acordos coletivos de trabalho; ^1bf7257
+	* XXVI - reconhecimento das **convenções e acordos coletivos de trabalho**; ^1bf7257
 
-	* XXVII - proteção em face da automação, na forma da lei; ^02079b3
+	* XXVII - <span style="color:#fe8019">**proteção em face da automação**</span>, na forma da lei; ^02079b3
 
-	* XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa; ^1f0f98b
+	* XXVIII - seguro contra acidentes de trabalho, <span style="color:#83a598">**<u>a cargo do empregador</u>**</span>, <span style="color:#fe8019">**sem excluir a indenização a que este está obrigado,**</span> <span style="color:#fe8019">**<span style="color:#83a598"><span style="color:#fe8019"><u>quando incorrer em dolo ou culpa</u></span></span>**</span>; ^1f0f98b
 
-	* XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional n° 28, de 2000) ^bee76d7
+	* XXIX - ação, quanto aos créditos resultantes das relações de trabalho, <span style="color:#fe8019">**com prazo prescricional de**</span> **cinco anos** para os trabalhadores urbanos e rurais, **até o limite de dois anos após a extinção do contrato de trabalho**; (Redação dada pela Emenda Constitucional n° 28, de 2000) ^bee76d7
+		- havendo extinção do contrato, poderá retroagir em até 5 anos o direito de pedir. Todavia, o prazo para discutir os créditos, após a extinção contratual, é de apenas 2 anos.
 
-		* a) (Revogada). (Redação dada pela Emenda Constitucional n° 28, de 2000) ^208d2ae
-
-		* b) (Revogada). (Redação dada pela Emenda Constitucional n° 28, de 2000) ^d9bacc1
-
-	* XXX - proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil; ^13574f6
+	* XXX - **proibição de diferença de salários**, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil; ^13574f6
 
 	* XXXI - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência; ^3307df6
 
 	* XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos; ^6c135de
 
 	* XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Redação dada pela Emenda Constitucional n° 20, de 1998) ^907361a
+		- **<span style="color:#d3869b">menores de 18 anos</span>** - proibição ao trabalho noturno, perigoso ou insalubre;
+		- **<span style="color:#fb4934">menores de 16 anos</span>** - exceto o de <u>aprendiz a partir dos 14 anos</u>;
+		- **<span style="color: #d79921">menores de 14 anos</span>** - proibição a <u>qualquer tipo e trabalho</u>;
 
 	* XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso ^dd2c4a2
 
@@ -436,9 +449,10 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 8° É livre a associação profissional ou sindical, observado o seguinte: ^4778042
 
-	* I - a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical; ^11fb825
+	* I - a lei <span style="color:#fe8019">não poderá exigir autorização do Estado para a fundação de sindicato</span>, <span style="color:#83a598">ressalvado o registro no órgão competente</span>, vedadas ao Poder Público a interferência e a intervenção na organização sindical; ^11fb825
 
-	* II - é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município; ^e6ca070
+	* II - é <span style="color:#fe8019">vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial</span>, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à <span style="color:#fe8019">área de um Município</span>; ^e6ca070
+		- **Princípio da unicidade da organização sindical**
 
 	* III - ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas; ^1e49026
 
@@ -446,23 +460,21 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* V - ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato; ^fc379f8
 
-	* VI - é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho; ^7f4991b
+	* VI - é <span style="color:#83a598">obrigatória</span> a participação dos sindicatos nas <span style="color:#83a598">negociações coletivas</span> de trabalho; ^7f4991b
 
 	* VII - o aposentado filiado tem direito a votar e ser votado nas organizações sindicais; ^d9c8279
 
-	* VIII - é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei. ^6c6cebc
+	* VIII - é vedada a dispensa do **empregado sindicalizado** a partir do <span style="color:#fe8019">**registro da candidatura**</span> **a cargo de direção ou representação sindical** e, se eleito, ainda que suplente, <span style="color:#fe8019">até um ano após o final do mandato</span>, <span style="color:#d3869b">**salvo se cometer falta grave**</span> nos termos da lei. ^6c6cebc
 
 	* Parágrafo único. As disposições deste artigo aplicam-se à organização de sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei estabelecer. ^4240cac
 
 * Art. 9° É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender. ^906184d
-
 	* § 1° A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade. ^e49bd0f
-
 	* § 2° Os abusos cometidos sujeitam os responsáveis às penas da lei. ^b12d23e
 
-* Art. 10. É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação. ^68b4123
+* Art. 10. É <span style="color:#fe8019">**assegurada a participação dos trabalhadores e empregadores**</span> nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação. ^68b4123
 
-* Art. 11. Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. ^04140f2
+* Art. 11. Nas empresas de <span style="color:#83a598">**mais de duzentos empregados**</span>, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. ^04140f2
 
 ## 2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)|Resumo]]
