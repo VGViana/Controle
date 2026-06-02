@@ -1,6 +1,6 @@
-**1.MODELO CONCEITUAL - MODELO ENTIDADE-RELACIONAMENTO (ER)**
+# **1.MODELO CONCEITUAL - MODELO ENTIDADE-RELACIONAMENTO (ER)**
 
-1.1 Conceitos relevantes
+## 1.1 Conceitos relevantes
 
 - **Modelo** é uma **representação** simplificada de uma **realidade**.
 - **Entidade:**
