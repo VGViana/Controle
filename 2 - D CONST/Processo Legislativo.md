@@ -105,3 +105,4 @@ Observe que a iniciativa das leis orçamentárias (plano plurianual, lei de dire
 1% DO ELEITORADO NACIONAL
 5 ESTADOS DA FEDERAÇÃO
 0,3% DOS ELEITORES DE CADA UM DOS ESTADOS ENVOLVIDOS
+Projeto deve ser apresentado na Câmara dos Deputados
