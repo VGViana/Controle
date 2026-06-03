@@ -74,10 +74,14 @@ _Art.61, § 1º. CF/88 - São de_ **_iniciativa privativa do Presidente da Repú
 _I - fixem ou modifiquem os efetivos das_ **_Forças Armadas;_**
 _II - disponham sobre:_
 _a) criação de cargos, funções ou empregos públicos na_ **_administração direta e autárquica ou aumento de sua remuneração;_**
+
 _b) organização administrativa e judiciária,_ **_matéria tributária_** _e orçamentária, serviços públicos e pessoal da administração_ **_dos Territórios;_**
 **_OBS: Neste caso, a matéria tributária é a reservada aos TERRITÓRIOS!_**
+
 _c) servidores públicos da_ **_União e Territórios_**_, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria;_
+
 _d) organização do_ **_Ministério Público e da Defensoria Pública da União,_** _bem como_ **_normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do Distrito Federal e dos Territórios;_**
+
 _e)_ **_criação e extinção de Ministérios e órgãos da administração pública,_** _observado o disposto no art. 84._
 
 ⚠️**Atenção!** <u>Muitas questões saem deste inciso.</u> O examinador pode colocar na sua prova um caso prático de uma lei que visaria criar uma entidade administrativa (ex. autarquia) com iniciativa de Deputado ou Senador. A lei em questão seria inconstitucional por vício de iniciativa!
