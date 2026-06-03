@@ -147,3 +147,109 @@ Classifica-se como **<span style="color:#83a598">Passivo Circulante</span>** qua
 
 - **<span style="color:#83a598">Circulante</span>** → mesmo que o credor tenha concordado, **Após** a data do balanço, em não exigir pagamento antecipado.
 - **<span style="color:#fb4934">Não Circulante</span>** → se o credor tiver concordado, **Até** a data do balanço, em proporcionar uma dilação de prazo, a terminar pelo menos doze meses após a data do balanço.
+
+## **1.1. Demonstração do Resultado e Demonstração do Resultado Abrangente**
+
+### **1.1.1.️ Demonstração do Resultado do Exercício (DRE)**
+
+#### **1.1.1.1. Estrutura**
+
+| **Lei 6.404**                                          | **CPC 26  <br>**                                        |
+| ------------------------------------------------------ | ------------------------------------------------------- |
+| **= Receita Operacional Bruta**                        | **Receitas**                                            |
+| (-) Deduções da Receita                                | (-) CMV                                                 |
+| Impostos sobre Vendas                                  | **= Resultado Operacional Bruto**                       |
+| Descontos Incondicionais Concedidos                    | (-) Despesas com Vendas                                 |
+| Devoluções de Vendas                                   | (-) Despesas Gerais e Administrativas                   |
+| Abatimentos sobre Vendas                               | (-) Outras Despesas                                     |
+| Ajuste a Valor Presente de Vendas                      | (+) Outras Receitas                                     |
+| **= Receita Operacional Líquida**                      | (+/-) Resultado de Equivalência Patrimonial             |
+| (-) CMV                                                | **(=) Resultado Antes Receitas e Despesas Financeiras** |
+| **= Resultado Operacional Bruto**                      | (-) Despesas Financeiras                                |
+| (-) Despesas Operacionais                              | (+) Receitas Financeiras                                |
+| Despesas com Vendas                                    | **(=) Resultado Antes dos Tributos sobre o Lucro**      |
+| Despesas Administrativas                               | (-) Tributos sobre o Lucro                              |
+| Despesas Gerais                                        | **(=) Resultado Líquido das Operações Continuadas**     |
+| (+/-) Resultado Financeiro Líquido                     | (+/-) Resultado Líquido das Operações Descontinuadas    |
+| (-) Outras Despesas Operacionais                       | **(=) Resultado Líquido do Período**                    |
+| (+) Outras Receitas Operacionais                       |                                                         |
+| **= Resultado operacional Líquido**                    |                                                         |
+| (-) Outras Despesas                                    |                                                         |
+| (+) Outras Receitas                                    |                                                         |
+| **(=) Resultado antes do IR e da CSLL**                |                                                         |
+| (-) CSLL                                               |                                                         |
+| (-) IR                                                 |                                                         |
+| **(=) Resultado do Exercício Antes das Participações** |                                                         |
+| (-) Participações                                      |                                                         |
+| Debenturistas                                          |                                                         |
+| Empregados                                             |                                                         |
+| Administradores                                        |                                                         |
+| Partes Beneficiárias                                   |                                                         |
+| Fundos de Assistência e Previdência para Empregados    |                                                         |
+| **(=) Resultado Líquido do Exercício  <br>**           |                                                         |
+| (÷) Número de Ações do Capital Social                  |                                                         |
+| **(=) Lucro Líquido por Ação do Capital**              |                                                         |
+
+#### **1.1.1.2. Subclassificação das Despesas**
+
+| **Método da Natureza da Despesa**                                                                                                                                                            | **Método da Função da Despesa**                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| As despesas são agregadas na DRE de acordo com a sua natureza:<br><br>Ex.: Depreciações, compras de materiais, despesas com transporte, benefícios aos empregados e despesas de publicidade. | Classificando-se as despesas de acordo com a sua função como parte do custo dos produtos ou serviços vendidos ou, por exemplo, das despesas de distribuição ou das atividades administrativas.<br><br> No mínimo, a entidade deve divulgar o custo dos produtos e serviços vendidos segundo esse método separadamente das outras despesas. |
+| Pode ser simples de aplicar → não são necessárias alocações de gastos a classificações funcionais.                                                                                           | Pode proporcionar informação mais relevante → Mas a alocação de despesas às funções pode exigir alocações arbitrárias e envolver considerável julgamento.                                                                                                                                                                                  |
+
+⚠️ As entidades que **classificarem os gastos por função** → devem divulgar informação **adicional sobre a natureza** das despesas (incluindo depreciação, amortização e as despesas com benefícios aos empregados).
+
+- **Lei 6.404/76** → Método da **<span style="color:#83a598">Função</span>.**
+
+### **1.1.2. Demonstração dos Resultados Abrangentes (DRA)**
+
+📌 **Resultado Abrangente** ⇒ **Mutação** que ocorre no **PL** que resulta de transações e outros eventos que **<span style="color:#fb4934">não</span>** sejam derivados de transações com os **<span style="color:#fb4934">sócios</span>** na sua qualidade de proprietários.
+
+- Compreende todos os componentes da **Demonstração do Resultado e** da Demonstração de **Outros Resultados Abrangentes.**
+
+- 📌 **Outros Resultados Abrangentes <span style="color:#fb4934">(ORA)</span>** ⇒ Itens de **Receita e Despesa** (incluindo ajustes de reclassificação) que **<span style="color:#fb4934">Não</span>** são Reconhecidos na **<span style="color:#fb4934">DRE</span>, mas alteram o PL quantitativamente** (não sejam derivados de transações com os sócios na sua qualidade de proprietários). Exemplos:  
+	• Ajustes de Avaliação Patrimonial  
+	• Ajustes Acumulados de Conversão  
+	• Realização da Reserva de Reavaliação  
+	• Ajustes de Exercícios Anteriores
+
+![[Outros resultados abrangentes.png]]
+
+## **1.2 Demonstração das Mutações do Patrimônio Líquido (DMPL)**
+
+- **<span style="color:#83a598">DMPL</span>** Demonstra a **Variação** ocorrida em todo o **<span style="color:#83a598">PL</span>** da empresa → Já a **<span style="color:#fb4934">DLPA</span>** demonstra apenas a Variação ocorrida em **<span style="color:#fb4934">Lucros ou Prejuízos Acumulados</span>.**
+
+- Em relação à **Obrigatoriedade**:
+    - **Lei nº 6.404/76** → DMPL é **<span style="color:#83a598">Facultativa</span>** (inclusive com a inclusão da DLPA em sua estrutura, já que a DLPA é obrigatória pela Lei).  
+    - **CPC 26** → DMPL **<span style="color:#fb4934">integra o rol das DC's</span>** (não menciona a DLPA).
+
+- Segundo o CPC 26, a DMPL inclui as seguintes **informações:**
+    - O **<span style="color:#83a598">Resultado Abrangente</span>** do Período, apresentando **separadamente:**
+        - O montante total atribuível aos **proprietários da entidade controladora** e
+        - O **montante** correspondente à **participação de não controladores**; _[Esse dado vem da DRA]_
+
+- Para cada componente do PL → Os **<span style="color:#83a598">Efeitos da Aplicação Retrospectiva</span>** ou da **<span style="color:#83a598">Reapresentação Retrospectiva</span>.**
+
+- Para cada componente do PL → A **<span style="color:#83a598">Conciliação</span> do Saldo no Início e no Final do Período,** demonstrando-se **separadamente** (no mínimo) **as mutações** decorrentes:
+	- Do Resultado Líquido.
+	- De cada item dos **Outros Resultados Abrangentes.**
+	- De **<span style="color:#83a598">Transações com os Proprietários realizadas na condição de proprietário</span>,** **demonstrando** **separadamente** suas **integralizações** e as **distribuições** realizadas, bem como modificações nas participações em controladas que não implicaram perda do controle.
+
+## **1.3. Demonstração dos Fluxos de Caixa (DFC)**
+
+- A informação sobre **fluxos de caixa** proporciona aos usuários das DC's **Base para avaliar:**
+    - A **Capacidade** de a entidade **<span style="color:#83a598">Gerar</span>** caixa e equivalentes de caixa.
+    - As **Necessidades** da entidade para **<span style="color:#fb4934">Utilizar</span>** esses fluxos de caixa.
+
+## **1.4. Notas Explicativas (NE)**
+
+- As notas explicativas devem:
+    - Apresentar informação acerca da **<span style="color:#83a598">Base</span> para a elaboração das DC's e das Políticas Contábeis** específicas utilizadas.
+    - Divulgar a informação **<span style="color:#83a598">Requerida</span> pelos Pronunciamentos** que **<span style="color:#fb4934">não</span>** tenha sido **apresentada nas DC's.**
+    - Prover Informação Adicional que **não** tenha sido **apresentada nas DC's,** mas que seja **<span style="color:#83a598">Relevante</span>** para sua compreensão.
+
+⚠️ Informação acerca dos **pressupostos relativos ao futuro** e outras **<span style="color:#83a598">fontes principais de incerteza nas estimativas</span>** **ao término do período de reporte** que possuam **<span style="color:#fb4934">risco</span>** significativo de **<span style="color:#fb4934">provocar ajuste material</span>** nos valores contábeis de ativos e passivos ao longo do próximo exercício social.
+
+- Deve divulgar nas **Notas Explicativas,** incluir detalhes elucidativos acerca:  
+    - Da sua **natureza**; e
+    - Do seu **valor contábil** ao término do período de reporte.
