@@ -255,3 +255,5 @@ Classifica-se como **<span style="color:#83a598">Passivo Circulante</span>** qua
 - Deve divulgar nas **Notas Explicativas,** incluir detalhes elucidativos acerca:  
     - Da sua **natureza**; e
     - Do seu **valor contábil** ao término do período de reporte.
+
+![[notas explicativas.png]]
