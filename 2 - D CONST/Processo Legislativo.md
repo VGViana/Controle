@@ -1,6 +1,6 @@
 # **Processo Legislativo**
 
-⚠️**<span style="color:#fb4934">Decore</span>!**
+⚠️**<span style="color:#fb4934">Decore!</span>**
 
 - Art. 59, CF/88. O processo legislativo compreende a elaboração de: 
 	- I - emendas à Constituição; 
@@ -23,7 +23,7 @@ Saiba que o **desrespeito** ao processo legislativo provoca a **<span style="col
 
 - **Inconstitucionalidade formal (<span style="color:#fb4934">nomodinâmica</span>**) - quando há erro ou desrespeito à **<span style="color:#fb4934">forma de elaboração</span> da norma.**
 
-**-**É importante que você grave que a sanção presidencial não convalida norma que desrespeitou o processo legislativo, ou seja, a norma continuará a ser **<span style="color:#fb4934">NULA</span>**. Isto é devido ao **Princípio da Não Convalidação das Nulidades.**
+-**É importante que você grave que a sanção presidencial não convalida norma que desrespeitou o processo legislativo, ou seja, a norma continuará a ser **<span style="color:#fb4934">NULA</span>**. **Isto é devido ao **Princípio da Não Convalidação das Nulidades.**
 
 - **Inconstitucionalidade material (<span style="color:#fb4934">nomoestática</span>)** - quando há violação às normas constitucionais, aos princípios ou palavras. Não dizem respeito ao processo legislativo, mas sim ao **<span style="color:#fb4934">conteúdo</span> da norma.**
 
@@ -44,51 +44,43 @@ Ainda, devido ao **Princípio da Simetria,** o processo federativo dos demais en
 
 Pode ser executado de 2 formas:
 
-- **Preventivo** - ocorre quando a **norma legal ainda não foi elaborada**, ou seja, está em processo de forma. Entenda que **está acontecendo o processo legislativo**!
-- Neste caso, não falamos em ação de inconstitucionalidade, o **controle ocorre através de mandado de segurança** impetrado por Senadores ou Deputados (depende em qual Casa Legislativa o processo de formação da Lei esteja tramitando)
+- **<span style="color:#b8bb26">Preventivo</span>** - ocorre quando a **<span style="color:#fb4934">norma legal ainda não foi elaborada</span>**, ou seja, está em processo de forma. Entenda que **está acontecendo o processo legislativo**!
+- Neste caso, <u>não falamos em ação de inconstitucionalidade</u>, o **controle ocorre através de mandado de segurança** impetrado por Senadores ou Deputados (depende em qual Casa Legislativa o processo de formação da Lei esteja tramitando)
 
-- **Repressivo** - ocorre quando a norma legal já está formada. O **processo legislativo foi encerrado**! O controle se dá por ações de inconstitucionalidade.
+- **<span style="color: #d79921">Repressivo</span>** - ocorre quando a norma legal já está formada. O **<span style="color:#fb4934">processo legislativo foi encerrado</span>**! O controle se dá por ações de inconstitucionalidade.
 
-**3. Procedimento Legislativo**
+# **3. Procedimento Legislativo**
 
-Procedimentos legislativos - conjunto de atos para a formação da lei
+Procedimentos legislativos - <u>conjunto de atos</u> para a formação da lei
 
-- **Procedimento legislativo comum** - leis ordinárias
-- **Procedimento legislativo especial** - leis complementares, leis delegadas, medidas provisórias, emendas constitucionais, decretos legislativos, resoluções.
+- **<span style="color:#83a598">Procedimento legislativo comum</span>** - leis ordinárias
+- **<span style="color:#d3869b">Procedimento legislativo especial</span>** - leis complementares, leis delegadas, medidas provisórias, emendas constitucionais, decretos legislativos, resoluções.
 
-**3.1 Procedimento legislativo ordinário**
+## **3.1 Procedimento legislativo ordinário**
 
-**3.1.1 Fase Introdutória**
+### **3.1.1 Fase Introdutória**
 
 Art. 61, CF/88. A iniciativa das leis complementares e ordinárias cabe a **qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.**
 
 Ainda, o Tribunal de Contas da União e a Defensoria Pública possuem iniciativa para elaborar leis relativas a certos assuntos relacionados às suas estruturas.
 
-**Há três tipos de iniciativa: Privada, Geral e Popular**
+**<u>Há três tipos de iniciativa: Privada, Geral e Popular</u>**
 
-**INICIATIVA PRIVATIVA (exclusiva ou reservada)** - quando a lei reserva a competência para certos agentes políticos.
+**<u>INICIATIVA PRIVATIVA (exclusiva ou reservada)</u>** - quando a lei reserva a competência para certos agentes políticos.
 
-- **Iniciativa reservada ao Presidente da República** 
+- **<span style="color:#fe8019">Iniciativa reservada ao Presidente da República</span>** 
 
 _Art.61, § 1º. CF/88 - São de_ **_iniciativa privativa do Presidente da República as leis que:_**
-
 _I - fixem ou modifiquem os efetivos das_ **_Forças Armadas;_**
-
 _II - disponham sobre:_
-
 _a) criação de cargos, funções ou empregos públicos na_ **_administração direta e autárquica ou aumento de sua remuneração;_**
-
 _b) organização administrativa e judiciária,_ **_matéria tributária_** _e orçamentária, serviços públicos e pessoal da administração_ **_dos Territórios;_**
-
 **_OBS: Neste caso, a matéria tributária é a reservada aos TERRITÓRIOS!_**
-
 _c) servidores públicos da_ **_União e Territórios_**_, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria;_
-
 _d) organização do_ **_Ministério Público e da Defensoria Pública da União,_** _bem como_ **_normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do Distrito Federal e dos Territórios;_**
-
 _e)_ **_criação e extinção de Ministérios e órgãos da administração pública,_** _observado o disposto no art. 84._
 
-⚠️**Atenção!** Muitas questões saem deste inciso. O examinador pode colocar na sua prova um caso prático de uma lei que visaria criar uma entidade administrativa (ex. autarquia) com iniciativa de Deputado ou Senador. A lei em questão seria inconstitucional por vício de iniciativa!
+⚠️**Atenção!** <u>Muitas questões saem deste inciso.</u> O examinador pode colocar na sua prova um caso prático de uma lei que visaria criar uma entidade administrativa (ex. autarquia) com iniciativa de Deputado ou Senador. A lei em questão seria inconstitucional por vício de iniciativa!
 
 _f) militares das_ **_Forças Armadas_**_, seu regime jurídico, provimento de cargo_
 
@@ -100,14 +92,12 @@ Observe que a iniciativa das leis orçamentárias (plano plurianual, lei de dire
 - Iniciativa privativa dos Tribunais de Contas
 - Iniciativa privativa do Poder Legislativo
 
-**INCIATIVA GERAL (comum ou concorrente)**
+**<u>INCIATIVA GERAL (comum ou concorrente)</u>**
 
-- **Iniciativa Popular**
+- **<span style="color:#d3869b">Iniciativa Popular</span>**
 
-⚠️**Decore!**
+⚠️**<span style="color:#fb4934">Decore!</span>**
 
 1% DO ELEITORADO NACIONAL
-
 5 ESTADOS DA FEDERAÇÃO
-
 0,3% DOS ELEITORES DE CADA UM DOS ESTADOS ENVOLVIDOS
