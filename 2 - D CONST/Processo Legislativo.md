@@ -45,7 +45,7 @@ Ainda, devido ao **Princípio da Simetria,** o processo federativo dos demais en
 Pode ser executado de 2 formas:
 
 - **<span style="color:#b8bb26">Preventivo</span>** - ocorre quando a **<span style="color:#fb4934">norma legal ainda não foi elaborada</span>**, ou seja, está em processo de forma. Entenda que **está acontecendo o processo legislativo**!
-- Neste caso, <u>não falamos em ação de inconstitucionalidade</u>, o **controle ocorre através de mandado de segurança** impetrado por Senadores ou Deputados (depende em qual Casa Legislativa o processo de formação da Lei esteja tramitando)
+	- Neste caso, <u>não falamos em ação de inconstitucionalidade</u>, o **controle ocorre através de mandado de segurança** impetrado por Senadores ou Deputados (depende em qual Casa Legislativa o processo de formação da Lei esteja tramitando)
 
 - **<span style="color: #d79921">Repressivo</span>** - ocorre quando a norma legal já está formada. O **<span style="color:#fb4934">processo legislativo foi encerrado</span>**! O controle se dá por ações de inconstitucionalidade.
 
