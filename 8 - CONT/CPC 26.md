@@ -201,6 +201,8 @@ Classifica-se como **<span style="color:#83a598">Passivo Circulante</span>** qua
 
 - **Lei 6.404/76** → Método da **<span style="color:#83a598">Função</span>.**
 
+![[natureza x função.png]]
+
 ### **1.1.2. Demonstração dos Resultados Abrangentes (DRA)**
 
 📌 **Resultado Abrangente** ⇒ **Mutação** que ocorre no **PL** que resulta de transações e outros eventos que **<span style="color:#fb4934">não</span>** sejam derivados de transações com os **<span style="color:#fb4934">sócios</span>** na sua qualidade de proprietários.
