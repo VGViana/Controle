@@ -202,8 +202,8 @@ STF - pode haver emendas que resultem em aumento de despesas nos casos de **<spa
 - Sempre será **<span style="color:#fe8019">MOTIVADO</span>**!
 - Não há retratação do veto
 - Tipos:
-- **Total** - incidir sobre **TODO** o projeto de lei
-- **Parcial** - incidir sobre artigo, parágrafo, inciso ou alínea (não pode haver veto de palavras ou expressões, o veto deve abranger o texto completo referente)
+	- **Total** - incidir sobre **TODO** o projeto de lei
+	- **Parcial** - incidir sobre artigo, parágrafo, inciso ou alínea (não pode haver veto de palavras ou expressões, o veto deve abranger o texto completo referente)
 - **Possui efeito RELATIVO**
 - Poderá ser superado:
 - Votação em **sessão conjunta do Congresso Nacional** - Prazo de 30 dias (contados do recebimento do veto)
