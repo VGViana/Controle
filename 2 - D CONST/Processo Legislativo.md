@@ -107,10 +107,6 @@ Observe que a iniciativa das leis orçamentárias (plano plurianual, lei de dire
 0,3% DOS ELEITORES DE CADA UM DOS ESTADOS ENVOLVIDOS
 Projeto deve ser apresentado na Câmara dos Deputados
 
-# **3. Procedimento Legislativo**
-
-## **3.1 Procedimento legislativo ordinário**
-
 ### **3.1.2 Fase Constitutiva**
 
 **Casa Iniciadora - projetos de iniciativa de:**
