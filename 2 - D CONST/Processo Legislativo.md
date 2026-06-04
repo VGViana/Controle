@@ -106,3 +106,210 @@ Observe que a iniciativa das leis orçamentárias (plano plurianual, lei de dire
 5 ESTADOS DA FEDERAÇÃO
 0,3% DOS ELEITORES DE CADA UM DOS ESTADOS ENVOLVIDOS
 Projeto deve ser apresentado na Câmara dos Deputados
+
+# **3. Procedimento Legislativo**
+
+## **3.1 Procedimento legislativo ordinário**
+
+### **3.1.2 Fase Constitutiva**
+
+**Casa Iniciadora - projetos de iniciativa de:**
+
+**Câmara dos Deputados**: Deputado Federal, Comissão de Deputados, Presidente da República, STF, Tribunais Superiores, PGR e dos cidadãos, ainda, Comissão Mista do Congresso Nacional.
+
+**Senado Federal:** Senadores ou Comissão do Senado, Comissão Mista do Congresso Nacional
+
+**Votação:**
+
+- Quórum de **<span style="color: #d79921">PRESENÇA</span>**: **MAIORIA ABSOLUTA** DOS MEMBROS DA RESPECTIVA CASA LEGISLATIVA
+- Quórum de **<span style="color:#b8bb26">APROVAÇÃO</span>**: **MAIORIA** DOS VOTOS PRESENTES
+
+**⚠️<span style="color:#fb4934">Atenção</span>**:
+
+-**<span style="color:#b8bb26">Casa Iniciadora</span>** - projeto poderá ser:
+
+- aprovado - será encaminhado para a Casa Revisora
+- rejeitado - arquivado. Apenas poderá ser objeto de novo projeto, na mesma sessão legislativa, se tiver a proposta da **maioria absoluta** dos representantes de quaisquer Casas.
+
+-**<span style="color:#83a598">Casa Revisora</span>**: projeto poderá ser:
+
+- aprovado sem emendas - encaminhado para o Presidente da República para a sanção/veto
+- aprovado **<span style="color:#fe8019">com</span>** emendas - a parte que sofreu as alterações voltará à Casa Iniciadora para que sejam examinadas as emendas. Saiba que o projeto não pode ser emendado novamente. E apenas há apreciação das emendas do jeito que foram feitas na Casa Revisora (não pode ser modificado).
+- Caso aprove - encaminha para o PR para sanção/veto;
+- Caso rejeite - encaminha para o PR **SEM AS EMENDAS.**
+
+Ainda, grave que, a parte do projeto que não sofreu emendas, seguirá o rito ordinário, não havendo a necessidade de retornar à Casa Iniciadora, para que seja feita a revisão.
+
+STF - caso as emendas da Casa Revisora não alterem substancialmente o texto legal, não precisa ser encaminhada para a Casa Iniciadora, ou seja, já envia para o PR.
+
+- rejeitado - arquivado
+
+### **3.1.3 Emendas Parlamentares**
+
+Ao estudarmos o processo legislativo comum, vimos que na fase constitutiva há a deliberação dos parlamentares. Neste momento, pode haver propostas de emendas parlamentares. Elas são emendas legislativas ao **projeto** de lei em andamento, ou seja, os parlamentares podem propor modificações ao **projeto** de lei.
+
+As **emendas parlamentares** podem ser:
+
+- Supressivas
+- Aditivas
+- Aglutinativas
+- Modificativas
+- Substitutivas
+- De redação
+
+<span style="color:#fe8019">Apenas</span> podem ser propostas por **<span style="color:#fe8019">PARLAMENTARES</span>**.
+
+⚠️**Atenção:**
+
+- pode o Presidente da República propor alterações às **<span style="color:#83a598">leis orçamentárias</span>** - ele propõe ao Congresso Nacional.
+- **<span style="color:#b8bb26">pode</span>** haver emendas parlamentares em projetos de **<span style="color:#b8bb26">lei de iniciativa reservada.</span>**
+
+⚠️**Atenção, as emendas parlamentares:**
+
+- devem ter <span style="color:#83a598">pertinência temática</span> com a matéria do projeto de lei;
+- em casos de projetos com iniciativa privativa, <span style="color:#fe8019">não pode haver emendas que causem o aumento de despesas</span>
+- em casos de projetos referentes aos **serviços administrativos** (SF, CD, Tribunais Federais, MP) <span style="color:#fe8019">não pode haver emendas que causem aumento de despesas.</span>
+
+STF - pode haver emendas que resultem em aumento de despesas nos casos de **<span style="color:#83a598">organização judiciária</span>.**
+
+- a sanção presidencial não ratifica o vício da emenda parlamentar.
+
+### **3.1.4 Sanção e Veto**
+
+**<span style="color:#83a598">SANÇÃO</span>:**
+
+- Projeto de lei torna-se Lei.
+- Matéria atribuída ao Presidente da República - ato unilateral
+- <span style="color:#fe8019">Não há sanção</span>:
+	- Emendas Constitucionais
+	- Leis Delegadas
+	- Medidas Provisórias
+	- Tipos
+	- Sanção **Expressa** - formaliza-se por escrito o ato de sanção.
+	- Sanção **Tácita** - silêncio no prazo de 15 dias úteis (iniciados do recebimento do projeto)
+
+⚠️**Atenção (**<span style="color:#fe8019">sanção tácita</span>**): Haverá o prazo de** **<span style="color:#83a598">48 horas</span>** **para que seja promulgada a lei. Caso o Presidente da República não o faça, deverá o <u>Presidente do Senado</u> (em 48 horas) fazê-lo, se não o fizer, caberá ao <u>Vice-Presidente do Senado</u> (sem prazo).**
+
+**<span style="color:#83a598">VETO</span>:**
+
+- Matéria atribuída ao Presidente da República - ato unilateral
+- Discorda do projeto de lei:
+- **contrário ao interesse público** - **<span style="color:#fe8019">VETO POLÍTICO</span>**
+
+⚠️**Atenção Veto Político - juízo político de conveniência**  
+
+- **inconstitucional** - **<span style="color:#fe8019">VETO JURÍDICO</span>**
+
+⚠️**Atenção - Veto Jurídico - controle de constitucionalidade PREVENTIVO**
+
+- Deve ser **<span style="color:#83a598">EXPRESSO</span>** - comunicar ao Presidente do Senado em <u>15 dias úteis</u> (48 horas para comunicar os **MOTIVOS** ao Presidente do Senado), caso contrário, será considerada <u>sanção tácita</u>.
+- Sempre será **<span style="color:#fe8019">MOTIVADO</span>**!
+- Não há retratação do veto
+- Tipos:
+- **Total** - incidir sobre **TODO** o projeto de lei
+- **Parcial** - incidir sobre artigo, parágrafo, inciso ou alínea (não pode haver veto de palavras ou expressões, o veto deve abranger o texto completo referente)
+- **Possui efeito RELATIVO**
+- Poderá ser superado:
+- Votação em **sessão conjunta do Congresso Nacional** - Prazo de 30 dias (contados do recebimento do veto)
+- Superado o veto - o projeto volta para o Presidente da República promulgá-lo.
+- Não há retratação da derrubada do veto
+
+⚠️**Atenção: Haverá o prazo de** **<span style="color:#83a598">48 horas</span>** **para que seja promulgada a lei. Caso o Presidente da República não o faça, deverá o <u>Presidente do Senado</u> (48 horas) fazê-lo, se não o fizer, caberá ao <u>Vice-Presidente do Senado</u> (sem prazo).**
+
+Saiba que a **<span style="color:#b8bb26">parte do projeto que não foi vetada será encaminhada para promulgação.</span>** Apenas a parte vetada que "voltará" para o Congresso Nacional, para que seja apreciado o veto.
+
+**<span style="color:#fe8019">Não há controle judicial sobre o mérito do veto</span>** pelo Poder Judiciário! No entanto, **<span style="color:#b8bb26">caberá controle judiciário caso o veto ocorra <u>após os 15 dias úteis</u></span>** da sanção.
+
+### **3.1.4 Fase Complementar**
+
+**<span style="color:#83a598">PROMULGAÇÃO</span>**
+
+- Atesta a criação da lei
+- Quando há sanção expressa - ocorre junto à esta
+- Quando há sanção tácita - ocorre no prazo de 48 horas
+- Regra geral: competência do Presidente da República
+- Exceções: (não há sanção)
+- Emendas à Constituição
+- Decretos Legislativo
+- Resoluções
+
+**<span style="color:#83a598">PUBLICAÇÃO</span>**
+
+- Divulgação oficial da lei
+- Condição de eficácia - aptidão para produzir efeitos
+- Não há prazo previsto na CF
+
+## **3.2 Procedimento legislativo Sumário**
+
+- Solicitação do **<span style="color:#d3869b">Presidente da República</span>**
+- **<span style="color:#fe8019">Não há a necessidade do projeto de lei ser de iniciativa privativa do Presidente da República</span>**
+- Urgência em projetos de lei
+- Ato vinculado do Congresso Nacional, ou seja, não poderá negar a "solicitação"
+
+_Art. 64, § 1º, CF/88. O Presidente da República poderá solicitar urgência para apreciação de projetos de sua iniciativa._
+
+_§ 2º Se, no caso do § 1º, a Câmara dos Deputados e o Senado Federal_ **_não se manifestarem sobre a proposição_**_, cada qual sucessivamente,_ **_em até quarenta e cinco dias_**_,_ _<span style="color:#fe8019">sobrestar-se-ão todas as demais deliberações legislativas da respectiva Casa,</span>_ _<u>com exceção das que tenham prazo constitucional determinado, até que se ultime a votação</u>._ 
+
+## **3.3 Procedimento legislativo Abreviado**
+
+- Projeto será discutido e votado nas **<span style="color:#d3869b">COMISSÕES</span>** DAS CASAS
+
+_Art. 58, § 2º, CF/88. Às comissões, em razão da matéria de sua competência, cabe:_
+
+_I - discutir e votar projeto de lei que dispensar, na forma do regimento, a competência do Plenário,_ _<span style="color:#fe8019">salvo se houver recurso de um décimo dos membros da Casa</span>;_
+
+- Recurso de 1/10 dos membros da Casa respectiva **impede a votação e o projeto segue para o Plenário.**
+
+**🚨 Fique atento! Iniciaremos um tópico com elevada incidência em provas!**
+
+## **3.4 Procedimentos Legislativos Especiais**
+
+### **3.4.1 Emendas Constitucionais**
+
+- **Proposta** por:
+- **um terço**, <span style="color:#fe8019">no mínimo</span>, dos **membros da Câmara dos Deputados** **==ou==** **do Senado Federal;**
+- **Presidente da República**;
+- **<span style="color:#fe8019">mais da metade</span>** **das Assembleias Legislativas das unidades da Federação**, <span style="color:#fe8019">manifestando-se, cada uma delas, pela maioria relativa de seus membros.</span>
+
+A Constituição **<span style="color:#fe8019">NÃO</span>** poderá ser emendada: **==LIMITAÇÕES CIRCUNSTANCIAIS==**
+
+- na vigência de intervenção federal, de estado de defesa ou de estado de sítio.
+
+Obs: a limitação quanto à intervenção federal apenas se refere às intervenções decretadas pela União!
+
+- **Aprovação**:
+- proposta será discutida e votada em cada Casa do Congresso Nacional
+- votação em dois turnos - considerando-se aprovada caso obtenha, <span style="color:#fe8019">em ambos turnos</span>, **3/5 dos votos dos respectivos membros.**
+- NÃO há sanção ou veto
+- NÃO há Casa iniciadora ou revisora!  
+- **Promulgação**:
+- Mesas da Câmara dos Deputados e do Senado Federal
+- Não há promulgação do Presidente da República!
+
+**<span style="color:#fb4934">GRAVE</span>:**
+
+- Não poderá ser objeto de deliberação a proposta de emenda tendente a abolir, art. 60, § 4º, CF/88: **==LIMITAÇÕES MATERIAIS - Cláusulas Pétreas==:**
+- a forma federativa de Estado;
+- o voto direto, secreto, universal e periódico;
+- separação dos Poderes;
+- os direitos e garantias individuais.
+
+STF - não pode haver emendas tendentes a abolir ou prejudicar as cláusulas pétreas.
+
+Tipos de limitações materiais
+
+- Expressas/ Explícitas - art. 60, § 4º, CF/88 (acima👆)
+- Tácitas/ Implícitas - referentes ao Poder Constituinte Derivado - reforma e revisão Constitucionais
+
+**==LIMITAÇÕES FORMAIS==**
+
+- Iniciativa: 1/3 (mínimo) dos membros da CD ou do SF; Presidente da República; Mais da metade das Assembleias Legislativas, como manifestação de maioria relativa;
+- Votação - 2 turnos em cada Casa Legislativa - aprovação 3/5 dos membros de cada uma;
+- Promulgada pelas Mesas do SF e da CD;
+- Não pode ser reapresentada na mesma sessão legislativa.
+
+A matéria constante de proposta de emenda rejeitada ou havida por prejudicada <span style="color:#fb4934">não pode ser objeto de nova proposta na mesma sessão legislativa > Princípio da Irrepetibilidade.</span>
+
+**==LIMITAÇÕES TEMPORAIS==**
+
+- Prazo estipulado pelo **PODER CONSTITUINTE ORIGINÁRIO** para emendar a CF
