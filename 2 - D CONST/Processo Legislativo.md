@@ -274,28 +274,27 @@ A Constituição **<span style="color:#fe8019">NÃO</span>** poderá ser emendad
 Obs: a limitação quanto à intervenção federal apenas se refere às intervenções decretadas pela União!
 
 - **Aprovação**:
-- proposta será discutida e votada em cada Casa do Congresso Nacional
-- votação em dois turnos - considerando-se aprovada caso obtenha, <span style="color:#fe8019">em ambos turnos</span>, **3/5 dos votos dos respectivos membros.**
+	- proposta será discutida e votada em cada Casa do Congresso Nacional
+	- votação em dois turnos - considerando-se aprovada caso obtenha, <span style="color:#fe8019">em ambos turnos</span>, **3/5 dos votos dos respectivos membros.**
 - NÃO há sanção ou veto
 - NÃO há Casa iniciadora ou revisora!  
 - **Promulgação**:
-- Mesas da Câmara dos Deputados e do Senado Federal
-- Não há promulgação do Presidente da República!
+	- Mesas da Câmara dos Deputados e do Senado Federal
+	- Não há promulgação do Presidente da República!
 
 **<span style="color:#fb4934">GRAVE</span>:**
 
-- Não poderá ser objeto de deliberação a proposta de emenda tendente a abolir, art. 60, § 4º, CF/88: **==LIMITAÇÕES MATERIAIS - Cláusulas Pétreas==:**
-- a forma federativa de Estado;
-- o voto direto, secreto, universal e periódico;
-- separação dos Poderes;
-- os direitos e garantias individuais.
+- Não poderá ser objeto de deliberação a proposta de emenda tendente a abolir, art. 60, § 4º, CF/88 **==LIMITAÇÕES MATERIAIS - Cláusulas Pétreas==:**
+	- a forma federativa de Estado;
+	- o voto direto, secreto, universal e periódico;
+	- separação dos Poderes;
+	- os direitos e garantias individuais.
 
 STF - não pode haver emendas tendentes a abolir ou prejudicar as cláusulas pétreas.
 
-Tipos de limitações materiais
-
-- Expressas/ Explícitas - art. 60, § 4º, CF/88 (acima👆)
-- Tácitas/ Implícitas - referentes ao Poder Constituinte Derivado - reforma e revisão Constitucionais
+- Tipos de limitações materiais
+	- Expressas/ Explícitas - art. 60, § 4º, CF/88 (acima👆)
+	- Tácitas/ Implícitas - referentes ao Poder Constituinte Derivado - reforma e revisão Constitucionais
 
 **==LIMITAÇÕES FORMAIS==**
 
