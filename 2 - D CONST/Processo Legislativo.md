@@ -225,9 +225,9 @@ Saiba que a **<span style="color:#b8bb26">parte do projeto que não foi vetada s
 - Quando há sanção tácita - ocorre no prazo de 48 horas
 - Regra geral: competência do Presidente da República
 - Exceções: (não há sanção)
-- Emendas à Constituição
-- Decretos Legislativo
-- Resoluções
+	- Emendas à Constituição
+	- Decretos Legislativo
+	- Resoluções
 
 **<span style="color:#83a598">PUBLICAÇÃO</span>**
 
