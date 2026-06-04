@@ -180,7 +180,7 @@ STF - pode haver emendas que resultem em aumento de despesas nos casos de **<spa
 	- Emendas Constitucionais
 	- Leis Delegadas
 	- Medidas Provisórias
-	- Tipos
+- Tipos
 	- Sanção **Expressa** - formaliza-se por escrito o ato de sanção.
 	- Sanção **Tácita** - silêncio no prazo de 15 dias úteis (iniciados do recebimento do projeto)
 
