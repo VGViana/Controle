@@ -206,8 +206,8 @@ STF - pode haver emendas que resultem em aumento de despesas nos casos de **<spa
 	- **Parcial** - incidir sobre artigo, parágrafo, inciso ou alínea (não pode haver veto de palavras ou expressões, o veto deve abranger o texto completo referente)
 - **Possui efeito RELATIVO**
 - Poderá ser superado:
-- Votação em **sessão conjunta do Congresso Nacional** - Prazo de 30 dias (contados do recebimento do veto)
-- Superado o veto - o projeto volta para o Presidente da República promulgá-lo.
+	- Votação em **sessão conjunta do Congresso Nacional** - Prazo de 30 dias (contados do recebimento do veto)
+	- Superado o veto - o projeto volta para o Presidente da República promulgá-lo.
 - Não há retratação da derrubada do veto
 
 ⚠️**Atenção: Haverá o prazo de** **<span style="color:#83a598">48 horas</span>** **para que seja promulgada a lei. Caso o Presidente da República não o faça, deverá o <u>Presidente do Senado</u> (48 horas) fazê-lo, se não o fizer, caberá ao <u>Vice-Presidente do Senado</u> (sem prazo).**
