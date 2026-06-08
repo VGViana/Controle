@@ -214,6 +214,9 @@ Classifica-se como **<span style="color:#83a598">Passivo Circulante</span>** qua
 	• Ajustes Acumulados de Conversão  
 	• Realização da Reserva de Reavaliação  
 	• Ajustes de Exercícios Anteriores
+- Deverá ser segregado em:
+	- Valores atribuíveis aos <span style="color:#83a598">**sócios controladores**</span>; e
+	- Valores atribuíveis aos <span style="color:#fb4934">**não controladores**</span>
 
 ![[Outros resultados abrangentes.png]]
 
