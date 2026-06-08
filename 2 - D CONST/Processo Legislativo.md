@@ -125,7 +125,7 @@ Projeto deve ser apresentado na Câmara dos Deputados
 -**<span style="color:#b8bb26">Casa Iniciadora</span>** - projeto poderá ser:
 
 - aprovado - será encaminhado para a Casa Revisora
-- rejeitado - arquivado. Apenas poderá ser objeto de novo projeto, na mesma sessão legislativa, se tiver a proposta da **maioria absoluta** dos representantes de quaisquer Casas.
+- rejeitado - arquivado. Apenas poderá ser objeto de novo projeto, na mesma sessão legislativa, se tiver a proposta da **maioria absoluta** dos representantes de quaisquer Casas (Princípio da <span style="color:#d3869b">**IRREPETIBILIDADE**</span>).
 
 -**<span style="color:#83a598">Casa Revisora</span>**: projeto poderá ser:
 
