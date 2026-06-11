@@ -80,3 +80,11 @@ O elemento interior da notação representa o mínimo e o elemento fora (mais pr
     - **Condicional:** nem toda ocorrência da entidade genérica precisa estar em uma entidade especializada.
     - **Incondicional:** toda ocorrência da entidade genérica deve estar associada a uma entidade especializada.
 - **Representação gráfica:** utiliza-se um **triângulo** para indicar a relação entre a entidade genérica e as especializadas (não é elipse).
+
+# **6.Restrições**
+- Restrições de pertencimento
+	- **Restrição de <span style="color:#fb4934">disjunção</span>:** Esta restrição especifica que a <span style="color:#fb4934">**mesma instância de entidades de nível superior não pode pertencer**</span> a mais de um tipo de entidade de nível inferior. **Representação: <span style="color:#fb4934">letra (d) dentro do círculo</span>.**
+	- **Restrição de <span style="color:#83a598">sobreposição</span>:** Esta restrição especifica que a <span style="color:#83a598">**mesma instância de entidades de nível superior pode pertencer**</span> a mais de um tipo de entidade de nível inferior. **Representação <span style="color:#83a598">letra (o) dentro do círculo</span>.**
+- Restrições de participação
+	- **Restrição de participação <span style="color:#fe8019">total</span>:**  Especifica que cada entidade de nível superior deve <span style="color:#fe8019">**pertencer a pelo menos um**</span> dos tipos de entidade de nível inferior na especialização. **Representação <span style="color:#fe8019">linha duplicada</span>.**
+	- **Restrição de participação <span style="color:#b8bb26">parcial</span>:**  Ela permite que <span style="color:#b8bb26">algumas das instâncias</span> de tipo de entidade de nível superior <span style="color:#b8bb26">**não pertencerem a qualquer um**</span> dos tipos de entidade de nível inferior. **Representação <span style="color:#b8bb26">linha simples</span>.**
