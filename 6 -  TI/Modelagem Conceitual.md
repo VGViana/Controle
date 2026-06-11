@@ -67,3 +67,14 @@ Estes símbolos são utilizados em pares para representar os quatro tipos de car
 O elemento interior da notação representa o mínimo e o elemento fora (mais próximo da entidade) representa o máximo.
 
 ![[pé de galinha.png]]
+
+# **5.Generalização/Especialização**
+
+- **Definição:** mecanismo da modelagem conceitual que permite <span style="color:#fe8019">**criar hierarquias**</span> entre entidades.
+	- **<span style="color:#fb4934">Generalização</span>:** abstração que <span style="color:#fb4934">**reúne entidades semelhantes**</span> em uma <span style="color:#fb4934">**entidade genérica (superclasse).**</span>
+	- **<span style="color:#83a598">Especialização</span>:** detalhamento que <span style="color:#83a598">**cria entidades específicas (subclasses)**</span> a partir de uma entidade genérica.
+	- **<span style="color:#b8bb26">Herança</span>:** entidades especializadas <span style="color:#b8bb26">**herdam atributos, relacionamentos**</span> e outras propriedades da entidade genérica.
+- **Classificação:**
+    - **Condicional:** nem toda ocorrência da entidade genérica precisa estar em uma entidade especializada.
+    - **Incondicional:** toda ocorrência da entidade genérica deve estar associada a uma entidade especializada.
+- **Representação gráfica:** utiliza-se um **triângulo** para indicar a relação entre a entidade genérica e as especializadas (não é elipse).
