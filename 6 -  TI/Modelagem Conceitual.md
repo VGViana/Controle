@@ -68,6 +68,8 @@ O elemento interior da notação representa o mínimo e o elemento fora (mais pr
 
 ![[pé de galinha.png]]
 
+![[pzn.png]]
+
 # **5.Generalização/Especialização**
 
 - **Definição:** mecanismo da modelagem conceitual que permite <span style="color:#fe8019">**criar hierarquias**</span> entre entidades.
