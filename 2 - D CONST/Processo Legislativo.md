@@ -308,11 +308,6 @@ A matéria constante de proposta de emenda rejeitada ou havida por prejudicada <
 **==LIMITAÇÕES TEMPORAIS==**
 
 - Prazo estipulado pelo **PODER CONSTITUINTE ORIGINÁRIO** para emendar a CF
-
-# **3. Procedimento Legislativo**
-
-## **3.4 Procedimentos Legislativos Especiais**
-
 ### **3.4.2 Leis Complementares**
 
 - Alguns assuntos apenas podem ser tratados por leis complementares, esses serão especificados na própria CF
@@ -331,7 +326,7 @@ Lembre-se de que o quórum de votação de leis ordinárias será de maioria sim
 
 - **<span style="color:#fb4934">VEDADA</span>** a edição de medidas provisórias sobre:     
 
-I – Matéria relativa a:             
+>I – Matéria relativa a:
 a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;           
 b) direito penal, processual penal e processual civil;          
 c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;          
