@@ -397,31 +397,19 @@ III - planos plurianuais, diretrizes orçamentárias e orçamentos.
 - Redação final
 - Proposição ao Plenário
 
-**Art. 166, CF/88**
-
-**§ 2º** As emendas **serão apresentadas na Comissão mista**, que sobre elas **emitirá parecer**, e apreciadas, na forma regimental, pelo Plenário das duas Casas do Congresso Nacional.
-
-**§ 3º** As **<span style="color:#fb4934">emendas ao projeto de lei do orçamento anual</span>** ou aos projetos que o modifiquem somente podem ser aprovadas caso:
-
-I - sejam **compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;**
-
-II - <span style="color:#83a598">indiquem os recursos necessários</span>, **admitidos apenas os provenientes de anulação de despesa**, **<span style="color:#fb4934">excluídas as que incidam sobre</span>:**
-
-a) **dotações para pessoal** e seus encargos;
-
-b) **serviço da dívida;**
-
-c) **transferências tributárias constitucionais** para Estados, Municípios e Distrito Federal; ou
-
-III - <span style="color:#83a598">sejam relacionadas</span>:
-
-a) com a **correção de erros ou omissões**; ou
-
-b) com os **dispositivos do texto do projeto de lei.**
-
-**§ 4º** As emendas ao projeto de lei de diretrizes orçamentárias **<span style="color:#fb4934">não poderão ser aprovadas quando <u>incompatíveis com o plano plurianual</u></span>.**
-
-**§ 5º** O Presidente da República poderá enviar mensagem ao Congresso Nacional para propor modificação nos projetos a que se refere este artigo **<span style="color:#b8bb26">enquanto não iniciada a votação, na Comissão mista, da parte cuja alteração é proposta</span>.**
+>**Art. 166, CF/88**
+- **§ 2º** As emendas **serão apresentadas na Comissão mista**, que sobre elas **emitirá parecer**, e apreciadas, na forma regimental, pelo Plenário das duas Casas do Congresso Nacional.
+- **§ 3º** As **<span style="color:#fb4934">emendas ao projeto de lei do orçamento anual</span>** ou aos projetos que o modifiquem somente podem ser aprovadas caso:
+	- I - sejam **compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;**
+	- II - <span style="color:#83a598">indiquem os recursos necessários</span>, **admitidos apenas os provenientes de anulação de despesa**, **<span style="color:#fb4934">excluídas as que incidam sobre</span>:**
+		- a) **dotações para pessoal** e seus encargos;
+		- b) **serviço da dívida;**
+		c) **transferências tributárias constitucionais** para Estados, Municípios e Distrito Federal; ou
+	- III - <span style="color:#83a598">sejam relacionadas</span>:
+		- a) com a **correção de erros ou omissões**; ou
+		- b) com os **dispositivos do texto do projeto de lei.**
+- **§ 4º** As emendas ao projeto de lei de diretrizes orçamentárias **<span style="color:#fb4934">não poderão ser aprovadas quando <u>incompatíveis com o plano plurianual</u></span>.**
+- **§ 5º** O Presidente da República poderá enviar mensagem ao Congresso Nacional para propor modificação nos projetos a que se refere este artigo **<span style="color:#b8bb26">enquanto não iniciada a votação, na Comissão mista, da parte cuja alteração é proposta</span>.**
 
 - Deliberação
 
