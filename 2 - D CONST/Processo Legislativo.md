@@ -331,13 +331,9 @@ a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito 
 b) direito penal, processual penal e processual civil;          
 c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;          
 d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, § 3º;           
-
 ⚠️**<span style="color:#fb4934">Atenção</span>: Pode haver edição de medida provisória em matéria de leis orçamentárias apenas em relação aos** **<span style="color:#83a598">créditos adicionais extraordinários.</span>**
-
 II – Vise a detenção ou sequestro de bens, de poupança popular ou qualquer outro ativo financeiro;        
-
 III – Reservada a **<span style="color:#fe8019">lei complementar</span>;**          
-
 IV – **já disciplinada em projeto de <span style="color:#fe8019">lei aprovado</span>** **pelo Congresso Nacional e** **<span style="color:#fe8019">pendente</span>** de sanção ou veto do Presidente da República.        
 
 **<u>STF</u>** - não há violação se o assunto referenciado por MP estiver presente em projeto de lei com conteúdo similar, caso este já tenha sido sancionado pelo PR (mesmo que seja no mesmo dia da sanção).
