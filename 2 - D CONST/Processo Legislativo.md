@@ -308,3 +308,143 @@ A matéria constante de proposta de emenda rejeitada ou havida por prejudicada <
 **==LIMITAÇÕES TEMPORAIS==**
 
 - Prazo estipulado pelo **PODER CONSTITUINTE ORIGINÁRIO** para emendar a CF
+
+# **3. Procedimento Legislativo**
+
+## **3.4 Procedimentos Legislativos Especiais**
+
+### **3.4.2 Leis Complementares**
+
+- Alguns assuntos apenas podem ser tratados por leis complementares, esses serão especificados na própria CF
+- Quórum - **MAIORIA ABSOLUTA**
+
+Lembre-se de que o quórum de votação de leis ordinárias será de maioria simples.
+
+### **3.4.3 Medidas Provisórias**
+
+- Iniciativa do Presidente da República;
+- Urgência e Relevância;
+- Deve ser submetida de imediato ao CN;
+- As medidas provisórias terão sua votação iniciada na Câmara dos Deputados.
+
+**<u>STF</u>** - Tais critérios não podem ser submetidos à apreciação pelo Poder Judiciário, apenas em caso de não existirem estes pressupostos.
+
+- **<span style="color:#fb4934">VEDADA</span>** a edição de medidas provisórias sobre:     
+
+I – Matéria relativa a:             
+a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;           
+b) direito penal, processual penal e processual civil;          
+c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;          
+d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, § 3º;           
+
+⚠️**<span style="color:#fb4934">Atenção</span>: Pode haver edição de medida provisória em matéria de leis orçamentárias apenas em relação aos** **<span style="color:#83a598">créditos adicionais extraordinários.</span>**
+
+II – Vise a detenção ou sequestro de bens, de poupança popular ou qualquer outro ativo financeiro;        
+
+III – Reservada a **<span style="color:#fe8019">lei complementar</span>;**          
+
+IV – **já disciplinada em projeto de <span style="color:#fe8019">lei aprovado</span>** **pelo Congresso Nacional e** **<span style="color:#fe8019">pendente</span>** de sanção ou veto do Presidente da República.        
+
+**<u>STF</u>** - não há violação se o assunto referenciado por MP estiver presente em projeto de lei com conteúdo similar, caso este já tenha sido sancionado pelo PR (mesmo que seja no mesmo dia da sanção).
+
+- Aprovação
+- Ao ser editada pelo PR, deverá ser submetida de imediato ao CN - prazo de 60 dias (prorrogável por mais 60) para apreciação;
+- Será apreciada por Comissão Mista
+- Votação **DEVE** ser iniciada na **CD**
+- Caso seja:
+- Aprovada na sua totalidade - Presidente do SF irá promulgá-la, não há sanção/veto do PR
+- Rejeitada na sua totalidade ou perca eficácia por ultrapassar o prazo de votação (60 + 60) - CN deverá editar **decreto legislativo** para reger as relações jurídicas decorrentes da MP. Caso não haja a edição do decreto, as relações jurídicas continuarão a ser regidas pela MP
+- Aprovada com modificações no texto - será encaminhado para o PR para sanção/veto
+
+⚠️**<span style="color:#fb4934">Atenção</span>!**
+
+- Quando a MP é editada, ela <u>suspenderá</u> a eficácia da legislação que lhe é contrária
+- Caso a MP perca validade, a legislação suspensa voltará a ter eficácia - **efeito repristinatório**
+
+**Art. 62, § 6º, CF/88**_._ Se a medida provisória **não for apreciada em até quarenta e cinco dias contados de sua publicação**, entrará em **<span style="color:#fb4934">regime de urgência</span>**, subsequentemente, em cada uma das Casas do Congresso Nacional, **ficando sobrestadas, até que se ultime a votação**, todas as demais deliberações legislativas da Casa em que estiver tramitando.
+
+### **3.4.4 Leis Delegadas**
+
+- Leis elaboradas pelo Presidente da República (<span style="color:#fe8019">solicita</span>) com delegação do CN através de ato discricionário **<span style="color:#fe8019">(determinado, específico)</span>;**
+- Delegação
+- **Típica (própria)** - CN <u>restringe-se a delegar a competência para editar lei</u> acerca de determinado assunto;
+- **Atípica (imprópria)** - CN <u>delega a competência</u> e, ainda, <u>impõe que o projeto seja apreciado</u> pelo Legislativo antes que haja sua conversão em lei
+- Pode haver revogação da delegação **<span style="color:#fe8019">a qualquer momento</span>**
+- A delegação **<span style="color:#fe8019">não obriga</span>** o PR de realizar a edição da lei.
+
+**Art. 68, § 1º, CF** - **<span style="color:#fb4934">Não serão objeto de delegação</span>** os atos de competência exclusiva do Congresso Nacional, os de competência privativa da Câmara dos Deputados ou do Senado Federal, a matéria reservada à lei complementar, nem a legislação sobre:
+I - organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;
+II - nacionalidade, cidadania, direitos individuais, políticos e eleitorais;
+III - planos plurianuais, diretrizes orçamentárias e orçamentos.
+
+⚠️**<span style="color:#fb4934">Atenção</span> - caso a lei delegada exceda os poderes do ato de delegação, caberá a sustação dela.** **(<span style="color:#fb4934">veto legislativo</span>)**
+
+### **3.4.5 Decretos Legislativos**  
+
+- Não há veto/sanção
+- _Status_ de <span style="color:#fe8019">lei ordinária</span>
+- Competência **exclusiva** do Congresso Nacional - Art. 49, CF/88.
+
+### **3.4.6 Resoluções**
+
+- Não há veto/sanção
+- Competência **privativa** do Senado Federal e da Câmara dos Deputados - Arts. 51 e 2 CF/88.
+
+# **4. Processo Legislativo Orçamentário**
+
+- Plano plurianual (PPA), da Lei de Diretrizes Orçamentárias (LDO) e da Lei Orçamentária Anual (LOA);
+- <span style="color:#fb4934">Competência</span> **<span style="color:#fb4934">privativa</span>** do <span style="color:#fb4934">Presidente da República</span>
+
+<span style="color:#fb4934">Obs</span>: Os tribunais, o MP e as Defensorias Públicas podem elaborar as suas próprias propostas orçamentárias. Neste caso, eles enviam a proposta já pronta para o Presidente da República que encaminhará para o Congresso Nacional.
+
+**FASES**:
+
+- Proposta Legislativa - <span style="color:#d3869b">inicia o processo legislativo</span>
+- Discussão
+- Proposição de Emendas
+- Voto do relator
+- Redação final
+- Proposição ao Plenário
+
+**Art. 166, CF/88**
+
+**§ 2º** As emendas **serão apresentadas na Comissão mista**, que sobre elas **emitirá parecer**, e apreciadas, na forma regimental, pelo Plenário das duas Casas do Congresso Nacional.
+
+**§ 3º** As **<span style="color:#fb4934">emendas ao projeto de lei do orçamento anual</span>** ou aos projetos que o modifiquem somente podem ser aprovadas caso:
+
+I - sejam **compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;**
+
+II - <span style="color:#83a598">indiquem os recursos necessários</span>, **admitidos apenas os provenientes de anulação de despesa**, **<span style="color:#fb4934">excluídas as que incidam sobre</span>:**
+
+a) **dotações para pessoal** e seus encargos;
+
+b) **serviço da dívida;**
+
+c) **transferências tributárias constitucionais** para Estados, Municípios e Distrito Federal; ou
+
+III - <span style="color:#83a598">sejam relacionadas</span>:
+
+a) com a **correção de erros ou omissões**; ou
+
+b) com os **dispositivos do texto do projeto de lei.**
+
+**§ 4º** As emendas ao projeto de lei de diretrizes orçamentárias **<span style="color:#fb4934">não poderão ser aprovadas quando <u>incompatíveis com o plano plurianual</u></span>.**
+
+**§ 5º** O Presidente da República poderá enviar mensagem ao Congresso Nacional para propor modificação nos projetos a que se refere este artigo **<span style="color:#b8bb26">enquanto não iniciada a votação, na Comissão mista, da parte cuja alteração é proposta</span>.**
+
+- Deliberação
+
+⚠️**<span style="color:#fb4934">Atenção</span>: PEC do Orçamento Impositivo - EC 126/22**
+
+- **==Emendas Parlamentares Individuais==** - **<span style="color:#83a598">2% da receita corrente líquida do exercício anterior</span>**
+    - Do limite de 2%**, **<span style="color:#fb4934">1,55% caberá às emendas de Deputados e 0,45% às de Senadores</span>**.** 
+- **Metade** será destinada a **ações** e serviços públicos de **SAÚDE,** conforme o §9º.
+- Para não haver a execução impositiva, deve haver o caso de **<span style="color:#fb4934">IMPEDIMENTO DE ORDEM TÉCNICA!</span>**
+
+⚠️**<span style="color:#fb4934">Atenção</span>:** **==Emendas de bancada== - <span style="color:#83a598">montante de até 1% da receita corrente líquida do exercício anterior</span>**
+
+- Para não haver a execução impositiva, deve haver o caso de **<span style="color:#fb4934">IMPEDIMENTO DE ORDEM TÉCNICA!</span>**
+
+# **5. Processo Legislativo Orçamentário**
+
+As normas de processo legislativo previstas na CF/88 são de **observância obrigatória** aos Estados, DF e Municípios.
