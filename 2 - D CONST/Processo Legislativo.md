@@ -343,9 +343,9 @@ IV – **já disciplinada em projeto de <span style="color:#fe8019">lei aprovado
 - Será apreciada por Comissão Mista
 - Votação **DEVE** ser iniciada na **CD**
 - Caso seja:
-- Aprovada na sua totalidade - Presidente do SF irá promulgá-la, não há sanção/veto do PR
-- Rejeitada na sua totalidade ou perca eficácia por ultrapassar o prazo de votação (60 + 60) - CN deverá editar **decreto legislativo** para reger as relações jurídicas decorrentes da MP. Caso não haja a edição do decreto, as relações jurídicas continuarão a ser regidas pela MP
-- Aprovada com modificações no texto - será encaminhado para o PR para sanção/veto
+	- Aprovada na sua totalidade - Presidente do SF irá promulgá-la, não há sanção/veto do PR
+	- Rejeitada na sua totalidade ou perca eficácia por ultrapassar o prazo de votação (60 + 60) - CN deverá editar **decreto legislativo** para reger as relações jurídicas decorrentes da MP. Caso não haja a edição do decreto, as relações jurídicas continuarão a ser regidas pela MP
+	- Aprovada com modificações no texto - será encaminhado para o PR para sanção/veto
 
 ⚠️**<span style="color:#fb4934">Atenção</span>!**
 
