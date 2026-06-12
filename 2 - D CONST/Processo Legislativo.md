@@ -356,14 +356,14 @@ IV – **já disciplinada em projeto de <span style="color:#fe8019">lei aprovado
 
 ### **3.4.4 Leis Delegadas**
 
-- Leis elaboradas pelo Presidente da República (<span style="color:#fe8019">solicita</span>) com delegação do CN através de ato discricionário **<span style="color:#fe8019">(determinado, específico)</span>;**
+- Leis elaboradas pelo Presidente da República (<span style="color:#fe8019">solicita</span>) com delegação do CN através de ato discricionário, resolução**<span style="color:#fe8019">(determinado, específico)</span>;**
 - Delegação
-- **Típica (própria)** - CN <u>restringe-se a delegar a competência para editar lei</u> acerca de determinado assunto;
-- **Atípica (imprópria)** - CN <u>delega a competência</u> e, ainda, <u>impõe que o projeto seja apreciado</u> pelo Legislativo antes que haja sua conversão em lei
+	- **Típica (própria)** - CN <u>restringe-se a delegar a competência para editar lei</u> acerca de determinado assunto;
+	- **Atípica (imprópria)** - CN <u>delega a competência</u> e, ainda, <u>impõe que o projeto seja apreciado</u> pelo Legislativo antes que haja sua conversão em lei
 - Pode haver revogação da delegação **<span style="color:#fe8019">a qualquer momento</span>**
 - A delegação **<span style="color:#fe8019">não obriga</span>** o PR de realizar a edição da lei.
 
-**Art. 68, § 1º, CF** - **<span style="color:#fb4934">Não serão objeto de delegação</span>** os atos de competência exclusiva do Congresso Nacional, os de competência privativa da Câmara dos Deputados ou do Senado Federal, a matéria reservada à lei complementar, nem a legislação sobre:
+>**Art. 68, § 1º, CF** - **<span style="color:#fb4934">Não serão objeto de delegação</span>** os atos de competência exclusiva do Congresso Nacional, os de competência privativa da Câmara dos Deputados ou do Senado Federal, a matéria reservada à lei complementar, nem a legislação sobre:
 I - organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;
 II - nacionalidade, cidadania, direitos individuais, políticos e eleitorais;
 III - planos plurianuais, diretrizes orçamentárias e orçamentos.
