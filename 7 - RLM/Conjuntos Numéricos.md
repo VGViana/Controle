@@ -85,62 +85,57 @@
     - Exemplos:
 	    - a.b=b.a
 	    - 2.3=3.2
-- Propriedade **Associativa:** A forma como os números são agrupados não afeta o resultado da multiplicação. Isso significa que podemos multiplicar os números em diferentes grupos sem alterar o produto total.
+- Propriedade **<span style="color: #d79921"><u>Associativa</u></span>:** A <u>forma como os números são agrupados não afeta o resultado da multiplicação.</u> Isso significa que podemos multiplicar os números em diferentes grupos sem alterar o produto total.
 	- Exemplos:
 		- (a.b).c = a.(b.c)
 		- (2.3).4 = 2.(3.4)
-- **Elemento Neutro** da Multiplicação: Existe um número chamado de elemento neutro da multiplicação que, quando multiplicado por qualquer número, não altera seu valor. Esse **número é o 1**.
+- **<span style="color: #d79921"><u>Elemento Neutro</u></span>** da Multiplicação: Existe um <u>número</u> chamado de elemento neutro da multiplicação que, quando <u>multiplicado por qualquer número, não altera seu valor</u>. Esse **<u>número é o 1</u>**.
 	- Exemplos:
 		- a.1 = a
 		- 5.1 = 5
-- Propriedade **Distributiva**: A multiplicação distribui sobre a adição. Isso significa que multiplicar um número pela soma de dois outros números é o mesmo que multiplicar o número separadamente por cada um dos dois números e depois somar os produtos.
+- Propriedade **<span style="color: #d79921"><u>Distributiva</u></span>**: A <u>multiplicação distribui sobre a adição.</u> Isso significa que multiplicar um número pela soma de dois outros números é o mesmo que multiplicar o número separadamente por cada um dos dois números e depois somar os produtos.
 	- Exemplos:
 		- a.(b+c) = (a.b) + (a.c)
 		- 2.(3+4) = (2.3) + (2.4)
 
-**1.4.3 Algoritmo da Multiplicação**
+### **1.4.3 Algoritmo da Multiplicação**
 
 - Uma dica para trabalhar com a multiplicação de números maiores é saber a tabuada decorada mesmo. Seja humilde e admita caso não saiba. Treine um pouco todos os dias e vai conseguir. Você pode usar a tabela abaixo para relembrar da tabuada de 1 a 10:
 
 ![[Conjuntos Numéricos-3.png]]
 
-**1.5 Divisão** 
+## **1.5 Divisão** 
 
 - A divisão é uma operação que consiste em **distribuir um número em partes iguais**. Ela é utilizada para determinar quantas vezes um número (dividendo) está contido em outro número (divisor) e calcular o resultado (quociente).
 
 Na divisão, temos os seguintes elementos:
 
-- **Dividendo:** É o número que será dividido.
-- **Divisor:** É o número pelo qual o dividendo será dividido.
-- **Quociente:** É o resultado da divisão, representando a quantidade de vezes que o divisor está contido no dividendo.
-- **Resto:** É o valor que sobra após a divisão completa do dividendo pelo divisor, quando o dividendo não é perfeitamente divisível pelo divisor.  
-      
-    
+- **<span style="color: #d79921">Dividendo</span>:** É o número que será dividido.
+- **<span style="color: #d79921">Divisor</span>:** É o número pelo qual o dividendo será dividido.
+- **<span style="color: #d79921">Quociente</span>:** É o resultado da divisão, representando a quantidade de vezes que o divisor está contido no dividendo.
+- **<span style="color: #d79921">Resto</span>:** É o valor que sobra após a divisão completa do dividendo pelo divisor, quando o dividendo não é perfeitamente divisível pelo divisor.  
 - Vejamos como isso fica na prática:
 ![[Conjuntos Numéricos-4.png]]
 
-**1.5.1 Terminologia e símbolos** 
+### **1.5.1 Terminologia e símbolos** 
 
-- A divisão pode ser representada por diferentes símbolos, sendo os mais comuns: 1) **"/"** (barra de fração), 2) **"÷"** (sinal de divisão), e 3) **":"** (dois pontos). Pode-se ainda representar a divisão como uma 4) **fração comum**. Em todos os casos, os símbolos são colocados entre o dividendo e o divisor para indicar a operação de divisão.
+- A divisão pode ser representada por diferentes símbolos, sendo os mais comuns: 1) **<span style="color: #d79921">"/"</span>** (barra de fração), 2) **<span style="color: #d79921">"÷"</span>** (sinal de divisão), e 3) **<span style="color: #d79921">":"</span>** (dois pontos). Pode-se ainda representar a divisão como uma 4) **<span style="color: #d79921">fração comum</span>**. Em todos os casos, os símbolos são colocados entre o dividendo e o divisor para indicar a operação de divisão.
 
-**1.5.2 Algoritmo da Divisão**
+### **1.5.2 Algoritmo da Divisão**
 
 - A divisão possui certas peculiaridades e recomenda-se seguir alguns passos para se obter êxito ao realizar essa operação. Algumas contas podem ocasionar uma certa dificuldade para realizar a divisão “na mão”, para vencermos temos que praticar. Nunca é demais ressaltar que mesmo tratando-se de um assunto de matemática básica, constantemente nos deparamos com divisões mais complexas em assuntos avançados. Vamos sistematizar os passos de uma forma simples, vejamos:
-    - Partindo para conta propriamente, sigamos pelo mais básico. Vamos dividir 8275 por 25.
-
+    - Partindo para conta propriamente, sigamos pelo mais básico. Vamos dividir <span style="color: #d79921">8275 por 25.</span>
 - **Primeiro passo** - Por qual número começar a divisão? Dos quatro algarismos do dividendo, precisamos escolher o primeiro número que seja maior ou igual ao divisor. Começaremos, então, pelo 82. 
     - Aqui já somos capazes de concluir algo **IMPORTANTÍSSIMO**. Já podemos inferir quantos algarismos **DA PARTE INTEIRA** (PRESTE ATENÇÃO NISSO) o quociente terá após a divisão completa.
     - Após a divisão do 82 por 25, ainda teremos no dividendo 2 algarismos (o 7 e o 5), certo?
 ![[Conjuntos Numéricos-5.png]]
-
-- - Bom, já temos 1 algarismo no quociente, e ainda faltam 2 algarismos no dividendo que ainda precisam entrar na conta.
-    - A partir disso, **podemos afirmar com toda certeza que o nosso quociente terá 3 algarismos NA PARTE INTEIRA**.
-        
-    - Em outras palavras, o número de algarismos NA PARTE INTEIRA no quociente será o número de “números” que serão utilizados no dividendo para a divisão completa. No caso em tela, seriam os números 82, 7 e 5.  ⚠️⚠️⚠️(Pode levar essa conclusão pra vida, Gurujinha. Ela é importantíssima)  
+- Bom, já temos 1 algarismo no quociente, e ainda faltam 2 algarismos no dividendo que ainda precisam entrar na conta.
+- A partir disso, **<span style="color:#fe8019">podemos afirmar com toda certeza que o nosso quociente terá 3 algarismos NA PARTE INTEIRA</span>**.
+- Em outras palavras, o número de algarismos NA PARTE INTEIRA no quociente será o número de “números” que serão utilizados no dividendo para a divisão completa. No caso em tela, seriam os números 82, 7 e 5.  ⚠️⚠️⚠️(Pode levar essa conclusão pra vida, Gurujinha. Ela é importantíssima)  
 - **Segundo Passo** - Baixar o 7 e fazer novamente a conta. Após, finalizar a conta com o último número.
 ![[Conjuntos Numéricos-6.png]]
 
-**1.6 Frações**
+## **1.6 Frações**
 
 - Aqui vão algumas dicas para facilitar as operações com frações:  
     1) Nas operações com frações, é importante simplificar as frações resultantes, sempre que possível. Isso facilita a compreensão e a manipulação das frações;  
@@ -150,22 +145,22 @@ Na divisão, temos os seguintes elementos:
 
 - Agora vamos trabalhar com exemplos de cada operação para facilitar a compreensão:
 
-**1.6.1 Adição**:
+### **<u>1.6.1 Adição</u>**:
 
 - 1/4 + 1/4 = 2/4 (como ambos os **denominadores** são **iguais**, é só somar os numeradores e manter o denominador comum)
 - 1/3 + 1/6 = 2/6 + 1/6 = 3/6 (**denominadores diferentes**, nesse caso encontramos o múltiplo comum entre 3 e 6, que é 6, e transformamos as frações para ter o mesmo denominador). O professor detalha bem esse tópico no vídeo e, caso tenha dificuldade em encontrar o múltiplo comum, não se preocupe, pois iremos estudá-lo em uma outra aula.
 
-**1.6.2 Subtração**:
+### **<u>1.6.2 Subtração</u>**:
 
 - 3/4 - 1/4 = 2/4 (como ambos os **denominadores** são **iguais**, é só subtrair os numeradores e manter o denominador comum)
 - 5/8 - 1/4 = 5/8 - 2/8 = 3/8 (**denominadores diferentes,** nesse caso encontramos o múltiplo comum entre 8 e 4, que é 8, e transformamos as frações para ter o mesmo denominador)
 
-**1.6.3 Multiplicação:**
+### **<u>1.6.3 Multiplicação</u>:**
 
 - 1/2 x 2/3 = 2/6 (**multiplicamos** os numeradores **entre si** e os denominadores entre si)
 - 3/4 x 2/5 = 6/20 (multiplicamos os numeradores entre si e os denominadores entre si)
 
-**1.6.4 Divisão:**
+### **<u>1.6.4 Divisão</u>:**
 
 - 2/3 ÷ 1/2 = 2/3 x 2/1 = 4/3 (**invertendo a segunda fração** e **multiplicando**)
 - 3/4 ÷ 2/5 = 3/4 x 5/2 = 15/8 (invertendo a segunda fração e multiplicando)
@@ -174,17 +169,16 @@ Por fim, imagine que você tenha que realizar a seguinte operação:
 
 ![[Conjuntos Numéricos-8.png]]
 
-Esse tipo de situação vai ser bastante comum, principalmente, quanto formos resolver problemas envolvendo regra de três composta. Nesse caso, poderíamos multiplicar os respectivos numeradores e, após, os respectivos denominadores. Mas concorda que daria um resultado bem grande e ao final você ainda teria que simplificar? Não é isso que queremos, nem temos tempo na prova. Por isso, podemos simplificar logo. Basta saber que, na multiplicação, podemos simplificar tudo que está em cima (numeradores) com tudo que está em baixo (denominadores), independentemente da ordem. Vejamos:
+- Esse tipo de situação vai ser bastante comum, principalmente, quanto formos resolver problemas envolvendo regra de três composta. Nesse caso, poderíamos multiplicar os respectivos numeradores e, após, os respectivos denominadores. Mas concorda que daria um resultado bem grande e ao final você ainda teria que simplificar? Não é isso que queremos, nem temos tempo na prova. Por isso, podemos simplificar logo. Basta saber que, na multiplicação, podemos simplificar tudo que está em cima (numeradores) com tudo que está em baixo (denominadores), independentemente da ordem. Vejamos:
 
 ![[Conjuntos Numéricos-9.png]]
 
-**1.7 Potenciação e Radiciação** 
+## **1.7 Potenciação e Radiciação** 
 
-**1.7.1 Potenciação** 
+### **1.7.1 Potenciação** 
 
-- A potenciação é uma operação matemática em que **um número é multiplicado por ele mesmo várias vezes.**  
-      
-    - O número que está sendo multiplicado é chamado de base e o **número de vezes que ele é multiplicado é chamado de expoente**. O resultado da operação é chamado de potência.
+- A potenciação é uma operação matemática em que **<span style="color:#b8bb26">um número é multiplicado por ele mesmo várias vezes.</span>**  
+    - O <span style="color:#fb4934">número que está sendo multiplicado é chamado de base</span> e o **<span style="color:#b8bb26">número de vezes que ele é multiplicado é chamado de expoente</span>**. O resultado da operação é chamado de potência.
 
 ❗A notação matemática para potenciação é:
 
@@ -192,10 +186,10 @@ Esse tipo de situação vai ser bastante comum, principalmente, quanto formos re
 
 📚Por exemplo:
 
-- 2 elevado ao expoente 3 é igual a 2 x 2 x 2, o que resulta em 8. Isso pode ser representado como:
+- <span style="color:#fb4934">2 elevado ao expoente 3</span> é igual a <span style="color: #d79921">2 x 2 x 2</span>, o que resulta em 8. Isso pode ser representado como:
 ![[Conjuntos Numéricos-11.png]]
 
-- 5 elevado ao expoente 2 é igual a 5 x 5, o que resulta em 25. Isso pode ser representado como:
+- <span style="color:#fb4934">5 elevado ao expoente 2</span> é igual a <span style="color: #d79921">5 x 5</span>, o que resulta em 25. Isso pode ser representado como:
 
 ![[Conjuntos Numéricos-12.png]]
 
@@ -208,11 +202,11 @@ Esse tipo de situação vai ser bastante comum, principalmente, quanto formos re
 - Quando a base é elevada ao **expoente 1**, o resultado é sempre igual à base. Por exemplo:
 $$ 2¹ = 2 $$
 
-Quando um número é elevado ao **expoente negativo**, o resultado é igual a 1 dividido pelo número elevado ao expoente positivo correspondente. Por exemplo:
+- Quando um número é elevado ao **expoente negativo**, o resultado é igual a 1 dividido pelo número elevado ao expoente positivo correspondente. Por exemplo:
 
 ![[Conjuntos Numéricos-14.png]]
 
-**Potência de base negativa**: quando uma base é negativa e o expoente é um número par, a potência resultante é sempre positiva. Quando o expoente é um número ímpar, a potência resultante é sempre negativa. Nesse caso, observe se a operação tem parênteses ou não, pois faz toda a diferença (muita atenção ao item 3 abaixo, pois o "sinal de menos" não está sendo elevado e por isso se mantém. Vejamos:
+- **Potência de base negativa**: quando uma base é negativa e o expoente é um número par, a potência resultante é sempre positiva. Quando o expoente é um número ímpar, a potência resultante é sempre negativa. Nesse caso, observe se a operação tem parênteses ou não, pois faz toda a diferença (muita atenção ao item 3 abaixo, pois o "sinal de menos" não está sendo elevado e por isso se mantém. Vejamos:
 
 ![[Conjuntos Numéricos-15.png]]
 
@@ -220,55 +214,44 @@ Quando um número é elevado ao **expoente negativo**, o resultado é igual a 1 
 
 ![[Conjuntos Numéricos-16.png]]
 
-📚 Existem algumas **propriedades** de potenciação que são importantes de se conhecer:
+📚 Existem algumas **propriedades** de potenciação que são <span style="color:#fb4934">importantes de se conhecer:</span>
 
 - Propriedade da **multiplicação de potência de base igual**: quando duas potências têm a mesma base, podemos somar os expoentes. Por exemplo:
 
 ![[Conjuntos Numéricos-17.png]]
 
-Propriedade da **divisão de potência de base igual**: quando duas potências têm a mesma base, podemos subtrair os expoentes. Por exemplo:
+- Propriedade da **divisão de potência de base igual**: quando duas potências têm a mesma base, podemos subtrair os expoentes. Por exemplo:
 
 ![[Conjuntos Numéricos-18.png]]
 
-Propriedade da **potência do produto**: quando temos um produto elevado a um expoente, podemos elevar cada fator a esse expoente separadamente. Por exemplo:
+- Propriedade da **potência do produto**: quando temos um produto elevado a um expoente, podemos elevar cada fator a esse expoente separadamente. Por exemplo:
 
 ![[Conjuntos Numéricos-19.png]]
 
-Propriedade da potência de potência: quando temos uma potência elevada a um expoente, podemos multiplicar os expoentes. Por exemplo:
+- Propriedade da potência de potência: quando temos uma potência elevada a um expoente, podemos multiplicar os expoentes. Por exemplo:
 
 ![[Conjuntos Numéricos-20.png]]
 
-⚠️Obs.: Cuidado para não confundir a última propriedade com o caso abaixo. Os parênteses pode fazer toda diferença.
+- ⚠️Obs.: Cuidado para não confundir a última propriedade com o caso abaixo. Os parênteses pode fazer toda diferença.
 
 ![[Conjuntos Numéricos-21.png]]
 
 ⚠️ Lembre-se principalmente que: 
 
 - Base com número positivo = Resultado da potência positivo   
-      
-    
 - Expoente com número par = Resultado da potência é positivo  
-      
-    
 - Expoente ímpar e base com número negativo = Resultado da potência é negativo   
-      
-    
 - Potência de expoente 1 = Igual a base   
-      
-    
 - Potência de base não nula e expoente 0 = igual a 1  
 
-**1.8 Radiciação** 
+## **1.8 Radiciação** 
 
 - **A radiciação é a operação inversa da** [**potenciação**](https://mundoeducacao.uol.com.br/matematica/potenciacao.htm), então dominar potenciação é essencial para calcular a raiz de um número. Como vimos acima, a raiz de um número é a potência de expoente fracionário. Basicamente,aplicam-se as mesmas propriedades. Vamos se atentar basicamente a como simplificar os radicais.  
-      
-    
 - Para indicar a radiciação, usamos a seguinte notação:
 
 ![[Conjuntos Numéricos-22.png]]
 
 Sendo,
-
 - **n** o índice do radical. Indica quantas vezes o número que estamos procurando foi multiplicado por ele mesmo.
 - **x** o radicando. Indica o resultado da multiplicação do número que estamos procurando por ele mesmo.
 
@@ -276,54 +259,51 @@ Sendo,
 
 ![[Conjuntos Numéricos-23.png]]
 
-**1.8.1 Simplificação de radicais** 
+### **1.8.1 Simplificação de radicais** 
 
 - Muitas vezes não sabemos de forma direta o resultado da radiciação ou o resultado não é um número inteiro. Neste caso, podemos simplificar o radical.
 
-📚 Para fazer a simplificação devemos seguir os seguintes passos:
+📚 Para fazer a <span style="color:#fb4934">simplificação</span> devemos seguir os seguintes passos:
 
 1. Fatorar o número em fatores primos. (Caso não lembre desse processo, ainda iremos estudá-lo nas próximas aulas)
 2. A cada dupla (se for raiz quadrada), trio (se for raiz cúbica), quarteto (raiz quarta) e etc. de números, juntamos e formamos um só. Todos que foram juntados ficam fora da raiz, sendo multiplicados, e quem sobrou fica dentro da raiz. Com os exemplos vai ficar mais claro:
 
 ![[Conjuntos Numéricos-24.png]]
 
-No exemplo acima, queríamos a raiz quadrada e por isso montamos duplas. Note que não ficou ninguém dentro da raiz, pois não sobrou nenhum número sem dupla.
+- No exemplo acima, queríamos a raiz quadrada e por isso montamos duplas. Note que não ficou ninguém dentro da raiz, pois não sobrou nenhum número sem dupla.
 
 
 ![[Conjuntos Numéricos-25.png]]
 
-**1.8.2 Operações com radicais**
+### **1.8.2 Operações com radicais**
 
 1. **Adição e Subtração:** para adicionar ou subtrair radicais, primeiro verifique se eles têm o mesmo radicando (o número dentro do símbolo radical). Se tiverem, adicione ou subtraia os coeficientes (os números fora do símbolo radical) e mantenha o mesmo radicando. Por exemplo:
-
 - √2 + √2 = 2√2
 - 3√5 - 2√5 = √5
 
-⚠️Obs.: Se os radicais não tiverem o mesmo radicando, eles não podem ser adicionados ou subtraídos. Nesse caso, você pode simplificar cada radical, se possível, e então ver se eles têm o mesmo radicando.
+<span style="color:#b8bb26">⚠️Obs.:</span> Se os radicais não tiverem o mesmo radicando, eles não podem ser adicionados ou subtraídos. Nesse caso, você pode simplificar cada radical, se possível, e então ver se eles têm o mesmo radicando.
 
    2. **Multiplicação:** para multiplicar radicais, basta multiplicar os coeficientes e multiplicar os radicandos. Por exemplo:
 
 - 2√3 . 3√5 = 6√15
 
-⚠️Obs.: Se houver radicais iguais em um termo, você pode multiplicar seus coeficientes e simplificar o radicando se possível. Por exemplo:
+<span style="color:#b8bb26">⚠️Obs</span>.: Se houver radicais iguais em um termo, você pode multiplicar seus coeficientes e simplificar o radicando se possível. Por exemplo:
 
 - 2√2 . 3√2 = 6√4 = 6 x 2 = 12  
-      
-    
 
      3. **Divisão**: para dividir radicais, você pode dividir os coeficientes e dividir os radicandos. Por exemplo:
 
 - √12 / √3 = √(12/3) = √4 = 2
 
-⚠️Obs.: Se houver radicais iguais em um termo, você pode dividir seus coeficientes e simplificar o radicando se possível. Por exemplo:
+<span style="color:#b8bb26">⚠️Obs</span>.: Se houver radicais iguais em um termo, você pode dividir seus coeficientes e simplificar o radicando se possível. Por exemplo:
 
 - 6√10 / 2√5 = (6/2)√(10/5) = 3√2
 
-**1.9. MMC e MDC**
+## **1.9. MMC e MDC**
 
-**1.9.1 Máximo Divisor Comum (MDC)**
+### **1.9.1 Máximo Divisor Comum (MDC)**
 
-- O máximo divisor comum (MDC) é o maior número que divide dois ou mais números sem deixar resto. Assim, dados dois inteiros **a** e **b**, não nulos, chamamos de máximo divisor comum e indicamos por MDC(a,b), ao maior número inteiro positivo que é divisor comum de **a** e **b** simultaneamente.
+- <span style="color:#fb4934">O máximo divisor comum (MDC)</span> é o maior número que divide dois ou mais números sem deixar resto. Assim, dados dois inteiros **a** e **b**, não nulos, chamamos de máximo divisor comum e indicamos por MDC(a,b), ao maior número inteiro positivo que é divisor comum de **a** e **b** simultaneamente.
 - **Exemplo:**
     - Sejam os inteiros 30 e 24
         - Então, temos:
@@ -332,7 +312,7 @@ No exemplo acima, queríamos a raiz quadrada e por isso montamos duplas. Note qu
         - O máximo divisor comum será o maior divisor simultâneo de 30 e 24.
         - Logo temos; MDC (30, 24) = 6.
 
-**Obs.:** Para o cálculo do MDC envolvendo números maiores, podemos utilizar o método da fatoração, em que esse método envolve a fatoração dos dois números em seus fatores primos e, em seguida, identificar os fatores comuns a ambos. O MDC é o produto desses fatores comuns elevados aos menores expoentes.
+**<span style="color:#b8bb26">Obs.</span>:** Para o cálculo do MDC envolvendo números maiores, podemos utilizar o método da fatoração, em que esse método envolve a fatoração dos dois números em seus fatores primos e, em seguida, identificar os fatores comuns a ambos. O MDC é o produto desses fatores comuns elevados aos menores expoentes.
 
 - **Exemplo:**
     - Calcule o MDC(132,120)
@@ -345,49 +325,34 @@ No exemplo acima, queríamos a raiz quadrada e por isso montamos duplas. Note qu
 	- Então MDC (132,120) = 2² x 3
 	- MDC(132,120) = 12.
 
-**1.9.1.1 Múltiplos**
+#### **1.9.1.1 Múltiplos**
 
-- Os múltiplos de um número são todos os números que podem ser obtidos multiplicando esse número por um número inteiro qualquer. Por exemplo, os múltiplos de 3 são: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, e assim por diante.
+- Os <span style="color:#fb4934"><u>múltiplos</u></span> de um número são todos os números que podem ser obtidos multiplicando esse número por um número inteiro qualquer. Por exemplo, os múltiplos de 3 são: <span style="color:#b8bb26">3, 6, 9, 12, 15, 18, 21, 24, 27, 30</span>, e assim por diante.
 - Para determinar se um número é múltiplo de outro, basta verificar se o primeiro número é divisível pelo segundo. Por exemplo, para saber se 15 é múltiplo de 3, basta verificar se 15 é divisível por 3, o que é verdadeiro, já que 15 ÷ 3 = 5.
 
 Os múltiplos de um número podem ser encontrados multiplicando o número por 1, 2, 3, 4, 5, e assim por diante. De forma geral, se m é um número inteiro qualquer e n é o número que desejamos encontrar os múltiplos, então podemos escrever:
 
 - n x 1 = n
-    
 - n x 2 = 2n
-    
 - n x 3 = 3n
-    
 - n x 4 = 4n
-    
 - ... 
-    
 - n x m = mn
-    
 
-**1.9.2 Mínimo Múltiplo Comum (MMC)**
+### **1.9.2 Mínimo Múltiplo Comum (MMC)**
 
 - O MMC (Mínimo Múltiplo Comum) é o menor múltiplo inteiro comum a dois ou mais números. Em outras palavras, é o menor número que é divisível por todos os números dados. Esse assunto é bem importante pois é utilizado com frequência na resolução de problemas envolvendo frações, portanto, vamos pra cima!
 - Vamos imaginar dois números inteiros  (**a** e **b)**, não nulos, o mínimo múltiplo comum entre **a** e **b**, é o menor número inteiro positivo que é múltiplo simultaneamente de **a** e **b**, e representamos por MMC(a,b). Ele é útil em situações em que é necessário encontrar um múltiplo comum de dois ou mais números, como na adição ou subtração de frações com denominadores diferentes. Além disso, várias questões pedem o MMC de uma forma contextualizada. 
 - **Exemplo:**
-    
     - Calcule o MMC(3,4):
-        
         - Múltiplos de 3: ..., -15, -12, -9, -6, -3, 0, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, ...
-            
         - Múltiplos de 4: ..., -16, -12, -8, -4, 0, 4, 8, 12, 16, 20, 24, 28, 32, ...
-            
         - Observamos que o menor número inteiro positivo que é múltiplo simultâneo de 3 e 4 é 12.
-            
             - Portanto, tem que o MMC (3, 4) = 12.
-                
 
-Quando temos números maiores, basta decompor cada número em seus fatores primos e depois identificar os fatores comuns e não comuns, levando em consideração as potências. O MMC é obtido multiplicando os fatores comuns e não comuns, elevados às maiores potências encontradas, ou seja, **O MMC será o produto de todos os fatores primos elevado aos maiores expoentes.**
+Quando temos números maiores, basta decompor cada número em seus fatores primos e depois identificar os fatores comuns e não comuns, levando em consideração as potências. O MMC é obtido multiplicando os fatores comuns e não comuns, elevados às maiores potências encontradas, ou seja, **<span style="color:#b8bb26">O MMC será o produto de todos os fatores primos elevado aos maiores expoentes</span>.**
 
 - Por exemplo, o MMC de 12 e 15 é 60, que pode ser obtido a partir da decomposição dos números em fatores primos:
-    
     - 12 = 2² x 3¹
-        
     - 15 = 3¹ x 5¹
-        
     - MMC = 2² x 3¹ x 5¹ = 60
