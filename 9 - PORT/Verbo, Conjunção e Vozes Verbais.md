@@ -36,7 +36,7 @@ _**Tempos do Verbo:**_
 _**Formas nominais dos Verbos:**_
 
 - _**<span style="color:#83a598">Infinitivo</span>**__: são identificados pela **<span style="color:#fe8019">desinência "r"</span>** -_ _**pode assumir o valor de substantivo**__. Ex.: "**<span style="color:#fe8019">O andar</span>** do bêbado era cômico"._
-- _**<span style="color:#83a598">Gerúndio</span>**__: são identificados pela **<span style="color:#fe8019">desinência "-ndo</span>"** -_ _**pode assumir o valor de advérbio ou adjetivo**__._
+- _**<span style="color:#83a598">Gerúndio</span>**: são identificados pela **<span style="color:#fe8019">desinência "-ndo</span>"** -_ _**pode assumir o valor de advérbio ou adjetivo**._
     - _Ex.: "Pensando bem, vou ficar em casa"_ - _**equivale a "<span style="color:#83a598">ao pensar melhor</span>"**__._
     - _Ex.: "Jogue a água fervendo fora" -_ _**equivale a "<span style="color:#83a598">água fervente</span>"**_.
 - _**<span style="color:#83a598">Particípio</span>**__: são identificados pela **<span style="color:#fe8019">desinência "-do"</span>** -_ _**pode assumir o valor de adjetivo**__. Ex.: "Coração partido"._
