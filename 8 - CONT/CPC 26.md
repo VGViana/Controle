@@ -51,6 +51,7 @@ Pelo CPC 26, o **<span style="color:#fb4934">Conjunto</span>** Completo de DC's
 
 ⚠️ A entidade **pode usar outros títulos** nas DC's em vez dos usados no CPC 26, desde que **<span style="color:#fb4934">não contrarie</span> a legislação societária** brasileira vigente.
 
+
 ## **3.3. Considerações Gerais**
 
 ### **3.3.1. Pressuposto da Continuidade**
