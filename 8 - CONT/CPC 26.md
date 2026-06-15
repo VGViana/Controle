@@ -51,7 +51,10 @@ Pelo CPC 26, o **<span style="color:#fb4934">Conjunto</span>** Completo de DC's
 
 ⚠️ A entidade **pode usar outros títulos** nas DC's em vez dos usados no CPC 26, desde que **<span style="color:#fb4934">não contrarie</span> a legislação societária** brasileira vigente.
 
-
+- Para que um item seja <span style="color:#83a598">**reconhecido**</span> nas demonstrações contábeis, ele também precisa ser:
+	- **<span style="color:#83a598">mensurado</span>** com confiabilidade
+	- provável que **<span style="color:#83a598">benefícios econômicos futuros</span>** sejam obtidos; ou
+	- <span style="color:#fb4934">**sacrifícios de benefícios econômicos sejam necessários**</span>
 ## **3.3. Considerações Gerais**
 
 ### **3.3.1. Pressuposto da Continuidade**
