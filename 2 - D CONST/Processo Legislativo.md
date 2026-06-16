@@ -446,6 +446,12 @@ As normas de processo legislativo previstas na CF/88 são de **observância obri
 
 ⚠️**<span style="color:#fb4934">Atenção</span> - Não confunda: Revisão Constitucional x Emendas Constitucionais**
 
+
+| <span style="color:#83a598">Revisão</span> constitucional | <span style="color:#fb4934">Emenda</span> constitucional                                                                            |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Maioria absoluta, em sessão unicameral                    | Discussão e votação em cada Casa do CN, em dois turnos, com aprovação, em ambos, por 3/5 dos membros de cada Casa. Sessão bicameral |
+| Promulgação pela Mesa do CN                               | Promulgação pelas duas Casas Legislativas, separadamente                                                                            |
+
 # **1.  EMENDAS CONSTITUCIONAIS**
 
 🚨**<span style="color:#fb4934">DECORE</span>**!  
