@@ -427,3 +427,123 @@ III - planos plurianuais, diretrizes orçamentárias e orçamentos.
 # **5. Processo Legislativo Orçamentário**
 
 As normas de processo legislativo previstas na CF/88 são de **observância obrigatória** aos Estados, DF e Municípios.
+
+# **<u>REFORMA CONSTITUCIONAL</u>**
+
+- **Emenda Constitucional**
+- **Revisão Constitucional**
+- Processo único
+
+**ADCT: Art. 3º** - A revisão constitucional será realizada após cinco anos, contados da promulgação da Constituição, pelo voto da maioria absoluta dos membros do Congresso Nacional, em sessão unicameral.
+
+⚠️**Atenção - revisão constitucional**
+
+- 5 anos após a promulgação da CF/88
+- Voto da maioria absoluta dos membros do CN
+- Sessão Unicameral
+- Promulgação das emendas de revisão foram feitas pela Mesa do CN.
+- Não é aplicado aos Estados.
+
+⚠️**Atenção - Não confunda: Revisão Constitucional x Emendas Constitucionais**
+
+**1.  EMENDAS CONSTITUCIONAIS**
+
+🚨**DECORE**!  
+
+- **Proposta** por:
+- **um terço**, **no mínimo****,** dos **membros da Câmara dos Deputados** **ou** **do Senado Federal;**
+- **Presidente da República**;
+- **mais da metade** **das Assembleias Legislativas das unidades da Federação**, manifestando-se, cada uma delas, pela maioria relativa de seus membros.
+
+A Constituição **NÃO** poderá ser emendada: **LIMITAÇÕES CIRCUNSTANCIAIS**
+
+- na vigência de intervenção federal, de estado de defesa ou de estado de sítio.
+
+**⚠️ Atenção:** limitação quanto à intervenção federal apenas se refere às intervenções decretadas pela União!  
+  
+
+- **Aprovação**:
+- proposta será discutida e votada em cada Casa do Congresso Nacional
+- votação em dois turnos - considerando-se aprovada caso obtenha, em ambos turnos, **3/5 dos votos dos respectivos membros.**
+- **NÃO** há sanção ou veto
+- **NÃO** há Casa iniciadora ou revisora!
+
+⚠️ A prática da PEC-paralela é reconhecida elo STF.
+
+- **Promulgação**:
+- Mesas da Câmara dos Deputados e do Senado Federal
+- Não há promulgação do Presidente da República!
+
+  
+  
+
+**🚨DECORE:**
+
+- Não poderá ser objeto de deliberação a proposta de emenda tendente a abolir, art. 60, § 4º, CF/88: **LIMITAÇÕES MATERIAIS**
+- a forma federativa de Estado;
+- o voto direto, secreto, universal e periódico;
+- separação dos Poderes;
+- os direitos e garantias individuais.
+
+STF - não pode haver emendas tendentes a abolir ou prejudicar as cláusulas pétreas.
+
+Tipos de limitações materiais
+
+- Expressas/ Explícitas - art. 60, § 4º, CF/88 (acima👆)
+- Tácitas/ Implícitas - referentes ao Poder Constituinte Derivado - reforma e revisão Constitucionais
+
+**🚨DECORE**:
+
+- As emendas constitucionais não podem dar origem à cláusulas pétreas.
+- As EC não podem desfazer o núcleo essencial das cláusulas pétreas, muito menos, aboli-las!
+
+**LIMITAÇÕES FORMAIS**
+
+- **Iniciativa**: 1/3 (mínimo) dos membros da CD ou do SF; Presidente da República; Mais da metade das Assembleias Legislativas, como manifestação de maioria relativa
+- **Votação** - 2 turnos em cada Casa Legislativa - aprovação 3/5 dos membros de cada uma.
+- Não pode ser reapresentada na mesma sessão legislativa!
+- Não há Casa Iniciadora obrigatória, e nem Revisora (tanto a CD, como o SF podem iniciar a votação ou discussão das EC). A Casa Legislativa, a que não deu início ao processo, poderá emendá-lo em sua totalidade ou em parte. O projeto retorna à Casa que o iniciou, para que o revise em sua totalidade (não apenas nas partes alteradas) e será legitimado caso haja aprovação de 3/5 dos membros de cada Casa.
+- Se a PEC sofrer outra alteração, deverá retornar, novamente, a outra Casa Legislativa, e assim sucessivamente, até haver o texto final aprovado pelos 3/5 dos membros de ambas as Casas.
+- **Promulgada** pelas Mesas do SF e da CD.
+
+A matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa > Princípio da Irrepetibilidade
+
+ **LIMITAÇÕES TEMPORAIS**
+
+- Prazo estipulado pelo **PODER CONSTITUINTE ORIGINÁRIO** para emendar a CF
+
+**Emendas parlamentares acessórias**
+
+Vimos que, havendo emendas aos projetos de lei ordinária, apenas a parte emendada voltará para a Casa Iniciadora, para que as emendas sejam examinadas. Portanto, a parte do projeto que não sofreu modificações irá seguir seu rito.
+
+**PORÉM**, **quanto ao projeto de PEC**, há algumas diferenças:
+
+- Caso a PEC seja emendada, **todo o projeto** retornará à Casa que deu início à votação, para que este seja revisado, e não, apenas parte dele. Isso ocorrerá até haver a provação em dois turnos por 3/5 dos votos em cada Casa.
+- A PEC, ao ser apreciada com emendas, é vista como um **novo projeto**, podendo ser modificado em sua totalidade. Depois, ao retornar à outra Casa, será apreciado em sua totalidade.
+
+STF - apenas haverá o retorno da PEC à outra Casa, caso haja **mudanças substanciais** no texto do projeto.
+
+**2. Controle Judicial - Reforma Constitucional**  
+
+Caso a reforma constitucional desrespeite o Poder Constituinte Originário, poderá ser imputada Ação de Inconstitucionalidade frente ao Poder Judiciário.
+
+Controle de Constitucionalidade dos atos de Reforma Constitucional:
+
+- **Material** - desrespeito às cláusulas pétreas e às outras limitações estabelecidas
+- **Formal** - desrespeito ao processo de elaboração da PEC
+
+O controle poderá ser feito de duas formas:
+
+- **Incidental** - caso concreto é submetido a qualquer juiz ou tribunal, a decisão terá efeitos apenas entre as partes do processo (_inter partes_);
+- **Abstrata** - há iniciativa privativa (Art. 103 da CF/88) para propor ação ao STF, a decisão terá efeitos a todos (_erga omnes)._
+
+🚨Ainda, saiba que **pode haver controle de constitucionalidade em relação à PEC que está tramitando no CN**. Saiba que, apenas o parlamentar poderá acionar o Judiciário e será feito através de **Mandado de Segurança ao STF.** Caso o a emenda constitucional seja promulgada antes que o MS seja apreciado, o mesmo não será mais apreciado pelo STF, por ter perdido o objeto da ação.
+
+**1.3.1 Mutação Constitucional**
+
+- Quando o **sentido** do texto constitucional sofre modificações, mas o texto em si não é alterado.
+- Poder Constituinte Difuso
+- Formas de mutação:
+- Por interpretação
+- Por atuação do Legislador
+- Pelo costume
