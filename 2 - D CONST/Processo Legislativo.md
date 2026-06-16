@@ -505,7 +505,6 @@ STF - não pode haver emendas tendentes a <u>abolir ou prejudicar as cláusulas 
 - <span style="color:#fe8019">Não pode ser reapresentada na mesma sessão legislativa!</span>
 - <span style="color:#fe8019">Não há Casa Iniciadora obrigatória, e nem Revisora</span> (<u>tanto a CD, como o SF podem iniciar a votação ou discussão das EC</u>). A Casa Legislativa, a que não deu início ao processo, poderá emendá-lo em sua totalidade ou em parte. O projeto retorna à Casa que o iniciou, para que o revise em sua totalidade (não apenas nas partes alteradas) e será legitimado caso haja aprovação de 3/5 dos membros de cada Casa.
 - Se a PEC sofrer outra alteração, deverá retornar, novamente, a outra Casa Legislativa, e assim sucessivamente, até haver o texto final aprovado pelos 3/5 dos membros de ambas as Casas.
-	- De acordo com o STF, as PEC's paralelas são aceitas
 - **<span style="color:#b8bb26">Promulgada</span>** pelas Mesas do SF e da CD.
 
 A matéria constante de proposta de emenda rejeitada ou havida por prejudicada <span style="color:#d3869b">não pode ser objeto de nova proposta na mesma sessão legislativa > Princípio da Irrepetibilidade</span>
