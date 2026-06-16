@@ -6,7 +6,7 @@ Requerer a prestação de informações acerca das **<span style="color:#83a598"
 - Atividades de **Investimento <span style="color:#83a598">(AI)</span>.**
 - Atividades de **Financiamento <span style="color:#83a598">(AF)</span>.**
 
-⚠️ A **LSA** cita de que deve classificar **no mínimo** nestes 3 Fluxos.
+⚠️ A **LSA** cita de que deve classificar **<span style="color:#fb4934">no mínimo</span>** nestes 3 Fluxos.
 
 $$
 \Delta \text{Caixa} = AO + AI + AF
