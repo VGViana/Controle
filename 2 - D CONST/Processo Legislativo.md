@@ -508,7 +508,9 @@ STF - não pode haver emendas tendentes a <u>abolir ou prejudicar as cláusulas 
 	- De acordo com o STF, as PEC's paralelas são aceitas
 - **<span style="color:#b8bb26">Promulgada</span>** pelas Mesas do SF e da CD.
 
-A matéria constante de proposta de emenda rejeitada ou havida por prejudicada <span style="color:#fb4934">não pode ser objeto de nova proposta na mesma sessão legislativa > Princípio da Irrepetibilidade</span>
+A matéria constante de proposta de emenda rejeitada ou havida por prejudicada <span style="color:#d3869b">não pode ser objeto de nova proposta na mesma sessão legislativa > Princípio da Irrepetibilidade</span>
+- Irrepetibilidade de <span style="color:#fb4934">**emenda constitucional**</span> -> **<span style="color:#fb4934">absoluta</span>**
+- Irrepetibilidade de <span style="color:#83a598">**projeto de lei**</span> -> **<span style="color:#83a598">relativa</span>**
 
 ##  **==LIMITAÇÕES TEMPORAIS==**
 
