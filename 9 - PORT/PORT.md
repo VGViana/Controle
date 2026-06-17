@@ -13,3 +13,5 @@
 [[Sintaxe]]
 
 [[Semântica, Tipos de discurso e Tipologia e Gênero Textual]]
+
+[[0. Fonética, Sons, letras, fonemas e dígrafos]]
