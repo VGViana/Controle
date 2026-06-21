@@ -542,6 +542,10 @@ O controle poderá ser feito de duas formas:
 - Quando o **<span style="color:#fe8019">sentido</span>** do texto constitucional sofre modificações, mas o texto em si não é alterado.
 - Poder Constituinte Difuso
 - Formas de mutação:
-- Por interpretação
-- Por atuação do Legislador
-- Pelo costume
+	- Por interpretação
+	- Por atuação do Legislador
+	- Pelo costume
+- Conforme o STF, existem 3 situações que legitimam uma mutação constitucional:
+	- Mudança na percepção de direito
+	- Modificações na realidade fática
+	- Consequência prática negativa de determinada linha de entendimento
