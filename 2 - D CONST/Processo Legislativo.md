@@ -190,14 +190,10 @@ STF - pode haver emendas que resultem em aumento de despesas nos casos de **<spa
 
 - Matéria atribuída ao Presidente da República - ato unilateral
 - Discorda do projeto de lei:
-- **contrário ao interesse público** - **<span style="color:#fe8019">VETO POLÍTICO</span>**
-
-⚠️**Atenção Veto Político - juízo político de conveniência**  
-
-- **inconstitucional** - **<span style="color:#fe8019">VETO JURÍDICO</span>**
-
-⚠️**Atenção - Veto Jurídico - controle de constitucionalidade PREVENTIVO**
-
+	- **contrário ao interesse público** - **<span style="color:#fe8019">VETO POLÍTICO</span>**
+	⚠️**Atenção Veto Político - juízo político de conveniência**  
+	- **inconstitucional** - **<span style="color:#fe8019">VETO JURÍDICO</span>**
+	⚠️**Atenção - Veto Jurídico - controle de constitucionalidade PREVENTIVO**
 - Deve ser **<span style="color:#83a598">EXPRESSO</span>** - comunicar ao Presidente do Senado em <u>15 dias úteis</u> (48 horas para comunicar os **MOTIVOS** ao Presidente do Senado), caso contrário, será considerada <u>sanção tácita</u>.
 - Sempre será **<span style="color:#fe8019">MOTIVADO</span>**!
 - Não há retratação do veto
