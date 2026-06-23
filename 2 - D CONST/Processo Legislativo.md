@@ -349,6 +349,9 @@ IV – **já disciplinada em projeto de <span style="color:#fe8019">lei aprovado
 - Caso a MP perca validade, a legislação suspensa voltará a ter eficácia - **efeito repristinatório**
 
 **Art. 62, § 6º, CF/88**_._ Se a medida provisória **não for apreciada em até quarenta e cinco dias contados de sua publicação**, entrará em **<span style="color:#fb4934">regime de urgência</span>**, subsequentemente, em cada uma das Casas do Congresso Nacional, **ficando sobrestadas, até que se ultime a votação**, todas as demais deliberações legislativas da Casa em que estiver tramitando.
+- **STF, no  MS 27931/DF**,  decidiu de forma **<span style="color:#83a598">diversa da literalidade do texto constitucional</span>** e entendeu que o trancamento da pauta **<span style="color:#fb4934">não alcança todas as deliberações legislativas, mas apenas aquelas que tratem sobre assuntos disciplináveis por medidas provisórias</span>**, de modo que **as proposições legislativas sobre temas vedados de serem disciplinados por medida provisória , ou seja, propostas de emendas constitucionais, projetos de lei complementar, projetos de decreto legislativo , resoluções e projetos de lei ordinária que tratem sobre um dos assuntos do art. 62, § 1º, da CF/88, continuariam podendo ser realizados pela casa legislativa**. 
+
+Ou seja, **<span style="color:#83a598">o trancamento da pauta ocorreria apenas para projetos de lei ordinária sobre matéria que possa ser objeto de MP</span>**.
 
 ### **3.4.4 Leis Delegadas**
 
