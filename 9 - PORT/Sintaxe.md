@@ -145,12 +145,12 @@ Assim como o OD, o Objeto Indireto (OI) estabelece uma relação com o verbo. A
 
 **_<span style="color:#fb4934">Objeto indireto pleonástico</span>_** **-** quando a oração precisa **<span style="color:#b8bb26">retomar o objeto indireto</span>**, para fins de ênfase. Os pronomes mais comuns são: **<span style="color:#b8bb26">lhe, lhes</span>**.
 
-**Complemento Nominal**
+### **1.4.3 Complemento Nominal**
 
 - É um termo que **<u>se relaciona com um nome</u>** (classe dos nomes), geralmente de **valor passivo e <u>sempre</u> preposicionado**. 
     - _Ex.: "Foi feito <u>um investimento</u> **<u>de capital</u> <u>em tecnologia</u>**". (Os termos "de capital" e "em tecnologia" completam o sentido do substantivo investimento)_. 
 
-### _**1.4.3 - Agente da Passiva**_
+#### _**1.4.3.1 - Agente da Passiva**_
 
 Estudamos que, na voz passiva, o sujeito paciente "recebe" a ação, ou seja, sofre o resultado dela. Ao fazer a transformação da voz ativa para a passiva, temos algumas alterações. O sujeito ativo se transforma em agente da passiva e o objeto, em sujeito paciente. 
 
