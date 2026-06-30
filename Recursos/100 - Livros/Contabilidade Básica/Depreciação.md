@@ -1,1 +1,0 @@
-diminuição do valor dos bens do [[18. CPC 27 - Ativo Imobilizado]] resultante dos desgastes por uso, ação da natureza ou obsolescência (tornou-se antiquado, perdeu a competitividade)

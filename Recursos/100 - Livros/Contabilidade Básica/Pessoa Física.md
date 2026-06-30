@@ -1,1 +1,0 @@
-ser natural, indivíduo considerado como tal a partir do seu nascimento, que termina com a morte

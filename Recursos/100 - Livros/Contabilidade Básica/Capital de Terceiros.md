@@ -1,1 +1,0 @@
-Dívidas exigíveis; Dívidas com diversas pessoas ou entidades: governo, fornecedores, funcionários, bancos, financeiras, etc

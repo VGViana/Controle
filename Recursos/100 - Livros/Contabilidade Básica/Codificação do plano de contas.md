@@ -1,1 +1,0 @@
-atribui número aos grupos e às contas do [[BP]] e [[DRE]], facilitando a contabilidade mecanizada e eletrônica

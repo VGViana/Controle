@@ -1,1 +1,0 @@
-Considera como [[Receita]] aquela recebida no e como [[Despesa]], aquela paga no período

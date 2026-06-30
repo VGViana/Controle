@@ -1,1 +1,0 @@
-direito a receber em decorrência de vendas a prazo
