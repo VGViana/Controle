@@ -1,0 +1,1 @@
+Bens incorpóreos, sem corpo

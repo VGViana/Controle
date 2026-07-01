@@ -1,0 +1,1 @@
+Aplicações financeiras por um período fixo, também conhecido como depósito a prazo fixo

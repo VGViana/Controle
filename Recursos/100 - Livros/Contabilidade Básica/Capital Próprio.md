@@ -1,0 +1,1 @@
+Recursos dos proprietários aplicados na empresa que não pode ser resgatados; por isso, são considerados como se fossem da própria empresa; conhecido também como PL; não exigível

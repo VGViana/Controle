@@ -1,0 +1,1 @@
+taxa adicional cobrada daqueles que pagam com atraso

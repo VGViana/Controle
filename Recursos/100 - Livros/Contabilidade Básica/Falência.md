@@ -1,0 +1,1 @@
+quebra da empresa provocada por falta de recursos para pagar suas dívidas; liquidação da empresa. Atualmente, há uma lei para essa finalidade chamada "Lei de Recuperação de Empresas (ou Judicial)"
