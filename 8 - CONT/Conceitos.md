@@ -1,0 +1,59 @@
+# Conceito
+É a ciência social que <span style="color: #d79921">**estuda e pratica**</span> funções de <span style="color: #d79921">**orientação, de controle e registro**</span> dos <span style="color: #d79921">**atos e fatos**</span> de uma administração econômica
+
+Um <span style="color: #d79921">**sistema de informação e avaliação**</span> destinado a <span style="color: #d79921">**prover seus usuários**</span> com <span style="color: #d79921">**demonstrações e análises**</span> de natureza econômica, financeira, física e de produtividade, com relação à entidade objeto de contabilização
+# Objeto
+**<u>Patrimônio</u>** = Conjunto de <u>bens, direito e obrigações</u>
+
+# Campo de aplicação
+**<u>Aziendas</u>** = Gestão + patrimônio = entidades econômico-administrativas (com ou sem fins lucrativos)
+- Econômica -> Empresas
+- Sociais -> Governo
+- Econômico-sociais -> Associações
+
+## Objetivo/finalidade
+- Controlar o patrimônio administrado
+- <u><span style="color:#83a598">**Fornecer informações úteis**</span></u> sobre a composição e as variações patrimoniais, com objetivo de auxiliar na tomada de decisões, bem como sobre o resultado das atividades econômicas desenvolvidas pela entidade para alcançar seus fins.
+
+## Funções
+- Função **Administrativa** = controle do patrimônio;
+- Função **Econômica** = apuração do resultado líquido (rédito)
+
+
+## Técnicas
+Conjunto de procedimentos utilizados pela contabilidade para registrar ou levantar os fatos contábeis
+- Escrituração: técnica utilizada para registrar os fatos contábeis
+- Demonstrações contábeis: técnica utilizada para evidenciar os fatos contábeis escriturados
+- Análise das Demonstrações contábeis: técnica utilizada para extrair informações sobre a situação financeira, econômica e patrimonial da entidade, a fim de subsidiar o processo de tomada de decisões
+- Auditoria: técnica utilizada para examinara escrituração e evidenciação das informações financeiras, verificando se essas informações foram elaboradas de acordo com as normas vigentes e os princípios contábeis
+
+## Usuários
+
+Os <span style="color:#83a598">**usuários internos**</span> estão ligados aos objetivos e às atividades da entidade. Influenciam na gestão administrativa da entidade (funções de planejamento, aspectos gerenciais, como políticas de preços, gestão de pessoal, etc). 
+- Alta e média gerência da empresa
+- conselho de administração
+- acionistas controladores
+
+Os usuários externos não compõem como regra a estrutura da entidade. Estão interessados em diversas informações, de acordo com o seu objetivo. 
+- Empregados
+- Investidores
+- credores por empréstimo 
+- fornecedores
+- clientes
+- governo e suas agências
+- público
+# Teorias das Contas
+
+- A teoria **Personalista (Pessoas)** se divide em:
+	- **Agentes consignatários** - Bens da empresa 
+	- **Agentes Correspondentes** - Direitos e obrigações da empresa.
+	- **Proprietários** - Contas do PL e Contas de Resultado (Receitas de Vendas, Capital Social e Custo das Mercadorias Vendidas)
+
+- A teoria **Materialista se divide em:**
+	- **Integrais** - Representa Bens, direitos e Obrigações exigíveis 
+	- Diferenciais - Representa o PL e Receitas e Despesas
+
+- **Patrimonialista**
+	- **Patrimoniais** - Ativo, Passivo e PL.
+	- **Resultado** - Receita e Despesa.
+
