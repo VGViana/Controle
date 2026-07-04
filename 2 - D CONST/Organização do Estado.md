@@ -40,8 +40,8 @@ Em Municípios com <span style="color:#83a598">**mais de 200.000 eleitores**</sp
 
 - Nos crimes de responsabilidade <span style="color:#83a598">**próprios**</span>, a competência para julgamento do Prefeito será da <span style="color:#83a598">**Câmara Municipal**</span>
 
-- Nos crimes de responsabilidade <span style="color:#fb4934">impróprios</span>, a competência para julgamento do Prefeito será do <span style="color:#fb4934">Poder Judiciário, independentemente do pronunciamento doLegislativo</span>.
-- Os <span style="color:#83a598">Vereadores</span> gozam de inviolabilidade por suas opiniões, palavras e votos(<span style="color:#83a598">imunidade material</span>) no exercício do mandato e na circunscrição do Município.
+- Nos crimes de responsabilidade <span style="color:#fb4934">impróprios</span>, a competência para julgamento do Prefeito será do <span style="color:#fb4934">Poder Judiciário, independentemente do pronunciamento do Legislativo</span>.
+- Os <span style="color:#83a598">Vereadores</span> gozam de inviolabilidade por suas opiniões, palavras e votos (<span style="color:#83a598">imunidade material</span>) no exercício do mandato e na circunscrição do Município.
 
 _Art. 31, §§ 1º e 2º da Constituição Federal:_  
 >_Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei._  
