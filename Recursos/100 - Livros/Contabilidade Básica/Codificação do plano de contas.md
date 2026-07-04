@@ -1,1 +1,1 @@
-atribui número aos grupos e às contas do [[BP]] e [[DRE]], facilitando a contabilidade mecanizada e eletrônica
+atribui número aos grupos e às contas do [[5. BP]] e [[6. DRE]], facilitando a contabilidade mecanizada e eletrônica

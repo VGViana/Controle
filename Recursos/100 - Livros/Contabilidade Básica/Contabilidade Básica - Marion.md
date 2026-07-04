@@ -23,11 +23,11 @@
 
 [[Exercício Social]]
 [[Notas Explicativas]]
-[[BP]]
-[[DLPA]]
-[[DRE]]
-[[DFC]]
-[[DVA]]
+[[5. BP]]
+[[8. DLPA]]
+[[6. DRE]]
+[[11. DFC (CPC 26)]]
+[[12. DVA (CPC 09)]]
 
 ## 4. Balanço Patrimonial
 
@@ -73,7 +73,7 @@
 ## 8. Demonstração dos Fluxos de Caixa e Plano de Contas
 
 [[Codificação do plano de contas]]
-[[DFC]]
+[[11. DFC (CPC 26)]]
 [[Empresas Coligadas]]
 [[Impostos a Recolher]]
 
