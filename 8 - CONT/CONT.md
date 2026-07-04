@@ -8,11 +8,11 @@
 - [[7. Reservas e dividendos]]
 - [[8. DLPA]]
 - [[9. DMPL]]
-- [**CPC 00 - Estrutura Conceitual**](14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md) 
 - [[12. DVA (CPC 09)]]
 - [[11. DFC (CPC 26)]]
 - [**Princípios Contábeis**](15.%20Princípios%20Contábeis.md) 
 - [[13. Estoques]]
+- [**CPC 00 - Estrutura Conceitual**](14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md) 
 - [[15. Estoques (CPC 16)]]
 - [[18. CPC 27 - Ativo Imobilizado]]
 - [[19. CPC 04 - Ativo Intangível]]
