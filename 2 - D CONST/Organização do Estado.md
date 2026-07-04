@@ -177,30 +177,28 @@ Técnicas de Repartição:
 - decretar o <span style="color:#83a598">estado de sítio</span>, o <span style="color:#83a598">estado de defesa</span> e a <span style="color:#83a598">intervenção federal</span>;
 - produção e o comércio de material bélico;
 
-**STF**: é <span style="color:#fb4934">inconstitucional lei estadual</span> que autorize a utilização, pelas polícias civil e militar, de armas de fogo apreendidas;
-
-**STF**: é <span style="color:#fb4934">incompatível</span> com a Constituição Federal a concessão de porte de arma a procuradores estaduais por <span style="color:#fb4934">lei estadual</span>.
+	- **STF**: é <span style="color:#fb4934">inconstitucional lei estadual</span> que autorize a utilização, pelas polícias civil e militar, de armas de fogo apreendidas;
+	
+	- **STF**: é <span style="color:#fb4934">incompatível</span> com a Constituição Federal a concessão de porte de arma a procuradores estaduais por <span style="color:#fb4934">lei estadual</span>.
 
 - emitir **moeda**;
 - administrar as reservas cambiais do País e fiscalizar as operações de natureza financeira;
 
-**STF**: <span style="color:#fb4934">é inconstitucional lei estadual</span> que estabeleça a obrigatoriedade de utilização, pelas agências bancárias, de equipamento que ateste a autenticidade de cédulas.
+	- **STF**: <span style="color:#fb4934">é inconstitucional lei estadual</span> que estabeleça a obrigatoriedade de utilização, pelas agências bancárias, de equipamento que ateste a autenticidade de cédulas.
 
 - elaborar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social;
 - manter serviço postal e o correio aéreo nacional;
 
-**STF**: <span style="color:#83a598">é constitucional</span> a atribuição de monopólio do serviço postal à Empresa Brasileira de Correios e Telégrafos.
+	- **STF**: <span style="color:#83a598">é constitucional</span> a atribuição de monopólio do serviço postal à Empresa Brasileira de Correios e Telégrafos.
 
 - explorar, **diretamente ou mediante autorização, concessão ou permissão**, os serviços de **telecomunicações**; 
 
-**STF**:
-
-1. É <span style="color:#fb4934">inconstitucional lei estadual ou distrital</span> que proíba as empresas de telecomunicações de cobrarem taxas para a instalação do segundo ponto de acesso à internet;
-2. É <span style="color:#fb4934">inconstitucional lei estadual ou distrital</span> que estabeleça a possibilidade de acúmulo das franquias de minutos mensais ofertados pelas operadoras de telefonia, determinando a transferência dos minutos não utilizados no mês de sua aquisição, enquanto não forem utilizados, para os meses subsequentes;
-3. É <span style="color:#fb4934">inconstitucional lei estadual</span> que determine que as empresas telefônicas criem ou mantenham um cadastro de assinantes interessados em receber ofertas de produtos ou serviços;
-4. É <span style="color:#fb4934">inconstitucional lei estadual</span> que obrigue empresas de telefonia móvel a instalarem equipamentos de bloqueio do serviço de celular em presídio;
-5. É <span style="color:#fb4934">inconstitucional norma estadual</span> que obrigue empresa privada de telefonia celular e instituição de ensino a garantir idênticos benefícios promocionais tanto aos novos clientes quanto aos antigos;
-6. É <span style="color:#fb4934">inconstitucional</span> — por violar a competência da União privativa para legislar sobre telecomunicações (art. 22, IV) e exclusiva para explorar esses serviços (art. 21, XI) — norma estadual que institua a obrigatoriedade de licenciamento ambiental para a instalação de Rede de Transmissão de Sistemas de Telefonia e de Estações Rádio Base (ERBs) e Equipamentos de Telefonia sem Fio em seu território local;
+	- **STF**: É <span style="color:#fb4934">inconstitucional lei estadual ou distrital</span> que proíba as empresas de telecomunicações de cobrarem taxas para a instalação do segundo ponto de acesso à internet;
+	- É <span style="color:#fb4934">inconstitucional lei estadual ou distrital</span> que estabeleça a possibilidade de acúmulo das franquias de minutos mensais ofertados pelas operadoras de telefonia, determinando a transferência dos minutos não utilizados no mês de sua aquisição, enquanto não forem utilizados, para os meses subsequentes;
+	- É <span style="color:#fb4934">inconstitucional lei estadual</span> que determine que as empresas telefônicas criem ou mantenham um cadastro de assinantes interessados em receber ofertas de produtos ou serviços;
+	- É <span style="color:#fb4934">inconstitucional lei estadual</span> que obrigue empresas de telefonia móvel a instalarem equipamentos de bloqueio do serviço de celular em presídio;
+	- É <span style="color:#fb4934">inconstitucional norma estadual</span> que obrigue empresa privada de telefonia celular e instituição de ensino a garantir idênticos benefícios promocionais tanto aos novos clientes quanto aos antigos;
+	- É <span style="color:#fb4934">inconstitucional</span> — por violar a competência da União privativa para legislar sobre telecomunicações (art. 22, IV) e exclusiva para explorar esses serviços (art. 21, XI) — norma estadual que institua a obrigatoriedade de licenciamento ambiental para a instalação de Rede de Transmissão de Sistemas de Telefonia e de Estações Rádio Base (ERBs) e Equipamentos de Telefonia sem Fio em seu território local;
 
 - explorar, diretamente ou mediante autorização, concessão ou permissão:
     - serviços de **radiodifusão sonora**, e de **sons** e **imagens**;
@@ -221,7 +219,7 @@ Técnicas de Repartição:
 - **exercer a classificação,** para efeito indicativo, de diversões públicas e de programas de rádio e televisão;
 - conceder **<span style="color:#83a598">anistia</span>**;
 
-**STF**: a <span style="color:#fb4934">Lei da Anistia</span>, que concedeu anistia àqueles que cometeram crimes durante a época da ditadura, <span style="color:#fb4934">é constitucional.</span>
+	- **STF**: a <span style="color:#fb4934">Lei da Anistia</span>, que concedeu anistia àqueles que cometeram crimes durante a época da ditadura, <span style="color:#fb4934">é constitucional.</span>
 
 - planejar e promover a defesa permanente contra as calamidades públicas;
 - instituir sistema nacional de gerenciamento de recursos hídricos;        
