@@ -18,6 +18,8 @@
 - Não ser inelegível;
 - Filiação partidária.
 
+![[requisitos presidente.png]]
+
 Eleição -> **<span style="color:#fb4934">Sistema majoritário</span>** - <u>maioria absoluta</u> dos votos válidos
 
 _**Art. 77, CF/88.** A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato presidencial vigente._
