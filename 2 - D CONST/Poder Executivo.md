@@ -38,6 +38,8 @@ _**Art. 77, CF/88.** A eleição do Presidente e do Vice-Presidente da Repúblic
 - **<span style="color:#d3869b">Antes dos dois últimos anos</span>** - ocorrerá **<span style="color:#d3869b">eleição direta</span>** em 90 dias depois da abertura da última vaga
 - **<span style="color:#fe8019">APÓS os dois primeiros anos</span>** - **<span style="color:#fe8019">eleições indiretas</span>** em 30 dias - pelo **<span style="color:#fe8019">Congresso Nacional</span>**
 
+![[vacância dos cargos.png]]
+
 🚨Ocorrerá **<span style="color:#83a598">VACÂNCIA</span>**:
 
 - Não compareça à **POSSE** no <u>prazo de 10 dias</u>;
