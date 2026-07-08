@@ -66,6 +66,8 @@ _**Art. 80, CF/88**. Em caso de impedimento do Presidente e do Vice-Presidente, 
 
 Você deve **<span style="color:#fe8019">DECORAR</span>** o artigo 84 da CF/88.
 
+## Direção da Administração Federal
+
 _**Art. 84, CF/88.** Compete privativamente ao Presidente da República:_
 
 _I - nomear e exonerar os_ **_Ministros de Estado;_**
@@ -82,7 +84,7 @@ _<span style="color:#d3869b">a) organização e funcionamento da administração
 
 _b) <span style="color:#d3869b">extinção de funções ou cargos públicos,</span>_ **_<span style="color:#d3869b">quando vagos</span>;_**
 
-## **<u>Decretos Autônomos</u>:**
+### **<u>Decretos Autônomos</u>:**
 
 - Exercício do Poder Regulamentar
 - Atos primários - podem crias direitos e deveres
@@ -90,6 +92,8 @@ _b) <span style="color:#d3869b">extinção de funções ou cargos públicos,</sp
 	- Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União
 
 ![[Poder Executivo.png]]
+
+## Relação com o CN e atuação no processo legislativo
 
 _III -_ **_iniciar o processo legislativo_**_, na forma e nos casos previstos nesta Constituição;_
 
