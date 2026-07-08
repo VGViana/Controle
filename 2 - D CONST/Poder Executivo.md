@@ -61,3 +61,4 @@ _**Art. 80, CF/88**. Em caso de impedimento do Presidente e do Vice-Presidente, 
 1- Presidente da Câmara dos Deputados;
 2- Presidente do Senado Federal;
 3- Presidente do STF.
+
