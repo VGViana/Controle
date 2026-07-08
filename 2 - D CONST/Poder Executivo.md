@@ -64,7 +64,7 @@ _**Art. 80, CF/88**. Em caso de impedimento do Presidente e do Vice-Presidente, 
 
 # **5. Atribuições do presidente da República**
 
-🚨Ligue o alerta, este tópico é extremamente importante, além de incidir no assunto Poder Executivo, você o encontrará no Poder Legislativo e Processo Legislativo. E não há outro jeito, você deve **<span style="color:#fe8019">DECORAR</span>** o artigo 84 da CF/88.
+Você deve **<span style="color:#fe8019">DECORAR</span>** o artigo 84 da CF/88.
 
 _**Art. 84, CF/88.** Compete privativamente ao Presidente da República:_
 
@@ -87,7 +87,7 @@ _b) <span style="color:#d3869b">extinção de funções ou cargos públicos,</sp
 - Exercício do Poder Regulamentar
 - Atos primários - podem crias direitos e deveres
 - Podem ser **delegados**:
-- Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União
+	- Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União
 
 _III -_ **_iniciar o processo legislativo_**_, na forma e nos casos previstos nesta Constituição;_
 
