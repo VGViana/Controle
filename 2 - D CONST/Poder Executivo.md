@@ -89,6 +89,8 @@ _b) <span style="color:#d3869b">extinção de funções ou cargos públicos,</sp
 - Podem ser **delegados**:
 	- Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União
 
+![[Poder Executivo.png]]
+
 _III -_ **_iniciar o processo legislativo_**_, na forma e nos casos previstos nesta Constituição;_
 
 _V -_ **_vetar projetos de lei_**_, <u>total ou parcialmente</u>;_
