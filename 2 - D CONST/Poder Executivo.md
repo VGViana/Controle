@@ -99,7 +99,7 @@ _III -_ **_iniciar o processo legislativo_**_, na forma e nos casos previstos ne
 
 _V -_ **_vetar projetos de lei_**_, <u>total ou parcialmente</u>;_
 
-## **_<span style="color:#d3869b">Atribuições de Chefe de Estado:</span>_**         
+## **_<span style="color:#d3869b">Atribuições no plano das relações internacionais (Chefe de Estado):</span>_**         
 
 _VII -_ **_<span style="color:#d3869b">manter relações com Estados estrangeiros</span>_** _e acreditar seus representantes diplomáticos;_
 
