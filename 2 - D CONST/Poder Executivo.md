@@ -139,7 +139,7 @@ _XXIII - enviar ao Congresso Nacional o_ **_<span style="color:#fe8019">plano pl
 
 ## Leis Orçamentárias
 
-_XXIV -_ **_prestar,_** **_<span style="color:#fe8019">anualmente_</span>****_, ao Congresso Nacional, dentro de_** **_<span style="color:#fe8019"><u>sessenta dias</u> após a abertura da sessão legislativa,</span>_** **_as_** **_<span style="color:#fe8019">contas referentes ao exercício <u>anterior</u></span>;_**
+_XXIV -_ **_prestar,_** **_<span style="color:#fe8019">anualmente_</span>**_, ao Congresso Nacional, dentro de_** _<span style="color:#fe8019"><u>sessenta dias</u> após a abertura da sessão legislativa,</span>_** **_as_** **_<span style="color:#fe8019">contas referentes ao exercício <u>anterior</u></span>;_**
 
 Quando não apresentadas (NO PRAZO DOS 60 DIAS), poderá a CD "tomar" as conta do PR.
 
