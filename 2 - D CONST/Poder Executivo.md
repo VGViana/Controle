@@ -154,7 +154,7 @@ _XXV -_ **_prover e extinguir_** _os_ **_<span style="color:#fe8019">cargos púb
 
 - **Vagos** - decreto autônomo
 - Podem ser delegados:
-- Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União
+	- Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União
 - **Ocupados** - lei formal
 
 _XXVI - editar_ **_medidas provisórias_** _com força de lei, nos termos do art. 62;_
