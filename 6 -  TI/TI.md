@@ -1,6 +1,9 @@
-- [[0. Teoria da Informação]]
-- [[1. Representação de Dados]]
-- [[2. Conceitos Básicos de BD]]
-- [**BI e DW**](6.%20BI%20e%20DW.md)
-- [**5. SQL**](5.%20SQL.md)
-- [[7. Modelagem Multidimensional]]
+[[0. Teoria da Informação]]
+[[1. Representação de Dados]]
+[[2. Conceitos Básicos de BD]]
+[[Modelagem Conceitual]]
+[[3. Modelagem Lógica]]
+[[4. Normalização de Dados]]
+[**BI e DW**](6.%20BI%20e%20DW.md)
+[**5. SQL**](5.%20SQL.md)
+[[7. Modelagem Multidimensional]]
