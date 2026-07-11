@@ -269,6 +269,8 @@ Os Ministros serão julgados pelo STF: CRIMES COMUNS E CRIMES DE RESPONSABILIDAD
 
 Os Ministros serão julgados pelo SENADO FEDERAL: CRIMES DE RESPONSABILIDADE **<span style="color:#fe8019">CONEXOS</span>** AOS DOS PR
 
+![[atribuições dos ministros de Estado.png]]
+
 # **8. Conselho da República e Conselho de Defesa Nacional**
 
 - são órgãos colegiados, de natureza **consultiva**.
