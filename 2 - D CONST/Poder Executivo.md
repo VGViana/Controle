@@ -166,3 +166,158 @@ _XXVIII -_ **<span style="color:#fe8019">_propor_</span>** **_ao Congresso Nacio
 Quem irá decretar o estado de calamidade pública será o Congresso Nacional.
 
 _Parágrafo único. O Presidente da República poderá delegar as atribuições mencionadas nos incisos_ **_==VI, XII== e_** **_==XXV==_**_, <span style="color:#fe8019">primeira parte</span>,_ _aos Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União, que observarão os limites traçados nas respectivas delegações._
+
+# **6. Responsabilização do Presidente da República**
+
+⚠️**ATENÇÃO! Tópico muito importante,** **você deve sabe as formas de responsabilização do PR!**
+
+- O PR possui **<span style="color:#b8bb26">IMUNIDADES FORMAIS.</span>**
+- **<span style="color:#fb4934">NÃO</span>** há imunidades materiais ao PR.
+
+## **6.1 Imunidades Formais**
+
+- <span style="color:#b8bb26">Irresponsabilidade penal relativa</span>:
+    - O PR não será responsabilizado por <span style="color:#fb4934">atos estranhos</span> à sua função.
+        - **Não significa que o Presidente ficará impune** por atos estranhos à sua função, mas responderá após o fim do seu mandato.
+        - Há suspensão da ação penal, assim como do prazo de prescrição;
+
+⚠️Crimes praticados **<span style="color:#fb4934">ANTES DO INÍCIO DO MANDATO</span>** são considerados <span style="color:#fb4934">atos estranhos</span> à função presidencial.
+
+⚠️Direcionado apenas às infrações de **<span style="color:#fe8019">natureza penal.</span>**
+
+- **<span style="color:#b8bb26">Não</span>** <span style="color:#b8bb26">pode haver</span> **<span style="color:#b8bb26">prisão cautelar.</span>**
+    - O Presidente da República somente estará sujeito à prisão após sentença condenatória**.**
+
+**STF** - tal imunidade não pode ser direcionada aos Governadores.
+
+- Deve haver autorização da **<span style="color:#b8bb26">Câmara dos Deputados</span>** para que o PR seja processado e julgado (crimes de responsabilidade e comuns) - **<span style="color:#d3869b">JUÍZO DE ADMISSIBILIDADE</span>.**
+
+⚠️O juízo de admissibilidade é estendido ao Vice-PR e aos Ministros de Estado.
+
+🚨 **STF** - Os Estados não têm competência para legislar sobre normas que atrelem a instauração da ação penal em desfavor do Governador (crime comum) à autorização prévia da Assembleia Legislativa.
+
+## **6.2 Julgamento**
+
+- **Crimes Comuns** - **STF**
+	- Apenas poderá haver o recebimento da denúncia ou queixa-crime **<span style="color:#fe8019"><u>APÓS</u></span>** a <u>admissibilidade da Câmara dos Deputados.</u>**<span style="color:#fe8019"><u>(2/3 dos membros da CD)</u></span>;**
+	- STF <u>não é obrigado a aceitar</u> a denúncia;
+	- Quando a **==denúncia for recebida pelo STF==** ->>> PR será <span style="color:#fe8019">afastado de suas funções pelo prazo de 180 dias</span> (caso ultrapasse 180 dias, o PR voltará a ocupar suas funções);
+	- Caso haja **condenação por crime comum**, o PR perderá o mandato.
+
+- **Crimes de Responsabilidade** - Julgado pelo **Senado** **Federal**, após admissibilidade da **Câmara dos Deputados**.
+
+⚠️ No Senado Federal, haverá outro **juízo de admissibilidade - o SF decidirá por <u>maioria simples</u> se aceita a acusação.**
+
+- Quando o **==processo for instaurado pelo SF==**->>> PR será <span style="color:#fe8019">afastado de suas funções pelo prazo de 180 dias</span> (caso ultrapasse 180 dias, o PR voltará a ocupar suas funções);
+- Condenação - Voto aberto de 2/3 do SF;
+- Não há recurso contra o mérito da decisão do SF.
+- **<span style="color:#fe8019">Penas</span>:**
+	- Perda do cargo; será inabilitado por 8 anos para cargo de função pública;
+
+**STF** - Caso haja renúncia do cargo durante o julgamento, o processo de <u>impeachment continuará.</u>
+
+**STF** - réus em processo-criminal <u>não poderão suceder o PR</u>;
+
+**STF** - o processo-criminal não obsta que seja exercido o cargo de presidente da CD, do SF e do STF.
+
+⚠️**DECORE** o art. 85 da CF/88 - Rol exemplificativo:
+
+_**Art. 85, CF/88.** São_ **_<span style="color:#b8bb26">crimes de responsabilidade</span>_** _os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:_
+
+_I - a existência da União;_
+
+_II - o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público e dos Poderes constitucionais das unidades da Federação;_
+
+_III - o exercício dos direitos políticos, individuais e sociais;_
+
+_IV - a segurança interna do País;_
+
+_V - a probidade na administração;_
+
+_VI - a lei orçamentária;_
+
+_VII - o cumprimento das leis e das decisões judiciais._
+
+_Parágrafo único. Esses crimes serão definidos em lei especial, que estabelecerá as normas de processo e julgamento._
+
+🚨**STF** - Os Estados **NÃO** podem legislar sobre crimes de responsabilidade.
+
+# **7. Vice-Presidente e Ministros de Estado**
+
+## **<u>Vice-Presidente</u>** 
+
+- Funções **<span style="color:#83a598">Próprias</span>** - previstas legalmente para o cargo de Vice;
+- Funções **<span style="color:#fb4934">Impróprias</span>** - <u>quando convocado pelo PR.</u>
+
+## **<u>Ministros de Estado</u>**
+
+Rol exemplificativo:
+
+_**Art. 87, CF/88**. Os Ministros de Estado serão escolhidos dentre brasileiros_ _<span style="color:#fb4934">maiores de vinte e um anos e no exercício dos direitos políticos.</span>_
+
+_Parágrafo único. Compete ao Ministro de Estado, além de outras atribuições estabelecidas nesta Constituição e na lei:_
+
+_I - exercer a orientação, coordenação e supervisão dos órgãos e entidades da administração federal na área de sua competência e referendar os atos e decretos assinados pelo Presidente da República;_
+
+_II - expedir instruções para a execução das leis, decretos e regulamentos;_
+
+_III - apresentar ao Presidente da República relatório anual de sua gestão no Ministério;_
+
+_IV - praticar os atos pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Presidente da República._
+
+Os Ministros serão julgados pelo STF: CRIMES COMUNS E CRIMES DE RESPONSABILIDADE
+
+Os Ministros serão julgados pelo SENADO FEDERAL: CRIMES DE RESPONSABILIDADE **<span style="color:#fe8019">CONEXOS</span>** AOS DOS PR
+
+# **8. Conselho da República e Conselho de Defesa Nacional**
+
+- são órgãos colegiados, de natureza **consultiva**.
+    - se manifestam por meio de parecer, cuja natureza é **<span style="color:#fb4934">meramente opinativa</span>**.
+
+## **8.1 Conselho da República**
+
+- **Opina sobre as seguintes questões**:
+    -  Intervenção federal, estado de defesa e estado de sítio;
+    - Questões relevantes para a estabilidade das instituições democráticas.
+- **Integrantes**:
+    - o Vice-Presidente da República;
+        
+    - o Presidente da Câmara dos Deputados;
+        
+    - o Presidente do Senado Federal;
+        
+    - os líderes da maioria e da minoria na Câmara dos Deputados;
+        
+    - os líderes da maioria e da minoria no Senado Federal;
+        
+    - o Ministro da Justiça;
+        
+    -  seis cidadãos brasileiros natos, com mais de trinta e cinco anos de idade, sendo dois nomeados pelo Presidente da República, dois eleitos pelo Senado Federal e dois eleitos pela Câmara dos Deputados, todos com mandato de três anos, vedada a recondução.
+
+## **8.2 Conselho de Defesa Nacional**
+
+- Opina sobre soberania nacional e a defesa do Estado democrático.
+- **Competências**:
+    - a) Opinar nas hipóteses de declaração de guerra e de celebração da paz, nos termos desta Constituição;  
+        
+    - b) Opinar sobre a decretação do estado de defesa, do estado de sítio e da intervenção federal;  
+        
+    - c) Propor os critérios e condições de utilização de áreas indispensáveis à segurança do território nacional e opinar sobre seu efetivo uso, especialmente na faixa de fronteira e nas relacionadas com a preservação e a exploração dos recursos naturais de qualquer tipo;  
+        
+    - d) Estudar, propor e acompanhar o desenvolvimento de iniciativas necessárias a garantir a independência nacional e a defesa do Estado democrático.
+- **Integrantes**:
+    - o Vice-Presidente da República;
+        
+    - o Presidente da Câmara dos Deputados;
+        
+    - o Presidente do Senado Federal;
+        
+    - o Ministro da Justiça;
+        
+    - o Ministro de Estado da Defesa;       
+        
+    - o Ministro das Relações Exteriores;
+        
+    - o Ministro do Planejamento.
+        
+    - os Comandantes da Marinha, do Exército e da Aeronáutica.
