@@ -14,8 +14,8 @@
 - [[13. Estoques]]
 - [**CPC 00 - Estrutura Conceitual**](14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md) 
 - [[15. Estoques (CPC 16)]]
-- [[18. CPC 27 - Ativo Imobilizado]]
+- [[16. CPC 27 - Ativo Imobilizado]]
 - [[19. CPC 04 - Ativo Intangível]]
 - [[Ativo não circulante - Investimentos Temporários]]
 - [[10. CPC 26]]
-- [[Lei 6404]]
+- [[Viana/Recursos/99 - Legislação/Lei 6404]]
