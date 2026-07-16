@@ -207,11 +207,15 @@ De resto, é procurar compreender bem as técnicas de Kaplansky, que são empre
 
 ==Primeiro Lema de Kaplansky:==
 
-f(n,p)=Cpn−p+1f(n,p)=Cpn−p+1
+$$
+f(n,p)=C_{\,n-p+1}^{\,p}
+$$
 
 ==Segundo Lema de Kaplansky:==
 
-g(n,p)=nn−p.Cpn−pg(n,p)=n−pn​.Cpn−p
+$$
+g(n,p)=\frac{n}{n-p}\cdot C_{\,n-p}^{\,p}
+$$
 
 📚Vejamos um exemplo:
 
