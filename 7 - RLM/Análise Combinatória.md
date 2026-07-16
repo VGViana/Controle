@@ -178,17 +178,18 @@ $$
 - Como montar uma equipe de 3 homens e 2 mulheres dentre 10 homens e 10 mulheres?
 - Como montar uma sopa de 5 legumes e 3 verduras, dentre 10 legumes e 10 verduras?
 - E qual a dificuldade?
-        - **E aí? Multiplico ou somo o resultado das duas combinações?**
-            - Nesse caso nós estamos escolhendo uma equipe de 5 pessoas em que há uma "divisão".
-            - Em outras palavras, dentro da mesma equipe, temos "tipos" de pessoas diferentes ? três homens **E** duas mulheres.
-            - Assim, você percebe que há uma "conexão" entre essas duas combinações? Logo, **aqui cabe o princípio multiplicativo!**
-        - **E quando somar?**
-        - Quando precisamos de uma coisa **OU** outra.
+	- Bom, no primeiro exemplo você escolhe 3 homens entre 10 e 2 mulheres entre 10: $C_{10,3}=\frac{10!}{3!(10-3)!}$ e $C_{10,2}=\frac{10!}{2!(10-2)!}$
+	- **<span style="color:#b8bb26">E aí? Multiplico ou somo o resultado das duas combinações?</span>**
+		- Nesse caso nós estamos escolhendo uma equipe de 5 pessoas em que há uma "divisão".
+		- Em outras palavras, dentro da mesma equipe, temos "tipos" de pessoas diferentes ? três homens **E** duas mulheres.
+		- Assim, você percebe que há uma "conexão" entre essas duas combinações? Logo, **<span style="color:#fb4934">aqui cabe o princípio multiplicativo!</span>**
+	- **<span style="color:#b8bb26">E quando somar?</span>**
+	- Quando precisamos de uma coisa **<span style="color:#fe8019">OU</span>** outra.
 
 📚 Exemplo:
 
-- - Temos que escolher uma equipe de 5 homens OU uma equipe de 5 mulheres. Percebe?
-    - Em linhas gerais, precisamos escolher alguma configuração OU outra configuração.
+- Temos que escolher uma equipe de 5 homens OU uma equipe de 5 mulheres. Percebe?
+- Em linhas gerais, precisamos escolher alguma configuração OU outra configuração.
 
 ✅Essa tabela ajuda a resolver muitos problemas envolvendo análise combinatória:
 
@@ -198,19 +199,19 @@ $$
 
 ![[Análise Combinatória-5.png]]
 
-**1.7 Partições - Lemas de Kaplansky** 
+## **1.7 Partições - Lemas de Kaplansky** 
 
-- Tanto os problemas de partição quanto os problemas envolvendo os Lemas de Kaplansky podem ser considerados como casos especiais de combinação e permutação. Assim, é fundamental que você entenda quando a **ordem dos elementos é importante (ou não)** na solução da questão, e se é **admitida (ou não) a repetição** dos elementos.
+- Tanto os problemas de partição quanto os problemas envolvendo os Lemas de Kaplansky podem ser considerados como casos especiais de combinação e permutação. Assim, é fundamental que você entenda quando a **<span style="color:#fb4934">ordem dos elementos é importante (ou não)</span>** na solução da questão, e se é **<span style="color:#fb4934">admitida (ou não) a repetição</span>** dos elementos.
 
-De resto, é procurar compreender bem as técnicas de Kaplansky, que são empregadas para os problemas em **não queremos** seleção de elementos consecutivos.
+De resto, é procurar compreender bem as técnicas de Kaplansky, que são empregadas para os problemas em **<span style="color:#fb4934">não queremos</span>** seleção de elementos consecutivos.
 
 ❗Caso opte, também é possível utilizar fórmulas para os Lemas de Kaplansky, vejamos:
 
-Primeiro Lema de Kaplansky:
+==Primeiro Lema de Kaplansky:==
 
 f(n,p)=Cpn−p+1f(n,p)=Cpn−p+1
 
-Segundo Lema de Kaplansky:
+==Segundo Lema de Kaplansky:==
 
 g(n,p)=nn−p.Cpn−pg(n,p)=n−pn​.Cpn−p
 
@@ -220,16 +221,15 @@ _Temos 6 números: 1, 2, 3, 4, 5 e 6. Desejamos selecionar 3 desses números sem
 
 ✅Temos seis números e queremos selecionar 3. Utilizando as letras S e N para indicar os números escolhidos ou não, teríamos algo assim:
 
-SNSNSN (que indicaria a sequência 1, 3 e 6)
+==SNSNSN== (que indicaria a sequência 1, 3 e 6)
 
 Kaplansky resolveu partir das quantidades de elementos que não serão escolhidos (N) e colocar espaços (_) entre eles para indicar as possíveis escolhas. Assim:
 
-_N_N_N_
+==_N_N_N_==
 
 Vemos, portanto, que temos quatro possibilidades para selecionar 3 números em que a ordem não é importante, ou seja, trata-se de uma combinação.
 
-**Resposta: (4 x 3 x 2)/3!**
-
+**Resposta:** $\frac{4\times3\times2}{3!}$
   
 ❗Não compreendeu? A resolução de uma questão em vídeo pelo prof. Albert Lucas pode facilitar esse entendimento, veja:  
 [https://www.youtube.com/watch?v=vjvQU2P2SvA](https://www.youtube.com/watch?v=vjvQU2P2SvA)
