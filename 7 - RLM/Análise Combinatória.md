@@ -195,7 +195,7 @@ $$
 
 ⚠️Por fim, veja um esquema legal para definir para decidir a análise combinatória:
 
-![[Análise Combinatória-5.png]]
+![[Análise Combinatória-7.png]]
 
 ## **1.7 Partições - Lemas de Kaplansky** 
 
