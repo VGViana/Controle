@@ -157,7 +157,7 @@ $$
 C_{n,p} = \frac{n!}{p!(n-p)!}
 $$
 
- **"Aaaaaah, mas como eu vou lembrar de diferenciar essa fórmula da de arranjo?"** - Perguntou um aluno sem confiança de lembrar esse detalhe na prova (eu todinho)
+ **"Aaaaaah, mas como eu vou lembrar de diferenciar essa fórmula da de arranjo?"** 
     - Você concorda que quando A ORDEM IMPORTA há um número MAIOR de combinações possíveis?
     - E quando A ORDEM NÃO IMPORTA haverá um número MENOR de combinações possíveis?
     - Ou seja, quando a ORDEM NÃO IMPORTA, precisamos DESCONTAR todas essas repetições. Daí o segundo fator no denominador da fração, destacado em azul. Sacou?
