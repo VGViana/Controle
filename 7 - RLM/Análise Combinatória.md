@@ -164,7 +164,7 @@ $$
 
 📚Vamos a um exemplo pra ficar ainda mais claro:
 
-- Como ele tem uma selva no quintal (já viram no insta dele isso? rs), ele pode escolher todos os dias 5 frutas de 15 disponíveis em sua horta.
+- Ele pode escolher todos os dias 5 frutas de 15 disponíveis em sua horta.
 - Caramba, amassar banana, maçã, laranja, pêssego e abacaxi e botar na cumbuca é a mesma coisa que amassar banana, laranja, pêssego, maçã e abacaxi, certo?
 - Portanto, ele tem $C_{15,5}=\frac{15!}{5!(15-5)!}$ maneiras diferentes de fazer sua saladinha.
 - Aaaah mas e se ele tivesse mania e só conseguisse comer uma a uma, em ordem - aí é moleza: ele teria 15 * 14 * 13 * 12 * 11 maneiras de fazer seu café.
