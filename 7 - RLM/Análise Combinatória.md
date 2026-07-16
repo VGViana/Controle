@@ -164,8 +164,6 @@ $$
 
 📚Vamos a um exemplo pra ficar ainda mais claro:
 
-- Brunão engordou bastante na pandemia, e sua patroa não aguenta mais aquela pancinha estilo pochete.
-- Sendo assim, ele precisa no café da manhã trocar o bacon por uma salada de frutas.
 - Como ele tem uma selva no quintal (já viram no insta dele isso? rs), ele pode escolher todos os dias 5 frutas de 15 disponíveis em sua horta.
 - Caramba, amassar banana, maçã, laranja, pêssego e abacaxi e botar na cumbuca é a mesma coisa que amassar banana, laranja, pêssego, maçã e abacaxi, certo?
 - Portanto, ele tem $C_{15,5}=\frac{15!}{5!(15-5)!}$ maneiras diferentes de fazer sua saladinha.
