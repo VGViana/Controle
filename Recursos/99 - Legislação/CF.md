@@ -305,11 +305,11 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 	* STF - é **<span style="color:#fe8019">ilícita</span>** a prisão civil do **depositário infiel**, <span style="color:#fe8019">em qualquer modalidade de depósito.</span>
 	- STF - é **<span style="color:#d3869b">lícita</span>** a prisão civil do **devedor de alimentos.**
 	- No caso do **<span style="color:#d3869b">devedor de alimentos</span>**, a prisão ocorrerá **<u>apenas quando</u>** houver o **<span style="color:#d3869b"><u>inadimplemento for voluntário e inescusável</u></span>** da obrigação de alimentos. **<span style="color:#fe8019">Esse é o único caso de <u>prisão civil</u> adotado no Brasil.</span>**
-	- **<span style="color:#fe8019">Devemos levar para a prova</span>** que a literalidade do inciso LXVII subsiste, mas apenas é válida para a prisão por <u>dívida alimentícia</u> (voluntária e inescusável). **A prisão do <u>depositário infiel</u> não é mais aceita no ordenamento brasileiro.**
+> **<span style="color:#fe8019">Devemos levar para a prova</span>** que a literalidade do inciso LXVII subsiste, mas apenas é válida para a prisão por <u>dívida alimentícia</u> (voluntária e inescusável). **A prisão do <u>depositário infiel</u> não é mais aceita no ordenamento brasileiro.**
 	- **§ 3º** Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.
 	- Os tratados internacionais quando aprovados pelo rito das **<span style="color:#fe8019">emendas constitucionais</span>** (3/5 dos membros de cada Casa do Congresso Nacional, em dois turnos de votação), **serão internalizados pelo ordenamento legal brasileiro.**
-	- Caso o tratado discuta sobre **<span style="color:#b8bb26">direitos humanos</span>**, eles terão **_<span style="color:#b8bb26">status</span>_ <span style="color:#b8bb26">constitucional</span>**, serão incorporados como <u>emendas constitucionais</u>, assim, estarão acima das demais normas que não sejam a própria **CF/88.**
-	- Porém, **<span style="color:#d3869b">se não tratar de direitos humanos</span>**, o _status_ será de **<span style="color:#d3869b">lei ordinária</span>**
+>  Caso o tratado discuta sobre **<span style="color:#b8bb26">direitos humanos</span>**, eles terão **_<span style="color:#b8bb26">status</span>_ <span style="color:#b8bb26">constitucional</span>**, serão incorporados como <u>emendas constitucionais</u>, assim, estarão acima das demais normas que não sejam a própria **CF/88.**
+> Porém, **<span style="color:#d3869b">se não tratar de direitos humanos</span>**, o _status_ será de **<span style="color:#d3869b">lei ordinária</span>**
 
 * LXVIII - conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder; ^16da261
 
@@ -353,8 +353,8 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.2. CAPÍTULO II - DOS DIREITOS SOCIAIS (ARTS. 6 A 11)|Resumo]]
 
 * Art. 6° São <span style="color:#83a598">**direitos sociais**</span> a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional n° 90, de 2015) ^251d44c
-	- **⚠️<span style="color:#fb4934">Não esqueça!</span>**
-	- A **<span style="color:#83a598">Teoria da Reserva do Possível</span>** consiste na ideia de que cabe ao Estado efetivar os direitos sociais, mas apenas na medida do **financeiramente possível.** Para não deixar os indivíduos vulneráveis frente ao poder estatal de realizar as políticas sociais, houve a criação do **<span style="color:#b8bb26">Mínimo Existencial</span>**.
+> **⚠️<span style="color:#fb4934">Não esqueça!</span>**
+> A **<span style="color:#83a598">Teoria da Reserva do Possível</span>** consiste na ideia de que cabe ao Estado efetivar os direitos sociais, mas apenas na medida do **financeiramente possível.** Para não deixar os indivíduos vulneráveis frente ao poder estatal de realizar as políticas sociais, houve a criação do **<span style="color:#b8bb26">Mínimo Existencial</span>**.
 	- **Art. 6º. São direitos sociais:**
 		- educação
 		- saúde
