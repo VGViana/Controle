@@ -23,20 +23,20 @@
 - [x] chave clicar
 ---
 - Kit Anotação
-- [ ] Caneta
-- [ ] Régua
-- [ ] Borracha
-- [ ] lápis
-- [ ] transferidor
-- [ ] bloco anotação
+- [x] Caneta
+- [x] Régua
+- [x] Borracha
+- [x] lápis
+- [x] transferidor
+- [x] bloco anotação
 ---
 - Água
 - [ ] garrafa pet
 ---
 - Marmita
-- [ ] Talher
-- [ ] Marmita
-- [ ] Caneco
+- [x] Talher
+- [x] Marmita
+- [x] Caneco
 ---
 - Pernoite
 - [ ] Manta leve
