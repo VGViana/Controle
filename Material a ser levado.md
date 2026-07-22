@@ -16,11 +16,11 @@
 - [ ] remédios
 ---
 - Mnt Armt
-- [ ] Cordel
-- [ ] óleo
-- [ ] pano seco 
-- [ ] pano tático 
-- [ ] chave clicar
+- [x] Cordel
+- [x] óleo
+- [x] pano seco 
+- [x] pano tático 
+- [x] chave clicar
 ---
 - Kit Anotação
 - [ ] Caneta
