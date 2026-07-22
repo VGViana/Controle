@@ -1,0 +1,64 @@
+- Kit Higiene
+- [ ] Escova de dente
+- [ ] creme dental
+- [ ] creme de barbear
+- [ ] barbeador
+- [ ] sabonete
+- [ ] espelho
+- [ ] toalha
+---
+- Kit 1° socorros
+- [ ] Algodão 
+- [ ] Gaze
+- [ ] esparadrapo
+- [ ] talco
+- [ ] analgésico
+- [ ] remédios
+---
+- Mnt Armt
+- [ ] Cordel
+- [ ] óleo
+- [ ] pano seco 
+- [ ] pano tático 
+- [ ] chave clicar
+---
+- Kit Anotação
+- [ ] Caneta
+- [ ] Régua
+- [ ] Borracha
+- [ ] lápis
+- [ ] transferidor
+- [ ] bloco anotação
+---
+- Água
+- [ ] garrafa pet
+---
+- Marmita
+- [ ] Talher
+- [ ] Marmita
+- [ ] Caneco
+---
+- Pernoite
+- [ ] Manta leve
+- [ ] Saco de dormir
+---
+- Frio e chuva
+- [ ] Japona
+- [ ] 2ª pele
+- [ ] Balaclava
+---
+- Farda de muda
+- [ ] Meia
+- [ ] Calça 
+- [ ] Gandola
+- [ ] Gandoleta
+- [ ] Camiseta
+---
+- Kit costura
+- [ ] Agulhas 
+- [ ] linha
+- [ ] botões
+- [ ] tesoura
+---
+- kit camuflagem
+- [ ] Camuflagem
