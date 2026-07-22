@@ -8,8 +8,8 @@
 - [ ] toalha
 ---
 - Kit 1° socorros
-- [ ] Algodão 
-- [ ] Gaze
+- [x] Algodão 
+- [x] Gaze
 - [ ] esparadrapo
 - [ ] talco
 - [ ] analgésico
