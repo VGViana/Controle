@@ -48,10 +48,10 @@
 ---
 - Farda de muda
 - [ ] Meia
-- [ ] Calça 
-- [ ] Gandola
-- [ ] Gandoleta
-- [ ] Camiseta
+- [x] Calça 
+- [x] Gandola
+- [x] Gandoleta
+- [x] Camiseta
 ---
 - Kit costura
 - [x] Agulhas 
