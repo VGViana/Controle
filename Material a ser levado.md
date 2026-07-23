@@ -4,15 +4,13 @@
 - [ ] creme de barbear
 - [ ] barbeador
 - [ ] sabonete
-- [ ] espelho
+- [x] espelho
 - [ ] toalha
 - [x] papel higiênico x2
 ---
 - Kit 1° socorros
 - [x] Algodão 
 - [x] Gaze
-- [ ] esparadrapo
-- [ ] talco
 - [ ] analgésico
 - [ ] remédios
 ---
