@@ -48,10 +48,13 @@
 ---
 - Farda de muda
 - [ ] Meia
+- [ ] cueca
 - [x] Calça 
 - [x] Gandola
 - [x] Gandoleta
 - [x] Camiseta
+- [ ] paisano
+- [ ] boina
 ---
 - Kit costura
 - [x] Agulhas 
