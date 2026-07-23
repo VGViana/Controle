@@ -6,6 +6,7 @@
 - [ ] sabonete
 - [ ] espelho
 - [ ] toalha
+- [x] papel higiênico x2
 ---
 - Kit 1° socorros
 - [x] Algodão 
@@ -31,7 +32,7 @@
 - [x] bloco anotação
 ---
 - Água
-- [ ] garrafa pet
+- [x] garrafa pet
 ---
 - Marmita
 - [x] Talher
@@ -39,8 +40,8 @@
 - [x] Caneco
 ---
 - Pernoite
-- [ ] Manta leve
-- [ ] Saco de dormir
+- [x] Manta leve
+- [x] Saco de dormir
 ---
 - Frio e chuva
 - [ ] Japona
@@ -55,10 +56,10 @@
 - [ ] Camiseta
 ---
 - Kit costura
-- [ ] Agulhas 
-- [ ] linha
-- [ ] botões
-- [ ] tesoura
+- [x] Agulhas 
+- [x] linha
+- [x] botões
+- [x] tesoura
 ---
 - kit camuflagem
-- [ ] Camuflagem
+- [x] Camuflagem
