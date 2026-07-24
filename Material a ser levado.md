@@ -1,11 +1,11 @@
 - Kit Higiene
-- [ ] Escova de dente
-- [ ] creme dental
-- [ ] creme de barbear
-- [ ] barbeador
-- [ ] sabonete
+- [x] Escova de dente
+- [x] creme dental
+- [x] creme de barbear
+- [x] barbeador
+- [x] sabonete
 - [x] espelho
-- [ ] toalha
+- [x] toalha
 - [x] papel higiênico x2
 ---
 - Kit 1° socorros
@@ -42,13 +42,13 @@
 - [x] Saco de dormir
 ---
 - Frio e chuva
-- [ ] Japona
-- [ ] 2ª pele
-- [ ] Balaclava
+- [x] Japona
+- [x] 2ª pele
+- [x] Balaclava
 ---
 - Farda de muda
-- [ ] Meia
-- [ ] cueca
+- [x] Meia
+- [x] cueca
 - [x] Calça 
 - [x] Gandola
 - [x] Gandoleta
