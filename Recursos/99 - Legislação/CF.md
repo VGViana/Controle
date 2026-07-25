@@ -574,7 +574,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 > - <span style="color:#d3869b">Forma Indireta</span> (Representativa) feita pelo voto direto e secreto); 
 > - <span style="color:#d3869b">Forma Direta</span>: Plebiscito; Referendo; Iniciativa popular
 
-* Art. 14. A soberania popular será exercida pelo **sufrágio universal e pelo voto direto e secreto**, com valor igual para todos, e, nos termos da lei, mediante: ^90c0025	
+* Art. 14. A soberania popular será exercida pelo **sufrágio universal e pelo voto direto e secreto**, com valor igual para todos, e, nos termos da lei, mediante: ^90c0025
 	> * O **sufrágio** significa direitos políticos e é composto por:
 	> 	- **Capacidade ativa - alistabilidade - direito de votar**
 	> 	- **Capacidade passiva - elegibilidade - direito de ser votado**
