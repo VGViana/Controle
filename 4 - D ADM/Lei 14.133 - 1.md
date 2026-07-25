@@ -19,10 +19,13 @@
     - **Obras** e **serviços** de **<span style="color:#83a598">arquitetura</span>** e **<span style="color:#83a598">engenharia</span>**;
     - **Tecnologia da informação e de comunicação**.
 
+![[Lei 14.133 - 1-3.png]]
+
 - Casos em que haverá uma **<span style="color:#fb4934">norma especial</span>**, quais sejam:  
 	- a) **<span style="color:#fb4934">concessão e permissão de serviços</span>** públicos (Lei 8.987/1995);  
 	- b) **<span style="color:#fb4934">parcerias público-privadas</span>** (Lei 11.079/2004);  
 	- c) serviços de **<span style="color:#fb4934">publicidade prestados por intermédio de agências de propaganda</span>** (Lei 12.232/2010).  
+![[Lei 14.133 - 1-4.png]]
 # **1. Legislação**
 
 - **União:**
@@ -63,3 +66,5 @@
 
 - Contratos que tenham por objeto **<span style="color:#fb4934">operação de crédito</span>**, interno ou externo, e **<span style="color:#fb4934">gestão de dívida pública</span>**, incluídas as **<span style="color:#fb4934">contratações de agente financeiro</span>** e a **<span style="color:#fb4934">concessão de garantia</span>** relativas a esses contratos.
 - Contratações com **<span style="color:#fb4934">legislação própria</span>**.
+
+![[Lei 14.133 - 1-5.png]]
