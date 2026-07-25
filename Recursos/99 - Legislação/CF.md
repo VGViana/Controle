@@ -481,25 +481,25 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 12. São brasileiros: ^fae93a6
 
-	* I - <span style="color:#b8bb26">natos</span>: ^658d4e0
+	* I - <span style="color:#b8bb26">**natos**</span>: ^658d4e0
 
-		* a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país; ^452e9e4
+		* a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, <span style="color:#fb4934">**desde que**</span> **estes não estejam a serviço de seu país**; ^452e9e4
 
-		* b) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil; ^f66ec68
+		* b) os nascidos <u>no estrangeiro</u>, de **pai brasileiro ou mãe brasileira**, <span style="color:#fb4934">**desde que**</span> **qualquer deles esteja a serviço da República Federativa do Brasil**; ^f66ec68
 
-		* c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira; (Redação dada pela Emenda Constitucional n° 54, de 2007) ^3ad78fe
+		* c) os nascidos <u>no estrangeiro</u> de **pai brasileiro ou de mãe brasileira**, <span style="color:#fb4934">**desde que**</span> sejam <u>registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem</u>, em **qualquer tempo**, <span style="color:#fb4934">**depois de atingida a maioridade**</span>, pela nacionalidade brasileira; (Redação dada pela Emenda Constitucional n° 54, de 2007) ^3ad78fe
 
-	* II - naturalizados: ^12c01b3
+	* II - <span style="color:#83a598">**naturalizados**</span>: ^12c01b3
 
-		* a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral; ^8e7c195
+		* a) os que, na forma da lei, <u>adquiram a nacionalidade brasileira</u>, exigidas aos <u>originários de países de língua portuguesa</u> apenas **residência por um ano ininterrupto e idoneidade moral**; ^8e7c195
 
-		* b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^24ad95a
+		* b) os estrangeiros de <u>qualquer nacionalidade</u>, residentes na República Federativa do Brasil há **mais de quinze anos ininterruptos e sem condenação penal**, <span style="color:#fb4934">desde que requeiram a nacionalidade brasileira. (NÃO É AUTOMÁTICO)</span>(Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^24ad95a
 
 	* § 1° Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
 
 	* § 2° A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição. ^5873957
 
-	* § 3° São privativos de brasileiro nato os cargos: ^882b017
+	* § 3° São **privativos de brasileiro** nato os cargos: ^882b017
 
 		* I - de Presidente e Vice-Presidente da República; ^d8f45ab
 
@@ -515,17 +515,13 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* VII - de Ministro de Estado da Defesa. (Incluído pela Emenda Constitucional n° 23, de 1999) ^147c3ba
 
-	* § 4° - Será declarada a perda da nacionalidade do brasileiro que: ^ee6d597
+	* **§ 4° - Será declarada a perda da nacionalidade do brasileiro que**: ^ee6d597
 
-		* I - tiver cancelada sua naturalização, por sentença judicial, em virtude de fraude relacionada ao processo de naturalização ou de atentado contra a ordem constitucional e o Estado Democrático; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
+		* I - tiver cancelada sua naturalização, **<span style="color:#fe8019">por sentença judicial</span>**, em **<span style="color:#83a598">virtude de fraude</span>** relacionada ao **<span style="color:#83a598">processo de naturalização</span>** ou **<span style="color:#83a598"><u>de atentado contra a ordem constitucional e o Estado Democrático</u></span>**; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
 
-		* II - fizer pedido expresso de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
+		* II - fizer **<span style="color:#83a598"><u>pedido expresso</u></span>** de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
 
-			* a) revogada; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^138643d
-
-			* b) revogada. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^dc58c98
-
-	* § 5° A renúncia da nacionalidade, nos termos do inciso [[#^8d80025|II]] do § [[#^ee6d597|4°]] deste artigo, não impede o interessado de readquirir sua nacionalidade brasileira originária, nos termos da lei. (Incluído pela Emenda Constitucional n° 131, de 2023) ^351709f
+	* § 5° A **<span style="color:#fe8019">renúncia</span>** da nacionalidade, nos termos do inciso [[#^8d80025|II]] do § [[#^ee6d597|4°]] deste artigo, **<span style="color:#83a598"><u>não impede</u></span>** o interessado de **<span style="color:#83a598"><u>readquirir sua nacionalidade brasileira originária</u></span>**, nos termos da lei. (Incluído pela Emenda Constitucional n° 131, de 2023) ^351709f
 
 * Art. 13. A língua portuguesa é o idioma oficial da República Federativa do Brasil. ^6308548
 
@@ -536,7 +532,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 ## 2.4. CAPÍTULO IV - DOS DIREITOS POLÍTICOS (ARTS. 14 A 16)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.4. CAPÍTULO IV - DOS DIREITOS POLÍTICOS (ARTS. 14 A 16)|Resumo]]
 
-* Art. 14. A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante: ^90c0025
+* Art. 14. A soberania popular será exercida pelo **sufrágio universal e pelo voto direto e secreto**, com valor igual para todos, e, nos termos da lei, mediante: ^90c0025
 
 	* I - plebiscito; ^f26767d
 
@@ -544,21 +540,21 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* III - iniciativa popular. ^2301667
 
-	* § 1° O alistamento eleitoral e o voto são: ^466e846
+	* § 1° O **<span style="color:#83a598">alistamento eleitoral e o voto</span>** são: ^466e846
 
-		* I - obrigatórios para os maiores de dezoito anos; ^9c10574
+		* I - obrigatórios para os <u>maiores de dezoito anos</u>; ^9c10574
 
-		* II - facultativos para: ^3d3b98f
+		* II - <span style="color:#fe8019">facultativos</span> para: ^3d3b98f
 
 			* a) os analfabetos; ^486bc8f
 
-			* b) os maiores de setenta anos; ^46c8db1
+			* b) os maiores de **setenta anos**; ^46c8db1
 
 			* c) os maiores de dezesseis e menores de dezoito anos. ^fe96723
 
-	* § 2° Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos. ^edef9fd
+	* § 2° **Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.** ^edef9fd
 
-	* § 3° São condições de elegibilidade, na forma da lei: ^0df2d34
+	* § 3° São **<span style="color:#fe8019">condições de elegibilidade,</span>** na forma da lei: ^0df2d34
 
 		* I - a nacionalidade brasileira; ^9c39d01
 
@@ -572,51 +568,51 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* VI - a idade mínima de: ^1ec35cd
 
-			* a) trinta e cinco anos para Presidente e Vice-Presidente da República e Senador; ^9deb0a0
+			* a) **<span style="color:#83a598">trinta e cinco anos</span>** para <span style="color:#83a598">Presidente e Vice-Presidente da República e Senador;</span> ^9deb0a0
 
-			* b) trinta anos para Governador e Vice-Governador de Estado e do Distrito Federal; ^9bc827d
+			* b) **<span style="color:#b8bb26">trinta anos</span>** para <span style="color:#b8bb26">Governador e Vice-Governador</span> de Estado e do Distrito Federal; ^9bc827d
 
-			* c) vinte e um anos para Deputado Federal, Deputado Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz; ^f766adf
+			* c) **<span style="color:#d3869b">vinte e um anos</span>** para <span style="color:#d3869b">Deputado Federal, Deputado Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz</span>; ^f766adf
 
-			* d) dezoito anos para Vereador. ^56e6ff2
+			* d) **<span style="color:#fe8019">dezoito anos</span>** para <span style="color:#fe8019">Vereador</span>. ^56e6ff2
 
-	* § 4° São inelegíveis os inalistáveis e os analfabetos. ^379a551
+	* **<span style="color:#fb4934">§ 4° São inelegíveis os inalistáveis e os analfabetos.</span>** ^379a551
 
-	* § 5° O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um único período subseqüente. (Redação dada pela Emenda Constitucional n° 16, de 1997) ^cc80972
+	* § 5° O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um <span style="color:#fb4934">único período subseqüente.</span> (Redação dada pela Emenda Constitucional n° 16, de 1997) ^cc80972
 
 	* § 6° Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito. ^f2dc473
 
-	* § 7° São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consangüíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, salvo se já titular de mandato eletivo e candidato à reeleição. ^4b879bb
+	* § 7° São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consangüíneos ou afins, **até o segundo grau ou por adoção**, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído <u>dentro dos seis meses anteriores ao pleito</u>, **<span style="color:#fb4934">salvo</span>** se já titular de mandato eletivo e candidato à reeleição. **<span style="color:#fb4934">(INELEGIBILIDADE REFLEXA)</span>**^4b879bb
 
 	* § 8° O militar alistável é elegível, atendidas as seguintes condições: ^ff683dd
 
-		* I - se contar menos de dez anos de serviço, deverá afastar-se da atividade; ^d87a91e
+		* I - se contar **menos de dez anos de serviço**, deverá afastar-se da atividade; ^d87a91e
 
-		* II - se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade. ^8901c1b
+		* II - se contar **mais de dez anos de serviço**, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade. ^8901c1b
 
 	* § 9° Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para exercício de mandato considerada vida pregressa do candidato, e a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta. (Redação dada pela Emenda Constitucional de Revisão n° 4, de 1994) ^452f2ac
 
 	* § 10 - O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude. ^ca74fd6
 
-	* § 11 - A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé. ^ff1b0ce
+	* § 11 - A ação de impugnação de mandato tramitará em **segredo de justiça**, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé. ^ff1b0ce
 
 	* § 12. Serão realizadas concomitantemente às eleições municipais as consultas populares sobre questões locais aprovadas pelas Câmaras Municipais e encaminhadas à Justiça Eleitoral até 90 (noventa) dias antes da data das eleições, observados os limites operacionais relativos ao número de quesitos. (Incluído pela Emenda Constitucional n° 111, de 2021) ^583db37
 
 	* § 13. As manifestações favoráveis e contrárias às questões submetidas às consultas populares nos termos do § [[#^583db37|12]] ocorrerão durante as campanhas eleitorais, sem a utilização de propaganda gratuita no rádio e na televisão. (Incluído pela Emenda Constitucional n° 111, de 2021) ^3e029e5
 
-* Art. 15. É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de: ^483bc20
+* Art. 15. É **<span style="color:#fb4934">vedada a cassação de direitos políticos</span>**, cuja perda ou suspensão só se dará nos casos de: ^483bc20
 
-	* I - cancelamento da naturalização por sentença transitada em julgado; ^0d77049
+	* I - cancelamento da naturalização por sentença transitada em julgado; **<span style="color:#83a598">PERDA</span>**^0d77049
 
-	* II - incapacidade civil absoluta; ^6d53719
+	* II - incapacidade civil absoluta; **<span style="color:#d3869b">SUSPENSÃO</span>**^6d53719
 
-	* III - condenação criminal transitada em julgado, enquanto durarem seus efeitos; ^5d63055
+	* III - condenação criminal transitada em julgado, enquanto durarem seus efeitos; **<span style="color:#d3869b">SUSPENSÃO</span>**^5d63055
 
-	* IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. [[#^30f4637|5°]], [[#^c4621eb|VIII]]; ^96a5047
+	* IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. [[#^30f4637|5°]], [[#^c4621eb|VIII]]; **<span style="color:#83a598">PERDA</span>**^96a5047
 
-	* V - improbidade administrativa, nos termos do art. [[#^73a80b7|37]], § [[#^f2517de|4°]]. ^306e093
+	* V - improbidade administrativa, nos termos do art. [[#^73a80b7|37]], § [[#^f2517de|4°]]. **<span style="color:#d3869b">SUSPENSÃO</span>**^306e093
 
-* Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência. (Redação dada pela Emenda Constitucional n° 4, de 1993) ^29136e8
+* Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até **um ano da data de sua vigência.**  **<span style="color:#fb4934">PRINCÍPIO DA ANTERIORIDADE ELEITORAL</span>** (Redação dada pela Emenda Constitucional n° 4, de 1993) ^29136e8
 
 ## 2.5. CAPÍTULO V - DOS PARTIDOS POLÍTICOS (ART. 17)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.5. CAPÍTULO V - DOS PARTIDOS POLÍTICOS (ART. 17)|Resumo]]
@@ -625,7 +621,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* I - caráter nacional; ^d9baeb6
 
-	* II - proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes; ^0339e85
+	* II - **<span style="color:#fb4934">proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes</span>**; ^0339e85
 
 	* III - prestação de contas à Justiça Eleitoral; ^faf8818
 
