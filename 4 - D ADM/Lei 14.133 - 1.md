@@ -8,6 +8,8 @@
 - Seleção da **proposta mais vantajosa** para a administração;
 - Celebração de um **contrato** para  obras, serviços, compras e alienações.
 
+![[Lei 14.133 - 1-1.png]]
+
 - **Natureza dos contratos:**
     - **Alienação** e **concessão** de **<span style="color:#83a598"><u>direito real de uso de bens</u></span>**;
     - **Compra**, inclusive por encomenda;
@@ -17,7 +19,6 @@
     - **Obras** e **serviços** de **<span style="color:#83a598">arquitetura</span>** e **<span style="color:#83a598">engenharia</span>**;
     - **Tecnologia da informação e de comunicação**.
 
-![[Lei 14.133 - 1-1.png]]
 # **1. Legislação**
 
 - **União:**
@@ -53,6 +54,7 @@
 - **Convênios**, **acordos**, **ajustes** e outros instrumentos **congêneres** celebrados por órgãos e entidades da Administração Pública.
 - **==Empresas Estatais==** (Lei nº 13.303/16). **<span style="color:#fb4934">Somente disposições penais.</span>**
 
+![[Lei 14.133 - 1-2.png]]
 ## **2.3** 🚫 **Não se subordinam ao regime da Lei 14.133/2021**
 
 - Contratos que tenham por objeto **<span style="color:#fb4934">operação de crédito</span>**, interno ou externo, e **<span style="color:#fb4934">gestão de dívida pública</span>**, incluídas as **<span style="color:#fb4934">contratações de agente financeiro</span>** e a **<span style="color:#fb4934">concessão de garantia</span>** relativas a esses contratos.
