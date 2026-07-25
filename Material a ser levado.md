@@ -53,8 +53,8 @@
 - [x] Gandola
 - [x] Gandoleta
 - [x] Camiseta
-- [ ] paisano
-- [ ] boina
+- [x] paisano
+- [x] boina
 ---
 - Kit costura
 - [x] Agulhas 
