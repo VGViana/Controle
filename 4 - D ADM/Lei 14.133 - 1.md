@@ -17,6 +17,7 @@
     - **Obras** e **serviços** de **<span style="color:#83a598">arquitetura</span>** e **<span style="color:#83a598">engenharia</span>**;
     - **Tecnologia da informação e de comunicação**.
 
+![[Lei 14.133 - 1-1.png]]
 # **1. Legislação**
 
 - **União:**
@@ -27,6 +28,7 @@
     - **<span style="color:#d3869b">Normas específicas</span>**;
     - **<span style="color:#fb4934">Independentemente</span>** de **delegação**.
 
+![[Lei 14.133 - 1.png]]
 # **2. Âmbito de aplicação**
 
 - **Administrações públicas <span style="color:#83a598">diretas, autárquicas e fundacionais</span>** (**<span style="color:#fb4934"><u>públicas ou privadas</u></span>**);
