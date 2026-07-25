@@ -68,3 +68,5 @@
 - Contratações com **<span style="color:#fb4934">legislação própria</span>**.
 
 ![[Lei 14.133 - 1-5.png]]
+
+![[Lei 14.133 - 1-6.png]]
