@@ -509,12 +509,13 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 			
 		* b) os estrangeiros de <u>qualquer nacionalidade</u>, residentes na República Federativa do Brasil há **<span style="color:#fe8019">mais de quinze anos ininterruptos</span> e <span style="color:#fe8019">sem condenação penal</span>**, <span style="color:#fb4934">desde que requeiram a nacionalidade brasileira. (NÃO É AUTOMÁTICO)</span>**<span style="color:#83a598">(Naturalização Extraordinária)</span>** ^24ad95a
 			- <u>Não originários de país que adotam a língua portuguesa:</u>
-			- mais de 15 anos ininterruptos;
-			- sem condenação penal;
-			- realizar requerimento.
-	- STF - se o indivíduo cumpriu os requisitos acima para naturalização, ele terá **direito** **<span style="color:#fe8019">subjetivo</span>** **à nacionalidade brasileira.**
-
-	- STF - reconhecimento da naturalidade gera efeitos **declaratórios** e, não, constitutivos.
+				- mais de 15 anos ininterruptos;
+				- sem condenação penal;
+				- realizar requerimento.
+	
+	> STF - se o indivíduo cumpriu os requisitos acima para naturalização, ele terá **direito** **<span style="color:#fe8019">subjetivo</span>** **à nacionalidade brasileira.**
+	
+	> STF - reconhecimento da naturalidade gera efeitos **declaratórios** e, não, constitutivos.
 
 	* § 1° Aos **portugueses com residência permanente** no País, **<span style="color:#b8bb26">se houver reciprocidade em favor de brasileiros</span>**, serão **atribuídos os direitos inerentes ao brasileiro**, salvo os casos previstos nesta Constituição. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
 	> **<span style="color: #d79921">Estrangeiros</span>** não **dispõem de direitos políticos** porque **não são cidadãos**. Se esses estrangeiros vierem a ser naturalizados brasileiros, terão direitos políticos, mas, ainda assim, terão algumas restrições.
