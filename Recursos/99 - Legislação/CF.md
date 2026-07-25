@@ -601,6 +601,18 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 
 	* § 2° **Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.** ^edef9fd
+	
+	> TSE - médicos, dentistas, farmacêuticos e veterinários que prestam serviço militar obrigatório são considerados conscritos.
+	
+	> TSE - não estará sujeita à sanção, a pessoa portadora de deficiência que não possa cumprir com as suas obrigações eleitorais.
+
+	> 🚨Não confunda! Os **analfabetos** são alistáveis, eles podem votar. O que não podem é serem votados, portanto, não possuem elegibilidade.
+	
+	> **Inelegibilidade** - absolutas x relativas 
+	> - Absolutas - inelegíveis para todos os cargos políticos. Ex: inalistáveis e os analfabetos. 
+	> - Relativa - inelegíveis para apenas alguns cargos políticos.
+
+	> 
 
 	* § 3° São **<span style="color:#fe8019">condições de elegibilidade,</span>** na forma da lei: ^0df2d34
 
@@ -624,13 +636,31 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 			* d) **<span style="color:#fe8019">dezoito anos</span>** para <span style="color:#fe8019">Vereador</span>. ^56e6ff2
 
+	>Domicílio eleitoral (onde tem o título de eleitor) é diferente do domicílio civil. 
+	>Brasileiros natos e <u>naturalizados</u> possuem elegibilidade. 
+	>Deve haver filiação partidária, não há candidatura avulsa no Brasil.
+
+	> STF - desfiliação e infidelidade partidária são causas de perda do mandato - apenas se aplica aos candidatos do sistema proporcional.
+	
+	> ![[CF.png]]
+
 	* **<span style="color:#fb4934">§ 4° São inelegíveis os inalistáveis e os analfabetos.</span>** ^379a551
 
-	* § 5° O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um <span style="color:#fb4934">único período subseqüente.</span> (Redação dada pela Emenda Constitucional n° 16, de 1997) ^cc80972
+	* § 5° O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um <span style="color:#fb4934">único período subseqüente.</span> (<span style="color:#b8bb26">Inelegibilidade relativa por motivos funcionais</span>) ^cc80972
 
+	> STF - **<span style="color:#fe8019">prefeito itinerante</span>** - nos casos dos prefeitos, eles não poderão assumir um terceiro mandato consecutivo, mesmo se eleitos por um diferente município. 
+	> Caso tenha exercido dois mandatos consecutivos de Chefe do Poder Executivo, ele não poderá candidatar-se à vice. 
+	> Os vices que assumirem o mandato em curso, poderão candidatar-se a apenas mais um mandato. 
+	
 	* § 6° Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito. ^f2dc473
+	> **<span style="color:#fe8019">Desincompatibilização</span>**: Se for em relação ao **<u>mesmo cargo</u>**, não há a necessidade de renúncia. E os <u>vices</u> não precisam se desincompatibilizar. 
+	> Em casos de desmembramento de municípios, deve haver a desincompatibilização do município de origem para concorrer no município derivado.
 
 	* § 7° São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consangüíneos ou afins, **até o segundo grau ou por adoção**, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído <u>dentro dos seis meses anteriores ao pleito</u>, **<span style="color:#fb4934">salvo</span>** se já titular de mandato eletivo e candidato à reeleição. **<span style="color:#fb4934">(INELEGIBILIDADE REFLEXA)</span>**^4b879bb
+	> A inelegibilidade reflexiva é restringida aos cargos de Chefe do Poder Executivo.  
+	STF - a inelegibilidade reflexiva atinge as relações homoafetivas. 
+	A inelegibilidade reflexiva não ocorre em casos de falecimento.  
+	Súmula Vinculante nº 18 - A dissolução da sociedade ou do vínculo conjugal, no curso do mandato, <u>não afasta a inelegibilidade</u> prevista no § 7º do artigo 14 da Constituição Federal.
 
 	* § 8° O militar alistável é elegível, atendidas as seguintes condições: ^ff683dd
 
@@ -638,9 +668,11 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* II - se contar **mais de dez anos de serviço**, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade. ^8901c1b
 
-	* § 9° Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para exercício de mandato considerada vida pregressa do candidato, e a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta. (Redação dada pela Emenda Constitucional de Revisão n° 4, de 1994) ^452f2ac
+	* § 9° Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para exercício de mandato considerada vida pregressa do candidato, e a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta.  ^452f2ac
+	> Apenas **<span style="color:#fe8019">lei complementar nacional</span>** poderá estabelecer outros casos de inelegibilidade.
 
 	* § 10 - O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude. ^ca74fd6
+	> Mandato impugnado - Justiça Eleitoral - 15 dias contados da **diplomação** - segredo de justiça.
 
 	* § 11 - A ação de impugnação de mandato tramitará em **segredo de justiça**, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé. ^ff1b0ce
 
@@ -649,6 +681,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 	* § 13. As manifestações favoráveis e contrárias às questões submetidas às consultas populares nos termos do § [[#^583db37|12]] ocorrerão durante as campanhas eleitorais, sem a utilização de propaganda gratuita no rádio e na televisão. (Incluído pela Emenda Constitucional n° 111, de 2021) ^3e029e5
 
 * Art. 15. É **<span style="color:#fb4934">vedada a cassação de direitos políticos</span>**, cuja perda ou suspensão só se dará nos casos de: ^483bc20
+	> Não há cassação dos diretos políticos!
 
 	* I - cancelamento da naturalização por sentença transitada em julgado; **<span style="color:#83a598">PERDA</span>**^0d77049
 
@@ -659,31 +692,41 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 	* IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. [[#^30f4637|5°]], [[#^c4621eb|VIII]]; **<span style="color:#83a598">PERDA</span>**^96a5047
 
 	* V - improbidade administrativa, nos termos do art. [[#^73a80b7|37]], § [[#^f2517de|4°]]. **<span style="color:#d3869b">SUSPENSÃO</span>**^306e093
-
-* Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até **um ano da data de sua vigência.**  **<span style="color:#fb4934">PRINCÍPIO DA ANTERIORIDADE ELEITORAL</span>** (Redação dada pela Emenda Constitucional n° 4, de 1993) ^29136e8
+	> - Perda - **prazo indeterminado** - a reaquisição **<span style="color:#fe8019">não é</span>** automática
+	> - Suspensão - **prazo determinado ou indeterminado** - a reaquisição **<span style="color:#fe8019">é</span>** automática
+	
+	> No caso de condenação criminal transitada em julgado, a suspensão será imediata.
+* Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até **um ano da data de sua vigência.**  **<span style="color:#fb4934">PRINCÍPIO DA ANTERIORIDADE ELEITORAL</span>** ^29136e8
 
 ## 2.5. CAPÍTULO V - DOS PARTIDOS POLÍTICOS (ART. 17)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.5. CAPÍTULO V - DOS PARTIDOS POLÍTICOS (ART. 17)|Resumo]]
 
 * Art. 17. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos: Regulamento ^10f159f
 
-	* I - caráter nacional; ^d9baeb6
+	* I - <span style="color:#fe8019">caráter nacional</span>; ^d9baeb6
 
-	* II - **<span style="color:#fb4934">proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes</span>**; ^0339e85
+	* II - **<span style="color:#fb4934">proibição de <u>recebimento</u> de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes</span>**; ^0339e85
 
-	* III - prestação de contas à Justiça Eleitoral; ^faf8818
+	* III - prestação de contas à **<span style="color:#fe8019">Justiça Eleitoral</span>**; ^faf8818
 
-	* IV - funcionamento parlamentar de acordo com a lei. ^48b1a0a
+	* IV - funcionamento parlamentar **<span style="color:#fe8019">de acordo com a lei.</span>** ^48b1a0a
 
-	* § 1° É assegurada aos partidos políticos autonomia para definir sua estrutura interna e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações nas eleições majoritárias, vedada a sua celebração nas eleições proporcionais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária. (Redação dada pela Emenda Constitucional n° 97, de 2017) ^bc6ea2d
+	* § 1° É assegurada aos partidos políticos autonomia para definir sua <u>estrutura interna</u> e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações nas eleições majoritárias, <span style="color:#fe8019">vedada</span> a sua celebração nas <span style="color:#fe8019">eleições proporcionais</span>, <span style="color:#fe8019">sem obrigatoriedade de vinculação</span> entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária. (Redação dada pela Emenda Constitucional n° 97, de 2017) ^bc6ea2d
 
 	* § 2° Os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral. ^fa608d3
+	> - Adquirem **<span style="color:#83a598">personalidade jurídica</span>** com a inscrição do ato constitutivo no registro competente.
+	> - Adquire **<span style="color:#d3869b">capacidade política</span>** com o registro do estatuto no TSE.
 
 	* § 3° Somente terão direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei, os partidos políticos que alternativamente: (Redação dada pela Emenda Constitucional n° 97, de 2017) ^48d52d4
+		
+		> “**<span style="color:#83a598">cláusula de barreira</span>**” - Partidos políticos apenas terão acesso gratuito à tv e ao rádio caso cumpram os seguintes critérios:
 
 		* I - obtiverem, nas eleições para a Câmara dos Deputados, no mínimo, 3% (três por cento) dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com um mínimo de 2% (dois por cento) dos votos válidos em cada uma delas; ou (Incluído pela Emenda Constitucional n° 97, de 2017) ^515b086
+		> Critérios do Fundo Partidário 
+		 > - Número mínimos de votos válidos - mínimo de 3% dos votos válidos - 1/3 dos Estados - mínimo de 2% em cada uma.
 
 		* II - tiverem elegido pelo menos quinze Deputados Federais distribuídos em pelo menos um terço das unidades da Federação. (Incluído pela Emenda Constitucional n° 97, de 2017) ^85a4ed4
+		> - Número mínimo de Deputados eleitos - eleger no mínimo 15 deputados - 1/3 dos Estados.
 
 	* § 4° É vedada a utilização pelos partidos políticos de organização paramilitar. ^12e0e5f
 
