@@ -481,7 +481,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 12. São brasileiros: ^fae93a6
 
-	* I - natos: ^658d4e0
+	* I - <span style="color:#b8bb26">natos</span>: ^658d4e0
 
 		* a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país; ^452e9e4
 
