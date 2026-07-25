@@ -479,23 +479,45 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 ## 2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.3. CAPÍTULO III - DA NACIONALIDADE (ARTS. 12 A 13)|Resumo]]
 
+- **<span style="color:#fe8019">1- Nacionalidade primária (originária):</span>**
+
+- **<span style="color:#d3869b">nascimento em território brasileiro - "jus solis" - I, "a";</span>**
+- ou **"<span style="color:#83a598">jus sanguinis</span>" - I, "b".**
 * Art. 12. São brasileiros: ^fae93a6
 
 	* I - <span style="color:#b8bb26">**natos**</span>: ^658d4e0
 
-		* a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, <span style="color:#fb4934">**desde que**</span> **estes não estejam a serviço de seu país**; ^452e9e4
+		* a) os **<span style="color:#d3869b">nascidos na República Federativa do Brasil</span>**, ainda que de <u>pais estrangeiros</u>, <span style="color:#fb4934">**desde que**</span> **estes <u><span style="color:#fe8019">não estejam</span> a serviço de seu país</u>**; ^452e9e4
+			- Se os pais <u>estiverem a serviço do seu país</u>, mesmo nascendo em solo brasileiro, serão estrangeiros.
 
-		* b) os nascidos <u>no estrangeiro</u>, de **pai brasileiro ou mãe brasileira**, <span style="color:#fb4934">**desde que**</span> **qualquer deles esteja a serviço da República Federativa do Brasil**; ^f66ec68
+		* b) os nascidos <u>no estrangeiro</u>, de **<span style="color:#83a598">pai brasileiro</span> ==ou== <span style="color:#83a598">mãe brasileira</span>**, <span style="color:#fb4934">**desde que**</span> **qualquer deles <u>esteja</u> a serviço da República Federativa do Brasil**; ^f66ec68
+			- <u>Estando os pais, brasileiros, a serviço do governo brasileiro</u>, mesmo se nascerem no exterior, **serão brasileiros natos**.
 
-		* c) os nascidos <u>no estrangeiro</u> de **pai brasileiro ou de mãe brasileira**, <span style="color:#fb4934">**desde que**</span> sejam <u>registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem</u>, em **qualquer tempo**, <span style="color:#fb4934">**depois de atingida a maioridade**</span>, pela nacionalidade brasileira; (Redação dada pela Emenda Constitucional n° 54, de 2007) ^3ad78fe
+		* c) os nascidos <u>no estrangeiro</u> de **<span style="color:#83a598">pai brasileiro ou de mãe brasileira</span>**, <span style="color:#fb4934">**desde que**</span> sejam registrados em repartição brasileira competente ==ou== venham a residir na República Federativa do Brasil e optem, em **<span style="color: #d79921">qualquer tempo</span>**, <span style="color:#fb4934">**depois de atingida a maioridade**</span>, pela nacionalidade brasileira; <span style="color: #d79921">**(Nacionalidade potestativa)**</span> ^3ad78fe
+			- <u>Não estando os pais, brasileiros, a serviço do governo brasileiro</u>, para ser considerado brasileiro nato deverá: <u>(requisitos não cumulativos)</u>
 
+				- ser registrados em repartição brasileira competente no exterior; **==ou==**
+				- vir a morar no Brasil **==e==** optar, a qualquer tempo, depois de completado a maioridade, pela nacionalidade brasileira.
+
+	- **<span style="color:#fe8019">2- Nacionalidade secundária (derivada ou adquirida)</span>**
 	* II - <span style="color:#83a598">**naturalizados**</span>: ^12c01b3
 
-		* a) os que, na forma da lei, <u>adquiram a nacionalidade brasileira</u>, exigidas aos <u>originários de países de língua portuguesa</u> apenas **residência por um ano ininterrupto e idoneidade moral**; ^8e7c195
+		* a) os que, na forma da lei, <u>adquiram a nacionalidade brasileira</u>, exigidas aos <u>originários de países de língua portuguesa</u> apenas **residência por <span style="color:#fe8019">um ano ininterrupto</span> e idoneidade moral**; **<span style="color:#83a598">(Naturalização ordinária)</span>**^8e7c195
+			- <u>Originados de países de língua portuguesa</u>
+			- idoneidade moral ==e==
+			- residir um ano ininterrupto no Brasil. 
+			
+		* b) os estrangeiros de <u>qualquer nacionalidade</u>, residentes na República Federativa do Brasil há **<span style="color:#fe8019">mais de quinze anos ininterruptos</span> e <span style="color:#fe8019">sem condenação penal</span>**, <span style="color:#fb4934">desde que requeiram a nacionalidade brasileira. (NÃO É AUTOMÁTICO)</span>**<span style="color:#83a598">(Naturalização Extraordinária)</span>** ^24ad95a
+			- <u>Não originários de país que adotam a língua portuguesa:</u>
+			- mais de 15 anos ininterruptos;
+			- sem condenação penal;
+			- realizar requerimento.
+	- STF - se o indivíduo cumpriu os requisitos acima para naturalização, ele terá **direito** **<span style="color:#fe8019">subjetivo</span>** **à nacionalidade brasileira.**
 
-		* b) os estrangeiros de <u>qualquer nacionalidade</u>, residentes na República Federativa do Brasil há **mais de quinze anos ininterruptos e sem condenação penal**, <span style="color:#fb4934">desde que requeiram a nacionalidade brasileira. (NÃO É AUTOMÁTICO)</span>(Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^24ad95a
+	- STF - reconhecimento da naturalidade gera efeitos **declaratórios** e, não, constitutivos.
 
-	* § 1° Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
+	* § 1° Aos **portugueses com residência permanente** no País, **<span style="color:#b8bb26">se houver reciprocidade em favor de brasileiros</span>**, serão **atribuídos os direitos inerentes ao brasileiro**, salvo os casos previstos nesta Constituição. (Redação dada pela Emenda Constitucional de Revisão n° 3, de 1994) ^82f4366
+	> **<span style="color: #d79921">Estrangeiros</span>** não **dispõem de direitos políticos** porque **não são cidadãos**. Se esses estrangeiros vierem a ser naturalizados brasileiros, terão direitos políticos, mas, ainda assim, terão algumas restrições.
 
 	* § 2° A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição. ^5873957
 
@@ -514,14 +536,25 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 		* VI - de oficial das Forças Armadas. ^e02dd15
 
 		* VII - de Ministro de Estado da Defesa. (Incluído pela Emenda Constitucional n° 23, de 1999) ^147c3ba
+	> Com relação aos cargos privativos de brasileiro nato, além daqueles elencados no §3˚do inciso II do artigo 12˚, destaca-se que também são privativos de brasileiro nato:
+	> - Presidente do CNJ (O presidente do CNJ é o Presidente do STF); 
+	> - Presidente do TSE (O presidente do TSE é ministro do STF).
+	A Constituição Federal de 1988 define os cargos que são privativos de brasileiros natos e **proíbe** que <u>legislação infraconstitucional</u> estabeleça <u>distinções</u> entre brasileiros natos e naturalizados.
 
 	* **§ 4° - Será declarada a perda da nacionalidade do brasileiro que**: ^ee6d597
 
-		* I - tiver cancelada sua naturalização, **<span style="color:#fe8019">por sentença judicial</span>**, em **<span style="color:#83a598">virtude de fraude</span>** relacionada ao **<span style="color:#83a598">processo de naturalização</span>** ou **<span style="color:#83a598"><u>de atentado contra a ordem constitucional e o Estado Democrático</u></span>**; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
+		* I - tiver cancelada sua naturalização, **<span style="color:#fe8019"><u>por sentença judicial</u></span>**, em **<span style="color:#83a598">virtude de fraude</span>** relacionada ao **<span style="color:#83a598">processo de naturalização</span>** ou **<span style="color:#83a598"><u>de atentado contra a ordem constitucional e o Estado Democrático</u></span>**; (Redação dada pela Emenda Constitucional n° 131, de 2023) ^45ee9eb
 
-		* II - fizer **<span style="color:#83a598"><u>pedido expresso</u></span>** de perda da nacionalidade brasileira perante autoridade brasileira competente, ressalvadas situações que acarretem apatridia. (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
+		* II - fizer **<span style="color:#83a598"><u>pedido expresso</u></span>** de perda da nacionalidade brasileira perante **autoridade brasileira competente**, **ressalvadas situações que acarretem apatridia.** (Redação dada pela Emenda Constitucional n° 131, de 2023) ^8d80025
 
 	* § 5° A **<span style="color:#fe8019">renúncia</span>** da nacionalidade, nos termos do inciso [[#^8d80025|II]] do § [[#^ee6d597|4°]] deste artigo, **<span style="color:#83a598"><u>não impede</u></span>** o interessado de **<span style="color:#83a598"><u>readquirir sua nacionalidade brasileira originária</u></span>**, nos termos da lei. (Incluído pela Emenda Constitucional n° 131, de 2023) ^351709f
+	> Não é por ato do Presidente da República que ocorre a perda da nacionalidade, mas sim **por sentença judicial.**  
+	**⚠️ <span style="color:#fe8019">Em nenhuma hipótese</span>**, o brasileiro nato poderá ser extraditado.
+	PORÉM, caso o brasileiro **ainda que nato** perca a nacionalidade brasileira, poderá ser extraditado. 
+	**<span style="color:#fe8019"><u>Conforme entendimento do Supremo Tribunal Federal, brasileiro nato que tiver perdido a nacionalidade poderá ser extraditado.</u></span>**  
+	Caso o brasileiro nato, que tenha perdido a sua nacionalidade brasileira, a requeira de volta:
+	>- **Posição** Majoritária **da DOUTRINA**: volta com status de **NATURALIZADO.
+	>- **Entendimento do STF** (desde 1986): volta com o status de **NATO.**
 
 * Art. 13. A língua portuguesa é o idioma oficial da República Federativa do Brasil. ^6308548
 
@@ -531,14 +564,28 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 ## 2.4. CAPÍTULO IV - DOS DIREITOS POLÍTICOS (ARTS. 14 A 16)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/2.4. CAPÍTULO IV - DOS DIREITOS POLÍTICOS (ARTS. 14 A 16)|Resumo]]
+> **Regimes Democráticos:** 
+> - Democracia direta - povo exerce o poder. 
+> - Democracia indireta - povo elege representantes. 
+> - Democracia semidireta ou participativa - há representantes escolhidos pelo povo, mas este possui formas de exercer o poder diretamente. 
+>  
+> **<span style="color:#fb4934">DEMOCRACIA SEMIDIRETA (ADOTADA NO BRASIL)</span>** 
+> - <span style="color:#d3869b">Forma Indireta</span> (Representativa) feita pelo voto direto e secreto); 
+> - <span style="color:#d3869b">Forma Direta</span>: Plebiscito; Referendo; Iniciativa popular
 
-* Art. 14. A soberania popular será exercida pelo **sufrágio universal e pelo voto direto e secreto**, com valor igual para todos, e, nos termos da lei, mediante: ^90c0025
+* Art. 14. A soberania popular será exercida pelo **sufrágio universal e pelo voto direto e secreto**, com valor igual para todos, e, nos termos da lei, mediante: ^90c0025	
+	> * O **sufrágio** significa direitos políticos e é composto por:
+	> 	- **Capacidade ativa - alistabilidade - direito de votar**
+	> 	- **Capacidade passiva - elegibilidade - direito de ser votado**
+	> - Direitos políticos podem ser divididos em:
+	> 	- Positivos - participação ativa dos cidadãos, através de plebiscito, referendo ou iniciativa popular. 
+	> 	- Negativos - inelegibilidade, perda e suspensão dos direitos políticos.
 
-	* I - plebiscito; ^f26767d
+	* I - **<span style="color:#d3869b">Plebiscito</span>** - consulta ocorre **<span style="color:#d3869b">antes</span>** da edição da norma; ^f26767d
 
-	* II - referendo; ^fa4432a
+	* II - <span style="color:#83a598">**Referendo**</span> - consulta ocorre **<span style="color:#83a598">depois</span>** da edição da norma; ^fa4432a
 
-	* III - iniciativa popular. ^2301667
+	* III - **<span style="color:#b8bb26">Iniciativa popular</span>** - Art. 61, § 2º, CF/88. A iniciativa popular pode ser exercida pela apresentação à **Câmara dos Deputados** de projeto de lei subscrito por, no <u>mínimo</u>, **um por cento do eleitorado nacional**, distribuído **pelo menos por cinco Estados,** com **não menos de três décimos por cento dos eleitores de cada um deles. <u>macete: 1 5 0,3</u>**. ^2301667
 
 	* § 1° O **<span style="color:#83a598">alistamento eleitoral e o voto</span>** são: ^466e846
 
@@ -551,6 +598,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 			* b) os maiores de **setenta anos**; ^46c8db1
 
 			* c) os maiores de dezesseis e menores de dezoito anos. ^fe96723
+
 
 	* § 2° **Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.** ^edef9fd
 
