@@ -19,6 +19,10 @@
     - **Obras** e **serviços** de **<span style="color:#83a598">arquitetura</span>** e **<span style="color:#83a598">engenharia</span>**;
     - **Tecnologia da informação e de comunicação**.
 
+- Casos em que haverá uma **<span style="color:#fb4934">norma especial</span>**, quais sejam:  
+	- a) **<span style="color:#fb4934">concessão e permissão de serviços</span>** públicos (Lei 8.987/1995);  
+	- b) **<span style="color:#fb4934">parcerias público-privadas</span>** (Lei 11.079/2004);  
+	- c) serviços de **<span style="color:#fb4934">publicidade prestados por intermédio de agências de propaganda</span>** (Lei 12.232/2010).  
 # **1. Legislação**
 
 - **União:**
