@@ -1,4 +1,5 @@
 [[0. Conceitos Iniciais]]
 [[1. Planejamento]]
+[[3. Materialidades, risco e relevância]]
 [[7. Tipos, Abrangência e Formas]]
 [[8. Instrumentos de Fiscalização]]
