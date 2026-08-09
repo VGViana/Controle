@@ -379,16 +379,19 @@ A leitura não é estudo para concurso.
 
 É lazer intelectual.
 
-### Sequência sugerida
+### Sequência 
 
-1. **1984 — George Orwell**
-2. **O Estrangeiro — Albert Camus**
-3. **Fahrenheit 451 — Ray Bradbury**
-4. **O Senhor das Moscas — William Golding**
-5. **Admirável Mundo Novo — Aldous Huxley**
-6. **Crime e Castigo — Dostoiévski**
-7. **Ensaio sobre a Cegueira — José Saramago**
-
+- [ ] **1984 — George Orwell**
+- [ ] O Estrangeiro — Albert Camus
+- [ ] **Fahrenheit 451 — Ray Bradbury**
+- [ ] **O Senhor das Moscas — William Golding**
+ - [ ] **Admirável Mundo Novo — Aldous Huxley**
+ - [ ] **O Retrato de Dorian Gray — Oscar Wilde**
+ - [ ] **Crime e Castigo — Fiódor Dostoiévski**
+- [ ] **A Morte de Ivan Ilitch — Liev Tolstói**
+ - [ ] **Em Busca de Sentido — Viktor Frankl**
+ - [ ] **A Metamorfose — Franz Kafka**
+ 
 
 # 🧭 Regras do Viana 2.0
 
