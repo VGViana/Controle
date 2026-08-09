@@ -441,7 +441,7 @@ A leitura não é estudo para concurso.
 ### Sequência 
 
 - [ ] **1984 — George Orwell**
-- [ ] O Estrangeiro — Albert Camus
+- [ ] **O Estrangeiro — Albert Camus**
 - [ ] **Fahrenheit 451 — Ray Bradbury**
 - [ ] **O Senhor das Moscas — William Golding**
  - [ ] **Admirável Mundo Novo — Aldous Huxley**
