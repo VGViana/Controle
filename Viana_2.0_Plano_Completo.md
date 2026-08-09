@@ -43,6 +43,65 @@
 | 21:20/21:40 | 📖 Kindle + preparar o dia seguinte |
 | **21:45–22:00** | 😴 Dormir |
 
+## 📅 Sábado — estudo forte
+
+|Horário|Atividade|
+|---|---|
+|**07:00**|⏰ Acordar|
+|07:05|Água + higiene|
+|07:20|☕ Café da manhã|
+|**07:45–09:15**|📚 Estudo — bloco de alta concentração|
+|09:15–09:30|Pausa|
+|**09:30–11:00**|📚 Estudo — teoria/questões|
+|11:00–11:30|Descanso|
+|**11:30–12:30**|📚 Questões + Anki|
+|12:30–14:00|🍽️ Almoço + descanso|
+|**14:00–15:30**|📚 Estudo|
+|15:30–16:00|Pausa|
+|**16:00–17:30**|📚 Estudo — revisão/questões|
+|17:30 em diante|🎮 Lazer / Campinas / amigos / família|
+|21:00–21:30|📖 Kindle|
+|**22:00–22:30**|😴 Dormir|
+
+## ☀️ Domingo — treino + estudo + vida
+
+|Horário|Atividade|
+|---|---|
+|**07:00**|⏰ Acordar|
+|07:05|Água + higiene|
+|07:20|☕ Café / pré-treino|
+|**07:45–09:05**|🏋️ Upper A|
+|09:05–09:40|🚿 Banho + café da manhã|
+|**09:45–11:15**|📚 Estudo — alta concentração|
+|11:15–11:30|Pausa|
+|**11:30–12:30**|📚 Questões + Anki|
+|12:30–14:00|🍽️ Almoço + família|
+|**14:00 em diante**|❤️ Campinas / família / lazer / vida|
+|20:00–20:30|🍽️ Jantar|
+|20:30–21:00|📖 Kindle|
+|21:00–21:30|🎒 Preparar segunda-feira|
+|**21:45**|😴 Dormir|
+
+## 🇧🇷 Feriado — dia de alto rendimento + lazer
+
+|Horário|Atividade|
+|---|---|
+|**07:00**|⏰ Acordar|
+|07:05|Água + higiene|
+|07:20|☕ Café da manhã|
+|**07:45–09:15**|📚 Estudo — alta concentração|
+|09:15–09:30|Pausa|
+|**09:30–11:00**|📚 Estudo — teoria|
+|11:00–11:30|Descanso|
+|**11:30–12:30**|📚 Questões + Anki|
+|12:30–14:00|🍽️ Almoço + descanso|
+|**14:00–15:30**|📚 Estudo|
+|15:30–16:00|Pausa|
+|**16:00–17:00**|📚 Revisão / questões|
+|**17:00 em diante**|🎮 Lazer / família / amigos|
+|21:00–21:30|📖 Kindle|
+|**21:45–22:00**|😴 Dormir|
+
 > [!important] Sono
 > Meta: **21:45–05:00** (7h15). Mínimo desejável: aproximadamente 22:00–05:00 (7h).
 
