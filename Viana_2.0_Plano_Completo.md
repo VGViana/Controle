@@ -78,19 +78,6 @@ Começar com **3 sessões/semana**. A quarta janela do TFM fica como opção de 
 
 # 🏋️ Musculação — Upper/Lower
 
-## Objetivo físico
-
-Físico inspirado no Homem-Aranha dos quadrinhos:
-
-- dorsais largas;
-- ombros desenvolvidos;
-- peitoral forte;
-- braços proporcionais;
-- cintura visualmente estreita;
-- pernas fortes;
-- baixo/moderado percentual de gordura;
-- aparência atlética, não fisiculturista extrema.
-
 ### Regras gerais
 
 - Natural: priorizar **progressão, recuperação e consistência**.
@@ -160,32 +147,6 @@ Físico inspirado no Homem-Aranha dos quadrinhos:
 | Extensora | 2 × 10–15 | 0–1 RIR |
 | Panturrilha sentado | 3 × 10–15 | 0–1 RIR |
 | Abdominal | 2–3 × 8–15 | 0–1 RIR |
-
----
-
-# 📈 Progressão da musculação
-
-### Exemplo — Supino 3 × 4–6
-
-Se fizer:
-
-`6 / 6 / 6`
-
-com técnica boa e RIR adequado:
-
-→ aumentar a carga na próxima sessão.
-
-Depois, reconstruir:
-
-`4 / 5 / 5 → 5 / 5 / 6 → 6 / 6 / 6`
-
-### Regra
-
-**Não perseguir carga a qualquer custo.**
-
-A progressão válida é:
-
-> carga ↑ + reps ↑ + técnica mantida + esforço adequado.
 
 ---
 
@@ -286,47 +247,9 @@ Não fazer quatro dias fortes.
 
 ---
 
-# 🧠 Ferramentas de estudo
-
-| Ferramenta | Função |
-|---|---|
-| **Sioyek** | PDFs, teoria e marcações |
-| **Anki** | Memorização e revisão espaçada |
-| **TEC Concursos** | Questões |
-| **Obsidian** | Organização do conhecimento |
-| **Caderno de erros** | Erros recorrentes e pontos fracos |
-
-### Prioridade
-
-**Teoria → questões → erros → revisão → Anki**
-
-À medida que a preparação amadurecer:
-
-**questões + revisão + erros** ganham cada vez mais espaço.
-
----
 
 # 🪖 Dia de serviço
 
-## Entrada
-**07:30**
-
-## Saída
-**17:30 do dia seguinte**
-
-Não tentar reproduzir o dia normal.
-
-### Meta
-
-**~3h de estudo oportunístico.**
-
-Prioridade:
-
-1. Questões
-2. Revisão
-3. Anki
-4. Lei seca
-5. Teoria
 
 ### Treino
 
@@ -466,41 +389,6 @@ A leitura não é estudo para concurso.
 6. **Crime e Castigo — Dostoiévski**
 7. **Ensaio sobre a Cegueira — José Saramago**
 
----
-
-# 🎮 Lazer
-
-Lazer é parte do sistema.
-
-### Sexta à noite
-**Livre.**
-
-### Sábado após o estudo
-**Livre.**
-
-### Domingo
-**Família/Campinas/lazer.**
-
-Evitar:
-
-- scrolling infinito;
-- redes sociais sem objetivo;
-- transformar todo intervalo em celular.
-
-Preferir:
-
-- videogame;
-- filmes/séries;
-- amigos;
-- família;
-- Campinas;
-- leitura;
-- hobbies.
-
-> [!quote] Regra
-> **Não quero passar no concurso para descobrir que não vivi.**
-
----
 
 # 🧭 Regras do Viana 2.0
 
