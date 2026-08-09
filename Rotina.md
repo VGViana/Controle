@@ -15,46 +15,46 @@
 
 ## Segunda a quinta — dia normal
 
-| Horário | Atividade |
-|---|---|
-| **05:00** | Acordar |
-| 05:05 | Água + higiene |
-| 05:15 | Café/pré-treino |
-| **05:20–06:20** | 📚 Estudo — bloco de alta concentração |
-| 06:20–06:40 | Banho + arrumar |
-| 06:40–07:00 | Café da manhã |
-| **07:00** | Sair de casa |
-| **07:30** | Chegar ao quartel + preparação |
-| **08:00–10:00** | 🏃 TFM / corrida quando programada |
-| 10:00–17:30 | Trabalho + estudo oportunístico |
-| **17:30** | Sair |
-| **~18:00** | Chegar em casa |
-| 18:15–19:45 | 📚 Estudo ou 🏋️ musculação, conforme o dia |
-| 19:45–20:00 | Jantar |
-| 20:00–21:00/21:30 | 📚 Estudo |
-| 21:00/21:30 | Encerrar estudo |
-| 21:20/21:40 | 📖 Kindle + preparar o dia seguinte |
-| **21:45–22:00** | 😴 Dormir |
+| Horário           | Atividade                                   |
+| ----------------- | ------------------------------------------- |
+| **05:00**         | Acordar                                     |
+| 05:05             | Água + higiene                              |
+| 05:15             | Café/pré-treino                             |
+| **05:20–06:20**   | 📚 Estudo — bloco de alta concentração      |
+| 06:20–06:40       | Banho + arrumar                             |
+| 06:40–07:00       | Café da manhã                               |
+| **07:00**         | Sair de casa                                |
+| **07:30**         | Chegar ao quartel + preparação              |
+| **08:00–10:00**   | 🏃 TFM / corrida quando programada          |
+| 10:00–17:30       | Trabalho + estudo oportunístico             |
+| **17:30**         | Sair                                        |
+| **~18:00**        | Chegar em casa                              |
+| 18:15–19:45       | 📚 Estudo ou 🏋️ musculação, conforme o dia |
+| 19:45–20:00       | Jantar                                      |
+| 20:00–21:00/21:30 | 📚 Estudo                                   |
+| 21:00/21:30       | Encerrar estudo                             |
+| 21:20/21:40       | 📖 Kindle + preparar o dia seguinte         |
+| **21:45–22:00**   | 😴 Dormir                                   |
 
 ## 📅 Sábado — estudo forte
 
-|Horário|Atividade|
-|---|---|
-|**07:00**|⏰ Acordar|
-|07:05|Água + higiene|
-|07:20|☕ Café da manhã|
-|**07:45–09:15**|📚 Estudo — bloco de alta concentração|
-|09:15–09:30|Pausa|
-|**09:30–11:00**|📚 Estudo — teoria/questões|
-|11:00–11:30|Descanso|
-|**11:30–12:30**|📚 Questões + Anki|
-|12:30–14:00|🍽️ Almoço + descanso|
-|**14:00–15:30**|📚 Estudo|
-|15:30–16:00|Pausa|
-|**16:00–17:30**|📚 Estudo — revisão/questões|
-|17:30 em diante|🎮 Lazer / Campinas / amigos / família|
-|21:00–21:30|📖 Kindle|
-|**22:00–22:30**|😴 Dormir|
+| Horário         | Atividade                              |
+| --------------- | -------------------------------------- |
+| **07:00**       | ⏰ Acordar                              |
+| 07:05           | Água + higiene                         |
+| 07:20           | ☕ Café da manhã                        |
+| **07:45–09:15** | 📚 Estudo — bloco de alta concentração |
+| 09:15–09:30     | Pausa                                  |
+| **09:30–11:00** | 📚 Estudo — teoria/questões            |
+| 11:00–11:30     | Descanso                               |
+| **11:30–12:30** | 📚 Questões + Anki                     |
+| 12:30–14:00     | 🍽️ Almoço + descanso                  |
+| **14:00–15:30** | 📚 Estudo                              |
+| 15:30–16:00     | Pausa                                  |
+| **16:00–17:30** | 📚 Estudo — revisão/questões           |
+| 17:30 em diante | 🎮 Lazer / Campinas / amigos / família |
+| 21:00–21:30     | 📖 Kindle                              |
+| **22:00–22:30** | 😴 Dormir                              |
 
 ## ☀️ Domingo — treino + estudo + vida
 
