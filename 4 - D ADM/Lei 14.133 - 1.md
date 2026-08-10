@@ -162,7 +162,7 @@
 
 - **Preferências para microempresas – ME e empresas de pequeno porte – EPP.**
 
-**3.6 Publicidade**
+## **3.6 Publicidade**
 
 - **Garantir** a possibilidade de **participação** e de **fiscalização** dos **atos da licitação;**
 - Qualidade de tornar o **procedimento público**;
@@ -175,7 +175,7 @@
     - **conteúdo das propostas**, até a respectiva abertura (**princípio do sigilo das propostas**);
     - **orçamento** da administração, nas hipóteses previstas na Lei de Licitações (**sigilo do orçamento**).
 
-**3.7 Sigilo do orçamento**
+## **3.7 Sigilo do orçamento**
 
 - Decisão **discricionária** / deve existir **justificativa**;
 - **Não prevalecerá para os órgãos de** **controle interno e externo**;
