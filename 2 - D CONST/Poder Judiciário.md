@@ -24,7 +24,7 @@ _VII - os Tribunais e Juízes dos Estados e do Distrito Federal e Territórios._
 
 ⚠️ Mesmo não estando elencado neste rol, os **<span style="color:#fb4934">juízes de paz</span>** fazem parte do Poder Judiciário.
 
-![[Poder Judiciário.png]]
+![[Poder Judiciário-1.png]]
 
 **<span style="color:#fb4934">Saiba que</span>:**
 
