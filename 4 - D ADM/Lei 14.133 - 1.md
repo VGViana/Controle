@@ -162,6 +162,8 @@
 
 - **<span style="color:#b8bb26">Preferências para microempresas – ME e empresas de pequeno porte – EPP.</span>**
 
+![[Lei 14.133 - 1-8.png]]
+
 ## **3.6 Publicidade**
 
 - **Garantir** a possibilidade de **<span style="color:#83a598">participação</span>** e de **<span style="color:#83a598">fiscalização</span>** dos **atos da licitação;**
