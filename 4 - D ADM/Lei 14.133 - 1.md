@@ -41,7 +41,7 @@
 
 - **Administrações públicas <span style="color:#83a598">diretas, autárquicas e fundacionais</span>** (**<span style="color:#fb4934"><u>públicas ou privadas</u></span>**);
 - **Todos os <span style="color:#83a598">entes</span> da Federação** (União, estados, Distrito Federal e municípios).
-- **Órgãos dos poderes <span style="color:#83a598">Legislativo e Judiciário</span>** dos respectivos entes,no desempenho de **<span style="color:#83a598">função administrativa</span>**;
+- **Órgãos dos poderes <span style="color:#83a598">Legislativo e Judiciário</span>** dos respectivos entes, no desempenho de **<span style="color:#83a598">função administrativa</span>**;
 - **<span style="color:#83a598">Fundos especiais</span>** e as demais **<span style="color:#83a598">entidades controladas</span>** direta ou indiretamente **pela administração pública.**
 
 ## **2.1 Casos especiais**
