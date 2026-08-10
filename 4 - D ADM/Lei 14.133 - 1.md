@@ -6,7 +6,7 @@
 - **Aberto** aos interessados;
 - Apresentação de **propostas**;
 - Seleção da **proposta mais vantajosa** para a administração;
-- Celebração de um **contrato** para  obras, serviços, compras e alienações.
+- Celebração de um **contrato** para obras, serviços, compras e alienações.
 
 ![[Lei 14.133 - 1-1.png]]
 
