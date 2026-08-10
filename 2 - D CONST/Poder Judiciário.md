@@ -114,15 +114,15 @@ _III - aos Tribunais de Justiça julgar os juízes estaduais e do Distrito Feder
 STF - É inconstitucional que normas estaduais <u>limitem a idade dos magistrados para ingresso na carreira.</u>
 
 - **<span style="color:#d3869b">Inamovibilidade</span>** sem o consentimento do magistrado, inclusive nos casos de promoção - <span style="color:#fb4934">RESSALVADOS OS CASOS</span>:
-- **Interesse público**, ==e==
-- Decisão da **maioria absoluta,** respectivo Tribunal ou do CNJ - deve haver **ampla defesa**
+	- **Interesse público**, ==e==
+	- Decisão da **maioria absoluta,** respectivo Tribunal ou do CNJ - deve haver **ampla defesa**
 
 - **<span style="color:#d3869b">Vitaliciedade</span>**
-- garantia de que o magistrado não será destituído do cargo, salvo em caso de exoneração por **sentença judicial transitada em julgado**.
-- **1º Grau -** Após 2 anos de efetivo exercício;
-    - Antes de 2 anos: Perda do cargo - Deliberação do Tribunal a que está vinculado o magistrado;
-- **Magistrados nomeados para  os Tribunais (não são de carreira) -** **<span style="color:#83a598">QUINTO CONSTITUCIONAL</span>**
-    - Vitaliciedade automática - **NA POSSE**
+	- garantia de que o magistrado não será destituído do cargo, salvo em caso de exoneração por **sentença judicial transitada em julgado**.
+		- **1º Grau -** Após 2 anos de efetivo exercício;
+		    - Antes de 2 anos: Perda do cargo - Deliberação do Tribunal a que está vinculado o magistrado;
+	- **Magistrados nomeados para  os Tribunais (não são de carreira) -** **<span style="color:#83a598">QUINTO CONSTITUCIONAL</span>**
+	    - Vitaliciedade automática - **NA POSSE**
 
 **<span style="color:#fb4934">Atenção</span>** - pode haver perda do cargo por decisão do Senado Federal - casos de crime de responsabilidade - neste caso, não haverá uma decisão judicial para determinar a perda do cargo.
 
