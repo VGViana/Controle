@@ -160,24 +160,24 @@
     - comprovação em **<span style="color: #d79921">estudo técnico preliminar</span>**;
     - utilização de **<span style="color: #d79921">mão de obra, materiais, tecnologias e matérias-primas</span>** existentes no **<span style="color: #d79921">local</span>** da execução,  conservação e operação do **<span style="color: #d79921">bem, serviço ou obra.</span>**
 
-- **Preferências para microempresas – ME e empresas de pequeno porte – EPP.**
+- **<span style="color:#b8bb26">Preferências para microempresas – ME e empresas de pequeno porte – EPP.</span>**
 
 ## **3.6 Publicidade**
 
-- **Garantir** a possibilidade de **participação** e de **fiscalização** dos **atos da licitação;**
-- Qualidade de tornar o **procedimento público**;
-- **Não se confunde com a publicação** (**instrumento da publicidade**):
+- **Garantir** a possibilidade de **<span style="color:#83a598">participação</span>** e de **<span style="color:#83a598">fiscalização</span>** dos **atos da licitação;**
+- Qualidade de tornar o **<span style="color:#83a598">procedimento público</span>**;
+- **Não se confunde com a <span style="color:#83a598">publicação</span>** (**<span style="color:#83a598">instrumento da publicidade</span>**):
 - **Portal Nacional de Contratações Pública – PNCP**:
-    - **divulgação** **centralizada** e **obrigatória** dos atos exigidos na Lei de Licitações;
-    - **realização facultativa das contratações** pelos órgãos e entidades dos Poderes Executivo, Legislativo e Judiciário de todos os entes federativos.
-- **Atos** da licitação são **públicos**, **ressalvadas** as hipóteses de informações cujo **sigilo** seja **imprescindível à segurança da sociedade e do Estado**, _**na forma da lei**_.
-- **Publicidade** será **diferida**:
-    - **conteúdo das propostas**, até a respectiva abertura (**princípio do sigilo das propostas**);
-    - **orçamento** da administração, nas hipóteses previstas na Lei de Licitações (**sigilo do orçamento**).
+    - **<span style="color:#83a598">divulgação</span>** **<span style="color:#83a598">centralizada</span>** e **<span style="color:#83a598">obrigatória</span>** dos atos exigidos na Lei de Licitações;
+    - **<span style="color:#83a598">realização facultativa das contratações</span>** pelos órgãos e entidades dos Poderes Executivo, Legislativo e Judiciário de todos os entes federativos.
+- **Atos** da licitação são **<span style="color:#83a598">públicos</span>**, **<span style="color:#fb4934">ressalvadas</span>** as hipóteses de informações cujo **<span style="color:#fb4934">sigilo</span>** seja **<span style="color:#fb4934">imprescindível à segurança da sociedade e do Estado</span>**, _**<u>na forma da lei</u>**_.
+- **<span style="color:#83a598">Publicidade</span>** será **<span style="color:#83a598">diferida</span>**:
+    - **conteúdo das propostas**, até a respectiva abertura (**<span style="color:#83a598">princípio do sigilo das propostas</span>**);
+    - **orçamento** da administração, nas hipóteses previstas na Lei de Licitações (**<span style="color:#83a598">sigilo do orçamento</span>**).
 
 ## **3.7 Sigilo do orçamento**
 
-- Decisão **discricionária** / deve existir **justificativa**;
-- **Não prevalecerá para os órgãos de** **controle interno e externo**;
-- Administração deverá **divulgar** os **quantitativos** e informações **para formulação das propostas**;
-- No critério por **maior desconto**, o **preço estimado ou o máximo** aceitável constará do **edital** da licitação.
+- Decisão **<span style="color:#b8bb26">discricionária</span>** / deve existir **<span style="color:#b8bb26">justificativa</span>**;
+- **<span style="color:#fb4934">Não prevalecerá para os órgãos de</span>** **<span style="color:#fb4934">controle interno e externo</span>**;
+- Administração deverá **<span style="color:#b8bb26">divulgar</span>** os **<span style="color:#b8bb26">quantitativos</span>** e informações **para formulação das propostas**;
+- No critério por **<span style="color:#b8bb26">maior desconto</span>**, o **preço estimado ou o máximo** aceitável constará do **edital** da licitação.
