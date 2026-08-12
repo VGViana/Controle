@@ -1,0 +1,517 @@
+Não se pode confundir federação e confederação. 
+- ○ A <span style="color:#83a598">federação</span> é uma união indissolúvel de <span style="color:#83a598">entes autônomos</span>, que tem como fundamento uma Constituição.
+- ○ A <span style="color:#b8bb26">confederação</span> é uma reunião de <span style="color:#b8bb26">Estados soberanos</span>, baseada em um tratado internacional. 
+
+Em uma federação, os entes federativos são dotados de autonomia política, a qual se manifesta por meio de 4 (quatro) capacidades: 
+- Auto-organização
+- Autolegislação
+- Autoadministração
+- Autogoverno
+
+Características de uma federação: 
+- Repartição constitucional de competências.
+- Indissolubilidade do vínculo federativo. Em uma federação, <span style="color:#fb4934">**não há direito de secessão.**</span>
+- Nacionalidade única. 
+- <span style="color:#83a598">**Rigidez constitucional**</span>.
+- Existência de mecanismo de intervenção, a fim de se proteger o pacto federativo.
+- Existência de Tribunal federativo. No Brasil, os conflitos federativos envolvendo União e Estados são competência do STF.
+- Participação dos entes federativos na formação da vontade nacional. 
+
+O Poder Legislativo estadual é unicameral, sendo exercido pela Assembleia Legislativa. Os deputados estaduais são eleitos pelo sistema proporcional, para um mandato de 4 anos.
+- Segundo o art. 27, CF/88, “o número de Deputados à Assembleia Legislativa corresponderá ao triplo da representação do Estado na Câmara dos Deputados e, atingido o número de trinta e seis, será acrescido de tantos quantos forem os Deputados Federais acima de doze”. 
+
+Os subsídios do Governador, do Vice-Governador e dos secretários de Estado são fixados por lei, a partir de projeto apresentado pela Assembleia Legislativa. 
+
+Os Estados organizarão sua Justiça, observados os princípios da Constituição Federal. A competência dos tribunais será definida na Constituição do Estado sendo a lei de organização judiciária de iniciativa do Tribunal de Justiça. 
+
+Os Estados poderão, mediante <span style="color:#83a598">**lei complementar**</span>, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum (art. 25, § 3o, CF/88). 
+
+- Súmula Vinculante no 39: “Compete <u>privativamente à União</u> legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal”. 
+
+Em Municípios com <span style="color:#83a598">**mais de 200.000 eleitores**</span>, a eleição do Prefeito e Vice-Prefeito ocorrerá pelo <span style="color:#83a598">**sistema majoritário de 2 (dois) turnos.**</span> Em Municípios com <span style="color:#fb4934">**menos de 200.000 eleitores**</span>, a eleição se dará pelo sistema <span style="color:#fb4934">**<u>majoritário simples</u>**</span>. 
+
+# Julgamento do Prefeito: 
+
+- Nos crimes de competência da Justiça comum estadual, o Prefeito será processado e julgado pelo Tribunal de Justiça; 
+
+- Nos crimes eleitorais, a competência será do Tribunal Regional Eleitoral;
+
+- Nos crimes federais, a competência será do Tribunal Regional Federal;
+
+- Nos crimes de responsabilidade <span style="color:#83a598">**próprios**</span>, a competência para julgamento do Prefeito será da <span style="color:#83a598">**Câmara Municipal**</span>
+
+- Nos crimes de responsabilidade <span style="color:#fb4934">impróprios</span>, a competência para julgamento do Prefeito será do <span style="color:#fb4934">Poder Judiciário, independentemente do pronunciamento do Legislativo</span>.
+- Os <span style="color:#83a598">Vereadores</span> gozam de inviolabilidade por suas opiniões, palavras e votos (<span style="color:#83a598">imunidade material</span>) no exercício do mandato e na circunscrição do Município.
+
+_Art. 31, §§ 1º e 2º da Constituição Federal:_  
+>_Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei._  
+>>_§ 1º - O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver._  
+>>_§ 2º - O parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal._
+
+# Vereadores
+
+o máximo é de **55 vereadores** para municípios com **mais de 8 milhões de habitantes**
+
+
+| **Vereadores (até)** | **Habitantes**           |
+| -------------------- | ------------------------ |
+| 9                    | Até 15.000               |
+| 11                   | + 15.000 a 30.000        |
+| 13                   | + 30.000 a 50.000        |
+| 15                   | + 50.000 a 80.000        |
+| 17                   | + 80.000 a 120.000       |
+| 19                   | + 120.000 a 160.000      |
+| 21                   | + 160.000 a 300.000      |
+| 23                   | + 300.000 a 450.000      |
+| 25                   | + 450.000 a 600.000      |
+| 27                   | + 6000.000 a 750.000     |
+| 29                   | + 750.000 a 900.000      |
+| 31                   | + 900.000 a 1.050 milhão |
+| 33                   | + 1.050 a 1.2 milhão     |
+| 35                   | + 1.2 a 1.350 milhão     |
+| 37                   | + 1.350 a 1.5 milhão     |
+| 39                   | + 1.5 a 1.8 milhão       |
+| 41                   | + 1.8 a 2.4 milhões      |
+| 43                   | + 2.4 a 3 milhões        |
+| 45                   | + 3 a 4 milhões          |
+| 47                   | + 4 a 5 milhões          |
+| 49                   | + 5 a 6 milhões          |
+| 51                   | + 6 a 7 milhões          |
+| 53                   | + 7 a 8 milhões          |
+| 55                   | + de 8 milhões           |
+>Art. 29 (...)
+>VII - o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de **cinco por cento** da receita do Município;
+>VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subsequente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos:
+>>f) em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a setenta e cinco por cento do subsídio dos Deputados Estaduais;  
+
+> XIII - **iniciativa popular** de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, **cinco por cento do eleitorado;**
+
+> Art. 29-A (...)
+§1 o A Câmara Municipal não gastará mais de setenta por cento de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores.  
+
+# Alterações na estrutura da federação
+
+
+
+## Envolvendo Estados:
+
+> Art. 18 (...) § 3° Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do <u>Congresso Nacional</u>, por <u>lei complementar</u>.
+
+- A edição da lei complementar é ato discricionário do Congresso Nacional. Assim, mesmo que o resultado do plebiscito seja favorável, o Congresso Nacional não é obrigado a editar a lei complementar.
+- A expressão “população diretamente interessada” abrange toda a população do(s) Estado(s) afetado(s). 
+
+## Envolvendo Municípios:
+
+> Art. 18 (...) § 4° A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por <span style="color:#fb4934">lei estadual, dentro do período determinado por Lei Complementar Federal</span>, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. 
+
+- O art. 18, § 4o, CF/88, é norma de eficácia limitada, uma vez que é exigida a edição de lei complementar federal definindo o período dentro do qual podem ocorrer alterações federativas envolvendo Municípios.
+- Até hoje, a referida <span style="color:#fb4934">lei complementar não foi editada</span>, motivo pelo qual, atualmente, <span style="color:#fb4934">não podem ser criados novos Municípios</span> no Brasil.
+- A edição de <span style="color:#83a598">lei ordinária estadual é ato discricionário da Assembleia</span> Legislativa. 
+
+![[Alterações na estrutura das federações.png]]
+# Bens Públicos
+
+> Art. 20. São bens da União:
+>  I - os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos;
+>  II - as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções militares, das vias federais de comunicação e à preservação ambiental, definidas em lei; 
+>  III - os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem mais de um Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham, bem como os terrenos marginais e as praias fluviais; 
+>  IV - as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a sede de Municípios, exceto aquelas áreas afetadas ao serviço público e a unidade ambiental federal, e as referidas no art. 26, II; 
+>  V - os recursos naturais da plataforma continental e da zona econômica exclusiva; 
+>  VI - o mar territorial; 
+>  VII - os terrenos de marinha e seus acrescidos; 
+>  VIII - os potenciais de energia hidráulica; 
+>  IX - os recursos minerais, inclusive os do subsolo; 
+>  X - as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos; 
+>  XI - as terras tradicionalmente ocupadas pelos índios. (...) 
+
+> Art. 26. Incluem-se entre os bens dos Estados: 
+> I - as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas, neste caso, na forma da lei, as decorrentes de obras da União; 
+> II - as áreas, nas ilhas oceânicas e costeiras, que estiverem no seu domínio, excluídas aquelas sob domínio da União, Municípios ou terceiros; 
+> III - as ilhas fluviais e lacustres não pertencentes à União; 
+> IV - as terras devolutas não compreendidas entre as da União. 
+
+![[Bens Públicos.png]]
+
+
+
+**<span style="color:#83a598">Todos os entes federais são dotados de autonomia.</span>**
+
+- E para que esta fosse assegurada, **a CF/88 estabeleceu a repartição de competências** entre a União, Estados, DF e Municípios.
+- Nela, há matérias **<span style="color:#83a598">legislativas, administrativas e tributárias.</span>**
+
+Ainda, saiba que a repartição ocorreu regulada pelo **Princípio da Predominância do Interesse.**
+
+| ENTE FEDERATIVO  | INTERESSE        |
+| ---------------- | ---------------- |
+| União            | Geral            |
+| Estados-membros  | Regional         |
+| Municípios       | Local            |
+| Distrito federal | Regional + Local |
+
+Também, utiliza-se o **<span style="color:#83a598">Princípio da Subsidiariedade</span>** que estabelece que a competência deve ser do ente federativo mais próximo da tomada de decisões.
+
+**Repartição de competências e a Federação brasileira**
+
+- Competência **<span style="color:#b8bb26">Material ou Administrativa</span> = <span style="color:#b8bb26">Comum ou Exclusivas</span>;**
+- Competência **<span style="color:#83a598">Legislativa</span> = <span style="color:#83a598">Exclusiva, Privativa, Concorrente, Suplementar</span>.**
+
+Técnicas de Repartição:
+
+- **↔ <span style="color:#d3869b">Repartição Horizontal</span>** - cada ente possui suas **<span style="color:#fb4934">próprias competências</span>** para agir em áreas específicas, não havendo interferência de outros entes. Age-se isoladamente.
+    - CF/88: Competências Exclusivas e Competências Privativas.
+- **↑ <span style="color:#b8bb26">Repartição Vertical</span>** - os entes federativos **<span style="color:#fb4934">agem conjuntamente</span>**.
+    - CF/88: Competências Comuns e Competências Concorrentes.
+
+
+![[Repartição de competências.png]]
+
+![[Repartição de competencias na federação brasileira.png]]
+
+
+# **1. Competências Exclusivas da União**
+
+- manter relações com **Estados estrangeiros** e participar de **organizações internacionais**;
+- declarar a **<span style="color:#83a598">guerra</span>** e celebrar a **<span style="color:#83a598">paz</span>**;
+- assegurar a **defesa nacional;**
+- permitir que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente;
+- decretar o <span style="color:#83a598">estado de sítio</span>, o <span style="color:#83a598">estado de defesa</span> e a <span style="color:#83a598">intervenção federal</span>;
+- produção e o comércio de material bélico;
+
+	- **STF**: é <span style="color:#fb4934">inconstitucional lei estadual</span> que autorize a utilização, pelas polícias civil e militar, de armas de fogo apreendidas;
+	
+	- **STF**: é <span style="color:#fb4934">incompatível</span> com a Constituição Federal a concessão de porte de arma a procuradores estaduais por <span style="color:#fb4934">lei estadual</span>.
+
+- emitir **moeda**;
+- administrar as reservas cambiais do País e fiscalizar as operações de natureza financeira;
+
+	- **STF**: <span style="color:#fb4934">é inconstitucional lei estadual</span> que estabeleça a obrigatoriedade de utilização, pelas agências bancárias, de equipamento que ateste a autenticidade de cédulas.
+
+- elaborar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social;
+- manter serviço postal e o correio aéreo nacional;
+
+	- **STF**: <span style="color:#83a598">é constitucional</span> a atribuição de monopólio do serviço postal à Empresa Brasileira de Correios e Telégrafos.
+
+- explorar, **diretamente ou mediante autorização, concessão ou permissão**, os serviços de **telecomunicações**; 
+
+	- **STF**: É <span style="color:#fb4934">inconstitucional lei estadual ou distrital</span> que proíba as empresas de telecomunicações de cobrarem taxas para a instalação do segundo ponto de acesso à internet;
+	- É <span style="color:#fb4934">inconstitucional lei estadual ou distrital</span> que estabeleça a possibilidade de acúmulo das franquias de minutos mensais ofertados pelas operadoras de telefonia, determinando a transferência dos minutos não utilizados no mês de sua aquisição, enquanto não forem utilizados, para os meses subsequentes;
+	- É <span style="color:#fb4934">inconstitucional lei estadual</span> que determine que as empresas telefônicas criem ou mantenham um cadastro de assinantes interessados em receber ofertas de produtos ou serviços;
+	- É <span style="color:#fb4934">inconstitucional lei estadual</span> que obrigue empresas de telefonia móvel a instalarem equipamentos de bloqueio do serviço de celular em presídio;
+	- É <span style="color:#fb4934">inconstitucional norma estadual</span> que obrigue empresa privada de telefonia celular e instituição de ensino a garantir idênticos benefícios promocionais tanto aos novos clientes quanto aos antigos;
+	- É <span style="color:#fb4934">inconstitucional</span> — por violar a competência da União privativa para legislar sobre telecomunicações (art. 22, IV) e exclusiva para explorar esses serviços (art. 21, XI) — norma estadual que institua a obrigatoriedade de licenciamento ambiental para a instalação de Rede de Transmissão de Sistemas de Telefonia e de Estações Rádio Base (ERBs) e Equipamentos de Telefonia sem Fio em seu território local;
+
+- explorar, diretamente ou mediante autorização, concessão ou permissão:
+    - serviços de **radiodifusão sonora**, e de **sons** e **imagens**;
+    - **energia elétrica e o aproveitamento energético dos cursos de água**, em articulação com os Estados onde se situam os potenciais hidroenergéticos;
+    - navegação aérea, aeroespacial e a infra-estrutura aeroportuária;
+    - transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais;
+    - transporte rodoviário interestadual e internacional de passageiros;
+    - os portos marítimos, fluviais e lacustres;
+- organizar e manter o <u>Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios</u>;   
+
+⚠️Fique atento: <u>desde a Emenda Constitucional no 69/2012</u>, a <span style="color:#b8bb26">Defensoria Pública do DF</span> passou a ser organizada e mantida **<span style="color:#b8bb26">pelo próprio Distrito Federal</span>**.
+
+- polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal; 
+
+**<u>STF - Súmula Vinculante n. 39</u>:** “_compete privativamente <span style="color:#fb4934">à União</span> legislar sobre vencimentos dos <span style="color:#fb4934">membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal_</span>”.
+
+- organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional;
+- **exercer a classificação,** para efeito indicativo, de diversões públicas e de programas de rádio e televisão;
+- conceder **<span style="color:#83a598">anistia</span>**;
+
+	- **STF**: a <span style="color:#fb4934">Lei da Anistia</span>, que concedeu anistia àqueles que cometeram crimes durante a época da ditadura, <span style="color:#fb4934">é constitucional.</span>
+
+- planejar e promover a defesa permanente contra as calamidades públicas;
+- instituir sistema nacional de gerenciamento de recursos hídricos;        
+- instituir **diretrizes para o desenvolvimento urbano,** inclusive habitação, saneamento básico e transportes urbanos;
+- estabelecer princípios e diretrizes para o sistema nacional de viação;
+- executar os os serviços de polícia **marítima, aeroportuária e de fronteiras;**       
+- explorar os serviços e instalações **nucleares de qualquer natureza e exercer monopólio estatal** sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições:
+    - toda atividade nuclear em território nacional somente será admitida **para fins pacíficos e mediante aprovação do Congresso Nacional;**
+    - sob regime de **<span style="color:#b8bb26">permissão</span>**, são autorizadas a comercialização e a utilização de radioisótopos para pesquisa e uso agrícolas e industriais; 
+    - sob regime de **<span style="color:#b8bb26">permissão</span>**, são autorizadas a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos;   
+    - **a responsabilidade civil por danos nucleares <span style="color:#fb4934">independe da existência de culpa</span>**;        
+- organizar e manter a inspeção **do trabalho;**
+- **atividade de garimpagem**, em forma associativa.
+-  Organizar e fiscalizar a proteção **e o tratamento de dados pessoais,** nos termos da lei.
+
+# **2. Competências Privativas da União**
+
+- **👮<span style="color:#fe8019">CAPACETE de PM (é privativo)</span>;**
+- **C**: D. Civil: relações comerciais;**
+- **A**: D. Aeronáutico;**
+- **P**: D. Penal** **(penitenciário = concorrente);**
+- **A**: D. Agrário;**
+- **C**: D. Comercial ? empresarial;**
+- **E**: D. Eleitoral;
+- **T:** **D. Trabalho;**
+- **E**: D. Espacial;**
+- **P**: D. Processual** **(PROCEDIMENTOS é concorrente);**
+- **M**: D. Marítimo;**
+- Tudo relacionado a estabelecer **<span style="color:#fe8019">diretrizes</span>**, **<span style="color:#fe8019">bases</span>**, **<span style="color:#fe8019">normas gerais</span>**, etc;
+- **<span style="color:#fe8019">Trânsito</span>** **e** **<span style="color:#fe8019">transporte</span>;**
+- **<span style="color:#fe8019">Águas</span>**, **<span style="color:#fe8019">energia</span>**, **<span style="color:#fe8019">informática</span>**, **<span style="color:#fe8019">telecomunicações</span>;**
+- **<span style="color:#fe8019">Propaganda comercial</span>;**
+- **<span style="color:#fe8019">Serviço postal</span>;**
+- **<span style="color:#fe8019">Proteção e tratamento de dados pessoais</span>.**
+- Desapropriação
+
+
+**Cancelamento de multas de trânsito anotadas em rodovias estaduais em certo período relativas a determinada espécie de veículo. Inconstitucionalidade formal. <span style="color:#fb4934">Violação da competência privativa da União para legislar sobre trânsito e transporte.</span>**
+
+_Súmula Vinculante 46: A_ **_definição_** _dos_ **_<span style="color:#83a598">crimes de responsabilidade</span>_** **_e_** _o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa_ **_<span style="color:#83a598">privativa da União</span>_**_._
+
+_**Art. 22, CF/88**. Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo_.
+
+<span style="color:#fe8019">Observe que a delegação de competência privativa da União aos Estados depende de:</span>
+
+- Lei Complementar;
+- Matéria Específica;
+- Se houver delegação a um Estado, deve ser feita a todos os demais.
+
+# **3. Competências Comuns dos Entes Federativos**
+
+I - zelar pela guarda da Constituição, das leis e das instituições democráticas e conservar o patrimônio público;
+
+II - cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de deficiência;
+
+III - proteger os documentos, as obras e outros bens de valor histórico, artístico e cultural, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos;
+
+IV - impedir a evasão, a destruição e a descaracterização de obras de arte e de outros bens de valor histórico, artístico ou cultural;
+
+V - proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à inovação;
+
+VI - proteger o meio ambiente e combater a poluição em qualquer de suas formas;
+
+VII - preservar as florestas, a fauna e a flora;
+
+VIII - fomentar a produção agropecuária e organizar o abastecimento alimentar;
+
+IX - promover programas de construção de moradias e a melhoria das condições habitacionais e de saneamento básico;
+
+X - combater as causas da pobreza e os fatores de marginalização, promovendo a integração social dos setores desfavorecidos;
+
+XI - registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e exploração de recursos hídricos e minerais em seus territórios;
+
+XII - estabelecer e implantar **<span style="color:#fe8019">política de educação para a segurança do trânsito.</span>**
+
+Parágrafo único. Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.
+
+**STF**: é <span style="color:#fb4934">constitucional</span> a instituição, por lei municipal, de feriado local para a comemoração do **Dia da Consciência Negra, a ser celebrado em 20 de novembro**, em especial porque a data representa um símbolo de resistência cultural e configura ação afirmativa contra o preconceito racial.
+
+**STF**: <span style="color:#fb4934">é inconstitucional</span>, por invadir a competência municipal para legislar sobre assuntos de interesse local (CF/1988, art. 30, I e V), <span style="color:#fb4934">lei estadual</span> que concede, por período determinado, <span style="color:#fb4934"><u>isenção das tarifas de água e esgoto e de energia elétrica</u></span> aos consumidores residenciais, industriais e comerciais.
+
+- Verbos no **<span style="color:#b8bb26">INFINITIVO: proteger, preservar, combater, impedir</span>**, etc.
+- Cuidado que, apesar desses itens falarem em **<span style="color:#b8bb26">recursos hídricos e minerais</span>** e **<span style="color:#b8bb26">trânsito</span>**, <span style="color:#fb4934">não são competência somente da União</span>:
+	- **<span style="color:#fb4934">Registrar</span>**, **<span style="color:#fb4934">acompanhar</span>** e **<span style="color:#fb4934">fiscalizar</span>** as concessões de direitos de pesquisa e exploração de **<span style="color:#fb4934">recursos hídricos e minerais</span>** em seus <span style="color:#fb4934">territórios</span>;
+	- **<span style="color:#fb4934">Estabelecer</span>** e **<span style="color:#fb4934">implantar</span>** <span style="color:#fb4934">política de educação para a segurança no</span> **<span style="color:#fb4934">trânsito</span>**.
+
+# **4. Competências legislativas concorrentes**
+
+- **<span style="color:#b8bb26">Tri</span> - <span style="color:#d3869b">Fi</span> - <span style="color:#83a598">Penit</span> - <span style="color:#fe8019">Ec</span> - <span style="color:#fb4934">Ur</span> = CONCORRENTE**
+- **Financeiro**
+- **Econômico, Orçamento**
+- **Urbanístico**
+- **Tributário**
+- **Penitenciário**
+- **Produção** e **Consumo**
+- **Proteção à infância** e à **juventude**
+- Compete à **União**, aos **Estados** e ao Distrito Federal **legislar concorrentemente** X,Y,Z...
+- **limitando-se a União a estabelecer normas gerais**
+- **e cabendo aos Estados exercer competência suplementar.**
+
+👉No âmbito da **legislação concorrente**, **inexistindo lei federal sobre normas gerais**, os **Estados** exercerão a **competência legislativa plena**, para atender a suas peculiaridades.
+
+- Entretanto, a **superveniência** de **lei federal sobre normas gerais <span style="color:#fb4934">SUSPENDE</span>** **a eficácia da lei estadual (não revoga)**, no que lhe for contrário.
+
+**Comparativos Principais**
+
+- **<span style="color:#d3869b">CAP</span>** **-** **<span style="color:#b8bb26">C</span><span style="color:#fe8019">PC</span>**
+- **<span style="color:#d3869b">União</span>: <span style="color:#d3869b">C</span>oncessão,** **<span style="color:#d3869b">A</span>utorização e** **<span style="color:#d3869b">P</span>ermissão [3]**
+- **<span style="color:#b8bb26">Estados</span>:** **<span style="color:#b8bb26">C</span>oncessão [1]**
+- **<span style="color:#fe8019">Municípios</span>: <span style="color:#fe8019">C</span>oncessão e** **<span style="color:#fe8019">P</span>ermissão [2]**
+
+---
+- **Meio ambiente:**
+- **<span style="color:#b8bb26">Combater, proteger... = comum</span>**
+- **<span style="color:#fe8019">Legislar sobre a proteção = concorrente</span>**
+- **<span style="color: #d79921">Legislar sobre a responsabilidade = concorrente</span>**
+
+---
+- **SS X PREVIDÊNCIA:**
+- **<span style="color:#d3869b">Seguridade Social = UNIÃO ? Seguridade = saúde + assistência social + previdência</span>**
+- **<span style="color: #d79921">Previdência = CONCORRENTE*</span>*
+
+---
+- **TRANSPORTE**
+- **<span style="color:#d3869b">Transporte União</span>:**
+- **<span style="color:#d3869b">legislar sobre transporte coletivo interestadual</span>**
+- **<span style="color:#d3869b">diretrizes de desenvolvimento urbano, habitação, saneamento básico e transportes URBANOS</span>**
+- **<span style="color:#d3869b">Privativa à União (legislar)</span>**
+- **<span style="color:#d3869b">Trânsito e transporte</span>**
+
+---
+- **<span style="color:#b8bb26">Transporte Estado:</span>**
+- **<span style="color:#b8bb26">legislar sobre transporte coletivo</span>** **<span style="color: #d79921"><u>intermunicipal</u></span>**
+- **<span style="color:#b8bb26">instituição de regras para meia-passagem, em transportes coletivos</span>** **<span style="color: #d79921"><u>intermunicipais</u></span>.**
+---
+- **<span style="color:#fe8019">Transporte: Municípios</span>:**
+- **<span style="color:#fe8019">legislar sobre transporte coletivo</span>** **<span style="color: #d79921">local</span>**
+
+---
+- **TRABALHO, COMÉRCIO, PRODUÇÃO E CONSUMO**
+- **<span style="color:#d3869b">Direito do trabalho = UNIÃO</span>**
+- **<span style="color:#d3869b">Direito comercial (empresarial) = UNIÃO</span>**
+- **<span style="color: #d79921">Produção e consumo = CONCORRENTE</span>**
+
+---
+- **INFORMÁTICA X TECNOLOGIA**
+- **<span style="color:#d3869b">Informática = UNIÃO</span>**
+- **<span style="color: #d79921">Tecnologia = CONCORRENTE</span>**
+- **<span style="color:#b8bb26">Proporcionar meios de acesso à TECNOLOGIA</span>** **= <span style="color:#b8bb26">COMUM</span>**
+
+**<span style="color:#fb4934">CUIDADO</span>:**
+
+Definição do **tempo máximo de espera** de clientes em filas de **instituições** **bancárias** é competência dos **Municípios**.
+
+**<u>STJ Súmula 19</u>**: _A fixação do_ **_horário bancário_**_, para atendimento ao público, é da competência da_ **_União_**.
+
+**<u>STF</u>** **<u>Súmula 646</u>**: **_Ofende_** _o princípio da livre concorrência_ **_lei municipal_** _que_ **_impede a instalação_** _de estabelecimentos comerciais do_ **_mesmo ramo em determinada área_**_._
+
+**<u>STF</u>**: É **inconstitucional lei municipal** que, na **competência legislativa concorrente**, utilize-se do argumento do interesse local para **restringir ou ampliar** as determinações contidas em texto normativo de âmbito nacional.
+
+# **5. Competências dos Estados e do Distrito Federal**
+
+_Art. 25.§ 1º, CF/88 São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição._ **(Competência residual)**
+
+_Art. 25.§ 2º, CF/88 Cabe aos Estados explorar diretamente, ou mediante_ **<span style="color:#83a598">_concessão_</span>**_, <span style="color:#83a598">os</span>_ **_<span style="color:#83a598">serviços locais de gás canalizado</span>_**_, na forma da lei,_ **<span style="color:#fe8019"><u>_vedada a edição de medida provisória para a sua regulamentação.</u></span>_**      
+
+_Art. 25.§3º, CF/88 Os Estados poderão, mediante_ **_lei complementar,_** _instituir_ **_regiões metropolitanas_**_, aglomerações urbanas e microrregiões, constituídas por agrupamentos de_ **_municípios limítrofes_**_, para integrar a organização, o planejamento e a_ **_execução de funções públicas de interesse comum._**
+
+- Distrito Federal - competência dos Municípios e Estados, exceto:
+- Manter o Poder Judiciário - Compete à União.
+
+# **6. Competências dos Municípios**
+
+- Competência exclusiva - interesse local;
+- Competência suplementar - suplementar lei federal ou estadual quando possível.
+
+_Art. 30. Compete aos Municípios:_
+
+_I - legislar sobre assuntos de_ **_interesse local;_**
+
+_II -_ **_suplementar a legislação federal e a estadual_** _no que couber;_
+
+_III - instituir e arrecadar os_ **_tributos de sua competência_**_, bem como aplicar suas rendas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei;_
+
+_IV - criar, organizar e suprimir_ **_distritos_**_,_ **_observada a legislação estadual;_**
+
+_V - organizar e prestar, diretamente ou sob r_**_egime de concessão ou permissão, os serviços públicos de interesse local_**_, incluído o de transporte coletivo, que tem caráter essencial;_
+
+_VI - manter, com a cooperação técnica e financeira da União e do Estado, programas de_ **_educação infantil e de ensino fundamental;_**
+
+_VII - prestar, com a cooperação técnica e financeira da União e do Estado,_ **_serviços de atendimento à saúde da população;_**
+
+_VIII - promover, no que couber, adequado ordenamento territorial, mediante p_**_lanejamento e controle do uso, do parcelamento e da ocupação do solo urbano;_**
+
+_IX - promover a_ **_proteção do patrimônio histórico-cultural local,_** _observada a legislação e a ação fiscalizadora federal e estadual._
+
+**<span style="color:#fb4934"><u>Jurisprudência Importantes</u></span>:**  
+
+STF - A iniciativa de leis que versem sobre matéria tributária é concorrente entre o chefe do Poder Executivo e os membros do Legislativo. A circunstância de as leis que versem sobre matéria tributária poderem repercutir no orçamento do ente federado não conduz à conclusão de que sua iniciativa é privativa do chefe do Executivo" .
+
+Súmula Vinculante nº 46, **“<span style="color:#83a598">a definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União</span>.”**
+
+STF -  **<span style="color:#fb4934">inconstitucional</span>** a lei distrital ou estadual que disponha sobre **<span style="color:#83a598">condições do exercício ou criação de profissão, sobretudo quando esta diga respeito à segurança de trânsito.</span>**
+
+STF - **<span style="color:#fb4934">inconstitucional</span>** lei estadual que **<span style="color:#83a598">limita o valor das quantias cobradas pelo uso de estacionamento.</span>** A inconstitucionalidade da lei estadual **<span style="color: #d79921">se deve ao fato de que é competência privativa da União legislar sobre direito civil</span>.**
+
+STF - **<span style="color:#fb4934">inconstitucional</span>** lei estadual que dispõe sobre **<span style="color:#83a598">atos de juiz, direcionando</span>** **sua atuação em face de situações específicas.** Isso porque **<span style="color: #d79921">compete privativamente à União legislar sobre direito processual</span>.**
+
+STF - **<span style="color:#fb4934">inconstitucional</span>** lei estadual que disciplina o **<span style="color:#83a598">valor que deve ser dado a uma causa.</span>** Novamente, a razão para isso é o fato de que a **<span style="color: #d79921">União tem competência privativa para legislar sobre direito processual</span>.**
+
+STF - **<span style="color:#fb4934">inconstitucional</span>** lei estadual que impõe a **<span style="color:#83a598">obrigatoriedade da prestação de serviço de segurança em estacionamento</span>.** A inconstitucionalidade se deve ao fato de que é **<span style="color: #d79921">competência privativa da União legislar sobre direito civil.</span>**
+
+STF - Súmula Vinculante nº 38. o Município é competente para fixar o horário de funcionamento de estabelecimento comercial Esse entendimento também abrange drogarias, farmácias e plantões obrigatórios destes.
+
+STF - Município é competente para, dispondo sobre a segurança de sua população, impor a estabelecimentos bancários a obrigação de instalarem portas eletrônicas, com detector de metais, travamento e retorno automático e vidros à prova de balas.
+
+**<span style="color:#fb4934">STF - fixação do horário de funcionamento das agências bancárias, por estar relacionado ao sistema financeiro nacional, extrapola o interesse local.</span>** Portanto, não é de competência dos Municípios**.**
+
+**<span style="color:#83a598">STF - Município é competente para legislar sobre</span>** **<span style="color:#83a598">limite de tempo de espera em fila dos usuários dos serviços prestados pelos cartórios localizados no seu respectivo território, sem que isso represente ofensa à competência privativa da União para legislar sobre registros públicos</span>.** **<span style="color:#83a598">Também entende a Corte que o Município possui competência para legislar sobre tempo de atendimento em filas nos estabelecimentos bancários, tratando-se de assunto de interesse local, o que não se confunde com a atividade-fim do banco</span>.**
+
+**<span style="color:#83a598">Constitucional</span>** lei estadual que concede **“<span style="color: #d79921">meia passagem” aos estudantes nos transportes coletivos intermunicipais.</span>** Já no caso de serviço de **transporte local,** a competência para dispor a respeito é da **legislação municipal**.
+
+**<span style="color:#fb4934">Inconstitucional</span>** lei municipal que **<span style="color:#83a598">obriga ao uso de cinto de segurança e proíbe transporte de menores de 10 anos no banco dianteiro dos veículos</span>**, **<span style="color: #d79921">por ofender à competência privativa da União Federal para legislar sobre trânsito (CF, art. 22, XI)</span>**
+
+Súmula Vinculante nº 49 - **<span style="color:#fb4934">Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área</span>.**
+
+STF - É **comum** aos poderes Executivo **(decreto)** e Legislativo **(lei formal)** a competência destinada a denominação de próprios, vias e logradouros públicos e suas alterações, cada qual no âmbito de suas atribuições.
+
+STF - Município é competente para **<span style="color:#83a598">legislar sobre meio ambiente, <u>desde que haja interesse local</u></span>.**
+
+A <span style="color:#fb4934">**União detém competência para legislar sobre as normas gerais de licitação**</span>, podendo os Estados e Municípios legislar sobre o tema para complementar as normas gerais e adaptá-las às suas realidades.
+Assim, <span style="color:#d3869b">**lei municipal pode proibir que os agentes políticos do município (e seus parentes) mantenham contrato com o Poder Público municipal.**</span>
+# **<u>Intervenção Federal, Estadual e Controle da Intervenção</u>**
+
+-Presidente da República **decreta;**
+
+-Apenas nos casos **taxativos.**
+
+- **<span style="color:#83a598"><u>ESPONTÂNEA</u></span>** **<span style="color: #d79921">União</span> >>** **<span style="color:#d3869b"><u>Estados</u></span>**
+
+**Integridade, Invasão, Grave, Finanças**
+
+- **<span style="color:#83a598">Reorganizar</span>** **as** **<span style="color:#83a598">finanças</span>** **do Estado**
+- **<span style="color:#fb4934">Suspender</span>** **o pagamento de dívida fundada por mais de** **<span style="color:#fb4934">2 anos seguidos</span>,** **<u>salvo motivo de força maior</u>;**
+- **<span style="color:#fb4934">Não</span>** **entregar aos Municípios no prazo legal a** **<span style="color:#fb4934">receita tributária</span>**
+- **Manter a** **<span style="color:#83a598">integridade nacional</span>**
+- **Repelir** **<span style="color:#83a598">invasão estrangeira ou de um Estado no outro</span>;**
+- **Por fim a** **<span style="color:#fb4934">grave</span>** **<span style="color:#83a598">comprometimento da Ordem da República</span>**
+
+- **<span style="color:#b8bb26"><u>PROVOCADA</u></span>** **<span style="color: #d79921">União</span> >>** **<span style="color:#d3869b"><u>Estados</u></span>**
+- **Assegurar os** **<span style="color:#b8bb26">Princípios Sensíveis</span>** **(ensino, saúde, autonomia, direitos, forma rep...)**
+- **Garantir o** **<span style="color:#b8bb26">livre exercício</span>** **de qualquer dos Poderes, DEPENDE:**
+	- **De** **<span style="color: #d79921">solicitação</span>** **do Poder Legislativo ou do Poder Executivo coacto ou impedido;**
+	- **De** **<span style="color:#fb4934">requisição</span>** **do STF se a coação for contra o Poder Judiciário.**
+- **<span style="color:#b8bb26">Promover</span>** **a execução de** **<span style="color:#b8bb26">lei federal ou decisão judicial</span>**
+
+**<span style="color: #d79921">Atenção</span>**: No caso de **desobediência de decisão judicial** - **<span style="color:#fb4934">depende</span>** **<u>requisição</u> do STF, STJ ou TSE.**
+
+**<span style="color: #d79921">Atenção</span>**: Para **assegurar princípios constitucionais sensíveis ou no caso de recusa a execução de lei federal** - **<span style="color:#fb4934">depende</span>** de **<u>provimento</u> pelo STF, de <u>representação</u> do PGR**
+
+- **Intervenção** **<span style="color:#d3869b"><u>Estados</u></span>>>** **<span style="color:#83a598">Municípios</span>**
+- **<span style="color:#d3869b">Governador Decreta</span>**
+- **Município parar de pagar por** **<span style="color:#d3869b">2 anos seguidos</span>** **a dívida fundada**
+- **Município** **<span style="color:#d3869b">não prestar contas</span>** **na forma da lei**
+- **Município** **<span style="color:#d3869b">não aplica</span>** **o mínimo exigido de receita municipal na** **saúde e no ensino**
+- **Para assegurar os** **<span style="color:#d3869b">princípios da Constituição Estadual</span> >>** **DEPENDE: provimento do TJ e representação do PGJ**
+- **Promover a** **<span style="color:#d3869b">execução de lei, ordem ou decisão judicial</span> >>** **DEPENDE: provimento do TJ e representação do PGJ**
+
+![[intervenção.png]]
+
+![[intervenção 2.png]]
+
+![[intervenção federal.png]]
+
+![[intervenção federal 2.png]]
+
+![[intervenção federal 3.png]]
+
+![[Intervenção estadual.png]]
+
+
+
+---
+
+## Navegação — Wikipedia dos Estudos
+
+- [[Direito Constitucional]]
+- [[00 - Wikipedia dos Estudos]]
+
+### Relacionadas
+- [[Da organização da Administração Pública]]
+- [[Direitos Fundamentais]]
+- [[Processo Legislativo]]
+- [[Princípios da Administração Pública]]
+- [[Administração Pública — organização]]
