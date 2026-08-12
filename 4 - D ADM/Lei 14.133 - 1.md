@@ -184,3 +184,88 @@
 - Administração deverá **<span style="color:#b8bb26">divulgar</span>** os **<span style="color:#b8bb26">quantitativos</span>** e informações **para formulação das propostas**;
 - No critério por **<span style="color:#b8bb26">maior desconto</span>**, o **preço estimado ou o máximo** aceitável constará do **edital** da licitação.
 
+## **3.8 Eficiência**
+
+- Gerar **resultados positivos** à população;
+- **Relação** entre os **<span style="color:#b8bb26">custos</span>** (insumos) e o **<span style="color:#b8bb26">produto</span>**.
+
+## **3.9 Economicidade**
+
+- **Minimização <span style="color:#b8bb26">de custos</span>**, **<span style="color:#fb4934">sem o comprometimento</span>** dos padrões de **<span style="color:#b8bb26">qualidade</span>**.
+
+## **3.10 Eficácia**
+
+- **Cumprimento** dos **<span style="color:#fb4934">objetivos</span>** da administração.
+
+## **3.11 Planejamento**
+
+- **<span style="color: #d79921">Planejamento</span>** da **contratação**;
+- Fase **preparatória**;
+- **<span style="color: #d79921">Plano de contratações anual</span>:**  
+    - **racionalizar** as contratações;
+    - garantir o **alinhamento** com o **<span style="color: #d79921">planejamento estratégico</span>**; 
+    - subsidiar a **elaboração** das respectivas **<span style="color: #d79921">leis orçamentárias</span>**.
+- **<span style="color: #d79921">Estudo técnico preliminar – ETP:</span>**
+    - documento constitutivo da **primeira etapa do planejamento** de uma contratação para analisar a **<span style="color: #d79921">viabilidade da contratação</span>**.
+
+## **3.12 Segregação de funções**
+
+- **Separação de funções** de **<span style="color:#b8bb26">autorização, aprovação, execução, controle e contabilização</span>** das operações, **evitando o acúmulo de funções mais suscetíveis a riscos** em um **mesmo servidor.**
+
+## **3.13 Motivação**
+
+- Indicação dos **<span style="color:#d3869b">pressupostos de fato e de direito</span>** que levaram a administração a tomar determinada decisão.
+
+## **3.14 Vinculação ao edital**
+
+- **Regras** definidas no **<span style="color:#d3869b">edital</span>** da licitação;
+- **<span style="color:#d3869b">Edital</span>** é a **lei interna** da licitação;
+- **<span style="color:#d3869b">Edital</span>** deverá **conter**:  
+    - **<span style="color:#d3869b">objeto</span>** da licitação
+    - **<span style="color:#d3869b">convocação</span>**;
+    -  **<span style="color:#d3869b">julgamento e habilitação</span>**;
+    - **<span style="color:#d3869b">recursos e penalidades</span>** da licitação;
+    - **<span style="color:#d3869b">fiscalização</span>** e **<span style="color:#d3869b">gestão</span>** do contrato;
+    - **<span style="color:#d3869b">entrega</span>** do objeto; e 
+    - condições de **<span style="color:#d3869b">pagamento</span>**.
+
+## **3.15 Julgamento objetivo**
+
+- **<span style="color:#d3869b">Relaciona-se</span>** com **impessoalidade, a legalidade e a vinculação ao edital**;
+- **<span style="color:#d3869b">Critérios</span>** de julgamento;
+- **<span style="color:#d3869b">Princípio da vedação a oferta de vantagens</span>**:
+    - **<span style="color:#fb4934">não poderá admitir</span>**, na licitação, a apresentação de **ofertas** e **benefícios <span style="color:#fb4934">não contemplados no edital</span>**
+
+## **3.16 Segurança jurídica**
+
+- **<span style="color:#fb4934">Estabilidade</span>** das **relações jurídicas** constituídas;
+- **Fixação de entendimentos.**
+
+## **3.17 Razoabilidade e da proporcionalidade**
+
+- **<span style="color:#fb4934">Vedação</span>** aos **excessos**;
+- **<span style="color:#b8bb26">Correlação</span>** entre os **meios** e os **fins**.
+
+## **3.18 Celeridade**
+
+- Licitação pública deverá ser realizada dentro de **<span style="color:#fb4934">prazo razoável</span>**;
+- **<span style="color:#fb4934">Julgamento</span>** **antes** da **<span style="color:#fb4934">habilitação</span>**;
+- **Licenciamentos ambientais** de obras e serviços de engenharia terão **prioridade** de tramitação nos órgãos  e entidades integrantes do **<span style="color:#fb4934">Sistema Nacional do Meio Ambiente</span>** (Sisnama).
+
+## **3.19 Desenvolvimento nacional sustentável**
+
+- **<span style="color:#83a598">Resguardar</span>** o **<span style="color:#83a598">desenvolvimento nacional sustentável</span>** sob as **perspectivas econômicas e ambientais**.
+- **<span style="color:#83a598">Flexibiliza</span>** a aplicação do **princípio da isonomia** (contratações que atendem a **<span style="color:#83a598">outros critérios além do preço</span>**)
+- **Anteprojetos** de engenharia e os **projetos básicos** deverão considerar:
+    - **<span style="color:#83a598">impacto ambiental</span>;**
+    - medidas mitigadoras.
+- **<span style="color:#83a598">Margem de preferência.</span>**
+
+## **3.20 Adjudicação compulsória**
+
+- **<span style="color:#fe8019">Ato</span>** da autoridade superior que **atribui o objeto ao vencedor do certame**.
+- **<span style="color:#fb4934">Não garante a celebração do contrato</span>**.
+
+## **3.21 Formalismo moderado**
+
+- **<span style="color:#fb4934">Desatendimento de exigências meramente formais</span>** que **<span style="color:#fb4934">não comprometam</span>** a aferição da **qualificação do licitante ou** a compreensão do **conteúdo de sua proposta <span style="color:#fb4934">não</span>** **<span style="color:#fb4934">importará seu afastamento da licitação ou a invalidação do processo.</span>**
