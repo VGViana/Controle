@@ -1,0 +1,10 @@
+atribui número aos grupos e às contas do [[5. BP]] e [[6. DRE]], facilitando a contabilidade mecanizada e eletrônica
+
+---
+
+## Navegação — Wikipedia dos Estudos
+
+- [[00 - Wikipedia dos Estudos]]
+- [[Contabilidade]]
+- [[Patrimônio]]
+- [[Demonstrações Contábeis]]

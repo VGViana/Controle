@@ -1,0 +1,10 @@
+Bens incorpóreos, sem corpo
+
+---
+
+## Navegação — Wikipedia dos Estudos
+
+- [[00 - Wikipedia dos Estudos]]
+- [[Contabilidade]]
+- [[Patrimônio]]
+- [[Demonstrações Contábeis]]
