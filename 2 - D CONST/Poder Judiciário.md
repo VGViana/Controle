@@ -140,3 +140,202 @@ STF - É inconstitucional que normas estaduais <u>limitem a idade dos magistrado
     - Pessoa física ou entidades públicas ou privadas, <span style="color:#fb4934">ressalvado as exceções em lei.</span>
 - Exercer advocacia - "quarentena" a**ntes de 3 anos** de afastamento do juízo ou tribunal que exercia suas atividades.
 
+# **3. Estatuto da Magistratura**
+
+- Organiza o Poder Judiciário: deve ser estabelecido através de Lei Complementar, de iniciativa do STF.
+    - Até o momento, essa lei complementar não foi editada, motivo pelo qual o Estatuto da Magistratura é definido por uma lei complementar editada antes da CF/88: a Lei Complementar no 35/1979 (Lei Orgânica da Magistratura).
+
+- ==Jurisprudências destacadas==:
+    - É inconstitucional — por violar a competência da União para dispor sobre a magistratura brasileira — norma estadual que cria nova vantagem remuneratória (benefício de permanência em atividade) para os magistrados do Poder Judiciário local [ADI 2952/RJ, Rel. Min. Gilmar Mendes, julgamento virtual finalizado em 31.3.2023, às 23:59].  
+        
+    - É inconstitucional, por disciplinar matéria concernente ao Estatuto da Magistratura, norma estadual que prevê a adoção do maior tempo de serviço público como critério de desempate para a promoção de magistrados [ADI 6772/AL, Rel. Min. Edson Fachin, julgamento virtual finalizado em 23.9.2022, às 23:59].  
+        
+    - É inconstitucional norma estadual que impõe a necessidade de prévia autorização do órgão colegiado do tribunal competente para prosseguir com investigações que objetivam apurar suposta prática de crime cometido por magistrado [ADI 5331/MG, Rel. Min. Rosa Weber, redator do acórdão Min. Roberto Barroso, julgamento virtual finalizado em 3.6.2022, às 23:59].
+
+## **3.1 Ingresso na Carreira**
+
+- <span style="color:#d3869b">Concurso público de <u>provas e títulos</u></span>, devendo haver **participação da OAB em todas as fases**
+- No mínimo, <span style="color:#d3869b">3 anos de atividade jurídica</span>
+
+**⚠️<span style="color:#fb4934">Atenção</span>**: o <u>termo que inicia a contagem dos 3 anos</u> de atividade jurídica dar-se **a <span style="color:#b8bb26">partir da conclusão do curso de Direito</span>,** portanto, atividades de estágio não servem para esta contagem de tempo.
+
+**⚠️<span style="color:#fb4934">Atenção</span>**: a <u>comprovação dos 3 anos de atividade jurídica</u> ocorrerá no **<span style="color:#b8bb26">momento da inscrição definitiva no concurso.</span>**
+
+## **3.2 Promoção**
+
+- entrância para entrância;
+    - antiguidade e merecimento, alternadamente;
+- **requisitos**:
+    - **<span style="color:#d3869b">Promoção obrigatória</span>** - 3 vezes consecutivas ou 5 alternadas na lista de merecimento
+    - **<span style="color:#d3869b">Promoção por merecimento</span>** - 2 anos de exercício na entrância + fazer parte do primeiro quinto da lista de antiguidade - no caso de não haver outro que atenda aos requisitos e aceite o cargo vago
+
+**⚠️<span style="color:#fb4934">Atenção</span>** - na promoção por antiguidade - <span style="color:#fb4934">apenas pode haver a recusa do tribunal</span> ao juiz mais antigo, caso haja votação fundamentada com quórum de 2/3 dos membros.
+
+**⚠️<span style="color:#fb4934">Atenção</span>** - O juiz que <span style="color:#fb4934">retiver os autos além do prazo legal</span> previsto não será promovido!
+
+**⚠️<span style="color:#fb4934">Atenção</span>** - O <span style="color:#b8bb26">acesso aos tribunais de segundo grau</span> far-se-á por **antiguidade e merecimento**, alternadamente, apurados na última ou única entrância.
+
+## **3.3 Estrutura Remuneratória**
+
+- Subsídio - parcela única.
+- Tribunais Superiores - 95% do subsídio mensal do STF.
+- Demais magistrados - será fixado em lei - não pode ultrapassar 95% do subsídio mensal dos membros dos Tribunais Superiores.
+    - **<u>STF</u>** - julgou ser inconstitucional o limite estabelecido aos membros da magistratura estadual - **<span style="color:#fe8019">não pode o teto da magistratura estadual ser inferior ao da federal</span>** - não há o limite de 90,25% do subsídio do STF à magistratura estadual.
+
+## **3.4 Sanções Disciplinares aplicáveis aos juízes**
+
+- remoção de ofício;
+- disponibilidade;
+- o ato de remoção ou de disponibilidade do magistrado, por interesse público, fundar-se-á em **decisão por voto da maioria absoluta** do respectivo tribunal ou do Conselho Nacional de Justiça, assegurada ampla defesa.
+
+A Reforma da Previdência <span style="color:#fb4934">excluiu</span> do texto constitucional a previsão de <span style="color:#83a598">aposentadoria compulsória como forma de sanção disciplinar dos magistrados.</span>
+
+- Essa sanção ainda está prevista em legislação infraconstitucional.
+
+## **3.5 Aposentadoria**
+
+- As regras relativas à aposentadoria e pensão aplicáveis aos magistrados são aquelas que estão consubstanciadas no regime próprio de previdência social dos servidores públicos. **RPPS.**
+
+## **3.6 Residência na Comarca**
+
+- o juiz titular residirá na **respectiva comarca**, salvo autorização do tribunal. Assim, a residência fora do local onde exerce suas atividades da magistratura é situação excepcional, admitida somente depois de autorizado pelo tribunal.
+
+## **3.7 Julgamentos do Poder Judiciário**
+
+- Devem ser públicos;
+- As decisões devem ser fundamentadas.
+
+## **3.8 Ininterruptabilidade de Jurisdição**
+
+XII - a **<span style="color:#fb4934">atividade jurisdicional será ininterrupta</span>,** sendo vedado férias coletivas nos juízos e tribunais de segundo grau, funcionando, nos dias em que não houver expediente forense normal, juízes em plantão permanente.
+
+**<span style="color:#fb4934">Não pode</span>** haver férias coletivas em <u>juízos e tribunais de 2º grau.</u>
+
+CNJ - Indevidas as férias coletivas dos servidores do TJ.
+
+- Quantitativo de juízes será **<span style="color:#d3869b">proporcional</span>** à efetiva demanda e à respectiva população da unidade jurisdicional;
+- Atos de mero expediente **<span style="color:#d3869b">NÃO</span>** tem caráter decisório;
+- Distribuição **<span style="color:#d3869b">IMEDIATA</span>** dos processos.
+
+**🚨Atenção**!
+
+- **<span style="color:#fe8019">Órgão Especial - órgãos fracionários</span>**
+- Exercerá funções administrativas e jurisdicionais
+
+_Art. 93, XI, CF/88. - nos tribunais com_ **<span style="color:#fe8019">_número superior a vinte e cinco julgadores</span>,_** _poderá ser constituído_ _==órgão especial==,_ _com o_ **_mínimo de onze e o máximo de vinte e cinco membros_**_, para o_ _exercício das_ **_atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno_**_, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo tribunal pleno._
+
+## **3.9 Quinto Constitucional**
+
+_Art. 94, CF/88. Um quinto dos lugares dos_ **_<span style="color:#fe8019">Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal_</span>** _e Territórios será_ **_<span style="color:#b8bb26">composto de membros do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes.</span>_**
+
+_Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação._
+
+**Indicações**:
+
+- Tribunal elabora lista tríplice;
+- Envia ao Executivo;
+- Escolherá um dos integrantes da lista para nomeação.
+
+**Composição**:
+
+- Membros do MP -> + de 10 anos de carreira;
+- Advogados;
+- Indicados em lista sêxtupla pelos órgãos de representação das respectivas classes;
+- Notório saber jurídico e reputação ilibada;
+- + de 10 anos de carreira.
+
+**<span style="color:#fb4934">Não seguem a regra do quinto Constitucional:</span>**
+
+- STF, TSE, TRE, STM, STJ (1/3 nesse caso)
+
+==Entendimentos:==
+
+- Se o quinto do membros não resultar em número inteiro, o arredondamento será feito para cima;
+- o Tribunal poderá recusar o nome de alguns dos indicados na lista sêxtupla a ele enviada.
+    - **NÃO** pode substituir nenhum dos nomes.
+
+## **3.10 Cláusula de reserva de plenário (ou “full bench”)**
+
+**ATENÇÃO**! Decore tanto o art. 97 da CF/88, como a súmula vinculante 10, ambos possuem alta incidência em provas.
+
+_Art. 97, CF/88. Somente pelo_ **_<span style="color:#d3869b">voto da maioria absoluta de seus membros</span>_** _ou dos membros do respectivo órgão especial poderão os tribunais_ **_<span style="color:#d3869b">declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.</span>_**
+
+**⚠️<span style="color:#fe8019">Súmula Vinculante 10</span>** - Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
+
+Apenas pode declarar a Inconstitucionalidade por voto de **<span style="color:#fb4934">MAIORIA ABSOLUTA.</span>**
+
+**NÃO** pode afastar incidência de norma, mesmo não a declarando inconstitucional (o que seria um artifício para burlar o art. 97) sem haver aprovação da maioria absoluta dos membros.
+
+## **3.11 Justiça de Paz / Juizados Especiais**
+
+Assunto com pouca incidência, leia o artigo abaixo:
+
+_Art. 98, CF/88. A União, no Distrito Federal e nos Territórios, e os Estados criarão:_
+
+_I - juizados especiais, providos por juízes togados, ou togados e leigos, competentes para a conciliação, o julgamento e a execução de causas cíveis de menor complexidade e infrações penais de menor potencial ofensivo, mediante os procedimentos oral e sumariíssimo, permitidos, nas hipóteses previstas em lei, a transação e o julgamento de recursos por turmas de juízes de primeiro grau;_
+
+_II - justiça de paz, remunerada, composta de cidadãos eleitos pelo voto direto, universal e secreto, com mandato de quatro anos e competência para, na forma da lei, celebrar casamentos, verificar, de ofício ou em face de impugnação apresentada, o processo de_
+
+_habilitação e exercer atribuições conciliatórias, sem caráter jurisdicional, além de outras previstas na legislação._
+
+_§ 1º Lei federal disporá sobre a criação de juizados especiais no âmbito da Justiça Federal._
+
+_§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos serviços afetos às atividades específicas da Justiça._
+
+# **4. Conselho Nacional de Justiça**
+
+## **4.1 Aspectos Gerais**
+
+- **<span style="color:#fb4934">NÃO exerce função jurisdicional!</span>** 🚨
+- Controle interno - órgão administrativo;
+- Não podem ser criados órgãos estaduais de controle administrativo do Poder Judiciário.
+
+## **4.2 Composição**
+
+- **15 Membros:**
+    - 2 Cidadãos - Indicação: 1 pela Câmara dos Deputados e 1 pelo Senado Federal;
+    - 2 Advogados - indicados pela CFOAB;
+    - 1 MPU - **indicado** pelo PGR;
+    - 1 MPE - **escolhido** pelo PGR;
+    - 1 Juiz do trabalho - indicado pelo TST;
+    - 1 Juiz do TRT - indicado pelo TST;
+    - Presidente do STF - <span style="color:#fe8019">presidirá CNJ</span>;
+    - 1 Ministro STJ - indicado pelo STJ - <span style="color:#fe8019">será o Ministro Corregedor</span>;
+    - 1 Ministro TST - indicado pelo TST;
+    - 1 Desembarcador - indicado pelo STF;
+    - 1 Juiz Estadual - indicado pelo STF;
+    - 1 Juiz TRF - indicado STJ;
+    - 1 Juiz Federal - indicado STJ.
+
+🚨 O Conselho Nacional de Justiça (CNJ) é **presidido pelo Presidente do STF** e, nas suas ausências e impedimentos, pelo **Vice-Presidente do STF**.
+
+- Os demais membros do Conselho **serão nomeados pelo Presidente da República**, <span style="color:#fb4934">depois de aprovada a escolha pela maioria absoluta do Senado Federal.</span> Não efetuadas, no prazo legal, as indicações previstas anteriormente, caberá a escolha ao Supremo Tribunal Federal.
+- O Ministro do STJ (Superior Tribunal de Justiça) exercerá a função de <span style="color:#fb4934">Ministro-Corregedor.</span>
+
+## **4.2 Competências do CNJ**
+
+- **<u>Zelar pela autonomia do Judiciário</u>**:
+    - expedindo atos regulamentares que estão em sua competência ou recomendar providências; e
+    - zelando pelo cumprimento do Estatuto da Magistratura.
+- **<u>Apreciar a legalidade de atos de membros do Poder Judiciário, podendo</u>**:
+    - Destituí-los;
+    - revê-los; e
+    - fixar prazo para que sejam tomadas providências.
+- **<u>Receber reclamações contra membros do Poder Judiciário, podendo:</u>**
+    - Avocar processos disciplinares;
+    - determinar a remoção ou a disponibilidade; e
+    - aplicar outras sanções administrativas. 
+- **<u>Representar ao MP:</u>**
+    - Crime contra Administração Pública;
+    - Abuso de autoridade.
+- **<u>Rever processos disciplinares de juízes - <span style="color:#fe8019">PODER REVISIONAL</span></u>**
+    - De Ofício/Provocação que foram julgados a **==menos de 1 ano==**
+- **<u>Elaborar Relatório Estatístico - Semestral</u>**
+- **<u>Relatório Anual</u>**:
+    -  propondo as providências que julgar necessárias;
+    - Com mensagem do Presidente do STF remetida ao CN.
+
+**⚠️ <span style="color:#fb4934">Saiba que o CNJ não realiza:</span>**
+
+- controle de constitucionalidade de normas administrativas
+- anular norma administrativa com justificativa de a considerar inconstitucional
