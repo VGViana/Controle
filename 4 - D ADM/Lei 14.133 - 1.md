@@ -183,3 +183,4 @@
 - **<span style="color:#fb4934">Não prevalecerá para os órgãos de</span>** **<span style="color:#fb4934">controle interno e externo</span>**;
 - Administração deverá **<span style="color:#b8bb26">divulgar</span>** os **<span style="color:#b8bb26">quantitativos</span>** e informações **para formulação das propostas**;
 - No critério por **<span style="color:#b8bb26">maior desconto</span>**, o **preço estimado ou o máximo** aceitável constará do **edital** da licitação.
+
