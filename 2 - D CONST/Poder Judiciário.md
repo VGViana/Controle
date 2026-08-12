@@ -139,3 +139,4 @@ STF - É inconstitucional que normas estaduais <u>limitem a idade dos magistrado
 - Receber auxílios ou contribuições de:
     - Pessoa física ou entidades públicas ou privadas, <span style="color:#fb4934">ressalvado as exceções em lei.</span>
 - Exercer advocacia - "quarentena" a**ntes de 3 anos** de afastamento do juízo ou tribunal que exercia suas atividades.
+
