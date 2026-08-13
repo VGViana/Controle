@@ -242,9 +242,7 @@ _Parágrafo único. Recebidas as indicações, o tribunal formará lista trípli
 - Advogados;
 - Indicados em lista sêxtupla pelos órgãos de representação das respectivas classes;
 - Notório saber jurídico e reputação ilibada;
-- + de 10 anos de carreira.
-
-**<span style="color:#fb4934">Não seguem a regra do quinto Constitucional:</span>**
+	-  mais de 10 anos de carreira.
 
 - STF, TSE, TRE, STM, STJ (1/3 nesse caso)
 
@@ -274,9 +272,7 @@ _Art. 98, CF/88. A União, no Distrito Federal e nos Territórios, e os Estados 
 
 _I - juizados especiais, providos por juízes togados, ou togados e leigos, competentes para a conciliação, o julgamento e a execução de causas cíveis de menor complexidade e infrações penais de menor potencial ofensivo, mediante os procedimentos oral e sumariíssimo, permitidos, nas hipóteses previstas em lei, a transação e o julgamento de recursos por turmas de juízes de primeiro grau;_
 
-_II - justiça de paz, remunerada, composta de cidadãos eleitos pelo voto direto, universal e secreto, com mandato de quatro anos e competência para, na forma da lei, celebrar casamentos, verificar, de ofício ou em face de impugnação apresentada, o processo de_
-
-_habilitação e exercer atribuições conciliatórias, sem caráter jurisdicional, além de outras previstas na legislação._
+_II - justiça de paz, remunerada, composta de cidadãos eleitos pelo voto direto, universal e secreto, com mandato de quatro anos e competência para, na forma da lei, celebrar casamentos, verificar, de ofício ou em face de impugnação apresentada, o processo de_ _habilitação e exercer atribuições conciliatórias, sem caráter jurisdicional, além de outras previstas na legislação._
 
 _§ 1º Lei federal disporá sobre a criação de juizados especiais no âmbito da Justiça Federal._
 
@@ -339,3 +335,4 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 
 - controle de constitucionalidade de normas administrativas
 - anular norma administrativa com justificativa de a considerar inconstitucional
+
