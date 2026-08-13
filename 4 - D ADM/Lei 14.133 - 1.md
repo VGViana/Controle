@@ -269,3 +269,4 @@
 ## **3.21 Formalismo moderado**
 
 - **<span style="color:#fb4934">Desatendimento de exigências meramente formais</span>** que **<span style="color:#fb4934">não comprometam</span>** a aferição da **qualificação do licitante ou** a compreensão do **conteúdo de sua proposta <span style="color:#fb4934">não</span>** **<span style="color:#fb4934">importará seu afastamento da licitação ou a invalidação do processo.</span>**
+
