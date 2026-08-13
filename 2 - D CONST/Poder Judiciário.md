@@ -336,3 +336,120 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 - controle de constitucionalidade de normas administrativas
 - anular norma administrativa com justificativa de a considerar inconstitucional
 
+# **5. Supremo Tribunal Federal**
+
+## **5.1 Aspectos Gerais**
+
+- O Supremo Tribunal Federal (STF) é o órgão judicial mais antigo do Brasil.
+- Composto de **11 Ministros.**
+
+⚠️**<span style="color:#d3869b">Requisitos</span>** para ser Ministro do STF:
+
+- Escolha:
+- 1- Indicados pelo Presidente da República - sabatina pública pelo <span style="color:#fb4934">SF</span>
+- 2- Aprovação pelo SF por <span style="color:#fb4934"><u>maioria absoluta</u></span>
+- 3- Nomeados pelo Presidente da República (<span style="color:#fb4934">após a aprovação do SF</span>)
+- Mais de 35 anos, menos de 70 anos
+- Estar em gozo dos seus direitos políticos
+- Brasileiro **<span style="color:#fb4934"><u>nato</u></span>**
+- Notável saber jurídico
+- Reputação ilibada
+
+🚨 Estrutura Interna:
+
+- 2 turmas e o Plenário.
+    - Cada ministro integra uma das turmas, com exceção do Presidente.
+    - Cada Turma tem 5 Ministros.
+    - O Presidente do STF é eleito diretamente pelos seus pares.
+        - Mandato de 2 anos, **sendo vedada a reeleição**.
+
+🚨Competência para **<span style="color:#fe8019">PROCESSAR E JULGAR</span>**🚨
+
+## **5.2 Competências Originárias**
+
+- **<span style="color:#b8bb26">Competência para guardar a CF/88</span>;**
+- Ação de <span style="color:#83a598">inconstitucionalidade</span> de lei ou ato normativo **federal ou** **<span style="color:#fe8019"><u>estadual</u></span>;**
+- Ação de <span style="color:#83a598">constitucionalidade</span> de lei ou ato normativo **federal;**
+- Pedido de cautelar das ações de inconstitucionalidade.
+
+**<span style="color:#83a598">Crime Comum</span>:**
+
+- PR _(crime de resp. - julgado pelo SF);_
+- VICE _(crime de resp. - julgado pelo SF);_
+- Membro do CN;
+- Ministro do STF;
+- PGR.
+
+⚠️ Foro por prerrogativa de função - apenas quando do exercício do cargo.
+
+**<span style="color:#d3869b">Crime Comum e de Responsabilidade:</span>**
+
+- Ministro de Estado;
+- Comandante: marinha, aeronáutica, exército;
+- Ministros dos Tribunais Superiores;
+- Membros do TCU;
+- Chefe de missão diplomática permanente.
+
+**Habeas Corpus:**
+
+- **PACIENTE**: aqueles elencados acima ☝️
+- **COATOR: Tribunal Superior.**
+- **COATOR/PACIENTE: pessoas submetidas á jurisdição do próprio STF.**
+
+**Mandado de Segurança e Habeas Data:**
+
+- atos CONTRA o PR, Mesas da CD e SF, TCU, PGR E STF.
+
+**Mandado de Injunção** quando a norma for de atribuição:
+
+- PR;
+- CD/SF;
+- Mesas das Casas Legislativas;
+- TCU;
+- TRIBUNAIS SUPERIORES;
+- STF;
+- **<span style="color:#b8bb26">Litígio envolvendo</span>** Estado Estrangeiro ou organismo internacional X **União/Estados/DF/Territórios.**
+
+⚠️Quando envolver os Municípios ou pessoa residente no BRASIL - Competência dos <u>Juízes Federais.</u>
+
+**Conflitos entre** **União/Estados/DF/Territórios,** inclusive as entidades das respectivas Administrações Indiretas:
+
+- Revisão criminal e ação rescisória de seus julgados;
+- Reclamação e preservação de sua competência;
+- Execução de sentença de sua competência originária;
+- Ação em que **sejam interessados**:
+    - Todos da magistratura
+    - Mais da metade dos membros dos tribunais de origem estejam impedidos ou sejam interessados
+
+**Conflitos de Competência:**
+
+- Entre STJ e quaisquer tribunais;
+- Entre Tribunais Superiores;
+- Entres Tribunais Superiores e quaisquer outros tribunais.
+
+**Ações contra:**
+
+- CNJ;
+- Conselho Nacional do MP.
+
+## **5.3 Competência Recursal**
+
+### **<span style="color:#d3869b">RECURSO ORDINÁRIO</span>**
+
+- Habeas Corpus, Mandado de Segurança, Habeas Data e Mandado de Injunção - quando decididos em instância única pelos Tribunais Superiores, caso denegatória a decisão originária;
+- Crime Político.
+
+### **<span style="color:#b8bb26">RECURSO EXTRAORDINÁRIO</span>**
+
+- Contrariar a CF/88;
+- Declarar inconstitucionalidade de TRATADO ou LEI FEDERAL;
+- JULGAR VÁLIDA lei ou ato de governo local (lei estadual ou municipal) contra a CF/88;
+- JULGAR VÁLIDA lei local contra lei federal.
+
+**Lei local contra lei federal**, deve seguir certos requisitos:
+
+- Decisão não deve possuir chance de recurso ordinário;
+- Deve haver <span style="color:#83a598">PREQUESTIONAMENTO</span>;
+- Deve haver <span style="color:#83a598">REPERCUSSÃO GERAL.</span>
+
+⚠️ Apenas haverá **recusa** por parte do STF da repercussão geral, caso haja manifestação por **<span style="color:#fb4934">2/3 dos seus membros.</span>**
