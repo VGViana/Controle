@@ -1,0 +1,230 @@
+# **1.RESTOS A PAGAR**
+
+## **1.1. DEFINIÇÃO**
+
+A definição de **Restos a Pagar (RAP)** também está no **art. 36 da lei 4.320/64:**
+
+> _Art. 36. Consideram-se **Restos a Pagar** as **despesas empenhadas** **mas não pagas até o dia 31 de dezembro** distinguindo-se as **processadas das não processadas.**_
+
+> _Parágrafo único. Os empenhos que sorvem a conta de créditos com <u>vigência plurienal</u>, que **<span style="color:#fb4934">não</span> tenham sido liquidados, só serão computados como <span style="color:#83a598">Restos a Pagar</span> no <span style="color:#b8bb26">último ano</span> de vigência do crédito.**_
+
+No **<u>final do exercício financeiro</u>**, as despesas orçamentárias empenhadas e não pagas  serão registradas em restos a pagar.
+## **1.2. MODALIDADES**
+
+Os restos a pagar são divididos em **processados e não processados** dependendo do ato de liquidação:
+
+1. **PROCESSADOS**: despesas EMPENHADAS, **LIQUIDADAS**, NÃO PAGAS
+
+-  restos a pagar processados = **<span style="color:#fb4934">liquidado - pago.</span>**
+
+2. **NÃO PROCESSADOS:** despesas EMPENHADAS, **<span style="color:#fb4934">NÃO</span> LIQUIDADAS**, NÃO PAGAS
+
+- restos a pagar não processados = **<span style="color:#fb4934">empenhado - liquidado</span>**
+
+Os restos a pagar NÃO PROCESSADOS (SEM LIQUIDAÇÃO) AINDA SE DIVIDEM EM:
+
+a) **A liquidar**: Ainda <u>não ocorreu o fato gerador</u> da despesa
+
+b) **Em liquidação:** <u>Ocorreu o fato gerador</u> ANTES DA LIQUIDAÇÃO
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos.png]]
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-1.png]]
+
+
+| **<span style="color:#fb4934">NÃO PODE SER CANCELADO</span>** | **<span style="color:#b8bb26">PODE SER CANCELADO</span>** |
+| ------------------------------------------------------------- | --------------------------------------------------------- |
+| PROCESSADOS                                                   | NÃO PROCESSADOS                                           |
+| Empenhados ✅                                                  | Empenhados ✅                                              |
+| Liquidados ✅                                                  | Liquidados❌                                               |
+| Pago ❌                                                        | Pago ❌                                                    |
+| Liquidado - pago                                              | Empenhado - liquidado                                     |
+
+⚠️Todos os restos a pagar são **<span style="color:#fb4934">DESPESAS EMPENHADAS e NÃO PAGAS.</span>**
+
+- Restos a Pagar **Não Processados** **<span style="color:#b8bb26">podem ser cancelados</span>**!
+- Restos a Pagar Processados **não podem ser cancelados**, pois já passaram pela liquidação: <span style="color:#b8bb26">o credor tem direito adquirido</span>
+
+## **1.3. INSCRIÇÃO EM RESTOS A PAGAR**
+
+Ocorre no encerramento do exercício:
+
+- Pelo valor devido
+- Estimativa (se não conhecido)
+
+Valor real > valor inscrito em RP — a diferença será empenhada à conta de despesas de exercícios anteriores. 
+
+Valor real < valor inscrito em RP — o saldo existente será cancelado
+
+No momento da inscrição (dia 31 de dezembro), os restos a pagar do exercício serão computados na receita **<span style="color:#fb4934">extraorçamentária</span>** para **<span style="color:#d3869b">compensar sua inclusão na despesa orçamentária</span>** (quando foi empenhada). 
+
+## **1.4. Créditos com vigência plurianual**
+
+A lei 4320/64 define que os empenhos que sorvem a conta de **<span style="color:#83a598">créditos com vigência plurianual</span>**, **<span style="color:#fb4934">que não tenham sido liquidados</span>**, **<span style="color:#b8bb26">só serão computados como restos a pagar no último ano de vigência do crédito.</span>**
+
+📚 **Esquematizando** esse dispositivo, fica da seguinte forma:
+
+- **Despesas com vigência plurianual e <u>Liquidadas</u>:** inscritos em restos a pagar em **<u>cada exercício</u>**.
+- **Despesas com vigência plurianual e <span style="color:#fb4934">Não</span> liquidadas**: inscritos em restos a pagar apenas no **<span style="color:#fb4934">último ano</span>** de vigência.
+
+📌 Importante ressaltar que **este dispositivo está ultrapassado** (embora continue sendo objeto de cobrança em prova, **especialmente pela banca Cebraspe**), pois atualmente **<span style="color:#fe8019">a parte não liquidada será inscrita ao final do exercício em RP não processados,</span>** conforme previsão do Decreto 93.872/86.
+
+## **1.5. Anulação total ou parcial de Empenho**
+
+Anulação total ou parcial de empenho **<span style="color:#83a598">dentro do exercício</span>** – o montante correspondente será **<span style="color:#83a598">revertido à dotação orçamentária</span>**.
+
+Anulação total ou parcial de Empenho **<span style="color:#fb4934">após o encerramento do exercício:</span>**
+
+- **<span style="color:#b8bb26">MCASP</span>** – O montante correspondente **<span style="color:#b8bb26">será revertido à dotação orçamentária.</span>**
+- Lei **<span style="color:#fe8019">4320/64</span>** – **<span style="color:#fe8019">Receita Orçamentária</span>**
+
+## **1.6. Situações de RP como receita e como despesa extraorçamentária:**
+
+No exercício da **<span style="color:#83a598">inscrição</span>** - **<span style="color:#83a598">Receita Extra</span>**orçamentária 
+
+No exercício do **<span style="color:#fe8019">pagamento</span>** - **<span style="color:#fe8019">Despesa Extra</span>**orçamentária
+
+## **1.7. RP na LRF**
+
+Para **evitar abusos em fim de mandato**, a LRF determina:
+
+**É <span style="color:#fb4934">vedado</span> ao titular de Poder ou órgão nos <span style="color:#fb4934">últimos dois quadrimestres do seu mandato</span> contrair obrigação de despesa:**
+
+- Que **<span style="color:#83a598">não possa ser cumprida integralmente dentro dele</span>**, ou
+- Que **<span style="color:#b8bb26">tenha parcelas a serem pagas no exercício seguinte</span>**, **<span style="color:#fe8019">sem que haja suficiente disponibilidade de caixa para este efeito.</span>**
+
+📝 Importante salientar que na determinação da disponibilidade de caixa **serão considerados os encargos e despesas compromissadas a pagar até o final do exercício.**
+
+⚠️ Portanto, <u>de nada adianta ter disponibilidade em caixa</u> **se essa grana já estiver comprometida.**
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-4.png]]
+## **1.8. EMENDAS PARLAMENTARES**
+
+Poderão ser considerados para fins de cumprimento da execução financeira **<span style="color:#fb4934">até o limite de 1% (um por cento) da receita corrente líquida</span>** do exercício **<span style="color:#fb4934">anterior</span>** ao do encaminhamento do projeto de lei orçamentária, para as programações das emendas **<span style="color:#fb4934">individuais</span>**, e **<span style="color:#fb4934">até o limite de 0,5% (cinco décimos por cento)</span>**, para as programações das emendas de iniciativa de **<span style="color:#fb4934">bancada</span>** de parlamentares de **<span style="color:#fb4934">estado ou do Distrito Federal.</span>**
+
+**<span style="color:#fb4934">1% - Emendas individuais</span>**
+
+**<span style="color:#fb4934">0,5% - Emendas de bancada</span>**
+
+# **2. Despesas de Exercícios Anteriores**
+
+## **2.1. DEFINIÇÃO**
+
+São despesas de exercícios encerrados, para as quais **<span style="color:#83a598">o orçamento respectivo consignava crédito próprio, com saldo suficiente para atendê-las, que não se tenham processado na época própria</span>**, bem como **<span style="color:#fe8019">os Restos a Pagar com prescrição interrompida</span>** e **<span style="color:#b8bb26">os compromissos reconhecidos após o encerramento do exercício correspondente</span>** **<span style="color:#fb4934">poderão</span>** ser pagos à conta de dotação específica consignada no orçamento, discriminada por elementos, obedecida, **<span style="color:#fb4934">sempre que possível</span>**, a ordem cronológica.
+
+**==Esquematizando:==**
+
+**<span style="color:#fb4934">Casos de Despesas de Exercícios Anteriores (DEA):</span>**
+
+- O orçamento respectivo **consignava crédito próprio, com saldo suficiente para atendê-las**, que **<span style="color:#83a598">não se tenham processado na época própria</span>**,
+- Bem como os **<span style="color:#fe8019">Restos a Pagar com prescrição interrompida</span>** e
+- Os **<span style="color:#b8bb26">compromissos reconhecidos após o encerramento do exercício correspondente</span>**.
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-2.png]]
+
+📝 Ademais, o reconhecimento da obrigação de pagamento das despesas com exercícios anteriores **cabe à autoridade competente para empenhar a despesa**.
+- A CESPE adora **<span style="color:#fb4934">confundir DEA com Restos a  Pagar.</span>**
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-5.png]]
+
+> A crescente utilização das DEA é um dos principais mecanismos utilizados pelo setor público para distorcer as contas públicas e subestimar os indicadores fiscais. Essa prática contribui para a falta de transparência e pode ter efeitos negativos sobre a gestão fiscal e a confiança dos agentes econômicos.
+## **2.2. Diferença entre Despesas de Exercícios Anterior (DEA) e Restos a Pagar (RP)**
+
+📌 Na prática, **a grande diferença entre DEA e RP** se encontra na **<span style="color:#fb4934">existência ou não de prévio empenho</span>** ao se deparar com uma **despesa de um ano anterior.**
+
+Despesa referente a anos anteriores - há empenho?
+
+**<span style="color:#83a598">Sim</span>** - **Restos a Pagar.**
+
+**<span style="color:#fb4934">Não</span>** - **DEA**.
+
+
+| ==**RP**==                                                                                                                                                         | ==**DEA**==                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **<span style="color:#83a598">Despesa planejada para o mesmo exercício que o respectivo empenho</span>**, mas por algum motivo será pago em exercícios posteriores | Por algum motivo, a depesa não foi empenhada de forma tempestiva; gerando, dessa forma, **<span style="color:#83a598">uma despesa de exercício anterior sem respectivo empenho</span>** |
+| **<span style="color:#b8bb26">Despesa Extraoçamentária</span>** no exercício do pagamento, pois não é necessário autorização orçamentária                          | **<span style="color:#b8bb26">Despesa Orçamentária</span>** no exercício do pagamento, pois compromete o Orçamento vigente                                                              |
+| **<span style="color:#fb4934">Foram empenhadas previamente</span>**                                                                                                | **<span style="color:#fb4934">Sequer foram empenhadas</span>**                                                                                                                          |
+
+A grande diferença entre os **Restos a Pagar (RAP)** e as **Despesas de Exercícios Anteriores (DEA)** é seguinte (leve isso para sua prova)
+
+- **<span style="color:#83a598">RAP</span>** → são **<span style="color:#83a598">empenhados em um exercício</span>**, e o **<span style="color:#83a598"><u>pagamento é feito em outro</u></span>;**
+- **<span style="color:#b8bb26">DEA</span>** → o empenho e o **<span style="color:#b8bb26"><u>pagamento são SEMPRE no mesmo exercício</u></span>**!
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-6.png]]
+
+# **3. SUPRIMENTO DE FUNDOS**
+
+## **3.1. APLICAÇÃO**
+
+O regime de **adiantamento (suprimento de fundos)** é aplicável aos casos de despesas **<span style="color:#b8bb26">expressamente</span> definidos em lei** e consiste na entrega de **numerário a servidor,** sempre **precedida de empenho** na dotação própria para o fim de realizar despesas, que <u>não possam subordinar-se ao processo normal</u> de aplicação.
+
+**==Resumindo:==**
+
+- É aplicável aos casos de **<span style="color:#83a598">despesas expressamente definidas em lei;</span>**
+- Consiste na **<span style="color:#fe8019">entrega de numerário a servidor</span>**;
+- **<span style="color:#b8bb26">Sempre precedida de empenho na dotação própria</span>**;
+- **A <span style="color:#d3869b">critério</span> do ordenador de despesa e sob sua <span style="color:#d3869b">inteira responsabilidade</span>;**
+- Realizar despesas que pela **excepcionalidade <span style="color:#fb4934">não possam subordinar-se ao processo normal de aplicação</span>**. 
+
+**Esquematizando:**
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-7.png]]
+
+## **3.2. MODALIDADES**
+
+O Decreto 93.872/86, em seu Art. 45, estabelece os casos em que serão concedidos suprimentos de fundos:
+
+- _Art . 45. Excepcionalmente, a_ **_critério do ordenador de despesa e sob sua inteira_ responsabilidade**_, poderá ser concedido suprimento de fundos a servidor, sempre precedido do empenho na dotação própria às despesas a realizar, e que não possam subordinar-se ao processo normal de aplicação, nos seguintes casos:_
+    - _I - para atender despesas_ **_eventuais_**_, inclusive em_ **_viagens_** _e com serviços especiais, que exijam <u>pronto pagamento</u>;_ 
+    - _II - quando a despesa deva ser feita em_ **_caráter sigiloso_**_, conforme se classificar em regulamento; e_
+    - _III - para atender despesas de_ **_pequeno vulto_**_, assim entendidas aquelas cujo valor, em cada caso, não ultrapassar limite estabelecido em_ **_Portaria do Ministro_ da Fazenda**_._
+
+Atenção! repare que o **<span style="color:#fb4934">ordenador da despesa é o único responsável</span>** sobre os suprimentos de fundos.
+
+Recapitulando as situações de regime de adiantamento:
+
+- situações eventuais, **<span style="color:#d3869b">inclusive</span>** viagem;
+- sigilosas;
+- pequeno vulto.
+
+**Mnemônico: <span style="color:#fb4934">PEQUENO SEGREDO EVENTUAL</span>**
+
+**==Esquematizando==:**
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-10.png]]
+
+📌 Na classificação por natureza da despesa, **<span style="color:#b8bb26">não há um elemento específico para suprimento de fundos</span>**, diferentemente, por exemplo, das <u>despesas de exercícios anteriores</u>, a qual <u>possui o elemento</u> “despesas de exercícios anteriores”.
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-11.png]]
+## **3.3. CONCESSÃO**
+
+**Em que pese o Suprimento de Fundos seja uma despesa orçamentária**, **<span style="color:#fb4934">não representa uma despesa pelo enfoque patrimonial</span>**, pois, no momento da concessão, <u>não ocorre redução no patrimônio líquido.</u>
+
+Atenção o **empenho é obrigatório** e a concessão de suprimento de fundos deverá respeitar os estágios da execução da despesa pública: **empenho, liquidação e pagamento.**
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-12.png]]
+
+## **3.4. VEDAÇÃO**
+
+**❗ É importantíssimo que você saiba quando <span style="color:#fb4934">não se concederá</span> suprimento de fundos:**
+
+- Responsável por **dois suprimentos (guarde que são dois)**, ou seja, é permitida a concessão de até dois suprimentos com prazo de aplicação não vencido.
+- Servidor que tenha a seu cargo a **guarda ou a utilização do material** a adquirir, **salvo** quando **não houver na repartição outro servidor. (atenção a essa exceção)**
+- Responsável por suprimento de fundos que, esgotado o prazo, **não tenha prestado contas** de sua aplicação.
+- Servidor declarado em **alcance** (aquele que não tenha prestado contas do suprimento no prazo regulamentar ou cujas contas tenham sido impugnadas, total ou parcialmente.).
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-13.png]]
+
+## **3.5. RESTITUIÇÃO**
+
+- **Recolhida <span style="color:#83a598">no mesmo exercício</span> = <span style="color:#83a598">anulação</span> de despesa**
+- **Recolhida após o <span style="color:#b8bb26">encerramento do exercício</span> = <span style="color:#b8bb26">receita</span> orçamentária**
+
+**==Esquematizando:==**
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-14.png]]
+
+Por fim, importante salientar que **<span style="color:#83a598">a importância aplicada até 31 de dezembro será comprovada até 15 de janeiro seguinte.</span>**
+
+![[10. Restos a Pagar, Despesa de Exercícios Anteriores e Suprimento de Fundos-15.png]]
+
+A **<span style="color:#fb4934">VPD</span>** ocorre no momento da  **<span style="color:#fb4934">prestação de contas efetuada pelo servidor</span>** responsável pela aplicação do adiantamento.
