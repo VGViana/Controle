@@ -453,3 +453,4 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 - Deve haver <span style="color:#83a598">REPERCUSSÃO GERAL.</span>
 
 ⚠️ Apenas haverá **recusa** por parte do STF da repercussão geral, caso haja manifestação por **<span style="color:#fb4934">2/3 dos seus membros.</span>**
+
