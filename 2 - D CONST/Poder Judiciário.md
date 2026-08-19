@@ -456,3 +456,214 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 
 ![[Controle/2 - D CONST/Poder Judiciário.png]]
 
+# **6. Superior Tribunal de Justiça**
+
+## **6.1 Aspectos Gerais**
+
+⚠️ **<span style="color:#d3869b">Requisitos</span>** para ser Ministro do STJ:
+
+- Nomeados pelo Presidente da República, após aprovação do SF (maioria absoluta);
+    - cabe ao próprio STJ elaborar lista tríplice com indicados que sejam oriundos dos Tribunais Regionais Federais (TRFs) e dos Tribunais de Justiça (TJs).
+- Mais de 35 anos, menos de 70 anos;
+- Estar em gozo dos seus direitos políticos;
+- Brasileiro <u>nato ou naturalizado</u>;
+- Notável saber jurídico;
+- Reputação ilibada.
+
+⚠️ **<span style="color:#d3869b">Composição - no <u>mínimo</u> 33 ministros</span>**
+
+- 1/3 - Juízes dos TRFs;
+- 1/3 - Desembarcadores dos TJs;
+- 1/3 - divididos em:
+    - (1/6) Advogados;
+    - (1/6) Membros do MPF/MPE/MPDFT.
+
+Funcionarão, junto ao STJ:
+
+- Escola Nacional de Formação e Aperfeiçoamento de Magistrados (ENFAM);
+-  Conselho da Justiça Federal (CJF).
+
+## **6.2 Competências Originárias**
+
+- **<span style="color:#d3869b">Crime Comum</span>:**
+- Governadores - Estados e DF _(crime de responsabilidade - julgado pelo Tribunal Especial);_
+
+⚠️ Foro por prerrogativa de função - apenas quando no exercício do cargo.  
+  
+### **<span style="color:#b8bb26">Crime Comum e de Responsabilidade:</span>**
+
+- Desembarcadores dos TJs;
+- Membros dos TCEs e TCDF.
+
+- Membros dos TRFs, TREs, TRTs.
+
+- Membros do MPU junto aos tribunais.
+
+### **<span style="color:#fb4934">Habeas Corpus</span>**
+
+- **COATOR/PACIENTE**: aqueles elencados acima ☝️
+- **COATOR: T**ribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, <span style="color:#fe8019">exceto a competência da Justiça Eleitoral</span>;  
+      
+
+### **<span style="color:#fb4934">Mandado de Segurança e Habeas Data</span>**
+
+- atos **CONTRA** Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.  
+      
+    
+
+### **<span style="color:#fb4934">Mandado de Injunção</span>** quando a norma for de atribuição:
+
+- órgão, entidade ou autoridade federal - Administração Direta ou Indireta.
+
+**<span style="color:#fe8019">Exceto</span>** - Competência do STF, Justiça Militar, Justiça do Trabalho, Justiça Eleitoral e Justiça Federal.
+
+- **<span style="color:#b8bb26">Homologação de sentenças estrangeiras e concessão de _exaquatur_ às cartas rogatórias</span>**  
+      
+- Conflitos **<span style="color:#d3869b">entre autoridades administrativas e judiciárias da União, ou entre autoridades judiciárias de um Estado e administrativas de outro, ou do DF,</span>** inclusive entre todas as últimas e as da União.
+
+- **Revisão criminal** e ação rescisória de <u>seus julgados</u>
+- **Reclamação** e preservação <u>de sua competência</u> e garantia da autoridade de suas decisões  
+      
+    
+
+### **<span style="color: #d79921">Conflitos de Competência:</span>**
+
+- Entre <u>quaisquer Tribunais</u>;
+- Entre Tribunal e Juízes a ele não vinculados e entre Juízes vinculados a Tribunais diversos.
+
+## **6.3 Competência Recursal**
+
+### **<span style="color:#d3869b">RECURSO ORDINÁRIO</span>**
+
+- **Habeas Corpus** - decididos em <u>única ou última instância</u> pelos TRFs, TJs - quando houver decisão **<span style="color:#fe8019">denegatória</span>;**
+- **Mandado de Segurança** - única instância pelos TRFs, TJs - quando houver decisão **<span style="color:#fe8019">denegatória</span>;**
+- Causas em que **as partes forem**: Estado estrangeiro ou organismo internacional (de um lado) e Município ou pessoa residente/domiciliada no Brasil (de outro).
+
+🚨 A **<span style="color:#fe8019">competência originária</span>** para as causas envolvendo Estado estrangeiro e Município ou pessoa residente/domiciliada no Brasil será dos Juízes Federais.
+
+### **<span style="color:#b8bb26">RECURSO ESPECIAL</span>**
+
+- Causas decididas (única ou última instância) pelos TRFs ou TJs;
+- Contrariar <span style="color:#d3869b">LEI FEDERAL ou TRATADO</span> - negando-lhes a vigência;
+- Julgar válido ato de governo local contestado em face de lei federal;
+- Der a lei federal interpretação divergente da que lhe haja atribuído outro Tribunal.
+
+**A apresentação de recurso especial ao STJ** depende do cumprimento de certos requisitos:
+
+- Deve haver <span style="color:#83a598">PREQUESTIONAMENTO</span>;
+- Deve haver <span style="color:#83a598">CONTROVÉRSIA envolvendo Lei Federal</span>;
+- Causas devem ter sido decididas (<span style="color:#fb4934">única ou última instância</span>) pelos TRFs ou TJs;
+- Deve demonstrar a <u>relevância das questões.</u>
+
+_Art. 105, § 3º, CF/88. Haverá a_ **_<span style="color:#fb4934">relevância</span>_** _de que trata o § 2º deste artigo nos seguintes casos:_
+
+_I - ações penais;_
+
+_II - ações de improbidade administrativa;_
+
+_III - ações cujo valor da causa ultrapasse 500 (quinhentos) salários mínimos;_
+
+_IV - ações que possam gerar inelegibilidade;_
+
+_V - hipóteses em que o acórdão recorrido contrariar jurisprudência dominante o Superior Tribunal de Justiça;_
+
+_VI - outras hipóteses previstas em lei._
+
+⚠️ Apenas haverá **<span style="color:#fb4934">recusa</span>** por parte do STJ da relevância do recurso, caso haja manifestação por **<span style="color:#fb4934">2/3 dos seus membros.</span>**
+
+🚨**Novidade! A EC 132/2023 acrescentou ao inciso I, do art. 105 da CF a alínea:**
+
+- **j) os conflitos entre entes federados, ou entre estes e o Comitê Gestor do Imposto sobre Bens e Serviços, relacionados aos tributos previstos nos arts. 156-A e 195, V;**
+
+## **6.4 Incidente de Deslocamento de Competência**
+
+⚠️Este inciso é cobrado mais de forma literal
+
+_Art. 109, § 5º, CF/88. Nas hipóteses de_ **_<span style="color:#fe8019">grave violação de direitos humanos</span>_**_, o <u>Procurador-Geral da República</u>, com a finalidade de assegurar o cumprimento de obrigações_ **_<span style="color:#83a598">decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte</span>_**_,_ _<u>poderá suscitar</u>, perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, <u>incidente de deslocamento de competência para a Justiça Federal.</u>_ 
+
+🚨**DECORE**:
+
+- Grave **violação** de direitos humanos;
+- PGR **poderá** suscitar ao STJ;
+- Decorrentes de tratados internacionais de **DIREITOS HUMANOS** - Brasil deve fazer parte;
+- **Deslocamento para a Justiça Federal.**
+
+# **7. Justiça Federal**
+
+**Órgãos**:
+
+- Tribunais Regionais Federais;
+- Juízes Federais.
+
+## **7.1 Tribunais Regionais Federais**
+
+  
+⚠️ **<span style="color:#d3869b">Composição - no <u>mínimo</u> 7 ministros</span>**
+
+- Mais de 30, menos de 70 anos;
+- 1/5 - Advogados;
+    - mais de 10 anos de **efetiva** atividade profissional e membros do MPF;
+- 4/5 - Promoção de Juízes Federais;
+    - mais de 5 anos de exercício - antiguidade e merecimento (alternadamente).
+
+### **7.1.1 COMPETÊNCIAS ORIGINÁRIAS**
+
+#### **<span style="color:#b8bb26">Crime Comum e de Responsabilidade</span>**
+
+- os juízes federais da área de sua jurisdição, incluídos os da Justiça Militar e da Justiça do Trabalho, e os membros do Ministério Público da União, <span style="color:#fe8019">ressalvada a competência da Justiça Eleitoral</span>;
+- **Revisões criminais** e as **ações rescisórias** <u>de julgados seus ou dos juízes federais da região</u>;
+
+#### **<span style="color:#fb4934">Mandados de segurança e os _habeas data_</span>** 
+
+- contra ato do próprio Tribunal ou de juiz federal;
+
+#### **<span style="color:#fb4934">Habeas corpus</span>**
+
+- quando a autoridade coatora for juiz federal;
+
+#### **<span style="color: #d79921">Conflitos de Competência</span>**
+
+- Entre juízes federais vinculados ao Tribunal;
+
+### **7.1.2 COMPETÊNCIAS RECURSAIS**
+
+#### **<span style="color:#d3869b">RECURSO</span>** 
+
+- Causas decididas pelos **<span style="color:#d3869b">juízes federais e pelos juízes estaduais</span>** no <u>exercício da competência federal da área de sua jurisdição</u>
+
+## **7.2 Juízes Federais**
+
+### **7.2.1 COMPETÊNCIAS ORIGINÁRIAS**
+
+- Causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, <span style="color:#fe8019">exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;</span>
+- Causas entre Estado estrangeiro ou organismo internacional e Município ou pessoa domiciliada ou <span style="color:#b8bb26">residente no País</span>;
+- Causas fundadas em **tratado ou contrato da União com Estado estrangeiro ou organismo internacional;**
+- **Crimes políticos e as infrações penais** praticadas em detrimento de bens, serviços ou interesse **da União ou de suas entidades autárquicas ou empresas públicas**, <span style="color:#fe8019">excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral;</span>
+- **Crimes previstos em tratado ou convenção internacional**, quando:
+- **iniciada a execução no País**,
+- **resultado tenha ou devesse ter** ocorrido no estrangeiro, ou reciprocamente;
+- **Crimes contra a organização do trabalho** e, nos casos determinados por lei, **contra o sistema financeiro e a ordem econômico-financeira;**
+- **Crimes cometidos a bordo de navios ou aeronaves,** <span style="color:#fe8019">ressalvada a competência da Justiça Militar;</span>
+- **Crimes de ingresso ou permanência irregular de estrangeiro, a execução de carta rogatória, após o "exequatur", e de sentença estrangeira,** após a homologação, as causas referentes à nacionalidade, inclusive a respectiva opção, e à naturalização;
+- **<span style="color:#fb4934">Habeas Corpus</span>,** em matéria criminal de sua competência ou quando o <u>constrangimento provier de autoridade cujos atos não estejam diretamente sujeitos a outra jurisdição;</u>
+- **<span style="color:#fb4934">Mandados de segurança e os Habeas Data</span>** <u>contra ato de autoridade federal</u>, <span style="color:#fe8019">excetuados os casos de competência dos tribunais federais</span>;
+- Disputa sobre **<span style="color:#d3869b">direitos indígenas</span>.**
+- **Causas relativas a direitos humanos** a que se refere o § 5º deste artigo;
+
+**⚠️<span style="color:#fb4934">ATENÇÃO</span>**
+
+- Causas em que a **UNIÃO for AUTORA** ->>>> seção judiciária do domicílio da **OUTRA PARTE;**
+- Causas ajuizadas **CONTRA A UNIÃO** >>>> poderão ser aforadas:
+    - no domicílio do autor;
+    - onde ocorreu ato ou fato que originou a ação;
+    - ou no DF.
+
+**⚠️<span style="color:#fb4934">DECORE</span>**
+
+_Art. 109, CF/88_ 
+
+_§ 3º -_ **_<span style="color:#fe8019">Lei</span>_** _poderá autorizar que as causas de_ _<span style="color:#fe8019">competência da Justiça Federal</span>_ _em que forem parte_ **_<span style="color:#83a598"><u>instituição de previdência social e segurado</u></span>_** _<span style="color:#83a598">possam ser processadas e julgadas na justiça estadual</span>_ **_quando a comarca do domicílio do segurado não for sede de vara federal._**
+
+_§ 4º - Na hipótese do_ _<span style="color:#fe8019">parágrafo anterior</span>__, o_ **_recurso_** _cabível será sempre para o_ **_Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau._**
+
+STF - transporte clandestino de animais com destino ao exterior - interesse da UNIÃO - **competência da Justiça Federal**
