@@ -370,3 +370,65 @@
 - a **<span style="color:#fb4934">advocacia pública promoverá</span>**, **a critério do agente público**, sua **<span style="color:#fb4934">representação judicial ou extrajudicial</span>**;
 - **<span style="color:#fb4934">facultativa</span>** para o agente público.
 
+# **7. Modalidades de Licitação**
+
+- definem o **procedimento da licitação;**
+- definidas pela **<span style="color:#d3869b">natureza do objeto</span>;**
+    - **pregão;**
+    - **concorrência;** 
+    - **concurso;** 
+    - **leilão;**
+    - **diálogo competitivo.**
+- **<span style="color:#fb4934">vedada</span>** a **<span style="color:#d3869b">criação de outras modalidades</span>** de licitação ou, ainda, a **<span style="color:#d3869b">combinação das modalidades existentes</span>**;
+- concorrência e o pregão seguem o rito procedimental comum.
+
+⚠️ A administração poderá utilizar **procedimentos auxiliares,** instrumentos que auxiliam a administração no procedimento de contratação.  
+  
+
+⚠️ Lei Complementar 182/2021 (marco legal das startups e do empreendedorismo inovador) criou uma **<span style="color:#d3869b">modalidade especial</span>** para a **contratação de pessoas físicas ou jurídicas, isoladamente ou em consórcio**, para o **teste de soluções inovadoras por elas desenvolvidas ou a ser desenvolvidas, com ou sem risco tecnológico (*<span style="color:#fe8019">somente considere a existência dessa modalidade especial se o seu concurso exigir a LC182 no conteúdo programático).</span>**
+
+## **7.1 Concorrência**
+
+- admite **<span style="color:#b8bb26">todos os critérios de julgamento</span>**, com **<span style="color:#fb4934">exceção do maior lance</span>**:  
+    - menor preço;
+    - melhor técnica ou conteúdo artístico;
+    - técnica e preço;
+    - maior retorno econômico;
+    - maior desconto.
+- **rito procedimental comum;**
+- contratação de:
+    - **<span style="color:#83a598">bens e serviços especiais</span>**:
+        - **<span style="color:#83a598">alta heterogeneidade</span>** ou **<span style="color:#83a598">complexidade</span>**, não descritos como comuns;
+        - **<span style="color:#83a598">exige motivação</span>**.
+    - **<span style="color:#b8bb26">obras</span>:** 
+        - toda **<span style="color:#b8bb26">atividade estabelecida por lei</span>;**
+        - **<span style="color:#b8bb26">privativa</span>** das profissões de **<span style="color:#b8bb26">arquiteto e engenheiro</span>**;
+        - implica **<span style="color:#b8bb26">intervenção no meio ambiente</span>**;
+        - **<span style="color:#b8bb26">inova o espaço físico</span>** da natureza; ou
+        - acarreta **<span style="color:#b8bb26">alteração substancial</span>** das características originais **<span style="color:#b8bb26">de bem imóvel</span>**.
+    - **<span style="color:#fe8019">serviços de engenharia</span>**:  
+        - atividade/conjunto de atividades destinadas a obter determinada **<span style="color:#fe8019">utilidade, intelectual ou material</span>**;
+        - **<span style="color:#fe8019">serviços privativos</span>** das profissões de **<span style="color:#fe8019">arquiteto e engenheiro</span>** ou de **<span style="color:#fe8019">técnicos especializados</span>**;
+        - **<span style="color:#fb4934">não são classificados como obra</span>**.
+        - **serviços <span style="color:#d3869b">comuns</span> de engenharia**:  
+            - **<span style="color:#d3869b">ações, objetivamente padronizáveis</span>** em termos de **<span style="color:#d3869b">desempenho e qualidade</span>**, de **<span style="color:#d3869b">manutenção</span>**, de **<span style="color:#d3869b">adequação</span>** e de **<span style="color:#d3869b">adaptação</span>** de **bens móveis e imóveis**, com **<span style="color:#d3869b">preservação</span>** das **<span style="color:#d3869b">características originais</span>** dos bens;
+        - **serviços <span style="color:#fb4934">especiais</span> de engenharia:**
+            - **<span style="color:#fb4934">alta heterogeneidade</span>** ou **<span style="color:#fb4934">complexidade</span>;**
+            - **<span style="color:#fe8019">não se enquadra na definição de comum</span>**.
+
+## **7.2 Pregão**
+
+- **<span style="color:#fb4934">obrigatória</span>** para aquisição de **<span style="color:#fb4934">bens e serviços comuns</span>**:  
+    - **<span style="color:#fb4934">bens e serviços comuns</span>:**
+        - aqueles cujos **<span style="color:#fb4934">padrões de desempenho e qualidade</span>** podem ser **<span style="color:#fb4934">objetivamente definidos</span>** pelo edital, por meio de **<span style="color:#fb4934">especificações usuais de mercado</span>.**
+- **<span style="color:#d3869b">serviços comuns de engenharia</span>** (**<span style="color:#b8bb26">também admitem a concorrência</span>**);
+- critério de julgamento:
+    - **<span style="color:#fe8019">menor preço</span>;**
+    - **<span style="color:#fe8019">maior desconto</span>;**
+- **rito procedimental comum;**
+
+    **🚫 <span style="color:#fe8019">não é possível utilizar o pregão para:</span>**
+
+- **serviços técnicos especializados** de **<span style="color:#fe8019">natureza predominantemente intelectual</span>**;
+- **<span style="color:#fe8019">obras</span>**;
+- **serviços de engenharia <span style="color:#fe8019">especiais</span>**.
