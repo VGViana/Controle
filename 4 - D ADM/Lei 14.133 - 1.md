@@ -36,7 +36,6 @@
     - **<span style="color:#d3869b">Normas específicas</span>**;
     - **<span style="color:#fb4934">Independentemente</span>** de **delegação**.
 
-![[Viana/4 - D ADM/pics/Lei 14.133 - 1.png]]
 # **2. Âmbito de aplicação**
 
 - **Administrações públicas <span style="color:#83a598">diretas, autárquicas e fundacionais</span>** (**<span style="color:#fb4934"><u>públicas ou privadas</u></span>**);
