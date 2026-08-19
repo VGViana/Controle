@@ -369,3 +369,4 @@
 - **<span style="color:#fb4934">ato</span>** praticado **<span style="color:#fb4934">com estrita observância de orientação constante em parecer jurídico</span>** elaborado na forma da Lei de Licitações;
 - a **<span style="color:#fb4934">advocacia pública promoverá</span>**, **a critério do agente público**, sua **<span style="color:#fb4934">representação judicial ou extrajudicial</span>**;
 - **<span style="color:#fb4934">facultativa</span>** para o agente público.
+
