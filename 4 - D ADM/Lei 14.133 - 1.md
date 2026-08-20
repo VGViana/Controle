@@ -437,8 +437,83 @@
 - **serviços de engenharia <span style="color:#fe8019">especiais</span>**.
 
 ![[Pregão.png]]
+## **7.3 Concurso**
+
+- para escolha de **trabalho técnico, científico ou artístico**;
+- concessão de **prêmio** ou **remuneração** ao vencedor;
+- **critério de julgamento**:
+    - **melhor técnica**;
+    - **conteúdo artístico.**
+- princípio do **julgamento objetivo flexibilizado** (**análise um pouco subjetiva**, mas **não arbitrária**);
+- **regras e condições** previstas em **edital**, que indicará:
+    - a **qualificação exigida** dos participantes;
+    - as **diretrizes e formas de apresentação** do trabalho;
+    - as **condições de realização** e o **prêmio** ou **remuneração** a ser concedida ao vencedor.
+- **prazo mínimo** de **divulgação do edital**:
+    - - **35 dias** **úteis**;
+- **elaboração de projeto:**
+    - **autor** deverá **ceder os direitos patrimoniais**.
 
 ![[Concurso.png]]
+**7.4 Leilão**
+
+- alienação de **bens imóveis**;
+- alienação de de **bens móveis _inservíveis_**;
+- alienação de **bens móveis _legalmente apreendidos_**;
+- a quem oferecer o **maior lance**;
+- **ÚNICA modalidade de licitação que admite o critério de julgamento de maior lance;**
+- **regulamento** deverá dispor sobre seus **procedimentos operacionais**;
+- **condução** do leilão por:  
+    - **leiloeiro oficial** (leilão **comum**):  
+        - **seleção** de leiloeiro oficial:
+            - **credenciamento**;
+            - licitação na modalidade **pregão**;
+            - critério de julgamento de **maior desconto** para as comissões a serem cobradas;
+            - **parâmetro máximo**:  **percentuais definidos na lei** que **regula** a **profissão** e **observados** os **valores dos bens a serem leiloados.**
+    - **servidor designado** pela autoridade competente da administração (leilão **administrativo**);
+- **prazo mínimo** de **divulgação do edital**: 
+    - **15 dias úteis**;
+    - em **sítio eletrônico oficial**; 
+    - afixado em **local de ampla circulação** de pessoas na sede da administração; 
+    - **facultada** a **divulgação por outros meios** necessários para ampliar a publicidade e a competitividade da licitação;
+    - realizado **preferencialmente da forma eletrônica**; 
+    - **forma presencial somente** admitida quando **comprovada inviabilidade técnica** ou **desvantagem para a administração em relação ao formato eletrônico**:
+        - indicado, na divulgação, o **local**, o **dia** e a **hora** de sua **realização**;
+- **não exigirá registro cadastral prévio**; 
+- **não terá fase de habilitação**; 
+- **homologado** assim que **concluída a fase de lances**, **superada a fase recursal** e **efetivado o pagamento** pelo licitante vencedor, na forma definida no edital.
+
+**7.5 Diálogo competitivo**
+
+- contratação de **obras, serviços e compras;**
+- administração pública realiza diálogos com **licitantes previamente selecionados**;
+- critérios **objetivos**;
+- **desenvolver** uma ou mais **alternativas capazes de atender às necessidades da administração**;
+- apresentação da **proposta final após o encerramento dos diálogos**;
+- **desenvolver métodos inovadores** para resolver os problemas da administração;
+- **etapas**:  
+    - **divulgação** do **edital de pré-seleção**:  
+        - **prazo mínimo de 25 dias úteis** para **manifestação de interesse em participar** da licitação;
+        - em **sítio eletrônico oficial;**
+    - **pré-seleção dos licitantes**;
+    - **diálogo** entre os licitantes e a administração **para a escolha de uma solução**;
+    - **divulgação** do **edital da fase competitiva**:
+        - **especificação da solução** que atenda às suas necessidades; e
+        - **critérios objetivos** a serem utilizados para **seleção da proposta** mais vantajosa.
+        - **prazo** para a **apresentação das propostas** **não será inferior a 60 dias úteis,** para todos os licitantes pré-selecionados apresentarem suas propostas,
+    - **apresentação das propostas finais**, a partir da solução elaborada, e julgamento das propostas.
+-  **requisitos**:
+    - **contratar objeto** com as seguintes **condições**:
+        - **inovação** tecnológica ou técnica;
+        - **impossibilidade** de o órgão ou entidade ter sua **necessidade satisfeita** **sem a adaptação de soluções** disponíveis no mercado;
+        - **impossibilidade** de as **especificações técnicas** serem **definidas com precisão** suficiente pela administração.
+    - **definir e identificar** os **meios** e as **alternativas** que possam **satisfazer suas necessidades**:
+        - **solução técnica** mais **adequada**;
+        - **requisitos técnicos aptos** a concretizar a solução já definida;
+        - **estrutura jurídica** ou **financeira** do contrato.
+- **comissão de contratação**:
+    - pelo menos **três servidores efetivos** ou **empregados públicos** pertencentes aos quadros **permanentes** da administração;
+    - admitida a **contratação de profissionais para assessoramento técnico** da comissão.
 
 ![[Quando pode usar o diálogo competitivo.png]]
 
