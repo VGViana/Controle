@@ -668,3 +668,205 @@ _§ 4º - Na hipótese do_ _<span style="color:#fe8019">parágrafo anterior</spa
 
 STF - transporte clandestino de animais com destino ao exterior - interesse da UNIÃO - **competência da Justiça Federal**
 
+# **8. Justiça do Trabalho**
+
+- **<u>Órgãos da Justiça do Trabalho</u>**:
+    - Tribunal Superior Do Trabalho (TST);
+    - Tribunais Regionais do Trabalho (TRT's);
+    - Juízes do Trabalho.
+
+## **8.1 Tribunal Superior do Trabalho**
+
+⚠️ **<span style="color:#d3869b">Requisitos</span>** para ser Ministro do TST
+
+- Nomeados pelo Presidente da República, após aprovação do SF (maioria absoluta);
+- Mais de 35 anos, menos de 70 anos;
+- Estar em gozo dos seus direitos políticos;
+- Brasileiro <u>nato ou naturalizado</u>;
+- Notável saber jurídico;
+- Reputação ilibada.
+
+  
+⚠️ **<span style="color:#d3869b">Composição - 27 ministros</span>**
+
+- 1/5 - Dentre:
+    -  Advogados com mais de 10 anos de **efetiva** atividade profissional;
+    - membros do MPT com mais de dez anos de efetivo exercício.
+- 4/5 - Juízes dos TRTs.
+
+⚠️ **<span style="color:#d3869b">Funciona junto aos TST:</span>**
+
+- Escola Nacional de Formação e Aperfeiçoamento de Magistrados do Trabalho;
+- Conselho Superior da Justiça do Trabalho.
+
+**⚠️<span style="color:#fb4934">Decore</span>**:
+
+_Art. 111, § 3º, CF/88 Compete ao_ **_<u>Tribunal Superior do Trabalho</u>_** _<span style="color:#fe8019">processar e julgar</span>,_ **_originariamente_**_, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões._   
+
+## **8.2 Tribunais Regionais do Trabalho**
+
+⚠️ **<span style="color:#d3869b">Requisitos</span>** para ser Juiz do TRT
+
+- Nomeados pelo Presidente da República;
+- Mais de 30 anos, menos de 70 anos.
+
+  
+⚠️ **<span style="color:#d3869b">Composição - <u>no mínimo</u> 7 ministros</span>**
+
+- 1/5 - Dentre:
+    -  Advogados com mais de 10 anos de **efetiva** atividade profissional;
+    - membros do MPT com mais de dez anos de efetivo exercício.
+- 4/5 - Promoção dos Juízes do Trabalho - merecimento/antiguidade.
+
+**⚠️<span style="color:#fb4934">Decore</span>**:
+
+_Art. 112, CF/88_  _Art. 112. A lei criará varas da Justiça do Trabalho, podendo, nas_ **_<u>comarcas não abrangidas por sua jurisdição</u>_**_,_ **_atribuí-la aos juízes de direito_**_,_ **_<span style="color:#fe8019">com recurso para o respectivo Tribunal Regional do Trabalho.</span>_** 
+
+_Art. 115, CF/88_
+
+_§ 1º Os_ **_Tribunais Regionais do Trabalho_** _instalarão a_ **_<span style="color:#83a598">justiça itinerante</span>,_** _com a realização de audiências e demais funções de atividade jurisdicional, nos li_**_mites territoriais da respectiva jurisdição,_** _servindo-se de equipamentos públicos e comunitários._            
+
+_§ 2º Os_ **_Tribunais Regionais do Trabalho_** _poderão_ **_<span style="color:#83a598">funcionar descentralizadamente</span>_**_, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo._ 
+
+## **6.3 Competência da Justiça do Trabalho**
+
+**<span style="color:#d3869b">Processar e Julgar:</span>**
+
+- <span style="color:#83a598">ações oriundas da relação de trabalho</span>;
+- Abrange os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios;
+- ações que envolvam <span style="color:#83a598">exercício do direito de greve</span>;
+- ações sobre representação sindical, **<u>entre</u>**:
+    - sindicatos,
+    - entre sindicatos e trabalhadores, e
+    - entre sindicatos e empregadores;
+- <span style="color:#83a598">mandados de segurança, habeas corpus e habeas data</span>, quando o ato questionado **<span style="color:#b8bb26">envolver matéria sujeita à sua jurisdição;</span>**
+- <span style="color:#83a598">conflitos de competência</span> **<u>entre</u>:**
+    - órgãos com jurisdição trabalhista,
+    - **<span style="color:#fe8019">ressalvado</span>** o disposto no art. 102, I, o;
+        - _Art. 102, CF/88. Compete ao <u>Supremo Tribunal Federal</u>, precipuamente, a guarda da Constituição, cabendo-lhe:  
+            __I - processar e julgar, originariamente:  
+            __o) os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal;_
+- ações de <span style="color:#83a598">indenização por dano moral ou patrimonial</span>, **<span style="color:#b8bb26">decorrentes da relação de trabalho</span>;**
+- ações relativas às <span style="color:#83a598">penalidades administrativas</span> **<span style="color:#b8bb26">impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho</span>;**
+- <span style="color:#83a598">execução</span>, **<u>de ofício</u>**, das <span style="color:#83a598">contribuições sociais</span> previstas no art. 195, I, a , e II, e seus acréscimos legais, decorrentes das sentenças que proferir;
+- outras controvérsias **<span style="color:#b8bb26"><u>decorrentes da relação de trabalho</u></span>**, na forma da lei.
+
+🚨 **<span style="color:#fb4934">IMPORTANTE</span>**:
+
+- Frustrada a negociação coletiva, as **partes poderão eleger árbitros.**
+- <span style="color:#fe8019">Recusando-se qualquer das partes à negociação coletiva ou à arbitragem</span>, é facultado às mesmas, de comum acordo, ajuizar:
+- **dissídio coletivo de natureza econômica**, <span style="color:#83a598">podendo a Justiça do Trabalho decidir o conflito</span>, respeitadas as disposições mínimas legais de proteção ao trabalho, bem como as convencionadas anteriormente.
+- Em caso de **<u>greve em atividade essencial</u>**, <span style="color:#fe8019">com possibilidade de lesão do interesse público</span>, <u>o Ministério Público do Trabalho poderá ajuizar dissídio coletivo</u>, <span style="color:#83a598">competindo à Justiça do Trabalho decidir o conflito.</span>
+
+STF - Não compete à Justiça do Trabalho processar e julgar ações envolvendo as **relações de consumo.**
+
+STF - Não compete à Justiça do Trabalho processar e julgar ações entre Poder Público e servidores públicos de vínculo **estatutário**.
+
+⚠️ A greve referente aos **<span style="color:#83a598">empregados públicos (trabalham em empresas públicas e sociedades de economia mista)</span>** será de competência da Justiça do Trabalho.
+
+⚠️ A Justiça Comum possui a competência para julgar a **<span style="color:#d3869b">abusividade da greve</span>** dos **<span style="color:#83a598">servidores públicos</span>,** sejam estes estatutários ou celetistas.
+
+STF - Não compete à Justiça do Trabalho processar e julgar o **direito de greve.**
+
+Súmula Vinculante nº 23 - a Justiça do Trabalho é competente para processar e julgar ação possessória ajuizada em decorrência do exercício do direito de greve pelos trabalhadores da **iniciativa** **privada.**
+
+# **9. Justiça Eleitoral**
+
+- <u>Órgãos da Justiça do Eleitoral</u>:
+    - Tribunal Superior Eleitoral (TSE);
+    - Tribunais Regionais Eleitorais (TRE's);
+    - Juízes Eleitorais;
+    - Juntas Eleitorais.
+
+## **9.1 Tribunal Superior Eleitoral**
+
+⚠️ **<span style="color:#d3869b">Composição - mínimo de 7 Ministros</span> -** TSE
+
+- Eleição (<span style="color:#fb4934">voto secreto</span>):
+    - 3 Juízes do STF;
+    - 2 Juízes do STJ.
+- Nomeados pelo Presidente da República:
+    - 2 Juízes dentre 6 advogados indicados pelo STF, de:
+        - Notável saber jurídico;
+        - Idoneidade moral.
+
+_Art. 119, Parágrafo único, CF/88. O Tribunal Superior Eleitoral elegerá seu Presidente e o Vice-Presidente dentre os Ministros do Supremo Tribunal Federal, e o Corregedor Eleitoral dentre os Ministros do Superior Tribunal de Justiça._
+
+_Art. 121, § 3º, CF/88_ _São_ **_<span style="color:#d3869b">irrecorríveis</span>_** _as decisões do_ **_<span style="color:#83a598"><u>Tribunal Superior Eleitoral</u></span>_**_,_ **_<span style="color:#fe8019">salvo as que contrariarem esta Constituição e as denegatórias de habeas corpus ou mandado de segurança.</span>_**
+
+## **9.2 Tribunais Regionais Eleitorais**
+
+⚠️ **<span style="color:#d3869b">Composição</span>**
+
+- Eleição(<span style="color:#fb4934">voto secreto</span>):
+    - 2 Juízes dentre Desembargadores do TJ;
+    - 2 Juízes dentre Juízes de Direito - escolhidos pelo TJ;
+- 1 Juiz do TRF
+- Nomeado pelo Presidente da República:
+    - 2 Juízes dentre 6 advogados indicados pelo STF, de:
+        - Notável saber jurídico;
+        - Idoneidade moral.
+
+O TRE elegerá seu presidente e vice-presidente dentre os **<span style="color:#fb4934">desembargadores.</span>**
+
+**⚠️<span style="color:#fb4934">Decore</span>**:
+
+_Art. 121, § 4º, CF/88 Das_ **_decisões dos_** **_<span style="color:#83a598"><u>Tribunais Regionais Eleitorais</u></span>_** **_<span style="color:#fe8019">somente caberá recurso quando:</span>_**
+
+_I - forem proferidas contra disposição expressa desta Constituição ou de lei;_
+
+_II - ocorrer divergência na interpretação de lei entre dois ou mais tribunais eleitorais;_
+
+_III - versarem sobre inelegibilidade ou expedição de diplomas nas eleições federais ou estaduais;_
+
+_IV - anularem diplomas ou decretarem a perda de mandatos eletivos federais ou estaduais;_
+
+_V - denegarem habeas corpus, mandado de segurança, habeas data ou mandado de injunção_
+
+## **9.3** **Juízes de Direito e Juntas Eleitorais**
+
+**⚠️<span style="color:#fb4934">Decore</span>**:
+
+_Art. 121, CF/88._ **_<span style="color:#fe8019">Lei complementar</span>_** _disporá sobre a organização e competência dos tribunais, dos_ **_<span style="color:#83a598">juízes de direito e das juntas eleitorais.</span>_**
+
+_§ 1º Os membros dos tribunais, os juízes de direito e os integrantes das juntas eleitorais, no exercício de suas funções, e no que lhes for aplicável,_ **_gozarão de plenas garantias e serão inamovíveis._**
+
+_§ 2º Os_ **_juízes dos tribunais eleitorais_**_, salvo motivo justificado,_ **_servirão por dois anos_**_, <u>no mínimo</u>, e nunca por mais de dois biênios consecutivos, sendo os substitutos escolhidos na mesma ocasião e pelo mesmo processo, em número igual para cada    categoria._
+
+# **10. Justiça Militar da União**
+
+- <u>Órgãos da Justiça Militar da União</u>:
+    - Superior Tribunal Militar (STM);
+    - Tribunais e Juízes Militares.
+
+⚠️ **<span style="color:#d3869b">Composição 15 Ministros vitalícios</span>** 
+
+- Nomeados pelo Presidente da República e aprovados pelo Senado Federal:
+    - 3 dentre oficiais-generais da Marinha;
+    - 4 dentre oficiais-generais do Exército;
+    - 3 dentre oficiais-generais da Aeronáutica;
+    - 5 civis brasileiros com mais de trinta e cinco e menos de setenta anos de idade:
+        - 3 Advogados de notório saber jurídico e conduta ilibada, com mais de dez anos de efetiva atividade profissional;
+        - 2 por escolha paritária, dentre juízes auditores e membros do Ministério Público da Justiça Militar.
+
+**⚠️<span style="color:#fb4934">Decore</span>**:
+
+_Art. 124, CF/88. à Justiça Militar compete processar e julgar os crimes militares definidos em lei._
+
+_Parágrafo único. A lei disporá sobre a organização, o funcionamento e a competência da Justiça Militar._
+
+# **11. Tribunais e Juízes dos Estados**
+
+Fique atento para os seguintes dispositivos:
+
+_Art. 125. § 2º, CF/88._ **_==Cabe aos Estados==_** _a_ **_<u>instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual,</u>_** _<span style="color:#fe8019">vedada a atribuição da legitimação para agir a um único órgão.</span>_
+
+⚠️ É **<span style="color:#fb4934">VEDADO</span>** que seja atribuída a competência para representação de inconstitucionalidade a um único órgão.
+
+_§ 5º Compete aos_ **_juízes de direito do juízo militar processar e julgar_**_, singularmente, os_ **_crimes militares cometidos <u>contra civis</u> e as ações judiciais contra atos disciplinares militares_**_, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares._  
+
+_§ 6º O Tribunal de Justiça poderá funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo._  
+
+_§ 7º O_ **_Tribunal de Justiça instalará a justiça itinerante_**_, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários._  
+
+_Art. 126. CF/88. Para dirimir_ **_==conflitos fundiários==_**_, o_ **_Tribunal de Justiça proporá a criação de varas especializadas, com_** **_<span style="color:#fe8019">competência exclusiva</span>_** **_para questões agrárias._**
