@@ -438,3 +438,4 @@
 
 ![[Concurso.png]]
 
+![[Quando pode usar o diálogo competitivo.png]]
