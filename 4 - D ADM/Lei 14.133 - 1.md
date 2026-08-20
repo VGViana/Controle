@@ -477,18 +477,18 @@
     - afixado em **<span style="color:#83a598">local de ampla circulação</span>** de pessoas na sede da administração; 
     - **<span style="color:#83a598">facultada</span>** a **<span style="color:#83a598">divulgação por outros meios</span>** necessários para ampliar a publicidade e a competitividade da licitação;
     - realizado **<span style="color:#83a598">preferencialmente da forma eletrônica</span>**; 
-    - **<span style="color:#83a598">forma presencial somente</span>** admitida quando **comprovada inviabilidade técnica** ou **desvantagem para a administração em relação ao formato eletrônico**:
-        - indicado, na divulgação, o **local**, o **dia** e a **hora** de sua **realização**;
-- **não exigirá registro cadastral prévio**; 
-- **não terá fase de habilitação**; 
-- **homologado** assim que **concluída a fase de lances**, **superada a fase recursal** e **efetivado o pagamento** pelo licitante vencedor, na forma definida no edital.
+    - **<span style="color:#83a598">forma presencial somente</span>** admitida quando **<span style="color:#83a598">comprovada inviabilidade técnica</span>** ou **<span style="color:#83a598">desvantagem para a administração em relação ao formato eletrônico</span>**:
+        - indicado, na divulgação, o **<span style="color:#83a598">local</span>**, o **<span style="color:#83a598">dia</span>** e a **<span style="color:#83a598">hora</span>** de sua **<span style="color:#83a598">realização</span>**;
+- **<span style="color:#fb4934">não exigirá registro cadastral prévio</span>**; 
+- **<span style="color:#fb4934">não terá fase de habilitação</span>**; 
+- **homologado** assim que **<span style="color:#83a598">concluída a fase de lances</span>**, **<span style="color:#83a598">superada a fase recursal</span>** e **<span style="color:#83a598">efetivado o pagamento</span>** pelo licitante vencedor, na forma definida no edital.
 
-**7.5 Diálogo competitivo**
+## **7.5 Diálogo competitivo**
 
-- contratação de **obras, serviços e compras;**
-- administração pública realiza diálogos com **licitantes previamente selecionados**;
-- critérios **objetivos**;
-- **desenvolver** uma ou mais **alternativas capazes de atender às necessidades da administração**;
+- contratação de **<span style="color:#b8bb26">obras, serviços e compras</span>;**
+- administração pública realiza diálogos com **<span style="color:#b8bb26">licitantes previamente selecionados</span>**;
+- critérios **<span style="color:#b8bb26">objetivos</span>**;
+- **<span style="color:#b8bb26">desenvolver</span>** uma ou mais **<span style="color:#b8bb26">alternativas capazes de atender às necessidades da administração</span>**;
 - apresentação da **proposta final após o encerramento dos diálogos**;
 - **desenvolver métodos inovadores** para resolver os problemas da administração;
 - **etapas**:  
