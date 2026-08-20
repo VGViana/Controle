@@ -667,3 +667,4 @@ _§ 3º -_ **_<span style="color:#fe8019">Lei</span>_** _poderá autorizar que a
 _§ 4º - Na hipótese do_ _<span style="color:#fe8019">parágrafo anterior</span>__, o_ **_recurso_** _cabível será sempre para o_ **_Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau._**
 
 STF - transporte clandestino de animais com destino ao exterior - interesse da UNIÃO - **competência da Justiça Federal**
+
