@@ -461,23 +461,23 @@
 - alienação de de **<span style="color:#83a598">bens móveis</span> _<span style="color:#83a598"><u>inservíveis</u></span>_**;
 - alienação de **<span style="color:#83a598">bens móveis</span> _<span style="color:#83a598"><u>legalmente apreendidos</u></span>_**;
 - a quem oferecer o **<span style="color:#83a598">maior lance</span>**;
-- **ÚNICA modalidade de licitação que admite o critério de julgamento de maior lance;**
-- **regulamento** deverá dispor sobre seus **procedimentos operacionais**;
-- **condução** do leilão por:  
-    - **leiloeiro oficial** (leilão **comum**):  
-        - **seleção** de leiloeiro oficial:
-            - **credenciamento**;
-            - licitação na modalidade **pregão**;
-            - critério de julgamento de **maior desconto** para as comissões a serem cobradas;
-            - **parâmetro máximo**:  **percentuais definidos na lei** que **regula** a **profissão** e **observados** os **valores dos bens a serem leiloados.**
-    - **servidor designado** pela autoridade competente da administração (leilão **administrativo**);
-- **prazo mínimo** de **divulgação do edital**: 
-    - **15 dias úteis**;
-    - em **sítio eletrônico oficial**; 
-    - afixado em **local de ampla circulação** de pessoas na sede da administração; 
-    - **facultada** a **divulgação por outros meios** necessários para ampliar a publicidade e a competitividade da licitação;
-    - realizado **preferencialmente da forma eletrônica**; 
-    - **forma presencial somente** admitida quando **comprovada inviabilidade técnica** ou **desvantagem para a administração em relação ao formato eletrônico**:
+- **==ÚNICA modalidade de licitação que admite o critério de julgamento de maior lance;==**
+- **<span style="color:#83a598">regulamento</span>** deverá dispor sobre seus **<span style="color:#83a598">procedimentos operacionais</span>**;
+- **<span style="color:#83a598">condução</span>** do leilão por:  
+    - **<span style="color:#83a598">leiloeiro oficial</span>** (leilão **<span style="color:#83a598"><u>comum</u></span>**):  
+        - **<span style="color:#83a598">seleção</span>** de leiloeiro oficial:
+            - **<span style="color:#83a598">credenciamento</span>**;
+            - licitação na modalidade **<span style="color:#83a598">pregão</span>**;
+            - critério de julgamento de **<span style="color:#83a598">maior desconto</span>** para as comissões a serem cobradas;
+            - **<span style="color:#83a598">parâmetro máximo</span>**:  **percentuais definidos na lei** que **regula** a **profissão** e **observados** os **valores dos bens a serem leiloados.**
+    - **<span style="color:#83a598">servidor designado</span>** pela autoridade competente da administração (leilão **<span style="color:#83a598">administrativo</span>**);
+- **prazo mínimo** de **<span style="color:#83a598">divulgação do edital</span>**: 
+    - **==15 dias úteis==**;
+    - em **<span style="color:#83a598">sítio eletrônico oficial</span>**; 
+    - afixado em **<span style="color:#83a598">local de ampla circulação</span>** de pessoas na sede da administração; 
+    - **<span style="color:#83a598">facultada</span>** a **<span style="color:#83a598">divulgação por outros meios</span>** necessários para ampliar a publicidade e a competitividade da licitação;
+    - realizado **<span style="color:#83a598">preferencialmente da forma eletrônica</span>**; 
+    - **<span style="color:#83a598">forma presencial somente</span>** admitida quando **comprovada inviabilidade técnica** ou **desvantagem para a administração em relação ao formato eletrônico**:
         - indicado, na divulgação, o **local**, o **dia** e a **hora** de sua **realização**;
 - **não exigirá registro cadastral prévio**; 
 - **não terá fase de habilitação**; 
