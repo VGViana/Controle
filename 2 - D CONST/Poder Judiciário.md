@@ -454,7 +454,6 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 
 ⚠️ Apenas haverá **recusa** por parte do STF da repercussão geral, caso haja manifestação por **<span style="color:#fb4934">2/3 dos seus membros.</span>**
 
-![[Poder Judiciário 1.png]]
 
 # **6. Superior Tribunal de Justiça**
 
@@ -499,6 +498,7 @@ Funcionarão, junto ao STJ:
 
 - Membros do MPU junto aos tribunais.
 
+![[Poder Judiciário 1.png]]
 ### **<span style="color:#fb4934">Habeas Corpus</span>**
 
 - **COATOR/PACIENTE**: aqueles elencados acima ☝️
