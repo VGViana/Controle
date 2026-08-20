@@ -439,18 +439,18 @@
 ![[Pregão.png]]
 ## **7.3 Concurso**
 
-- para escolha de **trabalho técnico, científico ou artístico**;
-- concessão de **prêmio** ou **remuneração** ao vencedor;
+- para escolha de **<span style="color:#fb4934">trabalho técnico, científico ou artístico</span>**;
+- concessão de **<span style="color:#fb4934">prêmio</span>** ou **<span style="color:#fb4934">remuneração</span>** ao vencedor;
 - **critério de julgamento**:
-    - **melhor técnica**;
-    - **conteúdo artístico.**
-- princípio do **julgamento objetivo flexibilizado** (**análise um pouco subjetiva**, mas **não arbitrária**);
-- **regras e condições** previstas em **edital**, que indicará:
-    - a **qualificação exigida** dos participantes;
-    - as **diretrizes e formas de apresentação** do trabalho;
-    - as **condições de realização** e o **prêmio** ou **remuneração** a ser concedida ao vencedor.
-- **prazo mínimo** de **divulgação do edital**:
-    - - **35 dias** **úteis**;
+    - **<span style="color:#fb4934">melhor técnica</span>**;
+    - **<span style="color:#fb4934">conteúdo artístico</span>.**
+- princípio do **<span style="color:#fb4934">julgamento objetivo flexibilizado</span>** (**análise um pouco subjetiva**, mas **<span style="color:#fb4934">não arbitrária</span>**);
+- **<span style="color:#fb4934">regras e condições</span>** previstas em **<span style="color:#fb4934">edital</span>**, que indicará:
+    - a **<span style="color:#fb4934">qualificação exigida</span>** dos participantes;
+    - as **<span style="color:#fb4934">diretrizes e formas de apresentação</span>** do trabalho;
+    - as **<span style="color:#fb4934">condições de realização</span>** e o **<span style="color:#fb4934">prêmio</span>** ou **<span style="color:#fb4934">remuneração</span>** a ser concedida ao vencedor.
+- **prazo mínimo** de **<span style="color:#fb4934">divulgação do edital</span>**:
+    - **35 dias** **úteis**;
 - **elaboração de projeto:**
     - **autor** deverá **ceder os direitos patrimoniais**.
 
