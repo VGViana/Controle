@@ -500,14 +500,14 @@
     - **<span style="color:#b8bb26">divulgação</span>** do **<span style="color:#b8bb26">edital da fase competitiva</span>**:
         - **<span style="color:#b8bb26">especificação da solução</span>** que atenda às suas necessidades; e
         - **<span style="color:#b8bb26">critérios objetivos</span>** a serem utilizados para **<span style="color:#b8bb26">seleção da proposta</span>** mais vantajosa.
-        - **<span style="color:#b8bb26">prazo</span>** para a **<span style="color:#b8bb26">apresentação das propostas</span>** **não será inferior a 60 dias úteis,** para todos os licitantes pré-selecionados apresentarem suas propostas,
-    - **apresentação das propostas finais**, a partir da solução elaborada, e julgamento das propostas.
+        - **<span style="color:#b8bb26">prazo</span>** para a **<span style="color:#b8bb26">apresentação das propostas</span>** **==não será inferior a 60 dias úteis==,** para todos os licitantes pré-selecionados apresentarem suas propostas,
+    - **<span style="color:#b8bb26">apresentação das propostas finais</span>**, a partir da solução elaborada, e julgamento das propostas.
 -  **requisitos**:
-    - **contratar objeto** com as seguintes **condições**:
-        - **inovação** tecnológica ou técnica;
-        - **impossibilidade** de o órgão ou entidade ter sua **necessidade satisfeita** **sem a adaptação de soluções** disponíveis no mercado;
-        - **impossibilidade** de as **especificações técnicas** serem **definidas com precisão** suficiente pela administração.
-    - **definir e identificar** os **meios** e as **alternativas** que possam **satisfazer suas necessidades**:
+    - **<span style="color:#b8bb26">contratar objeto</span>** com as seguintes **<span style="color:#b8bb26">condições</span>**:
+        - **<span style="color:#b8bb26">inovação</span>** tecnológica ou técnica;
+        - **<span style="color:#b8bb26">impossibilidade</span>** de o órgão ou entidade ter sua **<span style="color:#b8bb26">necessidade satisfeita</span>** **<span style="color:#b8bb26">sem a adaptação de soluções</span>** disponíveis no mercado;
+        - **<span style="color:#b8bb26">impossibilidade</span>** de as **<span style="color:#b8bb26">especificações técnicas</span>** serem **<span style="color:#b8bb26">definidas com precisão</span>** suficiente pela administração.
+    - **<span style="color:#b8bb26">definir e identificar</span>** os **<span style="color:#b8bb26">meios</span>** e as **alternativas** que possam **satisfazer suas necessidades**:
         - **solução técnica** mais **adequada**;
         - **requisitos técnicos aptos** a concretizar a solução já definida;
         - **estrutura jurídica** ou **financeira** do contrato.
