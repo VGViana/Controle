@@ -432,3 +432,4 @@
 - **serviços técnicos especializados** de **<span style="color:#fe8019">natureza predominantemente intelectual</span>**;
 - **<span style="color:#fe8019">obras</span>**;
 - **serviços de engenharia <span style="color:#fe8019">especiais</span>**.
+
