@@ -450,17 +450,17 @@
     - as **<span style="color:#fb4934">diretrizes e formas de apresentação</span>** do trabalho;
     - as **<span style="color:#fb4934">condições de realização</span>** e o **<span style="color:#fb4934">prêmio</span>** ou **<span style="color:#fb4934">remuneração</span>** a ser concedida ao vencedor.
 - **prazo mínimo** de **<span style="color:#fb4934">divulgação do edital</span>**:
-    - **35 dias** **úteis**;
-- **elaboração de projeto:**
+    - **==35 dias úteis==**;
+- **<span style="color:#fb4934">elaboração de projeto</span>:**
     - **autor** deverá **ceder os direitos patrimoniais**.
 
 ![[Concurso.png]]
-**7.4 Leilão**
+## **7.4 Leilão**
 
-- alienação de **bens imóveis**;
-- alienação de de **bens móveis _inservíveis_**;
-- alienação de **bens móveis _legalmente apreendidos_**;
-- a quem oferecer o **maior lance**;
+- alienação de **<span style="color:#83a598">bens imóveis</span>**;
+- alienação de de **<span style="color:#83a598">bens móveis</span> _<span style="color:#83a598"><u>inservíveis</u></span>_**;
+- alienação de **<span style="color:#83a598">bens móveis</span> _<span style="color:#83a598"><u>legalmente apreendidos</u></span>_**;
+- a quem oferecer o **<span style="color:#83a598">maior lance</span>**;
 - **ÚNICA modalidade de licitação que admite o critério de julgamento de maior lance;**
 - **regulamento** deverá dispor sobre seus **procedimentos operacionais**;
 - **condução** do leilão por:  
