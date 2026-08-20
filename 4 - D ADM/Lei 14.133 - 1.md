@@ -507,13 +507,13 @@
         - **<span style="color:#b8bb26">inovação</span>** tecnológica ou técnica;
         - **<span style="color:#b8bb26">impossibilidade</span>** de o órgão ou entidade ter sua **<span style="color:#b8bb26">necessidade satisfeita</span>** **<span style="color:#b8bb26">sem a adaptação de soluções</span>** disponíveis no mercado;
         - **<span style="color:#b8bb26">impossibilidade</span>** de as **<span style="color:#b8bb26">especificações técnicas</span>** serem **<span style="color:#b8bb26">definidas com precisão</span>** suficiente pela administração.
-    - **<span style="color:#b8bb26">definir e identificar</span>** os **<span style="color:#b8bb26">meios</span>** e as **alternativas** que possam **satisfazer suas necessidades**:
-        - **solução técnica** mais **adequada**;
-        - **requisitos técnicos aptos** a concretizar a solução já definida;
-        - **estrutura jurídica** ou **financeira** do contrato.
+    - **<span style="color:#b8bb26">definir e identificar</span>** os **<span style="color:#b8bb26">meios</span>** e as **<span style="color:#b8bb26">alternativas</span>** que possam **<span style="color:#b8bb26">satisfazer suas necessidades</span>**:
+        - **<span style="color:#b8bb26">solução técnica</span>** mais **<span style="color:#b8bb26">adequada</span>**;
+        - **<span style="color:#b8bb26">requisitos técnicos aptos</span>** a concretizar a solução já definida;
+        - **<span style="color:#b8bb26">estrutura jurídica</span>** ou **<span style="color:#b8bb26">financeira</span>** do contrato.
 - **comissão de contratação**:
-    - pelo menos **três servidores efetivos** ou **empregados públicos** pertencentes aos quadros **permanentes** da administração;
-    - admitida a **contratação de profissionais para assessoramento técnico** da comissão.
+    - pelo menos **<span style="color:#b8bb26">três servidores efetivos</span>** ou **<span style="color:#b8bb26">empregados públicos</span>** pertencentes aos quadros **<span style="color:#b8bb26">permanentes</span>** da administração;
+    - admitida a **<span style="color:#b8bb26">contratação de profissionais para assessoramento técnico</span>** da comissão.
 
 ![[Quando pode usar o diálogo competitivo.png]]
 
