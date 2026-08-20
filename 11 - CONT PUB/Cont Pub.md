@@ -2,3 +2,4 @@
 - [[1. Procedimentos Contábeis Orçamentários (I)]]
 - [[2. Procedimentos Contábeis Orçamentários 2]]
 - [[3. Procedimentos contábeis patrimoniais 1]]
+- [[4. Procedimentos Contábeis Patrimoniais 2]]
