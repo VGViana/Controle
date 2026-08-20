@@ -382,6 +382,8 @@
 - **<span style="color:#fb4934">vedada</span>** a **<span style="color:#d3869b">criação de outras modalidades</span>** de licitação ou, ainda, a **<span style="color:#d3869b">combinação das modalidades existentes</span>**;
 - concorrência e o pregão seguem o rito procedimental comum.
 
+
+![[Resumo das modalidades.png]]
 ⚠️ A administração poderá utilizar **procedimentos auxiliares,** instrumentos que auxiliam a administração no procedimento de contratação.  
   
 
@@ -439,3 +441,5 @@
 ![[Concurso.png]]
 
 ![[Quando pode usar o diálogo competitivo.png]]
+
+![[Diálogo Competitivo.png]]
