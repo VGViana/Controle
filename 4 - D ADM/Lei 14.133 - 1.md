@@ -489,18 +489,18 @@
 - administração pública realiza diálogos com **<span style="color:#b8bb26">licitantes previamente selecionados</span>**;
 - critérios **<span style="color:#b8bb26">objetivos</span>**;
 - **<span style="color:#b8bb26">desenvolver</span>** uma ou mais **<span style="color:#b8bb26">alternativas capazes de atender às necessidades da administração</span>**;
-- apresentação da **proposta final após o encerramento dos diálogos**;
-- **desenvolver métodos inovadores** para resolver os problemas da administração;
+- apresentação da **<span style="color:#b8bb26">proposta final após o encerramento dos diálogos</span>**;
+- **<span style="color:#b8bb26">desenvolver métodos inovadores</span>** para resolver os problemas da administração;
 - **etapas**:  
-    - **divulgação** do **edital de pré-seleção**:  
-        - **prazo mínimo de 25 dias úteis** para **manifestação de interesse em participar** da licitação;
-        - em **sítio eletrônico oficial;**
-    - **pré-seleção dos licitantes**;
-    - **diálogo** entre os licitantes e a administração **para a escolha de uma solução**;
-    - **divulgação** do **edital da fase competitiva**:
-        - **especificação da solução** que atenda às suas necessidades; e
-        - **critérios objetivos** a serem utilizados para **seleção da proposta** mais vantajosa.
-        - **prazo** para a **apresentação das propostas** **não será inferior a 60 dias úteis,** para todos os licitantes pré-selecionados apresentarem suas propostas,
+    - **<span style="color:#b8bb26">divulgação</span>** do **<span style="color:#b8bb26">edital de pré-seleção</span>**:  
+        - **==prazo mínimo de 25 dias úteis==** para **<span style="color:#b8bb26">manifestação de interesse em participar</span>** da licitação;
+        - em **<span style="color:#b8bb26">sítio eletrônico oficial</span>;**
+    - **<span style="color:#b8bb26">pré-seleção dos licitantes</span>**;
+    - **<span style="color:#b8bb26">diálogo</span>** entre os licitantes e a administração **<span style="color:#b8bb26">para a escolha de uma solução</span>**;
+    - **<span style="color:#b8bb26">divulgação</span>** do **<span style="color:#b8bb26">edital da fase competitiva</span>**:
+        - **<span style="color:#b8bb26">especificação da solução</span>** que atenda às suas necessidades; e
+        - **<span style="color:#b8bb26">critérios objetivos</span>** a serem utilizados para **<span style="color:#b8bb26">seleção da proposta</span>** mais vantajosa.
+        - **<span style="color:#b8bb26">prazo</span>** para a **<span style="color:#b8bb26">apresentação das propostas</span>** **não será inferior a 60 dias úteis,** para todos os licitantes pré-selecionados apresentarem suas propostas,
     - **apresentação das propostas finais**, a partir da solução elaborada, e julgamento das propostas.
 -  **requisitos**:
     - **contratar objeto** com as seguintes **condições**:
