@@ -416,6 +416,7 @@
             - **<span style="color:#fb4934">alta heterogeneidade</span>** ou **<span style="color:#fb4934">complexidade</span>;**
             - **<span style="color:#fe8019">não se enquadra na definição de comum</span>**.
 
+![[Concorrência.png]]
 ## **7.2 Pregão**
 
 - **<span style="color:#fb4934">obrigatória</span>** para aquisição de **<span style="color:#fb4934">bens e serviços comuns</span>**:  
@@ -432,4 +433,8 @@
 - **serviços técnicos especializados** de **<span style="color:#fe8019">natureza predominantemente intelectual</span>**;
 - **<span style="color:#fe8019">obras</span>**;
 - **serviços de engenharia <span style="color:#fe8019">especiais</span>**.
+
+![[Pregão.png]]
+
+![[Concurso.png]]
 
