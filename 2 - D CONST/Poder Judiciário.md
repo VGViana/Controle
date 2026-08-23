@@ -870,3 +870,4 @@ _§ 6º O Tribunal de Justiça poderá funcionar descentralizadamente, constitui
 _§ 7º O_ **_Tribunal de Justiça instalará a justiça itinerante_**_, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários._  
 
 _Art. 126. CF/88. Para dirimir_ **_==conflitos fundiários==_**_, o_ **_Tribunal de Justiça proporá a criação de varas especializadas, com_** **_<span style="color:#fe8019">competência exclusiva</span>_** **_para questões agrárias._**
+
