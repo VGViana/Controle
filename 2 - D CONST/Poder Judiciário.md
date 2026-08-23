@@ -871,3 +871,95 @@ _§ 7º O_ **_Tribunal de Justiça instalará a justiça itinerante_**_, com a r
 
 _Art. 126. CF/88. Para dirimir_ **_==conflitos fundiários==_**_, o_ **_Tribunal de Justiça proporá a criação de varas especializadas, com_** **_<span style="color:#fe8019">competência exclusiva</span>_** **_para questões agrárias._**
 
+# **12. Precatórios**
+
+- Pagamentos devidos pelas Fazendas Públicas **<span style="color:#fe8019">em decorrência de sentença judiciária</span>.**
+- Federal;
+- Estadual;
+- Distrital;
+- Municipal.
+
+- ⚠️ **O precatório pode ser originado através de:**
+	- **Execuções de títulos judiciais**
+	- **Execuções de títulos extrajudiciais**
+
+> **Súmula STJ nº 279**: É cabível execução por título extrajudicial contra a Fazenda Pública.
+
+- São pagamentos realizados **diretamente** pela Fazenda Pública.
+- Deve haver inclusão obrigatória no orçamento da entidade de direito público - precatórios apresentados até **<span style="color:#fe8019">1 de fevereiro (novidade da EC 136/2025!) - data limite para que os precatórios sejam pagos no próximo exercício.</span>**
+
+⚠️ Não deve haver incidência de juros de mora entra a data de apresentação dos precatórios até o período do pagamento (final do exercício seguinte) - período de graça (após esse período, haverá juros).
+
+⚠️Incide, uma única vez, a **<span style="color:#83a598">TAXA SELIC</span>**
+
+- O presidente do tribunal competente responderá, caso atrase a liquidação, perante o CNJ por <span style="color:#fe8019">crime de responsabilidade.</span>
+
+### **<u>Ordem de pagamento</u>**
+
+- **Ordem de apresentação - regra geral**
+    - **Preferenciais**
+        - **1) <u>requisições de pequeno valor</u>**
+        - **2) <u>alimentos</u>** - sobre qualquer outro,
+
+- **🚨 <span style="color:#fb4934">Exceto</span>** (até 3x "pequeno valor") admitido fracionamento (**<span style="color:#83a598">superpreferência</span>**)
+
+	- idosos > 60 anos ou seus sucessores
+	- doenças graves
+	- pessoas com deficiência física
+
+- Cada ente irá editar lei específica regulando as requisições de pequeno valor, na qual será disposto o <span style="color:#83a598">valor máximo</span>, saiba que o <span style="color:#fe8019">valor mínimo</span> será o valor do maior benefício do RGPS.
+
+- Caso não haja a elaboração da lei específica, considera-se como requisições de pequeno valor:
+
+	- União < 60 salários mínimos
+	- Estados/DF < 40 salários mínimos
+	- Municípios < 30 salários mínimos
+
+⚠️ STF - honorários advocatícios possuem natureza alimentícia
+
+Súmula Vinculante nº 47: Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.
+
+### **<span style="color:#fb4934">VEDAÇÕES</span>:**
+
+- Pagamento complementar ou suplementar de valor pago
+- Fracionamento
+
+🚨 **<span style="color:#fb4934">DECORE</span>: ORDEM GERAL DE PAGAMENTO!**
+
+Art. 107-A, § 8º, do ADCT:
+
+I - obrigações definidas em lei como de **<u>pequeno valor</u>,** previstas no § 3º do art. 100 da Constituição Federal;
+
+II - precatórios de **<u>natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham no mínimo 60 (sessenta) anos de idade, ou sejam portadores de doença grave ou pessoas com deficiência</u>,** assim definidos na forma da lei, <span style="color:#fe8019">até o valor equivalente ao triplo do montante</span> fixado em lei como obrigação de pequeno valor;
+
+III - **<u>demais precatórios de natureza alimentícia até o valor equivalente ao triplo do montante</u>** fixado em lei como obrigação de pequeno valor;
+
+IV - **<u>demais precatórios de natureza alimentícia</u>** além do valor previsto no inciso III deste parágrafo;
+
+V - **<u>demais precatórios</u>.**
+
+- **⚠️<span style="color:#fb4934">Proibido</span>** designar (dotação genérica)
+
+	- Pessoas e casos em:
+	- créditos abertos para esse fim
+	- dotações orçamentárias
+
+**⚠️União** pode assumir precatórios dos Estados/DF/Municípios
+
+**<span style="color:#83a598"><u>POSSIBILIDADE</u> de compensação de precatório com débitos</span>** **<span style="color:#83a598">tributários</span> -** **<span style="color:#fb4934">NÃO É OBRIGAÇÃO</span>!**
+
+Os precatórios podem ser usados para comprar imóveis públicos
+
+💡 Pode haver a possibilidade de cessão de precatórios à terceiros, porém, saiba que as preferências (alimentos, idade) não serão passadas para os adquirentes. Ainda, <u>não há a necessidade de concordância da Fazendo sobre a cessão.</u>
+
+  
+### **<span style="color:#83a598">Regime especial</span>**
+
+- Lei Complementar disporá sobre
+- vinculações à receita corrente líquida
+- forma e prazo de liquidação
+- para Estados/DF/Municípios
+
+⚠️ STF considerou o regime especial como inconstitucional, mas houve a modulação dos efeitos desta decisão.
+
+🚨STF - considera que o regime dos precatórios poderá ser aplicado às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial.
