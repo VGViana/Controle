@@ -2,7 +2,7 @@
 
 [[Associações Lógicas, Verdades e Mentiras e Sequências Lógicas]]
 
-[[Porcentagem]]
+[[19. Porcentagem]]
 
 [[Porcentagem, Proporcionalidade e Regra de 3]]
 
