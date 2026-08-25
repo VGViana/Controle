@@ -116,6 +116,7 @@ STF - É inconstitucional que normas estaduais <u>limitem a idade dos magistrado
 - **<span style="color:#d3869b">Inamovibilidade</span>** sem o consentimento do magistrado, inclusive nos casos de promoção - <span style="color:#fb4934">RESSALVADOS OS CASOS</span>:
 	- **Interesse público**, ==e==
 	- Decisão da **maioria absoluta,** respectivo Tribunal ou do CNJ - deve haver **ampla defesa**
+	> O STF entendeu pela **<span style="color:#fb4934">inconstitucionalidade</span>** de norma  estadual que garantia a **<span style="color:#fb4934">inamovibilidade para aqueles ocupante do cargo de Procurador do  Estado</span>**, tendo em vista que a função necessita que haja certa parcialidade e afinidade com o  Chefe do Poder Executivo:
 
 - **<span style="color:#d3869b">Vitaliciedade</span>**
 	- garantia de que o magistrado não será destituído do cargo, salvo em caso de exoneração por **sentença judicial transitada em julgado**.
