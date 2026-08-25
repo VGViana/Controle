@@ -250,5 +250,4 @@
 
 ### Fórmula
 
-text
 (valor tributável − US$ 500) × 50%
