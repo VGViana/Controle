@@ -346,7 +346,8 @@
     - obrigatória na modalidade **<span style="color: #d79921">diálogo competitivo</span>**;
     - **<span style="color: #d79921">pelo menos três servidores efetivos ou empregados públicos</span>** pertencentes aos quadros **<span style="color: #d79921">permanentes</span>;**
 
-- admitida a **contratação de profissionais** para **<span style="color: #d79921">assessoramento técnico da comissão</span>**.✳️ **Banca**:
+- admitida a **contratação de profissionais** para **<span style="color: #d79921">assessoramento técnico da comissão</span>**.
+- ️ **Banca**:
     - **<span style="color:#fe8019">responsável APENAS pela atribuição da nota sobre os quesitos qualitativos da proposta técnica</span>;**
     - **critérios de julgamento:**
         - **<span style="color:#fe8019">melhor técnica</span>**;
@@ -357,10 +358,9 @@
         - **profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos** especificados no edital.
 
 - **<u>Leilão</u>:**
-
-- **<span style="color:#d3869b">servidor designado</span>** pela autoridade competente da administração; ou
-    - **<span style="color:#d3869b">leiloeiro oficial</span>:**
-        - mediante **credenciamento ou licitação** na modalidade **pregão.**
+	- **<span style="color:#d3869b">servidor designado</span>** pela autoridade competente da administração; ou
+	- **<span style="color:#d3869b">leiloeiro oficial</span>:**
+		- mediante **credenciamento ou licitação** na modalidade **pregão.**
 
 ## **6.2 Assistência jurídica para as autoridades e servidores**
 
