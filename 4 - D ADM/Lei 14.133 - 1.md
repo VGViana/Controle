@@ -519,7 +519,98 @@
 
 ![[Diálogo Competitivo.png]]
 
+# **8. Critérios de Julgamento**
+
+## Menor Preço 
+
+O julgamento por menor preço **considerará o menor dispêndio para a Administração,** atendidos os parâmetros mínimos de qualidade definidos no edital de licitação.
+
+**Os custos indiretos,** relacionados com as despesas de manutenção, utilização, reposição, depreciação e impacto ambiental do objeto licitado, entre outros fatores vinculados ao seu ciclo de vida, **poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis,** conforme disposto em regulamento.
+
+## Maior Desconto
+
+O julgamento por maior desconto **considerará o menor dispêndio para a Administração,** atendidos os parâmetros mínimos de qualidade definidos no edital de licitação.
+
+Os custos indiretos, relacionados com as despesas de manutenção, utilização, reposição, depreciação e impacto ambiental do objeto licitado, entre outros fatores vinculados ao seu ciclo de vida, **poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis,** conforme disposto em regulamento.
+
+**O julgamento por maior desconto terá como referência o preço global fixado no edital de licitação,** e o desconto será estendido aos eventuais termos aditivos.
 ![[Menor preço ou maior desconto.png]]
 
+## Melhor técnica ou conteúdo artístico
+
+O julgamento por melhor técnica ou conteúdo artístico **considerará exclusivamente as propostas técnicas ou artísticas apresentadas pelos licitantes,** e o edital deverá definir o prêmio ou a remuneração que será atribuída aos vencedores.
+
+Poderá ser utilizado para a contratação de projetos e **trabalhos de natureza técnica, científica ou artística.** 
+
+O julgamento por melhor técnica ou por técnica e preço deverá ser realizado por:
+
+- **I -** verificação da capacitação e da experiência do licitante, comprovadas por meio da apresentação de atestados de obras, produtos ou serviços previamente realizados; 
+- **II -** atribuição de notas a quesitos de natureza qualitativa por banca designada para esse fim, de acordo com orientações e limites definidos em edital, considerados a demonstração de conhecimento do objeto, a metodologia e o programa de trabalho, a qualificação das equipes técnicas e a relação dos produtos que serão entregues; _(**<span style="color:#fb4934">a banca terá no mínimo 3 (três) membros e poderá ser composta de servidores efetivos ou empregados públicos</span>** <span style="color:#fb4934">pertencentes aos quadros permanentes da Administração Pública</span> **<span style="color:#fb4934">ou profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital,</span>** <span style="color:#fb4934">desde que seus trabalhos sejam supervisionados por profissionais designados)</span>_
+- **III -** atribuição de notas por desempenho do licitante em contratações anteriores aferida nos documentos comprobatórios e em registro cadastral unificado disponível no Portal Nacional de Contratações Públicas (PNCP). 
+
+Ressalvados os casos de inexigibilidade de licitação, na licitação para contratação dos **serviços técnicos especializados de natureza predominantemente intelectual** previstos nas alíneas “a”, “d” e “h” do inciso XVIII do caput do art. 6º desta Lei _<span style="color:#fb4934">(estudos técnicos, planejamentos, projetos básicos e projetos executivos; fiscalização, supervisão e gerenciamento de obras e serviços; controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente [...]</span>)_ cujo valor estimado da contratação seja superior a **R$ 300.000,00 (trezentos mil reais)**, o julgamento será por: 
+
+- **I -** melhor técnica; ou
+
+- **II -** técnica e preço, na proporção de **70% (setenta por cento)** de valoração da proposta técnica.”
+
+No julgamento por melhor técnica ou por técnica e preço, a obtenção de pontuação devido à capacitação técnico-profissional exigirá que a execução do respectivo contrato tenha participação direta e pessoal do profissional correspondente.
 ![[melhor técnica ou conteúdo artístico.png]]
 
+## Técnica e preço
+
+O julgamento por técnica e preço, quando couber, **considerará o menor dispêndio para a Administração,** atendidos os parâmetros mínimos de qualidade definidos no edital de licitação.
+
+**Os custos indiretos,** relacionados com as despesas de manutenção, utilização, reposição, depreciação e impacto ambiental do objeto licitado, entre outros fatores vinculados ao seu ciclo de vida, **poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis,** conforme disposto em regulamento.
+
+**O julgamento por técnica e preço considerará a maior pontuação obtida a partir da ponderação,** segundo fatores objetivos previstos no edital, das notas atribuídas aos aspectos de técnica e de preço da proposta.
+
+O critério de técnica e preço será escolhido quando estudo técnico preliminar demonstrar que a avaliação e a ponderação da qualidade técnica das propostas que superarem os requisitos mínimos estabelecidos no edital forem relevantes aos fins pretendidos pela Administração nas licitações para contratação de:
+
+- **I -** serviços técnicos especializados de natureza predominantemente intelectual, caso em que o critério de julgamento de técnica e preço deverá ser **preferencialmente** empregado; 
+- **II -** serviços majoritariamente dependentes de **tecnologia sofisticada e de domínio restrito**, conforme atestado por autoridades técnicas de reconhecida qualificação; 
+- **III -** bens e serviços **especiais** de tecnologia da informação e de comunicação; 
+- **IV -** obras e serviços **especiais** de engenharia; 
+- **V -** objetos que admitam **soluções específicas e alternativas e variações de execução, com repercussões significativas e concretamente mensuráveis** sobre sua qualidade, produtividade, rendimento e durabilidade, quando essas soluções e variações puderem ser adotadas à livre escolha dos licitantes, conforme critérios objetivamente definidos no edital de licitação.
+
+No julgamento por técnica e preço, <u>deverão ser avaliadas e ponderadas as propostas técnicas e, em seguida, as propostas de preço apresentadas pelos licitantes</u>, na **proporção máxima de 70% (setenta por cento) de valoração para a proposta técnica.**
+
+O desempenho pretérito na execução de contratos com a Administração Pública deverá ser considerado na pontuação técnica.
+
+O julgamento por melhor técnica ou por técnica e preço deverá ser realizado por:
+
+- **I -** verificação da capacitação e da experiência do licitante, comprovadas por meio da apresentação de atestados de obras, produtos ou serviços previamente realizados; 
+- **II -** atribuição de notas a quesitos de natureza qualitativa por banca designada para esse fim, de acordo com orientações e limites definidos em edital, considerados a demonstração de conhecimento do objeto, a metodologia e o programa de trabalho, a qualificação das equipes técnicas e a relação dos produtos que serão entregues; _<span style="color:#fb4934">(a banca terá no mínimo 3 (três) membros e poderá ser composta de servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração Pública ou profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital, desde que seus trabalhos sejam supervisionados por profissionais designados)</span>_ 
+- **III -** atribuição de notas por desempenho do licitante em contratações anteriores aferida nos documentos comprobatórios e em registro cadastral unificado disponível no Portal Nacional de Contratações Públicas (PNCP). 
+
+Ressalvados os casos de inexigibilidade de licitação, na licitação para contratação dos **serviços técnicos especializados de natureza predominantemente intelectual** previstos nas alíneas “a”, “d” e “h” do inciso XVIII do caput do art. 6º desta Lei _<span style="color:#fb4934">(estudos técnicos, planejamentos, projetos básicos e projetos executivos; fiscalização, supervisão e gerenciamento de obras e serviços; controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente [...])</span>_ cujo valor estimado da contratação seja superior a R$ 300.000,00 (trezentos mil reais), o julgamento será por: 
+
+- **I -** melhor técnica; ou 
+- **II -** técnica e preço, na proporção de **70% (setenta por cento)** de valoração da proposta técnica.”
+
+No julgamento por melhor técnica ou por técnica e preço, a obtenção de pontuação devido à capacitação técnico-profissional exigirá que a execução do respectivo contrato tenha participação direta e pessoal do profissional correspondente.
+![[Técnica e preço.png]]
+
+## Maior lance
+
+Se aplica no caso de Leilão
+
+## Maior retorno econômico
+
+O julgamento por maior retorno econômico, **utilizado exclusivamente para a celebração de contrato de eficiência,** considerará a maior economia para a Administração, e **<u>a remuneração deverá ser fixada em percentual</u> que incidirá de forma proporcional à economia efetivamente obtida na execução do contrato.**
+
+Nas licitações que adotarem o critério de julgamento, os licitantes apresentarão:
+
+- **I -** proposta de trabalho, que deverá contemplar: 
+	- **a)** as obras, os serviços ou os bens, com os respectivos prazos de realização ou fornecimento; 
+	- **b)** a economia que se estima gerar, expressa em unidade de medida associada à obra, ao bem ou ao serviço e em unidade monetária; 
+- **II -** proposta de preço, que corresponderá a percentual sobre a economia que se estima gerar durante determinado período, **expressa em unidade monetária.**
+
+O edital de licitação deverá prever parâmetros objetivos de mensuração da economia gerada com a execução do contrato, que servirá de base de cálculo para a remuneração devida ao contratado.
+
+Para efeito de julgamento da proposta, o retorno econômico será o resultado da economia que se estima gerar com a execução da proposta de trabalho, deduzida a proposta de preço.
+
+**<span style="color:#fb4934">Nos casos em que não for gerada a economia prevista no contrato de eficiência:</span>**
+
+- **I -** a diferença entre a economia contratada e a efetivamente obtida será descontada da remuneração do contratado; 
+- **II -** se a diferença entre a economia contratada e a efetivamente obtida for superior ao limite máximo estabelecido no contrato, o contratado sujeitar-se-á, ainda, a outras sanções cabíveis.
