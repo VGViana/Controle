@@ -519,3 +519,5 @@
 
 ![[Diálogo Competitivo.png]]
 
+![[Menor preço ou maior desconto.png]]
+
