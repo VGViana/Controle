@@ -521,3 +521,5 @@
 
 ![[Menor preço ou maior desconto.png]]
 
+![[melhor técnica ou conteúdo artístico.png]]
+
