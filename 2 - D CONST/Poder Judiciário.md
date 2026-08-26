@@ -457,6 +457,9 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 
 > art.  102, § 2º da CRFB/88: As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas **<span style="color:#83a598">ações  diretas de inconstitucionalidade</span>** e nas **<span style="color:#83a598">ações declaratórias de constitucionalidade</span>** produzirão  **<span style="color:#83a598">eficácia contra todos e efeito vinculante</span>**, relativamente aos demais órgãos do Poder Judiciário e à  administração pública direta e indireta, nas esferas federal, estadual e municipal.
 
+> Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de  constitucionalidade:          
+> - IV - a Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal;
+
 # **6. Superior Tribunal de Justiça**
 
 ## **6.1 Aspectos Gerais**
