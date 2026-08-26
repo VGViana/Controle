@@ -460,6 +460,8 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 > Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de  constitucionalidade:          
 > - IV - a Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal;
 
+> 103-A da CRFB/1988:   “O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois  terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula  que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais  órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal,  estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida  em lei”.   
+
 # **6. Superior Tribunal de Justiça**
 
 ## **6.1 Aspectos Gerais**
