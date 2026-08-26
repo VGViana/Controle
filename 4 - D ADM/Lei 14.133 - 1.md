@@ -518,3 +518,4 @@
 ![[Quando pode usar o diálogo competitivo.png]]
 
 ![[Diálogo Competitivo.png]]
+
