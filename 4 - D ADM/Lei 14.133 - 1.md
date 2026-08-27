@@ -384,6 +384,8 @@
 
 
 ![[Resumo das modalidades.png]]
+![[critérios de jugalmentodas modalidades de licitação.png]]
+
 ⚠️ A administração poderá utilizar **procedimentos auxiliares,** instrumentos que auxiliam a administração no procedimento de contratação.  
   
 
