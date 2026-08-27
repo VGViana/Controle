@@ -497,7 +497,7 @@ Funcionarão, junto ao STJ:
 ## **6.2 Competências Originárias**
 
 - **<span style="color:#d3869b">Crime Comum</span>:**
-- Governadores - Estados e DF _(crime de responsabilidade - julgado pelo Tribunal Especial);_
+	- Governadores - Estados e DF _(crime de responsabilidade - julgado pelo Tribunal Especial);_
 
 ⚠️ Foro por prerrogativa de função - apenas quando no exercício do cargo.  
   
