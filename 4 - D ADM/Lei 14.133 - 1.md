@@ -591,6 +591,7 @@ Ressalvados os casos de inexigibilidade de licitação, na licitação para cont
 No julgamento por melhor técnica ou por técnica e preço, a obtenção de pontuação devido à capacitação técnico-profissional exigirá que a execução do respectivo contrato tenha participação direta e pessoal do profissional correspondente.
 ![[Técnica e preço.png]]
 
+![[Técnica e preço 2.png]]
 ## Maior lance
 
 Se aplica no caso de Leilão
