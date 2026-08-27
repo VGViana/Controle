@@ -615,3 +615,5 @@ Para efeito de julgamento da proposta, o retorno econômico será o resultado da
 
 - **I -** a diferença entre a economia contratada e a efetivamente obtida será descontada da remuneração do contratado; 
 - **II -** se a diferença entre a economia contratada e a efetivamente obtida for superior ao limite máximo estabelecido no contrato, o contratado sujeitar-se-á, ainda, a outras sanções cabíveis.
+
+![[propostas maior retorno (econômico).png]]
