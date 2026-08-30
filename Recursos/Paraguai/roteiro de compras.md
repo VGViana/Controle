@@ -1,395 +1,556 @@
-# 🇵🇾 Black Friday — Lista de Compras Paraguai 2026
+# 🇵🇾 BLACK FRIDAY — LISTA DE COMPRAS PARAGUAI 2026
 
-> [!info] Objetivo Fazer uma viagem de compras com **US$ 1.000 de orçamento total**, comprando apenas coisas que realmente tenham utilidade e que representem uma melhoria perceptível na minha vida.
+> **Objetivo:** sair do Paraguai com o máximo de melhoria real possível, sem comprar coisas inúteis.
 > 
-> **Regra principal:** não preciso gastar os US$ 1.000. Se não houver uma boa oportunidade, volto com dinheiro.
+> **Orçamento total:** **US$ 1.000**
+> 
+> **Data prevista:** 19–22 de novembro de 2026
+> 
+> **Regra principal:** não gastar US$ 1.000 só porque o dinheiro está disponível.
 
 ---
 
-# 💰 1. Orçamento
+# 1. 🎯 ESTRATÉGIA GERAL
 
-**Orçamento máximo:** `US$ 1.000`
+Minha prioridade é melhorar minha vida em quatro áreas:
 
-Esse valor inclui **TUDO**:
+1. 💻 Computador principal
+2. 🎮 Games
+3. 🧑‍💻 Setup/estudo
+4. 👤 Vida diária / estética / organização
 
-- notebook
-- PS5
-- upgrades
-- teclado
-- mouse
-- mochila
-- perfumes
-- grooming
-- acessórios
-- qualquer outra compra
+A compra deve seguir esta ordem:
 
-> [!danger] REGRA ABSOLUTA **Não comprar algo só porque está barato.**
-> 
-> Antes de comprar, preciso conseguir responder:
-> 
-> 1. Eu realmente vou usar?
-> 2. Isso melhora algo que eu já tenho?
-> 3. O preço está realmente bom?
-> 4. Essa compra é melhor do que usar esse dinheiro em outra coisa da lista?
+|Prioridade|Categoria|Importância|
+|---|---|--:|
+|S|Notebook realmente superior|10/10|
+|S|PS5 Digital em preço excelente|9,5/10|
+|A|RAM + SSD do 15ALC6|9/10|
+|A|Mochila|8/10|
+|A|Teclado silencioso|7,5/10|
+|A|Mouse|7/10|
+|B|Perfumes|7/10|
+|B|Grooming|5/10|
+|C|Áudio|4/10|
+|C|Acessórios/gadgets|3/10|
 
-Se alguma resposta for **não**, não compro.
+## Regra
+
+**Nível S > Nível A > Nível B > Nível C**
+
+Não comprar uma categoria inferior se isso impedir uma compra muito melhor.
 
 ---
 
-# 🥇 2. PRIORIDADE MÁXIMA — NOTEBOOK
+# 2. 💻 NOTEBOOK — PRIMEIRA COISA A VERIFICAR
 
-## Meu notebook atual
+## Notebook atual
 
 **Lenovo IdeaPad 3 15ALC6**
 
-Uso principal:
+Configuração aproximada:
 
-- estudo
-- trabalho
-- Linux
-- programação
-- navegação
-- Obsidian
-- produtividade
-- uso diário
+- Ryzen 7 5700U
+- Radeon integrada
+- 12 GB RAM
+- SSD NVMe 512 GB
+- tela 15,6" 1080p
+- uso principal:
+    - estudo
+    - Linux
+    - programação
+    - produtividade
+    - navegação
+    - jogos secundários
 
-Uso secundário:
+## O objetivo
 
-- jogos
-- especialmente jogos AAA
+Não trocar o notebook simplesmente por um modelo "mais novo".
 
----
+O novo notebook precisa ser **claramente superior em vários aspectos**.
 
-## 🟢 Regra para trocar o notebook
-
-Só devo comprar outro notebook se ele representar uma **melhoria realmente grande**.
-
-Não vale trocar apenas porque:
-
-- o processador é mais novo;
-- tem aparência melhor;
-- tem RGB;
-- tem uma GPU dedicada fraca;
-- tem 16 GB contra meus 12 GB;
-- é "gamer".
-
-O novo notebook precisa melhorar **vários aspectos ao mesmo tempo**.
-
-### Idealmente:
+### Só considerar troca se houver:
 
 - CPU muito superior
-- GPU muito superior, se possível
-- 16 GB ou mais
-- SSD de 512 GB ou mais
+- pelo menos 16 GB RAM
+- SSD ≥ 512 GB
 - tela melhor
 - construção melhor
 - teclado melhor
-- bateria boa
+- autonomia razoável
 - boa compatibilidade com Linux
-- boa longevidade
-
-> [!success] GATILHO Se aparecer um notebook que seja claramente uma categoria acima do meu **por até US$ 1.000**, ele pode substituir toda a lista de compras.
-> 
-> **Notebook excepcional > todas as outras compras.**
+- GPU significativamente melhor, quando aplicável
 
 ---
 
-# 🥈 3. SE NÃO TROCAR O NOTEBOOK — UPGRADE
+# 3. 🚨 REGRA PARA COMPRAR NOTEBOOK
 
-Se nenhum notebook justificar a troca, melhorar o 15ALC6.
+|Situação|Decisão|
+|---|---|
+|Apenas CPU um pouco melhor|❌ NÃO|
+|16 GB mas tela ruim|❌ NÃO|
+|Notebook gamer barato com construção ruim|❌ NÃO|
+|Apenas GPU melhor, mas todo o resto pior|❌ NÃO|
+|ThinkPad muito superior|🟢 CONSIDERAR|
+|MacBook Air em promoção absurda|🟢 CONSIDERAR|
+|Notebook com GPU dedicada muito superior e preço excepcional|🟢 CONSIDERAR|
+|Upgrade substancial em praticamente tudo|🟢 COMPRAR|
+
+## Teto
+
+**US$ 1.000**
+
+Mas:
+
+> Se o notebook custar US$ 900–1.000, ele praticamente encerra as compras.
+
+Não comprar notebook + PS5 + vários acessórios se isso fizer o orçamento estourar.
+
+---
+
+# 4. 💾 SE NÃO COMPRAR NOTEBOOK: UPGRADE DO 15ALC6
+
+Essa é a opção padrão.
 
 ## RAM
 
 ### Objetivo
 
-Aumentar a memória para uma configuração mais confortável para:
+Aumentar a memória para uma configuração confortável para:
 
-- navegador
-- Obsidian
 - Linux
+- navegador com muitas abas
+- Obsidian
+- Neovim
 - programação
-- multitarefa
+- máquinas virtuais
 - jogos
+- multitarefa
 
-### Preço-alvo
+### Alvo
 
-**US$ 30–50**
+**DDR4 SO-DIMM**
 
-### Prioridade
+Preferência:
 
-`10/10`
+- 16 GB no módulo substituível, caso seja compatível
+- total de aproximadamente 20 GB
+
+## Preço
+
+|Preço|Decisão|
+|---|---|
+|≤ US$ 40|🟢 Excelente|
+|US$ 40–50|🟢 Comprar|
+|US$ 50–60|🟡 Aceitável|
+|> US$ 60|🔴 Esperar|
+
+**Não comprar RAM incompatível só porque está barata.**
 
 ---
 
-## SSD NVMe
+# 5. 💾 SSD NVMe
 
-### Objetivo
+## Objetivo
 
 Substituir o SSD atual de 512 GB por:
 
 **1 TB**
 
-ou mais, se a diferença de preço for pequena.
+Preferência por marcas confiáveis.
+
+### Modelos para procurar
+
+- WD Blue SN580
+- WD Blue SN5000
+- Samsung 980
+- Samsung 990 EVO, se o preço fizer sentido
+- Crucial P3 Plus
+- Crucial P310
+- Lexar NM710
+- Lexar NM790
+- Kingston KC3000
+- Kingston NV3, somente se estiver significativamente barato
 
 ### Preço-alvo
 
-**US$ 50–70**
-
-### Prioridade
-
-`9/10`
+|1 TB|Decisão|
+|---|---|
+|≤ US$ 55|🟢 Excelente|
+|US$ 55–70|🟢 Comprar|
+|US$ 70–80|🟡 Apenas modelo muito bom|
+|> US$ 80|🔴 Não|
 
 ---
 
-## SSD SATA
+# 6. 💾 SSD SATA 2,5"
 
-O 15ALC6 possui possibilidade de armazenamento SATA 2,5".
+O IdeaPad possui possibilidade de armazenamento SATA, mas isso é **opcional**.
+
+Só comprar se houver necessidade real de mais armazenamento.
+
+### Alvo
+
+SSD SATA 1 TB.
+
+### Preço
+
+**US$ 50–70**
+
+Se eu já tiver 1 TB NVMe e não estiver precisando de espaço:
+
+> ❌ NÃO COMPRAR.
+
+---
+
+# 7. 🎮 PS5
+
+## Modelo
+
+### PS5 Slim Digital
+
+**É o modelo preferido.**
+
+Motivo:
+
+- não uso mídia física
+- não preciso do leitor
+- menor custo
+- atende perfeitamente ao objetivo de jogar AAA
+
+## Preço-alvo
+
+|Preço PS5 Digital|Decisão|
+|---|---|
+|≤ US$ 600|🟢 COMPRAR|
+|US$ 600–650|🟢 Excelente compra|
+|US$ 650–700|🟡 Avaliar orçamento|
+|US$ 700–750|🟠 Só se houver bundle muito bom|
+|> US$ 750|🔴 NÃO|
+
+## PS5 Disc
+
+Não é prioridade.
 
 Só comprar se:
 
-- eu realmente precisar de mais espaço;
-- o preço estiver muito bom;
-- não for uma compra desnecessária.
+**PS5 Disc ≈ preço do Digital**
 
-### Prioridade
+Caso contrário:
 
-`5/10`
+> **Digital.**
 
 ---
 
-# 🎮 4. PS5
+# 8. 🎮 PS5 — REGRA DE CONTINGÊNCIA
+
+Se encontrar:
+
+### PS5 Digital ≤ US$ 600
+
+Comprar.
+
+Depois disso:
+
+1. RAM
+2. SSD
+3. mochila
+4. perfumes
+5. restante do orçamento
+
+---
+
+### PS5 Digital US$ 600–650
+
+Comprar se ainda houver orçamento para RAM + SSD.
+
+---
+
+### PS5 Digital US$ 650–700
+
+Só comprar se:
+
+- preço do notebook novo não for interessante
+- RAM/SSD estiverem baratos
+- ainda houver pelo menos ~US$ 100–150 para outras prioridades
+
+---
+
+### PS5 > US$ 700
+
+**Não comprar.**
+
+Esperar outra promoção.
+
+---
+
+# 9. 🎒 MOCHILA
 
 ## Objetivo
 
-Resolver o principal problema do meu notebook:
+Substituir a mochila atual de 50 L.
 
-> Não ser adequado para jogos AAA modernos.
-
-Em vez de comprar um notebook gamer apenas para jogar, a ideia é manter o 15ALC6 como computador principal e usar o PS5 para jogos pesados.
-
-### Modelo preferido
-
-**PS5 Slim Digital**
-
-Não preciso de leitor de disco.
-
----
-
-## 💰 Preço máximo
-
-|Preço|Decisão|
-|---|---|
-|**≤ US$ 600**|🟢 COMPRAR|
-|**US$ 600–650**|🟢 Excelente compra|
-|**US$ 650–700**|🟡 Avaliar orçamento|
-|**> US$ 700**|🔴 NÃO COMPRAR|
-
-> [!warning] IMPORTANTE Não comprar PS5 caro apenas porque estou no Paraguai.
-> 
-> Se o preço estiver ruim, espero outra oportunidade.
-
----
-
-## PS5 + notebook
-
-Minha combinação preferida é:
-
-**15ALC6 upgradeado + PS5**
-
-Isso me dá:
-
-### 💻 Computador principal
-
-Para:
-
-- estudo
-- trabalho
-- Linux
-- programação
-- Obsidian
-- internet
-- produtividade
-
-### 🎮 Console
-
-Para:
-
-- AAA
-- jogos pesados
-- jogos que não rodam bem no 15ALC6
-- jogar confortavelmente na TV/monitor
-
----
-
-# 🖱️ 5. MOUSE
-
-Meu mouse atual:
-
-**Kysona M600**
-
-É bom, então não preciso trocar por qualquer coisa.
-
-Só comprar se for um **upgrade perceptível**.
-
-## Procurar
-
-- wireless
-- sensor excelente
-- boa autonomia
-- leve
-- boa construção
-- confortável
-- baixa latência
-
-Marcas/modelos equivalentes podem incluir:
-
-- Logitech
-- Razer
-- Pulsar
-- Lamzu
-- Endgame Gear
-
-Não estou preso a uma marca específica.
-
-### 💰 Preço-alvo
-
-**US$ 60–100**
-
-### Prioridade
-
-`6/10`
-
-> [!warning] Se meu M600 continuar sendo suficientemente bom e o novo mouse não representar uma mudança real, **não comprar**.
-
----
-
-# ⌨️ 6. TECLADO SILENCIOSO
-
-Essa é uma das compras que mais me interessa para uso diário.
-
-Meu objetivo não é comprar um teclado gamer.
-
-Quero:
-
-- silencioso
-- confortável
-- boa digitação
-- boa construção
-- wireless
-- 75% ou TKL
-- switches silenciosos
-- hot-swap, se possível
-- aparência discreta
-
-### 💰 Preço-alvo
-
-**US$ 60–120**
-
-### Prioridade
-
-`7/10`
-
-> [!success] Um teclado realmente silencioso e confortável pode melhorar muito minhas horas de estudo e uso diário.
-
----
-
-# 🎧 7. ÁUDIO
-
-Equipamentos atuais:
-
-- **Kuba Mali 2**
-- **GK Kunten**
-
-Não preciso trocar por algo apenas um pouco melhor.
-
-## Regra
-
-Só comprar outro headphone/IEM se for:
-
-> **uma mudança de categoria.**
-
-Não vale:
-
-`US$ 120 → produto 10% melhor`
-
-Vale:
-
-`US$ 120 → produto claramente superior ao que já tenho`
-
-### 💰 Limite
-
-Aproximadamente:
-
-**US$ 100–150**
-
-### Prioridade
-
-`3/10`
-
-> [!danger] Se não houver um negócio absurdo, **US$ 0 em áudio**.
-
----
-
-# 🎒 8. MOCHILA
-
-Minha mochila atual é grande demais.
-
-Quero substituir por algo mais adequado ao cotidiano.
-
-## Especificações
-
-### Tamanho
+### Tamanho ideal
 
 **25–30 L**
 
-### Precisa comportar
+Não quero uma mochila de viagem gigante.
 
-- notebook
-- carregador
-- Kindle
-- acessórios
-- EDC
-- eventualmente roupa
+## Características obrigatórias
 
-### Características
-
+- compartimento acolchoado para notebook
+- boa estrutura
 - confortável
 - resistente
-- boa organização
-- proteção para notebook
-- resistente à água
+- organização interna
+- boa resistência à água
 - aparência discreta
+- sem RGB
 - sem estética gamer exagerada
 
-### 💰 Preço-alvo
+## Modelos/linhas para procurar
 
-**US$ 60–100**
+### 🥇 Aer
 
-### Prioridade
+- City Pack
+- City Pack Pro
+- Travel Pack, apenas se houver necessidade
 
-`7/10`
+### 🥈 Bellroy
 
-> [!success] Essa é uma compra que provavelmente será usada praticamente todos os dias.
+- Transit Workpack
+- Transit Backpack
+- Via Workpack
+
+### 🥉 Thule
+
+- Subterra
+- Paramount
+
+### Outras
+
+- Samsonite premium
+- Targus premium
+- Lenovo premium
+
+## Preço
+
+|Preço|Decisão|
+|---|---|
+|≤ US$ 60|🟢 Excelente|
+|US$ 60–80|🟢 Comprar|
+|US$ 80–100|🟡 Se for modelo realmente bom|
+|> US$ 120|🔴 Não|
 
 ---
 
-# 🌊 9. PERFUMES
+# 10. ⌨️ TECLADO
+
+## Objetivo
+
+Substituir o teclado atual por algo:
+
+- silencioso
+- confortável
+- bom para digitar
+- bom para estudar
+- wireless
+- compacto
+- construção boa
+
+### Formato
+
+Preferência:
+
+**75%**
+
+ou
+
+**TKL**
+
+## Switch
+
+Preferência por:
+
+**linear silencioso**
+
+Exemplos de switches:
+
+- Kailh Box Silent
+- Gateron Silent
+- Cherry Silent
+- similares
+
+## Modelos para procurar
+
+### Keychron
+
+- K2
+- K8
+- K8 Pro
+- K2 Pro
+- V1/V1 Max
+
+### NuPhy
+
+- Air75
+- Halo75
+
+### Logitech
+
+- MX Mechanical Mini
+- MX Mechanical
+
+### Akko
+
+- modelos 75%
+- switches silenciosos
+
+## Preço
+
+|Preço|Decisão|
+|---|---|
+|≤ US$ 70|🟢 Excelente|
+|US$ 70–100|🟢 Comprar se for bom modelo|
+|US$ 100–120|🟡|
+|> US$ 120|🔴|
+
+---
+
+# 11. 🖱️ MOUSE
+
+O mouse atual é bom.
+
+Portanto:
+
+> Só trocar se for um upgrade real.
+
+## Características
+
+- wireless
+- leve
+- sensor excelente
+- boa autonomia
+- construção sólida
+- confortável
+- bom para produtividade + jogos
+
+## Modelos/linhas para procurar
+
+### Logitech
+
+- G Pro X Superlight
+- G Pro X Superlight 2
+- G703, se ergonomia for preferível
+
+### Razer
+
+- Viper V3 Pro
+- DeathAdder V3 Pro
+
+### Pulsar
+
+- X2
+- X2V2
+- Xlite
+
+### Lamzu
+
+- Atlantis
+- Thorn
+
+### Endgame Gear
+
+- XM2w
+
+## Preço
+
+|Preço|Decisão|
+|---|---|
+|≤ US$ 70|🟢 Excelente|
+|US$ 70–90|🟢 Comprar|
+|US$ 90–110|🟡 Só modelo top|
+|> US$ 110|🔴|
+
+---
+
+# 12. 🎧 ÁUDIO
+
+## Equipamentos atuais
+
+- Kuba Mali 2
+- GK Kunten
+
+Eles continuam sendo suficientes.
+
+### Regra
+
+**Não comprar áudio por comprar.**
+
+Só comprar se houver uma diferença realmente perceptível.
+
+## O que procurar
+
+Preferência:
+
+**IEM de categoria claramente superior**
+
+ou
+
+**headphone claramente superior ao Kuba Mali 2.**
+
+### Exemplos de IEMs a procurar
+
+- Truthear Hexa
+- Truthear Nova
+- Simgot EM6L
+- Simgot SuperMix 4
+- Letshuoer S12
+- Moondrop Kato
+- modelos equivalentes
+
+### Preço
+
+**US$ 80–150**
+
+Só comprar se o modelo estiver realmente muito bem precificado.
+
+---
+
+# 13. 🚫 ÁUDIO — QUANDO NÃO COMPRAR
+
+Não comprar se:
+
+- diferença for pequena
+- preço for alto
+- eu já estiver perto do limite de US$ 1.000
+- o Kuba continuar atendendo perfeitamente
+
+### Prioridade
+
+**Baixa.**
+
+---
+
+# 14. 🌊 PERFUMES
 
 Máximo:
 
-**3 perfumes.**
+# 3 perfumes
 
-Não comprar três apenas para ter três.
+Não comprar três perfumes apenas porque estão baratos.
 
 Cada perfume precisa ter uma função.
 
 ---
 
-## ☀️ Perfume 1 — Diário
+## Perfume 1 — DIÁRIO
 
-Objetivo:
+### Objetivo
 
-> cheiro de pessoa limpa, banho, confortável e fácil de usar.
+Sensação de:
+
+> banho tomado + limpo + confortável + fresco.
 
 Para:
 
@@ -398,499 +559,671 @@ Para:
 - dia a dia
 - ambientes fechados
 
-### 💰
+### Preço
 
 **US$ 20–40**
 
 ---
 
-## 🌤️ Perfume 2 — Social / Dia
+## Perfume 2 — SOCIAL/DIA
 
-Objetivo:
-
-> mais arrumado que o perfume diário, mas ainda versátil.
+Mais arrumado.
 
 Para:
 
 - sair
 - encontros
 - restaurantes
-- eventos durante o dia
-
-### 💰
-
-**US$ 30–70**
-
----
-
-## 🌙 Perfume 3 — Noite
-
-Objetivo:
-
-> mais marcante e sofisticado.
-
-Para:
-
-- festas
-- encontros
 - eventos
-- noite
+- situações sociais
 
-### 💰
-
-**US$ 40–100**
-
----
-
-## Regra dos perfumes
-
-Não preciso necessariamente comprar os três.
-
-Se dois perfumes cobrirem perfeitamente minhas necessidades:
-
-**comprar apenas dois.**
-
-> [!danger] Não comprar perfume simplesmente porque está barato.
-
----
-
-# 🧴 10. GROOMING
-
-Quero melhorar minha rotina pessoal, mas sem criar estoque de produtos inúteis.
-
-## Pode entrar
-
-- aparador
-- barbeador
-- máquina de acabamento
-- produtos de cabelo
-- skincare
-- body care
-- produtos que eu já sei que uso
-
-### 💰
-
-**US$ 30–70**
-
-### Prioridade
-
-`5/10`
-
-> [!warning] Comprar apenas produtos que eu realmente usaria regularmente.
-
----
-
-# 🔌 11. ACESSÓRIOS / ORGANIZAÇÃO
-
-Categoria de oportunidade.
-
-## Pode entrar
-
-- carregador GaN
-- hub USB-C
-- organizador de cabos
-- estojo para eletrônicos
-- case para SSD
-- pendrive rápido
-- acessórios Kindle
-- suporte para notebook
-- outros acessórios realmente úteis
-
-### 💰
+### Preço
 
 **US$ 30–60**
 
-### Prioridade
+---
 
-`4/10`
+## Perfume 3 — NOITE
+
+Mais marcante.
+
+Para:
+
+- noite
+- festas
+- encontros
+- ocasiões especiais
+
+### Preço
+
+**US$ 40–80**
 
 ---
 
-# 🖥️ 12. MONITOR
+## Total máximo
 
-Monitor atual:
+**~US$ 100–180**
 
-**LG 23,8" — 1080p — 100 Hz**
+Se dois perfumes já cobrirem todas as situações:
+
+> **não comprar o terceiro.**
+
+---
+
+# 15. 🧴 GROOMING
+
+Comprar apenas coisas que realmente serão utilizadas.
+
+## Possibilidades
+
+- aparador
+- máquina de acabamento
+- barbeador
+- produtos para cabelo
+- skincare
+- body care
+- necessaire
+
+### Orçamento
+
+**US$ 30–70**
 
 ## Regra
 
-**NÃO trocar.**
+Se eu não conseguir responder:
 
-Só comprar outro se houver uma evolução muito grande.
+> "Quando vou usar isso?"
 
-Exemplo:
+então:
+
+**NÃO COMPRAR.**
+
+---
+
+# 16. 🔌 ACESSÓRIOS / ORGANIZAÇÃO
+
+Categoria secundária.
+
+## Possibilidades
+
+### Organização
+
+- organizador de cabos
+- estojo eletrônico
+- organizador para mochila
+
+### Tecnologia
+
+- carregador GaN
+- hub USB-C
+- case para SSD
+- pendrive rápido
+- adaptadores
+
+### Kindle
+
+- acessórios apenas se houver necessidade real
+
+## Orçamento
+
+**US$ 30–60**
+
+---
+
+# 17. ❌ COISAS QUE NÃO DEVEM SER COMPRADAS
+
+Não comprar simplesmente porque está barato:
+
+- RGB
+- gadgets aleatórios
+- smartwatches sem necessidade
+- fones baratos
+- power bank adicional sem necessidade
+- cabos que já tenho
+- mouse apenas por ser "gamer"
+- teclado apenas por ter RGB
+- decoração
+- eletrônicos duplicados
+- acessórios para acessórios
+- coisas que "talvez eu use"
+- roupas aleatórias
+- objetos de coleção
+- produtos grandes ou frágeis sem necessidade
+
+---
+
+# 18. 🖥️ MONITOR
+
+O monitor atual:
+
+**LG 23,8" 1080p 100 Hz**
+
+### Decisão
+
+**NÃO comprar outro monitor.**
+
+Só considerar se aparecer uma oportunidade realmente fora da curva em:
 
 - 1440p
 - 120/144 Hz+
-- painel muito superior
+- excelente painel
 
-Caso contrário:
-
-> **US$ 0 em monitor.**
+Mas isso não é prioridade.
 
 ---
 
-# ⌨️🖱️ 13. PERIFÉRICOS QUE JÁ ESTÃO BONS
+# 19. 🧮 ORÇAMENTO PRINCIPAL
 
-Atualmente tenho:
+## Cenário ideal
 
-- teclado XVX-SK80 Great Wave
-- mouse Kysona M600
-- Kuba Mali 2
-- GK Kunten
-
-Não devo trocar esses produtos simplesmente porque encontrei versões novas.
-
-A compra precisa representar uma melhoria real.
-
----
-
-# ❌ 14. COISAS QUE NÃO DEVO COMPRAR
-
-Não comprar:
-
-- gadgets aleatórios
-- decoração
-- RGB sem função
-- acessórios que já tenho
-- produtos "só porque estão baratos"
-- eletrônicos duplicados
-- roupas aleatórias
-- itens de viagem que não preciso
-- produtos que provavelmente ficarão parados
-- upgrades pequenos
-- periféricos apenas por estética
-
-Também não comprar:
-
-- monitor novo sem grande evolução
-- headset apenas um pouco melhor
-- notebook apenas um pouco melhor
-- mouse apenas um pouco melhor
-- teclado apenas por ser bonito
-
----
-
-# 🧠 15. SISTEMA DE PRIORIDADE
-
-## 🟥 NÍVEL S — MUDANÇA DE VIDA
-
-### 1. Notebook excepcional
-
-Se aparecer:
-
-**comprar.**
-
-Pode consumir praticamente todo o orçamento.
-
----
-
-## 🟧 NÍVEL A — GRANDE MELHORIA
-
-### 2. PS5
-
-Principal solução para jogos AAA.
-
-### 3. RAM + SSD
-
-Principal solução para longevidade do 15ALC6.
-
----
-
-## 🟨 NÍVEL B — MELHORIA DIÁRIA
-
-- mochila
-- teclado silencioso
-- mouse
-- perfumes
-
----
-
-## 🟩 NÍVEL C — OPORTUNIDADES
-
-- áudio
-- grooming
-- acessórios
-- organização
-
----
-
-# 💵 16. CENÁRIO PRINCIPAL
-
-## Melhor combinação
-
-Se não aparecer notebook excepcional:
-
-|Produto|Orçamento|
+|Compra|Meta|
 |---|--:|
 |PS5 Digital|US$ 600–650|
-|RAM|US$ 30–50|
-|SSD 1 TB|US$ 50–70|
-|Mochila|US$ 60–100|
-|Perfume 1|US$ 20–40|
-|Perfume 2|US$ 30–70|
-|Grooming/acessórios|US$ 30–50|
-|**TOTAL**|**~US$ 820–1.030**|
+|RAM|US$ 40|
+|SSD 1 TB|US$ 60|
+|Mochila|US$ 70|
+|Perfume 1|US$ 30|
+|Perfume 2|US$ 40|
+|Grooming/acessórios|US$ 40|
+|**TOTAL**|**US$ 880–930**|
 
-### Objetivo
+### Sobra
 
-Tentar manter o total:
+**US$ 70–120**
 
-**≤ US$ 1.000**
+Essa sobra deve ser mantida.
 
-Se ultrapassar:
+Ela serve para:
 
-1. cortar grooming/acessórios;
-2. comprar 2 perfumes em vez de 3;
-3. escolher mochila mais barata;
-4. adiar mouse/teclado.
-
-**Não sacrificar RAM/SSD por acessórios.**
+- promoção inesperada
+- diferença de preço
+- imposto/taxa eventual
+- oportunidade realmente excelente
 
 ---
 
-# 🟦 17. CENÁRIO SEM PS5
+# 20. 🟢 CENÁRIO SEM PS5
 
 Se o PS5 estiver caro:
 
-|Produto|Orçamento|
+|Compra|Meta|
 |---|--:|
-|RAM|US$ 30–50|
-|SSD 1 TB|US$ 50–70|
-|Teclado silencioso|US$ 60–120|
-|Mouse|US$ 60–100|
-|Mochila|US$ 60–100|
-|2–3 perfumes|US$ 70–180|
-|Grooming|US$ 30–70|
-|Acessórios|US$ 30–60|
+|RAM|US$ 40|
+|SSD 1 TB|US$ 60|
+|Teclado|US$ 80–100|
+|Mouse|US$ 70–90|
+|Mochila|US$ 70–80|
+|Perfumes|US$ 100–150|
+|Grooming|US$ 40–50|
+|Áudio excepcional|US$ 100–150|
+|**TOTAL**|**~US$ 560–720**|
 
-Não preciso gastar o restante.
+### Importante
 
-Se nada excepcional aparecer:
+Não preciso gastar os US$ 1.000.
 
-> **guardar o dinheiro.**
+Se tudo estiver comprado por US$ 650:
+
+> **encerra a compra.**
 
 ---
 
-# 🔥 18. CENÁRIO DE NOTEBOOK
+# 21. 🔥 CENÁRIO NOTEBOOK
 
-Se aparecer um notebook excepcional:
+Se aparecer um notebook realmente excepcional:
 
 ### Exemplo
 
+Notebook:
+
 **US$ 850–1.000**
 
-e ele for muito superior ao 15ALC6:
+### Decisão
 
-> 🟢 COMPRAR NOTEBOOK
+Comprar notebook.
 
-Nesse caso:
+Depois:
 
-### NÃO comprar
+**não comprar PS5.**
+
+E evitar compras secundárias.
+
+No máximo:
+
+- pequeno acessório essencial
+- nada que comprometa o orçamento
+
+---
+
+# 22. 🚨 CONTINGÊNCIA — SITUAÇÕES
+
+## SITUAÇÃO A
+
+### Notebook excelente ≤ US$ 1.000
+
+**COMPRAR NOTEBOOK**
+
+Cancelar:
 
 - PS5
 - teclado
 - mouse
 - áudio
-- gadgets
-- acessórios
-
-A única exceção seria algo extremamente barato e necessário.
+- etc.
 
 ---
 
-# 🚨 19. TABELA DE CONTINGÊNCIA
+## SITUAÇÃO B
 
-Use esta tabela **DURANTE A VIAGEM**.
+### Notebook ruim + PS5 ≤ US$ 600
 
-|Situação|Decisão|
-|---|---|
-|Notebook excepcional ≤ US$ 1.000|🟢 Comprar|
-|Notebook apenas um pouco melhor|🔴 Não|
-|PS5 Digital ≤ US$ 600|🟢 Comprar|
-|PS5 Digital US$ 600–650|🟢 Muito bom|
-|PS5 US$ 650–700|🟡 Avaliar|
-|PS5 > US$ 700|🔴 Não|
-|RAM ≤ US$ 40|🟢 Comprar|
-|SSD 1 TB ≤ US$ 60|🟢 Comprar|
-|Teclado silencioso excelente ≤ US$ 80|🟢 Comprar|
-|Mouse excelente ≤ US$ 70|🟢 Comprar|
-|Mochila excelente ≤ US$ 70|🟢 Comprar|
-|Perfume excelente ≤ US$ 40|🟢 Comprar|
-|Áudio apenas "um pouco melhor"|🔴 Não|
-|Gadget sem função clara|🔴 Não|
+Comprar:
+
+1. PS5
+2. RAM
+3. SSD
+4. mochila
+5. perfumes
 
 ---
 
-# 🧳 20. COTA E BAGAGEM
+## SITUAÇÃO C
 
-A viagem deve priorizar produtos:
+### PS5 US$ 600–650
 
-- pequenos
-- fáceis de transportar
-- de alto valor por volume
-- eletrônicos
-- perfumes
-- acessórios
+Comprar se:
 
-Evitar compras grandes e frágeis.
-
-### Preferência
-
-**Paraguai:**
-
-- eletrônicos
-- perfumes
-- acessórios
-- pequenos produtos
-
-**Brasil:**
-
-- itens grandes
-- frágeis
-- difíceis de transportar
-
-> [!warning] Antes de viajar, confirmar as regras atuais da Receita Federal e a cota aplicável ao meu meio de transporte.
-> 
-> **Não presumir que uma compra é isenta apenas porque é pequena.**
+- RAM estiver barata
+- SSD estiver barato
+- ainda houver orçamento para mochila
 
 ---
 
-# 🏪 21. ESTRATÉGIA DE COMPRA
+## SITUAÇÃO D
 
-Não comprar na primeira loja.
+### PS5 > US$ 700
 
-Para cada produto importante:
+Não comprar.
 
-1. pesquisar preço;
-2. comparar pelo menos 2–3 lojas;
-3. conferir modelo EXATO;
-4. conferir garantia;
-5. conferir especificações;
-6. comparar com preço no Brasil;
-7. só então comprar.
+Investir no notebook atual.
 
 ---
 
-# 🧮 22. REGRA DOS US$ 1.000
+## SITUAÇÃO E
 
-Meu orçamento é:
+### RAM cara
 
-**US$ 1.000**
+Esperar.
 
-Mas isso é:
-
-> **LIMITE, não META.**
-
-Se eu gastar:
-
-**US$ 700 e conseguir tudo que queria → excelente.**
-
-Se gastar:
-
-**US$ 1.000 em coisas realmente úteis → excelente.**
-
-Se gastar:
-
-**US$ 1.000 em 15 produtos que não precisava → péssimo.**
+Não comprar RAM por US$ 80–100 só para dizer que fez upgrade.
 
 ---
 
-# 🏆 23. ORDEM FINAL DE DECISÃO
+## SITUAÇÃO F
 
-Quando encontrar um produto, pensar nesta ordem:
+### SSD caro
+
+Esperar.
+
+Se 1 TB estiver > US$ 80, comparar outras marcas/modelos.
+
+---
+
+## SITUAÇÃO G
+
+### Teclado incrível ≤ US$ 80
+
+Comprar.
+
+---
+
+## SITUAÇÃO H
+
+### Mouse top ≤ US$ 70
+
+Comprar.
+
+---
+
+## SITUAÇÃO I
+
+### IEM apenas "um pouco melhor"
+
+Não comprar.
+
+---
+
+## SITUAÇÃO J
+
+### Perfume excelente em promoção
+
+Comprar apenas se preencher uma função diferente dos perfumes existentes.
+
+---
+
+# 23. 🧠 REGRA DE DECISÃO EM 10 SEGUNDOS
+
+Antes de comprar qualquer coisa, responder:
 
 ### 1.
 
-**Eu realmente preciso disso?**
+**Eu realmente vou usar isso?**
 
-↓
+Se não:
+
+❌ NÃO.
 
 ### 2.
 
-**É melhor que o que já tenho?**
+**Isso substitui algo que já tenho?**
 
-↓
+Se sim:
+
+Perguntar:
+
+> É significativamente melhor?
+
+Se não:
+
+❌ NÃO.
 
 ### 3.
 
-**A diferença é perceptível?**
+**Eu compraria isso se não estivesse no Paraguai?**
 
-↓
+Se não:
+
+❌ NÃO.
 
 ### 4.
 
-**O preço está excepcional?**
+**O preço está pelo menos ~15–20% melhor que uma alternativa equivalente?**
 
-↓
+Se não:
+
+🟡 comparar.
 
 ### 5.
 
-**Isso é melhor que outra compra possível por esse mesmo dinheiro?**
+**Isso ameaça o orçamento do PS5/notebook?**
 
-↓
+Se sim:
 
-### 6.
-
-**Cabe no orçamento e na bagagem?**
-
-↓
-
-### 7.
-
-**Comprar.**
-
-Se qualquer resposta importante for **não**:
-
-> **NÃO COMPRAR.**
+❌ NÃO.
 
 ---
 
-# 📋 24. CHECKLIST FINAL
+# 24. 🏪 LOJAS — ORDEM DE COMPARAÇÃO
 
-## 💻 Computador
+Durante a viagem, comparar pelo menos:
 
-- [ ] Procurar notebook excepcional
-- [ ] Se não houver → RAM
-- [ ] SSD NVMe 1 TB
-- [ ] SSD SATA somente se necessário
+1. Shopping China
+2. Cellshop
+3. Nissei
+4. outras lojas confiáveis da região
 
-## 🎮 Games
+Nunca assumir:
+
+> "Shopping X é mais barato."
+
+Comparar o **modelo exato**.
+
+---
+
+# 25. 💵 PREÇO DE REFERÊNCIA
+
+Todos os valores desta lista devem ser tratados em:
+
+# US$
+
+Nunca converter automaticamente para reais para decidir a compra.
+
+A comparação deve ser:
+
+**preço real no Paraguai × preço-alvo desta lista**
+
+---
+
+# 26. 🧳 COTA E BAGAGEM
+
+Antes de comprar eletrônicos caros:
+
+- verificar a cota vigente da Receita Federal
+- guardar notas/comprovantes
+- verificar regras de entrada no Brasil
+- considerar quantidade de produtos
+- considerar peso e volume
+
+### Estratégia
+
+Itens pequenos e de alto valor:
+
+🟢 Paraguai
+
+Itens grandes/frágeis:
+
+🟡 preferir comprar no Brasil, salvo oportunidade excepcional.
+
+---
+
+# 27. 🎒 CHECKLIST FINAL
+
+## 💻 Notebook
+
+- [ ] Notebook atual avaliado
+- [ ] Notebook novo comparado
+- [ ] CPU comparada
+- [ ] RAM comparada
+- [ ] tela comparada
+- [ ] construção comparada
+- [ ] bateria comparada
+- [ ] Linux considerado
+- [ ] preço comparado
+
+---
+
+## 💾 Upgrade
+
+- [ ] RAM compatível
+- [ ] preço ≤ US$ 50
+- [ ] SSD 1 TB
+- [ ] preço ≤ US$ 70
+
+---
+
+## 🎮 PS5
 
 - [ ] PS5 Slim Digital
-- [ ] Não comprar versão Disc
-- [ ] Não comprar jogos no Paraguai
-
-## ⌨️🖱️ Setup
-
-- [ ] Teclado silencioso
-- [ ] Mouse
-- [ ] Não trocar monitor
-- [ ] Não trocar áudio sem oportunidade absurda
-
-## 🎒 EDC
-
-- [ ] Mochila 25–30 L
-- [ ] Organização
-- [ ] Acessórios úteis
-
-## 🌊 Aparência
-
-- [ ] Perfume diário
-- [ ] Perfume social
-- [ ] Perfume noturno
-- [ ] Grooming
-
-## 💰 Financeiro
-
-- [ ] Máximo: **US$ 1.000**
-- [ ] Não gastar por gastar
-- [ ] Comparar lojas
-- [ ] Guardar reserva para oportunidade
-- [ ] Confirmar regras da Receita antes da viagem
+- [ ] sem necessidade de leitor
+- [ ] preço ≤ US$ 650
+- [ ] bundle avaliado
+- [ ] preço comparado entre lojas
 
 ---
 
-# ⭐ RESUMO EM UMA FRASE
+## ⌨️ Teclado
 
-> **Primeiro procuro um notebook que realmente substitua o 15ALC6; se não aparecer, faço upgrade no 15ALC6 e priorizo um PS5 Digital, depois mochila/teclado/perfumes, e só compro o restante se houver dinheiro e uma oportunidade realmente boa.**
+- [ ] silencioso
+- [ ] wireless
+- [ ] 75%/TKL
+- [ ] confortável para digitação
+- [ ] preço ≤ US$ 100
+
+---
+
+## 🖱️ Mouse
+
+- [ ] wireless
+- [ ] sensor top
+- [ ] confortável
+- [ ] preço ≤ US$ 90
+
+---
+
+## 🎒 Mochila
+
+- [ ] 25–30 L
+- [ ] notebook protegido
+- [ ] confortável
+- [ ] discreta
+- [ ] preço ≤ US$ 100
+
+---
+
+## 🌊 Perfumes
+
+- [ ] diário
+- [ ] social/dia
+- [ ] noite
+- [ ] máximo 3
+- [ ] funções diferentes
+
+---
+
+## 🧴 Grooming
+
+- [ ] necessidade real
+- [ ] preço comparado
+- [ ] produto será usado
+
+---
+
+## 🎧 Áudio
+
+- [ ] só comprar se upgrade enorme
+- [ ] preço comparado
+- [ ] Kuba Mali 2 continua disponível como alternativa
+
+---
+
+# 28. 🏆 LISTA FINAL DE PRIORIDADE
+
+## 🔴 ABSOLUTAMENTE PRIORITÁRIO
+
+### 1. Notebook novo
+
+**Somente se for um upgrade realmente grande.**
+
+OU
+
+### 1. PS5 Digital
+
+**≤ US$ 650**
+
+---
+
+## 🟠 PRIORIDADE ALTA
+
+### 2. RAM
+
+**≤ US$ 50**
+
+### 3. SSD NVMe 1 TB
+
+**≤ US$ 70**
+
+### 4. Mochila
+
+**≤ US$ 100**
+
+---
+
+## 🟡 PRIORIDADE MÉDIA
+
+### 5. Teclado silencioso
+
+**≤ US$ 100**
+
+### 6. Mouse
+
+**≤ US$ 90**
+
+### 7. Perfumes
+
+**US$ 100–180 total**
+
+---
+
+## 🟢 PRIORIDADE BAIXA
+
+### 8. Grooming
+
+**US$ 30–70**
+
+### 9. Acessórios
+
+**US$ 30–60**
+
+### 10. Áudio
+
+**somente oportunidade excepcional**
+
+---
+
+# 29. 🧾 RESUMO DE BOLSO
+
+> ## TENHO US$ 1.000.
+> 
+> **PRIMEIRO:** procurar notebook realmente superior.
+> 
+> Se não houver:
+> 
+> **PS5 Digital ≤ US$ 650**
+> 
+> **RAM ≤ US$ 50**
+> 
+> **SSD 1 TB ≤ US$ 70**
+> 
+> **mochila ≤ US$ 100**
+> 
+> perfumes conforme necessidade.
+> 
+> Depois:
+> 
+> teclado → mouse → grooming → acessórios.
+> 
+> Áudio somente se houver uma oportunidade absurda.
+> 
+> **Nunca comprar algo apenas porque está barato.**
+> 
+> **Nunca gastar os US$ 1.000 por obrigação.**
+> 
+> **Sempre manter US$ 70–150 de reserva até o final da viagem.**
+
+---
+
+# 30. 🏁 OBJETIVO DA VIAGEM
+
+A viagem foi bem-sucedida se eu voltar com:
+
+### Cenário ideal
+
+**💻 IdeaPad 3 15ALC6 muito bem atualizado**
+
+**🎮 PS5**
+
+**🎒 mochila boa**
+
+**🌊 2–3 perfumes que realmente tenham funções diferentes**
+
+e, se houver orçamento:
+
+**⌨️ teclado silencioso**
+
+**🖱️ mouse**
+
+**🧴 grooming**
+
+---
+
+# PRINCÍPIO FINAL
+
+> **Qualidade de vida > quantidade de produtos.**
+> 
+> **Upgrade significativo > novidade.**
+> 
+> **Preço excelente > preço simplesmente barato.**
+> 
+> **Necessidade real > impulso de Black Friday.**
+> 
+> **US$ 0 gasto é melhor que US$ 50 gastos em algo inútil.**
