@@ -608,6 +608,8 @@ _Art. 109, § 5º, CF/88. Nas hipóteses de_ **_<span style="color:#fe8019">grav
 - Tribunais Regionais Federais;
 - Juízes Federais.
 
+> Súmula 66: Compete à Justiça Federal processar e julgar **<span style="color:#fe8019">execução fiscal promovida por Conselho de Fiscalização Profissional.</span>**
+
 ## **7.1 Tribunais Regionais Federais**
 
   
@@ -673,14 +675,14 @@ _Art. 109, § 5º, CF/88. Nas hipóteses de_ **_<span style="color:#fe8019">grav
 
 **⚠️<span style="color:#fb4934">DECORE</span>**
 
-_Art. 109, CF/88_ 
-
+> _Art. 109, CF/88_ 
 _§ 3º -_ **_<span style="color:#fe8019">Lei</span>_** _poderá autorizar que as causas de_ _<span style="color:#fe8019">competência da Justiça Federal</span>_ _em que forem parte_ **_<span style="color:#83a598"><u>instituição de previdência social e segurado</u></span>_** _<span style="color:#83a598">possam ser processadas e julgadas na justiça estadual</span>_ **_quando a comarca do domicílio do segurado não for sede de vara federal._**
 
-_§ 4º - Na hipótese do_ _<span style="color:#fe8019">parágrafo anterior</span>, o_ **_recurso_** _cabível será sempre para o_ **_Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau._**
+> _§ 4º - Na hipótese do_ _<span style="color:#fe8019">parágrafo anterior</span>, o_ **_recurso_** _cabível será sempre para o_ **_Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau._**
 
-STF - transporte clandestino de animais com destino ao exterior - interesse da UNIÃO - **competência da Justiça Federal**
+> STF - transporte clandestino de animais com destino ao exterior - interesse da UNIÃO - **competência da Justiça Federal**
 
+> SÚMULA Nº 254 - STJ: A decisão do **<span style="color:#83a598">Juízo Federal</span>** que **<span style="color:#fb4934">exclui da relação processual</span>** **<span style="color:#fe8019">ente federal</span>** **<span style="color:#fb4934">não pode ser reexaminada</span>** no **<span style="color:#83a598">Juízo Estadual</span>**.
 # **8. Justiça do Trabalho**
 
 - **<u>Órgãos da Justiça do Trabalho</u>**:
