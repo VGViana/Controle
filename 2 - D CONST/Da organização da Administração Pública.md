@@ -103,7 +103,7 @@ Saiba que: o direito de petição é um dos instrumentos para a concretização 
 # **4. Princípios Implícitos da Administração Pública**
 
 - Não foram previstos na CF/88:
-    - Controle judicial dos atos administrativos - **<span style="color:#fe8019">sindicabilidade</span> -** <span style="color:#fb4934">todo ato administrativo pode se submeter a algum tipo de controle.</span> 
+    - Controle judicial dos atos administrativos - **<span style="color:#fe8019">sindicabilidade</span> -** <span style="color:#fb4934">todo [[6. Atos Administrativos|ato administrativo]] pode se submeter a algum tipo de controle.</span> 
     - Princípio da autotutela
     - Presunção da segurança jurídica
     - Princípio da motivação
@@ -114,7 +114,7 @@ Saiba que: o direito de petição é um dos instrumentos para a concretização 
 
 - _Art. 37, I, CF/88 - os cargos, empregos e funções públicas são acessíveis aos_ **_brasileiros_** _que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei;_
 - Súmula Vinculante nº 44 (STF): "Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
-- Súmula nº 14 (STF): “Não é admissível, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo público."
+- Súmula nº 14 (STF): “Não é admissível, por [[6. Atos Administrativos|ato administrativo]], restringir, em razão da idade, inscrição em concurso para cargo público."
 
 **Atenção**:
 

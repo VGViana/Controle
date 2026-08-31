@@ -2712,7 +2712,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 2° Sem prejuízo do que vier a ser estabelecido em lei, a aprovação, revisão ou cancelamento de súmula poderá ser provocada por aqueles que podem propor a ação direta de inconstitucionalidade. (Incluído pela Emenda Constitucional n° 45, de 2004) ^9889c58
 
-	* § 3° Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso. (Incluído pela Emenda Constitucional n° 45, de 2004) ^d52122c
+	* § 3° Do [[6. Atos Administrativos|ato administrativo]] ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o [[6. Atos Administrativos|ato administrativo]] ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso. (Incluído pela Emenda Constitucional n° 45, de 2004) ^d52122c
 
 * Art. 103-B. O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros com mandato de 2 (dois) anos, admitida 1 (uma) recondução, sendo: (Redação dada pela Emenda Constitucional n° 61, de 2009) ^f02360e
 
