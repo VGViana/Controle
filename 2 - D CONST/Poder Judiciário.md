@@ -1011,3 +1011,4 @@ O **Recurso Ordinário é exemplo de recurso de fundamentação livre**.
 [IBS e CBS](https://www.tecconcursos.com.br/questoes/3402839): Conflitos entre os entes federativos e o Comitê Gestor do IBS relativos a esse imposto devem ser julgados pelo STJ
 
 ---
+[Crimes militares](https://www.tecconcursos.com.br/questoes/3281720): Compete aos <u>juízes de direito do juízo militar</u> processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, **CABENDO AO CONSELHO DE JUSTIÇA, SOB A PRESIDÊNCIA DO JUIZ DE DIREITO, PROCESSAR E JULGAR OS DEMAIS CRIMES MILITARES**.
