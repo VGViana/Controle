@@ -11,4 +11,4 @@ Despesa que integra o resultado primário, em oposição às despesas financeira
 
 - [[Resultado Primário]]
 - [[Receita Primária]]
-- [[Despesa Pública]]
+- [[1 - AFO/7. Despesas Públicas|Despesa Pública]]

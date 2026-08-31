@@ -11,4 +11,4 @@ Receita considerada na apuração do resultado primário, excluídas, em regra, 
 
 - [[Resultado Primário]]
 - [[Despesa Primária]]
-- [[Receita Pública]]
+- [[1 - AFO/5. Receitas Públicas|Receita Pública]]

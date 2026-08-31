@@ -18,4 +18,4 @@ Conjunto de mecanismos de liderança, estratégia e controle postos em prática 
 - [[Gestão de Riscos]]
 - [[Compliance Público]]
 - [[Accountability]]
-- [[Gestão por Resultados]]
+- [[5 - APU/16. Gestão por Resultados|Gestão por Resultados]]
