@@ -16,7 +16,7 @@ O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* Parágrafo único. Esta Lei aplica-se aos órgãos da administração pública direta dos Poderes Executivo e Legislativo, aos fundos especiais, às autarquias, às fundações públicas, às empresas públicas, às sociedades de economia mista e às demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios. (Redação dada pela Lei n° 13.137, de 2015) ^660e64d
 
-* Art. 2° Parceria público-privada é o contrato administrativo de concessão, na modalidade patrocinada ou administrativa. ^bd4f65c
+* Art. 2° Parceria público-privada é o [[contrato administrativo]] de concessão, na modalidade patrocinada ou administrativa. ^bd4f65c
 
 	* § 1° Concessão patrocinada é a concessão de serviços públicos ou de obras públicas de que trata a Lei n° 8.987, de 13 de fevereiro de 1995, quando envolver, adicionalmente à tarifa cobrada dos usuários contraprestação pecuniária do parceiro público ao parceiro privado. ^490e2e9
 
