@@ -536,13 +536,14 @@ Funcionarão, junto ao STJ:
 - **Revisão criminal** e ação rescisória de <u>seus julgados</u>
 - **Reclamação** e preservação <u>de sua competência</u> e garantia da autoridade de suas decisões  
       
-    
 
 ### **<span style="color: #d79921">Conflitos de Competência:</span>**
 
 - Entre <u>quaisquer Tribunais</u>;
 - Entre Tribunal e Juízes a ele não vinculados e entre Juízes vinculados a Tribunais diversos.
 
+A Emenda Constitucional nº 132/2023 incluiu na CF a alínea "j" do inciso I do artigo 105
+> **os conflitos entre entes federativos, ou entre estes e o Comitê Gestor do Imposto sobre Bens e Serviços, relacionados aos tributos previstos nos arts. 156-A <span style="color:#fb4934">(Imposto sobre Bens e Serviços - IBS)</span> e 195, V <span style="color:#fb4934">(Contribuição sobre Bens e Serviços - CBS)</span>**
 ## **6.3 Competência Recursal**
 
 ### **<span style="color:#d3869b">RECURSO ORDINÁRIO</span>**
