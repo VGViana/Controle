@@ -1,0 +1,19 @@
+# Accountability
+
+Dever e capacidade de prestar contas, justificar decisões, submeter-se a escrutínio e sofrer consequências por resultados ou condutas. No setor público, une transparência, responsabilização e responsividade perante a sociedade e instituições de controle.
+
+## Dimensões frequentes
+
+- Answerability: obrigação de informar e explicar.
+- Enforcement: possibilidade de aplicação de consequências.
+
+## Atenção para concursos
+
+- Accountability é mais ampla que transparência: publicar dados sem responsabilização ou resposta não esgota o conceito.
+- Pode ocorrer nas relações verticalizadas entre cidadãos e governantes e nas relações horizontais entre instituições estatais.
+
+## Veja também
+
+- [[Prestação de Contas]]
+- [[Transparência Pública]]
+- [[Responsabilização perante Tribunal de Contas]]
