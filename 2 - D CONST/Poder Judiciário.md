@@ -676,7 +676,7 @@ _Art. 109, CF/88_ 
 
 _§ 3º -_ **_<span style="color:#fe8019">Lei</span>_** _poderá autorizar que as causas de_ _<span style="color:#fe8019">competência da Justiça Federal</span>_ _em que forem parte_ **_<span style="color:#83a598"><u>instituição de previdência social e segurado</u></span>_** _<span style="color:#83a598">possam ser processadas e julgadas na justiça estadual</span>_ **_quando a comarca do domicílio do segurado não for sede de vara federal._**
 
-_§ 4º - Na hipótese do_ _<span style="color:#fe8019">parágrafo anterior</span>__, o_ **_recurso_** _cabível será sempre para o_ **_Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau._**
+_§ 4º - Na hipótese do_ _<span style="color:#fe8019">parágrafo anterior</span>, o_ **_recurso_** _cabível será sempre para o_ **_Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau._**
 
 STF - transporte clandestino de animais com destino ao exterior - interesse da UNIÃO - **competência da Justiça Federal**
 
