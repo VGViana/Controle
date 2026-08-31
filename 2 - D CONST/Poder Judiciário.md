@@ -978,3 +978,36 @@ Os precatórios podem ser usados para comprar imóveis públicos
 ⚠️ STF considerou o regime especial como inconstitucional, mas houve a modulação dos efeitos desta decisão.
 
 🚨STF - considera que o regime dos precatórios poderá ser aplicado às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial.
+
+# Questões
+
+[Foro por prerrogativa](https://www.tecconcursos.com.br/questoes/3387873): 
+1. Procurador Regional da República (membro do Ministério Público Federal que oficia perante tribunais):
+	- A Constituição Federal, em seu Art. 105, I, 'a', estabelece que compete ao Superior Tribunal de Justiça (STJ) processar e julgar, originariamente, nos crimes comuns, os membros do Ministério Público da União que oficiem perante tribunais.
+	- Os Procuradores Regionais da República atuam perante os Tribunais Regionais Federais (TRFs), enquadrando-se perfeitamente nessa descrição.
+	- Foro: STJ
+2. Chefe de missão diplomática de caráter permanente:
+	- A Constituição Federal, em seu Art. 102, I, 'c', determina que compete ao Supremo Tribunal Federal (STF) processar e julgar, originariamente, nas infrações penais comuns e nos crimes de responsabilidade, os chefes de missão diplomática de caráter permanente.
+	- Foro: STF
+
+3. Deputado Federal:
+	- A Constituição Federal, em seu Art. 102, I, 'b', estabelece que compete ao Supremo Tribunal Federal (STF) processar e julgar, originariamente, nas infrações penais comuns, os membros do Congresso Nacional (o que inclui Deputados Federais e Senadores).
+	- Foro: STF
+
+---
+
+[Competências](https://www.tecconcursos.com.br/questoes/3403518): Inicialmente, cabe salientar que, neste caso, a competência originária para processar e julgar essa ação é da **Justiça Federal** por força do art. 109, II, da CF/88.
+
+Salienta-se que da decisão proferida pelo juiz federal **CABERÁ RECURSO ORDINÁRIO PARA O STJ**, conforme prevê o art. 105, II, alínea c, da CF/88.
+
+Os recursos podem ser de **fundamentação vinculada ou de fundamentação livre**.
+
+O **Recurso Extraordinário e o Recurso Especial são exemplos de recursos de fundamentação vinculada**
+
+O **Recurso Ordinário é exemplo de recurso de fundamentação livre**.
+
+---
+
+[IBS e CBS](https://www.tecconcursos.com.br/questoes/3402839): Conflitos entre os entes federativos e o Comitê Gestor do IBS relativos a esse imposto devem ser julgados pelo STJ
+
+---
