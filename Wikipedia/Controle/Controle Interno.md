@@ -22,7 +22,7 @@ Conjunto organizado de atividades, procedimentos e mecanismos adotados dentro de
 
 ## Veja também
 
-- [[Controle Externo]]
-- [[Gestão de Riscos]]
-- [[Compliance Público]]
-- [[Auditoria de Conformidade]]
+- [[Controle Externo]] · [GitHub](<Controle%20Externo.md>)
+- [[Gestão de Riscos]] · [GitHub](<../Governan%C3%A7a/Gest%C3%A3o%20de%20Riscos.md>)
+- [[Compliance Público]] · [GitHub](<../Governan%C3%A7a/Compliance%20P%C3%BAblico.md>)
+- [[Auditoria de Conformidade]] · [GitHub](<../Auditoria/Auditoria%20de%20Conformidade.md>)

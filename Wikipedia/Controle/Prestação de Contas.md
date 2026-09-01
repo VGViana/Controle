@@ -19,6 +19,6 @@ Dever de demonstrar, justificar e sujeitar a exame a gestão de recursos públic
 
 ## Veja também
 
-- [[Tomada de Contas Especial]]
-- [[Controle Externo]]
-- [[Accountability]]
+- [[Tomada de Contas Especial]] · [GitHub](<Tomada%20de%20Contas%20Especial.md>)
+- [[Controle Externo]] · [GitHub](<Controle%20Externo.md>)
+- [[Accountability]] · [GitHub](<../Governan%C3%A7a/Accountability.md>)

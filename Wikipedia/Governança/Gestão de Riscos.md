@@ -17,6 +17,6 @@ Processo contínuo de identificar, analisar, avaliar, tratar, monitorar e comuni
 
 ## Veja também
 
-- [[Governança Pública]]
-- [[Controle Interno]]
-- [[Risco de Auditoria]]
+- [[Governança Pública]] · [GitHub](<Governan%C3%A7a%20P%C3%BAblica.md>)
+- [[Controle Interno]] · [GitHub](<../Controle/Controle%20Interno.md>)
+- [[Risco de Auditoria]] · [GitHub](<../Auditoria/Risco%20de%20Auditoria.md>)

@@ -14,6 +14,6 @@ Dever e capacidade de prestar contas, justificar decisões, submeter-se a escrut
 
 ## Veja também
 
-- [[Prestação de Contas]]
-- [[Transparência Pública]]
-- [[Responsabilização perante Tribunal de Contas]]
+- [[Prestação de Contas]] · [GitHub](<../Controle/Presta%C3%A7%C3%A3o%20de%20Contas.md>)
+- [[Transparência Pública]] · [GitHub](<Transpar%C3%AAncia%20P%C3%BAblica.md>)
+- [[Responsabilização perante Tribunal de Contas]] · [GitHub](<../Responsabiliza%C3%A7%C3%A3o%20perante%20Tribunal%20de%20Contas.md>)

@@ -22,6 +22,6 @@ Conjunto de atividades prévias que define a necessidade pública, estuda soluç
 
 ## Veja também
 
-- [[Processo Licitatório]]
-- [[Contrato Administrativo]]
-- [[Gestão de Riscos]]
+- [[Processo Licitatório]] · [GitHub](<Processo%20Licitat%C3%B3rio.md>)
+- [[Contrato Administrativo]] · [GitHub](<Contrato%20Administrativo.md>)
+- [[Gestão de Riscos]] · [GitHub](<../Governan%C3%A7a/Gest%C3%A3o%20de%20Riscos.md>)

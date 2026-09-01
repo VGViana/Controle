@@ -17,6 +17,6 @@ Medidas que sintetizam informação sobre recursos, processos, produtos, resulta
 
 ## Veja também
 
-- [[Avaliação de Políticas Públicas]]
-- [[Orçamento-Programa]]
-- [[Auditoria Operacional]]
+- [[Avaliação de Políticas Públicas]] · [GitHub](<Avalia%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20P%C3%BAblicas.md>)
+- [[Orçamento-Programa]] · [GitHub](<../Or%C3%A7amento%20e%20Contabilidade/Or%C3%A7amento-Programa.md>)
+- [[Auditoria Operacional]] · [GitHub](<../Auditoria/Auditoria%20Operacional.md>)

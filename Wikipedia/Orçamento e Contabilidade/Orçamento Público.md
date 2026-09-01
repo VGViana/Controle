@@ -16,6 +16,6 @@ Instrumento de planejamento, programação e controle pelo qual o Estado estima 
 
 ## Veja também
 
-- [[1 - AFO/0. PPA, LDO e LOA|PPA, LDO e LOA]]
-- [[Ciclo Orçamentário]]
-- [[Orçamento-Programa]]
+- [[1 - AFO/0. PPA, LDO e LOA|PPA, LDO e LOA]] · [GitHub](<../../1%20-%20AFO/0.%20PPA%2C%20LDO%20e%20LOA.md>)
+- [[Ciclo Orçamentário]] · [GitHub](<Ciclo%20Or%C3%A7ament%C3%A1rio.md>)
+- [[Orçamento-Programa]] · [GitHub](<Or%C3%A7amento-Programa.md>)

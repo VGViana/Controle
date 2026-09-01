@@ -15,7 +15,7 @@ Exame independente, objetivo e sistemático de programas, órgãos, atividades o
 
 ## Veja também
 
-- [[Auditoria de Conformidade]]
-- [[Eficiência, Eficácia, Efetividade e Economicidade]]
-- [[Avaliação de Políticas Públicas]]
-- [[Indicadores de Desempenho]]
+- [[Auditoria de Conformidade]] · [GitHub](<Auditoria%20de%20Conformidade.md>)
+- [[Eficiência, Eficácia, Efetividade e Economicidade]] · [GitHub](<../Pol%C3%ADticas%20P%C3%BAblicas/Efici%C3%AAncia%2C%20Efic%C3%A1cia%2C%20Efetividade%20e%20Economicidade.md>)
+- [[Avaliação de Políticas Públicas]] · [GitHub](<../Pol%C3%ADticas%20P%C3%BAblicas/Avalia%C3%A7%C3%A3o%20de%20Pol%C3%ADticas%20P%C3%BAblicas.md>)
+- [[Indicadores de Desempenho]] · [GitHub](<../Pol%C3%ADticas%20P%C3%BAblicas/Indicadores%20de%20Desempenho.md>)

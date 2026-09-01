@@ -14,6 +14,6 @@ Busca o ressarcimento do dano e a apuração de responsabilidades, após as prov
 
 ## Veja também
 
-- [[Prestação de Contas]]
-- [[Responsabilização perante Tribunal de Contas]]
-- [[Ressarcimento ao Erário]]
+- [[Prestação de Contas]] · [GitHub](<Presta%C3%A7%C3%A3o%20de%20Contas.md>)
+- [[Responsabilização perante Tribunal de Contas]] · [GitHub](<../Responsabiliza%C3%A7%C3%A3o%20perante%20Tribunal%20de%20Contas.md>)
+- [[Ressarcimento ao Erário]] · [GitHub](<../Ressarcimento%20ao%20Er%C3%A1rio.md>)

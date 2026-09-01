@@ -21,7 +21,7 @@ Abrange aspectos contábil, financeiro, orçamentário, operacional e patrimonia
 
 ## Veja também
 
-- [[Controle Externo]]
-- [[Auditoria Operacional]]
-- [[Auditoria de Conformidade]]
-- [[Monitoramento de Deliberações]]
+- [[Controle Externo]] · [GitHub](<Controle%20Externo.md>)
+- [[Auditoria Operacional]] · [GitHub](<../Auditoria/Auditoria%20Operacional.md>)
+- [[Auditoria de Conformidade]] · [GitHub](<../Auditoria/Auditoria%20de%20Conformidade.md>)
+- [[Monitoramento de Deliberações]] · [GitHub](<../Auditoria/Monitoramento%20de%20Delibera%C3%A7%C3%B5es.md>)

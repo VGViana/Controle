@@ -21,6 +21,6 @@ Ajuste firmado pela Administração Pública com particular ou outra entidade pa
 
 ## Veja também
 
-- [[Processo Licitatório]]
-- [[Planejamento da Contratação]]
-- [[Gestão de Riscos]]
+- [[Processo Licitatório]] · [GitHub](<Processo%20Licitat%C3%B3rio.md>)
+- [[Planejamento da Contratação]] · [GitHub](<Planejamento%20da%20Contrata%C3%A7%C3%A3o.md>)
+- [[Gestão de Riscos]] · [GitHub](<../Governan%C3%A7a/Gest%C3%A3o%20de%20Riscos.md>)
