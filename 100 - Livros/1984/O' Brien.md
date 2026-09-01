@@ -1,1 +1,1 @@
-- Amigo do trabalho de Winston
+- Amigo do trabalho de [[Winston Smith]]
