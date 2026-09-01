@@ -108,7 +108,7 @@ _III - aos Tribunais de Justiça julgar os juízes estaduais e do Distrito Feder
 🚨 Assunto de extrema importância! Fique ligado! **Art. 95, CF/88:**
 
 - **<span style="color:#d3869b">Irredutibilidade</span>** de Subsídio
-    - busca-se proteger a remuneração dos juízes contra qualquer tipo de retaliação do Poder Executivo ou do Poder Legislativo.
+    - busca-se proteger a remuneração dos juízes contra qualquer tipo de retaliação do [[Poder Executivo]] ou do Poder Legislativo.
     - A proteção se limita ao valor **nominal dos subsídios**. Não há proteção ao **<span style="color:#83a598">valor real</span>**.
 
 STF - É inconstitucional que normas estaduais <u>limitem a idade dos magistrados para ingresso na carreira.</u>
@@ -116,7 +116,7 @@ STF - É inconstitucional que normas estaduais <u>limitem a idade dos magistrado
 - **<span style="color:#d3869b">Inamovibilidade</span>** sem o consentimento do magistrado, inclusive nos casos de promoção - <span style="color:#fb4934">RESSALVADOS OS CASOS</span>:
 	- **Interesse público**, ==e==
 	- Decisão da **maioria absoluta,** respectivo Tribunal ou do CNJ - deve haver **ampla defesa**
-	> O STF entendeu pela **<span style="color:#fb4934">inconstitucionalidade</span>** de norma  estadual que garantia a **<span style="color:#fb4934">inamovibilidade para aqueles ocupante do cargo de Procurador do  Estado</span>**, tendo em vista que a função necessita que haja certa parcialidade e afinidade com o  Chefe do Poder Executivo:
+	> O STF entendeu pela **<span style="color:#fb4934">inconstitucionalidade</span>** de norma  estadual que garantia a **<span style="color:#fb4934">inamovibilidade para aqueles ocupante do cargo de Procurador do  Estado</span>**, tendo em vista que a função necessita que haja certa parcialidade e afinidade com o  Chefe do [[Poder Executivo]]:
 
 - **<span style="color:#d3869b">Vitaliciedade</span>**
 	- garantia de que o magistrado não será destituído do cargo, salvo em caso de exoneração por **sentença judicial transitada em julgado**.
@@ -229,7 +229,7 @@ _Art. 93, XI, CF/88. - nos tribunais com_ **<span style="color:#fe8019">_número
 
 _Art. 94, CF/88. Um quinto dos lugares dos_ **_<span style="color:#fe8019">Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal_</span>** _e Territórios será_ **_<span style="color:#b8bb26">composto de membros do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes.</span>_**
 
-_Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação._
+_Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao [[Poder Executivo]], que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação._
 
 **Indicações**:
 

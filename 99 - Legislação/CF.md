@@ -174,7 +174,7 @@ STF: **<span style="color:#fe8019">um ente federativo não poderá requisitar be
 
 		* b) a **obtenção de certidões em repartições públicas**, para defesa de direitos e esclarecimento de situações de interesse pessoal; ^fa269b9
 
-	* XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito; ^114c3bd
+	* XXXV - a lei não excluirá da apreciação do [[Poder Judiciário]] lesão ou ameaça a direito; ^114c3bd
 
 	* XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada; ^2fac79a
 
@@ -650,7 +650,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 	* § 5° O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um <span style="color:#fb4934">único período subseqüente.</span> (<span style="color:#b8bb26">Inelegibilidade relativa por motivos funcionais</span>) ^cc80972
 
 	> STF - **<span style="color:#fe8019">prefeito itinerante</span>** - nos casos dos prefeitos, eles não poderão assumir um terceiro mandato consecutivo, mesmo se eleitos por um diferente município. 
-	> Caso tenha exercido dois mandatos consecutivos de Chefe do Poder Executivo, ele não poderá candidatar-se à vice. 
+	> Caso tenha exercido dois mandatos consecutivos de Chefe do [[Poder Executivo]], ele não poderá candidatar-se à vice. 
 	> Os vices que assumirem o mandato em curso, poderão candidatar-se a apenas mais um mandato. 
 	
 	* § 6° Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito. ^f2dc473
@@ -658,7 +658,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 	> Em casos de desmembramento de municípios, deve haver a desincompatibilização do município de origem para concorrer no município derivado.
 
 	* § 7° São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consangüíneos ou afins, **até o segundo grau ou por adoção**, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído <u>dentro dos seis meses anteriores ao pleito</u>, **<span style="color:#fb4934">salvo</span>** se já titular de mandato eletivo e candidato à reeleição. **<span style="color:#fb4934">(INELEGIBILIDADE REFLEXA)</span>**^4b879bb
-	> A inelegibilidade reflexiva é restringida aos cargos de Chefe do Poder Executivo.  
+	> A inelegibilidade reflexiva é restringida aos cargos de Chefe do [[Poder Executivo]].  
 	STF - a inelegibilidade reflexiva atinge as relações homoafetivas. 
 	A inelegibilidade reflexiva não ocorre em casos de falecimento.  
 	Súmula Vinculante nº 18 - A dissolução da sociedade ou do vínculo conjugal, no curso do mandato, <u>não afasta a inelegibilidade</u> prevista no § 7º do artigo 14 da Constituição Federal.
@@ -741,7 +741,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 9° Dos recursos oriundos do Fundo Especial de Financiamento de Campanha e do fundo partidário destinados às campanhas eleitorais, os partidos políticos devem, obrigatoriamente, aplicar 30% (trinta por cento) em candidaturas de pessoas pretas e pardas, nas circunscrições que melhor atendam aos interesses e às estratégias partidárias. (Incluído pela Emenda Constitucional n° 133, de 2024) ^1451246
 
-# 3. TÍTULO III - DA ORGANIZAÇÃO DO ESTADO (ARTS. 18 A 43)
+# 3. TÍTULO III - DA [[ORGANIZAÇÃO DO ESTADO]] (ARTS. 18 A 43)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3. TÍTULO III - DA ORGANIZAÇÃO DO ESTADO (ARTS. 18 A 43)|Resumo]]
 
 ## 3.1. CAPÍTULO I - DA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA (ARTS. 18 A 19)
@@ -1033,7 +1033,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 3° Compete às Assembléias Legislativas dispor sobre seu regimento interno, polícia e serviços administrativos de sua secretaria, e prover os respectivos cargos. ^3f6c3cf
 
-	* § 4° A lei disporá sobre a iniciativa popular no processo legislativo estadual. ^2734665
+	* § 4° A lei disporá sobre a iniciativa popular no [[processo legislativo]] estadual. ^2734665
 
 * Art. 28. A eleição do Governador e do Vice-Governador de Estado, para mandato de 4 (quatro) anos, realizar-se-á no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato de seus antecessores, e a posse ocorrerá em 6 de janeiro do ano subsequente, observado, quanto ao mais, o disposto no art. [[#^45e2cfb|77]] desta Constituição. (Redação dada pela Emenda Constitucional n° 111, de 2021) ^a3a0ad1
 
@@ -1180,7 +1180,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* IX - promover a proteção do patrimônio histórico-cultural local, observada a legislação e a ação fiscalizadora federal e estadual. ^c328f70
 
-* Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei. ^0c12866
+* Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do [[Poder Executivo]] Municipal, na forma da lei. ^0c12866
 
 	* § 1° O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver. ^c243e91
 
@@ -1262,7 +1262,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 36. A decretação da intervenção dependerá: ^07263cc
 
-	* I - no caso do art. [[#^78ae06d|34]], [[#^693bde8|IV]], de solicitação do Poder Legislativo ou do Poder Executivo coacto ou impedido, ou de requisição do Supremo Tribunal Federal, se a coação for exercida contra o Poder Judiciário; ^838b79d
+	* I - no caso do art. [[#^78ae06d|34]], [[#^693bde8|IV]], de solicitação do Poder Legislativo ou do [[Poder Executivo]] coacto ou impedido, ou de requisição do Supremo Tribunal Federal, se a coação for exercida contra o Poder Judiciário; ^838b79d
 
 	* II - no caso de desobediência a ordem ou decisão judiciária, de requisição do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do Tribunal Superior Eleitoral; ^4076163
 
@@ -1304,9 +1304,9 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* X - a remuneração dos servidores públicos e o subsídio de que trata o § [[#^51bdef8|4°]] do art. [[#^a4b00e0|39]] somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices; (Redação dada pela Emenda Constitucional n° 19, de 1998) (Regulamento) ^acf623e
 
-	* XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do Poder Executivo, o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos; (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^3af496b
+	* XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do [[Poder Executivo]], o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos; (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^3af496b
 
-	* XII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo; ^3cce705
+	* XII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo [[Poder Executivo]]; ^3cce705
 
 	* XIII - é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^0b47d84
 
@@ -1461,7 +1461,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 13. Aplica-se ao agente público ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração, de outro cargo temporário, inclusive mandato eletivo, ou de emprego público, o Regime Geral de Previdência Social. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^f73ebac
 
-	* § 14. A União, os Estados, o Distrito Federal e os Municípios instituirão, por lei de iniciativa do respectivo Poder Executivo, regime de previdência complementar para servidores públicos ocupantes de cargo efetivo, observado o limite máximo dos benefícios do Regime Geral de Previdência Social para o valor das aposentadorias e das pensões em regime próprio de previdência social, ressalvado o disposto no § [[#^998899c|16]]. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^151a42f
+	* § 14. A União, os Estados, o Distrito Federal e os Municípios instituirão, por lei de iniciativa do respectivo [[Poder Executivo]], regime de previdência complementar para servidores públicos ocupantes de cargo efetivo, observado o limite máximo dos benefícios do Regime Geral de Previdência Social para o valor das aposentadorias e das pensões em regime próprio de previdência social, ressalvado o disposto no § [[#^998899c|16]]. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^151a42f
 
 	* § 15. O regime de previdência complementar de que trata o § [[#^151a42f|14]] oferecerá plano de benefícios somente na modalidade contribuição definida, observará o disposto no art. [[#^d450a12|202]] e será efetivado por intermédio de entidade fechada de previdência complementar ou de entidade aberta de previdência complementar. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^7fb9853
 
@@ -1627,7 +1627,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* IV - aprovar o estado de defesa e a intervenção federal, autorizar o estado de sítio, ou suspender qualquer uma dessas medidas; ^b1cc4fe
 
-	* V - sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa; ^4670537
+	* V - sustar os atos normativos do [[Poder Executivo]] que exorbitem do poder regulamentar ou dos limites de delegação legislativa; ^4670537
 
 	* VI - mudar temporariamente sua sede; ^979fe21
 
@@ -1637,7 +1637,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* IX - julgar anualmente as contas prestadas pelo Presidente da República e apreciar os relatórios sobre a execução dos planos de governo; ^6a7e37a
 
-	* X - fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do Poder Executivo, incluídos os da administração indireta; ^cba25d9
+	* X - fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do [[Poder Executivo]], incluídos os da administração indireta; ^cba25d9
 
 	* XI - zelar pela preservação de sua competência legislativa em face da atribuição normativa dos outros Poderes; ^f3f3c43
 
@@ -1645,7 +1645,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* XIII - escolher dois terços dos membros do Tribunal de Contas da União; ^dedcb22
 
-	* XIV - aprovar iniciativas do Poder Executivo referentes a atividades nucleares; ^6972e06
+	* XIV - aprovar iniciativas do [[Poder Executivo]] referentes a atividades nucleares; ^6972e06
 
 	* XV - autorizar referendo e convocar plebiscito; ^815876b
 
@@ -1856,13 +1856,13 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 4° Durante o recesso, haverá uma Comissão representativa do Congresso Nacional, eleita por suas Casas na última sessão ordinária do período legislativo, com atribuições definidas no regimento comum, cuja composição reproduzirá, quanto possível, a proporcionalidade da representação partidária. ^f142368
 
-### 4.1.8. SEÇÃO VIII - DO PROCESSO LEGISLATIVO (ARTS. 59 A 69)
+### 4.1.8. SEÇÃO VIII - DO [[PROCESSO LEGISLATIVO]] (ARTS. 59 A 69)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.8. SEÇÃO VIII - DO PROCESSO LEGISLATIVO (ARTS. 59 A 69)|Resumo]]
 
 #### 4.1.8.1. SUBSEÇÃO I - DISPOSIÇÃO GERAL (ART. 59)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.1.8.1. SUBSEÇÃO I - DISPOSIÇÃO GERAL (ART. 59)|Resumo]]
 
-* Art. 59. O processo legislativo compreende a elaboração de: ^c3c95b8
+* Art. 59. O [[processo legislativo]] compreende a elaboração de: ^c3c95b8
 
 	* I - emendas à Constituição; ^92daa4f
 
@@ -2061,9 +2061,9 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* XI - representar ao Poder competente sobre irregularidades ou abusos apurados. ^93fc5e2
 
-	* § 1° No caso de contrato, o ato de sustação será adotado diretamente pelo Congresso Nacional, que solicitará, de imediato, ao Poder Executivo as medidas cabíveis. ^8eff6eb
+	* § 1° No caso de contrato, o ato de sustação será adotado diretamente pelo Congresso Nacional, que solicitará, de imediato, ao [[Poder Executivo]] as medidas cabíveis. ^8eff6eb
 
-	* § 2° Se o Congresso Nacional ou o Poder Executivo, no prazo de noventa dias, não efetivar as medidas previstas no parágrafo anterior, o Tribunal decidirá a respeito. ^5f85735
+	* § 2° Se o Congresso Nacional ou o [[Poder Executivo]], no prazo de noventa dias, não efetivar as medidas previstas no parágrafo anterior, o Tribunal decidirá a respeito. ^5f85735
 
 	* § 3° As decisões do Tribunal de que resulte imputação de débito ou multa terão eficácia de título executivo. ^1afa604
 
@@ -2115,13 +2115,13 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* Parágrafo único. As Constituições estaduais disporão sobre os Tribunais de Contas respectivos, que serão integrados por sete Conselheiros. ^3d02434
 
-## 4.2. CAPÍTULO II - DO PODER EXECUTIVO (ARTS. 76 A 91)
+## 4.2. CAPÍTULO II - DO [[PODER EXECUTIVO]] (ARTS. 76 A 91)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2. CAPÍTULO II - DO PODER EXECUTIVO (ARTS. 76 A 91)|Resumo]]
 
 ### 4.2.1. SEÇÃO I - DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA (ARTS. 76 A 83)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/4.2.1. SEÇÃO I - DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA (ARTS. 76 A 83)|Resumo]]
 
-* Art. 76. O Poder Executivo é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado. ^2b02d53
+* Art. 76. O [[Poder Executivo]] é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado. ^2b02d53
 
 * Art. 77. A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato presidencial vigente. (Redação dada pela Emenda Constitucional n° 16, de 1997) ^45e2cfb
 
@@ -2164,7 +2164,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* II - exercer, com o auxílio dos Ministros de Estado, a direção superior da administração federal; ^a266c8a
 
-	* III - iniciar o processo legislativo, na forma e nos casos previstos nesta Constituição; ^7857451
+	* III - iniciar o [[processo legislativo]], na forma e nos casos previstos nesta Constituição; ^7857451
 
 	* IV - sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e regulamentos para sua fiel execução; ^10dd13e
 
@@ -2417,7 +2417,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 94. Um quinto dos lugares dos Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal e Territórios será composto de membros, do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes. ^31df19f
 
-	* Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subseqüentes, escolherá um de seus integrantes para nomeação. ^fd49d8a
+	* Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao [[Poder Executivo]], que, nos vinte dias subseqüentes, escolherá um de seus integrantes para nomeação. ^fd49d8a
 
 * Art. 95. Os juízes gozam das seguintes garantias: ^e06f5c0
 
@@ -2491,9 +2491,9 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* II - no âmbito dos Estados e no do Distrito Federal e Territórios, aos Presidentes dos Tribunais de Justiça, com a aprovação dos respectivos tribunais. ^24a74ec
 
-	* § 3° Se os órgãos referidos no § [[#^2bea533|2°]] não encaminharem as respectivas propostas orçamentárias dentro do prazo estabelecido na lei de diretrizes orçamentárias, o Poder Executivo considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § [[#^f9112bc|1°]] deste artigo. (Incluído pela Emenda Constitucional n° 45, de 2004) ^fc63ef0
+	* § 3° Se os órgãos referidos no § [[#^2bea533|2°]] não encaminharem as respectivas propostas orçamentárias dentro do prazo estabelecido na lei de diretrizes orçamentárias, o [[Poder Executivo]] considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § [[#^f9112bc|1°]] deste artigo. (Incluído pela Emenda Constitucional n° 45, de 2004) ^fc63ef0
 
-	* § 4° Se as propostas orçamentárias de que trata este artigo forem encaminhadas em desacordo com os limites estipulados na forma do § [[#^f9112bc|1°]], o Poder Executivo procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual. (Incluído pela Emenda Constitucional n° 45, de 2004) ^1d7c428
+	* § 4° Se as propostas orçamentárias de que trata este artigo forem encaminhadas em desacordo com os limites estipulados na forma do § [[#^f9112bc|1°]], o [[Poder Executivo]] procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual. (Incluído pela Emenda Constitucional n° 45, de 2004) ^1d7c428
 
 	* § 5° Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais. (Incluído pela Emenda Constitucional n° 45, de 2004) ^8e5551f
 
@@ -3116,9 +3116,9 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 3° O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias. ^0e9d7eb
 
-	* § 4° Se o Ministério Público não encaminhar a respectiva proposta orçamentária dentro do prazo estabelecido na lei de diretrizes orçamentárias, o Poder Executivo considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § [[#^0e9d7eb|3°]]. (Incluído pela Emenda Constitucional n° 45, de 2004) ^bced240
+	* § 4° Se o Ministério Público não encaminhar a respectiva proposta orçamentária dentro do prazo estabelecido na lei de diretrizes orçamentárias, o [[Poder Executivo]] considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § [[#^0e9d7eb|3°]]. (Incluído pela Emenda Constitucional n° 45, de 2004) ^bced240
 
-	* § 5° Se a proposta orçamentária de que trata este artigo for encaminhada em desacordo com os limites estipulados na forma do § [[#^0e9d7eb|3°]], o Poder Executivo procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual. (Incluído pela Emenda Constitucional n° 45, de 2004) ^d734735
+	* § 5° Se a proposta orçamentária de que trata este artigo for encaminhada em desacordo com os limites estipulados na forma do § [[#^0e9d7eb|3°]], o [[Poder Executivo]] procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual. (Incluído pela Emenda Constitucional n° 45, de 2004) ^d734735
 
 	* § 6° Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais. (Incluído pela Emenda Constitucional n° 45, de 2004) ^500a8b7
 
@@ -3140,7 +3140,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 2° A destituição do Procurador-Geral da República, por iniciativa do Presidente da República, deverá ser precedida de autorização da maioria absoluta do Senado Federal. ^c69307c
 
-	* § 3° Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, permitida uma recondução. ^e26936b
+	* § 3° Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do [[Poder Executivo]], para mandato de dois anos, permitida uma recondução. ^e26936b
 
 	* § 4° Os Procuradores-Gerais nos Estados e no Distrito Federal e Territórios poderão ser destituídos por deliberação da maioria absoluta do Poder Legislativo, na forma da lei complementar respectiva. ^15a384a
 
@@ -3247,7 +3247,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 (Redação dada pela Emenda Constitucional n° 19, de 1998)
 
-* Art. 131. A Advocacia-Geral da União é a instituição que, diretamente ou através de órgão vinculado, representa a União, judicial e extrajudicialmente, cabendo-lhe, nos termos da lei complementar que dispuser sobre sua organização e funcionamento, as atividades de consultoria e assessoramento jurídico do Poder Executivo. ^2785575
+* Art. 131. A Advocacia-Geral da União é a instituição que, diretamente ou através de órgão vinculado, representa a União, judicial e extrajudicialmente, cabendo-lhe, nos termos da lei complementar que dispuser sobre sua organização e funcionamento, as atividades de consultoria e assessoramento jurídico do [[Poder Executivo]]. ^2785575
 
 	* § 1° - A Advocacia-Geral da União tem por chefe o Advogado-Geral da União, de livre nomeação pelo Presidente da República dentre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada. ^e3b7689
 
@@ -3467,7 +3467,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* I - impostos; ^4b1092b
 
-	* II - taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição; ^e963a1c
+	* II - taxas, em razão do exercício do [[5. Poderes e Deveres|poder de polícia]] ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição; ^e963a1c
 
 	* III - contribuição de melhoria, decorrente de obras públicas. ^126ca94
 
@@ -3653,7 +3653,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* VIII - produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023) ^bf115cb
 
-	* § 1° É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar as alíquotas dos impostos enumerados nos incisos [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^b6b5f55|IV]] e [[#^913e692|V]]. ^9716b19
+	* § 1° É facultado ao [[Poder Executivo]], atendidas as condições e os limites estabelecidos em lei, alterar as alíquotas dos impostos enumerados nos incisos [[#^ab28a48|I]], [[#^1e2c12c|II]], [[#^b6b5f55|IV]] e [[#^913e692|V]]. ^9716b19
 
 	* § 2° O imposto previsto no inciso [[#^f267e04|III]]: ^e72598f
 
@@ -3730,7 +3730,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* IV - terá suas alíquotas máximas fixadas pelo Senado Federal; ^70cb19b
 
-		* V - não incidirá sobre as doações destinadas, no âmbito do Poder Executivo da União, a projetos socioambientais ou destinados a mitigar os efeitos das mudanças climáticas e às instituições federais de ensino. (Incluído pela Emenda Constituicional n° 126, de 2022) ^0159402
+		* V - não incidirá sobre as doações destinadas, no âmbito do [[Poder Executivo]] da União, a projetos socioambientais ou destinados a mitigar os efeitos das mudanças climáticas e às instituições federais de ensino. (Incluído pela Emenda Constituicional n° 126, de 2022) ^0159402
 
 		* VI - será progressivo em razão do valor do quinhão, do legado ou da doação; (Incluído pela Emenda Constitucional n° 132, de 2023) ^9f11008
 
@@ -3863,7 +3863,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* II - ter alíquotas diferentes de acordo com a localização e o uso do imóvel. (Incluído pela Emenda Constitucional n° 29, de 2000) ^4982615
 
-		* III - ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos em lei municipal. (Incluído pela Emenda Constitucional n° 132, de 2023) ^2b0e764
+		* III - ter sua base de cálculo atualizada pelo [[Poder Executivo]], conforme critérios estabelecidos em lei municipal. (Incluído pela Emenda Constitucional n° 132, de 2023) ^2b0e764
 
 	* § 1°-A O imposto previsto no inciso [[#^876d590|I]] do caput deste artigo não incide sobre templos de qualquer culto, ainda que as entidades abrangidas pela imunidade de que trata a alínea "[[#^3cbcecd|b]]" do inciso [[#^96e48c4|VI]] do caput do art. [[#^95551ec|150]] desta Constituição sejam apenas locatárias do bem imóvel. (Incluído pela Emenda Constitucional n° 116, de 2022) ^26847ff
 
@@ -4232,7 +4232,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 ### 6.2.2. SEÇÃO II - DOS ORÇAMENTOS (ARTS. 165 A 169)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/6.2.2. SEÇÃO II - DOS ORÇAMENTOS (ARTS. 165 A 169)|Resumo]]
 
-* Art. 165. <span style="color:#83a598">Leis de iniciativa do Poder Executivo</span> estabelecerão: ^17f7c34
+* Art. 165. <span style="color:#83a598">Leis de iniciativa do [[Poder Executivo]]</span> estabelecerão: ^17f7c34
 
 	* I - o <span style="color:#83a598">plano</span> <span style="color:#83a598">plurianual</span>; ^cfb6f52
 
@@ -4244,7 +4244,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 2° A <span style="color:#b8bb26">lei de diretrizes orçamentárias</span> compreenderá as <span style="color:#b8bb26">metas e prioridades</span> da administração pública federal, estabelecerá as <span style="color:#b8bb26">diretrizes de política fiscal</span> e respectivas <span style="color:#b8bb26">metas, em consonância com trajetória sustentável da dívida pública</span>, <span style="color:#b8bb26">orientará a elaboração da lei orçamentária</span> anual, disporá sobre as <span style="color:#b8bb26">alterações na legislação tributária</span> e estabelecerá a <span style="color:#b8bb26">política de aplicação das agências financeiras oficiais de fomento</span>. (Redação dada pela Emenda Constitucional n° 109, de 2021) ^8704a57
 
-	* § 3° O <span style="color:#fe8019">Poder Executivo</span> publicará, <span style="color:#fe8019">até trinta dias após o encerramento de cada bimestre</span>, <span style="color:#fe8019">relatório resumido da execução orçamentária</span>. (Vide Emenda constitucional n° 106, de 2020) ^a24d410
+	* § 3° O <span style="color:#fe8019">[[Poder Executivo]]</span> publicará, <span style="color:#fe8019">até trinta dias após o encerramento de cada bimestre</span>, <span style="color:#fe8019">relatório resumido da execução orçamentária</span>. (Vide Emenda constitucional n° 106, de 2020) ^a24d410
 
 	* § 4° Os <span style="color: #d79921">planos e programas nacionais</span>, <span style="color: #d79921">regionais e setoriais</span> previstos nesta Constituição serão <span style="color: #d79921">elaborados em consonância com o plano plurianual</span> e apreciados pelo Congresso Nacional. ^ca94985
 
@@ -4290,11 +4290,11 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 16. As leis de que trata este artigo devem observar, no que couber, os resultados do monitoramento e da avaliação das políticas públicas previstos no § [[#^51dd2e8|16]] do art. [[#^73a80b7|37]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^1562e0b
 
-	* § 17. Para o cumprimento do disposto no inciso [[#^7d4d829|I]] do § [[#^b21f2e5|11]] deste artigo, o Poder Executivo poderá reduzir ou limitar, na elaboração e na execução das leis orçamentárias, as despesas com a concessão de subsídios, subvenções e benefícios de natureza financeira, inclusive os relativos a indenizações e restituições por perdas econômicas, observado o ato jurídico perfeito. (Incluído pela Emenda Constitucional n° 135, de 2024) ^5d2d3cd
+	* § 17. Para o cumprimento do disposto no inciso [[#^7d4d829|I]] do § [[#^b21f2e5|11]] deste artigo, o [[Poder Executivo]] poderá reduzir ou limitar, na elaboração e na execução das leis orçamentárias, as despesas com a concessão de subsídios, subvenções e benefícios de natureza financeira, inclusive os relativos a indenizações e restituições por perdas econômicas, observado o ato jurídico perfeito. (Incluído pela Emenda Constitucional n° 135, de 2024) ^5d2d3cd
 
-	* § 18. A partir do exercício financeiro de 2026, serão excluídas do limite individualizado do Poder Executivo estabelecido na lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022, as despesas com precatórios e requisições de pequeno valor. (Incluído pela Emenda Constitucional n° 136, de 2025) ^8ab17db
+	* § 18. A partir do exercício financeiro de 2026, serão excluídas do limite individualizado do [[Poder Executivo]] estabelecido na lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022, as despesas com precatórios e requisições de pequeno valor. (Incluído pela Emenda Constitucional n° 136, de 2025) ^8ab17db
 
-	* § 19. A partir de 2026, o limite individualizado para o Poder Executivo é aquele estabelecido nos termos da lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022, considerados os créditos suplementares e especiais incorporados ao limite de despesa de 2025, e deduzido do valor correspondente ao limite de que trata o art. 107-A do Ato das Disposições Constitucionais Transitórias considerado para elaboração do projeto de lei orçamentária anual de 2025, corrigido pelo IPCA, nos termos da referida lei complementar. (Incluído pela Emenda Constitucional n° 136, de 2025) ^c879807
+	* § 19. A partir de 2026, o limite individualizado para o [[Poder Executivo]] é aquele estabelecido nos termos da lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022, considerados os créditos suplementares e especiais incorporados ao limite de despesa de 2025, e deduzido do valor correspondente ao limite de que trata o art. 107-A do Ato das Disposições Constitucionais Transitórias considerado para elaboração do projeto de lei orçamentária anual de 2025, corrigido pelo IPCA, nos termos da referida lei complementar. (Incluído pela Emenda Constitucional n° 136, de 2025) ^c879807
 
 	* § 20. O disposto nos §§ [[#^8ab17db|18]] e [[#^c879807|19]] deste artigo não implicará revisão da base de cálculo dos limites individualizados estabelecidos na lei complementar de que trata o art. 6° da Emenda Constitucional n° 126, de 21 de dezembro de 2022. (Incluído pela Emenda Constitucional n° 136, de 2025) ^6c545ec
 
@@ -4336,7 +4336,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 6° Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do orçamento anual serão <span style="color:#fe8019">enviados pelo Presidente da República ao Congresso Nacional</span>, nos termos da lei complementar a que se refere o art. [[#^17f7c34|165]], § [[#^08f239c|9°]]. ^0fd2ce9
 
-	* § 7° Aplicam-se aos projetos mencionados neste artigo, no que não contrariar o disposto nesta seção, as demais normas relativas ao processo legislativo. ^0f131cd
+	* § 7° Aplicam-se aos projetos mencionados neste artigo, no que não contrariar o disposto nesta seção, as demais normas relativas ao [[processo legislativo]]. ^0f131cd
 
 	* § 8° <span style="color:#b8bb26">Os recursos que, em decorrência de veto, emenda ou rejeição do projeto de lei orçamentária anual, ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa.</span> ^5a2281d
 
@@ -4392,7 +4392,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* II - <span style="color:#fe8019">pertencerão ao ente federado no ato da efetiva transferência financeira</span>; e (Incluído pela Emenda Constitucional n° 105, de 2019) ^5a48773
 
-		* III - <span style="color:#fe8019">serão aplicadas em programações finalísticas das áreas de competência</span> do Poder Executivo do ente federado beneficiado, observado o disposto no § [[#^b64b748|5°]] deste artigo. (Incluído pela Emenda Constitucional n° 105, de 2019) ^cc065d3
+		* III - <span style="color:#fe8019">serão aplicadas em programações finalísticas das áreas de competência</span> do [[Poder Executivo]] do ente federado beneficiado, observado o disposto no § [[#^b64b748|5°]] deste artigo. (Incluído pela Emenda Constitucional n° 105, de 2019) ^cc065d3
 
 	* § 3° O ente federado beneficiado da <span style="color:#fe8019">transferência especial a que se refere o inciso [[#^9897336|I]] do caput deste artigo poderá firmar contratos de cooperação técnica para fins de subsidiar o acompanhamento da execução orçamentária na aplicação dos recursos.</span> (Incluído pela Emenda Constitucional n° 105, de 2019) ^f26ef54
 
@@ -4442,7 +4442,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 4° É permitida a vinculação das receitas a que se referem os arts. [[#^c99e88e|155]], [[#^2e16bcd|156]], [[#^1a749c5|156-A]], [[#^dcc29bd|157]], [[#^bfd7c36|158]] e as alíneas "[[#^5b9d1e6|a]]", "[[#^b0cac88|b]]", "[[#^205906f|d]]", "[[#^e661787|e]]" e "[[#^fe328a1|f]]" do inciso [[#^7a6e6b6|I]] e o inciso [[#^9cd5881|II]] do caput do art. [[#^835537a|159]] desta Constituição para pagamento de débitos com a União e para prestar-lhe garantia ou contragarantia. (Redação dada pela Emenda Constitucional n° 132, de 2023) ^6551a0f
 
-	* § 5° A transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra poderão ser admitidos, no âmbito das atividades de ciência, tecnologia e inovação, com o objetivo de viabilizar os resultados de projetos restritos a essas funções, mediante ato do Poder Executivo, sem necessidade da prévia autorização legislativa prevista no inciso [[#^76504fa|VI]] deste artigo. (Incluído pela Emenda Constitucional n° 85, de 2015) ^1e170cb
+	* § 5° A transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra poderão ser admitidos, no âmbito das atividades de ciência, tecnologia e inovação, com o objetivo de viabilizar os resultados de projetos restritos a essas funções, mediante ato do [[Poder Executivo]], sem necessidade da prévia autorização legislativa prevista no inciso [[#^76504fa|VI]] deste artigo. (Incluído pela Emenda Constitucional n° 85, de 2015) ^1e170cb
 
 	* § 6° Para fins da apuração ao término do exercício financeiro do cumprimento do limite de que trata o inciso [[#^51aabc4|III]] do caput deste artigo, as receitas das operações de crédito efetuadas no contexto da gestão da dívida pública mobiliária federal somente serão consideradas no exercício financeiro em que for realizada a respectiva despesa. (Incluído pela Emenda Constitucional n° 109, de 2021) ^977e2f0
 
@@ -4478,7 +4478,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* X - concessão ou ampliação de incentivo ou benefício de natureza tributária. (Incluído pela Emenda Constitucional n° 109, de 2021) ^86187db
 
-	* § 1° Apurado que a despesa corrente <span style="color:#b8bb26">supera 85% (oitenta e cinco por cento) da receita corrente, sem exceder o percentual mencionado no caput deste artigo, as medidas nele indicadas podem ser, no todo ou em parte, implementadas por atos do Chefe do Poder Executivo com vigência imediata, facultado aos demais Poderes e órgãos autônomos implementá-las em seus respectivos âmbitos.</span> (Incluído pela Emenda Constitucional n° 109, de 2021) ^6972fc4
+	* § 1° Apurado que a despesa corrente <span style="color:#b8bb26">supera 85% (oitenta e cinco por cento) da receita corrente, sem exceder o percentual mencionado no caput deste artigo, as medidas nele indicadas podem ser, no todo ou em parte, implementadas por atos do Chefe do [[Poder Executivo]] com vigência imediata, facultado aos demais Poderes e órgãos autônomos implementá-las em seus respectivos âmbitos.</span> (Incluído pela Emenda Constitucional n° 109, de 2021) ^6972fc4
 
 	* § 2° O ato de que trata o § [[#^6972fc4|1°]] deste artigo deve ser submetido, em regime de urgência, à apreciação do Poder Legislativo. (Incluído pela Emenda Constitucional n° 109, de 2021) ^fa70690
 
@@ -4506,9 +4506,9 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 167-B. Durante a vigência de estado de calamidade pública de âmbito nacional, decretado pelo Congresso Nacional por iniciativa privativa do Presidente da República, a União deve adotar regime extraordinário fiscal, financeiro e de contratações para atender às necessidades dele decorrentes, somente naquilo em que a urgência for incompatível com o regime regular, nos termos definidos nos arts. [[#^322249c|167-C]], [[#^b2d15c7|167-D]], [[#^b0eb937|167-E]], [[#^0dcb548|167-F]] e [[#^ed3a2b5|167-G]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^e5ddbd9
 
-* Art. 167-C. Com o propósito exclusivo de enfrentamento da calamidade pública e de seus efeitos sociais e econômicos, no seu período de duração, o Poder Executivo federal pode adotar processos simplificados de contratação de pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de condições a todos os concorrentes, dispensada a observância do § [[#^75891ed|1°]] do art. [[#^7ac0258|169]] na contratação de que trata o inciso [[#^68b8c5a|IX]] do caput do art. [[#^73a80b7|37]] desta Constituição, limitada a dispensa às situações de que trata o referido inciso, sem prejuízo do controle dos órgãos competentes. (Incluído pela Emenda Constitucional n° 109, de 2021) ^322249c
+* Art. 167-C. Com o propósito exclusivo de enfrentamento da calamidade pública e de seus efeitos sociais e econômicos, no seu período de duração, o [[Poder Executivo]] federal pode adotar processos simplificados de contratação de pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de condições a todos os concorrentes, dispensada a observância do § [[#^75891ed|1°]] do art. [[#^7ac0258|169]] na contratação de que trata o inciso [[#^68b8c5a|IX]] do caput do art. [[#^73a80b7|37]] desta Constituição, limitada a dispensa às situações de que trata o referido inciso, sem prejuízo do controle dos órgãos competentes. (Incluído pela Emenda Constitucional n° 109, de 2021) ^322249c
 
-* Art. 167-D. As proposições legislativas e os atos do Poder Executivo com propósito exclusivo de enfrentar a calamidade e suas consequências sociais e econômicas, com vigência e efeitos restritos à sua duração, desde que não impliquem despesa obrigatória de caráter continuado, ficam dispensados da observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa e à concessão ou à ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita. (Incluído pela Emenda Constitucional n° 109, de 2021) ^b2d15c7
+* Art. 167-D. As proposições legislativas e os atos do [[Poder Executivo]] com propósito exclusivo de enfrentar a calamidade e suas consequências sociais e econômicas, com vigência e efeitos restritos à sua duração, desde que não impliquem despesa obrigatória de caráter continuado, ficam dispensados da observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa e à concessão ou à ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita. (Incluído pela Emenda Constitucional n° 109, de 2021) ^b2d15c7
 
 	* Parágrafo único. Durante a vigência da calamidade pública de âmbito nacional de que trata o art. [[#^e5ddbd9|167-B]], não se aplica o disposto no § [[#^670fbef|3°]] do art. [[#^dd51188|195]] desta Constituição. (Incluído pela Emenda Constitucional n° 109, de 2021) ^2784e59
 
@@ -4684,7 +4684,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 			* a) diferenciada por produto ou uso; (Incluído pela Emenda Constitucional n° 33, de 2001) ^7a04c8a
 
-			* b)reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art. [[#^95551ec|150]],[[#^b33d22a|III]], [[#^876c2fe|b]]; (Incluído pela Emenda Constitucional n° 33, de 2001) ^a88a97d
+			* b)reduzida e restabelecida por ato do [[Poder Executivo]], não se lhe aplicando o disposto no art. [[#^95551ec|150]],[[#^b33d22a|III]], [[#^876c2fe|b]]; (Incluído pela Emenda Constitucional n° 33, de 2001) ^a88a97d
 
 		* II - os recursos arrecadados serão destinados: (Incluído pela Emenda Constitucional n° 33, de 2001) ^6115727
 
@@ -5506,7 +5506,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 5° As alterações de controle societário das empresas de que trata o § [[#^90b2e41|1°]] serão comunicadas ao Congresso Nacional. (Incluído pela Emenda Constitucional n° 36, de 2002) ^d0faa0f
 
-* Art. 223. Compete ao Poder Executivo outorgar e renovar concessão, permissão e autorização para o serviço de radiodifusão sonora e de sons e imagens, observado o princípio da complementaridade dos sistemas privado, público e estatal. ^33dfa4e
+* Art. 223. Compete ao [[Poder Executivo]] outorgar e renovar concessão, permissão e autorização para o serviço de radiodifusão sonora e de sons e imagens, observado o princípio da complementaridade dos sistemas privado, público e estatal. ^33dfa4e
 
 	* § 1° O Congresso Nacional apreciará o ato no prazo do art. [[#^2bcb060|64]], § [[#^64f8fdf|2°]] e § [[#^78e7eca|4°]], a contar do recebimento da mensagem. ^6fd40c3
 
@@ -5833,7 +5833,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* Parágrafo único. Promulgada a Constituição do Estado, caberá à Câmara Municipal, no prazo de seis meses, votar a Lei Orgânica respectiva, em dois turnos de discussão e votação, respeitado o disposto na Constituição Federal e na Constituição Estadual.
 
-* Art. 12. Será criada, dentro de noventa dias da promulgação da Constituição, Comissão de Estudos Territoriais, com dez membros indicados pelo Congresso Nacional e cinco pelo Poder Executivo, com a finalidade de apresentar estudos sobre o território nacional e anteprojetos relativos a novas unidades territoriais, notadamente na Amazônia Legal e em áreas pendentes de solução.
+* Art. 12. Será criada, dentro de noventa dias da promulgação da Constituição, Comissão de Estudos Territoriais, com dez membros indicados pelo Congresso Nacional e cinco pelo [[Poder Executivo]], com a finalidade de apresentar estudos sobre o território nacional e anteprojetos relativos a novas unidades territoriais, notadamente na Amazônia Legal e em áreas pendentes de solução.
 
 	* § 1° No prazo de um ano, a Comissão submeterá ao Congresso Nacional os resultados de seus estudos para, nos termos da Constituição, serem apreciados nos doze meses subseqüentes, extinguindo-se logo após.
 
@@ -5849,7 +5849,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 1° O Estado do Tocantins integra a Região Norte e limita-se com o Estado de Goiás pelas divisas norte dos Municípios de São Miguel do Araguaia, Porangatu, Formoso, Minaçu, Cavalcante, Monte Alegre de Goiás e Campos Belos, conservando a leste, norte e oeste as divisas atuais de Goiás com os Estados da Bahia, Piauí, Maranhão, Pará e Mato Grosso.
 
-	* § 2° O Poder Executivo designará uma das cidades do Estado para sua Capital provisória até a aprovação da sede definitiva do governo pela Assembléia Constituinte.
+	* § 2° O [[Poder Executivo]] designará uma das cidades do Estado para sua Capital provisória até a aprovação da sede definitiva do governo pela Assembléia Constituinte.
 
 	* § 3° O Governador, o Vice-Governador, os Senadores, os Deputados Federais e os Deputados Estaduais serão eleitos, em um único turno, até setenta e cinco dias após a promulgação da Constituição, mas não antes de 15 de novembro de 1988, a critério do Tribunal Superior Eleitoral, obedecidas, entre outras, as seguintes normas:
 
@@ -5875,7 +5875,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 2° Aplicam-se à transformação e instalação dos Estados de Roraima e Amapá as normas e critérios seguidos na criação do Estado de Rondônia, respeitado o disposto na Constituição e neste Ato.
 
-	* § 3° O Presidente da República, até quarenta e cinco dias após a promulgação da Constituição, encaminhará à apreciação do Senado Federal os nomes dos governadores dos Estados de Roraima e do Amapá que exercerão o Poder Executivo até a instalação dos novos Estados com a posse dos governadores eleitos.
+	* § 3° O Presidente da República, até quarenta e cinco dias após a promulgação da Constituição, encaminhará à apreciação do Senado Federal os nomes dos governadores dos Estados de Roraima e do Amapá que exercerão o [[Poder Executivo]] até a instalação dos novos Estados com a posse dos governadores eleitos.
 
 	* § 4° Enquanto não concretizada a transformação em Estados, nos termos deste artigo, os Territórios Federais de Roraima e do Amapá serão beneficiados pela transferência de recursos prevista nos arts. 159, I, "a", da Constituição, e 34, § 2°, II, deste Ato.
 
@@ -5921,7 +5921,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 24. A União, os Estados, o Distrito Federal e os Municípios editarão leis que estabeleçam critérios para a compatibilização de seus quadros de pessoal ao disposto no art. 39 da Constituição e à reforma administrativa dela decorrente, no prazo de dezoito meses, contados da sua promulgação.
 
-* Art. 25. Ficam revogados, a partir de cento e oitenta dias da promulgação da Constituição, sujeito este prazo a prorrogação por lei, todos os dispositivos legais que atribuam ou deleguem a órgão do Poder Executivo competência assinalada pela Constituição ao Congresso Nacional, especialmente no que tange a:
+* Art. 25. Ficam revogados, a partir de cento e oitenta dias da promulgação da Constituição, sujeito este prazo a prorrogação por lei, todos os dispositivos legais que atribuam ou deleguem a órgão do [[Poder Executivo]] competência assinalada pela Constituição ao Congresso Nacional, especialmente no que tange a:
 
 	* I - ação normativa;
 
@@ -5941,7 +5941,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 1° A Comissão terá a força legal de Comissão parlamentar de inquérito para os fins de requisição e convocação, e atuará com o auxílio do Tribunal de Contas da União.
 
-	* § 2° Apurada irregularidade, o Congresso Nacional proporá ao Poder Executivo a declaração de nulidade do ato e encaminhará o processo ao Ministério Público Federal, que formalizará, no prazo de sessenta dias, a ação cabível.
+	* § 2° Apurada irregularidade, o Congresso Nacional proporá ao [[Poder Executivo]] a declaração de nulidade do ato e encaminhará o processo ao Ministério Público Federal, que formalizará, no prazo de sessenta dias, a ação cabível.
 
 * Art. 27. O Superior Tribunal de Justiça será instalado sob a Presidência do Supremo Tribunal Federal.
 
@@ -5993,7 +5993,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 32. O disposto no art. 236 não se aplica aos serviços notariais e de registro que já tenham sido oficializados pelo Poder Público, respeitando-se o direito de seus servidores.
 
-* Art. 33. Ressalvados os créditos de natureza alimentar, o valor dos precatórios judiciais pendentes de pagamento na data da promulgação da Constituição, incluído o remanescente de juros e correção monetária, poderá ser pago em moeda corrente, com atualização, em prestações anuais, iguais e sucessivas, no prazo máximo de oito anos, a partir de 1° de julho de 1989, por decisão editada pelo Poder Executivo até cento e oitenta dias da promulgação da Constituição. (Vide Emenda Constitucional n° 3, de 1993)
+* Art. 33. Ressalvados os créditos de natureza alimentar, o valor dos precatórios judiciais pendentes de pagamento na data da promulgação da Constituição, incluído o remanescente de juros e correção monetária, poderá ser pago em moeda corrente, com atualização, em prestações anuais, iguais e sucessivas, no prazo máximo de oito anos, a partir de 1° de julho de 1989, por decisão editada pelo [[Poder Executivo]] até cento e oitenta dias da promulgação da Constituição. (Vide Emenda Constitucional n° 3, de 1993)
 
 	* Parágrafo único. Poderão as entidades devedoras, para o cumprimento do disposto neste artigo, emitir, em cada ano, no exato montante do dispêndio, títulos de dívida pública não computáveis para efeito do limite global de endividamento.
 
@@ -6073,7 +6073,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* III - entre o terceiro e o décimo segundo exercício financeiro subsequente ao da publicação deste dispositivo, a dedução de que trata o inciso II deste parágrafo será reduzida anualmente na proporção de 10% (dez por cento) de seu valor. (Incluído pela Emenda Constitucional n° 127, de 2022)
 
-* Art. 39. Para efeito do cumprimento das disposições constitucionais que impliquem variações de despesas e receitas da União, após a promulgação da Constituição, o Poder Executivo deverá elaborar e o Poder Legislativo apreciar projeto de revisão da lei orçamentária referente ao exercício financeiro de 1989.
+* Art. 39. Para efeito do cumprimento das disposições constitucionais que impliquem variações de despesas e receitas da União, após a promulgação da Constituição, o [[Poder Executivo]] deverá elaborar e o Poder Legislativo apreciar projeto de revisão da lei orçamentária referente ao exercício financeiro de 1989.
 
 	* Parágrafo único. O Congresso Nacional deverá votar no prazo de doze meses a lei complementar prevista no art. 161, II.
 
@@ -6205,7 +6205,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 2° Os benefícios estabelecidos neste artigo são transferíveis aos dependentes reconhecidamente carentes.
 
-	* § 3° A concessão do benefício far-se-á conforme lei a ser proposta pelo Poder Executivo dentro de cento e cinqüenta dias da promulgação da Constituição.
+	* § 3° A concessão do benefício far-se-á conforme lei a ser proposta pelo [[Poder Executivo]] dentro de cento e cinqüenta dias da promulgação da Constituição.
 
 * Art. 54-A. Os seringueiros de que trata o art. 54 deste Ato das Disposições Constitucionais Transitórias receberão indenização, em parcela única, no valor de R$ 25.000,00 (vinte e cinco mil reais). (Incluído pela Emenda Constitucional n° 78, de 2014) (Vide Emenda Constitucional n° 78, de 2014)
 
@@ -6275,7 +6275,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 62. A lei criará o Serviço Nacional de Aprendizagem Rural (SENAR) nos moldes da legislação relativa ao Serviço Nacional de Aprendizagem Industrial (SENAI) e ao Serviço Nacional de Aprendizagem do Comércio (SENAC), sem prejuízo das atribuições dos órgãos públicos que atuam na área.
 
-* Art. 63. É criada uma Comissão composta de nove membros, sendo três do Poder Legislativo, três do Poder Judiciário e três do Poder Executivo, para promover as comemorações do centenário da proclamação da República e da promulgação da primeira Constituição republicana do País, podendo, a seu critério, desdobrar-se em tantas subcomissões quantas forem necessárias.
+* Art. 63. É criada uma Comissão composta de nove membros, sendo três do Poder Legislativo, três do Poder Judiciário e três do [[Poder Executivo]], para promover as comemorações do centenário da proclamação da República e da promulgação da primeira Constituição republicana do País, podendo, a seu critério, desdobrar-se em tantas subcomissões quantas forem necessárias.
 
 	* Parágrafo único. No desenvolvimento de suas atribuições, a Comissão promoverá estudos, debates e avaliações sobre a evolução política, social, econômica e cultural do País, podendo articular-se com os governos estaduais e municipais e com instituições públicas e privadas que desejem participar dos eventos.
 
@@ -6299,7 +6299,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 2° O Fundo criado por este artigo passa a ser denominado Fundo de Estabilização Fiscal a partir do início do exercício financeiro de 1996. (Incluído pela Emenda Constitucional n° 10, de 1996)
 
-	* § 3° O Poder Executivo publicará demonstrativo da execução orçamentária, de periodicidade bimestral, no qual se discriminarão as fontes e usos do Fundo criado por este artigo. (Incluído pela Emenda Constitucional n° 10, de 1996)
+	* § 3° O [[Poder Executivo]] publicará demonstrativo da execução orçamentária, de periodicidade bimestral, no qual se discriminarão as fontes e usos do Fundo criado por este artigo. (Incluído pela Emenda Constitucional n° 10, de 1996)
 
 * Art. 72. Integram o Fundo Social de Emergência: (Incluído pela Emenda Constitucional de Revisão n° 1, de 1994)
 
@@ -6329,7 +6329,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 74. A União poderá instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira. (Incluído pela Emenda Constitucional n° 12, de 1996)
 
-	* § 1° A alíquota da contribuição de que trata este artigo não excederá a vinte e cinco centésimos por cento, facultado ao Poder Executivo reduzi-la ou restabelecê-la, total ou parcialmente, nas condições e limites fixados em lei. (Incluído pela Emenda Constitucional n° 12, de 1996)
+	* § 1° A alíquota da contribuição de que trata este artigo não excederá a vinte e cinco centésimos por cento, facultado ao [[Poder Executivo]] reduzi-la ou restabelecê-la, total ou parcialmente, nas condições e limites fixados em lei. (Incluído pela Emenda Constitucional n° 12, de 1996)
 
 	* § 2° A contribuição de que trata este artigo não se aplica o disposto nos arts. 153, § 5°, e 154, I, da Constituição. (Incluído pela Emenda Constitucional n° 12, de 1996)
 
@@ -6339,7 +6339,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 75. É prorrogada, por trinta e seis meses, a cobrança da contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira de que trata o art. 74, instituída pela Lei n° 9.311, de 24 de outubro de 1996, modificada pela Lei n° 9.539, de 12 de dezembro de 1997, cuja vigência é também prorrogada por idêntico prazo. (Incluído pela Emenda Constitucional n° 21, de 1999)
 
-	* § 1° Observado o disposto no § 6° do art. 195 da Constituição Federal, a alíquota da contribuição será de trinta e oito centésimos por cento, nos primeiros doze meses, e de trinta centésimos, nos meses subseqüentes, facultado ao Poder Executivo reduzi-la total ou parcialmente, nos limites aqui definidos. (Incluído pela Emenda Constitucional n° 21, de 1999)
+	* § 1° Observado o disposto no § 6° do art. 195 da Constituição Federal, a alíquota da contribuição será de trinta e oito centésimos por cento, nos primeiros doze meses, e de trinta centésimos, nos meses subseqüentes, facultado ao [[Poder Executivo]] reduzi-la total ou parcialmente, nos limites aqui definidos. (Incluído pela Emenda Constitucional n° 21, de 1999)
 
 	* § 2° O resultado do aumento da arrecadação, decorrente da alteração da alíquota, nos exercícios financeiros de 1999, 2000 e 2001, será destinado ao custeio da previdência social. (Incluído pela Emenda Constitucional n° 21, de 1999)
 
@@ -6389,7 +6389,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* IV - fundos instituídos pelo Tribunal de Contas do Município. (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-	* § 2° A cada exercício financeiro, até a data de que trata o caput deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os superávits financeiros, verificados no exercício financeiro imediatamente anterior, dos fundos públicos instituídos pelo Poder Executivo municipal. (Incluído pela Emenda Constitucional n° 136, de 2025)
+	* § 2° A cada exercício financeiro, até a data de que trata o caput deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os superávits financeiros, verificados no exercício financeiro imediatamente anterior, dos fundos públicos instituídos pelo [[Poder Executivo]] municipal. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
 * Art. 77. Até o exercício financeiro de 2004, os recursos mínimos aplicados nas ações e serviços públicos de saúde serão equivalentes: (Incluído pela Emenda Constitucional n° 29, de 2000)
 
@@ -6421,7 +6421,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 4° O Presidente do Tribunal competente deverá, vencido o prazo ou em caso de omissão no orçamento, ou preterição ao direito de precedência, a requerimento do credor, requisitar ou determinar o seqüestro de recursos financeiros da entidade executada, suficientes à satisfação da prestação. (Incluído pela Emenda Constitucional n° 30, de 2000)
 
-* Art. 79. É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida. (Incluído pela Emenda Constitucional n° 31, de 2000) (Vide Emenda Constitucional n° 42, de 19.12.2003) (Vide Emenda Constitucional n° 67, de 2010)
+* Art. 79. É instituído, para vigorar até o ano de 2010, no âmbito do [[Poder Executivo]] Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida. (Incluído pela Emenda Constitucional n° 31, de 2000) (Vide Emenda Constitucional n° 42, de 19.12.2003) (Vide Emenda Constitucional n° 67, de 2010)
 
 	* Parágrafo único. O Fundo previsto neste artigo terá Conselho Consultivo e de Acompanhamento que conte com a participação de representantes da sociedade civil, nos termos da lei. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
@@ -6447,7 +6447,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 1° Caso o montante anual previsto nos rendimentos transferidos ao Fundo de Combate e Erradicação da Pobreza, na forma deste artigo, não alcance o valor de quatro bilhões de reais. far-se-à complementação na forma do art. 80, inciso IV, do Ato das disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
-	* § 2° Sem prejuízo do disposto no § 1°, o Poder Executivo poderá destinar ao Fundo a que se refere este artigo outras receitas decorrentes da alienação de bens da União. (Incluído pela Emenda Constitucional n° 31, de 2000)
+	* § 2° Sem prejuízo do disposto no § 1°, o [[Poder Executivo]] poderá destinar ao Fundo a que se refere este artigo outras receitas decorrentes da alienação de bens da União. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
 	* § 3° A constituição do Fundo a que se refere o caput, a transferência de recursos ao Fundo de Combate e Erradicação da Pobreza e as demais disposições referentes ao § 1° deste artigo serão disciplinadas em lei, não se aplicando o disposto no art. 165, § 9°, inciso II, da Constituição. (Incluído pela Emenda Constitucional n° 31, de 2000)
 
@@ -6497,9 +6497,9 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* III - em contas de investidores estrangeiros, relativos a entradas no País e a remessas para o exterior de recursos financeiros empregados, exclusivamente, em operações e contratos referidos no inciso II deste artigo. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* § 1° O Poder Executivo disciplinará o disposto neste artigo no prazo de trinta dias da data de publicação desta Emenda Constitucional. (Incluído pela Emenda Constitucional n° 37, de 2002)
+	* § 1° O [[Poder Executivo]] disciplinará o disposto neste artigo no prazo de trinta dias da data de publicação desta Emenda Constitucional. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
-	* § 2° O disposto no inciso I deste artigo aplica-se somente às operações relacionadas em ato do Poder Executivo, dentre aquelas que constituam o objeto social das referidas entidades. (Incluído pela Emenda Constitucional n° 37, de 2002)
+	* § 2° O disposto no inciso I deste artigo aplica-se somente às operações relacionadas em ato do [[Poder Executivo]], dentre aquelas que constituam o objeto social das referidas entidades. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
 	* § 3° O disposto no inciso II deste artigo aplica-se somente a operações e contratos efetuados por intermédio de instituições financeiras, sociedades corretoras de títulos e valores mobiliários, sociedades distribuidoras de títulos e valores mobiliários e sociedades corretoras de mercadorias. (Incluído pela Emenda Constitucional n° 37, de 2002)
 
@@ -6577,7 +6577,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * Art. 97. Até que seja editada a lei complementar de que trata o § 15 do art. 100 da Constituição Federal, os Estados, o Distrito Federal e os Municípios que, na data de publicação desta Emenda Constitucional, estejam em mora na quitação de precatórios vencidos, relativos às suas administrações direta e indireta, inclusive os emitidos durante o período de vigência do regime especial instituído por este artigo, farão esses pagamentos de acordo com as normas a seguir estabelecidas, sendo inaplicável o disposto no art. 100 desta Constituição Federal, exceto em seus §§ 2°, 3°, 9°, 10, 11, 12, 13 e 14, e sem prejuízo dos acordos de juízos conciliatórios já formalizados na data de promulgação desta Emenda Constitucional. (Incluído pela Emenda Constitucional n° 62, de 2009) (Vide Emenda Constitucional n° 62, de 2009)
 
-	* § 1° Os Estados, o Distrito Federal e os Municípios sujeitos ao regime especial de que trata este artigo optarão, por meio de ato do Poder Executivo: (Incluído pela Emenda Constitucional n° 62, de 2009)
+	* § 1° Os Estados, o Distrito Federal e os Municípios sujeitos ao regime especial de que trata este artigo optarão, por meio de ato do [[Poder Executivo]]: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
 		* I - pelo depósito em conta especial do valor referido pelo § 2° deste artigo; ou (Incluído pela Emenda Constitucional n° 62, de 2009)
 
@@ -6611,7 +6611,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 7° Nos casos em que não se possa estabelecer a precedência cronológica entre 2 (dois) precatórios, pagar-se-á primeiramente o precatório de menor valor. (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-	* § 8° A aplicação dos recursos restantes dependerá de opção a ser exercida por Estados, Distrito Federal e Municípios devedores, por ato do Poder Executivo, obedecendo à seguinte forma, que poderá ser aplicada isoladamente ou simultaneamente: (Incluído pela Emenda Constitucional n° 62, de 2009)
+	* § 8° A aplicação dos recursos restantes dependerá de opção a ser exercida por Estados, Distrito Federal e Municípios devedores, por ato do [[Poder Executivo]], obedecendo à seguinte forma, que poderá ser aplicada isoladamente ou simultaneamente: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
 		* I - destinados ao pagamento dos precatórios por meio do leilão; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
@@ -6623,7 +6623,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* I - serão realizados por meio de sistema eletrônico administrado por entidade autorizada pela Comissão de Valores Mobiliários ou pelo Banco Central do Brasil; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* II - admitirão a habilitação de precatórios, ou parcela de cada precatório indicada pelo seu detentor, em relação aos quais não esteja pendente, no âmbito do Poder Judiciário, recurso ou impugnação de qualquer natureza, permitida por iniciativa do Poder Executivo a compensação com débitos líquidos e certos, inscritos ou não em dívida ativa e constituídos contra devedor originário pela Fazenda Pública devedora até a data da expedição do precatório, ressalvados aqueles cuja exigibilidade esteja suspensa nos termos da legislação, ou que já tenham sido objeto de abatimento nos termos do § 9° do art. 100 da Constituição Federal; (Incluído pela Emenda Constitucional n° 62, de 2009)
+		* II - admitirão a habilitação de precatórios, ou parcela de cada precatório indicada pelo seu detentor, em relação aos quais não esteja pendente, no âmbito do Poder Judiciário, recurso ou impugnação de qualquer natureza, permitida por iniciativa do [[Poder Executivo]] a compensação com débitos líquidos e certos, inscritos ou não em dívida ativa e constituídos contra devedor originário pela Fazenda Pública devedora até a data da expedição do precatório, ressalvados aqueles cuja exigibilidade esteja suspensa nos termos da legislação, ou que já tenham sido objeto de abatimento nos termos do § 9° do art. 100 da Constituição Federal; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
 		* III - ocorrerão por meio de oferta pública a todos os credores habilitados pelo respectivo ente federativo devedor; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
@@ -6645,7 +6645,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* II - constituir-se-á, alternativamente, por ordem do Presidente do Tribunal requerido, em favor dos credores de precatórios, contra Estados, Distrito Federal e Municípios devedores, direito líquido e certo, autoaplicável e independentemente de regulamentação, à compensação automática com débitos líquidos lançados por esta contra aqueles, e, havendo saldo em favor do credor, o valor terá automaticamente poder liberatório do pagamento de tributos de Estados, Distrito Federal e Municípios devedores, até onde se compensarem; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
-		* III - o chefe do Poder Executivo responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa; (Incluído pela Emenda Constitucional n° 62, de 2009)
+		* III - o chefe do [[Poder Executivo]] responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa; (Incluído pela Emenda Constitucional n° 62, de 2009)
 
 		* IV - enquanto perdurar a omissão, a entidade devedora: (Incluído pela Emenda Constitucional n° 62, de 2009)
 
@@ -6731,13 +6731,13 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 		* IV - (revogado). (Redação dada pela Emenda Constitucional n° 109, de 2021)
 
-	* § 5° Os empréstimos de que trata o inciso III do § 2° deste artigo poderão ser destinados, por meio de ato do Poder Executivo, exclusivamente ao pagamento de precatórios por acordo direto com os credores, na forma do disposto no inciso III do § 8° do art. 97 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 113, de 2021) (Vide ADI 7047) (Vide ADI 7064)
+	* § 5° Os empréstimos de que trata o inciso III do § 2° deste artigo poderão ser destinados, por meio de ato do [[Poder Executivo]], exclusivamente ao pagamento de precatórios por acordo direto com os credores, na forma do disposto no inciso III do § 8° do art. 97 deste Ato das Disposições Constitucionais Transitórias. (Incluído pela Emenda Constitucional n° 113, de 2021) (Vide ADI 7047) (Vide ADI 7064)
 
 	* § 6° Aplica-se ao regime de pagamento de precatórios descrito no caput deste artigo o disposto nos §§ 23 a 30 do art. 100 da Constituição Federal. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
 * Art. 102. Enquanto viger o regime especial previsto nesta Emenda Constitucional, pelo menos 50% (cinquenta por cento) dos recursos que, nos termos do art. 101 deste Ato das Disposições Constitucionais Transitórias, forem destinados ao pagamento dos precatórios em mora serão utilizados no pagamento segundo a ordem cronológica de apresentação, respeitadas as preferências dos créditos alimentares, e, nessas, as relativas à idade, ao estado de saúde e à deficiência, nos termos do § 2° do art. 100 da Constituição Federal, sobre todos os demais créditos de todos os anos. (Incluído pela Emenda Constitucional n° 94, de 2016)
 
-	* § 1° A aplicação dos recursos remanescentes, por opção a ser exercida por Estados, Distrito Federal e Municípios, por ato do respectivo Poder Executivo, observada a ordem de preferência dos credores, poderá ser destinada ao pagamento mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado. (Numerado do parágrafo único pela Emenda constitucional n° 99, de 2017)
+	* § 1° A aplicação dos recursos remanescentes, por opção a ser exercida por Estados, Distrito Federal e Municípios, por ato do respectivo [[Poder Executivo]], observada a ordem de preferência dos credores, poderá ser destinada ao pagamento mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado. (Numerado do parágrafo único pela Emenda constitucional n° 99, de 2017)
 
 	* § 2° Na vigência do regime especial previsto no art. 101 deste Ato das Disposições Constitucionais Transitórias, as preferências relativas à idade, ao estado de saúde e à deficiência serão atendidas até o valor equivalente ao quíntuplo fixado em lei para os fins do disposto no § 3° do art. 100 da Constituição Federal, admitido o fracionamento para essa finalidade, e o restante será pago em ordem cronológica de apresentação do precatório. (Incluído pela Emenda constitucional n° 99, de 2017)
 
@@ -6843,9 +6843,9 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 7° Em caso de exclusão por inadimplência, o Município ficará impedido de receber transferências voluntárias da União, inclusive de emendas parlamentares, enquanto perdurar a inadimplência. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	* § 8° O chefe do Poder Executivo do Município inadimplente responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa. (Incluído pela Emenda Constitucional n° 136, de 2025)
+	* § 8° O chefe do [[Poder Executivo]] do Município inadimplente responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-	* § 9° Não serão responsabilizados os Municípios e os respectivos chefes do Poder Executivo que demonstrarem que a inadimplência ocorreu por variações negativas inesperadas e significativas nas receitas ou por incremento nas despesas não decorrentes de decisões próprias do Município ou do respectivo chefe do Poder Executivo. (Incluído pela Emenda Constitucional n° 136, de 2025)
+	* § 9° Não serão responsabilizados os Municípios e os respectivos chefes do [[Poder Executivo]] que demonstrarem que a inadimplência ocorreu por variações negativas inesperadas e significativas nas receitas ou por incremento nas despesas não decorrentes de decisões próprias do Município ou do respectivo chefe do Poder Executivo. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
 	* § 10. As parcelas a que se refere o caput deste artigo serão equivalentes ao saldo da dívida fracionado em até 300 (trezentas) parcelas ou a 1% (um por cento) da média mensal da receita corrente líquida do Município referente ao ano anterior ao do vencimento da parcela, o que resultar na menor prestação. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
@@ -7045,7 +7045,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 9° Nos cálculos das alíquotas de que trata o caput, deverá ser considerada a arrecadação dos tributos previstos nos arts. 156-A e 195, V, da Constituição Federal, cuja cobrança tenha sido iniciada antes dos períodos de que tratam os incisos I, II e III do caput. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
-	* § 10. O cálculo das alíquotas a que se refere este artigo será realizado com base em propostas encaminhadas pelo Poder Executivo da União e pelo Comitê Gestor do Imposto sobre Bens e Serviços, que deverão fornecer ao Tribunal de Contas da União todos os subsídios necessários, mediante o compartilhamento de dados e informações, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023)
+	* § 10. O cálculo das alíquotas a que se refere este artigo será realizado com base em propostas encaminhadas pelo [[Poder Executivo]] da União e pelo Comitê Gestor do Imposto sobre Bens e Serviços, que deverão fornecer ao Tribunal de Contas da União todos os subsídios necessários, mediante o compartilhamento de dados e informações, nos termos de lei complementar. (Incluído pela Emenda Constitucional n° 132, de 2023)
 
 * Art. 131. De 2029 a 2077, o produto da arrecadação dos Estados, do Distrito Federal e dos Municípios com o imposto de que trata o art. 156-A da Constituição Federal será distribuído a esses entes federativos conforme o disposto neste artigo. (Incluído pela Emenda Constitucional n° 132, de 2023)
 

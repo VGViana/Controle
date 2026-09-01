@@ -48,7 +48,7 @@ O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* II - respeito aos interesses e direitos dos destinatários dos serviços e dos entes privados incumbidos da sua execução; ^669d580
 
-	* III - indelegabilidade das funções de regulação, jurisdicional, do exercício do poder de polícia e de outras atividades exclusivas do Estado; ^9162d0e
+	* III - indelegabilidade das funções de regulação, jurisdicional, do exercício do [[5. Poderes e Deveres|poder de polícia]] e de outras atividades exclusivas do Estado; ^9162d0e
 
 	* IV - responsabilidade fiscal na celebração e execução das parcerias; ^9f29ee0
 

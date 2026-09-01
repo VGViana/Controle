@@ -40,11 +40,11 @@ Em Municípios com <span style="color:#83a598">**mais de 200.000 eleitores**</sp
 
 - Nos crimes de responsabilidade <span style="color:#83a598">**próprios**</span>, a competência para julgamento do Prefeito será da <span style="color:#83a598">**Câmara Municipal**</span>
 
-- Nos crimes de responsabilidade <span style="color:#fb4934">impróprios</span>, a competência para julgamento do Prefeito será do <span style="color:#fb4934">Poder Judiciário, independentemente do pronunciamento do Legislativo</span>.
+- Nos crimes de responsabilidade <span style="color:#fb4934">impróprios</span>, a competência para julgamento do Prefeito será do <span style="color:#fb4934">[[Poder Judiciário]], independentemente do pronunciamento do Legislativo</span>.
 - Os <span style="color:#83a598">Vereadores</span> gozam de inviolabilidade por suas opiniões, palavras e votos (<span style="color:#83a598">imunidade material</span>) no exercício do mandato e na circunscrição do Município.
 
 _Art. 31, §§ 1º e 2º da Constituição Federal:_  
->_Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei._  
+>_Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do [[Poder Executivo]] Municipal, na forma da lei._  
 >>_§ 1º - O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver._  
 >>_§ 2º - O parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal._
 
@@ -207,7 +207,7 @@ Técnicas de Repartição:
     - transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais;
     - transporte rodoviário interestadual e internacional de passageiros;
     - os portos marítimos, fluviais e lacustres;
-- organizar e manter o <u>Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios</u>;   
+- organizar e manter o <u>[[Poder Judiciário]], o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios</u>;   
 
 ⚠️Fique atento: <u>desde a Emenda Constitucional no 69/2012</u>, a <span style="color:#b8bb26">Defensoria Pública do DF</span> passou a ser organizada e mantida **<span style="color:#b8bb26">pelo próprio Distrito Federal</span>**.
 
@@ -389,7 +389,7 @@ _Art. 25.§ 2º, CF/88 Cabe aos Estados explorar diretamente, ou mediante_ **<sp
 _Art. 25.§3º, CF/88 Os Estados poderão, mediante_ **_lei complementar,_** _instituir_ **_regiões metropolitanas_**_, aglomerações urbanas e microrregiões, constituídas por agrupamentos de_ **_municípios limítrofes_**_, para integrar a organização, o planejamento e a_ **_execução de funções públicas de interesse comum._**
 
 - Distrito Federal - competência dos Municípios e Estados, exceto:
-- Manter o Poder Judiciário - Compete à União.
+- Manter o [[Poder Judiciário]] - Compete à União.
 
 # **6. Competências dos Municípios**
 
@@ -418,7 +418,7 @@ _IX - promover a_ **_proteção do patrimônio histórico-cultural local,_** _ob
 
 **<span style="color:#fb4934"><u>Jurisprudência Importantes</u></span>:**  
 
-STF - A iniciativa de leis que versem sobre matéria tributária é concorrente entre o chefe do Poder Executivo e os membros do Legislativo. A circunstância de as leis que versem sobre matéria tributária poderem repercutir no orçamento do ente federado não conduz à conclusão de que sua iniciativa é privativa do chefe do Executivo" .
+STF - A iniciativa de leis que versem sobre matéria tributária é concorrente entre o chefe do [[Poder Executivo]] e os membros do Legislativo. A circunstância de as leis que versem sobre matéria tributária poderem repercutir no orçamento do ente federado não conduz à conclusão de que sua iniciativa é privativa do chefe do Executivo" .
 
 Súmula Vinculante nº 46, **“<span style="color:#83a598">a definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União</span>.”**
 
@@ -472,8 +472,8 @@ Assim, <span style="color:#d3869b">**lei municipal pode proibir que os agentes p
 - **<span style="color:#b8bb26"><u>PROVOCADA</u></span>** **<span style="color: #d79921">União</span> >>** **<span style="color:#d3869b"><u>Estados</u></span>**
 - **Assegurar os** **<span style="color:#b8bb26">Princípios Sensíveis</span>** **(ensino, saúde, autonomia, direitos, forma rep...)**
 - **Garantir o** **<span style="color:#b8bb26">livre exercício</span>** **de qualquer dos Poderes, DEPENDE:**
-	- **De** **<span style="color: #d79921">solicitação</span>** **do Poder Legislativo ou do Poder Executivo coacto ou impedido;**
-	- **De** **<span style="color:#fb4934">requisição</span>** **do STF se a coação for contra o Poder Judiciário.**
+	- **De** **<span style="color: #d79921">solicitação</span>** **do Poder Legislativo ou do [[Poder Executivo]] coacto ou impedido;**
+	- **De** **<span style="color:#fb4934">requisição</span>** **do STF se a coação for contra o [[Poder Judiciário]].**
 - **<span style="color:#b8bb26">Promover</span>** **a execução de** **<span style="color:#b8bb26">lei federal ou decisão judicial</span>**
 
 **<span style="color: #d79921">Atenção</span>**: No caso de **desobediência de decisão judicial** - **<span style="color:#fb4934">depende</span>** **<u>requisição</u> do STF, STJ ou TSE.**

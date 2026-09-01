@@ -14,8 +14,8 @@
 As espécies elencadas no art. 59 da CF/88 são consideradas **<span style="color:#b8bb26">espécies normativas primárias.</span>**
 
 ⚠️Ainda, há duas **<span style="color:#b8bb26">espécies normativas primárias</span>** que não foram elencadas no art. 59 da Constituição por não serem formadas através do processo legislativo, afinal, são de competência de outros Poderes, são elas:
-- Decretos Autônomos - Poder Executivo
-- Regimentos dos Tribunais - Poder Judiciário
+- Decretos Autônomos - [[Poder Executivo]]
+- Regimentos dos Tribunais - [[Poder Judiciário]]
 
 Saiba que o **desrespeito** ao processo legislativo provoca a **<span style="color:#fb4934">INCONSTITUCIONALIDADE FORMAL (nomodinâmica)</span>** do ato normativo.
 
@@ -90,7 +90,7 @@ _f) militares das_ **_Forças Armadas_**_, seu regime jurídico, provimento de c
 
 Observe que a iniciativa das leis orçamentárias (plano plurianual, lei de diretrizes orçamentárias e lei orçamentária anual) pertence ao PR. O mesmo vale para os Estados e Municípios, em que a iniciativa destas leis está vinculada aos Governadores e Prefeitos, respectivamente.
 
-- Iniciativa privativa dos tribunais do Poder Judiciário - art.96, II, CF/88.
+- Iniciativa privativa dos tribunais do [[Poder Judiciário]] - art.96, II, CF/88.
 - Iniciativa privativa da Defensoria Pública - EC nº80/2014
 - Iniciativa privativa dos Chefes dos Ministérios Públicos - art.127, CF/88
 - Iniciativa privativa dos Tribunais de Contas
@@ -210,7 +210,7 @@ STF - pode haver emendas que resultem em aumento de despesas nos casos de **<spa
 
 Saiba que a **<span style="color:#b8bb26">parte do projeto que não foi vetada será encaminhada para promulgação.</span>** Apenas a parte vetada que "voltará" para o Congresso Nacional, para que seja apreciado o veto.
 
-**<span style="color:#fe8019">Não há controle judicial sobre o mérito do veto</span>** pelo Poder Judiciário! No entanto, **<span style="color:#b8bb26">caberá controle judiciário caso o veto ocorra <u>após os 15 dias úteis</u></span>** da sanção.
+**<span style="color:#fe8019">Não há controle judicial sobre o mérito do veto</span>** pelo [[Poder Judiciário]]! No entanto, **<span style="color:#b8bb26">caberá controle judiciário caso o veto ocorra <u>após os 15 dias úteis</u></span>** da sanção.
 
 ### **3.1.4 Fase Complementar**
 
@@ -318,14 +318,14 @@ Lembre-se de que o quórum de votação de leis ordinárias será de maioria sim
 - Deve ser submetida de imediato ao CN;
 - As medidas provisórias terão sua votação iniciada na Câmara dos Deputados.
 
-**<u>STF</u>** - Tais critérios não podem ser submetidos à apreciação pelo Poder Judiciário, apenas em caso de não existirem estes pressupostos.
+**<u>STF</u>** - Tais critérios não podem ser submetidos à apreciação pelo [[Poder Judiciário]], apenas em caso de não existirem estes pressupostos.
 
 - **<span style="color:#fb4934">VEDADA</span>** a edição de medidas provisórias sobre:     
 
 >I – Matéria relativa a:
 a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;           
 b) direito penal, processual penal e processual civil;          
-c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;          
+c) organização do [[Poder Judiciário]] e do Ministério Público, a carreira e a garantia de seus membros;          
 d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, § 3º;           
 ⚠️**<span style="color:#fb4934">Atenção</span>: Pode haver edição de medida provisória em matéria de leis orçamentárias apenas em relação aos** **<span style="color:#83a598">créditos adicionais extraordinários.</span>**
 II – Vise a detenção ou sequestro de bens, de poupança popular ou qualquer outro ativo financeiro;        
@@ -363,7 +363,7 @@ Ou seja, **<span style="color:#83a598">o trancamento da pauta ocorreria apenas p
 - A delegação **<span style="color:#fe8019">não obriga</span>** o PR de realizar a edição da lei.
 
 >**Art. 68, § 1º, CF** - **<span style="color:#fb4934">Não serão objeto de delegação</span>** os atos de competência exclusiva do Congresso Nacional, os de competência privativa da Câmara dos Deputados ou do Senado Federal, a matéria reservada à lei complementar, nem a legislação sobre:
-I - organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;
+I - organização do [[Poder Judiciário]] e do Ministério Público, a carreira e a garantia de seus membros;
 II - nacionalidade, cidadania, direitos individuais, políticos e eleitorais;
 III - planos plurianuais, diretrizes orçamentárias e orçamentos.
 
@@ -526,7 +526,7 @@ STF - apenas haverá o retorno da PEC à outra Casa, caso haja **mudanças subst
 
 # **2. Controle Judicial - Reforma Constitucional**  
 
-Caso a reforma constitucional desrespeite o Poder Constituinte Originário, poderá ser imputada Ação de Inconstitucionalidade frente ao Poder Judiciário.
+Caso a reforma constitucional desrespeite o Poder Constituinte Originário, poderá ser imputada Ação de Inconstitucionalidade frente ao [[Poder Judiciário]].
 
 Controle de Constitucionalidade dos atos de Reforma Constitucional:
 
