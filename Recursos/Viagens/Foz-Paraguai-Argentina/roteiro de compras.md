@@ -1,98 +1,135 @@
-# 🇵🇾 BLACK FRIDAY — LISTA DEFINITIVA DE COMPRAS NO PARAGUAI 2026
+# 🇵🇾 BLACK FRIDAY PARAGUAI 2026 — ROTEIRO DEFINITIVO REVISADO
 
-> **Orçamento total:** US$ 1.000  
-> **Objetivo:** comprar poucas coisas, mas que realmente melhorem minha vida.  
-> **Prioridade:** computador → games → uso diário → EDC/grooming → oportunidades.  
-> **Regra:** não gastar os US$ 1.000 só porque estão disponíveis.
-
----
-
-# 0. RESUMO EXECUTIVO
-
-## Minha estratégia
-
-A viagem tem dois caminhos possíveis:
-
-### CAMINHO A — Melhor custo-benefício
-
-**Manter o Lenovo IdeaPad 3 15ALC6 + fazer upgrade + comprar PS5**
-
-É o cenário que eu considero mais interessante.
-
-Resultado:
-
-- computador principal continua sendo o notebook;
-- mais RAM;
-- mais armazenamento;
-- PS5 assume os jogos AAA;
-- mochila melhor;
-- eventualmente perfumes/grooming;
-- não gasto dinheiro trocando periféricos sem necessidade.
-
-### CAMINHO B — OPORTUNIDADE DE NOTEBOOK
-
-Se aparecer um notebook que seja **realmente muito superior ao 15ALC6**, a estratégia muda:
-
-> Notebook novo → prioridade absoluta.
-
-Nesse caso, o PS5 e os periféricos deixam de ser prioridade.
-
-### CAMINHO C — PS5 caro / notebook ruim
-
-Se:
-
-- PS5 estiver caro;
-- notebook novo não compensar;
-- upgrades estiverem bons;
-
-então:
-
-> **Upgrade completo do 15ALC6 + mochila + teclado/mouse/perfume conforme sobra.**
+> **Destino:** Ciudad del Este, Paraguai  
+> **Evento:** Black Friday Ciudad del Este 2026 — 19 a 22/11/2026  
+> **Orçamento de compras:** US$ 1.000  
+> **Estratégia:** comprar poucas coisas, mas maximizar melhoria real de vida  
+> **Princípio:** preço-alvo > propaganda de desconto  
+> **Regra-mãe:** não gastar os US$ 1.000 só porque estão disponíveis.
 
 ---
 
-# 1. ⚠️ REGRA DA COTA DA RECEITA FEDERAL
+## NÍVEL 1 — decisão estrutural
 
-## Se voltar ao Brasil por terra
+**Notebook excepcional OU manter o 15ALC6.**
+
+## NÍVEL 2 — grande melhoria
+
+**PS5 em preço realmente bom.**
+
+## NÍVEL 3 — prolongar a vida do 15ALC6
+
+**RAM + SSD.**
+
+## NÍVEL 4 — vida diária
+
+**Mochila.**
+
+## NÍVEL 5 — oportunidades
+
+**Teclado, mouse, perfumes e grooming.**
+
+Tudo abaixo disso só entra se houver uma oportunidade excepcional.
+
+---
+
+# 2. DADOS-BASE DA VIAGEM
+
+A edição oficial de Black Friday de Ciudad del Este 2026 ocorrerá de **19 a 22 de novembro de 2026**.
+
+### Minha estratégia de dias
+
+| Data                | Objetivo                          |
+| ------------------- | --------------------------------- |
+| **18/11 — quarta**  | chegada, descanso, preparação     |
+| **19/11 — quinta**  | primeiro grande dia de compras    |
+| **20/11 — sexta**   | principal dia de caça às ofertas  |
+| **21/11 — sábado**  | segunda rodada / oportunidades    |
+| **22/11 — domingo** | contingência / retorno            |
+| **23/11 — segunda** | somente se a viagem for estendida |
+
+**Não recomendo concentrar toda a compra em uma única manhã.**
+
+---
+
+# 3. ORÇAMENTO
+
+## Orçamento nominal
+
+**US$ 1.000**
+
+Mas não considero que os US$ 1.000 devam ser comprometidos.
+
+### Minha divisão ideal
+
+| Envelope                              | Valor         |
+| ------------------------------------- | ------------- |
+| Compra principal                      | **US$ 700**   |
+| Reserva para oportunidade             | **US$ 150**   |
+| Reserva para variação de preço/câmbio | **US$ 75**    |
+| Reserva de segurança                  | **US$ 75**    |
+| **TOTAL**                             | **US$ 1.000** |
+
+### Regra
+
+Se gastar US$ 700 e não aparecer oportunidade:
+
+> **não gastar os US$ 300 restantes.**
+
+---
+
+# 4. CÂMBIO — CENÁRIOS PARA NOVEMBRO
+
+O dólar encerrou 31/08/2026 perto de **R$ 5,18**.
+
+Para planejamento, não usarei um único número.
+
+| Cenário        | Dólar           | Uso                 |
+| -------------- | --------------- | ------------------- |
+| 🟢 Favorável   | **R$5,00**      | oportunidade        |
+| 🔵 Base        | **R$5,20**      | orçamento principal |
+| 🟡 Conservador | **R$5,50**      | planejamento seguro |
+| 🔴 Estresse    | **R$5,80–6,00** | contingência        |
+
+### Regra prática
+
+Planejar em:
+
+> **US$1 = R$5,20**
+
+Mas ter capacidade financeira para suportar:
+
+> **US$1 = R$5,50**
+
+---
+
+# 5. COTA E TRIBUTAÇÃO — REGRA OPERACIONAL
+
+## Retorno terrestre
 
 A cota de isenção da bagagem acompanhada é:
 
 > **US$ 500 por viajante**
 
-## Se voltar por avião ou navio
+A cota é individual.
 
-A cota é:
+Bens que não sejam de uso pessoal e que ultrapassem a cota podem entrar no Regime de Tributação Especial, com imposto de **50% sobre o excedente**.
 
-> **US$ 1.000 por viajante**
+## Muito importante
 
-A Receita Federal confirma que a cota é individual e concedida uma vez a cada intervalo de 30 dias.
+Não montar a estratégia supondo que:
 
-### MUITO IMPORTANTE
+> "somos duas pessoas, então qualquer produto de US$ 900 pode ser dividido."
 
-Um notebook novo **não vira automaticamente bem pessoal isento** só porque você pretende usá-lo.
-
-A Receita informa expressamente que computadores pessoais, incluindo notebooks e tablets, não são considerados bens de caráter manifestamente pessoal para essa finalidade.
-
-Portanto:
-
-### Se eu voltar por terra:
-
-|Compra|Valor hipotético|Situação|
-|---|--:|---|
-|PS5 de US$ 620|US$ 620|passa da cota|
-|Notebook de US$ 900|US$ 900|passa da cota|
-|RAM + SSD de US$ 150|US$ 150|dentro da cota|
-|Mochila + perfume etc.|US$ 200|dentro da cota, se total tributável ficar ≤ US$ 500|
-
-O imposto do Regime de Tributação Especial é de **50% sobre o valor que exceder a cota**.
+A titularidade e a natureza do bem importam.
 
 ### Exemplo
 
-PS5:
+Produto tributável:
 
 **US$ 620**
 
-Cota terrestre:
+Cota:
 
 **US$ 500**
 
@@ -102,1954 +139,2322 @@ Excedente:
 
 Imposto:
 
-**50% × US$ 120 = US$ 60**
+**US$ 60**
 
 Custo efetivo:
 
 **US$ 680**
 
-Isso precisa entrar na conta antes da compra.
+### Estratégia
 
-> **Não tentar esconder, fracionar artificialmente ou declarar falsamente compras.**
+Para compras caras:
 
-Se houver bens a declarar, use a e-DBV. A Receita permite inclusive preencher a declaração antes do retorno.
+1. conferir a regra antes;
+    
+2. guardar a nota;
+    
+3. não esconder produtos;
+    
+4. não fracionar artificialmente compras;
+    
+5. declarar quando for devido.
+    
 
 ---
 
-# 2. 💻 NOTEBOOK — PRIMEIRA VERIFICAÇÃO DA VIAGEM
+# 6. A GRANDE DECISÃO: NOTEBOOK NOVO OU 15ALC6?
 
-## Objetivo
+Seu notebook atual:
 
-Descobrir se existe um notebook que seja tão melhor que o IdeaPad 3 15ALC6 que realmente justifique abandonar o upgrade.
+- Lenovo IdeaPad 3 15ALC6
+    
+- Ryzen 7 5700U
+    
+- 4 GB soldados
+    
+- 8 GB no slot
+    
+- 512 GB NVMe
+    
+- GPU integrada Radeon
+    
 
-Não comprar simplesmente porque:
+## REGRA
 
-- é novo;
+Não comprar notebook apenas porque é:
+
+- mais novo;
+    
+- gamer;
+    
 - tem RGB;
+    
 - tem RTX;
-- tem processador mais recente.
+    
+- tem CPU de geração nova.
+    
 
-Precisa ser uma melhoria significativa como computador principal.
-
----
-
-# 2.1 🥇 CANDIDATO GAMER — LENOVO LOQ
-
-### Modelo de referência
-
-**Lenovo LOQ 83S00000US**
-
-- Ryzen 7 7735HS
-- 16 GB DDR5
-- SSD 512 GB
-- RTX 4050 6 GB
-- 15,6"
-- 144 Hz
-- 300 nits
-- 100% sRGB
-
-Preço observado atualmente:
-
-> **sem oferta disponível no momento**
-
-A configuração encontrada tem uma tela muito mais interessante que a tela básica do 15ALC6 e uma RTX 4050 dedicada.
-
-### VEREDITO
-
-**Excelente upgrade técnico.**
-
-Mas não comprar a qualquer preço.
-
-### COMPRAR SE
-
-> **≤ US$ 900**
-
-### EXCELENTE SE
-
-> **≤ US$ 800**
-
-### NÃO COMPRAR SE
-
-> **> US$ 1.000**
-
-porque isso destruiria todo o orçamento.
+Ele precisa ser uma mudança real.
 
 ---
 
-# 2.2 🥈 ACER NITRO V — RYZEN 7 + RTX 4050
+# 7. NOTEBOOK — CANDIDATO GAMER
 
-### Modelo
+## 🥇 Lenovo LOQ / equivalente
 
-**Acer Nitro V 15 ANV15-41-R5AY**
+Configuração-alvo:
 
-- Ryzen 7 7735HS
-- 16 GB DDR5
-- SSD 512 GB
-- RTX 4050 6 GB
-- 15,6"
-- Full HD
-- 165 Hz
+- Ryzen 7 7735HS ou superior
+    
+- 16 GB DDR5 ou mais
+    
+- SSD ≥512 GB
+    
+- RTX 4050 ou superior
+    
+- tela 144/165 Hz
+    
+- IPS
+    
+- boa cobertura sRGB
+    
+- construção adequada
+    
 
-Essa configuração já apareceu no Paraguai por cerca de **US$ 1.085**, embora esteja sem oferta ativa atualmente.
+### Preço-alvo 2026
 
-### COMPRAR SE
+|Preço|Decisão|
+|---|---|
+|**≤ US$750**|🔥 excepcional|
+|**US$751–800**|🟢 comprar|
+|**US$801–850**|🟢 ainda muito bom|
+|**US$851–900**|🟡 somente se excelente configuração|
+|**US$901–950**|🟠 comparar muito|
+|**> US$950**|🔴 não|
 
-> **≤ US$ 900**
+### Regra
 
-### EXCELENTE
+Se aparecer uma máquina claramente superior por:
 
-> **≤ US$ 850**
+> **US$800–850**
 
-### NÃO
-
-> **> US$ 1.000**
-
----
-
-# 2.3 🥉 ACER NITRO V — CORE 5 + RTX 4050
-
-### Modelo
-
-**Acer Nitro V ANV15-52-50FG**
-
-- Core i5
-- 16 GB
-- SSD 512 GB
-- RTX 4050
-- 15,6"
-
-Preço observado:
-
-> **US$ 995**
-
-### VEREDITO
-
-Não é minha primeira escolha.
-
-Só comprar se a Black Friday derrubar bastante o preço.
-
-### COMPRAR SE
-
-> **≤ US$ 850**
+ela passa a ser prioridade máxima.
 
 ---
 
-# 2.4 🍎 MACBOOK AIR M3
+# 8. NOTEBOOK — OUTRAS OPÇÕES
 
-### Modelo preferencial
+Pesquisar no dia:
 
-**MacBook Air M3 — 16 GB / 512 GB / 13,6"**
+- Lenovo LOQ
+    
+- Legion
+    
+- Acer Nitro V
+    
+- ASUS TUF
+    
+- HP Victus
+    
+- ThinkPad T14 AMD
+    
+- MacBook Air M4/M5 ou geração equivalente
+    
 
-Preço observado:
+## Mas comparar por categoria.
 
-> **US$ 1.045**
+### Gamer
 
-### PROBLEMA
+CPU + GPU + tela + TGP + refrigeração + RAM + SSD.
 
-Para o meu uso, o MacBook é excelente como:
+### Ultrabook
+
+CPU + bateria + tela + construção + peso + autonomia + Linux/compatibilidade.
+
+---
+
+# 9. MACBOOK
+
+O MacBook é interessante para:
 
 - estudo;
+    
 - produtividade;
+    
 - bateria;
+    
 - portabilidade;
+    
 - construção;
+    
 - silêncio.
+    
 
-Mas é ruim para substituir o computador + resolver meus jogos AAA.
+Mas não substitui a função de máquina gamer.
 
-### Portanto
+### Regra
 
-**Só comprar se aparecer MUITO barato.**
+Só comprar se aparecer uma oportunidade realmente excepcional.
 
-### COMPRAR SE
+|MacBook Air|Compra|
+|---|---|
+|**≤ US$900**|🔥|
+|**US$901–1.000**|🟢 se configuração boa|
+|**US$1.001–1.100**|🟡|
+|**> US$1.100**|🔴 para este orçamento|
 
-> **≤ US$ 850**
-
-### NÃO COMPRAR
-
-> se estiver próximo de US$ 1.000
-
-Nesse preço, eu prefiro uma máquina Windows/Linux mais versátil ou manter o 15ALC6 + PS5.
+Se a compra for MacBook, o PS5 deixa de ser prioridade.
 
 ---
 
-# 2.5 🚨 REGRA DEFINITIVA DO NOTEBOOK
+# 10. REGRA DEFINITIVA DO NOTEBOOK
 
-## Comprar notebook somente se:
+Comprar somente se:
 
-- [ ] 16 GB RAM ou mais
-- [ ] SSD 512 GB ou mais
-- [ ] tela IPS boa
-- [ ] boa construção
-- [ ] CPU claramente superior ao Ryzen 7 5700U
-- [ ] desempenho gráfico muito superior, se gamer
-- [ ] teclado aceitável
-- [ ] bateria minimamente decente
-- [ ] preço dentro do orçamento
-- [ ] não destruir completamente a possibilidade de comprar o restante
+- CPU claramente superior ao 5700U
+    
+- ≥16 GB RAM
+    
+- SSD ≥512 GB
+    
+- tela realmente boa
+    
+- construção boa
+    
+- bateria aceitável
+    
+- GPU dedicada se for gamer
+    
+- preço dentro do limite
+    
+- garantia conferida
+    
+- não destruir todo o orçamento
+    
 
-### Se não cumprir:
+Se faltar uma dessas condições importantes:
 
 > **NÃO COMPRAR.**
 
 ---
 
-# 3. 💻 UPGRADE DO LENOVO IDEA­PAD 3 15ALC6
+# 11. UPGRADE DO IDEA­PAD 3
 
-Se não houver notebook excepcional, esta é a opção padrão.
+Se não houver notebook excepcional:
 
-Meu 15ALC6 possui:
+> **não trocar de notebook.**
 
-- Ryzen 7 5700U
-- 4 GB soldados
-- 8 GB no slot
-- SSD NVMe 512 GB
+Fazer upgrade.
 
-A documentação oficial da Lenovo confirma que o modelo possui um módulo de memória soldado e um slot DDR4 SO-DIMM, com DDR4-3200. A Lenovo lista oficialmente configurações de até 12 GB nos modelos 4+8 e até 16 GB nos modelos 8+8.
+## RAM
 
-A Kingston, entretanto, lista módulos de 16 GB como opção de upgrade para o modelo, então **20 GB (4 GB soldados + 16 GB SO-DIMM) é uma configuração de upgrade possível, mas acima da capacidade oficialmente validada pela Lenovo para a variante 4 GB soldada**.
+Objetivo:
+
+> **16 GB SO-DIMM DDR4-3200**
+
+Com os 4 GB soldados:
+
+> **aproximadamente 20 GB totais**
+
+Isso é uma configuração de upgrade que pode ficar acima da capacidade oficialmente validada pela Lenovo para algumas variantes, portanto deve ser tratada como upgrade e não como garantia oficial da configuração.
+
+### Preços
+
+|RAM 16 GB|Decisão|
+|---|---|
+|**≤ US$30**|🔥|
+|**US$31–40**|🟢|
+|**US$41–55**|🟡|
+|**US$56–65**|🟠|
+|**> US$65**|🔴|
+
+### Especificação
+
+**DDR4-3200 / SO-DIMM / 16 GB / 1,2 V**
+
+Marcas preferidas:
+
+1. Crucial
+    
+2. Kingston
+    
+3. Samsung
+    
+4. SK hynix
+    
+5. Corsair
+    
+
+Não comprar memória sem especificação clara.
+
+---
+
+# 12. SSD NVMe
 
 ## Minha escolha
 
-### 🥇 RAM 16 GB DDR4-3200 SO-DIMM
+**2 TB** se o preço estiver bom.
 
-Isso resultaria em aproximadamente:
+Isso é uma mudança em relação ao roteiro antigo.
 
-> **20 GB RAM**
+### Por quê?
 
-### Procurar:
+Se 2 TB custar apenas US$20–30 a mais que 1 TB:
 
-- Crucial
-- Kingston
-- Corsair
-- Samsung
-- SK hynix
+> **2 TB é a compra racional.**
 
-### Especificações obrigatórias
+### Preços-alvo
 
-> **DDR4-3200 SO-DIMM — 16 GB — 1.2 V**
+|SSD|Excelente|Comprar|Não comprar|
+|---|---|---|---|
+|1 TB|**≤ US$50**|**≤ US$60**|> US$70|
+|2 TB|**≤ US$75**|**≤ US$90**|> US$105|
 
-### NÃO comprar:
+### Modelos para procurar
 
-- DDR5
-- DIMM de desktop
-- DDR4 2666 se houver 3200 pelo mesmo preço
-- módulo sem especificação clara
-
-### Preço atual de referência
-
-Módulos Crucial 8 GB DDR4-3200 estão atualmente por volta de **US$ 74**, mostrando que o mercado local não está particularmente barato agora.
-
-### IMPORTANTE
-
-Para 16 GB:
-
-> **Não usar US$ 74 como preço-alvo.**
-
-Na Black Friday, eu esperaria encontrar 16 GB por algo aproximadamente entre:
-
-**US$ 50–80**
-
-### COMPRAR
-
-> **≤ US$ 65**
-
-### Excelente
-
-> **≤ US$ 55**
-
----
-
-# 3.1 SSD NVMe
-
-## 🥇 Kingston NV3 1 TB
-
-Modelo:
-
-**Kingston NV3 SNV3S/1000G**
-
-Preço atual observado:
-
-> **US$ 148–150**
-
-### Mas está caro.
-
-Eu não compraria agora por US$ 150.
-
-### PREÇO-ALVO BLACK FRIDAY
-
-> 🟢 **≤ US$ 70:** comprar imediatamente  
-> 🟢 **≤ US$ 80:** excelente  
-> 🟡 **US$ 80–100:** somente se precisar  
-> 🔴 **> US$ 100:** esperar
-
----
-
-# 3.2 Alternativas de SSD
-
-Procurar:
-
-### WD Black SN770 / SN770M
-
-### Crucial P3 Plus / P310
-
-### Samsung 990 EVO / 980
-
-### Lexar NM790
-
-### Kingston NV3
-
-### Ordem de preferência
-
-**Preço semelhante:**
-
-1. WD
-2. Lexar
-3. Crucial
-4. Kingston
-5. Samsung se estiver em promoção
-
-Não pagar muito mais por desempenho que o 5700U não vai aproveitar.
-
----
-
-# 3.3 SSD SATA 2,5"
-
-O 15ALC6 pode suportar uma segunda unidade em modelos com a configuração apropriada de bateria/estrutura, incluindo armazenamento SATA de 2,5" e M.2. A documentação Lenovo lista até 1 TB para o drive de 2,5" e até 1 TB para M.2 2280 em determinadas configurações.
-
-### Entretanto:
-
-**não é prioridade.**
-
-Só comprar se:
-
-- eu realmente precisar de mais de 1 TB;
-- o SSD SATA estiver muito barato;
-- a estrutura/cabo/bracket necessário já estiver disponível.
-
-### PREÇO MÁXIMO
-
-> **US$ 50–60 por 1 TB**
-
-Caso contrário:
-
-> **não comprar.**
-
----
-
-# 3.4 UPGRADE IDEAL DO 15ALC6
-
-### Configuração final
-
-**Ryzen 7 5700U**
-
-**20 GB RAM**
-
-**1 TB NVMe**
-
-**Arch Linux / Windows dual boot**
-
-Resultado:
-
-> Muito mais confortável para estudo, navegador, Obsidian, programação, multitarefa e jogos leves.
-
-E o PS5 fica responsável pelos AAA.
-
----
-
-# 4. 🎮 PS5
-
-## Minha escolha
-
-### 🥇 Sony PlayStation 5 Digital 825 GB
-
-Modelo encontrado:
-
-**CFI-2115B**
-
-Preço atual:
-
-> **US$ 618**
-
-Há ofertas atuais entre aproximadamente US$ 618 e US$ 650 para o console digital de 825 GB.
-
-Também existem bundles próximos de US$ 695.
-
----
-
-# 4.1 PREÇO DE COMPRA
-
-### 🟢 US$ 550–600
-
-**COMPRA EXCELENTE**
-
-### 🟢 US$ 600–630
-
-**COMPRAR**
-
-### 🟡 US$ 630–650
-
-**Comprar se o restante da lista estiver barato**
-
-### 🟠 US$ 650–700
-
-**Somente se vier com jogo realmente desejado**
-
-### 🔴 > US$ 700
-
-**NÃO COMPRAR**
-
----
-
-# 4.2 PS5 + jogo
-
-Bundle atual encontrado:
-
-**PS5 Digital 825 GB + Gran Turismo 7 + Astro Bot**
-
-≈ **US$ 695**
-
-### Comprar esse bundle se:
-
-> o valor dos jogos que eu realmente quero justificar a diferença.
-
-Caso contrário:
-
-> PS5 Digital simples.
-
----
-
-# 4.3 PS5 Disc
-
-### NÃO É PRIORIDADE
-
-Eu não uso mídia física.
-
-Portanto:
-
-> **Digital > Disc**
-
-Só comprar o Disc se a diferença de preço for tão pequena que faça sentido.
-
----
-
-# 4.4 PS5 + orçamento
-
-Se comprar PS5 por:
-
-**US$ 600**
-
-restam:
-
-> **US$ 400**
-
-Se comprar por:
-
-**US$ 650**
-
-restam:
-
-> **US$ 350**
-
-Esses US$ 350 precisam cobrir:
-
-- RAM
-- SSD
-- mochila
-- perfumes
-- grooming
-- eventualmente teclado/mouse.
-
----
-
-# 5. 🎒 MOCHILA
-
-## REQUISITO ABSOLUTO
-
-A mochila precisa comportar:
-
-- notebook 15,6"
-- carregador
-- Kindle
-- acessórios
-- garrafa
-- carteira/EDC
-- **uma muda de roupa**
-
-Portanto:
-
-> **mínimo realista: ~28–30 L**
-
-Eu não compraria uma mochila de 20–24 L.
-
----
-
-# 5.1 🥇 THULE ENROUTE 30L
-
-### Modelo
-
-**Thule EnRoute 30L**
-
-Modelo:
-
-**TEBP4416 / 3204849**
-
-Características:
-
-- 30 L
-- compartimento para notebook até 17"
-- compartimento para tablet
-- compartimento principal grande
-- espaço para roupa
-- bolso para itens pessoais
-- bolso externo para sapato/itens separados
-- painel traseiro acolchoado
-- cinta peitoral
-- compressão lateral
-- zíperes YKK
-- nylon 400D
-
-A própria Thule descreve o modelo como uma mochila que separa equipamentos de trabalho dos itens pessoais e possui compartimento de armazenamento em massa.
-
-### Dimensões
-
-**29 × 23,5 × 47,5 cm**
-
-### Peso
-
-**1,2 kg**
-
-### Volume
-
-**30 L**
-
-### Preço observado no Paraguai
-
-Nissei:
-
-> aproximadamente **Gs. 1.361.000**
-
-### VEREDITO
-
-**Minha mochila favorita da lista.**
-
-### PREÇO-ALVO
-
-> 🟢 ≤ US$ 100  
-> 🟢 ≤ US$ 80 = excelente  
-> 🔴 > US$ 120 = procurar alternativa
-
----
-
-# 5.2 🥈 PATAGONIA REFUGIO 30L
-
-### Modelo
-
-**Patagonia Refugio Daypack 30L**
-
-A Patagonia posiciona a versão de 30 L justamente para situações em que é necessário carregar mais coisas, inclusive uma muda de roupa/calçado.
-
-Características:
-
-- 30 L
-- sleeve para notebook
-- bolsos para garrafa
-- materiais reciclados
-- acabamento DWR
-- boa para uso diário + viagem
-
-Preço oficial observado:
-
-> **US$ 135**
-
-### PREÇO-ALVO NO PARAGUAI
-
-> 🟢 ≤ US$ 90  
-> 🟡 ≤ US$ 110  
-> 🔴 > US$ 120
-
----
-
-# 5.3 🥉 OSPREY NEBULA 32L
-
-### Modelo
-
-**Osprey Nebula 32**
-
-Características:
-
-- 32 L
-- compartimento de notebook
-- organização interna
-- grande compartimento principal
-- excelente para faculdade/trabalho
-- também funciona para viagens curtas
-
-A Osprey descreve o modelo como mochila de 32 L para uso diário e viagens de fim de semana.
-
-Preço oficial observado:
-
-> aproximadamente **€130**
-
-### PREÇO-ALVO
-
-> 🟢 ≤ US$ 100  
-> 🟡 ≤ US$ 120  
-> 🔴 > US$ 130
-
----
-
-# 5.4 ALTERNATIVA MAIS "TRABALHO"
-
-### Targus Voyager EXP
-
-Modelo:
-
-**TBB664GL-90**
-
-Capacidade:
-
-> **27–30 L**
-
-Expansível.
-
-Possui:
-
-- compartimento para notebook de até 17"
-- organização
-- RFID
-- espaço para rastreador
-- cinta para mala
-- construção resistente à água.
-
-Preço observado na Nissei:
-
-> **Gs. 688.000**
-
-### VEREDITO
-
-Boa alternativa se estiver significativamente mais barata.
-
----
-
-# 5.5 ORDEM DA MOCHILA
-
-### 1º — Thule EnRoute 30L
-
-**Minha escolha**
-
-### 2º — Osprey Nebula 32
-
-Se estiver mais barata.
-
-### 3º — Patagonia Refugio 30L
-
-Se aparecer promoção.
-
-### 4º — Targus Voyager EXP
-
-Se preço for excelente.
-
----
-
-# 6. ⌨️ TECLADO SILENCIOSO
-
-## O que eu quero
-
-- 75%
-- wireless
-- 2.4 GHz
-- Bluetooth
-- USB-C
-- hot-swap
-- construção boa
-- switches lineares/silenciosos
-- confortável para estudar
-- sem necessidade de RGB exagerado
-
----
-
-# 6.1 🥇 AULA F75
-
-### Modelo
-
-**AULA F75**
-
-Características:
-
-- 75%
-- wireless
-- Bluetooth
-- 2.4 GHz
-- USB-C
-- hot-swap
-
-Preço observado:
-
-> **US$ 48,10**
-
-### PREÇO
-
-> 🟢 ≤ US$ 50 = comprar  
-> 🟢 ≤ US$ 45 = excelente
-
-### PROBLEMA
-
-O switch específico precisa ser conferido na caixa.
-
-Como quero silêncio:
-
-> **não comprar simplesmente porque é F75.**
-
-Preciso testar ou confirmar o switch.
-
----
-
-# 6.2 🥈 KEYCHRON V1 / V1 MAX
-
-### Keychron V1
-
-75%.
-
-Há listagem no Paraguai por aproximadamente:
-
-> **US$ 66**
-
-mas estava sem estoque na referência consultada.
-
-### V1 Max
-
-Wireless:
-
-- 2.4 GHz
-- Bluetooth
-- USB-C
-- hot-swap
-- 75%
-
-### PREÇO-ALVO
-
-> 🟢 ≤ US$ 80  
-> 🟡 ≤ US$ 100  
-> 🔴 > US$ 110
-
----
-
-# 6.3 🥉 KEYCHRON Q1 HE
-
-É uma opção premium:
-
-- Hall Effect
-- wireless
-- 75%
-- Rapid Trigger
-- atuação ajustável
-- 2.4 GHz
-- Bluetooth
-- USB-C
-
-Mas já apareceu por:
-
-> **US$ 215**
-
-e estava sem estoque.
-
-### Portanto:
-
-Só considerar se aparecer uma promoção absurda.
-
-> **≤ US$ 100 = oportunidade absurda**
-
----
-
-# 6.4 TECLADO — REGRA
-
-Se encontrar:
-
-### AULA F75
-
-**≤ US$ 50**
-
-→ comprar se o switch for adequado.
-
-### Keychron V1 Max
-
-**≤ US$ 80**
-
-→ excelente compra.
-
-### Keychron Q1 HE
-
-**≤ US$ 100**
-
-→ oportunidade excepcional.
-
-### Qualquer outro teclado
-
-Só comprar se cumprir:
-
-- 75%
-- wireless
-- hot-swap
-- switch silencioso/linear adequado
-- construção boa
-- ≤ US$ 80–100
-
----
-
-# 7. 🖱️ MOUSE
-
-O M600 não é ruim.
-
-Portanto:
-
-> **não existe obrigação de trocar.**
-
-Só trocar se houver uma evolução perceptível.
-
----
-
-# 7.1 🥇 RAZER VIPER V3 PRO
-
-### Modelo
-
-**Razer Viper V3 Pro**
-
-Características:
-
-- 54 g
-- wireless
-- sensor Focus Pro 35K
-- switches ópticos Gen-3
-- até 8.000 Hz
-- até 95 h de bateria
-
-Preço observado:
-
-> **US$ 135**
-
-### PREÇO NORMAL
-
-> US$ 135–155
-
-### PREÇO QUE EU QUERO
-
-> 🟢 ≤ US$ 90  
-> 🟢 ≤ US$ 100 = excelente  
-> 🟡 US$ 100–120 = somente se eu quiser muito  
-> 🔴 > US$ 120 = não
-
----
-
-# 7.2 🥈 VIPER V3 PRO SE
-
-Uma versão encontrada por:
-
-> **US$ 89**
-
-Se for realmente a configuração correta e estiver em estoque:
-
-> **US$ 89 é uma excelente oportunidade.**
-
----
-
-# 7.3 OUTROS MOUSES
-
-Procurar também:
-
-- Logitech G Pro X Superlight 2
-- Logitech G703 / G502 X, se preferência ergonômica
-- Pulsar X2
-- Pulsar X2V2
-- Lamzu Atlantis
-- Endgame Gear XM2
+- WD Black SN770
+    
+- Lexar NM790
+    
+- Crucial P3 Plus / P310
+    
+- Kingston NV3
+    
+- Samsung 990 EVO
+    
+- outros modelos equivalentes de marca conhecida
+    
 
 ### Regra
 
-Não comprar pelo nome.
-
-Comprar pelo:
-
-> **formato + peso + sensor + preço.**
+Não pagar caro por desempenho que o 5700U não vai aproveitar.
 
 ---
 
-# 7.4 MOUSE — REGRA DEFINITIVA
+# 13. SSD SATA 2,5"
 
-Se meu M600 continua confortável:
+Continua sendo:
 
-> **não comprar.**
+> **baixa prioridade.**
 
-Se aparecer Viper V3 Pro:
+Comprar somente se:
 
-> **≤ US$ 90 → comprar**
+- houver necessidade real;
+    
+- bracket/cabo forem compatíveis;
+    
+- preço for muito bom.
+    
 
-Se estiver:
+### Limite
 
-> **US$ 130–150 → não.**
-
----
-
-# 8. 🎧 ÁUDIO
-
-## Regra:
-
-> **SÓ COMPRAR SE FOR UM SALTO DE CATEGORIA.**
-
-Eu já tenho:
-
-- Kuba Mali 2
-- GK Kunten
-
-Portanto, um headphone de US$ 60 que seja "um pouco melhor":
-
-> **não vale.**
-
----
-
-# 8.1 OPÇÕES
-
-Procurar:
-
-### IEM
-
-- Truthear Hexa
-- Truthear Zero: RED
-- Simgot EM6L
-- Moondrop Aria 2
-- Kiwi Ears Cadenza
-- Letshuoer S12 / S12 Pro
-
-### Headphones
-
-- Philips SHP9600
-- Audio-Technica ATH-M40x
-- Beyerdynamic DT 770 Pro
-- AKG K361
-- Sennheiser HD 560S
-
----
-
-# 8.2 PREÇO
-
-### IEM
-
-> US$ 50–100
-
-### Headphone
-
-> US$ 80–150
-
-### COMPRAR SOMENTE SE
-
-Eu testar/comparar e concluir:
-
-> **"isso é claramente melhor que meu Mali 2/GK Kunten."**
+**≤ US$50–60 por 1 TB**
 
 Caso contrário:
 
-> **US$ 0.**
+> comprar NVMe.
 
 ---
 
-# 9. 🌊 PERFUMES
+# 14. PS5 — NOVA REGRA
 
-## LIMITE
+O PS5 é uma das compras que mais pode mudar sua experiência.
+
+Mas o limite do roteiro antigo estava alto demais.
+
+## Minha meta para Black Friday 2026
+
+### PS5 Digital
+
+|Preço|Decisão|
+|---|---|
+|**≤ US$400**|🔥🔥|
+|**US$401–430**|🔥|
+|**US$431–450**|🟢|
+|**US$451–470**|🟡|
+|**US$471–500**|🟠|
+|**> US$500**|🔴|
+
+### PS5 Disc
+
+|Preço|Decisão|
+|---|---|
+|**≤ US$430**|🔥|
+|**US$431–450**|🟢|
+|**US$451–480**|🟡|
+|**> US$480**|🔴|
+
+## Por que baixar o limite?
+
+O console já está mais maduro no ciclo de vida e a Black Friday deve gerar pressão de preço.
+
+Além disso, em 2025 houve promoções fortes em bundles de PS5.
+
+---
+
+# 15. DIGITAL OU DISC?
+
+Sua preferência histórica é:
+
+> **Digital.**
+
+Portanto:
+
+### Digital > Disc
+
+Só escolher Disc se:
+
+> diferença ≤ US$30–40
+
+e o modelo estiver claramente mais vantajoso.
+
+---
+
+# 16. NÃO COMPRAR JOGOS NO PARAGUAI POR IMPULSO
+
+Primeiro:
+
+> console.
+
+Depois:
+
+> jogos que você realmente quer.
+
+Não usar US$50–100 do orçamento em uma pilha de jogos apenas porque estão baratos.
+
+---
+
+# 17. MOCHILA
+
+Essa é uma compra de uso diário.
+
+## Requisito
+
+Precisa comportar:
+
+- notebook 15,6"
+    
+- carregador
+    
+- Kindle
+    
+- acessórios
+    
+- garrafa
+    
+- EDC
+    
+- uma muda de roupa
+    
+
+### Capacidade
+
+> **28–32 L**
+
+## Ranking
+
+### 🥇 Thule EnRoute 30L
+
+Preço-alvo:
+
+- 🔥 ≤ US$80
+    
+- 🟢 ≤ US$100
+    
+- 🔴 > US$120
+    
+
+### 🥈 Osprey Nebula 32
+
+- 🔥 ≤ US$90
+    
+- 🟢 ≤ US$105
+    
+- 🔴 > US$125
+    
+
+### 🥉 Patagonia Refugio 30L
+
+- 🔥 ≤ US$90
+    
+- 🟢 ≤ US$110
+    
+- 🔴 > US$125
+    
+
+### Targus Voyager EXP
+
+Comprar se:
+
+> **≤ US$70–80**
+
+e a construção for adequada.
+
+---
+
+# 18. TECLADO
+
+Você já possui teclado.
+
+Portanto:
+
+> **teclado é upgrade, não necessidade.**
+
+## Requisitos
+
+- 75%
+    
+- wireless
+    
+- 2,4 GHz
+    
+- Bluetooth
+    
+- USB-C
+    
+- hot-swap
+    
+- switch linear/silencioso
+    
+- boa construção
+    
+
+### AULA F75
+
+> comprar ≤ US$50
+
+### Keychron V1 Max
+
+> comprar ≤ US$80
+
+### Keychron Q1 HE
+
+> oportunidade ≤ US$100
+
+Se nenhum cumprir:
+
+> **US$0 em teclado.**
+
+---
+
+# 19. MOUSE
+
+Seu M600 continua sendo utilizável.
+
+Portanto:
+
+> só trocar se houver salto perceptível.
+
+## Razer Viper V3 Pro
+
+- 🔥 ≤ US$90
+    
+- 🟢 ≤ US$100
+    
+- 🔴 > US$120
+    
+
+## Viper V3 Pro SE
+
+Se estiver:
+
+> **≤ US$90**
+
+é uma excelente oportunidade, desde que a configuração seja conferida.
+
+Outras opções:
+
+- Logitech G Pro X Superlight 2
+    
+- Pulsar X2/X2V2
+    
+- Lamzu Atlantis
+    
+- Endgame Gear XM2
+    
+
+---
+
+# 20. ÁUDIO
+
+Você já possui:
+
+- Kuba Mali 2
+    
+- GK Kunten
+    
+
+Portanto:
+
+> **áudio é oportunidade, não prioridade.**
+
+Só comprar se houver salto claro.
+
+## IEMs
+
+- Truthear Hexa
+    
+- Truthear Zero: RED
+    
+- Simgot EM6L
+    
+- Moondrop Aria 2
+    
+- Kiwi Ears Cadenza
+    
+- Letshuoer S12
+    
+
+### Limite
+
+> US$50–100
+
+## Headphones
+
+- AKG K361
+    
+- Audio-Technica M40x
+    
+- Philips SHP9600
+    
+- Beyerdynamic DT 770 Pro
+    
+- Sennheiser HD 560S
+    
+
+### Limite
+
+> US$80–150
+
+Se não for claramente superior:
+
+> **não comprar.**
+
+---
+
+# 21. PERFUMES
 
 Máximo:
 
 > **3 perfumes**
 
-Mas não existe obrigação de comprar 3.
+Não comprar 3 só para completar coleção.
 
-A ideia é montar uma pequena coleção funcional.
+## Versace Pour Homme
 
----
+Função:
 
-# 9.1 PERFUME 1 — "BANHO / LIMPO"
+> banho / limpo / diário
 
-## 🥇 VERSACE POUR HOMME
+Preço:
 
-### Perfil
+> comprar ≤ US$45
 
-- limpo
-- cítrico
-- fresco
-- elegante
-- fácil de usar
-- sensação de banho
+## Dior Homme Sport
 
-Preço atual:
+Função:
 
-> **a partir de US$ 34,50**
+> social / arrumado
 
-### Minha escolha
+Preço:
 
-**Excelente para uso diário.**
+> comprar ≤ US$90
 
-### COMPRAR SE
+## Club de Nuit Intense
 
-> ≤ US$ 45
+Função:
 
----
+> noite / marcante
 
-# 9.2 PERFUME 2 — SOCIAL / ARRUMADO
+Preço:
 
-## 🥇 DIOR HOMME SPORT
+> comprar ≤ US$30
 
-125 ml.
+## Afnan 9PM
 
-Preço atual:
+Alternativa:
 
-> aproximadamente **US$ 88–91**
+> noite doce
 
-Perfil:
+Preço:
 
-- fresco
-- elegante
-- moderno
-- mais sofisticado que um perfume extremamente casual.
-
-### COMPRAR SE
-
-> ≤ US$ 90
-
-### Excelente
-
-> ≤ US$ 80
-
----
-
-# 9.3 PERFUME 3 — NOITE
-
-## 🥇 ARMAF CLUB DE NUIT INTENSE MAN
-
-105 ml.
-
-Preço atual:
-
-> aproximadamente **US$ 24–30**
-
-Perfil:
-
-- marcante
-- amadeirado
-- cítrico
-- mais intenso
-- excelente custo-benefício.
-
-### COMPRAR SE
-
-> ≤ US$ 30
-
----
-
-# 9.4 ALTERNATIVA DE NOITE
-
-## AFNAN 9PM
-
-100 ml.
-
-Preço atual:
-
-> **US$ 19–28**
-
-Perfil:
-
-- doce
-- baunilha
-- âmbar
-- noturno
-- mais jovem.
-
-### Comprar se:
-
-Eu quiser uma noite mais doce.
-
----
-
-# 9.5 PERFUME PREMIUM
+> comprar ≤ US$30
 
 ## YSL Y EDP
 
-100 ml.
+Premium.
 
-Preço atual:
+Só:
 
-> aproximadamente **US$ 101–112**
-
-### Não é obrigatório.
-
-Só comprar se estiver em promoção forte.
-
-### PREÇO-ALVO
-
-> ≤ US$ 80
+> ≤ US$80
 
 ---
 
-# 9.6 MINHA COLEÇÃO IDEAL
+# 22. GROOMING
 
-### Opção econômica
+## Philips MG3750/60
 
-**Versace Pour Homme + Club de Nuit Intense**
+Comprar:
 
-≈ **US$ 60–75**
+> ≤ US$35
 
-### Opção equilibrada
+## OneBlade
 
-**Versace Pour Homme + Dior Homme Sport + Club de Nuit**
+Comprar:
 
-≈ **US$ 150–170**
+> ≤ US$35
 
-### Opção alternativa
+## MG7935
 
-**Versace Pour Homme + Dior Homme Sport + Afnan 9PM**
+Comprar:
 
-≈ **US$ 140–160**
+> ≤ US$55
 
-### Não comprar três só para completar a coleção.
+### Regra
 
----
+Se o MG3750 resolver tudo:
 
-# 10. 🧴 GROOMING
-
-## 🥇 PHILIPS ONEBLADE
-
-### QP2724/10
-
-Preço atual:
-
-> **US$ 34**
-
-Características:
-
-- aparar
-- barbear
-- seco/molhado
-- IPX7
-- 45 min
-- pentes 1, 3 e 5 mm
-
-### COMPRAR SE
-
-> ≤ US$ 35
+> não pagar o dobro por um modelo premium.
 
 ---
 
-# 10.1 🥈 PHILIPS MULTIGROOM 3000
+# 23. ACESSÓRIOS
 
-### MG3750/60
+## Comprar somente se houver necessidade
 
-Preço atual:
+### GaN 65–100 W
 
-> **US$ 34**
-
-Inclui:
-
-- vários pentes
-- barba
-- cabelo
-- nariz
-- orelha
-- precisão
-- bolsa
-- bateria de até 60 min
-
-### Se eu quiser UMA máquina para praticamente tudo:
-
-> **MG3750/60**
-
-### Se quero principalmente barba/rosto:
-
-> **OneBlade QP2724/10**
-
----
-
-# 10.2 MULTIGROOM PREMIUM
-
-### Philips MG7935/15
-
-15 em 1.
-
-Preço observado:
-
-> **US$ 62**
-
-### COMPRAR SE
-
-> ≤ US$ 55
-
-Caso contrário:
-
-> MG3750.
-
----
-
-# 11. 🔌 ORGANIZAÇÃO / ACESSÓRIOS
-
-Só comprar se houver necessidade real.
-
-## Lista
-
-### 🟢 Carregador GaN
-
-Procurar:
+Marcas:
 
 - UGREEN
+    
 - Anker
+    
 - Baseus
+    
 
-Preferência:
+Preço:
 
-> 65–100 W
+> US$30–50
 
-### Preço-alvo
+### Hub USB-C
 
-> US$ 30–50
+> US$20–40
 
----
+### Case SSD
 
-### 🟢 Hub USB-C
+> US$10–20
 
-Procurar:
+### Organizador
 
-- UGREEN
-- Anker
-- Baseus
+> US$10–20
 
-Só comprar se realmente precisar.
+### NÃO COMPRAR
 
-> US$ 20–40
-
----
-
-### 🟢 Organizador de cabos
-
-> US$ 10–20
-
----
-
-### 🟢 Case para SSD
-
-> US$ 10–20
-
-Somente se eu comprar SSD e quiser transformar o SSD antigo em armazenamento externo.
-
----
-
-### 🔴 NÃO COMPRAR
-
-- cabo USB-C aleatório
-- pendrive só porque está barato
+- cabos aleatórios
+    
+- gadgets
+    
 - RGB
-- gadgets inúteis
-- suporte que não preciso
-- adaptador que já tenho
-- acessórios duplicados
+    
+- pendrive sem necessidade
+    
+- segundo power bank
+    
+- adaptadores duplicados
+    
+- acessórios "talvez úteis"
+    
 
 ---
 
-# 12. 🧳 LISTA PRINCIPAL — O QUE EU REALMENTE QUERO COMPRAR
+# 24. TABELA-MESTRA DE PREÇOS
 
-## PRIORIDADE S
-
-### 1. PS5 Digital
-
-**Preço-alvo:**
-
-> ≤ US$ 630
-
----
-
-### 2. RAM 16 GB DDR4-3200 SO-DIMM
-
-**Preço-alvo:**
-
-> ≤ US$ 65
-
----
-
-### 3. SSD NVMe 1 TB
-
-**Preço-alvo:**
-
-> ≤ US$ 80
-
----
-
-### 4. Mochila 30–32 L
-
-Preferência:
-
-1. Thule EnRoute 30L
-2. Osprey Nebula 32
-3. Patagonia Refugio 30L
-4. Targus Voyager EXP
-
-**Preço-alvo:**
-
-> ≤ US$ 100
+|Produto|🔥 Excelente|🟢 Comprar|🔴 Não comprar|
+|---|---|---|---|
+|Notebook gamer RTX 4050|≤750|≤850|>950|
+|Notebook premium/ultrabook|≤900|≤1.000|>1.100|
+|RAM 16 GB DDR4|≤30|≤40|>65|
+|NVMe 1 TB|≤50|≤60|>70|
+|NVMe 2 TB|≤75|≤90|>105|
+|PS5 Digital|≤400|≤450|>500|
+|PS5 Disc|≤430|≤450|>480|
+|Thule 30L|≤80|≤100|>120|
+|Osprey 32L|≤90|≤105|>125|
+|Patagonia 30L|≤90|≤110|>125|
+|AULA F75|≤45|≤50|>70|
+|Keychron V1 Max|≤70|≤80|>100|
+|Viper V3 Pro|≤90|≤100|>120|
+|Versace Pour Homme|≤35|≤45|>55|
+|Dior Homme Sport|≤80|≤90|>100|
+|Club de Nuit|≤25|≤30|>35|
+|Afnan 9PM|≤22|≤30|>35|
+|YSL Y EDP|≤70|≤80|>100|
+|Philips MG3750|≤30|≤35|>45|
+|IEM|≤70|≤100|>120|
+|Headphone|≤120|≤150|>180|
+|GaN 65–100W|≤35|≤50|>60|
 
 ---
 
-# PRIORIDADE A
+# 25. ROTEIRO FÍSICO DE COMPRAS
 
-### 5. Teclado
+## REGRA PRINCIPAL
 
-Preferência:
+Não andar aleatoriamente.
 
-1. AULA F75
-2. Keychron V1 Max
-3. Keychron Q1 HE
+Usar três tipos de loja:
 
-**Preço-alvo:**
+### A — loja grande/confiável
 
-> US$ 50–100
+Para:
 
----
+- notebook
+    
+- PS5
+    
+- mochila
+    
+- Apple
+    
+- produtos de maior valor
+    
 
-### 6. Mouse
+### B — loja especializada em eletrônicos
 
-Preferência:
+Para:
 
-1. Viper V3 Pro SE
-2. Viper V3 Pro
-3. Pulsar/Lamzu/Endgame Gear
+- RAM
+    
+- SSD
+    
+- periféricos
+    
+- componentes
+    
 
-**Preço-alvo:**
+### C — perfumaria/cosméticos
 
-> ≤ US$ 90
+Para:
 
----
-
-### 7. Perfume
-
-Preferência:
-
-**Versace Pour Homme**
-
-> ≤ US$ 45
-
----
-
-### 8. Perfume noturno
-
-**Club de Nuit Intense**
-
-> ≤ US$ 30
-
----
-
-### 9. Grooming
-
-**Philips MG3750**
-
-> ≤ US$ 35
+- perfumes
+    
+- grooming
+    
 
 ---
 
-# PRIORIDADE B
+# 26. PRIMEIRA RODADA — PESQUISA
 
-- Dior Homme Sport
-- Afnan 9PM
-- YSL Y EDP
-- IEM
-- headphone
-- carregador GaN
-- hub USB-C
+Na chegada:
+
+> **não comprar tudo imediatamente.**
+
+Primeiro:
+
+1. conferir preço do PS5;
+    
+2. conferir notebook;
+    
+3. conferir RAM;
+    
+4. conferir SSD;
+    
+5. conferir mochila;
+    
+6. fotografar modelo/preço;
+    
+7. comparar.
+    
+
+### Objetivo
+
+Construir:
+
+> **preço real de mercado daquele dia.**
+
+---
+
+# 27. LOJAS-ÂNCORA
+
+## Nissei
+
+Usar para:
+
+- notebook
+    
+- Sony
+    
+- Thule
+    
+- marcas de tecnologia
+    
+- perfumes
+    
+- periféricos
+    
+
+A loja fica na Av. Adrián Jara com Regimiento Piribebuy.
+
+A Nissei informa horário especial de CDE durante Black Friday e trabalha com lista de ofertas/estoque limitado.
+
+## Shopping China
+
+Usar para:
+
+- tecnologia
+    
+- notebooks
+    
+- Apple
+    
+- perfumes
+    
 - acessórios
+    
+- oportunidades de Black Friday
+    
+
+A própria Shopping China informa que em 2026 as promoções de Black Friday em suas lojas físicas incluem tecnologia e perfumes, com promoções relâmpago e estoque limitado.
+
+## Mega Eletrônicos
+
+Usar principalmente para:
+
+- componentes
+    
+- SSD
+    
+- RAM
+    
+- eletrônicos
+    
+
+A loja fica na Av. Itá Yvaté esquina Monseñor Rodríguez.
+
+## Cellshop
+
+Usar para:
+
+- tecnologia
+    
+- perfumes
+    
+- acessórios
+    
+- oportunidades específicas
+    
+
+A Cellshop possui setor de testes para produtos e recomenda testar produtos antes de sair.
 
 ---
 
-# 13. 💰 CENÁRIO IDEAL — US$ 1.000
+# 28. ORDEM DAS LOJAS
 
-## Cenário 1 — PS5 + upgrade
+## PRIMEIRA RODADA
 
-|Produto|Preço-alvo|
-|---|--:|
-|PS5 Digital|US$ 600|
-|RAM 16 GB|US$ 60|
-|SSD 1 TB|US$ 70|
-|Mochila|US$ 80|
-|Versace Pour Homme|US$ 40|
-|Club de Nuit|US$ 25|
-|Grooming|US$ 35|
-|**TOTAL**|**US$ 910**|
+### 1. Nissei
 
-### Reserva:
+Ver:
 
-> **US$ 90**
+- PS5
+    
+- notebook
+    
+- mochila
+    
+- periféricos
+    
 
-Essa é minha combinação favorita.
+### 2. Shopping China
 
----
+Ver:
 
-# 14. 💰 CENÁRIO 2 — PS5 MAIS CARO
+- PS5
+    
+- notebook
+    
+- mochila
+    
+- perfumes
+    
 
-|Produto|Preço|
-|---|--:|
-|PS5|US$ 650|
-|RAM|US$ 60|
-|SSD|US$ 70|
-|Mochila|US$ 80|
-|Perfume|US$ 40|
-|Grooming|US$ 35|
-|**TOTAL**|**US$ 935**|
+### 3. Mega Eletrônicos
 
-### Resultado
+Ver:
 
-Não comprar:
+- RAM
+    
+- SSD
+    
+- periféricos
+    
 
-- mouse
-- teclado
-- áudio
+### 4. Cellshop
 
-A menos que apareça uma promoção absurda.
+Ver:
 
----
+- tecnologia
+    
+- perfumes
+    
+- oportunidades
+    
 
-# 15. 💰 CENÁRIO 3 — SEM PS5
+Depois:
 
-Se o PS5 estiver caro demais:
-
-|Produto|Preço|
-|---|--:|
-|RAM 16 GB|US$ 60|
-|SSD 1 TB|US$ 70|
-|Mochila|US$ 80|
-|AULA F75|US$ 50|
-|Mouse|US$ 90|
-|Versace|US$ 40|
-|Club de Nuit|US$ 25|
-|Dior Homme Sport|US$ 80|
-|Grooming|US$ 35|
-|**TOTAL**|**US$ 530**|
-
-### Sobra
-
-> **US$ 470**
-
-E eu NÃO gastaria automaticamente essa sobra.
+> voltar para a melhor oferta.
 
 ---
 
-# 16. 🚨 CONTINGÊNCIA — NOTEBOOK APARECE
+# 29. REGRA DE COMPARAÇÃO
 
-## Situação
+Nunca comprar um produto caro na primeira loja sem comparar.
 
-Encontro um:
+Para cada item:
 
-### Lenovo LOQ Ryzen 7 + RTX 4050
+|Item|Loja|Modelo|Preço|Garantia|Estoque|
+|---|---|---|---|---|---|
+|PS5||||||
+|Notebook||||||
+|RAM||||||
+|SSD||||||
+|Mochila||||||
 
-por:
+### Regra
 
-> **US$ 800**
+Diferença de:
+
+> **US$5–10**
+
+não vale perder horas.
+
+Diferença de:
+
+> **US$30–50**
+
+vale voltar.
+
+---
+
+# 30. ESTRATÉGIA DE ESTOQUE
+
+A Black Friday terá:
+
+> **promoções relâmpago + estoque limitado.**
+
+Portanto:
+
+## Se encontrar um item S por preço excepcional:
+
+> **comprar.**
+
+Não assumir:
+
+> "depois eu volto e ainda vai ter."
+
+Isso vale principalmente para:
+
+- PS5
+    
+- notebook
+    
+- SSD em promoção extrema
+    
+- RAM
+    
+- mochilas de marca
+    
+
+---
+
+# 31. CONTINGÊNCIA A — NOTEBOOK EXCEPCIONAL
+
+### Situação
+
+LOQ / Nitro / TUF equivalente:
+
+> **US$800**
 
 ### Decisão
 
-**COMPRAR.**
+# COMPRAR.
 
-E cancelo:
+Cancelar:
 
 - PS5
+    
 - teclado
+    
 - mouse
+    
 - áudio
-- compras supérfluas.
+    
+- perfumes premium
+    
 
-Talvez compre apenas:
+Manter somente:
 
-- mochila
-- perfume barato
+- mochila, se necessária;
+    
+- RAM/SSD apenas se fizer sentido no notebook novo;
+    
+- grooming barato.
+    
 
-se ainda houver espaço no orçamento.
+### Motivo
+
+Um notebook realmente superior muda:
+
+- estudo;
+    
+- programação;
+    
+- jogos;
+    
+- produtividade;
+    
+- longevidade.
+    
 
 ---
 
-# 17. 🚨 CONTINGÊNCIA — PS5 MUITO BARATO
+# 32. CONTINGÊNCIA B — NOTEBOOK BOM, MAS CARO
 
-### PS5 Digital
+Exemplo:
 
-**US$ 550**
+> RTX 4050 por US$950.
 
-→ **COMPRAR IMEDIATAMENTE**
+### Decisão
+
+> **não comprar automaticamente.**
+
+Comparar com:
+
+- PS5 + upgrade;
+    
+- notebook no Brasil;
+    
+- outra loja;
+    
+- outro modelo.
+    
+
+---
+
+# 33. CONTINGÊNCIA C — PS5 DIGITAL ≤ US$400
+
+# COMPRAR.
 
 Depois:
 
 1. RAM
+    
 2. SSD
+    
 3. mochila
-4. perfume
+    
+4. restante conforme orçamento
+    
 
 ---
 
-# 18. 🚨 CONTINGÊNCIA — SSD CARO
+# 34. CONTINGÊNCIA D — PS5 US$401–450
 
-Se todos os SSDs 1 TB estiverem:
-
-> > US$ 100
-
-### NÃO COMPRAR.
-
-Posso comprar posteriormente no Brasil.
+> comprar se o restante da lista estiver dentro do orçamento.
 
 ---
 
-# 19. 🚨 CONTINGÊNCIA — RAM CARA
+# 35. CONTINGÊNCIA E — PS5 US$451–500
 
-Se 16 GB estiver:
+Só comprar se:
 
-> > US$ 80
+- houver bundle;
+    
+- houver jogo relevante;
+    
+- o restante da lista estiver muito barato.
+    
 
-### Não comprar.
+Caso contrário:
 
-Continuar com 12 GB até encontrar promoção.
-
----
-
-# 20. 🚨 CONTINGÊNCIA — MOCHILA CARA
-
-Se:
-
-- Thule > US$ 120
-- Osprey > US$ 130
-- Patagonia > US$ 120
-
-### Não comprar.
-
-Procurar:
-
-> Targus 27–30 L
-
-ou outra mochila equivalente.
+> esperar.
 
 ---
 
-# 21. 🚨 CONTINGÊNCIA — TECLADO
+# 36. CONTINGÊNCIA F — PS5 > US$500
 
-Se nenhum teclado silencioso estiver bom:
+> **NÃO COMPRAR.**
 
-> **Não comprar teclado.**
-
-Meu XVX continua funcionando.
-
-Não existe prejuízo em voltar sem teclado novo.
+Guardar dinheiro.
 
 ---
 
-# 22. 🚨 CONTINGÊNCIA — MOUSE
+# 37. CONTINGÊNCIA G — RAM CARA
 
-Se nenhum mouse for significativamente melhor:
+### Se 16 GB:
 
-> **não comprar.**
+> > US$65
 
-O M600 continua sendo utilizado.
+Não comprar.
 
----
+Continuar com 12 GB.
 
-# 23. 🚨 CONTINGÊNCIA — ÁUDIO
-
-Se não aparecer algo realmente superior:
-
-> **US$ 0 em áudio.**
-
-Kuba Mali 2 + GK Kunten continuam.
+Comprar no Brasil posteriormente.
 
 ---
 
-# 24. 🚨 CONTINGÊNCIA — PERFUMES
+# 38. CONTINGÊNCIA H — SSD CARO
 
-Se os perfumes estiverem caros:
+### Se 1 TB:
 
-Comprar somente:
-
-### Versace Pour Homme
+> > US$70
 
 ou
 
-### Club de Nuit Intense
+### 2 TB:
 
-Não comprar três.
+> > US$105
 
----
-
-# 25. 🧠 REGRA DOS US$ 1.000
-
-Nunca pensar:
-
-> "Tenho US$ 1.000, então preciso gastar US$ 1.000."
-
-Pensar:
-
-> "Tenho US$ 1.000 para comprar o máximo de melhoria real."
+Não comprar.
 
 ---
 
-# 26. 🏆 ORDEM ABSOLUTA DE PRIORIDADE
+# 39. CONTINGÊNCIA I — MOCHILA CARA
 
-## NÍVEL S — mudança grande
+Se todas estiverem acima de:
 
-### 1. Notebook realmente superior
+> US$120
+
+não comprar.
+
+Continuar com a mochila atual até encontrar oportunidade.
+
+---
+
+# 40. CONTINGÊNCIA J — TECLADO
+
+Nenhum teclado atende:
+
+> **US$0.**
+
+---
+
+# 41. CONTINGÊNCIA K — MOUSE
+
+M600 continua bom:
+
+> **US$0.**
+
+---
+
+# 42. CONTINGÊNCIA L — ÁUDIO
+
+Nenhum salto de qualidade:
+
+> **US$0.**
+
+---
+
+# 43. CONTINGÊNCIA M — PERFUMES CAROS
+
+Comprar somente:
+
+1. Versace Pour Homme;
+    
+2. Club de Nuit.
+    
+
+Não comprar terceiro.
+
+---
+
+# 44. CONTINGÊNCIA N — DÓLAR ALTO
+
+Se o custo efetivo do dólar estiver próximo de:
+
+> **R$5,50–6,00**
+
+não mudar os preços-alvo em dólar.
+
+Apenas:
+
+> cortar compras opcionais.
+
+Nunca fazer:
+
+> "o dólar subiu, então vou comprar mesmo assim porque já viajei."
+
+---
+
+# 45. CONTINGÊNCIA O — SOBRA DE DINHEIRO
+
+Se sobrar US$200–300:
+
+### NÃO gastar automaticamente.
+
+Perguntar:
+
+> "Existe algo da lista que realmente melhoraria minha vida?"
+
+Se não:
+
+> **voltar com o dinheiro.**
+
+---
+
+# 46. CENÁRIO IDEAL — US$1.000
+
+## Cenário A — PS5 + upgrade
+
+|Item|Meta|
+|---|---|
+|PS5 Digital|US$430|
+|RAM 16 GB|US$30|
+|NVMe 2 TB|US$85|
+|Thule/Osprey|US$90|
+|Versace|US$35|
+|Club de Nuit|US$25|
+|Grooming|US$30|
+|**TOTAL**|**US$725**|
+
+### Reserva
+
+> **US$275**
+
+Este passa a ser meu cenário favorito.
+
+---
+
+# 47. CENÁRIO B — PS5 + upgrade + teclado
+
+|Item|Meta|
+|---|---|
+|PS5|US$430|
+|RAM|US$30|
+|SSD 2 TB|US$85|
+|Mochila|US$90|
+|AULA/Keychron|US$50|
+|Versace|US$35|
+|Club de Nuit|US$25|
+|Grooming|US$30|
+|**TOTAL**|**US$775**|
+
+Reserva:
+
+> **US$225**
+
+Ainda excelente.
+
+---
+
+# 48. CENÁRIO C — SEM PS5
+
+|Item|Meta|
+|---|---|
+|RAM|US$30|
+|SSD 2 TB|US$85|
+|Mochila|US$90|
+|Teclado|US$50|
+|Mouse|US$90|
+|Versace|US$35|
+|Club de Nuit|US$25|
+|Grooming|US$30|
+|**TOTAL**|**US$435**|
+
+### Regra
+
+Não gastar os US$565 restantes.
+
+---
+
+# 49. CENÁRIO D — NOTEBOOK
+
+### Notebook
+
+US$800
+
+### Mochila
+
+US$90
+
+### Perfume
+
+US$35
+
+### Grooming
+
+US$30
+
+### TOTAL
+
+> **US$955**
+
+Nesse cenário:
+
+> **cancelar PS5.**
+
+E não comprar periféricos por impulso.
+
+---
+
+# 50. CENÁRIO E — TUDO DEU ERRADO
+
+Exemplo:
+
+- PS5 US$550
+    
+- RAM US$80
+    
+- SSD US$120
+    
+- mochila US$130
+    
+
+Total:
+
+> **US$880**
+
+### Decisão
+
+Não comprar.
+
+O mercado está ruim.
+
+Comprar apenas aquilo que estiver realmente abaixo do preço-alvo.
+
+---
+
+# 51. CENÁRIO F — BLACK FRIDAY EXCEPCIONAL
+
+Exemplo:
+
+- PS5 US$400
+    
+- RAM US$25
+    
+- SSD 2 TB US$75
+    
+- mochila US$80
+    
+- teclado US$45
+    
+- Viper US$90
+    
+
+Total:
+
+> **US$715**
+
+### Resultado
+
+Ainda sobra:
+
+> **US$285**
+
+Não tentar encontrar algo para gastar.
+
+---
+
+# 52. ESTIMATIVA DE GASTO MAIS PROVÁVEL
+
+Minha expectativa para você:
+
+## Cenário conservador
+
+> **US$400–550**
+
+Sem PS5 ou com poucas compras.
+
+## Cenário normal
+
+> **US$650–800**
+
+PS5 + upgrade + itens realmente úteis.
+
+## Cenário agressivo
+
+> **US$800–950**
+
+PS5 + upgrade + mochila + alguns extras.
+
+## Cenário excepcional
+
+> **US$950–1.000**
+
+Somente se aparecer uma oportunidade grande de notebook.
+
+---
+
+# 53. MINHA PREVISÃO DE COMPRA
+
+Se eu tivesse que apostar hoje:
+
+### 70% de probabilidade
+
+Você volta com:
+
+- PS5
+    
+- RAM
+    
+- SSD
+    
+- mochila
+    
+- 1–2 perfumes
+    
+- grooming
+    
+
+### 20%
+
+Você encontra:
+
+- notebook excepcional
+    
+
+e abandona o PS5.
+
+### 10%
+
+Preços ruins:
+
+> compra apenas RAM/SSD/algum item barato.
+
+---
+
+# 54. O QUE EU NÃO COMPRARIA
+
+Mesmo barato:
+
+- monitor 1080p
+    
+- smartwatch
+    
+- celular por impulso
+    
+- tablet
+    
+- segundo power bank
+    
+- cabos aleatórios
+    
+- gadgets
+    
+- RGB
+    
+- mouse barato
+    
+- teclado gamer aleatório
+    
+- headphone apenas um pouco melhor
+    
+- HD mecânico sem necessidade
+    
+- RAM sem marca/especificação
+    
+- SSD sem marca
+    
+- mochila <28 L
+    
+- três perfumes semelhantes
+    
+
+---
+
+# 55. CHECKLIST DO NOTEBOOK
+
+Antes de pagar:
+
+- modelo exato
+    
+- CPU
+    
+- GPU
+    
+- TGP
+    
+- RAM
+    
+- SSD
+    
+- tela
+    
+- resolução
+    
+- Hz
+    
+- sRGB
+    
+- brilho
+    
+- bateria
+    
+- carregador
+    
+- teclado
+    
+- garantia
+    
+- preço final
+    
+- estoque
+    
+- nota/fatura
+    
+
+---
+
+# 56. CHECKLIST PS5
+
+- modelo exato
+    
+- Digital/Disc
+    
+- armazenamento
+    
+- console novo
+    
+- lacrado
+    
+- acessórios
+    
+- região/compatibilidade
+    
+- garantia
+    
+- nota
+    
+- preço
+    
+- bundle
+    
+- custo final
+    
+
+---
+
+# 57. CHECKLIST RAM
+
+- SO-DIMM
+    
+- DDR4
+    
+- 3200 MHz
+    
+- 16 GB
+    
+- 1,2 V
+    
+- marca conhecida
+    
+- embalagem lacrada
+    
+- preço ≤US$40 idealmente
+    
+- nota
+    
+
+---
+
+# 58. CHECKLIST SSD
+
+- M.2 2280
+    
+- NVMe
+    
+- PCIe compatível
+    
+- capacidade
+    
+- marca
+    
+- modelo exato
+    
+- TBW se disponível
+    
+- garantia
+    
+- preço
+    
+- embalagem
+    
+
+---
+
+# 59. CHECKLIST MOCHILA
+
+- ≥28 L
+    
+- notebook 15,6"
+    
+- carregador
+    
+- Kindle
+    
+- garrafa
+    
+- EDC
+    
+- uma muda de roupa
+    
+- costas confortáveis
+    
+- alças boas
+    
+- zíperes
+    
+- construção
+    
+- peso
+    
+- preço
+    
+
+---
+
+# 60. CHECKLIST PERFUME
+
+- função definida
+    
+- originalidade/loja confiável
+    
+- testado na pele
+    
+- concentração
+    
+- volume
+    
+- preço
+    
+- não é redundante
+    
+
+---
+
+# 61. REGRA DE PAGAMENTO
+
+Preferência:
+
+1. dinheiro/dólar;
+    
+2. Pix, quando seguro e oferecido pela loja;
+    
+3. cartão internacional, se a diferença for pequena.
+    
+
+Antes de pagar:
+
+> conferir o valor final na tela/caixa.
+
+Nunca entregar dinheiro a vendedor externo ou pessoa abordando na rua.
+
+---
+
+# 62. REGRA DE GARANTIA
+
+Para itens caros:
+
+- nota fiscal/fatura;
+    
+- número de série;
+    
+- garantia;
+    
+- política de troca;
+    
+- testar antes de sair quando possível.
+    
+
+A Cellshop, por exemplo, recomenda utilizar seus setores de teste para conferir produtos antes de deixar a loja.
+
+---
+
+# 63. CRONOGRAMA IDEAL DE COMPRA
+
+## DIA 1 — 19/11
+
+### Manhã
+
+1. chegar cedo;
+    
+2. Nissei;
+    
+3. Shopping China;
+    
+4. Mega;
+    
+5. Cellshop;
+    
+6. levantar preços.
+    
+
+### Não comprar tudo.
+
+Comprar apenas:
+
+> oferta S realmente excepcional.
+
+---
+
+# 64. DIA 2 — 20/11
+
+### Principal caça
+
+Revisar:
+
+- notebook;
+    
+- PS5;
+    
+- SSD;
+    
+- RAM;
+    
+- mochila.
+    
+
+### Aqui ocorre a maior parte das compras.
+
+---
+
+# 65. DIA 3 — 21/11
+
+### Revisão
+
+Voltar às melhores lojas.
+
+Procurar:
+
+- promoções relâmpago;
+    
+- estoque restante;
+    
+- queda de preço;
+    
+- oportunidades.
+    
+
+Comprar opcionais somente agora.
+
+---
+
+# 66. DIA 4 — 22/11
+
+### Contingência
+
+Não fazer compras grandes por ansiedade.
+
+Somente:
+
+- item que estava faltando;
+    
+- preço excepcional;
+    
+- perfume;
+    
+- grooming;
+    
+- acessórios pequenos.
+    
+
+Depois:
+
+> organizar bagagem e documentos.
+
+---
+
+# 67. ANTES DE VOLTAR AO BRASIL
+
+Separar:
+
+### Bagagem A
+
+Documentos.
+
+### Bagagem B
+
+Notas fiscais.
+
+### Bagagem C
+
+Produtos.
+
+### Bagagem D
+
+Itens pessoais.
+
+Manter tudo organizado.
+
+---
+
+# 68. ESTRATÉGIA DE RETORNO
+
+Antes da fronteira:
+
+1. somar compras;
+    
+2. separar bens pessoais;
+    
+3. conferir cota;
+    
+4. conferir necessidade de declaração;
+    
+5. manter notas;
+    
+6. declarar quando necessário.
+    
+
+Não contar com:
+
+> "talvez não fiscalizem."
+
+A estratégia correta é:
+
+> **comprar sabendo qual será o custo legal final.**
+
+---
+
+# 69. CUSTO EFETIVO
+
+Para qualquer item acima da cota:
+
+**Preço + imposto aplicável = custo real.**
+
+Exemplo:
+
+PS5:
+
+> US$550
+
+Se tributável em US$50 excedentes:
+
+> imposto = US$25
+
+Custo efetivo:
+
+> **US$575**
+
+Então um PS5 de US$550 pode deixar de ser melhor que outro de US$450.
+
+---
+
+# 70. DECISÃO FINAL POR ORDEM
+
+## 🥇 NÍVEL S
+
+### 1. Notebook realmente excepcional
 
 OU
 
-### 2. PS5 Digital
+### 2. PS5 Digital ≤US$450
 
 ---
 
-## NÍVEL A — prolongar vida do computador
+## 🥈 NÍVEL A
 
-### 3. RAM 16 GB
+### 3. RAM ≤US$40
 
-### 4. SSD 1 TB
-
----
-
-## NÍVEL B — melhorar rotina
-
-### 5. Mochila 30–32 L
-
-### 6. Teclado silencioso
-
-### 7. Mouse
+### 4. NVMe 2 TB ≤US$90
 
 ---
 
-## NÍVEL C — aparência / lifestyle
+## 🥉 NÍVEL B
 
-### 8. Perfume
+### 5. Mochila ≤US$100
+
+---
+
+## NÍVEL C
+
+### 6. Teclado ≤US$80
+
+### 7. Mouse ≤US$100
+
+---
+
+## NÍVEL D
+
+### 8. Perfumes
 
 ### 9. Grooming
 
 ---
 
-## NÍVEL D — luxo/opcional
+## NÍVEL E
 
 ### 10. Áudio
 
 ### 11. Gadgets
 
-### 12. acessórios
+---
+
+# 71. REGRA DE CANCELAMENTO
+
+Se uma compra fizer outra compra deixar de ser financeiramente boa:
+
+> cancelar a segunda.
+
+Exemplo:
+
+### Notebook US$800
+
+Não:
+
+> notebook + PS5 + teclado + mouse + perfumes.
+
+Sim:
+
+> notebook + mochila + talvez um item pequeno.
 
 ---
 
-# 27. ❌ O QUE NÃO COMPRAR
+# 72. REGRA DOS US$1.000
 
-Mesmo que esteja barato:
+Não pensar:
 
-- ❌ outro monitor 1080p
-- ❌ teclado gamer RGB aleatório
-- ❌ mouse barato
-- ❌ headphone apenas "um pouco melhor"
-- ❌ segundo power bank sem necessidade
-- ❌ cabos aleatórios
-- ❌ SSD sem marca
-- ❌ RAM sem especificação
-- ❌ smartwatch por impulso
-- ❌ celular por impulso
-- ❌ tablet por impulso
-- ❌ decoração
-- ❌ gadgets de mesa
-- ❌ acessórios para "talvez usar"
-- ❌ mochila menor que 28 L
-- ❌ perfume que não tenha função na coleção
-- ❌ três perfumes semelhantes
+> "Tenho US$1.000."
+
+Pensar:
+
+> "Tenho US$1.000 para maximizar melhoria real."
+
+A diferença é enorme.
 
 ---
 
-# 28. 🛒 CHECKLIST PARA DENTRO DA LOJA
+# 73. MINHA COMPRA IDEAL 2026
 
-Antes de pagar:
+Se eu estivesse no seu lugar e encontrasse preços excelentes:
 
-## Notebook
+|Produto|Preço|
+|---|---|
+|PS5 Digital|**US$430**|
+|RAM 16 GB|**US$30**|
+|NVMe 2 TB|**US$80**|
+|Thule/Osprey|**US$90**|
+|Versace Pour Homme|**US$35**|
+|Club de Nuit|**US$25**|
+|Grooming|**US$30**|
+|**TOTAL**|**US$720**|
 
-- [ ] Modelo exato conferido
-- [ ] CPU conferida
-- [ ] RAM conferida
-- [ ] SSD conferido
-- [ ] GPU conferida
-- [ ] tela conferida
-- [ ] preço conferido
-- [ ] garantia conferida
-- [ ] orçamento restante calculado
+### Sobra:
 
-## RAM
+# **US$280**
 
-- [ ] SO-DIMM
-- [ ] DDR4
-- [ ] 3200 MHz
-- [ ] 16 GB
-- [ ] marca confiável
-- [ ] preço ≤ US$ 65
+Eu NÃO gastaria automaticamente.
 
-## SSD
+Essa sobra poderia financiar:
 
-- [ ] NVMe
-- [ ] M.2 compatível
-- [ ] 1 TB
-- [ ] marca conhecida
-- [ ] preço ≤ US$ 80
+- uma oportunidade de teclado;
+    
+- mouse excepcional;
+    
+- IEM;
+    
+- perfume premium;
+    
 
-## PS5
+ou simplesmente:
 
-- [ ] Digital
-- [ ] CFI conferido
-- [ ] 825 GB
-- [ ] novo
-- [ ] lacrado
-- [ ] garantia
-- [ ] preço dentro do limite
-
-## Mochila
-
-- [ ] ≥ 28 L
-- [ ] notebook 15,6"
-- [ ] espaço para roupa
-- [ ] costas confortáveis
-- [ ] boa construção
-- [ ] zíperes bons
-- [ ] não parece mochila gamer exagerada
-
-## Teclado
-
-- [ ] 75%
-- [ ] wireless
-- [ ] 2.4 GHz
-- [ ] Bluetooth
-- [ ] USB-C
-- [ ] hot-swap
-- [ ] switch silencioso/linear
-- [ ] testado se possível
-
-## Mouse
-
-- [ ] formato confortável
-- [ ] wireless
-- [ ] sensor excelente
-- [ ] peso aceitável
-- [ ] preço realmente melhor que comprar no Brasil
-
-## Perfume
-
-- [ ] função definida
-- [ ] testado na pele
-- [ ] não é redundante
-- [ ] preço abaixo do alvo
+> **ficar comigo.**
 
 ---
 
-# 29. 💵 TABELA DE PREÇOS-ALVO
+# 74. SE O NOTEBOOK APARECER
 
-|Produto|Comprar até|Excelente|Não comprar acima de|
-|---|--:|--:|--:|
-|PS5 Digital|US$ 630|US$ 600|US$ 700|
-|Lenovo LOQ R7/4050|US$ 900|US$ 800|US$ 1.000|
-|Acer Nitro R7/4050|US$ 900|US$ 850|US$ 1.000|
-|MacBook Air M3 16/512|US$ 850|US$ 800|US$ 950|
-|RAM 16 GB DDR4-3200|US$ 65|US$ 55|US$ 80|
-|SSD NVMe 1 TB|US$ 80|US$ 70|US$ 100|
-|Thule EnRoute 30L|US$ 100|US$ 80|US$ 120|
-|Osprey Nebula 32L|US$ 100|US$ 85|US$ 130|
-|Patagonia Refugio 30L|US$ 100|US$ 85|US$ 120|
-|AULA F75|US$ 50|US$ 45|US$ 70|
-|Keychron V1 Max|US$ 80|US$ 70|US$ 100|
-|Keychron Q1 HE|US$ 100|US$ 90|US$ 120|
-|Razer Viper V3 Pro|US$ 100|US$ 90|US$ 120|
-|Versace Pour Homme 100 ml|US$ 45|US$ 35|US$ 55|
-|Dior Homme Sport 125 ml|US$ 90|US$ 80|US$ 100|
-|Club de Nuit Intense 105 ml|US$ 30|US$ 25|US$ 35|
-|Afnan 9PM 100 ml|US$ 30|US$ 22|US$ 35|
-|YSL Y EDP 100 ml|US$ 80|US$ 70|US$ 100|
-|Philips OneBlade QP2724|US$ 35|US$ 30|US$ 45|
-|Philips MG3750/60|US$ 35|US$ 30|US$ 45|
-|Philips MG7935|US$ 55|US$ 50|US$ 65|
-|IEM|US$ 100|US$ 70|US$ 120|
-|Headphone|US$ 150|US$ 120|US$ 180|
-|GaN 65–100 W|US$ 50|US$ 35|US$ 60|
+Exemplo:
 
----
+### LOQ/RTX 4050
 
-# 30. 🏁 LISTA FINAL PARA MARCAR
+**US$800**
 
-## 💻 COMPUTADOR
+Compra:
 
-- [ ] Verificar notebook novo
-- [ ] Se não houver oportunidade → RAM 16 GB
-- [ ] SSD NVMe 1 TB
-- [ ] Não comprar SSD SATA salvo necessidade
+|Item|Preço|
+|---|---|
+|Notebook|US$800|
+|Mochila|US$90|
+|Grooming|US$30|
+|**TOTAL**|**US$920**|
 
-## 🎮 GAMES
+Sobra:
 
-- [ ] PS5 Digital
-- [ ] Não comprar versão Disc
-- [ ] Não comprar jogos no Paraguai
+> **US$80**
 
-## 🎒 EDC
+PS5:
 
-- [ ] Mochila 30–32 L
-- [ ] Uma muda de roupa precisa caber
-- [ ] Preferência Thule EnRoute 30L
+> CANCELADO.
 
-## ⌨️ DESK
+Teclado:
 
-- [ ] Teclado silencioso
-- [ ] Mouse somente se promoção excepcional
+> CANCELADO.
 
-## 🎧 ÁUDIO
+Mouse:
 
-- [ ] Procurar oportunidade
-- [ ] Comprar somente se salto de qualidade for grande
+> CANCELADO.
 
-## 🌊 PERFUMES
+Áudio:
 
-- [ ] Versace Pour Homme
-- [ ] Dior Homme Sport
-- [ ] Club de Nuit Intense / Afnan 9PM
-- [ ] Máximo 3
-
-## 🧴 GROOMING
-
-- [ ] Philips MG3750 ou OneBlade
-
-## 🔌 ORGANIZAÇÃO
-
-- [ ] GaN
-- [ ] Hub
-- [ ] Case SSD
-- [ ] Organizadores
-
-Somente se necessários.
+> CANCELADO.
 
 ---
 
-# 31. 🥇 MINHA COMPRA IDEAL
+# 75. SE O PS5 APARECER MUITO BARATO
 
-Se eu chegasse ao Paraguai e encontrasse exatamente os preços-alvo:
+### PS5 Digital
 
-### 💻
+**US$400**
 
-RAM 16 GB
+Comprar:
 
-**US$ 55**
+- PS5;
+    
+- RAM;
+    
+- SSD;
+    
+- mochila.
+    
 
-### 💾
+Exemplo:
 
-SSD 1 TB
+> 400 + 30 + 80 + 90 = **US$600**
 
-**US$ 70**
+Ainda sobra:
 
-### 🎮
+> **US$400**
 
-PS5 Digital
+Isso é excelente.
 
-**US$ 600**
+---
 
-### 🎒
+# 76. SE TUDO ESTIVER CARO
 
-Thule EnRoute 30L
+Comprar:
 
-**US$ 80**
+> **US$30–40 de RAM**, se estiver boa.
 
-### 🌊
+Talvez:
 
-Versace Pour Homme
+> **SSD**, se estiver abaixo do alvo.
 
-**US$ 35**
+E voltar.
 
-### 🌙
+Uma Black Friday ruim não transforma uma compra ruim em boa.
 
-Club de Nuit Intense
+---
 
-**US$ 25**
+# 77. PREVISÃO FINAL
 
-### 🧴
+Minha estimativa para novembro:
 
-Philips MG3750
+### Dólar
 
-**US$ 30**
+> **R$5,20–5,50**
 
-### TOTAL
+### PS5 Digital
 
-> **US$ 895**
+> **US$400–450**
 
-### SOBRA
+### RAM 16 GB
 
-> **US$ 105**
+> **US$25–40**
 
-Essa sobra fica deliberadamente reservada.
+### NVMe 2 TB
+
+> **US$75–90**
+
+### Mochila 30–32 L
+
+> **US$80–110**
+
+### Teclado
+
+> **US$45–80**
+
+### Mouse
+
+> **US$90–120**
+
+### Perfumes
+
+> **US$25–90 cada**
+
+### Notebook gamer RTX 4050
+
+> **US$750–900**
+
+---
+
+# 78. A MELHOR ESTRATÉGIA PARA VOCÊ
+
+## PLANO A
+
+**15ALC6 + PS5**
+
+É o caminho padrão.
+
+> PS5 + RAM + SSD + mochila.
+
+---
+
+## PLANO B
+
+**Notebook excepcional**
 
 Se aparecer:
 
-- teclado excelente;
-- mouse absurdo de barato;
-- IEM realmente superior;
-- perfume premium em promoção;
-
-eu uso a reserva.
-
-Se não aparecer:
-
-> **volto para casa com US$ 105 que não precisei gastar.**
+> notebook > PS5.
 
 ---
 
-# 32. 🏆 A DECISÃO MAIS IMPORTANTE
+## PLANO C
 
-## Se aparecer um notebook realmente excepcional:
+**Mercado caro**
 
-> **NOTEBOOK > TODO O RESTO**
-
-## Se não aparecer:
-
-> **PS5 + upgrade do 15ALC6 > notebook mediano novo**
-
-## Depois:
-
-> **mochila > teclado > mouse > perfumes > grooming > gadgets**
-
-## Áudio:
-
-> **somente se for absurdo.**
+> RAM/SSD somente.
 
 ---
 
-# 33. 📌 RESUMO DE 30 SEGUNDOS
+## PLANO D
 
-### COMPRAR PRIMEIRO
+**Black Friday absurda**
 
-**1. PS5 Digital ≤ US$ 630**
-
-**2. RAM 16 GB ≤ US$ 65**
-
-**3. SSD 1 TB ≤ US$ 80**
-
-**4. Mochila 30–32 L ≤ US$ 100**
-
-### DEPOIS
-
-**5. Teclado ≤ US$ 80**
-
-**6. Mouse ≤ US$ 100**
-
-**7. Perfumes ≤ US$ 150 no total**
-
-**8. Grooming ≤ US$ 50**
-
-### SÓ SE FOR OPORTUNIDADE
-
-**9. Notebook novo**
-
-**10. Áudio**
-
-**11. Gadgets**
+> aproveitar oportunidades mantendo US$100–300 de reserva.
 
 ---
 
-# 34. 🧠 FRASE PARA LEMBRAR NA VIAGEM
+# 79. LISTA DE BOLSO
 
-> **"Eu não estou no Paraguai para gastar US$ 1.000. Estou no Paraguai para transformar US$ 1.000 na maior quantidade possível de melhoria real."**
+```
+BLACK FRIDAY 2026
 
-**Data da pesquisa:** 30/08/2026.
+1. NOTEBOOK
+≤ US$750–850 → atenção máxima
 
-**Observação:** preços de lojas e comparadores mudam constantemente. Os preços de agosto servem como referência; os valores "COMPRAR ATÉ" são os gatilhos que devem ser usados na Black Friday de novembro.
+2. PS5 DIGITAL
+≤ US$400 → COMPRAR
+≤ US$430 → excelente
+≤ US$450 → comprar
+> US$500 → NÃO
+
+3. RAM 16GB DDR4-3200
+≤ US$30 → COMPRAR
+≤ US$40 → comprar
+> US$65 → NÃO
+
+4. NVMe 2TB
+≤ US$75 → COMPRAR
+≤ US$90 → comprar
+> US$105 → NÃO
+
+5. MOCHILA
+≤ US$80 → excelente
+≤ US$100 → comprar
+> US$120 → NÃO
+
+6. TECLADO
+≤ US$50 → comprar
+≤ US$80 → comprar se excelente
+
+7. MOUSE
+≤ US$90 → comprar
+> US$120 → NÃO
+
+8. PERFUME
+Comprar somente com função definida
+
+9. GROOMING
+≤ US$35 → comprar
+
+10. ÁUDIO
+Só se for salto de categoria
+```
+
+---
+
+# 80. FRASE PARA A VIAGEM
+
+> **"Eu não estou no Paraguai para gastar US$1.000. Estou no Paraguai para transformar US$1.000 na maior quantidade possível de melhoria real."**
+
+---
+
+# 81. FONTES E BASE DA REVISÃO
+
+A revisão considera:
+
+- roteiro original enviado pelo usuário;
+    
+- dados de preços e limites existentes no roteiro original;
+    
+- situação cambial de 31/08/2026;
+    
+- informações atuais sobre Black Friday 2026;
+    
+- regras atualizadas da Receita Federal;
+    
+- informações atuais das lojas sobre Black Friday, horários, estoque e testes.
+    
+
+### Pontos atualizados especialmente importantes
+
+- Black Friday de Ciudad del Este: **19–22/11/2026**.
+    
+- Dólar de referência em 31/08/2026: aproximadamente **R$5,18**.
+    
+- Planejamento cambial: **R$5,20 base / R$5,50 conservador**.
+    
+- Cota terrestre: **US$500 por viajante**, observadas as regras da Receita.
+    
+- Promoções de Black Friday podem ter **estoque limitado e promoções relâmpago**.
+    
+- Para itens caros, o custo tributário deve ser considerado antes da compra.
+    
+
+---
+
+# 82. DECISÃO FINAL
+
+### Se eu tivesse que resumir toda a viagem em uma árvore:
+
+```
+ENCONTROU NOTEBOOK EXCEPCIONAL?
+│
+├── SIM, ≤ US$850
+│      │
+│      └── COMPRAR NOTEBOOK
+│          cancelar PS5
+│          mochila se necessária
+│          restante mínimo
+│
+└── NÃO
+       │
+       ├── PS5 ≤ US$400
+       │      └── COMPRAR
+       │
+       ├── PS5 ≤ US$450
+       │      └── COMPRAR se upgrade couber
+       │
+       └── PS5 > US$500
+              └── NÃO COMPRAR
+                     │
+                     └── RAM + SSD
+                            │
+                            └── mochila
+                                   │
+                                   └── opcionais
+```
+
+# 83. RESULTADO QUE EU BUSCARIA
+
+O melhor resultado não é:
+
+> **"gastei US$1.000."**
+
+O melhor resultado é:
+
+> **"Meu computador ficou melhor, tenho uma máquina para jogos AAA, minha mochila ficou melhor, e ainda sobrou dinheiro."**
+
+Esse é o objetivo da viagem.
