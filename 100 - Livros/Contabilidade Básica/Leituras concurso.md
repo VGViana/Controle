@@ -63,7 +63,7 @@ Contabilidade Avançada
 16. (FOCO EM PROVA)
 Contabilidade Geral para Concursos
 🔁 NORMAS CONTÁBEIS (OBRIGATÓRIO)
-CPC 00
+[[14. CPC 00 - Estrutura Conceitual para Relatório Financeiro|CPC 00]]
 CPC 26
 CPC 27
 CPC 48
