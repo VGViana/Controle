@@ -16,6 +16,7 @@
 - [[16. CPC 27 - Ativo Imobilizado]]
 - [[17. CPC 04 - Ativo Intangível]]
 - [[18. Redução ao valor recuperável de ativos (CPC 01)]]
+- [[19. ]]
 - [**Princípios Contábeis**](Princípios%20Contábeis.md) 
 - [**CPC 00 - Estrutura Conceitual**](14.%20CPC%2000%20-%20Estrutura%20Conceitual%20para%20Relatório%20Financeiro.md) 
 - [[Ativo não circulante - Investimentos Temporários]]
