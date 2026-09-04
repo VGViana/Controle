@@ -216,7 +216,7 @@ Ainda não houve a edição da lei específica que rege o direito de greve aos s
 
 # **9. Remuneração dos Servidores Públicos**
 
-_Art. 37, X, CF/88 - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;_
+> _Art. 37, X, CF/88 - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;_
 
 - Subsídio x Vencimento x Salário
 
@@ -228,11 +228,11 @@ _Art. 37, X, CF/88 - a remuneração dos servidores públicos e o subsídio de q
 
 REMUNERAÇÃO = VENCIMENTOS + VANTAGENS (indenizações, gratificações e adicionais)
 
-_Art. 37, § 9º, CF/88. É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo._
+> _Art. 37, § 9º, CF/88. É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo._
 
 **ATENÇÃO**!
 
-Art. 37, XI, CF/88, estabelece o teto remuneratório no âmbito de cada poder:
+> Art. 37, XI, CF/88, estabelece o teto remuneratório no âmbito de cada poder:
 
 ![[Tetos remuneratórios.png]]
 
@@ -242,20 +242,20 @@ Empregados Públicos - apenas há limites ao teto de vencimento quando referente
 
 **Atenção**!
 
-_Art. 37, XII, CF/88. - os vencimentos dos cargos do Poder Legislativo e do [[Poder Judiciário]] não poderão ser superiores aos pagos pelo [[Poder Executivo]];_
+> _Art. 37, XII, CF/88. - os vencimentos dos cargos do Poder Legislativo e do [[Poder Judiciário]] não poderão ser superiores aos pagos pelo [[Poder Executivo]];_
 
 - Não pode haver vinculação ou equiparação de remuneração - "aumentos em cascata"
 
 - Não pode haver vinculação de subsídios de diferentes entes políticos - "efeito repique"
 
-**Súmula Vinculante nº 42, do STF**: “É **inconstitucional** a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária.”
+> **Súmula Vinculante nº 42, do STF**: “É **inconstitucional** a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária.”
 
-Art.37, XV, CF/88. - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I; - Fato que não impede a incidência tributária sob a remuneração.
+> Art.37, XV, CF/88. - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I; - Fato que não impede a incidência tributária sob a remuneração.
 
-Art. 37 (...) 
+> Art. 37 (...) 
 § 11. **Não serão computadas**, para efeito dos limites remuneratórios de que trata o inciso XI do caput deste artigo, as **parcelas de caráter indenizatório** expressamente previstas em **<span style="color:#83a598">lei ordinária</span>, <span style="color:#fe8019">aprovada pelo Congresso Nacional</span>, <span style="color:#fb4934">de caráter nacional</span>, aplicada a todos os Poderes e órgãos constitucionalmente autônomos**.
 
-# 10. Acumulação remunerada de cargos, empregos e funções públicas**
+# **10. Acumulação remunerada de cargos, empregos e funções públicas**
 
 Saiba que a proibição de acumulação de cargos públicos é estendida a **toda Administração Pública**, Direta e Indireta, não importado se a entidade é pessoa jurídica de direito público ou privado!
 
