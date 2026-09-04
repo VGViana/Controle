@@ -457,7 +457,7 @@ Há o **<span style="color:#83a598">direito de regresso do Estado</span>**, este
 
 # **<u>Improbidade Administrativa</u>**
 
-_Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível_.
+> _Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível_.
 
 - **Atos de Improbidade**
 	- Enriquecimento Ilícito
@@ -482,11 +482,11 @@ _Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a sus
 ## **<span style="color:#b8bb26">2. Acumulação de Cargos Públicos</span>**
 
 -  **Emenda Constitucional nº 101/2019** – Expansão das regras de acumulação:
-- **Antes**: Somente permitido para cargos na área da saúde.
-    - **Agora**: Permitida acumulação com:
-        - **1 cargo de professor**.
-        - **1 cargo técnico ou científico**.
-        - **1 cargo na área da saúde**.
+	- **Antes**: Somente permitido para cargos na área da saúde.
+	- **Agora**: Permitida acumulação com:
+		- **1 cargo de professor**.
+		- **1 cargo técnico ou científico**.
+		- **1 cargo na área da saúde**.
 
 ⚠ **<span style="color:#fb4934">Regra Importante</span>**: Deve haver **prevalência da atividade militar**! Não há obrigação de compatibilizar horários.
 
