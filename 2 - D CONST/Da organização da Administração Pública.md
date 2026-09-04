@@ -126,7 +126,7 @@ Brasileiros (<u>natos ou naturalizados</u>) - podem ocupar cargos públicos na f
 
 Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve haver lei autorizando.**
 
-# **1. Concurso Público**
+# **5. Concurso Público**
 
 - _Art. 37, II, CF/88 - a investidura em cargo ou emprego público depende de_ **_aprovação prévia em concurso público de provas ou de provas e títulos_**_, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para_ **_cargo em comissão declarado em lei de livre nomeação e exoneração_**_;_ 
 - Súmula Vinculante nº 43, que diz: “é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, **sem prévia aprovação em concurso público** destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido”.
@@ -165,7 +165,7 @@ Lei definirá percentual previsto para reservar vagas para os **portadores de de
 
 Apenas por lei poderá ser exigida a realização do exame psicotécnico em concurso público, não pode por edital!
 
-## **1.1 Contratação por tempo determinado**
+## **5.1 Contratação por tempo determinado**
 
 - não há a necessidade de concurso público
 - o indivíduo contratado não estará submetido ao regime estatutário e nem à CLT.
@@ -174,7 +174,7 @@ Apenas por lei poderá ser exigida a realização do exame psicotécnico em conc
 	- Contratação deve ser por tempo determinado
 	- Hipóteses devem estar legalmente previstas
 
-# **2. Cargos em comissão e funções de confiança**
+# **6. Cargos em comissão e funções de confiança**
 
 ![[Cargo em comissão x função de confiança.png|1120]]
 
@@ -182,7 +182,7 @@ Apenas por lei poderá ser exigida a realização do exame psicotécnico em conc
 
 **Súmula Vinculante 13:** Também há vedação à **nomeação cruzada.**
 
-# **3. Direitos Sociais dos servidores públicos**
+# **7. Direitos Sociais dos servidores públicos**
 
 Poderá haver:
 
@@ -196,7 +196,7 @@ Ainda não houve a edição da lei específica que rege o direito de greve aos s
 - Poderá haver desconto na remuneração dos servidores durante os dias de greve, exceto se a greve for causada por ato ilícito do Poder Público, como atraso no pagamento das remunerações dos servidores públicos.
 - _A CF proíbe a greve pelos militares e a sindicalização._
 
-# **4. Direitos Sociais**
+# **8. Direitos Sociais**
 
 - Salário mínimo
 - Salário nunca inferior ao mínimo - aos que recebem remuneração variável
@@ -211,7 +211,7 @@ Ainda não houve a edição da lei específica que rege o direito de greve aos s
 - Proteção à mulher no mercado de trabalho
 - Proibição de diferenças salariais sexo, idade, cor, estado civil
 
-# **5. Remuneração dos Servidores Públicos**
+# **9. Remuneração dos Servidores Públicos**
 
 _Art. 37, X, CF/88 - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;_
 
@@ -252,7 +252,7 @@ Art.37, XV, CF/88. - o subsídio e os vencimentos dos ocupantes de cargos e empr
 Art. 37 (...) 
 § 11. **Não serão computadas**, para efeito dos limites remuneratórios de que trata o inciso XI do caput deste artigo, as **parcelas de caráter indenizatório** expressamente previstas em **<span style="color:#83a598">lei ordinária</span>, <span style="color:#fe8019">aprovada pelo Congresso Nacional</span>, <span style="color:#fb4934">de caráter nacional</span>, aplicada a todos os Poderes e órgãos constitucionalmente autônomos**.
 
-# 6. Acumulação remunerada de cargos, empregos e funções públicas**
+# 10. Acumulação remunerada de cargos, empregos e funções públicas**
 
 Saiba que a proibição de acumulação de cargos públicos é estendida a **toda Administração Pública**, Direta e Indireta, não importado se a entidade é pessoa jurídica de direito público ou privado!
 
@@ -291,7 +291,7 @@ d) <span style="color:#fe8019">profissionais de saúde das Forças Armadas</span
 
 e) <span style="color:#fe8019">militares dos estados e do Distrito Federal</span> se submetem as regras principais de acumulação dos servidores públicos (que listamos acima), com prevalência da atividade militar (Art. 42, § 3º).
 
-# **7. Servidores Públicos e Mandato Eletivo**
+# **11. Servidores Públicos e Mandato Eletivo**
 
 - **<span style="color:#83a598">Mandato eletivo federal, distrital ou estadual</span>** - o servidor eleito será afastado do cargo e receberá a remuneração do mandato eletivo;
 - **<span style="color:#b8bb26">Mandato eletivo municipal</span>:**
@@ -300,11 +300,11 @@ e) <span style="color:#fe8019">militares dos estados e do Distrito Federal</span
 
 **<mark style="background:rgba(240, 200, 0, 0.2)">Atenção</mark>**: Nos casos de afastamento para exercício de mandato eletivo, o tempo de serviço no mandato será contado como tempo de serviço, **<span style="color:#fe8019">exceto para promoção por merecimento.</span>**
 
-# **8. Regime Jurídico dos Servidores Públicos**
+# **12. Regime Jurídico dos Servidores Públicos**
 
 Deverá ser instituído **<span style="color:#d3869b">regime jurídico único</span>** para os servidores públicos, em cada esfera federativa.
 
-## **8.1 Estágio Probatório**
+## **12.1 Estágio Probatório**
 
 - O **<span style="color:#fe8019">estágio probatório</span>** começa a partir da **<span style="color:#fe8019">entrada em exercício</span>.** 
 
@@ -321,14 +321,14 @@ Empregado público possui estatuto celetista, portanto não é previsto o direit
 - procedimento de avaliação periódica de desempenho, na forma de lei complementar (ainda não editada), com direito de defesa; 
 - excesso de despesa com pessoal.
 
-## **8.2 Reintegração, Recondução, Disponibilidade e Aproveitamento (<span style="color:#b8bb26">SERVIDOR ESTÁVEL</span>)**
+## **12.2 Reintegração, Recondução, Disponibilidade e Aproveitamento (<span style="color:#b8bb26">SERVIDOR ESTÁVEL</span>)**
 
 - **Reintegração** - volta do servidor estável que havia sido demitido - <u>demissão é invalidada por sentença judicial</u>;
 - **Recondução** - volta do servidor estável ao cargo de origem - <u>não há direito à indenização</u>;
 - **Disponibilidade** - quando o cargo público é extinto ou houver a declaração de sua desnecessidade, o servidor <u>estável ficará em disponibilidade com remuneração proporcional ao tempo de serviço</u> até haver seu aproveitamento em cargo semelhante;
 - **Aproveitamento** - quando o servidor estável é conduzido a cargo semelhante.
 
-# **9. Regime Previdenciário dos Servidores Públicos - RPPS**
+# **13. Regime Previdenciário dos Servidores Públicos - RPPS**
 
 Aplica-se aos **<span style="color:#83a598">SERVIDORES TITULARES DE CARGOS EFETIVOS.</span>**
 
@@ -392,7 +392,7 @@ _Art. 40, § 4º, CF/88._ _É_ **_vedada_** _a adoção de requisitos ou critér
 
 **Pensão por morte** não poderá ser inferior a um salário mínimo.
 
-# **<u>Responsabilidade Civil do Estado</u>**
+# **<u>14. Responsabilidade Civil do Estado</u>**
 
 _Art.37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direito privado_ **_prestadoras de serviços públicos_** **<span style="color:#fe8019">_responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros_</span>**_, <u>assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.</u>_
 
@@ -401,7 +401,7 @@ _Art.37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direi
 - Direito Público
 - Direito Privado - quando prestadoras de serviços público, mesmo que não integrem a Administração Indireta
 
-# **<span style="color:#d3869b">1. Teoria do Risco Administrativo</span>**
+## **<span style="color:#d3869b">14.1. Teoria do Risco Administrativo</span>**
 
 - Adotada no Brasil como regra.
 
@@ -419,13 +419,13 @@ _Art.37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direi
 
 Há o **<span style="color:#83a598">direito de regresso do Estado</span>**, este poderá ser ressarcido pelo servidor público que cometeu dano, caso tenha agido por dolo ou culpa, em razão do princípio da indisponibilidade do interesse público.
 
-# **<span style="color:#d3869b">2. Responsabilidade civil por ato jurisdicional</span>**
+## **<span style="color:#d3869b">14.2. Responsabilidade civil por ato jurisdicional</span>**
 
 - erro judiciário;
 - prisão além do tempo fixado na sentença;
 - condutas dolosas praticadas pelo juiz que causem prejuízos à parte ou terceiros;
 
-# **<span style="color:#d3869b">3. Responsabilidade civil por ato legislativo</span>**
+## **<span style="color:#d3869b">14.3. Responsabilidade civil por ato legislativo</span>**
 
 - edição de lei inconstitucional;
 - edição de leis de efeitos concretos;
@@ -473,13 +473,13 @@ _Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a sus
 
 # **<u>Militares dos Estados</u>**
 
-# **<span style="color:#b8bb26">1. Classificação dos Militares</span>**
+## **<span style="color:#b8bb26">1. Classificação dos Militares</span>**
 
 - **Forças Armadas**: Exército, Marinha e Aeronáutica → Denominados apenas "militares".
 -  **Militares dos Estados**: Policiais Militares (PMs) e Bombeiros Militares (CBMs).
     -  **<span style="color: #d79921">Polícias Civis</span>**: **<span style="color: #d79921">Não são militares</span>**, <span style="color: #d79921">sendo servidores públicos civis</span>.
 
-# **<span style="color:#b8bb26">2. Acumulação de Cargos Públicos</span>**
+## **<span style="color:#b8bb26">2. Acumulação de Cargos Públicos</span>**
 
 -  **Emenda Constitucional nº 101/2019** – Expansão das regras de acumulação:
 - **Antes**: Somente permitido para cargos na área da saúde.
@@ -493,44 +493,44 @@ _Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a sus
 - **Restrição**: Regra se aplica **apenas aos militares dos Estados**.
 - **Militares das Forças Armadas** **só podem acumular** com cargo na área da saúde.
 
-# **<span style="color:#b8bb26">3. Polícias Militares e Bombeiros Militares</span>**
+## **<span style="color:#b8bb26">3. Polícias Militares e Bombeiros Militares</span>**
 
 - São **forças auxiliares e reserva do Exército**.
 - Subordinam-se aos **Governadores dos Estados, do Distrito Federal e dos Territórios**.
 - Competência do **Governador para legislar** sobre o regime jurídico dos militares estaduais e distritais.
 
-#  **<span style="color:#b8bb26">4. Diferença no Distrito Federal</span>**
+##  **<span style="color:#b8bb26">4. Diferença no Distrito Federal</span>**
 
 - A **União** organiza e mantém a PM e o CBM do DF, **mas continuam subordinados ao Governador**.
 
-# **<span style="color:#b8bb26">5. Princípios Estruturantes</span>**
+## **<span style="color:#b8bb26">5. Princípios Estruturantes</span>**
 
 - **Hierarquia e disciplina** → Fundamentos essenciais das Polícias Militares e Bombeiros Militares.
 
-# **<span style="color:#b8bb26">6. Competências</span>**
+## **<span style="color:#b8bb26">6. Competências</span>**
 
 - **Polícias Militares** → Polícia ostensiva e preservação da ordem pública.
 - **Corpos de Bombeiros Militares** → Defesa civil e prevenção de desastres.
 
-#  **<span style="color:#b8bb26">7. Estatuto dos Militares dos Estados – Regras Constitucionais</span>**
+##  **<span style="color:#b8bb26">7. Estatuto dos Militares dos Estados – Regras Constitucionais</span>**
 
 - **CF, Art. 42** – Aplicabilidade de Regras Específicas
 
-# **<span style="color:#b8bb26">8.Elegibilidade de Militares (Art. 14, §8º)</span>**
+## **<span style="color:#b8bb26">8.Elegibilidade de Militares (Art. 14, §8º)</span>**
 
 - **Menos de 10 anos de serviço** → Deve afastar-se da atividade.
 - **Mais de 10 anos de serviço** → Será agregado e, se eleito, passa à inatividade.
 
-# **<span style="color:#b8bb26">9.Aposentadoria e Tempo de Contribuição (Art. 40, §9º)</span>**
+## **<span style="color:#b8bb26">9.Aposentadoria e Tempo de Contribuição (Art. 40, §9º)</span>**
 
 - Tempo de contribuição **federal, estadual, distrital ou municipal** será contado para aposentadoria.
 
-# **<span style="color:#b8bb26">10. Habeas Corpus e Punições Disciplinares (Art. 142, §2º)</span>**
+## **<span style="color:#b8bb26">10. Habeas Corpus e Punições Disciplinares (Art. 142, §2º)</span>**
 
 - **Não cabe habeas corpus** para punições disciplinares militares.
 - **STF permite controle de legalidade**, mas **não do mérito** da punição.
 
-# **<span style="color:#b8bb26">11. Regras do Art. 142, §3º</span>**
+## **<span style="color:#b8bb26">11. Regras do Art. 142, §3º</span>**
 
 - **Patentes dos oficiais** → Conferidas pelos Governadores.
 - **Posse em cargo público permanente** → Transferência para a reserva (exceto acumulação de cargos na saúde – Art. 37, XVI, “c”).
@@ -539,7 +539,7 @@ _Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a sus
 - **Proibição de filiação partidária** enquanto estiver na ativa.
 - **Aplicação de direitos trabalhistas** → Exemplo: 13º salário, salário-família, férias, licença-maternidade e paternidade.
 
-# **<span style="color:#b8bb26">12. Fim da Prisão Disciplinar - Lei Federal nº 13.967/2019</span>**
+## **<span style="color:#b8bb26">12. Fim da Prisão Disciplinar - Lei Federal nº 13.967/2019</span>**
 
 - **Extinguiu a prisão disciplinar** para PMs e Bombeiros Militares.
 - Instituiu a necessidade de **Código de Ética e Disciplina** para reger essas corporações.
