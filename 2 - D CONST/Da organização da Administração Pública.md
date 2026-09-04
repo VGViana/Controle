@@ -298,8 +298,8 @@ e) <span style="color:#fe8019">militares dos estados e do Distrito Federal</span
 
 - **<span style="color:#83a598">Mandato eletivo federal, distrital ou estadual</span>** - o servidor eleito será afastado do cargo e receberá a remuneração do mandato eletivo;
 - **<span style="color:#b8bb26">Mandato eletivo municipal</span>:**
-- **<span style="color:#b8bb26">Prefeito</span>** - **será afastado do cargo** e <span style="color:#fe8019">poderá optar pela remuneração que irá receber</span> (do cargo ou do mandato);
-- **<span style="color:#b8bb26">Vereador</span>** - **caso haja compatibilidade de horários**, <span style="color:#fe8019">poderá acumular os cargos e receberá as duas remunerações.</span> **Se não houver compatibilidade**, optará por uma remuneração e será afastado do cargo.
+	- **<span style="color:#b8bb26">Prefeito</span>** - **será afastado do cargo** e <span style="color:#fe8019">poderá optar pela remuneração que irá receber</span> (do cargo ou do mandato);
+	- **<span style="color:#b8bb26">Vereador</span>** - **caso haja compatibilidade de horários**, <span style="color:#fe8019">poderá acumular os cargos e receberá as duas remunerações.</span> **Se não houver compatibilidade**, optará por uma remuneração e será afastado do cargo.
 
 **<mark style="background:rgba(240, 200, 0, 0.2)">Atenção</mark>**: Nos casos de afastamento para exercício de mandato eletivo, o tempo de serviço no mandato será contado como tempo de serviço, **<span style="color:#fe8019">exceto para promoção por merecimento.</span>**
 
