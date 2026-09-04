@@ -347,7 +347,7 @@ Aplica-se aos **<span style="color:#83a598">SERVIDORES TITULARES DE CARGOS EFETI
 
 -É **vedado** a criação de novos Regimes Próprios de Previdência Social.
 
-_Art. 40, CF/88. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá_ **<span style="color:#fe8019">_caráter contributivo e solidário_</span>**_, mediante_ **<span style="color:#83a598">_contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas,</span>_** _observados critérios que_
+> _Art. 40, CF/88. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá_ **<span style="color:#fe8019">_caráter contributivo e solidário_</span>**_, mediante_ **<span style="color:#83a598">_contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas,</span>_** _observados critérios que_
 
 _preservem o equilíbrio financeiro e atuarial._
 
@@ -367,14 +367,14 @@ _preservem o equilíbrio financeiro e atuarial._
 
 No âmbito dos Estados, DF e Municípios - a idade será estabelecida nas Constituições e Leis Orgânicas.
 
-**Limites**
+## **Limites**
 
-_Art. 40, § 2º, CF/88. Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § 2º do art. 201 ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, observado o disposto nos §§ 14 a 16._  
+> _Art. 40, § 2º, CF/88. Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § 2º do art. 201 ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, observado o disposto nos §§ 14 a 16._  
 
 - Não podem ser inferiores - salário mínimo
 - Não podem ser superiores - limite máximo estabelecido pelo RGPS
 
-_Art. 40, § 4º, CF/88._ _É_ **_vedada_** _a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º- B, 4º-C e 5º._
+> _Art. 40, § 4º, CF/88._ _É_ **_vedada_** _a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º- B, 4º-C e 5º._
 
 **<span style="color:#fe8019">Exceto para</span>:**
 
@@ -385,19 +385,19 @@ _Art. 40, § 4º, CF/88._ _É_ **_vedada_** _a adoção de requisitos ou critér
 - 60 anos - homens
 - 57 - mulheres
 
-**<u>Abono de permanência</u>**
+## **<u>Abono de permanência</u>**
 
--Para servidores que cumprem com o requisito para aposentar-se, mas optam por manter-se na ativa.
+- Para servidores que cumprem com o requisito para aposentar-se, mas optam por manter-se na ativa.
 
--Será equivalente, no máximo, ao valor da sua contribuição previdenciária, até completar a idade para aposentadoria compulsória.
+- Será equivalente, no máximo, ao valor da sua contribuição previdenciária, até completar a idade para aposentadoria compulsória.
 
--Cada ente federativo estabelecerá se instituirá ou não o abono de permanência.
+- Cada ente federativo estabelecerá se instituirá ou não o abono de permanência.
 
 **Pensão por morte** não poderá ser inferior a um salário mínimo.
 
 # **<u>14. Responsabilidade Civil do Estado</u>**
 
-_Art.37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direito privado_ **_prestadoras de serviços públicos_** **<span style="color:#fe8019">_responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros_</span>**_, <u>assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.</u>_
+> _Art.37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direito privado_ **_prestadoras de serviços públicos_** **<span style="color:#fe8019">_responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros_</span>**_, <u>assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.</u>_
 
 <u>Pessoas Jurídicas</u>:
 
@@ -438,25 +438,22 @@ Há o **<span style="color:#83a598">direito de regresso do Estado</span>**, este
 
 - Prioridade dos recursos
 
-_Art. 37, XXII, CF/88 - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão_ **_recursos prioritários para a realização de suas atividades e atuarão de forma integrada_**_, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio._
+> _Art. 37, XXII, CF/88 - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão_ **_recursos prioritários para a realização de suas atividades e atuarão de forma integrada_**_, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio._
 
 # **<u>Contrato de desempenho (contrato de gestão)</u>**
 
 - Princípio da Eficiência
 
-_Art. 37, § 8º, CF/88. A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por_ **_objeto a fixação de metas de desempenho para o órgão ou entidade_**_, cabendo à lei dispor sobre:_
-
-_I - o prazo de duração do contrato;_
-
-_II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos dirigentes;_
-
-_III - a remuneração do pessoal._
+> _Art. 37, § 8º, CF/88. A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por_ **_objeto a fixação de metas de desempenho para o órgão ou entidade_**_, cabendo à lei dispor sobre:_
+> - _I - o prazo de duração do contrato;_ 
+> - _II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos dirigentes;_ 
+> - _III - a remuneração do pessoal._
 
 # **<u>Obrigatoriedade de Licitação</u>**
 
 - Princípio da Indisponibilidade do Interesse Público
 
-_Art. 37, XXI, CF/88 - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações._
+> _Art. 37, XXI, CF/88 - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações._
 
 # **<u>Improbidade Administrativa</u>**
 
