@@ -113,8 +113,10 @@ Saiba que: o direito de petição é um dos instrumentos para a concretização 
 # **Agentes Públicos**
 
 - _Art. 37, I, CF/88 - os cargos, empregos e funções públicas são acessíveis aos_ **_brasileiros_** _que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei;_
-- Súmula Vinculante nº 44 (STF): "Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
-- Súmula nº 14 (STF): “Não é admissível, por [[6. Atos Administrativos|ato administrativo]], restringir, em razão da idade, inscrição em concurso para cargo público."
+
+> Súmula Vinculante nº 44 (STF): "Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
+
+> Súmula nº 14 (STF): “Não é admissível, por [[6. Atos Administrativos|ato administrativo]], restringir, em razão da idade, inscrição em concurso para cargo público."
 
 **Atenção**:
 
@@ -128,8 +130,9 @@ Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve 
 
 # **5. Concurso Público**
 
-- _Art. 37, II, CF/88 - a investidura em cargo ou emprego público depende de_ **_aprovação prévia em concurso público de provas ou de provas e títulos_**_, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para_ **_cargo em comissão declarado em lei de livre nomeação e exoneração_**_;_ 
-- Súmula Vinculante nº 43, que diz: “é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, **sem prévia aprovação em concurso público** destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido”.
+> _Art. 37, II, CF/88 - a investidura em cargo ou emprego público depende de_ **_aprovação prévia em concurso público de provas ou de provas e títulos_**_, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para_ **_cargo em comissão declarado em lei de livre nomeação e exoneração_**_;_ 
+
+> Súmula Vinculante nº 43, que diz: “é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, **sem prévia aprovação em concurso público** destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido”.
 
 - **Prazo de validade do concurso** - **ATÉ** 2 anos, podendo ser prorrogado por igual período. Então, se o prazo de validade for estipulado em 1 ano, apenas poderá ser prorrogado por mais 1 ano. 
 
@@ -137,7 +140,7 @@ Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve 
 
 - A nomeação deverá **obedecer a ordem de classificação**, caso não o faça, o candidato preterido terá direito à nomeação. 
 
-- Súmula 15 do STF: “dentro do prazo de validade do concurso, o candidato aprovado tem direito à nomeação, quando o cargo for preenchido sem observância da classificação”. 
+> Súmula 15 do STF: “dentro do prazo de validade do concurso, o candidato aprovado tem direito à nomeação, quando o cargo for preenchido sem observância da classificação”. 
 
 - <span style="color:#fb4934">Se surgirem novas contratações, ainda que temporárias, ou for aberto novo concurso durante a validade do certame anterior e houver vagas existentes e necessidade de contratação, entende-se que ocorre a</span> <span style="color: #d79921">preterição</span> <span style="color:#fb4934">de candidatos de forma arbitrária e imotivada por parte da administração</span>.
 
@@ -147,7 +150,7 @@ Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve 
 
 - Não pode o candidato que estiver respondendo a inquérito policial ou ação penal ser eliminado do certame. Lembre-se que só é considerado culpado com o trânsito em julgado da ação penal condenatória.
 
-**STF** - “é constitucional a remarcação do teste de aptidão física de candidata que esteja grávida à época de sua realização, independentemente da previsão expressa em edital do concurso público”.
+> **STF** - “é constitucional a remarcação do teste de aptidão física de candidata que esteja grávida à época de sua realização, independentemente da previsão expressa em edital do concurso público”.
 
 Pode haver provas em horários diferentes - escusa de consciência por motivo de crença religiosa.
 
@@ -155,11 +158,11 @@ O edital do concurso poderá ser alterado **APENAS** para corrigir erro material
 
 Apenas haverá controle judicial em questões do certame para retificar conteúdo não previsto no edital, mas **NÃO** para analisar critérios de correção ou avaliação da banca examinadora.
 
-**STJ** - candidato nomeados após um longo período de tempo, **NÃO** têm direito à indenização pelo prazo em que não trabalhou.
+> **STJ** - candidato nomeados após um longo período de tempo, **NÃO** têm direito à indenização pelo prazo em que não trabalhou.
 
-**STF** - deve haver primeiro um concurso de remoção dos servidores públicos, para então, nomear novos candidatos.
+> **STF** - deve haver primeiro um concurso de remoção dos servidores públicos, para então, nomear novos candidatos.
 
-**STF** - a cláusula de barreira e as cláusulas eliminatórias são constitucionais.
+> **STF** - a cláusula de barreira e as cláusulas eliminatórias são constitucionais.
 
 Lei definirá percentual previsto para reservar vagas para os **portadores de deficiência**, assim como os critérios de admissão.
 
@@ -178,7 +181,7 @@ Apenas por lei poderá ser exigida a realização do exame psicotécnico em conc
 
 ![[Cargo em comissão x função de confiança.png|1120]]
 
-- Nepotismo
+- Vedação ao Nepotismo
 
 **Súmula Vinculante 13:** Também há vedação à **nomeação cruzada.**
 
