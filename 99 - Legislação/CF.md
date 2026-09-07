@@ -1423,8 +1423,8 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 - **<u><span style="color:#b8bb26">PROVOCADA</span></u>** **<span style="color: #d79921">União</span> >>** **<span style="color:#d3869b"><u>Estados</u></span>**
 	- **Assegurar os** **<span style="color:#b8bb26">Princípios Sensíveis</span>** **(ensino, saúde, autonomia, direitos, forma rep...)**
 	- **Garantir o** **<span style="color:#b8bb26">livre exercício</span>** **de qualquer dos Poderes, DEPENDE:**
-	- **De** **==solicitação==** **do Poder Legislativo ou do Poder Executivo coacto ou impedido;**
-	- **De** **==requisição==** **do STF se a coação for contra o Poder Judiciário.**
+		- **De** **==solicitação==** **do Poder Legislativo ou do Poder Executivo coacto ou impedido;**
+		- **De** **==requisição==** **do STF se a coação for contra o Poder Judiciário.**
 	- **Promover** **a execução de** **lei federal ou decisão judicial**
 
 **==Atenção==**: No caso de **desobediência de decisão judicial** - **<span style="color:#fb4934">depende</span>** **<u>requisição</u> do STF, STJ ou TSE.**
