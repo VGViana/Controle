@@ -753,9 +753,25 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* § 2° Os Territórios Federais integram a União, e sua criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei complementar. ^4b5bae5
 
-	* § 3° Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar. ^697a4dd
+	* § 3° Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, <span style="color:#83a598">mediante aprovação da população diretamente interessada</span>, <span style="color:#fb4934">através de plebiscito</span>, e do <span style="color:#d3869b">Congresso Nacional, por lei complementar.</span> ^697a4dd
 
+**<u>Formação dos Estados</u>**	
+- **Requisitos**
+	- consulta às populações diretamente interessadas - **<span style="color:#83a598">plebiscito</span>**
+	- Oitiva das Assembleias Legislativas referentes aos Estados interessados
+	- Lei Complementar pelo <u>CONGRESSO NACIONAL</u>
+	---
+	
 	* § 4° A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. (Redação dada pela Emenda Constitucional n° 15, de 1996) Vide art. 96 - ADCT ^76b0140
+
+**<u>**Formação dos Municípios**</u>**
+- **Requisitos**
+	- Far-se-á por Lei <u>Estadual</u>
+	- Dentro do **<span style="color:#fb4934">período</span>** determinado por Lei Complementar **<span style="color:#fb4934">Federal</span>**
+	- Estudo de Viabilidade Municipal
+	- Consulta prévia - plebiscito
+
+---
 
 * Art. 19. É vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ^b8fe562
 
@@ -772,29 +788,56 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* I - os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos; ^324221a
 
-	* II - as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções militares, das vias federais de comunicação e à preservação ambiental, definidas em lei; ^b30ce1c
+	* II - as **terras devolutas indispensáveis à defesa** das fronteiras, das fortificações e construções militares, das vias federais de comunicação e à preservação ambiental, definidas em lei; ^b30ce1c
 
-	* III - os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem mais de um Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham, bem como os terrenos marginais e as praias fluviais; ^58ad717
+	* III - os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que **banhem mais de um Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham**, bem como os terrenos marginais e as praias fluviais; ^58ad717
 
-	* IV as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a sede de Municípios, exceto aquelas áreas afetadas ao serviço público e a unidade ambiental federal, e as referidas no art. [[#^e0d9bc8|26]], [[#^0ba22ef|II]]; (Redação dada pela Emenda Constitucional n° 46, de 2005) ^db67652
+	* IV as ilhas fluviais e lacustres nas **zonas limítrofes com outros países**; as praias marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a sede de Municípios, exceto aquelas **áreas afetadas ao serviço público e a unidade ambiental federal, e as referidas no art. [[#^e0d9bc8|26]], [[#^0ba22ef|II]];** (Redação dada pela Emenda Constitucional n° 46, de 2005) ^db67652
 
-	* V - os recursos naturais da plataforma continental e da zona econômica exclusiva; ^c18d8f6
+	* V - os **recursos naturais** da plataforma continental e da zona econômica exclusiva; ^c18d8f6
 
-	* VI - o mar territorial; ^cdafbb0
+	* VI - o mar **territorial**; ^cdafbb0
 
 	* VII - os terrenos de marinha e seus acrescidos; ^aeb129d
 
-	* VIII - os potenciais de energia hidráulica; ^9976b5c
+	* VIII - os potenciais de energia **hidráulica**; ^9976b5c
 
-	* IX - os recursos minerais, inclusive os do subsolo; ^11c907f
+	* IX - os **recursos minerais, inclusive os do subsolo**; ^11c907f
 
-	* X - as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos; ^ac1262c
+	* X - as cavidades **naturais** subterrâneas e os sítios **arqueológicos e pré-históricos**; ^ac1262c
 
-	* XI - as terras tradicionalmente ocupadas pelos índios. ^38b61e0
+	* XI - as terras tradicionalmente ocupadas pelos **índios**. ^38b61e0
+---
+<u>**Bens dos Estados**</u>
 
-	* § 1° É assegurada, nos termos da lei, à União, aos Estados, ao Distrito Federal e aos Municípios a participação no resultado da exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica e de outros recursos minerais no respectivo território, plataforma continental, mar territorial ou zona econômica exclusiva, ou compensação financeira por essa exploração. (Redação dada pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^10761bc
+- **Terras Devolutas:**
+	- **Regra** -> **Estados**
+	- **<span style="color:#fb4934">Exceção ></span>** **União**, se **indispensáveis**: à **defesa** das fronteiras, fortificações e construções militares ou vias federais; ou à **preservação ambiental**
 
-	* § 2° A faixa de até cento e cinqüenta quilômetros de largura, ao longo das fronteiras terrestres, designada como faixa de fronteira, é considerada fundamental para defesa do território nacional, e sua ocupação e utilização serão reguladas em lei. ^92743a7
+- **Ilhas fluviais e lacustres:**
+	- **Regra > Estados**
+	- **<span style="color:#fb4934">Exceção ></span>** **União**, se fizer limite com outros países  
+    
+- **Águas superficiais ou subterrâneas, fluentes, emergentes e em depósito:**
+	- **Regra > Estados - quando inteiramente contidas no território do Estado**
+	- **<span style="color:#fb4934">Exceção ></span>** **União**, se na forma da lei, decorrerem de **obras da União**  
+      
+    
+- **Lagos, rios e demais águas correntes:**
+	- **Regra >** **Estados**
+	- **<span style="color:#fb4934">Exceção -></span>** **União** se: banhar mais de um Estado; fizerem limite com países ou se deles provierem ou se estenderem; também o são os **terrenos marginais** destes e **as praias fluviais**.
+
+- **Ilhas costeiras e oceânicas:**
+	- **Estados ->** Quando estiverem em seu domínio
+
+**<u>**Bens dos Municípios**</u>**
+
+- **Ilhas costeiras e oceânicas:**
+	- **Municípios ->** Quando for **SEDE** do Município, **salvo** se for afetada por serviço público ou unidade ambiental federal (nestes casos será da **União**)
+---
+* § 1° É assegurada, nos termos da lei, à União, aos Estados, ao Distrito Federal e aos Municípios a participação no resultado da exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica e de outros recursos minerais no respectivo território, plataforma continental, mar territorial ou zona econômica exclusiva, ou compensação financeira por essa exploração. (Redação dada pela Emenda Constitucional n° 102, de 2019) (Produção de efeito) ^10761bc
+
+* § 2° A faixa de até cento e cinqüenta quilômetros de largura, ao longo das fronteiras terrestres, designada como faixa de fronteira, é considerada fundamental para defesa do território nacional, e sua ocupação e utilização serão reguladas em lei. ^92743a7
 
 * Art. 21. Compete à União: ^41903be
 
