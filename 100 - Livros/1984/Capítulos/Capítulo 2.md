@@ -1,0 +1,1 @@
+As crianças são ensinadas desde pequenas a seguir a doutrina 
