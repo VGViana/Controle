@@ -913,30 +913,6 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* XXVI - organizar e fiscalizar a **proteção e o tratamento de dados** **pessoais**, nos termos da lei. (Incluído pela Emenda Constitucional n° 115, de 2022) ^0ff94d3
 
----
-- **<u>Competências Privativa</u> da** **<span style="color:#fe8019">União</span>**
-	- **👮<span style="color:#fe8019">CAPACETE de PM (é privativo)</span>**
-	- **C: D. Civil: relações comerciais**
-	- **A: D. Aeronáutico**
-	- **P: D. Penal** **<span style="color:#b8bb26">(penitenciário = concorrente)</span>**
-	- **A: D. Agrário**
-	- **C: D. Comercial - empresarial**
-	- **E: D. Eleitoral**
-	- **T:** **D. Trabalho**
-	- **E: D. Espacial**
-	- **P: D. Processual** **<span style="color:#b8bb26">(PROCEDIMENTOS é concorrente)</span>**
-	- **M: D. Marítimo**
-	- Tudo relacionado a estabelecer **diretrizes**, **bases**, **normas gerais**, etc
-	- **Trânsito** **e** **transporte**
-	- **Águas**, **energia**, **informática**, **telecomunicações**
-	- **Propaganda comercial**
-	- **Serviço postal**
-
-**Cancelamento de multas de trânsito anotadas em rodovias estaduais em certo período relativas a determinada espécie de veículo. Inconstitucionalidade formal. Violação da competência privativa da União para legislar sobre trânsito e transporte**
-
-> _Súmula Vinculante 46: A_ **_definição_** _dos_ **_crimes de responsabilidade_** **_e_** _o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa_ **_privativa da União_**_._
-
----
 * Art. 22. Compete privativamente à União legislar sobre: ^1687197
 
 	* I - direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho; ^f6664dd
@@ -1001,7 +977,36 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo. ^5d85618
 
-* Art. 23. É competência comum da União, dos Estados, do Distrito Federal e dos Municípios: ^382bb16
+---
+- **<u>Competências Privativa</u> da** **<span style="color:#fe8019">União</span>**
+	- **👮<span style="color:#fe8019">CAPACETE de PM (é privativo)</span>**
+	- **C: D. Civil: relações comerciais**
+	- **A: D. Aeronáutico**
+	- **P: D. Penal** **<span style="color:#b8bb26">(penitenciário = concorrente)</span>**
+	- **A: D. Agrário**
+	- **C: D. Comercial - empresarial**
+	- **E: D. Eleitoral**
+	- **T:** **D. Trabalho**
+	- **E: D. Espacial**
+	- **P: D. Processual** **<span style="color:#b8bb26">(PROCEDIMENTOS é concorrente)</span>**
+	- **M: D. Marítimo**
+	- Tudo relacionado a estabelecer **diretrizes**, **bases**, **normas gerais**, etc
+	- **Trânsito** **e** **transporte**
+	- **Águas**, **energia**, **informática**, **telecomunicações**
+	- **Propaganda comercial**
+	- **Serviço postal**
+
+**Cancelamento de multas de trânsito anotadas em rodovias estaduais em certo período relativas a determinada espécie de veículo. Inconstitucionalidade formal. Violação da competência privativa da União para legislar sobre trânsito e transporte**
+
+> _Súmula Vinculante 46: A_ **_definição_** _dos_ **_crimes de responsabilidade_** **_e_** _o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa_ **_privativa da União_**_._
+
+Observe que a delegação de competência privativa da União aos Estados depende de:
+
+- Lei Complementar
+- Matéria Específica
+- Se houver delegação a um Estados, deve ser feita a todos os demais.
+---
+* Art. 23. É **competência comum** da União, dos Estados, do Distrito Federal e dos Municípios: ^382bb16
 
 	* I - zelar pela guarda da Constituição, das leis e das instituições democráticas e conservar o patrimônio público; ^57b7961
 
@@ -1025,9 +1030,16 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	* XI - registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e exploração de recursos hídricos e minerais em seus territórios; ^bc0b191
 
-	* XII - estabelecer e implantar política de educação para a segurança do trânsito. ^a05ad14
+	* XII - estabelecer e implantar <span style="color:#fb4934">política de educação para a segurança do trânsito.</span> ^a05ad14
 
 	* Parágrafo único. Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional. (Redação dada pela Emenda Constitucional n° 53, de 2006) ^e98793c
+
+---
+- Verbos no **INFINITIVO: proteger, preservar, combater, impedir**, etc.
+- Cuidado que, apesar desses itens falarem em **recursos hídricos e minerais** e **trânsito**, não são competência somente da União:
+- **Registrar**, **acompanhar** e **fiscalizar** as concessões de direitos de pesquisa e exploração de **recursos hídricos e minerais** em seus territórios;
+- **Estabelecer** e **implantar** política de educação para a segurança no **trânsito**.
+---
 
 * Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre: ^4c71af5
 
