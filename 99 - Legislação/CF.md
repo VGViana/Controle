@@ -1121,8 +1121,6 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 	* § 3° Os Estados poderão, mediante **lei complementar**, instituir **regiões metropolitanas**, aglomerações urbanas e microrregiões, constituídas por agrupamentos de **municípios limítrofes**, para integrar a organização, o planejamento e a **execução de funções públicas de interesse comum.** ^d54cf77
 
----
-
 * Art. 26. Incluem-se entre os bens dos Estados: ^e0d9bc8
 
 	* I - as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas, neste caso, na forma da lei, as decorrentes de obras da União; ^7f0747a
