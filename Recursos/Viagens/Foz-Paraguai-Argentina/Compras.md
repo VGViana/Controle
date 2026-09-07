@@ -8,43 +8,31 @@
 | ---------- | ------------- | ------------------------------------------ | -----------: | --------------: | ----------------------------- |
 | 1          | PS5           | Sony PS5 Slim Digital CFI-2115B 825 GB     |      US$ 629 |   **≤ US$ 500** | Comprar se atingir alvo       |
 | 2          | Mouse         | Keychron M6 Silent 1K                      |       US$ 59 |    **≤ US$ 50** | Comprar se atingir alvo       |
-| 3          | Hub           | UGREEN 10-in-1 15601                       |    US$ 39,50 |    **≤ US$ 35** | Comprar se atingir alvo       |
 | 4          | Luminária     | Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V |       US$ 28 |    **≤ US$ 33** | Comprar; excelente a ≤ US$ 30 |
-| 5          | Caixas de som | Edifier MR3                                |      ~US$ 79 | **≤ US$ 65–70** | Opcional                      |
-
-
-\*Preços são referências de acompanhamento em 07/09/2026 e podem mudar.
-
-**Regra:** o carrinho é um radar de preços. Não comprar simplesmente porque o produto está na lista.
-
----
 
 # 2. Carrinho atual
 
 1. [PS5 Digital Slim CFI-2115B 825 GB — Compras Paraguai](https://www.comprasparaguai.com.br/console-sony-playstation-5-digital-slim-cfi-2115b-4k-825-gb-branco-eua__5151472/)
 2. [Keychron M6 Silent 1K — Compras Paraguai](https://www.comprasparaguai.com.br/mouse-sem-fio-keychron-m6-silent-1k-preto__5130973/)
-3. [UGREEN 10-in-1 15601 — Compras Paraguai](https://www.comprasparaguai.com.br/hub-usb-c-10-in-1-ugreen-3usb-a-30hdmi4k30hzvgaethernetsdtf35mmusb-c-pd-15601__4411304/)
-4. [Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V — Compras Paraguai](https://www.comprasparaguai.com.br/lampada-led-smart-xiaomi-mi-desk-lamp-1s-mjtd01syl-220v-branco__4454066/)
+3. [Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V — Compras Paraguai](https://www.comprasparaguai.com.br/lampada-led-smart-xiaomi-mi-desk-lamp-1s-mjtd01syl-220v-branco__4454066/)
 
 ### Total atual
 
 - PS5: US$ 629
 - M6: US$ 59
-- UGREEN: US$ 39,50
 - Xiaomi 1S: US$ 28
-- **Subtotal: US$ 755,50**
+- **Subtotal: US$ 721**
 
 Se todos fossem comprados nesses preços e todos fossem considerados tributáveis:
 
 - Cota terrestre: US$ 500
-- Excedente: US$ 255,50
-- Imposto: US$ 127,75
-- **Custo total estimado: US$ 883,25**
+- Excedente: US$ 221
+- Imposto: US$ 110,5
+- **Custo total estimado: US$ 831,5**
 
 Não usar esse valor como previsão definitiva: o câmbio usado pela Receita é o aplicável à declaração, e a classificação de cada bem deve seguir as regras da Receita.
 
 ---
-
 # 3. Datas
 
 ## Black Friday Ciudad del Este 2026
