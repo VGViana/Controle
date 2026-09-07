@@ -4,14 +4,14 @@
 
 ### Lista principal
 
-| Prioridade | Produto         | Modelo                                     | Preço atual* |               Preço-alvo | Decisão                                      |
-| ---------- | --------------- | ------------------------------------------ | -----------: | -----------------------: | -------------------------------------------- |
-| 1          | PS5             | Sony PS5 Slim Digital CFI-2115B 825 GB     |      US$ 629 |            **≤ US$ 500** | Comprar se atingir alvo                      |
-| 2          | Mouse           | Keychron M6 Silent 1K                      |       US$ 59 |             **≤ US$ 50** | Comprar se atingir alvo                      |
-| 3          | Hub             | UGREEN 10-in-1 15601                       |    US$ 39,50 |             **≤ US$ 35** | Comprar se atingir alvo                      |
-| 4          | Luminária       | Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V |       US$ 28 |             **≤ US$ 33** | Comprar; excelente a ≤ US$ 30                |
-| —          | SSD M.2 PS5     | 1–2 TB                                     |            — | **Ver seção específica** | Melhor expansão que SSD externo              |
-| —          | Caixas de som   | Edifier MR3 ou equivalente                 |      ~US$ 79 |          **≤ US$ 65–70** | Opcional                                     |
+| Prioridade | Produto       | Modelo                                     | Preço atual* |               Preço-alvo | Decisão                         |
+| ---------- | ------------- | ------------------------------------------ | -----------: | -----------------------: | ------------------------------- |
+| 1          | PS5           | Sony PS5 Slim Digital CFI-2115B 825 GB     |      US$ 629 |            **≤ US$ 500** | Comprar se atingir alvo         |
+| 2          | Mouse         | Keychron M6 Silent 1K                      |       US$ 59 |             **≤ US$ 50** | Comprar se atingir alvo         |
+| 3          | Hub           | UGREEN 10-in-1 15601                       |    US$ 39,50 |             **≤ US$ 35** | Comprar se atingir alvo         |
+| 4          | Luminária     | Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V |       US$ 28 |             **≤ US$ 33** | Comprar; excelente a ≤ US$ 30   |
+| —          | SSD M.2 PS5   | 1–2 TB                                     |            — | **Ver seção específica** | Melhor expansão que SSD externo |
+| —          | Caixas de som | Edifier MR3                                |      ~US$ 79 |          **≤ US$ 65–70** | Opcional                        |
 
 
 \*Preços são referências de acompanhamento em 07/09/2026 e podem mudar.
@@ -910,46 +910,3 @@ Antes de comprar qualquer produto novo no Paraguai, responder:
 Se qualquer resposta importante for "não":
 
 > **NÃO COMPRAR.**
-
----
-
-# 30. Estado final desejado
-
-O melhor resultado da viagem não é voltar com muitas sacolas.
-
-É voltar com:
-
-- PS5 muito mais barato que no Brasil;
-- mouse excelente;
-- hub útil;
-- iluminação inteligente;
-- nenhum produto inútil;
-- nenhum upgrade desnecessário;
-- orçamento controlado;
-- documentação/garantia dos produtos;
-- imposto corretamente considerado.
-
-**Objetivo: poucas compras, todas boas.**
-
----
-
-## Fontes principais
-
-- Receita Federal — cota e isenções:
-  https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/viagens-internacionais/guia-do-viajante/entrada-no-brasil/cota-de-isencao-duty-free-e-bagagem-tributavel
-- Receita Federal — cálculo do imposto:
-  https://www.gov.br/receitafederal/simples/pt-br/assuntos/aduana-e-comercio-exterior/viagens-internacionais/guia-do-viajante/entrada-no-brasil/bens-a-declarar-tributacao-e-calculo-do-imposto
-- Black Friday CDE 2026:
-  https://ccyscde.org.py/2026/07/24/black-friday-ciudad-del-este-2026-inicia-una-nueva-etapa-para-impulsar-el-comercio-el-turismo-y-el-desarrollo-regional/
-- Lenovo IdeaPad 3 15ALC6 PSREF:
-  https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_3_15ALC6/IdeaPad_3_15ALC6_Spec.html
-- PlayStation — armazenamento USB:
-  https://www.playstation.com/pt-br/support/hardware/ps5-extended-storage/
-- PlayStation — SSD M.2:
-  https://www.playstation.com/pt-br/support/hardware/ps5-install-m2-ssd/
-- Asahi Linux:
-  https://asahilinux.org/
-- Fedora Asahi Remix:
-  https://asahilinux.org/fedora/
-- Compras Paraguai:
-  https://www.comprasparaguai.com.br/
