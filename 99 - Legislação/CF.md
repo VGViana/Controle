@@ -1115,11 +1115,13 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 * Art. 25. Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição. ^2412c38
 
-	* § 1° São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição. ^3c6038c
+	* § 1° São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição.**(Competência residual)** ^3c6038c
 
-	* § 2° Cabe aos Estados explorar diretamente, ou mediante concessão, os serviços locais de gás canalizado, na forma da lei, vedada a edição de medida provisória para a sua regulamentação. (Redação dada pela Emenda Constitucional n° 5, de 1995) ^5446467
+	* § 2° Cabe aos Estados explorar diretamente, ou mediante **<span style="color:#83a598">concessão</span>**, os **<span style="color:#83a598">serviços locais de gás canalizado</span>**, na forma da lei, <u>**<span style="color:#fb4934">vedada a edição de medida provisória para a sua regulamentação.</span>**</u> (Redação dada pela Emenda Constitucional n° 5, de 1995) ^5446467
 
-	* § 3° Os Estados poderão, mediante lei complementar, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum. ^d54cf77
+	* § 3° Os Estados poderão, mediante **lei complementar**, instituir **regiões metropolitanas**, aglomerações urbanas e microrregiões, constituídas por agrupamentos de **municípios limítrofes**, para integrar a organização, o planejamento e a **execução de funções públicas de interesse comum.** ^d54cf77
+
+---
 
 * Art. 26. Incluem-se entre os bens dos Estados: ^e0d9bc8
 
