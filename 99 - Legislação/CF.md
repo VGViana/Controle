@@ -990,7 +990,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 	- **E: D. Espacial**
 	- **P: D. Processual** **<span style="color:#b8bb26">(PROCEDIMENTOS é concorrente)</span>**
 	- **M: D. Marítimo**
-	- Tudo relacionado a estabelecer **diretrizes**, **bases**, **normas gerais**, etc
+- Tudo relacionado a estabelecer **diretrizes**, **bases**, **normas gerais**, etc
 	- **Trânsito** **e** **transporte**
 	- **Águas**, **energia**, **informática**, **telecomunicações**
 	- **Propaganda comercial**
