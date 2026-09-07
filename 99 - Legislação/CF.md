@@ -1083,6 +1083,33 @@ Observe que a delegação de competência privativa da União aos Estados depend
 
 	* § 4° A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário. (Vide Lei n° 13.874, de 2019) ^e1f5c3e
 
+---
+**<u>Competências legislativas concorrentes</u>**
+
+-  **Tri - Fi - Penit - Ec - Ur = CONCORRENTE**
+
+- **Financeiro**
+- **Econômico, Orçamento**
+- **Urbanístico**
+- **Tributário**
+- **Penitenciário**
+- **Produção** e **Consumo**
+- **Proteção à infância** e à **juventude**
+- Compete à **União**, aos **Estados** e ao Distrito Federal **legislar concorrentemente** X,Y,Z...
+- **limitando-se a União a estabelecer normas gerais**
+- **e cabendo aos Estados exercer competência suplementar.**
+
+**CUIDADO:**
+
+Definição do **tempo máximo de espera** de clientes em filas de **instituições** **bancárias** é competência dos **Municípios**.
+
+> **STJ Súmula 19**: _A fixação do_ **_horário bancário_**_, para atendimento ao público, é da competência da_ **_União_**.
+
+> **STF** **Súmula 646**: **_Ofende_** _o princípio da livre concorrência_ **_lei municipal_** _que_ **_impede a instalação_** _de estabelecimentos comerciais do_ **_mesmo ramo em determinada área_**_._
+
+> **STF**: É **inconstitucional lei municipal** que, na **competência legislativa concorrente**, utilize-se do argumento do interesse local para **restringir ou ampliar** as determinações contidas em texto normativo de âmbito nacional
+
+---
 ## 3.3. CAPÍTULO III - DOS ESTADOS FEDERADOS (ARTS. 25 A 28)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.3. CAPÍTULO III - DOS ESTADOS FEDERADOS (ARTS. 25 A 28)|Resumo]]
 
