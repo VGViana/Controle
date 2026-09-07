@@ -1088,16 +1088,16 @@ Observe que a delegação de competência privativa da União aos Estados depend
 
 -  **Tri - Fi - Penit - Ec - Ur = CONCORRENTE**
 
-- **Financeiro**
-- **Econômico, Orçamento**
-- **Urbanístico**
-- **Tributário**
-- **Penitenciário**
-- **Produção** e **Consumo**
-- **Proteção à infância** e à **juventude**
+	- **Financeiro**
+	- **Econômico, Orçamento**
+	- **Urbanístico**
+	- **Tributário**
+	- **Penitenciário**
+	- **Produção** e **Consumo**
+	- **Proteção à infância** e à **juventude**
 - Compete à **União**, aos **Estados** e ao Distrito Federal **legislar concorrentemente** X,Y,Z...
-- **limitando-se a União a estabelecer normas gerais**
-- **e cabendo aos Estados exercer competência suplementar.**
+	- **limitando-se a União a estabelecer normas gerais**
+	- **e cabendo aos Estados exercer competência suplementar.**
 
 **CUIDADO:**
 
