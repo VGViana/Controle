@@ -57,7 +57,7 @@ Regime Jurídico-Administrativo - **apenas normas de direito público** que rege
 
 # **3. Princípios Explícitos da Administração Pública**
 
-- **Previstos na CF/88:** **DECORE!**
+- **Previstos na [[CF]]/88:** **DECORE!**
 - <span style="color:#83a598">Legalidade</span>
 - <span style="color:#83a598">Impessoalidade</span>
 - <span style="color:#83a598">Moralidade</span>
@@ -75,13 +75,13 @@ Regime Jurídico-Administrativo - **apenas normas de direito público** que rege
 - Sentido Restrito - finalidade específica
 - <u>Vedação à promoção especial</u>:
 
-_Art. 37, § 1º, CF/88 - A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos._
+_Art. 37, § 1º, [[CF]]/88 - A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos._
 
 - <u>Isonomia</u> - concurso público
 - <u>Os atos praticados pelo servidor público são imputados ao órgão ou entidade pública.
 	- </u> Responsabilidade objetiva da Administração Pública.
 
-_Art. 37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa._
+_Art. 37, § 6º, [[CF]]/88 - As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa._
 
 ## **3.3 Moralidade** 
 
@@ -102,7 +102,7 @@ Saiba que: o direito de petição é um dos instrumentos para a concretização 
 
 # **4. Princípios Implícitos da Administração Pública**
 
-- Não foram previstos na CF/88:
+- Não foram previstos na [[CF]]/88:
     - Controle judicial dos atos administrativos - **<span style="color:#fe8019">sindicabilidade</span> -** <span style="color:#fb4934">todo [[6. Atos Administrativos|ato administrativo]] pode se submeter a algum tipo de controle.</span> 
     - Princípio da autotutela
     - Presunção da segurança jurídica
@@ -112,7 +112,7 @@ Saiba que: o direito de petição é um dos instrumentos para a concretização 
 
 # **Agentes Públicos**
 
-- _Art. 37, I, CF/88 - os cargos, empregos e funções públicas são acessíveis aos_ **_brasileiros_** _que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei;_
+- _Art. 37, I, [[CF]]/88 - os cargos, empregos e funções públicas são acessíveis aos_ **_brasileiros_** _que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei;_
 
 > Súmula Vinculante nº 44 (STF): "Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
 
@@ -130,7 +130,7 @@ Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve 
 
 # **5. Concurso Público**
 
-> _Art. 37, II, CF/88 - a investidura em cargo ou emprego público depende de_ **_aprovação prévia em concurso público de provas ou de provas e títulos_**_, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para_ **_cargo em comissão declarado em lei de livre nomeação e exoneração_**_;_ 
+> _Art. 37, II, [[CF]]/88 - a investidura em cargo ou emprego público depende de_ **_aprovação prévia em concurso público de provas ou de provas e títulos_**_, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para_ **_cargo em comissão declarado em lei de livre nomeação e exoneração_**_;_ 
 
 > Súmula Vinculante nº 43, que diz: “é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, **sem prévia aprovação em concurso público** destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido”.
 
@@ -197,7 +197,7 @@ Ainda não houve a edição da lei específica que rege o direito de greve aos s
 - Será aplicada a lei de greve referente aos trabalhadores privados;
 - Não pode haver direito de greve aos trabalhadores da área de segurança pública;
 - Poderá haver desconto na remuneração dos servidores durante os dias de greve, exceto se a greve for causada por ato ilícito do Poder Público, como atraso no pagamento das remunerações dos servidores públicos.
-- _A CF proíbe a greve pelos militares e a sindicalização._
+- _A [[CF]] proíbe a greve pelos militares e a sindicalização._
 
 # **8. Direitos Sociais**
 
@@ -216,7 +216,7 @@ Ainda não houve a edição da lei específica que rege o direito de greve aos s
 
 # **9. Remuneração dos Servidores Públicos**
 
-> _Art. 37, X, CF/88 - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;_
+> _Art. 37, X, [[CF]]/88 - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;_
 
 - Subsídio x Vencimento x Salário
 
@@ -228,11 +228,11 @@ Ainda não houve a edição da lei específica que rege o direito de greve aos s
 
 REMUNERAÇÃO = VENCIMENTOS + VANTAGENS (indenizações, gratificações e adicionais)
 
-> _Art. 37, § 9º, CF/88. É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo._
+> _Art. 37, § 9º, [[CF]]/88. É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo._
 
 **ATENÇÃO**!
 
-> Art. 37, XI, CF/88, estabelece o teto remuneratório no âmbito de cada poder:
+> Art. 37, XI, [[CF]]/88, estabelece o teto remuneratório no âmbito de cada poder:
 
 ![[Tetos remuneratórios.png]]
 
@@ -242,7 +242,7 @@ Empregados Públicos - apenas há limites ao teto de vencimento quando referente
 
 **Atenção**!
 
-> _Art. 37, XII, CF/88. - os vencimentos dos cargos do Poder Legislativo e do [[Poder Judiciário]] não poderão ser superiores aos pagos pelo [[Poder Executivo]];_
+> _Art. 37, XII, [[CF]]/88. - os vencimentos dos cargos do Poder Legislativo e do [[Poder Judiciário]] não poderão ser superiores aos pagos pelo [[Poder Executivo]];_
 
 - Não pode haver vinculação ou equiparação de remuneração - "aumentos em cascata"
 
@@ -250,7 +250,7 @@ Empregados Públicos - apenas há limites ao teto de vencimento quando referente
 
 > **Súmula Vinculante nº 42, do STF**: “É **inconstitucional** a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária.”
 
-> Art.37, XV, CF/88. - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I; - Fato que não impede a incidência tributária sob a remuneração.
+> Art.37, XV, [[CF]]/88. - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I; - Fato que não impede a incidência tributária sob a remuneração.
 
 > Art. 37 (...) 
 § 11. **Não serão computadas**, para efeito dos limites remuneratórios de que trata o inciso XI do caput deste artigo, as **parcelas de caráter indenizatório** expressamente previstas em **<span style="color:#83a598">lei ordinária</span>, <span style="color:#fe8019">aprovada pelo Congresso Nacional</span>, <span style="color:#fb4934">de caráter nacional</span>, aplicada a todos os Poderes e órgãos constitucionalmente autônomos**.
@@ -284,13 +284,13 @@ Ainda, a vedação acima se aplica às aposentadorias custeadas pelo RPPS, mas n
 
 Assim, podemos citar outras hipóteses de acumulação, quais sejam:
 
-a) <span style="color:#fe8019">vereador</span> poderá exercer também o seu cargo, emprego ou função, quando houver compatibilidade de horários (CF, art. 38, III);
+a) <span style="color:#fe8019">vereador</span> poderá exercer também o seu cargo, emprego ou função, quando houver compatibilidade de horários ([[CF]], art. 38, III);
 
-b) <span style="color:#fe8019">juízes</span> podem exercer um cargo ou função no magistério (professor) (CF, art. 95, parágrafo único, I);
+b) <span style="color:#fe8019">juízes</span> podem exercer um cargo ou função no magistério (professor) ([[CF]], art. 95, parágrafo único, I);
 
-c) <span style="color:#fe8019">membros do Ministério Público</span> (promotores e procuradores de Justiça) podem exercer uma função de magistério (CF, art. 125, § 5º, II, “d”);
+c) <span style="color:#fe8019">membros do Ministério Público</span> (promotores e procuradores de Justiça) podem exercer uma função de magistério ([[CF]], art. 125, § 5º, II, “d”);
 
-d) <span style="color:#fe8019">profissionais de saúde das Forças Armadas</span> podem outro cargo ou emprego privativo de profissionais de saúde, com profissões regulamentadas. Essa acumulação ocorrerá “na forma da lei e com prevalência da atividade militar” (CF, art. 142, VIII);
+d) <span style="color:#fe8019">profissionais de saúde das Forças Armadas</span> podem outro cargo ou emprego privativo de profissionais de saúde, com profissões regulamentadas. Essa acumulação ocorrerá “na forma da lei e com prevalência da atividade militar” ([[CF]], art. 142, VIII);
 
 e) <span style="color:#fe8019">militares dos estados e do Distrito Federal</span> se submetem as regras principais de acumulação dos servidores públicos (que listamos acima), com prevalência da atividade militar (Art. 42, § 3º).
 
@@ -347,7 +347,7 @@ Aplica-se aos **<span style="color:#83a598">SERVIDORES TITULARES DE CARGOS EFETI
 
 -É **vedado** a criação de novos Regimes Próprios de Previdência Social.
 
-> _Art. 40, CF/88. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá_ **<span style="color:#fe8019">_caráter contributivo e solidário_</span>**_, mediante_ **<span style="color:#83a598">_contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas,</span>_** _observados critérios que_
+> _Art. 40, [[CF]]/88. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá_ **<span style="color:#fe8019">_caráter contributivo e solidário_</span>**_, mediante_ **<span style="color:#83a598">_contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas,</span>_** _observados critérios que_
 
 _preservem o equilíbrio financeiro e atuarial._
 
@@ -369,12 +369,12 @@ No âmbito dos Estados, DF e Municípios - a idade será estabelecida nas Consti
 
 ## **Limites**
 
-> _Art. 40, § 2º, CF/88. Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § 2º do art. 201 ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, observado o disposto nos §§ 14 a 16._  
+> _Art. 40, § 2º, [[CF]]/88. Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § 2º do art. 201 ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, observado o disposto nos §§ 14 a 16._  
 
 - Não podem ser inferiores - salário mínimo
 - Não podem ser superiores - limite máximo estabelecido pelo RGPS
 
-> _Art. 40, § 4º, CF/88._ _É_ **_vedada_** _a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º- B, 4º-C e 5º._
+> _Art. 40, § 4º, [[CF]]/88._ _É_ **_vedada_** _a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º- B, 4º-C e 5º._
 
 **<span style="color:#fe8019">Exceto para</span>:**
 
@@ -397,7 +397,7 @@ No âmbito dos Estados, DF e Municípios - a idade será estabelecida nas Consti
 
 # **<u>14. Responsabilidade Civil do Estado</u>**
 
-> _Art.37, § 6º, CF/88 - As pessoas jurídicas de direito público e as de direito privado_ **_prestadoras de serviços públicos_** **<span style="color:#fe8019">_responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros_</span>**_, <u>assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.</u>_
+> _Art.37, § 6º, [[CF]]/88 - As pessoas jurídicas de direito público e as de direito privado_ **_prestadoras de serviços públicos_** **<span style="color:#fe8019">_responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros_</span>**_, <u>assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.</u>_
 
 <u>Pessoas Jurídicas</u>:
 
@@ -438,13 +438,13 @@ Há o **<span style="color:#83a598">direito de regresso do Estado</span>**, este
 
 - Prioridade dos recursos
 
-> _Art. 37, XXII, CF/88 - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão_ **_recursos prioritários para a realização de suas atividades e atuarão de forma integrada_**_, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio._
+> _Art. 37, XXII, [[CF]]/88 - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão_ **_recursos prioritários para a realização de suas atividades e atuarão de forma integrada_**_, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio._
 
 # **<u>Contrato de desempenho (contrato de gestão)</u>**
 
 - Princípio da Eficiência
 
-> _Art. 37, § 8º, CF/88. A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por_ **_objeto a fixação de metas de desempenho para o órgão ou entidade_**_, cabendo à lei dispor sobre:_
+> _Art. 37, § 8º, [[CF]]/88. A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por_ **_objeto a fixação de metas de desempenho para o órgão ou entidade_**_, cabendo à lei dispor sobre:_
 > - _I - o prazo de duração do contrato;_ 
 > - _II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos dirigentes;_ 
 > - _III - a remuneração do pessoal._
@@ -453,11 +453,11 @@ Há o **<span style="color:#83a598">direito de regresso do Estado</span>**, este
 
 - Princípio da Indisponibilidade do Interesse Público
 
-> _Art. 37, XXI, CF/88 - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações._
+> _Art. 37, XXI, [[CF]]/88 - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações._
 
 # **<u>Improbidade Administrativa</u>**
 
-> _Art. 37, § 4º, CF/88. Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível_.
+> _Art. 37, § 4º, [[CF]]/88. Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível_.
 
 - **Atos de Improbidade**
 	- Enriquecimento Ilícito
@@ -514,7 +514,7 @@ Há o **<span style="color:#83a598">direito de regresso do Estado</span>**, este
 
 ##  **<span style="color:#b8bb26">7. Estatuto dos Militares dos Estados – Regras Constitucionais</span>**
 
-- **CF, Art. 42** – Aplicabilidade de Regras Específicas
+- **[[CF]], Art. 42** – Aplicabilidade de Regras Específicas
 
 ## **<span style="color:#b8bb26">8.Elegibilidade de Militares (Art. 14, §8º)</span>**
 

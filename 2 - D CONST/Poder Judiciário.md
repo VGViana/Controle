@@ -2,7 +2,7 @@
 
 **<span style="color:#fb4934">DECORE</span>**!
 
-_Art. 92, CF/88. São órgãos do Poder Judiciário:_
+_Art. 92, [[CF]]/88. São órgãos do Poder Judiciário:_
 
 _I - o Supremo Tribunal Federal;_
 
@@ -65,17 +65,17 @@ Destaques:
 
 - Previsão constitucional de que constitui crime de responsabilidade do Presidente da República os atos que atentam contra o livre exercício do Poder Judiciário;
 - Vedação de que medida provisória ou lei delegada discipline as garantias dos magistrados;
-- Autonomia organizacional e administrativa - art.96, CF/88;
-- Autonomia financeira - Art.99, CF/88.
+- Autonomia organizacional e administrativa - art.96, [[CF]]/88;
+- Autonomia financeira - Art.99, [[CF]]/88.
 
 ⚠️Os tribunais elaboram suas **<span style="color:#fb4934">propostas orçamentárias</span>**, depois as enviam ao PR para encaminhar ao CN. Caso as propostas não sejam encaminhadas, o PR irá utilizar os valores da lei orçamentária anterior e fará os ajustes necessários.
 
-_Art. 99, § 5º, CF/88. Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais._ 
+_Art. 99, § 5º, [[CF]]/88. Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais._ 
 
 - Poder de vedar medidas provisórias ou leis delegadas que incidam sobre as garantias dos magistrados;
 - Criminalização de ações que coloquem em risco o exercício do Poder Judiciário - <span style="color:#fb4934">crimes de responsabilidade do PR.</span>
 
-_Art. 96, CF/88. Compete privativamente:_
+_Art. 96, [[CF]]/88. Compete privativamente:_
 
 _I - aos tribunais:_
 
@@ -105,7 +105,7 @@ _III - aos Tribunais de Justiça julgar os juízes estaduais e do Distrito Feder
 
 ## **2.4 Garantias dos juízes e Estatuto da Magistratura**
 
-🚨 Assunto de extrema importância! Fique ligado! **Art. 95, CF/88:**
+🚨 Assunto de extrema importância! Fique ligado! **Art. 95, [[CF]]/88:**
 
 - **<span style="color:#d3869b">Irredutibilidade</span>** de Subsídio
     - busca-se proteger a remuneração dos juízes contra qualquer tipo de retaliação do [[Poder Executivo]] ou do Poder Legislativo.
@@ -144,7 +144,7 @@ STF - É inconstitucional que normas estaduais <u>limitem a idade dos magistrado
 # **3. Estatuto da Magistratura**
 
 - Organiza o Poder Judiciário: deve ser estabelecido através de Lei Complementar, de iniciativa do STF.
-    - Até o momento, essa lei complementar não foi editada, motivo pelo qual o Estatuto da Magistratura é definido por uma lei complementar editada antes da CF/88: a Lei Complementar no 35/1979 (Lei Orgânica da Magistratura).
+    - Até o momento, essa lei complementar não foi editada, motivo pelo qual o Estatuto da Magistratura é definido por uma lei complementar editada antes da [[CF]]/88: a Lei Complementar no 35/1979 (Lei Orgânica da Magistratura).
 
 - ==Jurisprudências destacadas==:
     - É inconstitucional — por violar a competência da União para dispor sobre a magistratura brasileira — norma estadual que cria nova vantagem remuneratória (benefício de permanência em atividade) para os magistrados do Poder Judiciário local [ADI 2952/RJ, Rel. Min. Gilmar Mendes, julgamento virtual finalizado em 31.3.2023, às 23:59].  
@@ -223,11 +223,11 @@ CNJ - Indevidas as férias coletivas dos servidores do TJ.
 - **<span style="color:#fe8019">Órgão Especial - órgãos fracionários</span>**
 - Exercerá funções administrativas e jurisdicionais
 
-_Art. 93, XI, CF/88. - nos tribunais com_ **<span style="color:#fe8019">_número superior a vinte e cinco julgadores</span>,_** _poderá ser constituído_ _==órgão especial==,_ _com o_ **_mínimo de onze e o máximo de vinte e cinco membros_**_, para o_ _exercício das_ **_atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno_**_, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo tribunal pleno._
+_Art. 93, XI, [[CF]]/88. - nos tribunais com_ **<span style="color:#fe8019">_número superior a vinte e cinco julgadores</span>,_** _poderá ser constituído_ _==órgão especial==,_ _com o_ **_mínimo de onze e o máximo de vinte e cinco membros_**_, para o_ _exercício das_ **_atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno_**_, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo tribunal pleno._
 
 ## **3.9 Quinto Constitucional**
 
-_Art. 94, CF/88. Um quinto dos lugares dos_ **_<span style="color:#fe8019">Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal_</span>** _e Territórios será_ **_<span style="color:#b8bb26">composto de membros do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes.</span>_**
+_Art. 94, [[CF]]/88. Um quinto dos lugares dos_ **_<span style="color:#fe8019">Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal_</span>** _e Territórios será_ **_<span style="color:#b8bb26">composto de membros do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes.</span>_**
 
 _Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao [[Poder Executivo]], que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação._
 
@@ -255,11 +255,11 @@ _Parágrafo único. Recebidas as indicações, o tribunal formará lista trípli
 
 ## **3.10 Cláusula de reserva de plenário (ou “full bench”)**
 
-**ATENÇÃO**! Decore tanto o art. 97 da CF/88, como a súmula vinculante 10, ambos possuem alta incidência em provas.
+**ATENÇÃO**! Decore tanto o art. 97 da [[CF]]/88, como a súmula vinculante 10, ambos possuem alta incidência em provas.
 
-_Art. 97, CF/88. Somente pelo_ **_<span style="color:#d3869b">voto da maioria absoluta de seus membros</span>_** _ou dos membros do respectivo órgão especial poderão os tribunais_ **_<span style="color:#d3869b">declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.</span>_**
+_Art. 97, [[CF]]/88. Somente pelo_ **_<span style="color:#d3869b">voto da maioria absoluta de seus membros</span>_** _ou dos membros do respectivo órgão especial poderão os tribunais_ **_<span style="color:#d3869b">declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.</span>_**
 
-**⚠️<span style="color:#fe8019">Súmula Vinculante 10</span>** - Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
+**⚠️<span style="color:#fe8019">Súmula Vinculante 10</span>** - Viola a cláusula de reserva de plenário ([[CF]], artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
 
 Apenas pode declarar a Inconstitucionalidade por voto de **<span style="color:#fb4934">MAIORIA ABSOLUTA.</span>**
 
@@ -269,7 +269,7 @@ Apenas pode declarar a Inconstitucionalidade por voto de **<span style="color:#f
 
 Assunto com pouca incidência, leia o artigo abaixo:
 
-_Art. 98, CF/88. A União, no Distrito Federal e nos Territórios, e os Estados criarão:_
+_Art. 98, [[CF]]/88. A União, no Distrito Federal e nos Territórios, e os Estados criarão:_
 
 _I - juizados especiais, providos por juízes togados, ou togados e leigos, competentes para a conciliação, o julgamento e a execução de causas cíveis de menor complexidade e infrações penais de menor potencial ofensivo, mediante os procedimentos oral e sumariíssimo, permitidos, nas hipóteses previstas em lei, a transação e o julgamento de recursos por turmas de juízes de primeiro grau;_
 
@@ -368,7 +368,7 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 
 ## **5.2 Competências Originárias**
 
-- **<span style="color:#b8bb26">Competência para guardar a CF/88</span>;**
+- **<span style="color:#b8bb26">Competência para guardar a [[CF]]/88</span>;**
 - Ação de <span style="color:#83a598">inconstitucionalidade</span> de lei ou ato normativo **federal ou** **<span style="color:#fe8019"><u>estadual</u></span>;**
 - Ação de <span style="color:#83a598">constitucionalidade</span> de lei ou ato normativo **federal;**
 - Pedido de cautelar das ações de inconstitucionalidade.
@@ -442,9 +442,9 @@ _§ 2º As custas e emolumentos serão destinados exclusivamente ao custeio dos 
 
 ### **<span style="color:#b8bb26">RECURSO EXTRAORDINÁRIO</span>**
 
-- Contrariar a CF/88;
+- Contrariar a [[CF]]/88;
 - Declarar inconstitucionalidade de TRATADO ou LEI FEDERAL;
-- JULGAR VÁLIDA lei ou ato de governo local (lei estadual ou municipal) contra a CF/88;
+- JULGAR VÁLIDA lei ou ato de governo local (lei estadual ou municipal) contra a [[CF]]/88;
 - JULGAR VÁLIDA lei local contra lei federal.
 
 **Lei local contra lei federal**, deve seguir certos requisitos:
@@ -542,7 +542,7 @@ Funcionarão, junto ao STJ:
 - Entre <u>quaisquer Tribunais</u>;
 - Entre Tribunal e Juízes a ele não vinculados e entre Juízes vinculados a Tribunais diversos.
 
-A Emenda Constitucional nº 132/2023 incluiu na CF a alínea "j" do inciso I do artigo 105
+A Emenda Constitucional nº 132/2023 incluiu na [[CF]] a alínea "j" do inciso I do artigo 105
 > **os conflitos entre entes federativos, ou entre estes e o Comitê Gestor do Imposto sobre Bens e Serviços, relacionados aos tributos previstos nos arts. 156-A <span style="color:#fb4934">(Imposto sobre Bens e Serviços - IBS)</span> e 195, V <span style="color:#fb4934">(Contribuição sobre Bens e Serviços - CBS)</span>**
 ## **6.3 Competência Recursal**
 
@@ -568,7 +568,7 @@ A Emenda Constitucional nº 132/2023 incluiu na CF a alínea "j" do inciso I do 
 - Causas devem ter sido decididas (<span style="color:#fb4934">única ou última instância</span>) pelos TRFs ou TJs;
 - Deve demonstrar a <u>relevância das questões.</u>
 
-_Art. 105, § 3º, CF/88. Haverá a_ **_<span style="color:#fb4934">relevância</span>_** _de que trata o § 2º deste artigo nos seguintes casos:_
+_Art. 105, § 3º, [[CF]]/88. Haverá a_ **_<span style="color:#fb4934">relevância</span>_** _de que trata o § 2º deste artigo nos seguintes casos:_
 
 _I - ações penais;_
 
@@ -584,7 +584,7 @@ _VI - outras hipóteses previstas em lei._
 
 ⚠️ Apenas haverá **<span style="color:#fb4934">recusa</span>** por parte do STJ da relevância do recurso, caso haja manifestação por **<span style="color:#fb4934">2/3 dos seus membros.</span>**
 
-🚨**Novidade! A EC 132/2023 acrescentou ao inciso I, do art. 105 da CF a alínea:**
+🚨**Novidade! A EC 132/2023 acrescentou ao inciso I, do art. 105 da [[CF]] a alínea:**
 
 - **j) os conflitos entre entes federados, ou entre estes e o Comitê Gestor do Imposto sobre Bens e Serviços, relacionados aos tributos previstos nos arts. 156-A e 195, V;**
 
@@ -592,7 +592,7 @@ _VI - outras hipóteses previstas em lei._
 
 ⚠️Este inciso é cobrado mais de forma literal
 
-_Art. 109, § 5º, CF/88. Nas hipóteses de_ **_<span style="color:#fe8019">grave violação de direitos humanos</span>_**_, o <u>Procurador-Geral da República</u>, com a finalidade de assegurar o cumprimento de obrigações_ **_<span style="color:#83a598">decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte</span>_**_,_ _<u>poderá suscitar</u>, perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, <u>incidente de deslocamento de competência para a Justiça Federal.</u>_ 
+_Art. 109, § 5º, [[CF]]/88. Nas hipóteses de_ **_<span style="color:#fe8019">grave violação de direitos humanos</span>_**_, o <u>Procurador-Geral da República</u>, com a finalidade de assegurar o cumprimento de obrigações_ **_<span style="color:#83a598">decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte</span>_**_,_ _<u>poderá suscitar</u>, perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, <u>incidente de deslocamento de competência para a Justiça Federal.</u>_ 
 
 🚨**DECORE**:
 
@@ -675,7 +675,7 @@ _Art. 109, § 5º, CF/88. Nas hipóteses de_ **_<span style="color:#fe8019">grav
 
 **⚠️<span style="color:#fb4934">DECORE</span>**
 
-> _Art. 109, CF/88_ 
+> _Art. 109, [[CF]]/88_ 
 _§ 3º -_ **_<span style="color:#fe8019">Lei</span>_** _poderá autorizar que as causas de_ _<span style="color:#fe8019">competência da Justiça Federal</span>_ _em que forem parte_ **_<span style="color:#83a598"><u>instituição de previdência social e segurado</u></span>_** _<span style="color:#83a598">possam ser processadas e julgadas na justiça estadual</span>_ **_quando a comarca do domicílio do segurado não for sede de vara federal._**
 
 > _§ 4º - Na hipótese do_ _<span style="color:#fe8019">parágrafo anterior</span>, o_ **_recurso_** _cabível será sempre para o_ **_Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau._**
@@ -716,7 +716,7 @@ _§ 3º -_ **_<span style="color:#fe8019">Lei</span>_** _poderá autorizar que a
 
 **⚠️<span style="color:#fb4934">Decore</span>**:
 
-_Art. 111, § 3º, CF/88 Compete ao_ **_<u>Tribunal Superior do Trabalho</u>_** _<span style="color:#fe8019">processar e julgar</span>,_ **_originariamente_**_, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões._   
+_Art. 111, § 3º, [[CF]]/88 Compete ao_ **_<u>Tribunal Superior do Trabalho</u>_** _<span style="color:#fe8019">processar e julgar</span>,_ **_originariamente_**_, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões._   
 
 ## **8.2 Tribunais Regionais do Trabalho**
 
@@ -735,9 +735,9 @@ _Art. 111, § 3º, CF/88 Compete ao_ **_<u>Tribunal Superior do Trabalho</u>_**
 
 **⚠️<span style="color:#fb4934">Decore</span>**:
 
-_Art. 112, CF/88_  _Art. 112. A lei criará varas da Justiça do Trabalho, podendo, nas_ **_<u>comarcas não abrangidas por sua jurisdição</u>_**_,_ **_atribuí-la aos juízes de direito_**_,_ **_<span style="color:#fe8019">com recurso para o respectivo Tribunal Regional do Trabalho.</span>_** 
+_Art. 112, [[CF]]/88_  _Art. 112. A lei criará varas da Justiça do Trabalho, podendo, nas_ **_<u>comarcas não abrangidas por sua jurisdição</u>_**_,_ **_atribuí-la aos juízes de direito_**_,_ **_<span style="color:#fe8019">com recurso para o respectivo Tribunal Regional do Trabalho.</span>_** 
 
-_Art. 115, CF/88_
+_Art. 115, [[CF]]/88_
 
 _§ 1º Os_ **_Tribunais Regionais do Trabalho_** _instalarão a_ **_<span style="color:#83a598">justiça itinerante</span>,_** _com a realização de audiências e demais funções de atividade jurisdicional, nos li_**_mites territoriais da respectiva jurisdição,_** _servindo-se de equipamentos públicos e comunitários._            
 
@@ -758,7 +758,7 @@ _§ 2º Os_ **_Tribunais Regionais do Trabalho_** _poderão_ **_<span style="col
 - <span style="color:#83a598">conflitos de competência</span> **<u>entre</u>:**
     - órgãos com jurisdição trabalhista,
     - **<span style="color:#fe8019">ressalvado</span>** o disposto no art. 102, I, o;
-        - _Art. 102, CF/88. Compete ao <u>Supremo Tribunal Federal</u>, precipuamente, a guarda da Constituição, cabendo-lhe:  
+        - _Art. 102, [[CF]]/88. Compete ao <u>Supremo Tribunal Federal</u>, precipuamente, a guarda da Constituição, cabendo-lhe:  
             __I - processar e julgar, originariamente:  
             __o) os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal;_
 - ações de <span style="color:#83a598">indenização por dano moral ou patrimonial</span>, **<span style="color:#b8bb26">decorrentes da relação de trabalho</span>;**
@@ -805,9 +805,9 @@ Súmula Vinculante nº 23 - a Justiça do Trabalho é competente para processar 
         - Notável saber jurídico;
         - Idoneidade moral.
 
-_Art. 119, Parágrafo único, CF/88. O Tribunal Superior Eleitoral elegerá seu Presidente e o Vice-Presidente dentre os Ministros do Supremo Tribunal Federal, e o Corregedor Eleitoral dentre os Ministros do Superior Tribunal de Justiça._
+_Art. 119, Parágrafo único, [[CF]]/88. O Tribunal Superior Eleitoral elegerá seu Presidente e o Vice-Presidente dentre os Ministros do Supremo Tribunal Federal, e o Corregedor Eleitoral dentre os Ministros do Superior Tribunal de Justiça._
 
-_Art. 121, § 3º, CF/88_ _São_ **_<span style="color:#d3869b">irrecorríveis</span>_** _as decisões do_ **_<span style="color:#83a598"><u>Tribunal Superior Eleitoral</u></span>_**_,_ **_<span style="color:#fe8019">salvo as que contrariarem esta Constituição e as denegatórias de habeas corpus ou mandado de segurança.</span>_**
+_Art. 121, § 3º, [[CF]]/88_ _São_ **_<span style="color:#d3869b">irrecorríveis</span>_** _as decisões do_ **_<span style="color:#83a598"><u>Tribunal Superior Eleitoral</u></span>_**_,_ **_<span style="color:#fe8019">salvo as que contrariarem esta Constituição e as denegatórias de habeas corpus ou mandado de segurança.</span>_**
 
 ## **9.2 Tribunais Regionais Eleitorais**
 
@@ -826,7 +826,7 @@ O TRE elegerá seu presidente e vice-presidente dentre os **<span style="color:#
 
 **⚠️<span style="color:#fb4934">Decore</span>**:
 
-_Art. 121, § 4º, CF/88 Das_ **_decisões dos_** **_<span style="color:#83a598"><u>Tribunais Regionais Eleitorais</u></span>_** **_<span style="color:#fe8019">somente caberá recurso quando:</span>_**
+_Art. 121, § 4º, [[CF]]/88 Das_ **_decisões dos_** **_<span style="color:#83a598"><u>Tribunais Regionais Eleitorais</u></span>_** **_<span style="color:#fe8019">somente caberá recurso quando:</span>_**
 
 _I - forem proferidas contra disposição expressa desta Constituição ou de lei;_
 
@@ -842,7 +842,7 @@ _V - denegarem habeas corpus, mandado de segurança, habeas data ou mandado d
 
 **⚠️<span style="color:#fb4934">Decore</span>**:
 
-_Art. 121, CF/88._ **_<span style="color:#fe8019">Lei complementar</span>_** _disporá sobre a organização e competência dos tribunais, dos_ **_<span style="color:#83a598">juízes de direito e das juntas eleitorais.</span>_**
+_Art. 121, [[CF]]/88._ **_<span style="color:#fe8019">Lei complementar</span>_** _disporá sobre a organização e competência dos tribunais, dos_ **_<span style="color:#83a598">juízes de direito e das juntas eleitorais.</span>_**
 
 _§ 1º Os membros dos tribunais, os juízes de direito e os integrantes das juntas eleitorais, no exercício de suas funções, e no que lhes for aplicável,_ **_gozarão de plenas garantias e serão inamovíveis._**
 
@@ -866,7 +866,7 @@ _§ 2º Os_ **_juízes dos tribunais eleitorais_**_, salvo motivo justificado,_ 
 
 **⚠️<span style="color:#fb4934">Decore</span>**:
 
-_Art. 124, CF/88. à Justiça Militar compete processar e julgar os crimes militares definidos em lei._
+_Art. 124, [[CF]]/88. à Justiça Militar compete processar e julgar os crimes militares definidos em lei._
 
 _Parágrafo único. A lei disporá sobre a organização, o funcionamento e a competência da Justiça Militar._
 
@@ -874,7 +874,7 @@ _Parágrafo único. A lei disporá sobre a organização, o funcionamento e a co
 
 Fique atento para os seguintes dispositivos:
 
-_Art. 125. § 2º, CF/88._ **_==Cabe aos Estados==_** _a_ **_<u>instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual,</u>_** _<span style="color:#fe8019">vedada a atribuição da legitimação para agir a um único órgão.</span>_
+_Art. 125. § 2º, [[CF]]/88._ **_==Cabe aos Estados==_** _a_ **_<u>instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual,</u>_** _<span style="color:#fe8019">vedada a atribuição da legitimação para agir a um único órgão.</span>_
 
 ⚠️ É **<span style="color:#fb4934">VEDADO</span>** que seja atribuída a competência para representação de inconstitucionalidade a um único órgão.
 
@@ -884,7 +884,7 @@ _§ 6º O Tribunal de Justiça poderá funcionar descentralizadamente, constitui
 
 _§ 7º O_ **_Tribunal de Justiça instalará a justiça itinerante_**_, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários._  
 
-_Art. 126. CF/88. Para dirimir_ **_==conflitos fundiários==_**_, o_ **_Tribunal de Justiça proporá a criação de varas especializadas, com_** **_<span style="color:#fe8019">competência exclusiva</span>_** **_para questões agrárias._**
+_Art. 126. [[CF]]/88. Para dirimir_ **_==conflitos fundiários==_**_, o_ **_Tribunal de Justiça proporá a criação de varas especializadas, com_** **_<span style="color:#fe8019">competência exclusiva</span>_** **_para questões agrárias._**
 
 # **12. Precatórios**
 
@@ -996,9 +996,9 @@ Os precatórios podem ser usados para comprar imóveis públicos
 
 ---
 
-[Competências](https://www.tecconcursos.com.br/questoes/3403518): Inicialmente, cabe salientar que, neste caso, a competência originária para processar e julgar essa ação é da **Justiça Federal** por força do art. 109, II, da CF/88.
+[Competências](https://www.tecconcursos.com.br/questoes/3403518): Inicialmente, cabe salientar que, neste caso, a competência originária para processar e julgar essa ação é da **Justiça Federal** por força do art. 109, II, da [[CF]]/88.
 
-Salienta-se que da decisão proferida pelo juiz federal **CABERÁ RECURSO ORDINÁRIO PARA O STJ**, conforme prevê o art. 105, II, alínea c, da CF/88.
+Salienta-se que da decisão proferida pelo juiz federal **CABERÁ RECURSO ORDINÁRIO PARA O STJ**, conforme prevê o art. 105, II, alínea c, da [[CF]]/88.
 
 Os recursos podem ser de **fundamentação vinculada ou de fundamentação livre**.
 

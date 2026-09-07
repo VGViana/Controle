@@ -2,7 +2,7 @@
 
 ⚠️**<span style="color:#fb4934">Decore!</span>**
 
-- Art. 59, CF/88. O processo legislativo compreende a elaboração de: 
+- Art. 59, [[CF]]/88. O processo legislativo compreende a elaboração de: 
 	- I - emendas à Constituição; 
 	- II - leis complementares; 
 	- III - leis ordinárias; 
@@ -11,7 +11,7 @@
 	- VI - decretos legislativos; 
 	- VII - resoluções.
 
-As espécies elencadas no art. 59 da CF/88 são consideradas **<span style="color:#b8bb26">espécies normativas primárias.</span>**
+As espécies elencadas no art. 59 da [[CF]]/88 são consideradas **<span style="color:#b8bb26">espécies normativas primárias.</span>**
 
 ⚠️Ainda, há duas **<span style="color:#b8bb26">espécies normativas primárias</span>** que não foram elencadas no art. 59 da Constituição por não serem formadas através do processo legislativo, afinal, são de competência de outros Poderes, são elas:
 - Decretos Autônomos - [[Poder Executivo]]
@@ -27,7 +27,7 @@ Saiba que o **desrespeito** ao processo legislativo provoca a **<span style="col
 
 - **Inconstitucionalidade material (<span style="color:#fb4934">nomoestática</span>)** - quando há violação às normas constitucionais, aos princípios ou palavras. Não dizem respeito ao processo legislativo, mas sim ao **<span style="color:#fb4934">conteúdo</span> da norma.**
 
-Ainda, devido ao **Princípio da Simetria,** o processo federativo dos demais entes da Federação (Estados, DF e Municípios) deve seguir as regras previstas na CF/88.
+Ainda, devido ao **Princípio da Simetria,** o processo federativo dos demais entes da Federação (Estados, DF e Municípios) deve seguir as regras previstas na [[CF]]/88.
 
 # **1. Classificação do Processo Legislativo**
 
@@ -60,7 +60,7 @@ Procedimentos legislativos - <u>conjunto de atos</u> para a formação da lei
 
 ### **3.1.1 Fase Introdutória**
 
-Art. 61, CF/88. A iniciativa das leis complementares e ordinárias cabe a **qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.**
+Art. 61, [[CF]]/88. A iniciativa das leis complementares e ordinárias cabe a **qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.**
 
 Ainda, o Tribunal de Contas da União e a Defensoria Pública possuem iniciativa para elaborar leis relativas a certos assuntos relacionados às suas estruturas.
 
@@ -70,7 +70,7 @@ Ainda, o Tribunal de Contas da União e a Defensoria Pública possuem iniciativa
 
 - **<span style="color:#fe8019">Iniciativa reservada ao Presidente da República</span>** 
 
-_Art.61, § 1º. CF/88 - São de_ **_iniciativa privativa do Presidente da República as leis que:_**
+_Art.61, § 1º. [[CF]]/88 - São de_ **_iniciativa privativa do Presidente da República as leis que:_**
 _I - fixem ou modifiquem os efetivos das_ **_Forças Armadas;_**
 _II - disponham sobre:_
 _a) criação de cargos, funções ou empregos públicos na_ **_administração direta e autárquica ou aumento de sua remuneração;_**
@@ -90,9 +90,9 @@ _f) militares das_ **_Forças Armadas_**_, seu regime jurídico, provimento de c
 
 Observe que a iniciativa das leis orçamentárias (plano plurianual, lei de diretrizes orçamentárias e lei orçamentária anual) pertence ao PR. O mesmo vale para os Estados e Municípios, em que a iniciativa destas leis está vinculada aos Governadores e Prefeitos, respectivamente.
 
-- Iniciativa privativa dos tribunais do [[Poder Judiciário]] - art.96, II, CF/88.
+- Iniciativa privativa dos tribunais do [[Poder Judiciário]] - art.96, II, [[CF]]/88.
 - Iniciativa privativa da Defensoria Pública - EC nº80/2014
-- Iniciativa privativa dos Chefes dos Ministérios Públicos - art.127, CF/88
+- Iniciativa privativa dos Chefes dos Ministérios Públicos - art.127, [[CF]]/88
 - Iniciativa privativa dos Tribunais de Contas
 - Iniciativa privativa do Poder Legislativo
 
@@ -229,7 +229,7 @@ Saiba que a **<span style="color:#b8bb26">parte do projeto que não foi vetada s
 
 - Divulgação oficial da lei
 - Condição de eficácia - aptidão para produzir efeitos
-- Não há prazo previsto na CF
+- Não há prazo previsto na [[CF]]
 
 ## **3.2 Procedimento legislativo Sumário**
 
@@ -238,7 +238,7 @@ Saiba que a **<span style="color:#b8bb26">parte do projeto que não foi vetada s
 - Urgência em projetos de lei
 - Ato vinculado do Congresso Nacional, ou seja, não poderá negar a "solicitação"
 
-_Art. 64, § 1º, CF/88. O Presidente da República poderá solicitar urgência para apreciação de projetos de sua iniciativa._
+_Art. 64, § 1º, [[CF]]/88. O Presidente da República poderá solicitar urgência para apreciação de projetos de sua iniciativa._
 
 _§ 2º Se, no caso do § 1º, a Câmara dos Deputados e o Senado Federal_ **_não se manifestarem sobre a proposição_**_, cada qual sucessivamente,_ **_em até quarenta e cinco dias_**_,_ _<span style="color:#fe8019">sobrestar-se-ão todas as demais deliberações legislativas da respectiva Casa,</span>_ _<u>com exceção das que tenham prazo constitucional determinado, até que se ultime a votação</u>._ 
 
@@ -246,7 +246,7 @@ _§ 2º Se, no caso do § 1º, a Câmara dos Deputados e o Senado Federal_ **_n�
 
 - Projeto será discutido e votado nas **<span style="color:#d3869b">COMISSÕES</span>** DAS CASAS
 
-_Art. 58, § 2º, CF/88. Às comissões, em razão da matéria de sua competência, cabe:_
+_Art. 58, § 2º, [[CF]]/88. Às comissões, em razão da matéria de sua competência, cabe:_
 
 _I - discutir e votar projeto de lei que dispensar, na forma do regimento, a competência do Plenário,_ _<span style="color:#fe8019">salvo se houver recurso de um décimo dos membros da Casa</span>;_
 
@@ -280,7 +280,7 @@ Obs: a limitação quanto à intervenção federal apenas se refere às interven
 
 **<span style="color:#fb4934">GRAVE</span>:**
 
-- Não poderá ser objeto de deliberação a proposta de emenda tendente a abolir, art. 60, § 4º, CF/88 **==LIMITAÇÕES MATERIAIS - Cláusulas Pétreas==:**
+- Não poderá ser objeto de deliberação a proposta de emenda tendente a abolir, art. 60, § 4º, [[CF]]/88 **==LIMITAÇÕES MATERIAIS - Cláusulas Pétreas==:**
 	- a forma federativa de Estado;
 	- o voto direto, secreto, universal e periódico;
 	- separação dos Poderes;
@@ -289,7 +289,7 @@ Obs: a limitação quanto à intervenção federal apenas se refere às interven
 STF - não pode haver emendas tendentes a abolir ou prejudicar as cláusulas pétreas.
 
 - Tipos de limitações materiais
-	- Expressas/ Explícitas - art. 60, § 4º, CF/88 (acima👆)
+	- Expressas/ Explícitas - art. 60, § 4º, [[CF]]/88 (acima👆)
 	- Tácitas/ Implícitas - referentes ao Poder Constituinte Derivado - reforma e revisão Constitucionais
 
 **==LIMITAÇÕES FORMAIS==**
@@ -303,10 +303,10 @@ A matéria constante de proposta de emenda rejeitada ou havida por prejudicada <
 
 **==LIMITAÇÕES TEMPORAIS==**
 
-- Prazo estipulado pelo **PODER CONSTITUINTE ORIGINÁRIO** para emendar a CF
+- Prazo estipulado pelo **PODER CONSTITUINTE ORIGINÁRIO** para emendar a [[CF]]
 ### **3.4.2 Leis Complementares**
 
-- Alguns assuntos apenas podem ser tratados por leis complementares, esses serão especificados na própria CF
+- Alguns assuntos apenas podem ser tratados por leis complementares, esses serão especificados na própria [[CF]]
 - Quórum - **MAIORIA ABSOLUTA**
 
 Lembre-se de que o quórum de votação de leis ordinárias será de maioria simples.
@@ -348,8 +348,8 @@ IV – **já disciplinada em projeto de <span style="color:#fe8019">lei aprovado
 - Quando a MP é editada, ela <u>suspenderá</u> a eficácia da legislação que lhe é contrária
 - Caso a MP perca validade, a legislação suspensa voltará a ter eficácia - **efeito repristinatório**
 
-**Art. 62, § 6º, CF/88**_._ Se a medida provisória **não for apreciada em até quarenta e cinco dias contados de sua publicação**, entrará em **<span style="color:#fb4934">regime de urgência</span>**, subsequentemente, em cada uma das Casas do Congresso Nacional, **ficando sobrestadas, até que se ultime a votação**, todas as demais deliberações legislativas da Casa em que estiver tramitando.
-- **STF, no  MS 27931/DF**,  decidiu de forma **<span style="color:#83a598">diversa da literalidade do texto constitucional</span>** e entendeu que o trancamento da pauta **<span style="color:#fb4934">não alcança todas as deliberações legislativas, mas apenas aquelas que tratem sobre assuntos disciplináveis por medidas provisórias</span>**, de modo que **as proposições legislativas sobre temas vedados de serem disciplinados por medida provisória , ou seja, propostas de emendas constitucionais, projetos de lei complementar, projetos de decreto legislativo , resoluções e projetos de lei ordinária que tratem sobre um dos assuntos do art. 62, § 1º, da CF/88, continuariam podendo ser realizados pela casa legislativa**. 
+**Art. 62, § 6º, [[CF]]/88**_._ Se a medida provisória **não for apreciada em até quarenta e cinco dias contados de sua publicação**, entrará em **<span style="color:#fb4934">regime de urgência</span>**, subsequentemente, em cada uma das Casas do Congresso Nacional, **ficando sobrestadas, até que se ultime a votação**, todas as demais deliberações legislativas da Casa em que estiver tramitando.
+- **STF, no  MS 27931/DF**,  decidiu de forma **<span style="color:#83a598">diversa da literalidade do texto constitucional</span>** e entendeu que o trancamento da pauta **<span style="color:#fb4934">não alcança todas as deliberações legislativas, mas apenas aquelas que tratem sobre assuntos disciplináveis por medidas provisórias</span>**, de modo que **as proposições legislativas sobre temas vedados de serem disciplinados por medida provisória , ou seja, propostas de emendas constitucionais, projetos de lei complementar, projetos de decreto legislativo , resoluções e projetos de lei ordinária que tratem sobre um dos assuntos do art. 62, § 1º, da [[CF]]/88, continuariam podendo ser realizados pela casa legislativa**. 
 
 Ou seja, **<span style="color:#83a598">o trancamento da pauta ocorreria apenas para projetos de lei ordinária sobre matéria que possa ser objeto de MP</span>**.
 
@@ -362,7 +362,7 @@ Ou seja, **<span style="color:#83a598">o trancamento da pauta ocorreria apenas p
 - Pode haver revogação da delegação **<span style="color:#fe8019">a qualquer momento</span>**
 - A delegação **<span style="color:#fe8019">não obriga</span>** o PR de realizar a edição da lei.
 
->**Art. 68, § 1º, CF** - **<span style="color:#fb4934">Não serão objeto de delegação</span>** os atos de competência exclusiva do Congresso Nacional, os de competência privativa da Câmara dos Deputados ou do Senado Federal, a matéria reservada à lei complementar, nem a legislação sobre:
+>**Art. 68, § 1º, [[CF]]** - **<span style="color:#fb4934">Não serão objeto de delegação</span>** os atos de competência exclusiva do Congresso Nacional, os de competência privativa da Câmara dos Deputados ou do Senado Federal, a matéria reservada à lei complementar, nem a legislação sobre:
 I - organização do [[Poder Judiciário]] e do Ministério Público, a carreira e a garantia de seus membros;
 II - nacionalidade, cidadania, direitos individuais, políticos e eleitorais;
 III - planos plurianuais, diretrizes orçamentárias e orçamentos.
@@ -373,12 +373,12 @@ III - planos plurianuais, diretrizes orçamentárias e orçamentos.
 
 - Não há veto/sanção
 - _Status_ de <span style="color:#fe8019">lei ordinária</span>
-- Competência **exclusiva** do Congresso Nacional - Art. 49, CF/88.
+- Competência **exclusiva** do Congresso Nacional - Art. 49, [[CF]]/88.
 
 ### **3.4.6 Resoluções**
 
 - Não há veto/sanção
-- Competência **privativa** do Senado Federal e da Câmara dos Deputados - Arts. 51 e 2 CF/88.
+- Competência **privativa** do Senado Federal e da Câmara dos Deputados - Arts. 51 e 2 [[CF]]/88.
 
 # **4. Processo Legislativo Orçamentário**
 
@@ -396,7 +396,7 @@ III - planos plurianuais, diretrizes orçamentárias e orçamentos.
 - Redação final
 - Proposição ao Plenário
 
->**Art. 166, CF/88**
+>**Art. 166, [[CF]]/88**
 - **§ 2º** As emendas **serão apresentadas na Comissão mista**, que sobre elas **emitirá parecer**, e apreciadas, na forma regimental, pelo Plenário das duas Casas do Congresso Nacional.
 - **§ 3º** As **<span style="color:#fb4934">emendas ao projeto de lei do orçamento anual</span>** ou aos projetos que o modifiquem somente podem ser aprovadas caso:
 	- I - sejam **compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;**
@@ -425,7 +425,7 @@ III - planos plurianuais, diretrizes orçamentárias e orçamentos.
 
 # **5. Processo Legislativo Orçamentário**
 
-As normas de processo legislativo previstas na CF/88 são de **observância obrigatória** aos Estados, DF e Municípios.
+As normas de processo legislativo previstas na [[CF]]/88 são de **observância obrigatória** aos Estados, DF e Municípios.
 
 # **<u>REFORMA CONSTITUCIONAL</u>**
 
@@ -437,7 +437,7 @@ As normas de processo legislativo previstas na CF/88 são de **observância obri
 
 ⚠️**<span style="color:#fb4934">Atenção</span> - revisão constitucional**
 
-- 5 anos após a promulgação da CF/88
+- 5 anos após a promulgação da [[CF]]/88
 - Voto da maioria absoluta dos membros do CN
 - Sessão Unicameral
 - Promulgação das emendas de revisão foram feitas pela Mesa do CN.
@@ -480,7 +480,7 @@ A Constituição **<span style="color:#fb4934">NÃO</span>** poderá ser emendad
 
 **🚨<span style="color:#fb4934">DECORE</span>:**
 
-- Não poderá ser objeto de deliberação a proposta de emenda tendente a abolir, art. 60, § 4º, CF/88: **==LIMITAÇÕES MATERIAIS==**
+- Não poderá ser objeto de deliberação a proposta de emenda tendente a abolir, art. 60, § 4º, [[CF]]/88: **==LIMITAÇÕES MATERIAIS==**
 	- a forma federativa de Estado;
 	- o voto direto, secreto, universal e periódico;
 	- separação dos Poderes;
@@ -489,7 +489,7 @@ A Constituição **<span style="color:#fb4934">NÃO</span>** poderá ser emendad
 STF - não pode haver emendas tendentes a <u>abolir ou prejudicar as cláusulas pétreas.</u>
 
 ### Tipos de limitações materiais
-- Expressas/ Explícitas - art. 60, § 4º, CF/88 (acima👆)
+- Expressas/ Explícitas - art. 60, § 4º, [[CF]]/88 (acima👆)
 - Tácitas/ Implícitas - referentes ao Poder Constituinte Derivado - reforma e revisão Constitucionais
 
 **🚨<span style="color:#fb4934">DECORE</span>**:
@@ -512,7 +512,7 @@ A matéria constante de proposta de emenda rejeitada ou havida por prejudicada 
 
 ##  **==LIMITAÇÕES TEMPORAIS==**
 
-- Prazo estipulado pelo **PODER CONSTITUINTE ORIGINÁRIO** para emendar a CF
+- Prazo estipulado pelo **PODER CONSTITUINTE ORIGINÁRIO** para emendar a [[CF]]
 
 ## **Emendas parlamentares acessórias**
 Vimos que, havendo emendas aos projetos de lei ordinária, apenas a parte emendada voltará para a Casa Iniciadora, para que as emendas sejam examinadas. Portanto, a parte do projeto que não sofreu modificações irá seguir seu rito.
@@ -536,7 +536,7 @@ Controle de Constitucionalidade dos atos de Reforma Constitucional:
 O controle poderá ser feito de duas formas:
 
 - **Incidental** - caso concreto é submetido a qualquer juiz ou tribunal, a decisão terá efeitos apenas entre as partes do processo (_inter partes_);
-- **Abstrata** - há iniciativa privativa (Art. 103 da CF/88) para propor ação ao STF, a decisão terá efeitos a todos (_erga omnes)._
+- **Abstrata** - há iniciativa privativa (Art. 103 da [[CF]]/88) para propor ação ao STF, a decisão terá efeitos a todos (_erga omnes)._
 
 🚨Ainda, saiba que **<span style="color:#fb4934">pode haver controle de constitucionalidade em relação à PEC que está tramitando no CN</span>**. Saiba que, apenas o parlamentar poderá acionar o Judiciário e será feito através de **Mandado de Segurança ao STF.** Caso o a emenda constitucional seja promulgada antes que o MS seja apreciado, o mesmo não será mais apreciado pelo STF, por ter perdido o objeto da ação.
 

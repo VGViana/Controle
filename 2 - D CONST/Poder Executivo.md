@@ -22,7 +22,7 @@
 
 Eleição -> **<span style="color:#fb4934">Sistema majoritário</span>** - <u>maioria absoluta</u> dos votos válidos
 
-_**Art. 77, CF/88.** A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato presidencial vigente._
+_**Art. 77, [[CF]]/88.** A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato presidencial vigente._
 
 - Posse do PR será em **SESSÃO CONJUNTA DO CN** no dia **<span style="color:#fe8019">5 de Janeiro</span>**;
 - Caso não haja a posse **<span style="color:#fb4934"><u>após 10 dias</u></span>** da data fixada para posse **<span style="color:#83a598">(salvo motivo de força maior)</span>** **<span style="color:#fb4934">o cargo será considerado VAGO.</span>**
@@ -54,7 +54,7 @@ _**Art. 77, CF/88.** A eleição do Presidente e do Vice-Presidente da Repúblic
 
 # **4. Substituição e Sucessão**
 
-_**Art. 80, CF/88**. Em caso de impedimento do Presidente e do Vice-Presidente, ou vacância dos respectivos cargos, serão sucessivamente chamados ao exercício da Presidência o Presidente da Câmara dos Deputados, o do Senado Federal e o do Supremo Tribunal Federal._
+_**Art. 80, [[CF]]/88**. Em caso de impedimento do Presidente e do Vice-Presidente, ou vacância dos respectivos cargos, serão sucessivamente chamados ao exercício da Presidência o Presidente da Câmara dos Deputados, o do Senado Federal e o do Supremo Tribunal Federal._
 
 **⚠️<span style="color:#b8bb26">Saiba a ordem</span>:**
 
@@ -64,11 +64,11 @@ _**Art. 80, CF/88**. Em caso de impedimento do Presidente e do Vice-Presidente, 
 
 # **5. Atribuições do presidente da República**
 
-Você deve **<span style="color:#fe8019">DECORAR</span>** o artigo 84 da CF/88.
+Você deve **<span style="color:#fe8019">DECORAR</span>** o artigo 84 da [[CF]]/88.
 
 ## Direção da Administração Federal
 
-_**Art. 84, CF/88.** Compete privativamente ao Presidente da República:_
+_**Art. 84, [[CF]]/88.** Compete privativamente ao Presidente da República:_
 
 _I - nomear e exonerar os_ **_Ministros de Estado;_**
 
@@ -220,9 +220,9 @@ _Parágrafo único. O Presidente da República poderá delegar as atribuições 
 
 **STF** - o processo-criminal não obsta que seja exercido o cargo de presidente da CD, do SF e do STF.
 
-⚠️**DECORE** o art. 85 da CF/88 - Rol exemplificativo:
+⚠️**DECORE** o art. 85 da [[CF]]/88 - Rol exemplificativo:
 
-_**Art. 85, CF/88.** São_ **_<span style="color:#b8bb26">crimes de responsabilidade</span>_** _os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:_
+_**Art. 85, [[CF]]/88.** São_ **_<span style="color:#b8bb26">crimes de responsabilidade</span>_** _os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:_
 
 _I - a existência da União;_
 
@@ -253,7 +253,7 @@ _Parágrafo único. Esses crimes serão definidos em lei especial, que estabelec
 
 Rol exemplificativo:
 
-_**Art. 87, CF/88**. Os Ministros de Estado serão escolhidos dentre brasileiros_ _<span style="color:#fb4934">maiores de vinte e um anos e no exercício dos direitos políticos.</span>_
+_**Art. 87, [[CF]]/88**. Os Ministros de Estado serão escolhidos dentre brasileiros_ _<span style="color:#fb4934">maiores de vinte e um anos e no exercício dos direitos políticos.</span>_
 
 _Parágrafo único. Compete ao Ministro de Estado, além de outras atribuições estabelecidas nesta Constituição e na lei:_
 

@@ -18,13 +18,13 @@ Características de uma federação:
 - Participação dos entes federativos na formação da vontade nacional. 
 
 O Poder Legislativo estadual é unicameral, sendo exercido pela Assembleia Legislativa. Os deputados estaduais são eleitos pelo sistema proporcional, para um mandato de 4 anos.
-- Segundo o art. 27, CF/88, “o número de Deputados à Assembleia Legislativa corresponderá ao triplo da representação do Estado na Câmara dos Deputados e, atingido o número de trinta e seis, será acrescido de tantos quantos forem os Deputados Federais acima de doze”. 
+- Segundo o art. 27, [[CF]]/88, “o número de Deputados à Assembleia Legislativa corresponderá ao triplo da representação do Estado na Câmara dos Deputados e, atingido o número de trinta e seis, será acrescido de tantos quantos forem os Deputados Federais acima de doze”. 
 
 Os subsídios do Governador, do Vice-Governador e dos secretários de Estado são fixados por lei, a partir de projeto apresentado pela Assembleia Legislativa. 
 
 Os Estados organizarão sua Justiça, observados os princípios da Constituição Federal. A competência dos tribunais será definida na Constituição do Estado sendo a lei de organização judiciária de iniciativa do Tribunal de Justiça. 
 
-Os Estados poderão, mediante <span style="color:#83a598">**lei complementar**</span>, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum (art. 25, § 3o, CF/88). 
+Os Estados poderão, mediante <span style="color:#83a598">**lei complementar**</span>, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum (art. 25, § 3o, [[CF]]/88). 
 
 - Súmula Vinculante no 39: “Compete <u>privativamente à União</u> legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal”. 
 
@@ -104,7 +104,7 @@ o máximo é de **55 vereadores** para municípios com **mais de 8 milhões de 
 
 > Art. 18 (...) § 4° A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por <span style="color:#fb4934">lei estadual, dentro do período determinado por Lei Complementar Federal</span>, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. 
 
-- O art. 18, § 4o, CF/88, é norma de eficácia limitada, uma vez que é exigida a edição de lei complementar federal definindo o período dentro do qual podem ocorrer alterações federativas envolvendo Municípios.
+- O art. 18, § 4o, [[CF]]/88, é norma de eficácia limitada, uma vez que é exigida a edição de lei complementar federal definindo o período dentro do qual podem ocorrer alterações federativas envolvendo Municípios.
 - Até hoje, a referida <span style="color:#fb4934">lei complementar não foi editada</span>, motivo pelo qual, atualmente, <span style="color:#fb4934">não podem ser criados novos Municípios</span> no Brasil.
 - A edição de <span style="color:#83a598">lei ordinária estadual é ato discricionário da Assembleia</span> Legislativa. 
 
@@ -136,7 +136,7 @@ o máximo é de **55 vereadores** para municípios com **mais de 8 milhões de 
 
 **<span style="color:#83a598">Todos os entes federais são dotados de autonomia.</span>**
 
-- E para que esta fosse assegurada, **a CF/88 estabeleceu a repartição de competências** entre a União, Estados, DF e Municípios.
+- E para que esta fosse assegurada, **a [[CF]]/88 estabeleceu a repartição de competências** entre a União, Estados, DF e Municípios.
 - Nela, há matérias **<span style="color:#83a598">legislativas, administrativas e tributárias.</span>**
 
 Ainda, saiba que a repartição ocorreu regulada pelo **Princípio da Predominância do Interesse.**
@@ -158,9 +158,9 @@ Também, utiliza-se o **<span style="color:#83a598">Princípio da Subsidiariedad
 Técnicas de Repartição:
 
 - **↔ <span style="color:#d3869b">Repartição Horizontal</span>** - cada ente possui suas **<span style="color:#fb4934">próprias competências</span>** para agir em áreas específicas, não havendo interferência de outros entes. Age-se isoladamente.
-    - CF/88: Competências Exclusivas e Competências Privativas.
+    - [[CF]]/88: Competências Exclusivas e Competências Privativas.
 - **↑ <span style="color:#b8bb26">Repartição Vertical</span>** - os entes federativos **<span style="color:#fb4934">agem conjuntamente</span>**.
-    - CF/88: Competências Comuns e Competências Concorrentes.
+    - [[CF]]/88: Competências Comuns e Competências Concorrentes.
 
 
 ![[Repartição de competências.png]]
@@ -261,7 +261,7 @@ Técnicas de Repartição:
 
 _Súmula Vinculante 46: A_ **_definição_** _dos_ **_<span style="color:#83a598">crimes de responsabilidade</span>_** **_e_** _o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa_ **_<span style="color:#83a598">privativa da União</span>_**_._
 
-_**Art. 22, CF/88**. Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo_.
+_**Art. 22, [[CF]]/88**. Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo_.
 
 <span style="color:#fe8019">Observe que a delegação de competência privativa da União aos Estados depende de:</span>
 
@@ -299,7 +299,7 @@ Parágrafo único. Leis complementares fixarão normas para a cooperação entre
 
 **STF**: é <span style="color:#fb4934">constitucional</span> a instituição, por lei municipal, de feriado local para a comemoração do **Dia da Consciência Negra, a ser celebrado em 20 de novembro**, em especial porque a data representa um símbolo de resistência cultural e configura ação afirmativa contra o preconceito racial.
 
-**STF**: <span style="color:#fb4934">é inconstitucional</span>, por invadir a competência municipal para legislar sobre assuntos de interesse local (CF/1988, art. 30, I e V), <span style="color:#fb4934">lei estadual</span> que concede, por período determinado, <span style="color:#fb4934"><u>isenção das tarifas de água e esgoto e de energia elétrica</u></span> aos consumidores residenciais, industriais e comerciais.
+**STF**: <span style="color:#fb4934">é inconstitucional</span>, por invadir a competência municipal para legislar sobre assuntos de interesse local ([[CF]]/1988, art. 30, I e V), <span style="color:#fb4934">lei estadual</span> que concede, por período determinado, <span style="color:#fb4934"><u>isenção das tarifas de água e esgoto e de energia elétrica</u></span> aos consumidores residenciais, industriais e comerciais.
 
 - Verbos no **<span style="color:#b8bb26">INFINITIVO: proteger, preservar, combater, impedir</span>**, etc.
 - Cuidado que, apesar desses itens falarem em **<span style="color:#b8bb26">recursos hídricos e minerais</span>** e **<span style="color:#b8bb26">trânsito</span>**, <span style="color:#fb4934">não são competência somente da União</span>:
@@ -382,11 +382,11 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 # **5. Competências dos Estados e do Distrito Federal**
 
-_Art. 25.§ 1º, CF/88 São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição._ **(Competência residual)**
+_Art. 25.§ 1º, [[CF]]/88 São reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição._ **(Competência residual)**
 
-_Art. 25.§ 2º, CF/88 Cabe aos Estados explorar diretamente, ou mediante_ **<span style="color:#83a598">_concessão_</span>**_, <span style="color:#83a598">os</span>_ **_<span style="color:#83a598">serviços locais de gás canalizado</span>_**_, na forma da lei,_ **<span style="color:#fe8019"><u>_vedada a edição de medida provisória para a sua regulamentação.</u></span>_**      
+_Art. 25.§ 2º, [[CF]]/88 Cabe aos Estados explorar diretamente, ou mediante_ **<span style="color:#83a598">_concessão_</span>**_, <span style="color:#83a598">os</span>_ **_<span style="color:#83a598">serviços locais de gás canalizado</span>_**_, na forma da lei,_ **<span style="color:#fe8019"><u>_vedada a edição de medida provisória para a sua regulamentação.</u></span>_**      
 
-_Art. 25.§3º, CF/88 Os Estados poderão, mediante_ **_lei complementar,_** _instituir_ **_regiões metropolitanas_**_, aglomerações urbanas e microrregiões, constituídas por agrupamentos de_ **_municípios limítrofes_**_, para integrar a organização, o planejamento e a_ **_execução de funções públicas de interesse comum._**
+_Art. 25.§3º, [[CF]]/88 Os Estados poderão, mediante_ **_lei complementar,_** _instituir_ **_regiões metropolitanas_**_, aglomerações urbanas e microrregiões, constituídas por agrupamentos de_ **_municípios limítrofes_**_, para integrar a organização, o planejamento e a_ **_execução de funções públicas de interesse comum._**
 
 - Distrito Federal - competência dos Municípios e Estados, exceto:
 - Manter o [[Poder Judiciário]] - Compete à União.
@@ -442,7 +442,7 @@ STF - Município é competente para, dispondo sobre a segurança de sua populaç
 
 **<span style="color:#83a598">Constitucional</span>** lei estadual que concede **“<span style="color: #d79921">meia passagem” aos estudantes nos transportes coletivos intermunicipais.</span>** Já no caso de serviço de **transporte local,** a competência para dispor a respeito é da **legislação municipal**.
 
-**<span style="color:#fb4934">Inconstitucional</span>** lei municipal que **<span style="color:#83a598">obriga ao uso de cinto de segurança e proíbe transporte de menores de 10 anos no banco dianteiro dos veículos</span>**, **<span style="color: #d79921">por ofender à competência privativa da União Federal para legislar sobre trânsito (CF, art. 22, XI)</span>**
+**<span style="color:#fb4934">Inconstitucional</span>** lei municipal que **<span style="color:#83a598">obriga ao uso de cinto de segurança e proíbe transporte de menores de 10 anos no banco dianteiro dos veículos</span>**, **<span style="color: #d79921">por ofender à competência privativa da União Federal para legislar sobre trânsito ([[CF]], art. 22, XI)</span>**
 
 Súmula Vinculante nº 49 - **<span style="color:#fb4934">Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área</span>.**
 
