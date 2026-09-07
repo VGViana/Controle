@@ -1268,24 +1268,52 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 * Art. 30. Compete aos Municípios: ^0b01b35
 
-	* I - legislar sobre assuntos de interesse local; ^55ca648
+	* I - legislar sobre assuntos de **interesse local**; ^55ca648
 
-	* II - suplementar a legislação federal e a estadual no que couber; (Vide ADPF 672) ^187be4a
+	* II - **suplementar a legislação federal e a estadual** no que couber; (Vide ADPF 672) ^187be4a
 
-	* III - instituir e arrecadar os tributos de sua competência, bem como aplicar suas rendas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei; ^0ad5a2a
+	* III - instituir e arrecadar os **tributos de sua competência**, bem como aplicar suas rendas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei; ^0ad5a2a
 
-	* IV - criar, organizar e suprimir distritos, observada a legislação estadual; ^38352a0
+	* IV - criar, organizar e suprimir **distritos, observada a legislação estadual**; ^38352a0
 
-	* V - organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluído o de transporte coletivo, que tem caráter essencial; ^84264ad
+	* V - organizar e prestar, diretamente ou sob **regime de concessão ou permissão, os serviços públicos de interesse local**, incluído o de transporte coletivo, que tem caráter essencial; ^84264ad
 
-	* VI - manter, com a cooperação técnica e financeira da União e do Estado, programas de educação infantil e de ensino fundamental; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^e849507
+	* VI - manter, com a cooperação técnica e financeira da União e do Estado, programas de **educação infantil e de ensino fundamental**; (Redação dada pela Emenda Constitucional n° 53, de 2006) ^e849507
 
-	* VII - prestar, com a cooperação técnica e financeira da União e do Estado, serviços de atendimento à saúde da população; ^d1b7999
+	* VII - prestar, com a cooperação técnica e financeira da União e do Estado, **serviços de atendimento à saúde da população**; ^d1b7999
 
-	* VIII - promover, no que couber, adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano; ^dae55c2
+	* VIII - promover, no que couber, adequado ordenamento territorial, mediante **planejamento e controle do uso, do parcelamento e da ocupação do solo urbano**; ^dae55c2
 
-	* IX - promover a proteção do patrimônio histórico-cultural local, observada a legislação e a ação fiscalizadora federal e estadual. ^c328f70
+	* IX - promover a **proteção do patrimônio histórico-cultural local**, observada a legislação e a ação fiscalizadora federal e estadual. ^c328f70
 
+---
+**Competências dos Municípios**
+
+- Competência exclusiva - interesso local
+- Competência suplementar - suplementar lei federal ou estadual quando possível.
+
+<u>**Municípios**</u>
+- Lei Orgânica - aprovada por:
+	- **2 turnos no intervalo de 10 dias por 2/3 da Câmara Municipal**
+- **<span style="color:#fe8019">Não há Poder Judiciário!</span>**
+- Municípios com **<u>mais de 200.000</u>** **<span style="color:#83a598">eleitores</span>** - haverá **<u>segundo turno de votação</u>** nas eleições
+- Julgamento do Prefeito - Tribunal de Justiça (regra geral)
+
+> Súmula 208 STJ: compete à **<span style="color:#fe8019">Justiça Federal</span>** processar e julgar prefeito municipal por desvio de verba sujeita a prestação de contas <span style="color:#fe8019">perante órgão federal.</span>
+
+> Súmula 209 STJ: compete à **<span style="color:#fe8019">Justiça Estadual</span>** processar e julgar prefeito por desvio de verba transferida e incorporada ao <span style="color:#fe8019">patrimônio municipal</span>.
+
+> STJ - nos <span style="color:#fe8019">crimes dolosos</span> contra a vida, o Prefeito será julgado pelo **<span style="color:#fe8019">Tribunal de Justiça.</span>**
+
+⚠️ Dê atenção ao art. 29, CF/88! No entanto, não perca tanto tempo com o inciso IV (composição das Câmaras Municipais), é um tópico que possui baixo custo-benefício.
+
+**<span style="color:#fb4934">Atualização</span>**
+
+_Art. 29-A, CF/88. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e_ **_<span style="color:#fe8019"><u>incluídos os gastos com inativos</u></span>_**_, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5  o  do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior:_  
+
+🚨Art. 30, CF/88 - saiba quais são as competências municipais!
+
+---
 * Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do [[Poder Executivo]] Municipal, na forma da lei. ^0c12866
 
 	* § 1° O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver. ^c243e91
@@ -1310,7 +1338,7 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 	* § 3° Aos Deputados Distritais e à Câmara Legislativa aplica-se o disposto no art. [[#^f316d70|27]]. ^a406133
 
-	* § 4° Lei federal disporá sobre a utilização, pelo Governo do Distrito Federal, da polícia civil, da polícia penal, da polícia militar e do corpo de bombeiros militar. (Redação dada pela Emenda Constitucional n° 104, de 2019) ^764e1d8
+	* § 4° Lei federal disporá sobre a utilização, pelo Governo do Distrito Federal, da polícia civil, da polícia penal, da polícia militar e do corpo de bombeiros militar. **<span style="color:#fe8019">Compete ao próprio DF manter a Defensoria Pública</span>** ^764e1d8
 
 ### 3.5.2. SEÇÃO II - DOS TERRITÓRIOS (ART. 33)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.5.2. SEÇÃO II - DOS TERRITÓRIOS (ART. 33)|Resumo]]
@@ -1381,6 +1409,41 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 	* § 3° Nos casos do art. [[#^78ae06d|34]], [[#^47e8e7e|VI]] e [[#^f339325|VII]], ou do art. [[#^f241f78|35]], [[#^2bf1a59|IV]], dispensada a apreciação pelo Congresso Nacional ou pela Assembléia Legislativa, o decreto limitar-se-á a suspender a execução do ato impugnado, se essa medida bastar ao restabelecimento da normalidade. ^1908390
 
 	* § 4° Cessados os motivos da intervenção, as autoridades afastadas de seus cargos a estes voltarão, salvo impedimento legal. ^27298cb
+
+---
+- Presidente da República **decreta**
+
+- Apenas nos casos **taxativos**
+
+- **<span style="color:#83a598"><u>ESPONTÂNEA</u></span>** **<span style="color: #d79921">União</span> >>** **<u><span style="color:#d3869b">Estados</span></u>:** **Integridade, Invasão, Grave, Finanças**
+
+	- **<span style="color:#83a598">Reorganizar</span>** **as** **<span style="color:#83a598">finanças</span>** **do Estado**
+	- **<span style="color:#fb4934">Suspender</span>** **o pagamento de dívida fundada por mais de** **<span style="color:#fb4934">2 anos seguidos,</span>** **<u>salvo motivo de força maior</u>;**
+	- **<span style="color:#fb4934">Não</span>** **entregar aos Municípios no prazo legal a** **<span style="color:#fb4934">receita tributária</span>**
+	- **Manter a** **<span style="color:#83a598">integridade nacional</span>**
+	- **Repelir** **<span style="color:#83a598">invasão estrangeira ou de um Estado no outro;</span>**
+	- **Por fim a** **<span style="color:#fb4934">grave</span>** **<span style="color:#83a598">comprometimento da Ordem da República</span>**
+
+- **<u><span style="color:#b8bb26">PROVOCADA</span></u>** **<span style="color: #d79921">União</span> >>** **<span style="color:#d3869b"><u>Estados</u></span>**
+	- **Assegurar os** **<span style="color:#b8bb26">Princípios Sensíveis</span>** **(ensino, saúde, autonomia, direitos, forma rep...)**
+	- **Garantir o** **<span style="color:#b8bb26">livre exercício</span>** **de qualquer dos Poderes, DEPENDE:**
+	- **De** **==solicitação==** **do Poder Legislativo ou do Poder Executivo coacto ou impedido;**
+	- **De** **==requisição==** **do STF se a coação for contra o Poder Judiciário.**
+	- **Promover** **a execução de** **lei federal ou decisão judicial**
+
+**==Atenção==**: No caso de **desobediência de decisão judicial** - **<span style="color:#fb4934">depende</span>** **<u>requisição</u> do STF, STJ ou TSE.**
+
+**==Atenção==**: Para **assegurar princípios constitucionais sensíveis ou no caso de recusa a execução de lei federal** - **<span style="color:#fb4934">depende</span>** de **<u>provimento</u> pelo STF, de <u>representação</u> do PGR**
+
+- **Intervenção** **<span style="color:#d3869b"><u>Estados>></u></span>** **<span style="color:#83a598">Municípios</span>**
+	- **<span style="color:#d3869b">Governador Decreta</span>**
+	- **Município parar de pagar por** **<span style="color:#d3869b">2 anos seguidos</span>** **a dívida fundada**
+	- **Município** **<span style="color:#d3869b">não prestar contas</span>** **na forma da lei**
+	- **Município** **<span style="color:#d3869b">não aplica</span>** **o mínimo exigido de receita municipal na** **saúde e no ensino**
+	- **Para assegurar os** **<span style="color:#d3869b">princípios da Constituição Estadual >></span>** **DEPENDE: provimento do TJ e representação do PGJ**
+	- **Promover a** **<span style="color:#d3869b">execução de lei, ordem ou decisão judicial >></span>** **DEPENDE: provimento do TJ e representação do PGJ**
+
+⚠️Leia todos os artigos acerca da **Intervenção e utilize o resumo acima para facilitar a memorização.**
 
 ## 3.7. CAPÍTULO VII - DA ADMINISTRAÇÃO PÚBLICA (ARTS. 37 A 43)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7. CAPÍTULO VII - DA ADMINISTRAÇÃO PÚBLICA (ARTS. 37 A 43)|Resumo]]
