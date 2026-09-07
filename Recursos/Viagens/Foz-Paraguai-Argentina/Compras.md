@@ -4,14 +4,13 @@
 
 ### Lista principal
 
-| Prioridade | Produto       | Modelo                                     | Preço atual* |               Preço-alvo | Decisão                         |
-| ---------- | ------------- | ------------------------------------------ | -----------: | -----------------------: | ------------------------------- |
-| 1          | PS5           | Sony PS5 Slim Digital CFI-2115B 825 GB     |      US$ 629 |            **≤ US$ 500** | Comprar se atingir alvo         |
-| 2          | Mouse         | Keychron M6 Silent 1K                      |       US$ 59 |             **≤ US$ 50** | Comprar se atingir alvo         |
-| 3          | Hub           | UGREEN 10-in-1 15601                       |    US$ 39,50 |             **≤ US$ 35** | Comprar se atingir alvo         |
-| 4          | Luminária     | Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V |       US$ 28 |             **≤ US$ 33** | Comprar; excelente a ≤ US$ 30   |
-| —          | SSD M.2 PS5   | 1–2 TB                                     |            — | **Ver seção específica** | Melhor expansão que SSD externo |
-| —          | Caixas de som | Edifier MR3                                |      ~US$ 79 |          **≤ US$ 65–70** | Opcional                        |
+| Prioridade | Produto       | Modelo                                     | Preço atual* |      Preço-alvo | Decisão                       |
+| ---------- | ------------- | ------------------------------------------ | -----------: | --------------: | ----------------------------- |
+| 1          | PS5           | Sony PS5 Slim Digital CFI-2115B 825 GB     |      US$ 629 |   **≤ US$ 500** | Comprar se atingir alvo       |
+| 2          | Mouse         | Keychron M6 Silent 1K                      |       US$ 59 |    **≤ US$ 50** | Comprar se atingir alvo       |
+| 3          | Hub           | UGREEN 10-in-1 15601                       |    US$ 39,50 |    **≤ US$ 35** | Comprar se atingir alvo       |
+| 4          | Luminária     | Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V |       US$ 28 |    **≤ US$ 33** | Comprar; excelente a ≤ US$ 30 |
+| 5          | Caixas de som | Edifier MR3                                |      ~US$ 79 | **≤ US$ 65–70** | Opcional                      |
 
 
 \*Preços são referências de acompanhamento em 07/09/2026 e podem mudar.
