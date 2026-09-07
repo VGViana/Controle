@@ -4,15 +4,14 @@
 
 ### Lista principal
 
-| Prioridade | Produto            | Modelo                                     | Preço atual* |               Preço-alvo | Decisão                                      |
-| ---------- | ------------------ | ------------------------------------------ | -----------: | -----------------------: | -------------------------------------------- |
-| 1          | PS5                | Sony PS5 Slim Digital CFI-2115B 825 GB     |      US$ 629 |            **≤ US$ 500** | Comprar se atingir alvo                      |
-| 2          | Mouse              | Keychron M6 Silent 1K                      |       US$ 59 |             **≤ US$ 50** | Comprar se atingir alvo                      |
-| 3          | Hub                | UGREEN 10-in-1 15601                       |    US$ 39,50 |             **≤ US$ 35** | Comprar se atingir alvo                      |
-| 4          | Luminária          | Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V |       US$ 28 |             **≤ US$ 33** | Comprar; excelente a ≤ US$ 30                |
-| —          | SSD PS5 externo    | 1 TB                                       |            — |          **≤ US$ 60–65** | Somente se aparecer uma promoção excepcional |
-| —          | SSD M.2 PS5        | 1–2 TB                                     |            — | **Ver seção específica** | Melhor expansão que SSD externo              |
-| —          | Caixas de som      | Edifier MR3 ou equivalente                 |      ~US$ 79 |          **≤ US$ 65–70** | Opcional                                     |
+| Prioridade | Produto         | Modelo                                     | Preço atual* |               Preço-alvo | Decisão                                      |
+| ---------- | --------------- | ------------------------------------------ | -----------: | -----------------------: | -------------------------------------------- |
+| 1          | PS5             | Sony PS5 Slim Digital CFI-2115B 825 GB     |      US$ 629 |            **≤ US$ 500** | Comprar se atingir alvo                      |
+| 2          | Mouse           | Keychron M6 Silent 1K                      |       US$ 59 |             **≤ US$ 50** | Comprar se atingir alvo                      |
+| 3          | Hub             | UGREEN 10-in-1 15601                       |    US$ 39,50 |             **≤ US$ 35** | Comprar se atingir alvo                      |
+| 4          | Luminária       | Xiaomi Mi LED Desk Lamp 1S MJTD01SYL 220 V |       US$ 28 |             **≤ US$ 33** | Comprar; excelente a ≤ US$ 30                |
+| —          | SSD M.2 PS5     | 1–2 TB                                     |            — | **Ver seção específica** | Melhor expansão que SSD externo              |
+| —          | Caixas de som   | Edifier MR3 ou equivalente                 |      ~US$ 79 |          **≤ US$ 65–70** | Opcional                                     |
 
 
 \*Preços são referências de acompanhamento em 07/09/2026 e podem mudar.
@@ -352,57 +351,6 @@ Não comprar a versão errada.
 
 ---
 
-# 10. SSD externo para PS5
-
-## Não é prioridade.
-
-Um SSD externo USB pode ser usado no PS5 como armazenamento estendido.
-
-Porém:
-
-> **Jogos de PS5 não rodam diretamente do SSD externo.**
-
-Você pode armazenar/mover os jogos para ele, mas precisa copiá-los de volta para o armazenamento interno ou para um SSD M.2 interno compatível quando quiser jogar.
-
-Jogos PS4 podem ser executados diretamente do armazenamento USB.
-
-Fonte oficial:
-https://www.playstation.com/pt-br/support/hardware/ps5-extended-storage/
-
-### Se aparecer uma oportunidade
-
-Comprar somente se:
-
-- 1 TB;
-- USB 3.x SuperSpeed;
-- marca confiável;
-- ≤ **US$ 60–65**;
-- garantia verificável.
-
-Preferir:
-
-- Samsung;
-- SanDisk;
-- Crucial;
-- Kingston;
-- WD.
-
-Evitar:
-
-- SSD "1 TB" genérico;
-- marcas desconhecidas;
-- capacidade suspeita;
-- preços absurdamente baixos;
-- produto sem nota/garantia.
-
-### Minha decisão
-
-**Não colocar no carrinho agora.**
-
-Se o preço do SSD externo não for excepcional, guardar o dinheiro para um **SSD M.2 interno do PS5**.
-
----
-
 # 11. SSD M.2 para PS5 — melhor expansão
 
 Se o armazenamento do PS5 realmente ficar pequeno, esta é a expansão que interessa.
@@ -457,230 +405,6 @@ Conferir:
 Primeiro usar o console.
 
 ---
-
-# 12. SATA 2,5" para o IdeaPad 3 15ALC6
-
-O PSREF do IdeaPad 3 15ALC6 indica suporte a:
-
-- 1× M.2 SSD;
-- 1× unidade 2,5";
-- nos modelos com bateria de 38 Wh, até dois drives;
-- unidade 2,5" de até 1 TB.
-
-Fonte:
-https://psref.lenovo.com/syspool/sys/pdf/ideapad/ideapad_3_15alc6/ideapad_3_15alc6_spec.pdf
-
-### Mas existe uma pegadinha
-
-Não basta comprar um SSD SATA.
-
-Dependendo da configuração física, pode ser necessário:
-
-- cabo SATA;
-- suporte/caddy;
-- parafusos;
-- espaço físico;
-- verificar a bateria e a montagem interna.
-
-### Situação atual
-
-Você usa ~100 GB do SSD de 512 GB.
-
-Portanto:
-
-> **NÃO COMPRAR SATA AGORA.**
-
-Só comprar quando houver necessidade real.
-
-### Preço-alvo futuro
-
-Para 1 TB SATA de marca confiável:
-
-**≤ US$ 55–65** = interessante.
-
-Se estiver:
-
-**US$ 80+** = comparar com NVMe externo/SSD M.2 e com preços no Brasil.
-
----
-
-# 13. SSD M.2 para o notebook
-
-### NÃO COMPRAR AGORA.
-
-Você já tem:
-
-**512 GB**
-
-e utiliza uma pequena parcela.
-
-Não faz sentido transformar dinheiro + imposto em capacidade que você não precisa.
-
-### Quando comprar
-
-Somente se:
-
-- uso ultrapassar ~350–400 GB;
-- começar a faltar espaço;
-- precisar trabalhar com arquivos grandes;
-- precisar de segundo sistema;
-- quiser separar dados/sistema.
-
-### Futuramente
-
-Preferir:
-
-- 1 TB ou 2 TB;
-- NVMe;
-- marca confiável.
-
-Não pagar prêmio por PCIe 4.0 se o uso real não justificar.
-
----
-
-# 14. RAM para o notebook
-
-## NÃO COMPRAR.
-
-Esta é uma das decisões mais importantes deste documento.
-
-Seu IdeaPad 3 15ALC6 específico possui:
-
-- **4 GB soldados**
-- **8 GB SO-DIMM**
-- total atual: **12 GB**
-
-O PSREF da Lenovo informa que a configuração com 4 GB soldados + 8 GB SO-DIMM chega a **12 GB**.
-
-Existe uma configuração de placa com 8 GB soldados + 8 GB SO-DIMM que chega a 16 GB, mas isso **não significa que seu notebook possa simplesmente trocar o módulo e chegar a 20 GB**.
-
-Fonte:
-https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_3_15ALC6/IdeaPad_3_15ALC6_Spec.html
-
-### Portanto
-
-**Não comprar 16 GB SO-DIMM para tentar fazer 20 GB.**
-
-No seu aparelho atual:
-
-> 4 GB soldados + 8 GB removíveis = 12 GB.
-
-E seu uso atual está adequado.
-
----
-
-# 15. MacBook para Linux
-
-## NÃO COMPRAR para esta viagem.
-
-MacBook pode rodar Linux, mas não é a melhor escolha para o seu objetivo.
-
-### Apple Silicon
-
-M1/M2/M3 podem rodar Linux através do projeto Asahi Linux/Fedora Asahi Remix.
-
-O suporte está muito bom nos M1/M2, e o suporte a M3 foi oficialmente incorporado ao instalador em setembro de 2026.
-
-Fontes:
-https://asahilinux.org/about/
-https://asahilinux.org/fedora/
-https://asahilinux.org/2026/09/m2-episode-1/
-
-### Porém
-
-Apple Silicon é ARM.
-
-Isso significa:
-
-- algumas aplicações precisam de versões ARM;
-- alguns jogos podem ser problemáticos;
-- compatibilidade de software é diferente de x86;
-- não é tão simples quanto instalar Arch/Fedora em um ThinkPad AMD.
-
-### M3
-
-O suporte Linux ao M3 está avançando muito, mas em setembro de 2026 ainda há limitações relevantes, incluindo GPU/3D e alguns recursos de firmware.
-
-### Intel Mac
-
-Intel Mac pode rodar Linux, inclusive modelos com T2 usando t2linux, mas eu não compraria um notebook Intel antigo em 2026 somente para Linux.
-
-### Decisão
-
-Se a prioridade for:
-
-> **Linux + manutenção + compatibilidade + custo-benefício**
-
-preferir:
-
-**ThinkPad AMD > MacBook**
-
----
-
-# 16. ThinkPad AMD Gen 2/Gen 3
-
-Essa é a única alternativa de notebook que eu manteria no radar.
-
-### Modelos interessantes
-
-Prioridade:
-
-1. **ThinkPad T14 Gen 2 AMD**
-2. **ThinkPad T14 Gen 3 AMD**
-3. **ThinkPad E14 Gen 2 AMD**
-4. **ThinkPad E14 Gen 3 AMD**
-
-### CPU
-
-Preferir:
-
-- Ryzen 5;
-- Ryzen 7;
-- 16 GB RAM;
-- SSD 512 GB ou maior.
-
-### T14 vs E14
-
-**T14:**
-- construção superior;
-- melhor linha profissional;
-- geralmente melhor teclado;
-- melhor manutenção;
-- melhor compra usada/seminova.
-
-**E14:**
-- mais barato;
-- ainda muito competente;
-- melhor custo-benefício se a diferença for grande.
-
-### Preços
-
-No Paraguai, atualmente há ThinkPad E16 Gen 2 AMD por cerca de **US$ 830**, mostrando que notebooks corporativos novos não necessariamente serão baratos.
-
-Fonte:
-https://www.comprasparaguai.com.br/busca/?q=thinkpad
-
-### Regra
-
-Não comprar um ThinkPad simplesmente porque é ThinkPad.
-
-Só considerar se:
-
-- CPU AMD;
-- 16 GB;
-- SSD ≥ 512 GB;
-- tela decente;
-- estado excelente;
-- preço muito abaixo de um notebook novo equivalente.
-
-### Para esta viagem
-
-**Não comprar.**
-
-Seu IdeaPad atual continua sendo suficiente.
-
----
-
 # 17. Caixas de som para o PC
 
 Você pediu:
@@ -716,26 +440,6 @@ https://www.comprasparaguai.com.br/caixa-de-som-edifier-mr3-20-ativa-36-w-rms-bl
 | **US$ 60–70** | Comprar |
 | **US$ 70–80** | Bom |
 | **> US$ 80** | Esperar |
-
-### Alternativas
-
-**Edifier G2000 Pro 2.0**
-- ~US$ 109;
-- 32 W RMS;
-- AUX;
-- USB-C;
-- Bluetooth;
-- RGB.
-
-Só vale se você realmente quiser o formato gamer/RGB.
-
-**Edifier R1280DBS**
-- ~US$ 119;
-- 42 W RMS;
-- Bluetooth;
-- RCA/óptico/coaxial;
-- melhor para som mais encorpado e uso doméstico.
-
 ### Minha decisão
 
 Para seu setup:
