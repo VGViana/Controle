@@ -51,8 +51,7 @@ Ir cedo, priorizar os produtos de maior risco de acabar:
 
 1. PS5
 2. M6
-3. UGREEN
-4. Xiaomi
+3. Xiaomi
 
 Motivo: é o primeiro dia oficial do evento e permite pegar estoque antes de outros compradores.
 
@@ -166,14 +165,14 @@ https://www.comprasparaguai.com.br/sony-playstation-5-slim-825gb-digital-edition
 
 ### Faixas
 
-| Preço | Decisão |
-|---:|---|
-| **≤ US$ 430** | Excelente; comprar |
-| **US$ 430–470** | Excelente |
-| **US$ 470–500** | Muito bom |
+|           Preço | Decisão                        |
+| --------------: | ------------------------------ |
+|   **≤ US$ 430** | Excelente; comprar             |
+| **US$ 430–470** | Excelente                      |
+| **US$ 470–500** | Muito bom                      |
 | **US$ 500–550** | Comparar fortemente com Brasil |
-| **US$ 550–570** | Só se o Brasil estiver ruim |
-| **> US$ 570** | Não comprar no Paraguai |
+| **US$ 550–570** | Só se o Brasil estiver ruim    |
+|   **> US$ 570** | Não comprar no Paraguai        |
 
 ### Motivo
 
@@ -207,13 +206,13 @@ Preço atual observado:
 
 ### Faixas
 
-| Preço | Decisão |
-|---:|---|
-| **≤ US$ 45** | Excelente |
-| **US$ 45–50** | Comprar |
-| **US$ 50–55** | Aceitável |
-| **US$ 55–59** | Esperar |
-| **> US$ 59** | Não comprar |
+|         Preço | Decisão     |
+| ------------: | ----------- |
+|  **≤ US$ 45** | Excelente   |
+| **US$ 45–50** | Comprar     |
+| **US$ 50–55** | Aceitável   |
+| **US$ 55–59** | Esperar     |
+|  **> US$ 59** | Não comprar |
 
 ### Por que comprar
 
@@ -235,60 +234,6 @@ Só considerar MX Master 3S se aparecer por aproximadamente **US$ 50 ou menos**.
 
 ---
 
-# 8. UGREEN 10-in-1 15601
-
-Link:
-https://www.comprasparaguai.com.br/hub-usb-c-10-in-1-ugreen-3usb-a-30hdmi4k30hzvgaethernetsdtf35mmusb-c-pd-15601__4411304/
-
-Preço de referência:
-**US$ 39,50.**
-
-### Faixas
-
-| Preço | Decisão |
-|---:|---|
-| **≤ US$ 30** | Excelente |
-| **US$ 30–35** | Comprar |
-| **US$ 35–40** | Bom, mas observar |
-| **US$ 40–45** | Só se precisar muito |
-| **> US$ 45** | Não comprar |
-
-### ATENÇÃO — IdeaPad 3 15ALC6
-
-O USB-C do IdeaPad 3 15ALC6 é **USB-C 3.2 Gen 1 para dados**.
-
-Ele não fornece:
-
-- DisplayPort Alt Mode;
-- USB-C Power Delivery para carregar o notebook.
-
-Portanto:
-
-```text
-USB-C do Lenovo
-        ↓
-UGREEN
-        ├── USB-A → FUNCIONA
-        ├── Ethernet → FUNCIONA
-        ├── SD/TF → FUNCIONA
-        ├── áudio → FUNCIONA
-        ├── HDMI → NÃO usar esperando vídeo pelo USB-C
-        └── PD → NÃO usar esperando carregar o Lenovo
-```
-
-O notebook continua usando o HDMI próprio para vídeo.
-
-Fonte Lenovo:
-https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_3_15ALC6/IdeaPad_3_15ALC6_Spec.html
-
-### Conclusão
-
-Ainda vale a pena como hub de conectividade.
-
-Mas **não compre esperando uma dock completa para o notebook**.
-
----
-
 # 9. Xiaomi Mi LED Desk Lamp 1S
 
 Link:
@@ -299,12 +244,12 @@ Preço observado:
 
 ### Faixas
 
-| Preço | Decisão |
-|---:|---|
-| **≤ US$ 28** | Excelente |
-| **US$ 28–33** | Comprar |
+|         Preço | Decisão          |
+| ------------: | ---------------- |
+|  **≤ US$ 28** | Excelente        |
+| **US$ 28–33** | Comprar          |
 | **US$ 33–36** | Só se necessário |
-| **> US$ 36** | Esperar |
+|  **> US$ 36** | Esperar          |
 
 ### Por que combina com o setup
 
@@ -337,108 +282,6 @@ E confirmar que a tomada onde ela será usada é compatível.
 Não comprar a versão errada.
 
 ---
-
-# 11. SSD M.2 para PS5 — melhor expansão
-
-Se o armazenamento do PS5 realmente ficar pequeno, esta é a expansão que interessa.
-
-O PS5 aceita SSD M.2 compatível para:
-
-- baixar jogos;
-- instalar jogos;
-- executar jogos diretamente.
-
-Fonte oficial:
-https://www.playstation.com/pt-br/support/hardware/ps5-install-m2-ssd/
-
-### Alvo
-
-#### 1 TB
-
-Comprar se encontrar um SSD de marca confiável por:
-
-**≤ US$ 70–80**
-
-#### 2 TB
-
-**Melhor escolha de longo prazo.**
-
-Comprar se aparecer:
-
-**≤ US$ 120–140**
-
-### Especificações
-
-Não comprar somente pelo nome "NVMe".
-
-Conferir:
-
-- PCIe NVMe;
-- formato compatível;
-- velocidade de leitura dentro da especificação do PS5;
-- dissipador;
-- dimensões;
-- marca;
-- garantia.
-
-### Preferência
-
-1. 2 TB bom e barato
-2. 1 TB muito barato
-3. 4 TB somente se aparecer uma promoção excepcional
-
-**Não comprar SSD M.2 agora apenas porque o PS5 tem 825 GB.**
-
-Primeiro usar o console.
-
----
-# 17. Caixas de som para o PC
-
-Você pediu:
-
-> boa relação custo-benefício + P2/3,5 mm.
-
-## Melhor alvo: Edifier MR3
-
-Preço atual observado:
-**~US$ 79**.
-
-Características:
-
-- 36 W RMS;
-- 18 W + 18 W;
-- Bluetooth 5.4;
-- TRS;
-- RCA;
-- AUX;
-- woofer 3,5";
-- tweeter de seda 1";
-- 52 Hz–40 kHz;
-- saída de fone 3,5 mm.
-
-Fonte:
-https://www.comprasparaguai.com.br/caixa-de-som-edifier-mr3-20-ativa-36-w-rms-bluetooth-branco__5463395/
-
-### Preço-alvo
-
-| Preço | Decisão |
-|---:|---|
-| **≤ US$ 60** | Excelente |
-| **US$ 60–70** | Comprar |
-| **US$ 70–80** | Bom |
-| **> US$ 80** | Esperar |
-### Minha decisão
-
-Para seu setup:
-
-> **MR3 ≤ US$ 70 = adicionar à lista.**
-
-Mas **não colocar no carrinho agora**.
-
-Seu carrinho já tem bastante valor tributável.
-
----
-
 # 18. Lojas
 
 ## Prioridade
@@ -570,17 +413,6 @@ M6 Silent 1K
 Preto
 ```
 
-### UGREEN
-
-Conferir:
-
-```text
-15601
-10-in-1
-```
-
----
-
 # 20. Situações boas
 
 ## Cenário A — excelente
@@ -588,11 +420,10 @@ Conferir:
 ```text
 PS5       ≤ US$ 470
 M6        ≤ US$ 45
-UGREEN    ≤ US$ 30
 Xiaomi    ≤ US$ 30
 ```
 
-Comprar os quatro.
+Comprar os três.
 
 Não adicionar mais nada.
 
@@ -601,11 +432,10 @@ Não adicionar mais nada.
 ```text
 PS5       US$ 470–500
 M6        US$ 45–50
-UGREEN    US$ 30–35
 Xiaomi    US$ 30–33
 ```
 
-Comprar os quatro se não houver alternativa brasileira melhor.
+Comprar os três se não houver alternativa brasileira melhor.
 
 ## Cenário C — PS5 barato, acessórios caros
 
@@ -614,7 +444,6 @@ Exemplo:
 ```text
 PS5       US$ 450
 M6        US$ 59
-UGREEN    US$ 45
 Xiaomi    US$ 36
 ```
 
@@ -622,7 +451,7 @@ Comprar:
 
 - PS5;
 - Xiaomi se realmente quiser;
-- M6/UGREEN somente se a diferença para o Brasil compensar.
+- M6 somente se a diferença para o Brasil compensar.
 
 ## Cenário D — PS5 caro
 
@@ -647,10 +476,6 @@ O preço atual não é suficientemente agressivo.
 ## M6 acima de US$ 55
 
 Esperar.
-
-## Hub acima de US$ 45
-
-Comprar no Brasil ou escolher um hub menor.
 
 ## Xiaomi acima de US$ 36
 
@@ -730,12 +555,9 @@ E exigir nota fiscal/recibo.
 
 Ordem de corte:
 
-1. acessórios;
-2. caixa de som;
-3. M6;
-4. UGREEN;
-5. Xiaomi;
-6. **PS5 por último.**
+1. M6;
+2. Xiaomi;
+3. **PS5 por último.**
 
 Mas se o PS5 estiver caro demais, o PS5 também deve ser cancelado.
 
@@ -750,17 +572,16 @@ Mas se o PS5 estiver caro demais, o PS5 também deve ser cancelado.
 ```text
 PS5       629
 M6         59
-UGREEN   39,50
 Xiaomi     28
 ----------------
-Total    755,50
+Total    721
 
 Imposto:
-(755,50 - 500) × 0,50
-= 127,75
+(721 - 500) × 0,50
+= 110,5
 
 Total:
-883,25
+831,5
 ```
 
 ## Carrinho bom
@@ -768,17 +589,15 @@ Total:
 ```text
 PS5       500
 M6         50
-UGREEN     35
 Xiaomi     33
 ----------------
-Total    618
+Total    583
 
 Imposto:
-(618 - 500) × 0,50
-= 59
+= 41,5
 
 Total:
-677
+624,5
 ```
 
 ## Carrinho excelente
@@ -786,17 +605,15 @@ Total:
 ```text
 PS5       470
 M6         45
-UGREEN     30
 Xiaomi     28
 ----------------
-Total    573
+Total    550
 
 Imposto:
-(573 - 500) × 0,50
-= 36,50
+= 50
 
 Total:
-609,50
+575
 ```
 
 ## Carrinho ideal
@@ -804,17 +621,15 @@ Total:
 ```text
 PS5       450
 M6         45
-UGREEN     30
 Xiaomi     28
 ----------------
-Total    553
+Total    520
 
 Imposto:
-(553 - 500) × 0,50
-= 26,50
+= 10
 
 Total:
-579,50
+530
 ```
 
 Esses cálculos são **planejamento**, não substituem a e-DBV.
@@ -830,26 +645,6 @@ Esses cálculos são **planejamento**, não substituem a e-DBV.
 - [ ] UGREEN 15601
 - [ ] Xiaomi Mi LED Desk Lamp 1S
 
-## OBSERVAR, MAS NÃO COLOCAR NO CARRINHO
-
-- [ ] SSD M.2 PS5 1 TB
-- [ ] SSD M.2 PS5 2 TB
-- [ ] SSD externo PS5 1 TB
-- [ ] Edifier MR3
-
-## NÃO COMPRAR AGORA
-
-- [ ] RAM do IdeaPad
-- [ ] SSD do notebook
-- [ ] SATA 2,5" do notebook
-- [ ] MacBook
-- [ ] ThinkPad
-- [ ] outro teclado
-- [ ] outro monitor
-- [ ] braço de monitor
-- [ ] suporte de notebook
-- [ ] decoração
-
 ---
 
 # 28. Ordem de prioridade no dia da compra
@@ -858,9 +653,6 @@ Esses cálculos são **planejamento**, não substituem a e-DBV.
 1. PS5
 2. Xiaomi 1S
 3. Keychron M6
-4. UGREEN 15601
-5. SSD M.2 PS5 — somente promoção excepcional
-6. Edifier MR3 — somente promoção excepcional
 ```
 
 Se o orçamento apertar:
@@ -870,11 +662,7 @@ PS5
 ↓
 M6
 ↓
-UGREEN
-↓
 Xiaomi
-↓
-todo o resto
 ```
 
 ---
