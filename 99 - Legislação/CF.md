@@ -839,80 +839,104 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 * § 2° A faixa de até cento e cinqüenta quilômetros de largura, ao longo das fronteiras terrestres, designada como faixa de fronteira, é considerada fundamental para defesa do território nacional, e sua ocupação e utilização serão reguladas em lei. ^92743a7
 
-* Art. 21. Compete à União: ^41903be
+* Art. 21. Compete à **<span style="color:#fb4934"><u>União</u></span>**: ^41903be
 
-	* I - manter relações com Estados estrangeiros e participar de organizações internacionais; ^ecd8204
+	* I - manter relações com **Estados estrangeiros** e participar de **organizações internacionais**; ^ecd8204
 
-	* II - declarar a guerra e celebrar a paz; ^a5fa2f2
+	* II - declarar a **guerra** e celebrar a **paz**; ^a5fa2f2
 
-	* III - assegurar a defesa nacional; ^45e4b13
+	* III - assegurar a **defesa nacional**; ^45e4b13
 
-	* IV - permitir, nos casos previstos em lei complementar, que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente; ^864f08d
+	* IV - permitir, nos casos previstos em lei complementar, que **forças estrangeiras transitem pelo território nacional** ou nele permaneçam temporariamente; ^864f08d
 
-	* V - decretar o estado de sítio, o estado de defesa e a intervenção federal; ^a3e54c6
+	* V - decretar o **estado de sítio, o estado de defesa e a intervenção federal**; ^a3e54c6
 
-	* VI - autorizar e fiscalizar a produção e o comércio de material bélico; ^d545049
+	* VI - autorizar e fiscalizar a **produção e o comércio de material bélico**; ^d545049
 
-	* VII - emitir moeda; ^8d5fd44
+	* VII - emitir **moeda**; ^8d5fd44
 
-	* VIII - administrar as reservas cambiais do País e fiscalizar as operações de natureza financeira, especialmente as de crédito, câmbio e capitalização, bem como as de seguros e de previdência privada; ^64c9dcb
+	* VIII - administrar as **reservas cambiais do País** e fiscalizar as operações de natureza financeira, especialmente as de crédito, câmbio e capitalização, bem como as de seguros e de previdência privada; ^64c9dcb
 
 	* IX - elaborar e executar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social; ^77337a0
 
-	* X - manter o serviço postal e o correio aéreo nacional; ^458c858
+	* X - manter o **serviço postal e o correio aéreo nacional**; ^458c858
 
-	* XI - explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços de telecomunicações, nos termos da lei, que disporá sobre a organização dos serviços, a criação de um órgão regulador e outros aspectos institucionais; (Redação dada pela Emenda Constitucional n° 8, de 15/08/95:) ^c7771c6
+	* XI - explorar, **diretamente ou mediante autorização, concessão ou permissão**, os serviços de **telecomunicações**, nos termos da lei, que disporá sobre a organização dos serviços, a criação de um órgão regulador e outros aspectos institucionais; (Redação dada pela Emenda Constitucional n° 8, de 15/08/95:) ^c7771c6
 
-	* XII - explorar, diretamente ou mediante autorização, concessão ou permissão: ^f35b79c
+	* XII - explorar, **diretamente ou mediante autorização, concessão ou permissão**: ^f35b79c
 
 		* a) os serviços de radiodifusão sonora, e de sons e imagens; (Redação dada pela Emenda Constitucional n° 8, de 15/08/95:) ^a236785
 
-		* b) os serviços e instalações de energia elétrica e o aproveitamento energético dos cursos de água, em articulação com os Estados onde se situam os potenciais hidroenergéticos; ^a0d7d47
+		* b) os serviços e instalações de **energia elétrica e o aproveitamento energético dos cursos de água**, em articulação com os Estados onde se situam os potenciais hidroenergéticos; ^a0d7d47
 
-		* c) a navegação aérea, aeroespacial e a infra-estrutura aeroportuária; ^08581d7
+		* c) a **navegação aérea, aeroespacial e a infra-estrutura aeroportuária**; ^08581d7
 
-		* d) os serviços de transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais, ou que transponham os limites de Estado ou Território; ^7f54033
+		* d) os serviços de **transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais**, ou que transponham os limites de Estado ou Território; ^7f54033
 
-		* e) os serviços de transporte rodoviário interestadual e internacional de passageiros; ^4699fb5
+		* e) os serviços de **transporte rodoviário interestadual e internacional** de passageiros; ^4699fb5
 
-		* f) os portos marítimos, fluviais e lacustres; ^efe1ac3
+		* f) os **portos marítimos, fluviais e lacustres**; ^efe1ac3
 
-	* XIII - organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios; (Redação dada pela Emenda Constitucional n° 69, de 2012) (Produção de efeito) ^629d5b5
+	* XIII - organizar e manter o **Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios**; (Redação dada pela Emenda Constitucional n° 69, de 2012) (Produção de efeito) ^629d5b5
 
-	* XIV - organizar e manter a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio; (Redação dada pela Emenda Constitucional n° 104, de 2019) ^4d21863
+	* XIV - organizar e manter a **polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal**, bem como prestar assistência financeira ao Distrito Federal para a execução de serviços públicos, por meio de fundo próprio; (Redação dada pela Emenda Constitucional n° 104, de 2019) ^4d21863
 
-	* XV - organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional; ^864adf4
+	* XV - organizar e manter os **serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional**; ^864adf4
 
-	* XVI - exercer a classificação, para efeito indicativo, de diversões públicas e de programas de rádio e televisão; ^afcdbbd
+	* XVI - **exercer a classificação**, para efeito indicativo, de diversões públicas e de programas de rádio e televisão; ^afcdbbd
 
-	* XVII - conceder anistia; ^d31f838
+	* XVII - conceder **anistia**; ^d31f838
 
-	* XVIII - planejar e promover a defesa permanente contra as calamidades públicas, especialmente as secas e as inundações; ^732d939
+	* XVIII - planejar e promover a **defesa permanente contra as calamidades públicas**, especialmente as secas e as inundações; ^732d939
 
-	* XIX - instituir sistema nacional de gerenciamento de recursos hídricos e definir critérios de outorga de direitos de seu uso; (Regulamento) ^6ab3457
+	* XIX - instituir **sistema nacional de gerenciamento de recursos hídricos** e definir critérios de outorga de direitos de seu uso; (Regulamento) ^6ab3457
 
-	* XX - instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e transportes urbanos; ^08219c0
+	* XX - instituir **diretrizes para o desenvolvimento urbano**, inclusive habitação, saneamento básico e transportes urbanos; ^08219c0
 
-	* XXI - estabelecer princípios e diretrizes para o sistema nacional de viação; ^0aa5ae7
+	* XXI - estabelecer **princípios e diretrizes para o sistema nacional de viação**; ^0aa5ae7
 
-	* XXII - executar os serviços de polícia marítima, aeroportuária e de fronteiras; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^4ad7621
+	* XXII - executar os serviços de **polícia marítima, aeroportuária e de fronteiras**; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^4ad7621
 
-	* XXIII - explorar os serviços e instalações nucleares de qualquer natureza e exercer monopólio estatal sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições: ^9268855
+	* XXIII - explorar os serviços e instalações **nucleares de qualquer natureza e exercer monopólio estatal** sobre a pesquisa, a lavra, o enriquecimento e reprocessamento, a industrialização e o comércio de minérios nucleares e seus derivados, atendidos os seguintes princípios e condições: ^9268855
 
-		* a) toda atividade nuclear em território nacional somente será admitida para fins pacíficos e mediante aprovação do Congresso Nacional; ^6508ca8
+		* a) toda atividade nuclear em território nacional somente será admitida **para fins pacíficos e mediante aprovação do Congresso Nacional**; ^6508ca8
 
-		* b) sob regime de permissão, são autorizadas a comercialização e a utilização de radioisótopos para pesquisa e uso agrícolas e industriais; (Redação dada pela Emenda Constitucional n° 118, de 2022) ^a94ea99
+		* b) sob regime de **permissão**, são autorizadas a comercialização e a utilização de radioisótopos para pesquisa e uso agrícolas e industriais; (Redação dada pela Emenda Constitucional n° 118, de 2022) ^a94ea99
 
-		* c) sob regime de permissão, são autorizadas a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos; (Redação dada pela Emenda Constitucional n° 118, de 2022) ^95d6082
+		* c) sob regime de **permissão**, são autorizadas a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos; (Redação dada pela Emenda Constitucional n° 118, de 2022) ^95d6082
 
-		* d) a responsabilidade civil por danos nucleares independe da existência de culpa; (Incluída pela Emenda Constitucional n° 49, de 2006) ^249488e
+		* d) **a responsabilidade civil por danos nucleares independe da existência de culpa**; (Incluída pela Emenda Constitucional n° 49, de 2006) ^249488e
 
-	* XXIV - organizar, manter e executar a inspeção do trabalho; ^0369ff7
+	* XXIV - organizar, manter e executar a **inspeção do trabalho**; ^0369ff7
 
-	* XXV - estabelecer as áreas e as condições para o exercício da atividade de garimpagem, em forma associativa. ^2d712cb
+	* XXV - estabelecer as áreas e as condições para o exercício da **atividade de garimpagem**, em forma associativa. ^2d712cb
 
-	* XXVI - organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei. (Incluído pela Emenda Constitucional n° 115, de 2022) ^0ff94d3
+	* XXVI - organizar e fiscalizar a **proteção e o tratamento de dados** **pessoais**, nos termos da lei. (Incluído pela Emenda Constitucional n° 115, de 2022) ^0ff94d3
 
+---
+- **<u>Competências Privativa</u> da** **<span style="color:#fe8019">União</span>**
+	- **👮<span style="color:#fe8019">CAPACETE de PM (é privativo)</span>**
+	- **C: D. Civil: relações comerciais**
+	- **A: D. Aeronáutico**
+	- **P: D. Penal** **<span style="color:#b8bb26">(penitenciário = concorrente)</span>**
+	- **A: D. Agrário**
+	- **C: D. Comercial - empresarial**
+	- **E: D. Eleitoral**
+	- **T:** **D. Trabalho**
+	- **E: D. Espacial**
+	- **P: D. Processual** **<span style="color:#b8bb26">(PROCEDIMENTOS é concorrente)</span>**
+	- **M: D. Marítimo**
+	- Tudo relacionado a estabelecer **diretrizes**, **bases**, **normas gerais**, etc
+	- **Trânsito** **e** **transporte**
+	- **Águas**, **energia**, **informática**, **telecomunicações**
+	- **Propaganda comercial**
+	- **Serviço postal**
+
+**Cancelamento de multas de trânsito anotadas em rodovias estaduais em certo período relativas a determinada espécie de veículo. Inconstitucionalidade formal. Violação da competência privativa da União para legislar sobre trânsito e transporte**
+
+> _Súmula Vinculante 46: A_ **_definição_** _dos_ **_crimes de responsabilidade_** **_e_** _o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa_ **_privativa da União_**_._
+
+---
 * Art. 22. Compete privativamente à União legislar sobre: ^1687197
 
 	* I - direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho; ^f6664dd
