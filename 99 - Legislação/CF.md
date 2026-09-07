@@ -1240,7 +1240,7 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 	* XIV - perda do mandato do Prefeito, nos termos do art. [[#^a3a0ad1|28]], [[#^cafef4b|parágrafo único]]. (Renumerado do inciso XII, pela Emenda Constitucional n° 1, de 1992) ^9da9cd0
 
-* Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § [[#^2e3546e|5°]] do art. [[#^b48cd87|153]] e nos arts. [[#^bfd7c36|158]] e [[#^835537a|159]] desta Constituição, efetivamente realizado no exercício anterior: (Redação dada pela Emenda Constitucional n° 109, de 2021) (Vigência) ^82bce5b
+* Art. 29-A. O total da despesa do Poder Legislativo Municipal, **<span style="color:#fe8019"><u>incluídos os subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas</u></span>**, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § [[#^2e3546e|5°]] do art. [[#^b48cd87|153]] e nos arts. [[#^bfd7c36|158]] e [[#^835537a|159]] desta Constituição, efetivamente realizado no exercício anterior: (Redação dada pela Emenda Constitucional n° 109, de 2021) (Vigência) ^82bce5b
 
 	* I - 7% (sete por cento) para Municípios com população de até 100.000 (cem mil) habitantes; (Redação dada pela Emenda Constituição Constitucional n° 58, de 2009) (Produção de efeito) ^5bda6c1
 
@@ -1306,10 +1306,6 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 > STJ - nos <span style="color:#fe8019">crimes dolosos</span> contra a vida, o Prefeito será julgado pelo **<span style="color:#fe8019">Tribunal de Justiça.</span>**
 
 ⚠️ Dê atenção ao art. 29, CF/88! No entanto, não perca tanto tempo com o inciso IV (composição das Câmaras Municipais), é um tópico que possui baixo custo-benefício.
-
-**<span style="color:#fb4934">Atualização</span>**
-
-_Art. 29-A, CF/88. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e_ **_<span style="color:#fe8019"><u>incluídos os gastos com inativos</u></span>_**_, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5  o  do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior:_  
 
 🚨Art. 30, CF/88 - saiba quais são as competências municipais!
 
