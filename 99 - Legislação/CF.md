@@ -1512,7 +1512,7 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 	* XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações. (Regulamento) ^ea6996f
 
-	* XXII - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão recursos prioritários para a realização de suas atividades e atuarão de forma integrada, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^3a78ba0
+	* XXII - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, **terão recursos prioritários para a realização de suas atividades e atuarão de forma integrada**, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio. (Incluído pela Emenda Constitucional n° 42, de 19.12.2003) ^3a78ba0
 
 	* § 1° A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos. ^d318b95
 
@@ -1527,14 +1527,27 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 		* III - a disciplina da representação contra o exercício negligente ou abusivo de cargo, emprego ou função na administração pública. (Incluído pela Emenda Constitucional n° 19, de 1998) ^50b222e
 
 	* § 4° Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível. ^f2517de
+		- **Atos de improbidade**
+			- Enriquecimento Ilícito
+			- Prejuízo ao Erário
+			- Contra os princípios da Administração Pública
+		- **Sanções**
+			- SUSPENSÃO dos direitos políticos
+			- PERDA da função pública
+			- INDISPONIBILIDADE dos bens
+			- RESSARCIMENTO ao erário
 
 	* § 5° A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento. ^5f619e2
 
-	* § 6° As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa. ^3c79595
+	* § 6° As pessoas jurídicas de direito público e as de direito privado **<span style="color:#fe8019">prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros</span>**, **<u>assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.</u>** ^3c79595
+	
+	- **Pessoas Jurídicas:**
+		- Direito Público
+		- Direito Privada - quando prestadoras de serviços público, mesmo que não integrem a Administração Indireta
 
 	* § 7° A lei disporá sobre os requisitos e as restrições ao ocupante de cargo ou emprego da administração direta e indireta que possibilite o acesso a informações privilegiadas. (Incluído pela Emenda Constitucional n° 19, de 1998) ^2c2b9b3
 
-	* § 8° A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por objeto a fixação de metas de desempenho para o órgão ou entidade, cabendo à lei dispor sobre: (Incluído pela Emenda Constitucional n° 19, de 1998) (Regulamento) (Vigência) ^b4ee3a0
+	* § 8° A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por **objeto a fixação de metas de desempenho para o órgão ou entidade**, cabendo à lei dispor sobre: (Incluído pela Emenda Constitucional n° 19, de 1998) (Regulamento) (Vigência) ^b4ee3a0
 
 		* I - o prazo de duração do contrato; (Incluído pela Emenda Constitucional n° 19, de 1998) ^a1a0caf
 
@@ -1560,11 +1573,11 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 * Art. 38. Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^fb97d1e
 
-	* I - tratando-se de mandato eletivo federal, estadual ou distrital, ficará afastado de seu cargo, emprego ou função; ^4004247
+	* I - tratando-se de mandato **<span style="color:#fb4934">eletivo federal, estadual ou distrital, ficará afastado de seu cargo</span>**, emprego ou função; ^4004247
 
-	* II - investido no mandato de Prefeito, será afastado do cargo, emprego ou função, sendo-lhe facultado optar pela sua remuneração; ^0f4f973
+	* II - investido no mandato de **<span style="color:#fe8019">Prefeito, será afastado do cargo, emprego ou função, sendo-lhe facultado optar pela sua remuneração</span>**; ^0f4f973
 
-	* III - investido no mandato de Vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo, e, não havendo compatibilidade, será aplicada a norma do inciso anterior; ^a362573
+	* III - investido no mandato de **<span style="color:#b8bb26">Vereador</span>**, havendo **<span style="color:#b8bb26">compatibilidade de horários, perceberá as vantagens</span>** de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo, e, não havendo compatibilidade, será aplicada a norma do inciso anterior; ^a362573
 
 	* IV - em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento; ^c6bd395
 
@@ -1601,21 +1614,30 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 	* § 9° É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo. (Incluído pela Emenda Constitucional n° 103, de 2019) ^466837d
 
-* Art. 40. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^2bcc4ca
+* Art. 40. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá **<span style="color:#fe8019">caráter contributivo e solidário</span>**, **<span style="color:#83a598">mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas</span>**, observados critérios que preservem o equilíbrio financeiro e atuarial. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^2bcc4ca
 
 	* § 1° O servidor abrangido por regime próprio de previdência social será aposentado: (Redação dada pela Emenda Constitucional n° 103, de 2019) ^fac40d8
 
-		* I - por incapacidade permanente para o trabalho, no cargo em que estiver investido, quando insuscetível de readaptação, hipótese em que será obrigatória a realização de avaliações periódicas para verificação da continuidade das condições que ensejaram a concessão da aposentadoria, na forma de lei do respectivo ente federativo; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^b8390b1
+		* I - por <span style="color:#fe8019">incapacidade permanente</span> para o trabalho, no cargo em que estiver investido, quando **<u>insuscetível de readaptação</u>**, hipótese em que será obrigatória a realização de **<u>avaliações periódicas</u>** para verificação da continuidade das condições que ensejaram a concessão da aposentadoria, na forma de lei do respectivo ente federativo; (Redação dada pela Emenda Constitucional n° 103, de 2019) ^b8390b1
 
-		* II - compulsoriamente, com proventos proporcionais ao tempo de contribuição, aos 70 (setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade, na forma de lei complementar; (Redação dada pela Emenda Constitucional n° 88, de 2015) (Vide Lei Complementar n° 152, de 2015) ^dabe2ed
+		* II - **<span style="color:#fe8019">compulsoriamente</span>** - (PEC da bengala), com proventos proporcionais ao tempo de contribuição, aos **<u>70 (setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade</u>**, na forma de lei complementar; (Redação dada pela Emenda Constitucional n° 88, de 2015) (Vide Lei Complementar n° 152, de 2015) ^dabe2ed
 
-		* III - no âmbito da União, aos 62 (sessenta e dois) anos de idade, se mulher, e aos 65 (sessenta e cinco) anos de idade, se homem, e, no âmbito dos Estados, do Distrito Federal e dos Municípios, na idade mínima estabelecida mediante emenda às respectivas Constituições e Leis Orgânicas, observados o tempo de contribuição e os demais requisitos estabelecidos em lei complementar do respectivo ente federativo. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^0910882
+		* III - no âmbito da <span style="color:#fe8019">União</span>, aos **<span style="color:#fb4934">62 (sessenta e dois) anos de idade, se mulher</span>**, e aos **<span style="color:#83a598">65 (sessenta e cinco) anos de idade, se homem</span>**, e, no âmbito dos **<span style="color:#b8bb26">Estados, do Distrito Federal e dos Municípios</span>**, na idade mínima estabelecida mediante emenda às respectivas **<span style="color:#b8bb26">Constituições e Leis Orgânicas</span>**, observados o tempo de contribuição e os demais requisitos estabelecidos em lei complementar do respectivo ente federativo. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^0910882
 
 	* § 2° Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § [[#^4878d14|2°]] do art. [[#^9cc8602|201]] ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, observado o disposto nos §§ [[#^151a42f|14]] a [[#^998899c|16]]. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^a56a278
+		- Não podem ser inferiores - salário mínimo
+		- Não podem ser superiores - limite máximo estabelecido pelo RGPS
 
 	* § 3° As regras para cálculo de proventos de aposentadoria serão disciplinadas em lei do respectivo ente federativo. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^b6c5560
 
 	* § 4° É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ [[#^5c4ec52|4°-A]], [[#^3962185|4°-B]], [[#^fd1edff|4°-C]] e [[#^410cf0e|5°]]. (Redação dada pela Emenda Constitucional n° 103, de 2019) ^7281d33
+		**<span style="color:#fb4934">Exceto para:</span>** 
+		- Servidores com deficiência
+		- Servidores que estão em frequente exposição a agentes químicos, físicos e biológicos que prejudicam a saúde
+		- Servidores que são ocupantes de cargos de agentes penitenciários, agentes socioeducativos, policiais legislativos da Câmara e do Senado, policiais federais, policiais civis, policiais ferroviários federais e policiais rodoviários federais.
+		- Professores: educação infantil, ensino fundamental e médio
+			- 60 anos - homens
+			- 57 - mulheres
 
 	* § 4°-A. Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de servidores com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar. (Incluído pela Emenda Constitucional n° 103, de 2019) ^5c4ec52
 
