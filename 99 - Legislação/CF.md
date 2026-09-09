@@ -1447,11 +1447,21 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 ### 3.7.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 37 A 38)
 [[NavegaLei/Constituição Federal de 1988 (CF1988)/MOC/3.7.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 37 A 38)|Resumo]]
 
-* Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^73a80b7
+* Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte: (Redação dada pela Emenda Constitucional n° 19, de 1998) - **<u><span style="color:#83a598">LIMPE</span></u>** ^73a80b7
 
-	* I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^93f564e
+	* I - os cargos, empregos e funções públicas são acessíveis aos **<u>**<span style="color:#fe8019">brasileiros</span>**</u>** que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^93f564e
+		- **Súmula Vinculante nº 44 (STF)**: "Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
 
-	* II - a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^9e785ae
+			> **Súmula nº 14 (STF)**: “Não é admissível, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo público."  
+		- **<span style="color:#fb4934">ATENÇÃO!</span>**
+			- Requisitos para cargos públicos - data da posse
+			- Limite de idade - data da inscrição
+			- Brasileiros (natos ou naturalizados) - podem ocupar cargos públicos na forma da lei; **devem atender os requisitos em lei**
+			- Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve haver lei autorizando**
+
+	* II - a investidura em cargo ou emprego público depende de **<span style="color:#83a598">aprovação prévia em concurso público de provas ou de provas e títulos</span>**, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para **<span style="color:#fb4934">cargo em comissão declarado em lei de livre nomeação e exoneração;</span>** (Redação dada pela Emenda Constitucional n° 19, de 1998) ^9e785ae
+		- Vedação ao Nepotismo
+		> **Súmula Vinculante 13 -** Também há vedação à **nomeação cruzada.**
 
 	* III - o prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período; ^3bf6bba
 
@@ -1468,32 +1478,37 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 	* IX - a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público; (Vide Emenda constitucional n° 106, de 2020) ^68b8c5a
 
 	* X - a remuneração dos servidores públicos e o subsídio de que trata o § [[#^51bdef8|4°]] do art. [[#^a4b00e0|39]] somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices; (Redação dada pela Emenda Constitucional n° 19, de 1998) (Regulamento) ^acf623e
+		- Subsídio x Vencimento x Salário
 
-	* XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do [[Poder Executivo]], o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos; (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^3af496b
+	* XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, **<span style="color:#fb4934">não poderão exceder o subsídio mensal</span>**, em espécie, dos **<span style="color:#fb4934">Ministros do Supremo Tribunal Federal</span>**, aplicando-se como limite, nos **<span style="color:#fe8019">Municípios</span>**, o **<span style="color:#fe8019">subsídio do Prefeito</span>**, e nos **<span style="color:#b8bb26">Estados e no Distrito Federal</span>**, o **<span style="color:#b8bb26">subsídio mensal do Governador</span>** no âmbito do [[Poder Executivo]], o **<span style="color:#d3869b">subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo</span>** e o **<span style="color:#83a598">subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos</span>**; (Redação dada pela Emenda Constitucional n° 41, 19.12.2003) ^3af496b
 
-	* XII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo [[Poder Executivo]]; ^3cce705
+	* XII - os vencimentos dos cargos do **<span style="color:#fb4934">Poder Legislativo e do Poder Judiciário não poderão ser superiores</span>** aos pagos pelo [[Poder Executivo]]; ^3cce705
 
+		- **<span style="color:#fb4934">Não pode</span>** haver vinculação ou equiparação de remuneração - "aumentos em cascata"  
+		- **<span style="color:#fb4934">Não pode</span>** haver vinculação de subsídios de diferentes entes políticos - "efeito repique"
+		> **Súmula Vinculante nº 42, do STF**: “É **inconstitucional** a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária.”
+	
 	* XIII - é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^0b47d84
 
 	* XIV - os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^1c7b8a7
 
 	* XV - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos [[#^3af496b|XI]] e [[#^1c7b8a7|XIV]] deste artigo e nos arts. [[#^a4b00e0|39]], § [[#^51bdef8|4°]], [[#^95551ec|150]], [[#^43dd743|II]], [[#^b48cd87|153]], [[#^f267e04|III]], e [[#^b48cd87|153]], § [[#^e72598f|2°]], [[#^ce29455|I]]; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^81e6ba5
 
-	* XVI - é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso [[#^3af496b|XI]]: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^773f388
+	* XVI - é **<span style="color:#83a598">vedada a acumulação remunerada de cargos públicos</span>**, exceto, quando houver **<span style="color:#fb4934">compatibilidade de horários</span>**, observado em qualquer caso o disposto no inciso [[#^3af496b|XI]]: (Redação dada pela Emenda Constitucional n° 19, de 1998) ^773f388
 
-		* a) a de dois cargos de professor; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^af7d218
+		* a) a de **<span style="color:#fb4934">dois cargos de professor</span>**; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^af7d218
 
-		* b) a de um cargo de professor com outro de qualquer natureza; (Redação dada pela Emenda Constitucional n° 138, de 2025) ^a0d6244
+		* b) a de **<span style="color:#fb4934">um cargo de professor com outro de qualquer natureza</span>**; (Redação dada pela Emenda Constitucional n° 138, de 2025) ^a0d6244
 
-		* c) a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas; (Redação dada pela Emenda Constitucional n° 34, de 2001) ^0c257fb
+		* c) a de **<span style="color:#fb4934">dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas</span>**; (Redação dada pela Emenda Constitucional n° 34, de 2001) ^0c257fb
 
-	* XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^14a7f94
+	* XVII - **<span style="color:#83a598">a proibição de acumular estende-se a empregos e funções</span>** e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades **<span style="color:#83a598">controladas, direta ou indiretamente, pelo poder público</span>**; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^14a7f94
 
 	* XVIII - a administração fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei; ^cac9e26
 
 	* XIX - somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação; (Redação dada pela Emenda Constitucional n° 19, de 1998) ^4fc064d
 
-	* XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada; ^c2f60dd
+	* XX - depende de **<span style="color:#83a598">autorização legislativa, em cada caso, a criação de subsidiárias</span>** das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada; ^c2f60dd
 
 	* XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações. (Regulamento) ^ea6996f
 
