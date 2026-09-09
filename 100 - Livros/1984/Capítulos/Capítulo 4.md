@@ -1,0 +1,1 @@
+[[Winston Smith]] trabalha no [[Ministério da verdade]], alterando as informações que chegam em uma espécie de censura. As pessoas que eram raptadas, tinham seus registros alterados por este.
