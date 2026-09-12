@@ -161,7 +161,7 @@ DISPOSIÇÃO PRELIMINAR
 
 	* III - quando se trate de produto apreendido ou abandonado, levado a leilão, o preço da arrematação. ^58ad717
 
-* Art. 21. O [[Poder Executivo]] pode, nas condições e nos limites estabelecidos em lei, alterar as alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-lo aos objetivos da política cambial e do comércio exterior. ^41903be
+* Art. 21. O [[12. Poder Executivo]] pode, nas condições e nos limites estabelecidos em lei, alterar as alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-lo aos objetivos da política cambial e do comércio exterior. ^41903be
 
 * Art. 22. Contribuinte do impôsto é: ^1687197
 
@@ -184,7 +184,7 @@ DISPOSIÇÃO PRELIMINAR
 
 * Art. 25. A lei pode adotar como base de cálculo a parcela do valor ou do preço, referidos no artigo anterior, excedente de valor básico, fixado de acordo com os critérios e dentro dos limites por ela estabelecidos. ^2412c38
 
-* Art. 26. O [[Poder Executivo]] pode, nas condições e nos limites estabelecidos em lei, alterar as alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-los aos objetivos da política cambial e do comércio exterior. ^e0d9bc8
+* Art. 26. O [[12. Poder Executivo]] pode, nas condições e nos limites estabelecidos em lei, alterar as alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-los aos objetivos da política cambial e do comércio exterior. ^e0d9bc8
 
 * Art. 27. Contribuinte do impôsto é o exportador ou quem a lei a êle equiparar. ^f316d70
 
@@ -400,7 +400,7 @@ DISPOSIÇÃO PRELIMINAR
 
 		* c) no pagamento ou resgate, o preço. ^42a82af
 
-* Art. 65. O [[Poder Executivo]] pode, nas condições e nos limites estabelecidos em lei, alterar as alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-lo aos objetivos da política monetária. ^e119300
+* Art. 65. O [[12. Poder Executivo]] pode, nas condições e nos limites estabelecidos em lei, alterar as alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-lo aos objetivos da política monetária. ^e119300
 
 * Art. 66. Contribuinte do impôsto é qualquer das partes na operação tributada, como dispuser a lei. ^2e13f57
 
@@ -1559,11 +1559,11 @@ DISPOSIÇÃO PRELIMINAR
 
 	* Parágrafo único. Os Municípios de um mesmo Estado procederão igualmente, no que se refere à fixação da alíquota de que trata o artigo [[#^97b5b8c|60]]. ^58a2f30
 
-* Art. 214. O [[Poder Executivo]] promoverá a realização de convênios com os Estados, para excluir ou limitar a incidência do imposto sobre operações relativas à circulação de mercadorias, no caso de exportação para o exterior. ^12253d5
+* Art. 214. O [[12. Poder Executivo]] promoverá a realização de convênios com os Estados, para excluir ou limitar a incidência do imposto sobre operações relativas à circulação de mercadorias, no caso de exportação para o exterior. ^12253d5
 
-* Art. 215. A lei estadual pode autorizar o [[Poder Executivo]] a reajustar, no exercício de 1967, a alíquota de imposto a que se refere o artigo [[#^f00796a|52]], dentro de limites e segundo critérios por ela estabelecidos. ^faf8042
+* Art. 215. A lei estadual pode autorizar o [[12. Poder Executivo]] a reajustar, no exercício de 1967, a alíquota de imposto a que se refere o artigo [[#^f00796a|52]], dentro de limites e segundo critérios por ela estabelecidos. ^faf8042
 
-* Art. 216. O [[Poder Executivo]] proporá as medidas legislativas adequadas a possibilitar, sem compressão dos investimentos previstos na proposta orçamentária de 1967, o cumprimento do disposto no artigo 21 da Emenda Constitucional n° 18, de 1965. ^4d7b1e3
+* Art. 216. O [[12. Poder Executivo]] proporá as medidas legislativas adequadas a possibilitar, sem compressão dos investimentos previstos na proposta orçamentária de 1967, o cumprimento do disposto no artigo 21 da Emenda Constitucional n° 18, de 1965. ^4d7b1e3
 
 * Art. 217. As disposições desta Lei, notadamente as dos arts [[#^10f159f|17]], [[#^b4fee68|74]], § [[#^cc0ebad|2°]] e [[#^45e2cfb|77]], [[#^cb5ba39|parágrafo único]], bem como a do art. 54 da Lei 5.025, de 10 de junho de 1966, não excluem a incidência e a exigibilidade: (Incluído pelo Decreto-lei n° 27, de 1966) ^b1f985f
 

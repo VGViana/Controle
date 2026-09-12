@@ -1,6 +1,6 @@
 # Parecer Prévio
 
-Manifestação técnica emitida pelo Tribunal de Contas sobre as contas anuais do Chefe do [[Poder Executivo]]. Não é julgamento de contas: serve de subsídio qualificado ao julgamento político-administrativo realizado pelo Poder Legislativo.
+Manifestação técnica emitida pelo Tribunal de Contas sobre as contas anuais do Chefe do [[12. Poder Executivo]]. Não é julgamento de contas: serve de subsídio qualificado ao julgamento político-administrativo realizado pelo Poder Legislativo.
 
 ## Regra constitucional
 

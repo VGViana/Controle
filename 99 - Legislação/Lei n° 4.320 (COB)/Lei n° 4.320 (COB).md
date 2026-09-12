@@ -51,9 +51,9 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 
 	* II - Realizar em qualquer mês do exercício financeiro, operações de crédito por antecipação da receita, para atender a insuficiências de caixa. ^a335086
 
-	* § 1° Em casos de déficit, a Lei de Orçamento indicará as fontes de recursos que o [[Poder Executivo]] fica autorizado a utilizar para atender a sua cobertura. ^470709d
+	* § 1° Em casos de déficit, a Lei de Orçamento indicará as fontes de recursos que o [[12. Poder Executivo]] fica autorizado a utilizar para atender a sua cobertura. ^470709d
 
-	* § 2° O produto estimado de operações de crédito e de alienação de bens imóveis sòmente se incluirá na receita quando umas e outras forem especìficamente autorizadas pelo Poder Legislativo em forma que jurìdicamente possibilite ao [[Poder Executivo]] realizá-las no exercício. ^5bdaa83
+	* § 2° O produto estimado de operações de crédito e de alienação de bens imóveis sòmente se incluirá na receita quando umas e outras forem especìficamente autorizadas pelo Poder Legislativo em forma que jurìdicamente possibilite ao [[12. Poder Executivo]] realizá-las no exercício. ^5bdaa83
 
 	* § 3° A autorização legislativa a que se refere o parágrafo anterior, no tocante a operações de crédito, poderá constar da própria Lei de Orçamento. ^aeb1f88
 
@@ -288,7 +288,7 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 ### 1.2.1. CAPÍTULO I - CONTEÚDO E FORMA DA PROPOSTA ORÇAMENTÁRIA (ART. 22)
 [[1.2.1. CAPÍTULO I - CONTEÚDO E FORMA DA PROPOSTA ORÇAMENTÁRIA (ART. 22)|Resumo]]
 
-* Art. 22. A **<span style="color:#83a598">proposta orçamentária</span>** que o [[Poder Executivo]] encaminhará ao Poder Legislativo nos prazos estabelecidos nas Constituições e nas Leis Orgânicas dos Municípios, compor-se-á de: ^1687197
+* Art. 22. A **<span style="color:#83a598">proposta orçamentária</span>** que o [[12. Poder Executivo]] encaminhará ao Poder Legislativo nos prazos estabelecidos nas Constituições e nas Leis Orgânicas dos Municípios, compor-se-á de: ^1687197
 
 	* I - <span style="color:#83a598">**Mensagem**</span>, que conterá: exposição circunstanciada da **<span style="color:#83a598">situação econômico-financeira, documentada com demonstração da dívida fundada e flutuante, saldos de créditos especiais, restos a pagar</span>** e outros compromissos financeiros exigíveis; exposição e justificação da política econômico-financeira do Govêrno; justificação da receita e despesa, particularmente no tocante ao orçamento de capital; ^f6664dd
 
@@ -318,7 +318,7 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 #### 1.2.2.1. SEÇÃO PRIMEIRA - DAS PREVISÕES PLURIENAIS (ARTS. 23 A 26)
 [[1.2.2.1. SEÇÃO PRIMEIRA - DAS PREVISÕES PLURIENAIS (ARTS. 23 A 26)|Resumo]]
 
-* Art. 23. As receitas e despesas de capital serão objeto de um Quadro de Recursos e de Aplicação de Capital, aprovado por decreto do [[Poder Executivo]], abrangendo, no mínimo um triênio. ^382bb16
+* Art. 23. As receitas e despesas de capital serão objeto de um Quadro de Recursos e de Aplicação de Capital, aprovado por decreto do [[12. Poder Executivo]], abrangendo, no mínimo um triênio. ^382bb16
 
 	* Parágrafo único. O Quadro de Recursos e de Aplicação de Capital será anualmente reajustado acrescentando-se-lhe as previsões de mais um ano, de modo a assegurar a projeção contínua dos períodos. ^e98793c
 
@@ -415,9 +415,9 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 
 		* V - abranger apenas o direito autônomo ao recebimento do crédito, assim como recair somente sobre o produto de créditos já constituídos e reconhecidos pelo devedor ou contribuinte, inclusive mediante a formalização de parcelamento; (Incluído pela Lei Complementar n° 208, de 2024) ^8dfc284
 
-		* VI - **<span style="color:#fe8019">ser autorizada, na forma de lei específica do ente, pelo chefe do [[Poder Executivo]] ou por autoridade administrativa</span>** a quem se faça a delegação dessa competência; (Incluído pela Lei Complementar n° 208, de 2024) ^3f88ca9
+		* VI - **<span style="color:#fe8019">ser autorizada, na forma de lei específica do ente, pelo chefe do [[12. Poder Executivo]] ou por autoridade administrativa</span>** a quem se faça a delegação dessa competência; (Incluído pela Lei Complementar n° 208, de 2024) ^3f88ca9
 
-		* VII - **<span style="color:#b8bb26">realizar-se até 90 (noventa) dias antes da data de encerramento do mandato do chefe do [[Poder Executivo]]</span>**, ressalvado o caso em que o integral pagamento pela cessão dos direitos creditórios ocorra após essa data. (Incluído pela Lei Complementar n° 208, de 2024) ^f20cfab
+		* VII - **<span style="color:#b8bb26">realizar-se até 90 (noventa) dias antes da data de encerramento do mandato do chefe do [[12. Poder Executivo]]</span>**, ressalvado o caso em que o integral pagamento pela cessão dos direitos creditórios ocorra após essa data. (Incluído pela Lei Complementar n° 208, de 2024) ^f20cfab
 
 	* § 2° A cessão de direitos creditórios preservará a base de cálculo das vinculações constitucionais no exercício financeiro em que o contribuinte efetuar o pagamento. (Incluído pela Lei Complementar n° 208, de 2024) ^baf3afe
 
@@ -468,7 +468,7 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 
 		* III - os resultantes de **<span style="color:#b8bb26">anulação parcial ou total de dotações orçamentárias ou de créditos adicionais</span>**, autorizados em Lei; (Veto rejeitado no DOU, de 5.5.1964) ^3c97655
 
-		* IV - o **<span style="color:#b8bb26">produto de operações de crédito autorizadas</span>**, em forma que jurìdicamente possibilite ao [[Poder Executivo]] realizá-las. (Veto rejeitado no DOU, de 5.5.1964) ^dfbb76b
+		* IV - o **<span style="color:#b8bb26">produto de operações de crédito autorizadas</span>**, em forma que jurìdicamente possibilite ao [[12. Poder Executivo]] realizá-las. (Veto rejeitado no DOU, de 5.5.1964) ^dfbb76b
 
 	* § 2° Entende-se por **<span style="color: #d79921">superavit financeiro a diferença positiva entre o ativo financeiro e o passivo financeiro, conjugando-se, ainda, os saldos dos créditos adicionais transferidos e as operações de crédito a êles vinculadas</span>**. (Veto rejeitado no DOU, de 5.5.1964) ^c3d0c38
 
@@ -486,7 +486,7 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 ### 1.6.1. CAPÍTULO I - DA PROGRAMAÇÃO DA DESPESA (ARTS. 47 A 50)
 [[1.6.1. CAPÍTULO I - DA PROGRAMAÇÃO DA DESPESA (ARTS. 47 A 50)|Resumo]]
 
-* Art. 47. Imediatamente após a promulgação da Lei de Orçamento e com base nos limites nela fixados, o [[Poder Executivo]] aprovará um quadro de cotas trimestrais da despesa que cada unidade orçamentária fica autorizada a utilizar. ^c61a3d2
+* Art. 47. Imediatamente após a promulgação da Lei de Orçamento e com base nos limites nela fixados, o [[12. Poder Executivo]] aprovará um quadro de cotas trimestrais da despesa que cada unidade orçamentária fica autorizada a utilizar. ^c61a3d2
 
 * Art. 48. A fixação das cotas a que se refere o artigo anterior atenderá aos seguintes objetivos: ^bc34018
 
@@ -610,7 +610,7 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 ### 1.8.2. CAPÍTULO II - DO CONTRÔLE INTERNO (ARTS. 76 A 80)
 [[1.8.2. CAPÍTULO II - DO CONTRÔLE INTERNO (ARTS. 76 A 80)|Resumo]]
 
-* Artigo 76. O [[Poder Executivo]] exercerá os três tipos de contrôle a que se refere o artigo [[#^5b0f4de|75]], sem prejuízo das atribuições do Tribunal de Contas ou órgão equivalente. ^2b02d53
+* Artigo 76. O [[12. Poder Executivo]] exercerá os três tipos de contrôle a que se refere o artigo [[#^5b0f4de|75]], sem prejuízo das atribuições do Tribunal de Contas ou órgão equivalente. ^2b02d53
 
 * Artigo 77. A verificação da legalidade dos atos de execução orçamentária será prévia, concomitante e subseqüente. ^45e2cfb
 
@@ -627,9 +627,9 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 
 * Artigo 81. O contrôle da execução orçamentária, pelo Poder Legislativo, terá por objetivo verificar a probidade da administração, a guarda e legal emprêgo dos dinheiros públicos e o cumprimento da Lei de Orçamento. ^d1360d9
 
-* Artigo 82. O [[Poder Executivo]], **<span style="color:#b8bb26">anualmente, prestará contas ao Poder Legislativo</span>**, no prazo estabelecido nas Constituições ou nas Leis orgânicas dos Municípios. ^f799fff
+* Artigo 82. O [[12. Poder Executivo]], **<span style="color:#b8bb26">anualmente, prestará contas ao Poder Legislativo</span>**, no prazo estabelecido nas Constituições ou nas Leis orgânicas dos Municípios. ^f799fff
 
-	* § 1° As contas do [[Poder Executivo]] serão submetidas ao Poder Legislativo, com Parecer prévio do Tribunal de Contas ou órgão equivalente. ^ad9409b
+	* § 1° As contas do [[12. Poder Executivo]] serão submetidas ao Poder Legislativo, com Parecer prévio do Tribunal de Contas ou órgão equivalente. ^ad9409b
 
 	* § 2° **<span style="color:#fe8019">Quando, no Município, não houver Tribunal de Contas ou órgão equivalente, a Câmara de Vereadores poderá designar peritos contadores para verificarem as contas do prefeito</span>** e sôbre elas emitirem parecer. ^626b74e
 
@@ -747,7 +747,7 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 ## 1.10. TÍTULO X - DAS AUTARQUIAS E OUTRAS ENTIDADES (ARTS. 107 A 110)
 [[1.10. TÍTULO X - DAS AUTARQUIAS E OUTRAS ENTIDADES (ARTS. 107 A 110)|Resumo]]
 
-* Artigo 107. As entidades autárquicas ou paraestatais, inclusive de previdência social ou investidas de delegação para arrecadação de contribuições parafiscais da União, dos Estados, dos Municípios e do Distrito Federal terão seus orçamentos aprovados por decreto do [[Poder Executivo]], salvo se disposição legal expressa determinar que o sejam pelo Poder Legislativo. (Vide Decreto n° 60.745, de 1967) ^6628a87
+* Artigo 107. As entidades autárquicas ou paraestatais, inclusive de previdência social ou investidas de delegação para arrecadação de contribuições parafiscais da União, dos Estados, dos Municípios e do Distrito Federal terão seus orçamentos aprovados por decreto do [[12. Poder Executivo]], salvo se disposição legal expressa determinar que o sejam pelo Poder Legislativo. (Vide Decreto n° 60.745, de 1967) ^6628a87
 
 	* Parágrafo único. Compreendem-se nesta disposição as emprêsas com autonomia financeira e administrativa cujo capital pertencer, integralmente, ao Poder Público. ^52fbaa7
 

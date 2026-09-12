@@ -4,7 +4,7 @@ Fiscalização exercida pelo Poder Legislativo, com o auxílio dos Tribunais de 
 
 ## Como funciona
 
-No plano federal, o Congresso Nacional é o titular do controle e o TCU o auxilia. A fórmula constitucional não torna o Tribunal de Contas órgão subordinado ao Legislativo nem integrante do [[Poder Judiciário]].
+No plano federal, o Congresso Nacional é o titular do controle e o TCU o auxilia. A fórmula constitucional não torna o Tribunal de Contas órgão subordinado ao Legislativo nem integrante do [[13. Poder Judiciário]].
 
 ## Atenção para concursos
 

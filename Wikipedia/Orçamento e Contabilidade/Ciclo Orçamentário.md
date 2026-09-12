@@ -12,7 +12,7 @@ Sequência contínua de etapas pelas quais passa o orçamento público: elabora�
 ## Atenção para concursos
 
 - O ciclo não se encerra na publicação da LOA; inclui execução, fiscalização e avaliação.
-- A iniciativa dos projetos de PPA, LDO e LOA é do [[Poder Executivo]].
+- A iniciativa dos projetos de PPA, LDO e LOA é do [[12. Poder Executivo]].
 - Emendas parlamentares submetem-se aos requisitos constitucionais e legais, inclusive compatibilidade com PPA e LDO.
 
 ## Veja também
