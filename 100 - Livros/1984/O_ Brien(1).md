@@ -1,0 +1,1 @@
+- Amigo do trabalho de [[Winston Smith]]
