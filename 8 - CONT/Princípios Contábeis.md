@@ -1,6 +1,6 @@
 # Princípios da Contabilidade
 
-![[Princípios Contábeis.png|1801]]
+![Princípios Contábeis](imagens/Princ%C3%ADpios%20Cont%C3%A1beis.png){width=1801}
 
 📍 **Regime de Caixa**
 

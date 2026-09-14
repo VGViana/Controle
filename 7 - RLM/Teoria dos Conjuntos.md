@@ -9,7 +9,7 @@
         - **A = {x | x foi jogador da seleção brasileira na Copa de 2014}** Leia-se: A é o conjunto dos elementos x tal que x é um jogador da seleção brasileira da Copa de 2014.
     - Por **diagramação**: utilizamos uma curva fechada e não-entrelaçada para representar o conjunto:
 
-![[Teoria dos Conjuntos_1.png]]
+![Teoria dos Conjuntos_1](Images/Teoria%20dos%20Conjuntos_1.png)
 
 - <span style="color:#b8bb26">Relação de pertinência</span>: _**b ∈ A**_. Lemos: _b_ pertence a _A_;
 - <span style="color:#83a598">Relação de inclusão</span>: _**{a, e} ⊂ A**_. Lemos: {_a_,_e_} está contido em _A_;
@@ -19,19 +19,19 @@
 
 - <span style="color:#b8bb26">União</span>: _**A**_ **∪** **_B_**_._ Será um conjunto contendo **todos** os elementos dos dois conjuntos.
 
-![[união.png]]
+![união](Images/uni%C3%A3o.png)
 
 - <span style="color:#83a598">Interseção</span>: _**C ∩ D**._ Será um conjunto contendo os elementos **comuns** aos dois conjuntos.
 
-![[interseção.png]]
+![interseção](Images/interse%C3%A7%C3%A3o.png)
 
 - <span style="color: #d79921">Diferença</span>: **_A - B_**_._ Será um conjunto com todos os elementos de A que **não são elementos de B**.
 
-![[diferença.png]]
+![diferença](Images/diferen%C3%A7a.png)
 
 - <span style="color:#fb4934">Complementar</span>: Ã _._ Tudo o que **está no conjunto universo mas não está em A**.
 
-![[complementar.png]]
+![complementar](Images/complementar.png)
 
 ## **1.3 Número de Elementos**
 

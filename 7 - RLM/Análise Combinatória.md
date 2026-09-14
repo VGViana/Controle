@@ -85,7 +85,7 @@ n! = n x (n-1) x (n-2)x ... x 3 x 2 x 1 n!= n x (n-1)x(n-2)x...x3x2x1 
 
 - Nas permutações em que aparecem elementos repetidos, a raciocínio envolve uma pequena complexidade. Vamos tomar um exemplo:
     - Quantos **anagramas** possui a palavra ARARAQUARA?
-	![[Análise Combinatória-1.png]]
+	![Análise Combinatória-1](Images/An%C3%A1lise%20Combinat%C3%B3ria-1.png)
 
 	- Observe que as letras A e R se repetem 5 e 3 vezes, respectivamente.
 - A lógica é você primeiro imaginar que todas as letras são distintas. Como se tivéssemos o A1, o A2, o A3, o A4 e o A5; a mesma coisa para a letra R.  
@@ -110,7 +110,7 @@ $$
 
 - Enquanto nas permutações simples a posição de cada elemento era importante, nas permutações circulares surge um problema novo: agora não temos mais um primeiro, um segundo, ou um último elemento. Surgem posições idênticas pela simples rotação do círculo. Imagine uma pulseira formada por quatro cores distintas:
 
-![[Análise Combinatória-3.png]]
+![Análise Combinatória-3](Images/An%C3%A1lise%20Combinat%C3%B3ria-3.png)
 
 📍 Assim, o que importa nesse tipo de permutação é a posição relativa de cada elemento; ou seja, a posição de cada um em relação aos outros.
 
@@ -191,11 +191,11 @@ $$
 
 ✅Essa tabela ajuda a resolver muitos problemas envolvendo análise combinatória:
 
-![[Análise Combinatória-4.png]]
+![Análise Combinatória-4](Images/An%C3%A1lise%20Combinat%C3%B3ria-4.png)
 
 ⚠️Por fim, veja um esquema legal para definir para decidir a análise combinatória:
 
-![[Análise Combinatória-7.png]]
+![Análise Combinatória-7](Images/An%C3%A1lise%20Combinat%C3%B3ria-7.png)
 
 ## **1.7 Partições - Lemas de Kaplansky** 
 

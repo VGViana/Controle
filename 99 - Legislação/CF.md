@@ -643,7 +643,7 @@ A **<u>pena de banimento</u>** não foi aceita pela **CF/88.**
 
 	> STF - desfiliação e infidelidade partidária são causas de perda do mandato - apenas se aplica aos candidatos do sistema proporcional.
 	
-	> ![[CF.png]]
+	> ![CF](../2%20-%20D%20CONST/Imagens/CF.png)
 
 	* **<span style="color:#fb4934">§ 4° São inelegíveis os inalistáveis e os analfabetos.</span>** ^379a551
 

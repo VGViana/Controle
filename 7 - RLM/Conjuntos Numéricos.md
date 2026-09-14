@@ -51,17 +51,17 @@
 
 - **Podemos ter situações distintas durante uma subtração.** Quando estivermos diante de uma <u>subtração onde o algarismo que compõe o minuendo for maior que algarismo que compõe o subtraendo</u>**, realiza-se uma <span style="color: #d79921"><u>subtração comum</u></span>, subtraindo o número de cima pelo de baixo, veja o exemplo:**
 
-![[Conjuntos Numéricos.png]]
+![Conjuntos Numéricos](Images/Conjuntos%20Num%C3%A9ricos.png)
 
 **Entretanto, pode acontecer exatamente o inverso e o minuendo possuir números menores que os do subtraendo. Dessa forma, precisaremos utilizar outra estratégia, temos duas opções:**
 
 **1) Em vez de subtrair o menor número do maior, iremos emprestar 1 da dezena e adicioná-la à unidade. Assim, o número que recebeu o empréstimo converte-se em dezena e retiramos uma unidade do número que cedeu o empréstimo. Vejamos através do exemplo referente à subtração de (25-18):**
 
-![[Conjuntos Numéricos-1.png]]
+![Conjuntos Numéricos-1](Images/Conjuntos%20Num%C3%A9ricos-1.png)
 
 **2) Podemos adicionar uma dezena à unidade do minuendo e para compensar, também adicionar uma unidade ao próximo número do subtraendo. Vejamos o exemplo com os mesmos números utilizados na opção 1):**
 
-![[Conjuntos Numéricos-2.png]]
+![Conjuntos Numéricos-2](Images/Conjuntos%20Num%C3%A9ricos-2.png)
 
 ## **1.4. Multiplicação**
 
@@ -102,7 +102,7 @@
 
 - Uma dica para trabalhar com a multiplicação de números maiores é saber a tabuada decorada mesmo. Seja humilde e admita caso não saiba. Treine um pouco todos os dias e vai conseguir. Você pode usar a tabela abaixo para relembrar da tabuada de 1 a 10:
 
-![[Conjuntos Numéricos-3.png]]
+![Conjuntos Numéricos-3](Images/Conjuntos%20Num%C3%A9ricos-3.png)
 
 ## **1.5 Divisão** 
 
@@ -115,7 +115,7 @@ Na divisão, temos os seguintes elementos:
 - **<span style="color: #d79921">Quociente</span>:** É o resultado da divisão, representando a quantidade de vezes que o divisor está contido no dividendo.
 - **<span style="color: #d79921">Resto</span>:** É o valor que sobra após a divisão completa do dividendo pelo divisor, quando o dividendo não é perfeitamente divisível pelo divisor.  
 - Vejamos como isso fica na prática:
-![[Conjuntos Numéricos-4.png]]
+![Conjuntos Numéricos-4](Images/Conjuntos%20Num%C3%A9ricos-4.png)
 
 ### **1.5.1 Terminologia e símbolos** 
 
@@ -128,12 +128,12 @@ Na divisão, temos os seguintes elementos:
 - **Primeiro passo** - Por qual número começar a divisão? Dos quatro algarismos do dividendo, precisamos escolher o primeiro número que seja maior ou igual ao divisor. Começaremos, então, pelo 82. 
     - Aqui já somos capazes de concluir algo **IMPORTANTÍSSIMO**. Já podemos inferir quantos algarismos **DA PARTE INTEIRA** (PRESTE ATENÇÃO NISSO) o quociente terá após a divisão completa.
     - Após a divisão do 82 por 25, ainda teremos no dividendo 2 algarismos (o 7 e o 5), certo?
-![[Conjuntos Numéricos-5.png]]
+![Conjuntos Numéricos-5](Images/Conjuntos%20Num%C3%A9ricos-5.png)
 - Bom, já temos 1 algarismo no quociente, e ainda faltam 2 algarismos no dividendo que ainda precisam entrar na conta.
 - A partir disso, **<span style="color:#fe8019">podemos afirmar com toda certeza que o nosso quociente terá 3 algarismos NA PARTE INTEIRA</span>**.
 - Em outras palavras, o número de algarismos NA PARTE INTEIRA no quociente será o número de “números” que serão utilizados no dividendo para a divisão completa. No caso em tela, seriam os números 82, 7 e 5.  ⚠️⚠️⚠️(Pode levar essa conclusão pra vida, Gurujinha. Ela é importantíssima)  
 - **Segundo Passo** - Baixar o 7 e fazer novamente a conta. Após, finalizar a conta com o último número.
-![[Conjuntos Numéricos-6.png]]
+![Conjuntos Numéricos-6](Images/Conjuntos%20Num%C3%A9ricos-6.png)
 
 ## **1.6 Frações**
 
@@ -141,7 +141,7 @@ Na divisão, temos os seguintes elementos:
     1) Nas operações com frações, é importante simplificar as frações resultantes, sempre que possível. Isso facilita a compreensão e a manipulação das frações;  
     2) Temos que ter em mente algumas relações que nos economizarão tempo, vejamos:
 
-![[Conjuntos Numéricos-7.png]]
+![Conjuntos Numéricos-7](Images/Conjuntos%20Num%C3%A9ricos-7.png)
 
 - Agora vamos trabalhar com exemplos de cada operação para facilitar a compreensão:
 
@@ -167,11 +167,11 @@ Na divisão, temos os seguintes elementos:
 
 Por fim, imagine que você tenha que realizar a seguinte operação:
 
-![[Conjuntos Numéricos-8.png]]
+![Conjuntos Numéricos-8](Images/Conjuntos%20Num%C3%A9ricos-8.png)
 
 - Esse tipo de situação vai ser bastante comum, principalmente, quanto formos resolver problemas envolvendo regra de três composta. Nesse caso, poderíamos multiplicar os respectivos numeradores e, após, os respectivos denominadores. Mas concorda que daria um resultado bem grande e ao final você ainda teria que simplificar? Não é isso que queremos, nem temos tempo na prova. Por isso, podemos simplificar logo. Basta saber que, na multiplicação, podemos simplificar tudo que está em cima (numeradores) com tudo que está em baixo (denominadores), independentemente da ordem. Vejamos:
 
-![[Conjuntos Numéricos-9.png]]
+![Conjuntos Numéricos-9](Images/Conjuntos%20Num%C3%A9ricos-9.png)
 
 ## **1.7 Potenciação e Radiciação** 
 
@@ -182,59 +182,59 @@ Por fim, imagine que você tenha que realizar a seguinte operação:
 
 ❗A notação matemática para potenciação é:
 
-![[Conjuntos Numéricos-10.png]]
+![Conjuntos Numéricos-10](Images/Conjuntos%20Num%C3%A9ricos-10.png)
 
 📚Por exemplo:
 
 - <span style="color:#fb4934">2 elevado ao expoente 3</span> é igual a <span style="color: #d79921">2 x 2 x 2</span>, o que resulta em 8. Isso pode ser representado como:
-![[Conjuntos Numéricos-11.png]]
+![Conjuntos Numéricos-11](Images/Conjuntos%20Num%C3%A9ricos-11.png)
 
 - <span style="color:#fb4934">5 elevado ao expoente 2</span> é igual a <span style="color: #d79921">5 x 5</span>, o que resulta em 25. Isso pode ser representado como:
 
-![[Conjuntos Numéricos-12.png]]
+![Conjuntos Numéricos-12](Images/Conjuntos%20Num%C3%A9ricos-12.png)
 
 ⚠️ Alguns pontos importantes sobre potenciação incluem:
 
 - Quando a base é elevada ao **expoente 0**, o resultado é sempre 1. Por exemplo:
 
-![[Conjuntos Numéricos-13.png]]
+![Conjuntos Numéricos-13](Images/Conjuntos%20Num%C3%A9ricos-13.png)
 
 - Quando a base é elevada ao **expoente 1**, o resultado é sempre igual à base. Por exemplo:
 $$ 2¹ = 2 $$
 
 - Quando um número é elevado ao **expoente negativo**, o resultado é igual a 1 dividido pelo número elevado ao expoente positivo correspondente. Por exemplo:
 
-![[Conjuntos Numéricos-14.png]]
+![Conjuntos Numéricos-14](Images/Conjuntos%20Num%C3%A9ricos-14.png)
 
 - **Potência de base negativa**: quando uma base é negativa e o expoente é um número par, a potência resultante é sempre positiva. Quando o expoente é um número ímpar, a potência resultante é sempre negativa. Nesse caso, observe se a operação tem parênteses ou não, pois faz toda a diferença (muita atenção ao item 3 abaixo, pois o "sinal de menos" não está sendo elevado e por isso se mantém. Vejamos:
 
-![[Conjuntos Numéricos-15.png]]
+![Conjuntos Numéricos-15](Images/Conjuntos%20Num%C3%A9ricos-15.png)
 
 - **Potência de base fracionária**: Neste caso, podemos elevar tanto o numerador quanto o denominador a um expoente. Por exemplo:
 
-![[Conjuntos Numéricos-16.png]]
+![Conjuntos Numéricos-16](Images/Conjuntos%20Num%C3%A9ricos-16.png)
 
 📚 Existem algumas **propriedades** de potenciação que são <span style="color:#fb4934">importantes de se conhecer:</span>
 
 - Propriedade da **multiplicação de potência de base igual**: quando duas potências têm a mesma base, podemos somar os expoentes. Por exemplo:
 
-![[Conjuntos Numéricos-17.png]]
+![Conjuntos Numéricos-17](Images/Conjuntos%20Num%C3%A9ricos-17.png)
 
 - Propriedade da **divisão de potência de base igual**: quando duas potências têm a mesma base, podemos subtrair os expoentes. Por exemplo:
 
-![[Conjuntos Numéricos-18.png]]
+![Conjuntos Numéricos-18](Images/Conjuntos%20Num%C3%A9ricos-18.png)
 
 - Propriedade da **potência do produto**: quando temos um produto elevado a um expoente, podemos elevar cada fator a esse expoente separadamente. Por exemplo:
 
-![[Conjuntos Numéricos-19.png]]
+![Conjuntos Numéricos-19](Images/Conjuntos%20Num%C3%A9ricos-19.png)
 
 - Propriedade da potência de potência: quando temos uma potência elevada a um expoente, podemos multiplicar os expoentes. Por exemplo:
 
-![[Conjuntos Numéricos-20.png]]
+![Conjuntos Numéricos-20](Images/Conjuntos%20Num%C3%A9ricos-20.png)
 
 - ⚠️Obs.: Cuidado para não confundir a última propriedade com o caso abaixo. Os parênteses pode fazer toda diferença.
 
-![[Conjuntos Numéricos-21.png]]
+![Conjuntos Numéricos-21](Images/Conjuntos%20Num%C3%A9ricos-21.png)
 
 ⚠️ Lembre-se principalmente que: 
 
@@ -249,7 +249,7 @@ $$ 2¹ = 2 $$
 - **A radiciação é a operação inversa da** [**potenciação**](https://mundoeducacao.uol.com.br/matematica/potenciacao.htm), então dominar potenciação é essencial para calcular a raiz de um número. Como vimos acima, a raiz de um número é a potência de expoente fracionário. Basicamente,aplicam-se as mesmas propriedades. Vamos se atentar basicamente a como simplificar os radicais.  
 - Para indicar a radiciação, usamos a seguinte notação:
 
-![[Conjuntos Numéricos-22.png]]
+![Conjuntos Numéricos-22](Images/Conjuntos%20Num%C3%A9ricos-22.png)
 
 Sendo,
 - **n** o índice do radical. Indica quantas vezes o número que estamos procurando foi multiplicado por ele mesmo.
@@ -257,7 +257,7 @@ Sendo,
 
 📚 Exemplos:
 
-![[Conjuntos Numéricos-23.png]]
+![Conjuntos Numéricos-23](Images/Conjuntos%20Num%C3%A9ricos-23.png)
 
 ### **1.8.1 Simplificação de radicais** 
 
@@ -268,12 +268,12 @@ Sendo,
 1. Fatorar o número em fatores primos. (Caso não lembre desse processo, ainda iremos estudá-lo nas próximas aulas)
 2. A cada dupla (se for raiz quadrada), trio (se for raiz cúbica), quarteto (raiz quarta) e etc. de números, juntamos e formamos um só. Todos que foram juntados ficam fora da raiz, sendo multiplicados, e quem sobrou fica dentro da raiz. Com os exemplos vai ficar mais claro:
 
-![[Conjuntos Numéricos-24.png]]
+![Conjuntos Numéricos-24](Images/Conjuntos%20Num%C3%A9ricos-24.png)
 
 - No exemplo acima, queríamos a raiz quadrada e por isso montamos duplas. Note que não ficou ninguém dentro da raiz, pois não sobrou nenhum número sem dupla.
 
 
-![[Conjuntos Numéricos-25.png]]
+![Conjuntos Numéricos-25](Images/Conjuntos%20Num%C3%A9ricos-25.png)
 
 ### **1.8.2 Operações com radicais**
 
@@ -317,7 +317,7 @@ Sendo,
 - **Exemplo:**
     - Calcule o MDC(132,120)
         - Vamos decompor os números.
-![[Conjuntos Numéricos-26.png]]
+![Conjuntos Numéricos-26](Images/Conjuntos%20Num%C3%A9ricos-26.png)
 
 - Logo temos:
 	- 132 = 2² x 3 x 11

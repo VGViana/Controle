@@ -7,11 +7,11 @@
 ### **1.1.1 Distância:** 
 As unidades de medida de distância são utilizadas para quantificar o **<span style="color:#b8bb26">espaço entre dois pontos</span>** ou a extensão de um objeto. Existem várias unidades de medida de distância, e a escolha da unidade depende do contexto e da escala da distância a ser medida. Vejamos como funciona **<span style="color:#fb4934">a conversão</span>** das principais unidades utilizadas para distância:
 
-![[conversão de distância.png]]
+![conversão de distância](Images/convers%C3%A3o%20de%20dist%C3%A2ncia.png)
 
 Temos também situações em que essas distâncias são dadas em potência, geralmente ao quadrado. Note que a conversão se dará então:
 
-![[conversão de área.png]]
+![conversão de área](Images/convers%C3%A3o%20de%20%C3%A1rea.png)
 
 ⚠As bancas cobram com recorrência <span style="color:#fb4934">problemas de orientação no espaço</span>. Caso tenha dificuldade pra desenvolver as questões, sugerimos esse vídeo do Prof. Guilherme Neves:
 
@@ -22,16 +22,16 @@ Temos também situações em que essas distâncias são dadas em potência, gera
 ### **1.1.2 Massa e volume:** 
 A **<span style="color:#b8bb26">massa</span>** é uma medida da quantidade de matéria em um objeto e é comumente medida em várias unidades em todo o mundo, vejamos as principais conversões:
 
-![[Conversão de massa.png]]
+![Conversão de massa](Images/Convers%C3%A3o%20de%20massa.png)
 
 Já o **<span style="color:#b8bb26">volume</span>** é uma medida tridimensional do espaço ocupado por um objeto ou substância. Existem várias unidades de medida de volume, e a escolha da unidade depende do contexto e das preferências regionais. Vejamos como ocorre as conversões:
 
-![[Conversão de volume.png]]
+![Conversão de volume](Images/Convers%C3%A3o%20de%20volume.png)
 
 ### **1.1.3 Tempo:**  
 As unidades de medida de tempo são usadas para quantificar **<span style="color:#b8bb26">intervalos de tempo e eventos que ocorrem em diferentes durações.</span>** Existem várias unidades de medida de tempo, desde as mais curtas até as mais longas, para atender às necessidades de medição em diversas situações.  Vejamos como funcionam as conversões:
 
-![[Conversão de tempo.png]]
+![Conversão de tempo](Images/Convers%C3%A3o%20de%20tempo.png)
 
 É importante também sabermos relacionar as unidades de tempo menores, como segundos, minutos e horas com as maiores, dias, semanas, meses e anos. Vejamos: 
 
@@ -64,9 +64,9 @@ Resumindo:
 Ano múltiplo de 4 e de 100 = <span style="color: #d79921">Não é bissexto</span>**
 **Ano múltiplo de 4, de 100 e de 400 = <span style="color: #d79921">Bissexto</span>.**
 
-![[Cálculo de dias no mês.png]]
+![Cálculo de dias no mês](Images/C%C3%A1lculo%20de%20dias%20no%20m%C3%AAs.png)
 
-![[Cálculo de dias no calendário.png]]
+![Cálculo de dias no calendário](Images/C%C3%A1lculo%20de%20dias%20no%20calend%C3%A1rio.png)
 
 # **3. PRINCÍPIO DA CASA DOS POMBOS**
 

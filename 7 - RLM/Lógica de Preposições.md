@@ -181,7 +181,7 @@ Se uma proposição composta apresenta **"n"** proposições, então a tabela v
 
 🚨**Grave esse quadro!!**
 
-![[Lógica de Preposições.png]]
+![Lógica de Preposições](Images/L%C3%B3gica%20de%20Preposi%C3%A7%C3%B5es.png)
 
 ## **1.7** **Negação de proposições**
 

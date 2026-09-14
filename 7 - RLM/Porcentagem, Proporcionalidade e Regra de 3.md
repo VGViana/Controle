@@ -1,7 +1,7 @@
 # **1. PORCENTAGEM**
 
 - Razões de denominador 100 são as chamadas porcentagens, ou seja:
-![[Porcentagem, Proporcionalidade e Regra de 3.png]]
+![Porcentagem, Proporcionalidade e Regra de 3](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203.png)
 - Vejamos alguns exemplos:
     - 20% = 20/100
     -  50% = 50/100
@@ -16,19 +16,19 @@
 - Para acharmos o percentual de um valor, basta multiplicarmos o número pela fração da porcentagem. Ficou meio esquisito né? Vejamos na prática:
 
 ❗Queremos 20% de 120, então vamos multiplicar a fração 20/100 por 120:
-![[Porcentagem, Proporcionalidade e Regra de 3-1.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-1](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-1.png)
 
 - Façamos agora o caminho inverso (isso é bastante importante também):
 
 ❗Queremos saber qual a % o número 24 representa em relação ao número 120. Basta multiplicarmos essa fração por 100% = (100/100), vejamos:
-![[Porcentagem, Proporcionalidade e Regra de 3-2.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-2](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-2.png)
 
 📚 Vejamos um exemplo:
 
 Em uma prova para o cargo de auditor fiscal, Joãozinho Guruja obteve 153 pontos em um total de 180 pontos possíveis, qual a % de aproveitamento de Joãozinho Guruja ?
 
 - Podemos dividir o número de pontos obtidos pelo número de pontos totais e após isso multiplicarmos por 100% para obter a porcentagem:
-![[Porcentagem, Proporcionalidade e Regra de 3-3.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-3](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-3.png)
 
 ## **1.2 Variação Percentual** (MUITO EXPLORADO PELAS BANCAS)
 
@@ -57,28 +57,28 @@ Em que Vf = Valor Final
               i = Taxa do desconto/aumento
 
 - E se for preciso achar a taxa (i) ao invés dos valores? Aí utilizamos a seguinte expressão:
-![[Porcentagem, Proporcionalidade e Regra de 3-4.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-4](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-4.png)
 
 Ou ainda podemos utilizar a expressão:
 
-![[Porcentagem, Proporcionalidade e Regra de 3-5.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-5](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-5.png)
 
 # **2. PROPORCIONALIDADE**
 
 - Trata-se de uma relação matemática entre duas ou mais grandezas que se comparam entre si. Uma proporção pode ser escrita na forma:
-![[Porcentagem, Proporcionalidade e Regra de 3-6.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-6](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-6.png)
 
 ## **2.1 Nomenclaturas**
 
 - Lembremos o que vimos anteriormente: No caso do exemplo acima, temos que os elementos que estão no numerador (“a” e “c”) são os chamados <span style="color:#b8bb26">antecedentes</span>, já os elementos que estão no denominador (“b” e “d”), são os chamados <span style="color:#b8bb26">consequentes</span>.  
     
 - Temos ainda a relação entre os elementos na diagonal são chamadas de meios e extremos, vejamos:
-![[Porcentagem, Proporcionalidade e Regra de 3-7.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-7](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-7.png)
 
 - Vejamos um exemplo com números:  
   
 Na proporção 2, 3, 8, e 12 temos:
-![[Porcentagem, Proporcionalidade e Regra de 3-8.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-8](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-8.png)
 
 - Dizemos que 2 está para 3 assim como 8 está para 12. 
 	- Antecedentes: 2 e 8  
@@ -91,44 +91,44 @@ Na proporção 2, 3, 8, e 12 temos:
 Propriedade fundamental da proporção
 
 - Essa propriedade fala basicamente que tudo que fizermos de um lado, devemos também fazer do outro lado da expressão, ou seja se temos a/b = c/d e queremos multiplicar a/b por 4, também devemos multiplicar c/d por 4:
-![[Porcentagem, Proporcionalidade e Regra de 3-9.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-9](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-9.png)
 
 - Em toda proporção, o produto dos meios é igual ao produto dos extremos:
-![[Porcentagem, Proporcionalidade e Regra de 3-10.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-10](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-10.png)
 
 - Vejamos um exemplo com números:
-![[Porcentagem, Proporcionalidade e Regra de 3-11.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-11](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-11.png)
 
 - **Obs.:** <span style="color:#fb4934">Essa é a propriedade que ajuda a resolver a maioria dos problemas envolvendo proporção</span>.
 
 - É possível permutar os meios ou os extremos (ou ainda os dois juntos) e manter a proporcionalidade, vejamos:
-![[Porcentagem, Proporcionalidade e Regra de 3-12.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-12](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-12.png)
 
 Ou seja, podemos inverter a ordem de antecedente e consequente dos dois lados e manter a proporcionalidade, exemplo:
-![[Porcentagem, Proporcionalidade e Regra de 3-13.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-13](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-13.png)
 
 ## **2.3 Simplificação de Frações nas Proporções** 
 
 - Temos aqui duas formas de simplificar as proporções  
     i) Mesmo lado da equação: Simplifica numerador com denominador:
-    ![[Porcentagem, Proporcionalidade e Regra de 3-14.png]]
+    ![Porcentagem, Proporcionalidade e Regra de 3-14](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-14.png)
 	ii) Lados diferentes da equação: numerador com numerador ou denominador com denominador:
-	![[Porcentagem, Proporcionalidade e Regra de 3-15.png]]
+	![Porcentagem, Proporcionalidade e Regra de 3-15](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-15.png)
 	- Quando somamos (ou subtraímos) os antecedentes e os consequentes a proporção não se altera. Isto é:
-		![[Porcentagem, Proporcionalidade e Regra de 3-16.png]]
+		![Porcentagem, Proporcionalidade e Regra de 3-16](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-16.png)
 	- Exemplo: 
 		- Calcule a e b na proporção abaixo, sabendo que a + b = 45
-![[Porcentagem, Proporcionalidade e Regra de 3-17.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-17](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-17.png)
 
 - Agora podemos isolar uma das duas proporções e igualar ao resultado que encontramos (5):
-![[Porcentagem, Proporcionalidade e Regra de 3-18.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-18](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-18.png)
 
 ## **2.4 Proporções múltiplas** 
 
 - Veja que podemos utilizar essa propriedade também quando temos mais de duas proporções, vejamos um exemplo:
     - Vamos considerar que (a+b+c = 180) e a=2;b=3;c=5:
 
-![[Porcentagem, Proporcionalidade e Regra de 3-19.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-19](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-19.png)
 
 - Podemos então isolar uma das 3 proporções, assim como fizemos anteriormente, e igualar ao 18.   
     Com isso encontraremos: <span style="color:#b8bb26">a=36; b=54; c=90.</span> 
@@ -142,7 +142,7 @@ Ou seja, podemos inverter a ordem de antecedente e consequente dos dois lados e 
     - Portanto as grandezas X e Y são diretamente proporcionais, pois a razão entre os valores que elas assumem é sempre igual a ¼.
     - De outra forma, podemos dizer que uma proporção é dita **<span style="color:#fb4934">direta</span>** se, ao aumentar um termo, o outro termo correspondente também aumenta na mesma proporção. Por exemplo, se um carro percorre 100 km em 2 horas, ele percorrerá 200 km em 4 horas. Vejamos como isso se aplica graficamente:
 
-![[Porcentagem, Proporcionalidade e Regra de 3-20.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-20](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-20.png)
 
 ## **2.6 Grandezas inversamente proporcionais** 
 
@@ -156,7 +156,7 @@ Ou seja, podemos inverter a ordem de antecedente e consequente dos dois lados e 
     - De outra forma, podemos dizer que uma proporção é **<span style="color:#fb4934">inversamente</span>** proporcional se, ao aumentar um termo, o outro termo correspondente diminui na mesma proporção. Por exemplo, o tempo necessário para encher um tanque de combustível é inversamente proporcional à vazão da bomba: se a vazão da bomba aumenta, o tempo necessário para encher o tanque diminui.
         - Teremos então a formação de um gráfico assim:
 
-![[Porcentagem, Proporcionalidade e Regra de 3-21.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-21](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-21.png)
 
 ## **2.7 Relação entre grandezas diretamente e inversamente proporcionais** 
 
@@ -172,16 +172,16 @@ e)35
 📚 RESOLUÇÃO:
 
 - Perceba que temos duas situações, um primeiro momento em que já sabemos todos os valores e um segundo momento em que queremos o valor de x. Vamos ilustrar isso:
-![[Porcentagem, Proporcionalidade e Regra de 3-22.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-22](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-22.png)
 
 Agora vamos montar a equação de proporcionalidade entre os dois momentos considerando as grandezas diretamente proporcionais (divisão), temos que:
-![[Porcentagem, Proporcionalidade e Regra de 3-23.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-23](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-23.png)
 
 Seguindo: Nessa mesma equação, vamos adicionar a grandeza (c) que é inversamente variável à x, ou seja, façamos o produto de c por x:
-![[Porcentagem, Proporcionalidade e Regra de 3-24.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-24](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-24.png)
 
 Montada a equação, agora é substituir os valores e encontrar a resposta. Lembre-se sempre de praticar as simplificações, isso tornará os cálculos bem mais simples:
-![[Porcentagem, Proporcionalidade e Regra de 3-25.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-25](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-25.png)
 
 ## **2.8 Divisão Em Partes Diretamente Proporcionais**
 
@@ -208,20 +208,20 @@ Montada a equação, agora é substituir os valores e encontrar a resposta. Lemb
 - Para decompor um número **M** em três partes **A, B** e **C** inversamente proporcionais a **p, q** e **r** , deve-se decompor este número **M** em três partes **A, B** e **C** diretamente proporcionais a **1/p, 1/q, 1/r,** que são, respectivamente, os recíprocos (inversos) de **p, q** e **r**.
 
 - Assim basta montar o sistema com três equações e três incógnitas tal que **A + B + C = M**. Desse modo:
-![[Porcentagem, Proporcionalidade e Regra de 3-26.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-26](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-26.png)
 
 Com o valor de **k**  
  obtemos a solução pois:
- ![[Porcentagem, Proporcionalidade e Regra de 3-27.png]]
+ ![Porcentagem, Proporcionalidade e Regra de 3-27](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-27.png)
 
 Vamos a um exemplo para ficar mais claro:
 
 - Iremos dividir o número 140 em partes inversamente proporcionais a 2, 3 e 10.
 - Sabemos que A + B + C = 140, assim:
-![[Porcentagem, Proporcionalidade e Regra de 3-28.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-28](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-28.png)
 
 Agora podemos descobrir os valores:
-![[Porcentagem, Proporcionalidade e Regra de 3-29.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-29](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-29.png)
 
 # **3. REGRA DE TRÊS**
 
@@ -247,7 +247,7 @@ Nesse caso, temos as seguintes grandezas:
 
 Perceba que, quanto mais percorrer, mais gasolina vai gastar. Portanto, temos grandezas diretamente proporcionais. Neste caso, basta multiplicar meios pelos extremos e resolver a equação.
 
-![[Porcentagem, Proporcionalidade e Regra de 3-30.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-30](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-30.png)
 
 📚 Regra de três envolvendo **<span style="color:#83a598">grandezas Inversamente proporcionais</span>:**
 
@@ -265,7 +265,7 @@ x dias   -> 8 horas/dia 
 
 No caso das grandezas inversas, ao montar a proporção, você inverte os termos de uma das grandezas. Vamos inverter as horas por dia:
 
-![[Porcentagem, Proporcionalidade e Regra de 3-31.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-31](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-31.png)
 
 - Portanto, será necessário trabalhar 7,5 dias para pintar a casa trabalhando 8 horas por dia.  
     
@@ -287,13 +287,13 @@ A seguir, você pode seguir os seguintes passos para resolver o problema:
 - Veja um exemplo para entender melhor:
     - Supondo-se que 20 fiscais, trabalhando 8 horas por dia, levam 20 dias para executar um determinado tipo de fiscalização. Qual o número de fiscais necessários para executar a mesma tarefa em 10 dias, trabalhando 10 horas por dia?
 
-![[Porcentagem, Proporcionalidade e Regra de 3-32.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-32](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-32.png)
 
 - Veja que a incógnita está em fiscais. Assim, vamos comparar essa grandeza com as demais:
     - Fiscais - Horas por dia > Quanto mais fiscais, menos horas por dia eles vão precisar trabalhar > inversamente proporcional
     - Fiscais - Horas por dia > Quanto mais fiscais, menos dias eles vão precisar trabalhar > inversamente proporcional
 - Agora, seguindo os demais passos, vamos a solução do problema:
 
-![[Porcentagem, Proporcionalidade e Regra de 3-33.png]]
+![Porcentagem, Proporcionalidade e Regra de 3-33](Images/Porcentagem,%20Proporcionalidade%20e%20Regra%20de%203-33.png)
 
 - Portanto, serão necessários 32 fiscais para executar a mesma tarefa em 10 dias, trabalhando 10 horas por dia.

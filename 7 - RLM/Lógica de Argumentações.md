@@ -54,7 +54,7 @@ São sentenças abertas que recebem um quantificador, transformando-as em propos
 
 Representado pelo símbolo "**∀**", o quantificador universal afirma que uma propriedade é **verdadeira para todos os elementos** de um conjunto. Em outras palavras, é uma forma de expressar que algo é válido em todos os casos possíveis. Exemplo: Toda mulher é loira.
 
-![[quantificador universal.png|353]]
+![quantificador universal](Images/quantificador%20universal.png){width=353}
 
 A negação é: Algum X não é Y. Basta que 1 elemento de X não pertença a Y para invalidar a proposição. A negação de "toda mulher é loira" seria, então, "alguma mulher não é loira".
 
@@ -62,7 +62,7 @@ A negação é: Algum X não é Y. Basta que 1 elemento de X não pertença a Y 
 
 Representado pelo símbolo "**∃**", o quantificador existencial indica que **pelo menos um elemento** de um conjunto possui uma determinada propriedade. Ou seja, afirma que existe pelo menos um caso em que a propriedade é verdadeira. Exemplo: Alguma mulher é loira.
 
-![[Quantificador existencial.png|504]]
+![Quantificador existencial](Images/Quantificador%20existencial.png){width=504}
 
 
 ## **2.3 Diagramas lógicos**
@@ -73,30 +73,30 @@ A fim de representar as proposições quantificadores, iremos montar **diagramas
 
 "**<span style="color:#83a598">Todo</span>** aluno Guruja foi aprovado" 🕶️
 
-![[quantificador universal positivo.png|354]]
+![quantificador universal positivo](Images/quantificador%20universal%20positivo.png){width=354}
 
 - **Quantificador universal negativo**
 
 "**<span style="color:#fb4934">Nenhum</span>** aluno Guruja foi aprovado" 😢
 
-![[quantificador universal negativo.png|519]]
+![quantificador universal negativo](Images/quantificador%20universal%20negativo.png){width=519}
 
 - **Quantificador existencial afirmativo** **(<span style="color:#b8bb26">parte verde</span>)**
 
 **"<span style="color:#83a598">Existe pelo menos um</span>** aluno Guruja que foi aprovado**"**
 
-![[quantificador existencial afirmativo.png|481]]
+![quantificador existencial afirmativo](Images/quantificador%20existencial%20afirmativo.png){width=481}
 
 
 - **Quantificador existencial negativo** (**<span style="color:#b8bb26">parte verde</span>**)
 
 "**<span style="color:#fb4934">Existe pelo menos um</span>** aluno Guruja que **<span style="color:#fb4934">não</span>** foi aprovado"
 
-![[quantificador existencial negativo.png|475]]
+![quantificador existencial negativo](Images/quantificador%20existencial%20negativo.png){width=475}
 
 🎯 **Dica:** Bastante importante aprender a manusear e criar os Diagramas de Venn para **entender a conversão**!!
 
-![[Lógica de Argumentações 1.png]]
+![Lógica de Argumentações 1](Images/L%C3%B3gica%20de%20Argumenta%C3%A7%C3%B5es%201.png)
 
 # **3.LÓGICA DE PRIMEIRA ORDEM**   
 
