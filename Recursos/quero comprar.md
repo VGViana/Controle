@@ -13,6 +13,5 @@ Aparência
 - minha fragrância 
 - cerave 
 Roupas 
-- relogio 
 - 
 
