@@ -6,3 +6,10 @@
 - [ ] [Giorgio Armani Acqua Di Giò Profondo Edp 100ML](https://mobile.comprasparaguai.com.br/perfume-giorgio-armani-acqua-di-gio-profondo-edp-100ml__4583715/)
 - [ ] [Keychron M6 Silent 1K](https://mobile.comprasparaguai.com.br/mouse-sem-fio-keychron-m6-silent-1k-preto__5130973/)
 - [ ] [Galaxy BUDS4 Pro SM-R640NZK ](https://mobile.comprasparaguai.com.br/fone-de-ouvido-samsung-galaxy-buds4-pro-sm-r640nzk-bluetooth-preto__5216269/)
+
+Aparência 
+- Escova de dentes elétrica
+- Oneblade Philips
+- minha fragrância 
+- 
+
