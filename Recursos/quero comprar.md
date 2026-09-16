@@ -12,5 +12,7 @@ Aparência
 - Oneblade Philips
 - minha fragrância 
 - cerave 
-R
+Roupas 
+- relogio 
+- 
 
