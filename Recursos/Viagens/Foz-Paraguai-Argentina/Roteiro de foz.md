@@ -382,8 +382,7 @@ Uber/táxi/transporte para:
 
 **Mínimo razoável:** ~R$ 2.800  
 **Valor confortável:** **~R$ 3.500**  
-**Com folga:** ~R$ 4.000
-+ paraguai ~2500
+**Com folga:** ~R$ 5000
 
 > [!important] Não esquecer
 > 
