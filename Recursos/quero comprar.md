@@ -3,6 +3,7 @@
 - [ ] [XVX Keycaps](https://www.xvxchannel.com/en-br/products/fugaku-moa-keycap-set?variant=47025125589229)
 - [ ] [Luminária](https://www.comprasparaguai.com.br/lampada-led-smart-xiaomi-mi-desk-lamp-1s-mjtd01syl-220v-branco__4454066/)
 - [ ] [Abajur de piso](https://www.mercadolivre.com.br/luminaria-bivolt-delta-cupula-abajur-tripe-off-whitenature/up/MLBU3517752924?pdp_filters=item_id:MLB5847748648#polycard_client=cart_list&wid=MLB5847748648&sid=cart)
+- [ ] 
 - [ ] [Keychron M6 Silent 1K](https://mobile.comprasparaguai.com.br/mouse-sem-fio-keychron-m6-silent-1k-preto__5130973/)
 - [ ] [Cadeira](https://dt3.com/produtos/cadeira-de-escritorio-ergonomica-dt3-vita/)
 - [ ] [Mesa](https://www.meligna.com.br/mesa-madeira-4cm-teca-escritorio-escrivaninha-setup-completa/)
