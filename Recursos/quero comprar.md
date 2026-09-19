@@ -9,7 +9,6 @@
 - [ ] [Mesa](https://www.meligna.com.br/mesa-madeira-4cm-teca-escritorio-escrivaninha-setup-completa/)
 - [ ] [Mochila de Trilha 32L NH500 Quechua Preto](https://www.decathlon.com.br/mochila-de-trilha-32l-escape-500-escape-cinza-preto-8649351-quechua/p)
 - [ ] [Galaxy BUDS4 Pro SM-R640NZK ](https://mobile.comprasparaguai.com.br/fone-de-ouvido-samsung-galaxy-buds4-pro-sm-r640nzk-bluetooth-preto__5216269/)
-- [ ] 
 
 ## Aparência 
 
@@ -17,5 +16,3 @@
 - [ ] [Giorgio Armani Acqua Di Giò Profondo Edp 100ML](https://mobile.comprasparaguai.com.br/perfume-giorgio-armani-acqua-di-gio-profondo-edp-100ml__4583715/)
 - [ ] Escova de dentes elétrica
 - [ ] Oneblade Philips
-- [ ] cerave 
-
