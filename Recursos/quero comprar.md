@@ -451,7 +451,7 @@ Comprar no Paraguai apenas se a diferença para o preço brasileiro justificar.
 
 **Oral-B Pro Series 3**
 
-**Link:** [Oral-B Pro Series 3 — site oficial](https://www.oralb.com.br/pt-br/produtos-colecao/escovas-eletricas/pro/oralb-pro-series-3/)
+**Link:** [Oral-B Pro Series 3 — site oficial]()
 
 Possui:
 
