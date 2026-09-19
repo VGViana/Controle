@@ -52,12 +52,14 @@ Antes de comprar qualquer coisa:
     
 - Marrom
     
-- Verde oliva/verde musgo
+- Verde oliva / verde musgo
     
 
 ### Iluminação
 
-- 2700–3000 K
+- 2700–3000 K para ambiente
+    
+- 3000–4000 K para estudo
     
 - quente
     
@@ -112,264 +114,134 @@ Antes de comprar qualquer coisa:
 
 ---
 
-# 🏠 01 — AMBIENTE / QUARTO
-
-> Objetivo: transformar o quarto em um ambiente de descanso + estudo, não em uma extensão de uma loja de eletrônicos.
-
-## Prioridade 🔴
-
--  Abajur de piso Delta — Off White/Nature
-    
--  Cortina adequada
-    
--  Roupa de cama de qualidade
-    
--  Tapete neutro
-    
--  Organização dos cabos
-    
--  Organização visual da mesa
-    
-
-## Prioridade 🟡
-
--  Luminária pequena de cabeceira
-    
--  Cesto de roupa em tecido/natural
-    
--  Cabideiros/organizadores discretos
-    
--  Bandeja de madeira
-    
--  Pequena planta natural
-    
-
-## Prioridade 🟢
-
--  Vaso de cerâmica
-    
--  Quadro minimalista
-    
--  Pôster japonês discreto
-    
--  Objeto artesanal
-    
--  Incensário
-    
--  Pequena peça de madeira
-    
-
-### Regra
-
-**No máximo alguns objetos decorativos.**
-
-Não quero transformar o quarto em uma coleção de "coisas japonesas".
-
----
-
-# 🖥️ 02 — SETUP
+# 🖥️ 01 — SETUP
 
 ## Já possuo
 
--  LG 24MS500-B
+-  **LG 24MS500-B**
     
--  Lenovo IdeaPad 3 15ALC6
+-  **Lenovo IdeaPad 3 15ALC6**
     
--  XVX SK80
+-  **XVX SK80**
     
--  Kysona M600
+-  **Kysona M600**
     
--  Giant Innovation GT810
+-  **Giant Innovation GT810**
     
--  Lightbar básica
+-  **Lightbar básica**
     
--  Baseus USB-C Hub
+-  **Baseus USB-C Hub**
     
--  Alexa
+-  **Alexa**
     
--  Kindle
+-  **Kindle**
     
--  Garmin Forerunner 55
-    
-
-## Compras
-
--  Mesa de madeira / teca
-    
--  DT3 Vita
-    
--  Keychron M6 Silent 1K
-    
--  XVX Fugaku MOA
-    
--  Lightbar premium
-    
--  Xiaomi Mi Desk Lamp 1S
-    
--  Abajur de piso
+-  **Garmin Forerunner 55**
     
 
 ---
 
-# 🪵 03 — MESA
+## Compras definidas
 
-## Objetivo
-
-A mesa deve ser o **elemento central da estética**.
-
-### Prioridade 🔴
-
--  Mesa 120 × 70 cm
-    
--  Madeira natural
-    
--  Espessura visual robusta
-    
--  Acabamento fosco/natural
-    
-
-### Prioridade 🟡
-
--  Desk mat em couro/PU ou tecido
-    
--  Organizador de cabos
-    
--  Bandeja pequena
-    
--  Porta-canetas
-    
--  Suporte para Kindle/livro
-    
-
-### Prioridade 🟢
-
--  Porta-trecos de madeira
-    
--  Pequeno vaso
-    
--  Suporte para celular
-    
-
-### Regra
-
-A mesa não deve ficar cheia.
-
-**Objetivo visual:**
-
-> computador + teclado + mouse + iluminação + 1 ou 2 objetos.
-
----
-
-# 💡 04 — ILUMINAÇÃO
-
-## Sistema desejado
-
-### 1. Task Light
-
-**Lightbar**
-
--  Substituir a atual
-    
-
-🎯 Alvo: **≤ R$ 300**
-
----
-
-### 2. Desk Light
-
-**Xiaomi Mi Desk Lamp 1S**
+### ⌨️ XVX Fugaku MOA
 
 -  Comprar
     
 
-🎯 Alvo: **≤ R$ 250**
+**Link:** [XVX Fugaku MOA Keycap Set](https://www.xvxchannel.com/en-br/products/fugaku-moa-keycap-set)
 
-Função:
+🎯 **Preço-alvo:** ≤ US$ 30
 
-- iluminação lateral
-    
-- leitura
-    
-- escrita
-    
-- material físico
-    
-- iluminação complementar
-    
+### Análise
+
+Compra predominantemente estética.
+
+A coleção oficial da XVX atualmente lista o **U-kiyoe Fugaku MOA por US$ 29,99**, com perfil MOA e inspiração japonesa.
+
+**Prioridade:** 🟡 Média
 
 ---
 
-### 3. Practical Light
+### 🖱️ Keychron M6 Silent 1K
 
-**Abajur de piso**
+-  Comprar
+    
+-  Substituirá o Kysona M600
+    
+
+**Link:** [Keychron M6 Silent 1K — Compras Paraguai](https://mobile.comprasparaguai.com.br/mouse-sem-fio-keychron-m6-silent-1k-preto__5130973/)
+
+🎯 **Preço-alvo:** ≤ R$ 400
+
+**Prioridade:** 🟡 Média
+
+> O M600 atual ainda funciona. A troca é melhoria, não necessidade.
+
+---
+
+# 🪵 02 — MESA
+
+### 🪑 Mesa de madeira / Teca 4 cm
 
 -  Comprar
     
 
-🎯 Alvo: **≤ R$ 250**
+**Link:** [Mesa de madeira 4 cm — Meligna](https://www.meligna.com.br/mesa-madeira-4cm-teca-escritorio-escrivaninha-setup-completa/)
 
-Função:
+### Objetivo
 
-- iluminar o quarto
+A mesa deve ser um dos principais elementos visuais do ambiente.
+
+**Dimensão desejada:**
+
+> **120 × 70 cm**
+
+### Preferências
+
+- madeira natural
     
-- criar profundidade
+- acabamento fosco
     
-- evitar ambiente totalmente escuro ao redor do monitor
+- aparência robusta
     
+- poucos detalhes
+    
+- nada gamer
+    
+
+🎯 **Preço-alvo:** ≤ R$ 1.500
+
+**Prioridade:** 🔴 Alta
 
 ---
 
-### 4. Accent Light
+# 🪑 03 — CADEIRA / ERGONOMIA
 
-**Não comprar por enquanto.**
+## DT3 Vita
 
-A decoração + abajur + luz quente já devem cumprir essa função.
-
----
-
-## Temperatura
-
-### Estudo intenso
-
-**3500–4000 K**
-
-### Estudo normal
-
-**3000–3500 K**
-
-### Noite / relaxamento
-
-**2700–3000 K**
-
-### Regra
-
-> **Quente para ambiente. Neutro para trabalho.**
-
----
-
-# 🪑 05 — ERGONOMIA
-
-## Prioridade máxima
-
--  DT3 Vita
+-  Comprar
     
 
-🎯 Alvo: **≤ R$ 700**
+**Link:** [DT3 Vita — site oficial](https://dt3.com/produtos/cadeira-de-escritorio-ergonomica-dt3-vita/)
 
-## Futuro
+A Vita possui encosto em Mesh DT3 Spandex, assento com espuma, apoio lombar ajustável, braços retráteis e reclinação de até 15°.
+
+🎯 **Preço-alvo:** ≤ R$ 700
+
+**Prioridade:** 🔴 Alta
+
+### Futuro
 
 -  Apoio para pés
     
--  Suporte de notebook
-    
--  Descanso para punho
-    
 -  Tapete para cadeira
+    
+-  Suporte para notebook
     
 
 ### Não comprar
 
--  Outra cadeira gamer
+-  Cadeira gamer
     
 -  Almofadas desnecessárias
     
@@ -378,207 +250,308 @@ A decoração + abajur + luz quente já devem cumprir essa função.
 
 ---
 
-# ⌨️ 06 — PERIFÉRICOS
+# 💡 04 — ILUMINAÇÃO
 
-## Teclado
+> **A iluminação será construída em camadas.**
 
-### Atual
+## 🌅 4.1 Lightbar
 
-**XVX SK80**
+-  Substituir a atual
+    
 
-### Upgrade estético
+🎯 **Preço-alvo:** ≤ R$ 300
 
-**XVX Fugaku MOA**
+### Função
 
-🎯 Alvo: **≤ US$ 30**
+**Task Light**
+
+- iluminar a mesa
+    
+- reduzir contraste do monitor
+    
+- evitar reflexos
+    
+- manter a mesa visualmente limpa
+    
+
+### Regra
+
+> Não comprar uma segunda lightbar. Substituir a atual quando encontrar uma realmente melhor.
 
 ---
 
-## Mouse
+## 💡 4.2 Xiaomi Mi LED Desk Lamp 1S
 
-### Atual
-
-**Kysona M600**
-
-### Upgrade
-
-**Keychron M6 Silent 1K**
-
-🎯 Alvo: **≤ R$ 400**
-
----
-
-## Regra
-
-Não trocar periférico apenas porque apareceu um modelo novo.
-
----
-
-# 📚 07 — ESTUDO / ESCRITÓRIO
-
-## Prioridade 🔴
-
--  Suporte para livros
-    
--  Suporte para Kindle
-    
--  Organizador de documentos
-    
--  Bandeja para papéis
-    
--  Pasta para documentos importantes
+-  Comprar
     
 
-## Prioridade 🟡
+**Link original:** [Xiaomi Mi Desk Lamp 1S — Compras Paraguai](https://www.comprasparaguai.com.br/lampada-led-smart-xiaomi-mi-desk-lamp-1s-mjtd01syl-220v-branco__4454066/)
 
--  Lixeira pequena e discreta
+**Link oficial:** [Xiaomi Mi LED Desk Lamp 1S](https://www.mi.com/br/product/mi-led-desk-lamp-1s/)
+
+🎯 **Preço-alvo:** ≤ R$ 250
+
+### Especificações importantes
+
+- 520 lm
     
--  Porta-canetas
+- Ra 90
     
--  Caderno de uso diário
+- 2600–5000 K
     
--  Caneta boa
+- 1–100% de brilho
+    
+- 9 W
+    
+- vida útil aproximada de 25.000 h
+    
+- controle de brilho e temperatura pelo próprio controle da luminária.
     
 
-## Prioridade 🟢
+**Prioridade:** 🔴 Alta
 
--  Timer físico
-    
--  Peso de papel
-    
--  marcador de página bonito
-    
+### Função
 
-### Estética
+**Desk Light / Task Light complementar**
 
-Preferir:
+Ideal para:
 
-- madeira
+- leitura
     
-- preto
+- escrita
     
-- bege
+- livros
     
 - papel
     
-- metal fosco
+- estudo noturno
     
 
 ---
 
-# 🎒 08 — MOBILIDADE
-
-## Mochila
-
-**Quechua NH500 32L**
+## 🏮 4.3 Abajur de piso
 
 -  Comprar
     
 
-🎯 Alvo: **≤ R$ 350**
+**Link:** [Luminária Delta — Off White/Nature — Mercado Livre](https://www.mercadolivre.com.br/luminaria-bivolt-delta-cupula-abajur-tripe-off-whitenature/up/MLBU3517752924)
 
-## Futuro
+🎯 **Preço-alvo:** ≤ R$ 250
 
--  Necessaire minimalista
+### Função
+
+**Practical Light / Ambient Light**
+
+Não deve iluminar diretamente a mesa.
+
+Deve iluminar:
+
+- parede
     
--  Organizador interno de mochila
+- canto do quarto
     
--  Garrafa de água
+- área ao redor da mesa
     
--  Guarda-chuva compacto
-    
--  Estojo discreto
+- ambiente inteiro de maneira difusa
     
 
-### Paleta
-
-- preto
-    
-- cinza
-    
-- verde oliva
-    
-- bege
-    
+**Prioridade:** 🟡 Média
 
 ---
 
-# 🎧 09 — ÁUDIO
+## 🌙 4.4 Accent Light
 
-## Fone principal
+### Não comprar por enquanto.
 
-**Galaxy Buds4 Pro**
+A combinação:
 
--  Comprar
-    
+**abajur + desk lamp + lightbar + madeira + decoração**
 
-🎯 Alvo: **≤ R$ 900**
-
-## Filosofia
-
-Não preciso de vários fones.
-
-Ideal:
-
-**1 fone principal + 1 headphone quando houver necessidade real.**
+já deve produzir a atmosfera desejada.
 
 ---
 
-# 👔 10 — APARÊNCIA
+# 🧩 Sistema de iluminação
 
-## Perfumes
+|Luz|Função|Comprar?|
+|---|---|---|
+|Lightbar|Task Light|✅ Substituir|
+|Xiaomi 1S|Desk Light|✅|
+|Abajur de piso|Practical/Ambient|✅|
+|Accent Light|Decoração|❌|
+|RGB|Decoração|❌|
 
-### Elegante / noturno
+---
 
-**Dior Homme Intense**
+# 🎒 05 — MOBILIDADE
+
+## Quechua NH500 32L
 
 -  Comprar
     
 
-🎯 Alvo: **≤ R$ 650**
+**Link:** [NH500 32L — Decathlon](https://www.decathlon.com.br/mochila-de-trilha-32l-escape-500-escape-cinza-preto-8649351-quechua/p)
 
-Perfil:
+🎯 **Preço-alvo:** ≤ R$ 350
 
-- elegante
+### Referência atual
+
+A Decathlon lista o modelo por **R$ 379,99 à vista**, com 32 L, 15 bolsos e compartimento para notebook de até 17".
+
+### Características
+
+- 32 L
     
-- sofisticado
+- 1,1 kg
+    
+- 15 bolsos
+    
+- notebook até 17"
+    
+- tecido hidro-repelente
+    
+- costas acolchoadas
+    
+- organizador interno
+    
+
+**Prioridade:** 🟡 Média
+
+---
+
+# 🎧 06 — ÁUDIO
+
+## Samsung Galaxy Buds4 Pro
+
+-  Comprar
+    
+
+**Link:** [Galaxy Buds4 Pro — Compras Paraguai](https://mobile.comprasparaguai.com.br/fone-de-ouvido-samsung-galaxy-buds4-pro-sm-r640nzk-bluetooth-preto__5216269/)
+
+**Link oficial:** [Samsung Galaxy Buds](https://www.samsung.com/br/audio-sound/galaxy-buds/)
+
+🎯 **Preço-alvo:** ≤ R$ 900
+
+### Regra
+
+Comprar no Paraguai apenas se a diferença para o preço brasileiro justificar.
+
+**Prioridade:** 🟡 Média
+
+---
+
+# 🦷 07 — HIGIENE / GROOMING
+
+## Escova elétrica
+
+-  Comprar
+    
+
+### Candidato principal
+
+**Oral-B Pro Series 3**
+
+**Link:** [Oral-B Pro Series 3 — site oficial](https://www.oralb.com.br/pt-br/produtos-colecao/escovas-eletricas/pro/oralb-pro-series-3/)
+
+Possui:
+
+- temporizador de 2 minutos;
+    
+- aviso a cada 30 segundos;
+    
+- sensor de pressão;
+    
+- 3 modos;
+    
+- bateria de íons de lítio.
+    
+
+🎯 **Preço-alvo:** ≤ R$ 300
+
+### Alternativa
+
+**Philips Sonicare**
+
+**Link:** [Philips Sonicare — página oficial](https://www.philips.com.br/c-m-pe/escovas-de-dente-eletricas)
+
+🎯 **Preço-alvo:** ≤ R$ 350
+
+**Prioridade:** 🔴 Alta
+
+### Regra
+
+Não pagar caro por:
+
+- Bluetooth
+    
+- aplicativo
+    
+- tela
+    
+- modos demais
+    
+
+Quero uma boa escova elétrica, não um gadget.
+
+---
+
+# 👔 08 — APARÊNCIA
+
+## 🌑 Dior Homme Intense EDP 100 ml
+
+-  Comprar
+    
+
+**Link original:** [Dior Homme Intense — Compras Paraguai](https://mobile.comprasparaguai.com.br/perfume-christian-dior-homme-intense-edp-masculino-100ml__4524128/)
+
+**Link oficial:** [Dior Homme Intense — Dior Brasil](https://shop.dior.com.br/dior-homme-intense-eau-de-parfum-intense/p?skuId=73)
+
+A Dior descreve o perfume como uma fragrância de íris, âmbar e madeiras preciosas.
+
+🎯 **Preço-alvo:** ≤ R$ 650
+
+### Uso
+
+- noite
     
 - frio
     
-- noite
-    
 - ocasiões especiais
     
+- roupa mais arrumada
+    
+
+**Prioridade:** 🟢 Luxo
 
 ---
 
-### Diário / calor / versátil
-
-**Acqua di Giò Profondo**
+## 🌊 Acqua di Giò Profondo EDP 100 ml
 
 -  Comprar
     
 
-🎯 Alvo: **≤ R$ 550**
+**Link original:** [Acqua di Giò Profondo — Compras Paraguai](https://mobile.comprasparaguai.com.br/perfume-giorgio-armani-acqua-di-gio-profondo-edp-100ml__4583715/)
 
-Perfil:
+🎯 **Preço-alvo:** ≤ R$ 550
 
-- fresco
-    
-- limpo
-    
-- marítimo
-    
-- casual
-    
-- trabalho
+### Uso
+
+- cotidiano
     
 - calor
     
+- trabalho
+    
+- ambientes casuais
+    
+- primavera/verão
+    
+
+**Prioridade:** 🟢 Luxo
 
 ---
 
-# 🧴 11 — HIGIENE / GROOMING
+# 🛁 09 — GROOMING
 
 ## Prioridade 🔴
 
@@ -586,7 +559,7 @@ Perfil:
     
 -  Aparador de pelos
     
--  Máquina/barbeador de qualidade
+-  Máquina/barbeador
     
 -  Necessaire
     
@@ -602,37 +575,37 @@ Perfil:
 -  Desodorante de qualidade
     
 
-## Prioridade 🟢
+### Necessaire
 
--  Perfume para cabelo
+Preferir:
+
+- preto
     
--  Kit de viagem
+- bege
     
--  Frascos pequenos reutilizáveis
+- nylon fosco
+    
+- couro
+    
+- lona
     
 
-### Regra
+Evitar:
 
-Preferir produtos:
-
-- discretos
+- estampas
     
-- funcionais
+- logos enormes
     
-- sem embalagem chamativa
-    
-- fáceis de repor
+- aparência esportiva exagerada
     
 
 ---
 
-# 👕 12 — VESTUÁRIO
+# 👕 10 — VESTUÁRIO
 
-> A estética do ambiente deve conversar com a aparência pessoal.
+> A aparência pessoal deve conversar com o ambiente.
 
 ## Paleta
-
-### Base
 
 - preto
     
@@ -649,22 +622,7 @@ Preferir produtos:
 - verde oliva
     
 
-### Materiais
-
-- algodão
-    
-- linho
-    
-- lã
-    
-- couro
-    
-- sarja
-    
-
-## Peças para construir aos poucos
-
-### Prioridade 🔴
+## Prioridade 🔴
 
 -  Camisetas básicas de qualidade
     
@@ -672,14 +630,14 @@ Preferir produtos:
     
 -  Calça bege/khaki
     
--  Calça jeans escura
+-  Jeans escuro
     
 -  Tênis minimalista
     
 -  Jaqueta neutra
     
 
-### Prioridade 🟡
+## Prioridade 🟡
 
 -  Overshirt
     
@@ -690,20 +648,18 @@ Preferir produtos:
 -  Polo minimalista
     
 
-### Prioridade 🟢
+## Prioridade 🟢
 
--  Relógio casual
-    
 -  Carteira minimalista
     
 -  Óculos de sol
     
+-  Relógio casual
+    
 
 ---
 
-# 👟 13 — CALÇADOS
-
-## Base
+# 👟 11 — CALÇADOS
 
 -  Tênis branco/off-white
     
@@ -724,18 +680,16 @@ Cada um precisa ter uma função.
 
 ---
 
-# 🎒 14 — EDC
+# 🎒 12 — EDC
 
-## Everyday Carry
-
-### Já tenho
+## Já possuo
 
 -  Garmin Forerunner 55
     
 -  Kindle
     
 
-### Futuro
+## Futuro
 
 -  Carteira minimalista
     
@@ -758,13 +712,63 @@ Tudo deve caber facilmente na mochila.
 
 ---
 
-# 🌿 15 — DECORAÇÃO
+# 📚 13 — ESTUDO / ESCRITÓRIO
 
-## Regra
+## Prioridade 🔴
 
-**Pouca decoração.**
+-  Suporte para livros
+    
+-  Suporte para Kindle
+    
+-  Organizador de documentos
+    
+-  Bandeja para papéis
+    
+-  Pasta para documentos importantes
+    
 
-### Quero
+## Prioridade 🟡
+
+-  Porta-canetas
+    
+-  Caderno de uso diário
+    
+-  Caneta boa
+    
+-  Lixeira pequena e discreta
+    
+
+## Prioridade 🟢
+
+-  Timer físico
+    
+-  Peso de papel
+    
+-  Marcador de página
+    
+
+### Estética
+
+Preferir:
+
+- madeira
+    
+- preto
+    
+- bege
+    
+- papel
+    
+- metal fosco
+    
+
+---
+
+# 🌿 14 — DECORAÇÃO
+
+> **Pouca decoração.**
+
+## Quero
 
 -  1 planta
     
@@ -779,11 +783,11 @@ Tudo deve caber facilmente na mochila.
 -  1 peça de madeira
     
 
-### Não quero
+## Não quero
 
 -  Funko
     
--  excesso de action figures
+-  action figures
     
 -  RGB
     
@@ -798,11 +802,11 @@ Tudo deve caber facilmente na mochila.
 
 ---
 
-# 📖 16 — CULTURA / JAPANESE COZY
+# 🇯🇵 15 — JAPANESE / WABI-SABI
 
-> A estética japonesa deve aparecer de maneira **natural**, não temática.
+> A inspiração japonesa deve aparecer de maneira **natural**, não temática.
 
-## Ideias futuras
+## Futuro
 
 -  Livro de fotografia japonesa
     
@@ -827,11 +831,11 @@ Tudo deve caber facilmente na mochila.
 
 > **Inspirado no Japão ≠ decoração temática japonesa.**
 
-Quero **sensação**, não cosplay de Japão.
+Quero a **sensação**, não uma decoração temática.
 
 ---
 
-# ☕ 17 — CAFÉ / CHÁ
+# ☕ 16 — CAFÉ / CHÁ
 
 ## Futuro
 
@@ -846,9 +850,7 @@ Quero **sensação**, não cosplay de Japão.
 -  Bandeja de madeira
     
 
-### Estética
-
-Cerâmica:
+### Paleta
 
 - bege
     
@@ -863,11 +865,11 @@ Cerâmica:
 
 ---
 
-# 🛏️ 18 — SONO
+# 🛏️ 17 — SONO
 
-## Prioridade
+## Prioridade 🔴
 
--  Roupa de cama boa
+-  Roupa de cama de qualidade
     
 -  Travesseiro adequado
     
@@ -876,7 +878,7 @@ Cerâmica:
 -  Iluminação quente
     
 
-## Futuro
+## Prioridade 🟡
 
 -  Abajur de cabeceira
     
@@ -887,13 +889,13 @@ Cerâmica:
 
 ### Objetivo
 
-O quarto precisa funcionar também como:
+O quarto deve funcionar como:
 
 > **zona de recuperação.**
 
 ---
 
-# 🧹 19 — ORGANIZAÇÃO
+# 🧹 18 — ORGANIZAÇÃO
 
 ## Prioridade 🔴
 
@@ -919,13 +921,11 @@ O quarto precisa funcionar também como:
 
 ### Regra
 
-Se algo não tem lugar:
-
-> **não deveria estar na mesa.**
+> **Se algo não tem lugar, não deveria estar na mesa.**
 
 ---
 
-# 🖥️ 20 — TECNOLOGIA
+# 🖥️ 19 — TECNOLOGIA
 
 ## Já tenho
 
@@ -952,28 +952,28 @@ Se algo não tem lugar:
 
 -  Segundo monitor
     
--  braço de monitor novo
+-  Braço de monitor novo
     
--  webcam
+-  Webcam
     
--  microfone
+-  Microfone
     
 -  RGB
     
--  dock cara
+-  Dock cara
     
--  gadgets de produtividade
+-  Gadgets de produtividade
     
 
 ### Regra
 
-> **Tecnologia deve desaparecer no ambiente.**
+> **A tecnologia deve desaparecer no ambiente.**
 
 O objetivo é parecer uma mesa bonita que por acaso possui tecnologia.
 
 ---
 
-# 💰 21 — PREÇOS-ALVO
+# 💰 20 — PREÇOS-ALVO
 
 ## 🔴 Prioridade
 
@@ -983,7 +983,7 @@ O objetivo é parecer uma mesa bonita que por acaso possui tecnologia.
 |DT3 Vita|≤ R$ 700|
 |Lightbar|≤ R$ 300|
 |Xiaomi Desk Lamp 1S|≤ R$ 250|
-|Escova elétrica|≤ R$ 350|
+|Escova elétrica|≤ R$ 300|
 |NH500 32L|≤ R$ 350|
 
 ## 🟡 Melhorias
@@ -1004,7 +1004,7 @@ O objetivo é parecer uma mesa bonita que por acaso possui tecnologia.
 
 ---
 
-# 📊 22 — ORDEM DE COMPRA
+# 📊 21 — ORDEM DE COMPRA
 
 ## Fase 1 — infraestrutura
 
@@ -1054,7 +1054,7 @@ O objetivo é parecer uma mesa bonita que por acaso possui tecnologia.
 
 ---
 
-# 🧮 23 — ORÇAMENTO
+# 🧮 22 — ORÇAMENTO
 
 ## Infraestrutura
 
@@ -1088,7 +1088,7 @@ Perfumes + Buds4 Pro.
 
 ---
 
-# 🏆 24 — PRINCÍPIOS FINAIS
+# 🏆 23 — PRINCÍPIOS FINAIS
 
 ### 01
 
@@ -1158,39 +1158,39 @@ E não:
 
 ---
 
-# 🛒 WISHLIST — MASTER
+# 🛒 24 — WISHLIST MASTER
 
 ## 🔴 Comprar quando atingir o preço
 
--  Mesa
+-  [Mesa de madeira / Teca](https://www.meligna.com.br/mesa-madeira-4cm-teca-escritorio-escrivaninha-setup-completa/)
     
--  DT3 Vita
+-  [DT3 Vita](https://dt3.com/produtos/cadeira-de-escritorio-ergonomica-dt3-vita/)
     
--  Lightbar
+-  Lightbar premium
     
--  Xiaomi Mi Desk Lamp 1S
+-  [Xiaomi Mi LED Desk Lamp 1S](https://www.comprasparaguai.com.br/lampada-led-smart-xiaomi-mi-desk-lamp-1s-mjtd01syl-220v-branco__4454066/)
     
--  Escova elétrica
+-  [Escova elétrica — Oral-B Pro Series 3](https://www.oralb.com.br/pt-br/produtos-colecao/escovas-eletricas/pro/oralb-pro-series-3/)
     
--  Mochila NH500
+-  [Quechua NH500 32L](https://www.decathlon.com.br/mochila-de-trilha-32l-escape-500-escape-cinza-preto-8649351-quechua/p)
     
 
 ## 🟡 Comprar se houver boa oportunidade
 
--  Keychron M6 Silent 1K
+-  [Keychron M6 Silent 1K](https://mobile.comprasparaguai.com.br/mouse-sem-fio-keychron-m6-silent-1k-preto__5130973/)
     
--  Abajur Delta
+-  [Abajur Delta Off White/Nature](https://www.mercadolivre.com.br/luminaria-bivolt-delta-cupula-abajur-tripe-off-whitenature/up/MLBU3517752924)
     
--  Galaxy Buds4 Pro
+-  [Galaxy Buds4 Pro](https://mobile.comprasparaguai.com.br/fone-de-ouvido-samsung-galaxy-buds4-pro-sm-r640nzk-bluetooth-preto__5216269/)
     
--  XVX Fugaku MOA
+-  [XVX Fugaku MOA](https://www.xvxchannel.com/en-br/products/fugaku-moa-keycap-set)
     
 
-## 🟢 Comprar apenas quando fizer sentido
+## 🟢 Luxo
 
--  Dior Homme Intense
+-  [Dior Homme Intense](https://mobile.comprasparaguai.com.br/perfume-christian-dior-homme-intense-edp-masculino-100ml__4524128/)
     
--  Acqua di Giò Profondo
+-  [Acqua di Giò Profondo](https://mobile.comprasparaguai.com.br/perfume-giorgio-armani-acqua-di-gio-profondo-edp-100ml__4583715/)
     
 -  Decoração
     
@@ -1207,7 +1207,7 @@ E não:
 
 ---
 
-# 🚫 NÃO COMPRAR
+# 🚫 25 — NÃO COMPRAR
 
 -  RGB
     
@@ -1230,7 +1230,7 @@ E não:
 
 ---
 
-# 📝 Registro de compras
+# 📝 26 — REGISTRO DE COMPRAS
 
 |Data|Produto|Preço|Preço-alvo|Diferença|Motivo|
 |---|---|--:|--:|--:|---|
@@ -1238,7 +1238,7 @@ E não:
 
 ---
 
-# 📈 Histórico de preços
+# 📈 27 — HISTÓRICO DE PREÇOS
 
 |Produto|Data|Preço|Loja|Observação|
 |---|---|--:|---|---|
@@ -1246,7 +1246,7 @@ E não:
 
 ---
 
-# 💭 Ideias futuras
+# 💭 28 — IDEIAS FUTURAS
 
 > Colocar aqui qualquer produto que pareça interessante **antes de decidir comprar**.
 
@@ -1261,14 +1261,72 @@ E não:
 
 ---
 
-# 🗑️ Produtos descartados
+# 🗑️ 29 — PRODUTOS DESCARTADOS
 
 |Produto|Motivo|
 |---|---|
 |||
 
-"""  
-print("ok")  
-ppt = md  
-print(len(ppt))  
-ppt
+---
+
+# 🔖 30 — LINKS ÚTEIS
+
+## Setup
+
+- [XVX — Fugaku MOA](https://www.xvxchannel.com/en-br/products/fugaku-moa-keycap-set)
+    
+- [Keychron M6 — Compras Paraguai](https://mobile.comprasparaguai.com.br/mouse-sem-fio-keychron-m6-silent-1k-preto__5130973/)
+    
+- [Mesa Teca — Meligna](https://www.meligna.com.br/mesa-madeira-4cm-teca-escritorio-escrivaninha-setup-completa/)
+    
+- [DT3 Vita](https://dt3.com/produtos/cadeira-de-escritorio-ergonomica-dt3-vita/)
+    
+
+## Iluminação
+
+- [Xiaomi Mi Desk Lamp 1S — Compras Paraguai](https://www.comprasparaguai.com.br/lampada-led-smart-xiaomi-mi-desk-lamp-1s-mjtd01syl-220v-branco__4454066/)
+    
+- [Xiaomi Mi Desk Lamp 1S — oficial](https://www.mi.com/br/product/mi-led-desk-lamp-1s/)
+    
+- [Abajur Delta — Mercado Livre](https://www.mercadolivre.com.br/luminaria-bivolt-delta-cupula-abajur-tripe-off-whitenature/up/MLBU3517752924)
+    
+
+## Mobilidade
+
+- [Quechua NH500 32L — Decathlon](https://www.decathlon.com.br/mochila-de-trilha-32l-escape-500-escape-cinza-preto-8649351-quechua/p)
+    
+
+## Áudio
+
+- [Galaxy Buds4 Pro — Compras Paraguai](https://mobile.comprasparaguai.com.br/fone-de-ouvido-samsung-galaxy-buds4-pro-sm-r640nzk-bluetooth-preto__5216269/)
+    
+
+## Aparência
+
+- [Dior Homme Intense — Compras Paraguai](https://mobile.comprasparaguai.com.br/perfume-christian-dior-homme-intense-edp-masculino-100ml__4524128/)
+    
+- [Dior Homme Intense — Dior Brasil](https://shop.dior.com.br/dior-homme-intense-eau-de-parfum-intense/p?skuId=73)
+    
+- [Acqua di Giò Profondo — Compras Paraguai](https://mobile.comprasparaguai.com.br/perfume-giorgio-armani-acqua-di-gio-profondo-edp-100ml__4583715/)
+    
+
+## Higiene
+
+- [Oral-B Pro Series 3](https://www.oralb.com.br/pt-br/produtos-colecao/escovas-eletricas/pro/oralb-pro-series-3/)
+    
+- [Philips Sonicare](https://www.philips.com.br/c-m-pe/escovas-de-dente-eletricas)
+    
+
+---
+
+# 📌 REGRA FINAL
+
+> **A lista é uma ferramenta de espera, não uma lista de coisas que precisam ser compradas.**
+
+> **O preço-alvo precisa ser atingido antes da compra quando o item não for urgente.**
+
+> **Se surgir uma opção melhor, a lista pode mudar.**
+
+> **Se eu perceber que não preciso de alguma coisa, ela sai da lista.**
+
+> **O objetivo final não é possuir tudo. É construir um ambiente e uma vida que façam sentido.**
