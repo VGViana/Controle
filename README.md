@@ -41,7 +41,7 @@ No Obsidian, use os wikilinks. No GitHub, use os links Markdown relativos. O par
 - **Direito Constitucional:** teoria constitucional, aplicação e interpretação das normas, direitos e garantias, organização do Estado, Poderes e processo legislativo.
 - **Auditoria e Controle:** fundamentos, planejamento, materialidade, risco, relevância, fiscalização, sistemas de controle e tribunais de contas.
 - **Direito Administrativo e APU:** princípios, organização, atos, poderes, serviços públicos, PPP, convênios, licitações, improbidade, transparência, governo eletrônico, governança e políticas públicas.
-- **TI:** teoria e representação da informação, bancos de dados, modelagem, normalização, SQL, BI e *data warehouse*.
+- **[[TI]]:** teoria e representação da informação, bancos de dados, modelagem, normalização, SQL, BI e *data warehouse*.
 - **Contabilidade:** patrimônio, contas, fatos, escrituração, demonstrações, reservas, CPCs, estoques, imobilizado, intangível e recuperação de ativos; a trilha pública trata de procedimentos orçamentários e patrimoniais.
 - **Disciplinas de apoio:** lógica proposicional e argumentativa, conjuntos, combinatória, porcentagem e regra de três; fonética, classes de palavras, sintaxe, semântica, interpretação e redação.
 
