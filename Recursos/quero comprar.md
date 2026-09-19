@@ -6,7 +6,7 @@
 - [ ] [Keychron M6 Silent 1K](https://mobile.comprasparaguai.com.br/mouse-sem-fio-keychron-m6-silent-1k-preto__5130973/)
 - [ ] [Galaxy BUDS4 Pro SM-R640NZK ](https://mobile.comprasparaguai.com.br/fone-de-ouvido-samsung-galaxy-buds4-pro-sm-r640nzk-bluetooth-preto__5216269/)
 - [ ] [Cadeira](https://dt3.com/produtos/cadeira-de-escritorio-ergonomica-dt3-vita/)
-- [ ] 
+- [ ] [Mesa]()
 
 
 ## Aparência 
