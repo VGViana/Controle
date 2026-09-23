@@ -1,0 +1,1 @@
+Cidade que a obra é retratada, situada no continente da [[Oceania]]

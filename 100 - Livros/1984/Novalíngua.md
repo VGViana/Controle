@@ -1,1 +1,1 @@
-Língua pátria de "Londres", utilizada no pós-guerra
+Língua pátria de [[Londres]], utilizada no pós-guerra
