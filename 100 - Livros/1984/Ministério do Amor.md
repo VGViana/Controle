@@ -1,0 +1,1 @@
+responsável pela tortura do [[Partido]]
