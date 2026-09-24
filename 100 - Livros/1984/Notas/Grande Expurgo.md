@@ -1,0 +1,1 @@
+Guerra realizada após a revolução, responsável pela morte de incontáveis pessoas
