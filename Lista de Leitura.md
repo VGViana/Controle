@@ -26,7 +26,7 @@ Já lidos:
 - [ ] O Retrato de Dorian Gray — Oscar Wilde
 - [ ] Frankenstein — Mary Shelley
 - [ ] O Velho e o Mar — Ernest Hemingway
-- [ ] O Grande Gatsby — F. Scott Fitzgerald
+- [x] O Grande Gatsby — F. Scott Fitzgerald
 - [ ] Fahrenheit 451 — Ray Bradbury
 - [ ] Admirável Mundo Novo — Aldous Huxley
 - [ ] O Cortiço — Aluísio Azevedo
