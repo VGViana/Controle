@@ -1,210 +1,289 @@
-# 📚 Biblioteca Definitiva — Formação Clássica
+# Biblioteca de Formação Intelectual — Área de Controle
 
-## 🟢 GRAU 1 — Aprender a ler literatura
+Objetivo:
+- Sair da ignorância cultural e intelectual.
+- Construir repertório para redações e discursivas.
+- Compreender Estado, sociedade, instituições, economia, política e administração pública.
+- Cobrir progressivamente a literatura clássica mundial.
+- Começar por obras acessíveis e avançar até as mais difíceis.
+- Priorizar obras clássicas, aclamadas e disponíveis legalmente em formato digital compatível com KOReader.
 
-- [ ] **01. A Laranja Mecânica** — Anthony Burgess
-- [ ] **02. O Estranho Caso de Dr. Jekyll e Mr. Hyde** — Robert Louis Stevenson
-- [ ] **03. A Metamorfose** — Franz Kafka
-- [ ] **04. O Estrangeiro** — Albert Camus
-- [ ] **05. O Grande Gatsby** — F. Scott Fitzgerald
-- [ ] **06. O Retrato de Dorian Gray** — Oscar Wilde
-- [ ] **07. Frankenstein** — Mary Shelley
-- [ ] **08. Drácula** — Bram Stoker
-- [ ] **09. Fahrenheit 451** — Ray Bradbury
-- [ ] **10. Admirável Mundo Novo** — Aldous Huxley
-- [ ] **11. O Velho e o Mar** — Ernest Hemingway
-- [ ] **12. O Apanhador no Campo de Centeio** — J. D. Salinger
-- [ ] **13. O Alienista** — Machado de Assis
-- [ ] **14. Memórias Póstumas de Brás Cubas** — Machado de Assis
-- [ ] **15. Dom Casmurro** — Machado de Assis
-- [ ] **16. Quincas Borba** — Machado de Assis
-- [ ] **17. Triste Fim de Policarpo Quaresma** — Lima Barreto
-- [ ] **18. O Cortiço** — Aluísio Azevedo
-- [ ] **19. Vidas Secas** — Graciliano Ramos
-- [ ] **20. Capitães da Areia** — Jorge Amado
+Já lidos:
+- [x] 1984 — George Orwell
+- [x] A Revolução dos Bichos — George Orwell
+- [x] Meditações — Marco Aurélio
+- [x] A Arte de Viver — Epicteto
+- [ ] Laranja Mecânica — Anthony Burgess
 
 ---
 
-## 🟢 GRAU 2 — Entender os seres humanos
+# 1. Saída da ignorância
 
-- [ ] **21. Orgulho e Preconceito** — Jane Austen
-- [ ] **22. Jane Eyre** — Charlotte Brontë
-- [ ] **23. O Morro dos Ventos Uivantes** — Emily Brontë
-- [ ] **24. Madame Bovary** — Gustave Flaubert
-- [ ] **25. O Vermelho e o Negro** — Stendhal
-- [ ] **26. O Pai Goriot** — Honoré de Balzac
-- [ ] **27. Grandes Esperanças** — Charles Dickens
-- [ ] **28. O Conde de Monte Cristo** — Alexandre Dumas
-- [ ] **29. Os Miseráveis** — Victor Hugo
-- [ ] **30. O Processo** — Franz Kafka
-- [ ] **31. O Mestre e Margarida** — Mikhail Bulgákov
-- [ ] **32. A Morte de Ivan Ilitch** — Liev Tolstói
-- [ ] **33. Memórias do Subsolo** — Fiódor Dostoiévski
-- [ ] **34. Crime e Castigo** — Fiódor Dostoiévski
-- [ ] **35. O Idiota** — Fiódor Dostoiévski
-- [ ] **36. Pais e Filhos** — Ivan Turguêniev
-- [ ] **37. Anna Kariênina** — Liev Tolstói
-- [ ] **38. Os Irmãos Karamázov** — Fiódor Dostoiévski
-- [ ] **39. Guerra e Paz** — Liev Tolstói
-- [ ] **40. Middlemarch** — George Eliot
+- [ ] O Alienista — Machado de Assis
+- [ ] A Metamorfose — Franz Kafka
+- [ ] O Estrangeiro — Albert Camus
+- [ ] A Morte de Ivan Ilitch — Liev Tolstói
+- [ ] O Retrato de Dorian Gray — Oscar Wilde
+- [ ] Frankenstein — Mary Shelley
+- [ ] O Velho e o Mar — Ernest Hemingway
+- [ ] O Grande Gatsby — F. Scott Fitzgerald
+- [ ] Fahrenheit 451 — Ray Bradbury
+- [ ] Admirável Mundo Novo — Aldous Huxley
+- [ ] O Cortiço — Aluísio Azevedo
+- [ ] Vidas Secas — Graciliano Ramos
+
+# 2. Brasil: sociedade e formação
+
+- [ ] Memórias Póstumas de Brás Cubas — Machado de Assis
+- [ ] Dom Casmurro — Machado de Assis
+- [ ] Quincas Borba — Machado de Assis
+- [ ] Triste Fim de Policarpo Quaresma — Lima Barreto
+- [ ] A Hora da Estrela — Clarice Lispector
+- [ ] Capitães da Areia — Jorge Amado
+- [ ] Os Sertões — Euclides da Cunha
+- [ ] O Abolicionismo — Joaquim Nabuco
+- [ ] Raízes do Brasil — Sérgio Buarque de Holanda
+- [ ] Formação do Brasil Contemporâneo — Caio Prado Júnior
+- [ ] Casa-Grande & Senzala — Gilberto Freyre
+- [ ] Formação Econômica do Brasil — Celso Furtado
+
+# 3. Sociedade, ambição e comportamento
+
+- [ ] Orgulho e Preconceito — Jane Austen
+- [ ] Jane Eyre — Charlotte Brontë
+- [ ] O Morro dos Ventos Uivantes — Emily Brontë
+- [ ] Grandes Esperanças — Charles Dickens
+- [ ] Oliver Twist — Charles Dickens
+- [ ] Madame Bovary — Gustave Flaubert
+- [ ] O Vermelho e o Negro — Stendhal
+- [ ] O Conde de Monte Cristo — Alexandre Dumas
+- [ ] Os Miseráveis — Victor Hugo
+- [ ] O Pai Goriot — Honoré de Balzac
+- [ ] Middlemarch — George Eliot
+
+# 4. Literatura russa
+
+- [ ] Memórias do Subsolo — Dostoiévski
+- [ ] Crime e Castigo — Dostoiévski
+- [ ] Pais e Filhos — Ivan Turguêniev
+- [ ] O Idiota — Dostoiévski
+- [ ] Anna Kariênina — Liev Tolstói
+- [ ] Os Irmãos Karamázov — Dostoiévski
+- [ ] Guerra e Paz — Liev Tolstói
+- [ ] O Mestre e Margarida — Mikhail Bulgákov
+
+# 5. Civilizações antigas e clássicas
+
+- [ ] Epopeia de Gilgamesh
+- [ ] Ilíada — Homero
+- [ ] Odisseia — Homero
+- [ ] Édipo Rei — Sófocles
+- [ ] Antígona — Sófocles
+- [ ] Medeia — Eurípides
+- [ ] Eneida — Virgílio
+- [ ] Metamorfoses — Ovídio
+- [ ] As Mil e Uma Noites
+- [ ] Bhagavad Gita
+- [ ] Analectos — Confúcio
+- [ ] Tao Te Ching — Laozi
+
+# 6. História
+
+- [ ] Histórias — Heródoto
+- [ ] História da Guerra do Peloponeso — Tucídides
+- [ ] Vidas Paralelas — Plutarco
+- [ ] Anais — Tácito
+- [ ] A Guerra das Gálias — Júlio César
+- [ ] A Cidade de Deus — Santo Agostinho
+- [ ] O Declínio e Queda do Império Romano — Edward Gibbon
+- [ ] A Arte da Guerra — Sun Tzu
+
+# 7. Estado, poder e política
+
+- [ ] A República — Platão
+- [ ] Política — Aristóteles
+- [ ] A Retórica — Aristóteles
+- [ ] O Príncipe — Nicolau Maquiavel
+- [ ] Utopia — Thomas More
+- [ ] O Espírito das Leis — Montesquieu
+- [ ] Leviatã — Thomas Hobbes
+- [ ] Segundo Tratado sobre o Governo — John Locke
+- [ ] O Contrato Social — Jean-Jacques Rousseau
+- [ ] O Federalista — Hamilton, Madison e Jay
+- [ ] Democracia na América — Alexis de Tocqueville
+- [ ] Sobre a Liberdade — John Stuart Mill
+
+# 8. Economia
+
+- [ ] A Riqueza das Nações — Adam Smith
+- [ ] Ensaio sobre o Princípio da População — Thomas Malthus
+- [ ] Princípios de Economia Política e Tributação — David Ricardo
+- [ ] O Capital — Karl Marx
+- [ ] Manifesto Comunista — Marx e Engels
+- [ ] A Teoria da Classe Ociosa — Thorstein Veblen
+- [ ] A Teoria Geral do Emprego, do Juro e da Moeda — John Maynard Keynes
+- [ ] As Consequências Econômicas da Paz — John Maynard Keynes
+
+# 9. Sociedade, burocracia e instituições
+
+- [ ] A Ética Protestante e o Espírito do Capitalismo — Max Weber
+- [ ] Economia e Sociedade — Max Weber
+- [ ] As Regras do Método Sociológico — Émile Durkheim
+- [ ] Da Divisão do Trabalho Social — Émile Durkheim
+- [ ] O Suicídio — Émile Durkheim
+- [ ] A Sociedade Aberta e seus Inimigos — Karl Popper
+- [ ] A Lógica da Ação Coletiva — Mancur Olson
+- [ ] O Cálculo do Consentimento — Buchanan e Tullock
+- [ ] Seeing Like a State — James C. Scott
+- [ ] Vigiar e Punir — Michel Foucault
+
+# 10. Filosofia
+
+- [ ] Apologia de Sócrates — Platão
+- [ ] O Banquete — Platão
+- [ ] Ética a Nicômaco — Aristóteles
+- [ ] Confissões — Santo Agostinho
+- [ ] Discurso do Método — René Descartes
+- [ ] Meditações Metafísicas — René Descartes
+- [ ] Ensaios — Michel de Montaigne
+- [ ] Pensamentos — Blaise Pascal
+- [ ] Ética — Baruch Spinoza
+- [ ] Crítica da Razão Pura — Immanuel Kant
+- [ ] Fundamentação da Metafísica dos Costumes — Immanuel Kant
+- [ ] Além do Bem e do Mal — Friedrich Nietzsche
+- [ ] Genealogia da Moral — Friedrich Nietzsche
+- [ ] O Mundo como Vontade e Representação — Arthur Schopenhauer
+
+# 11. Ciência e método
+
+- [ ] A Origem das Espécies — Charles Darwin
+- [ ] A Descendência do Homem — Charles Darwin
+- [ ] A Viagem do Beagle — Charles Darwin
+- [ ] Novum Organum — Francis Bacon
+- [ ] O Avanço do Conhecimento — Francis Bacon
+- [ ] A Lógica da Descoberta Científica — Karl Popper
+- [ ] A Estrutura das Revoluções Científicas — Thomas Kuhn
+- [ ] Pragmatismo — William James
+- [ ] Como Pensamos — John Dewey
+
+# 12. Literatura clássica mundial — nível avançado
+
+- [ ] Dom Quixote — Miguel de Cervantes
+- [ ] A Divina Comédia — Dante Alighieri
+- [ ] Hamlet — William Shakespeare
+- [ ] Macbeth — William Shakespeare
+- [ ] Rei Lear — William Shakespeare
+- [ ] Otelo — William Shakespeare
+- [ ] Fausto — Goethe
+- [ ] Paraíso Perdido — John Milton
+- [ ] Moby Dick — Herman Melville
+- [ ] Coração das Trevas — Joseph Conrad
+- [ ] O Som e a Fúria — William Faulkner
+- [ ] Enquanto Agonizo — William Faulkner
+- [ ] Cem Anos de Solidão — Gabriel García Márquez
+- [ ] Pedro Páramo — Juan Rulfo
+- [ ] Ficções — Jorge Luis Borges
+- [ ] O Aleph — Jorge Luis Borges
+- [ ] Grande Sertão: Veredas — Guimarães Rosa
+- [ ] A Paixão Segundo G.H. — Clarice Lispector
+- [ ] Mrs. Dalloway — Virginia Woolf
+- [ ] Ao Farol — Virginia Woolf
+- [ ] O Livro do Desassossego — Fernando Pessoa
+- [ ] No Caminho de Swann — Marcel Proust
+- [ ] A Montanha Mágica — Thomas Mann
+- [ ] Ulisses — James Joyce
+- [ ] Em Busca do Tempo Perdido — Marcel Proust
+- [ ] Finnegans Wake — James Joyce
+
+# 13. Brasil — aprofundamento institucional
+
+- [ ] Os Donos do Poder — Raymundo Faoro
+- [ ] Coronelismo, Enxada e Voto — Victor Nunes Leal
+- [ ] O Povo Brasileiro — Darcy Ribeiro
+- [ ] Minha Formação — Joaquim Nabuco
+
+# 14. Escrita e repertório para discursivas
+
+- [ ] A Retórica — Aristóteles
+- [ ] Ensaios — Michel de Montaigne
+- [ ] Ensaios — Francis Bacon
+- [ ] Política e a Língua Inglesa — George Orwell
+- [ ] Por que Escrevo — George Orwell
 
 ---
 
-## 🟡 GRAU 3 — Descobrir de onde veio tudo
+# Núcleo essencial
 
-- [ ] **41. Ilíada** — Homero
-- [ ] **42. Odisseia** — Homero
-- [ ] **43. Édipo Rei** — Sófocles
-- [ ] **44. Antígona** — Sófocles
-- [ ] **45. Hamlet** — William Shakespeare
-- [ ] **46. Macbeth** — William Shakespeare
-- [ ] **47. Otelo** — William Shakespeare
-- [ ] **48. Rei Lear** — William Shakespeare
-- [ ] **49. A Divina Comédia** — Dante Alighieri
-- [ ] **50. Decamerão** — Giovanni Boccaccio
-- [ ] **51. Dom Quixote** — Miguel de Cervantes
-- [ ] **52. Fausto** — Johann Wolfgang von Goethe
-- [ ] **53. Metamorfoses** — Ovídio
-- [ ] **54. Eneida** — Virgílio
-- [ ] **55. Os Lusíadas** — Luís de Camões
-- [ ] **56. Paraíso Perdido** — John Milton
-- [ ] **57. As Mil e Uma Noites** — tradição árabe
-- [ ] **58. Contos de Cantuária** — Geoffrey Chaucer
-- [ ] **59. A Tempestade** — William Shakespeare
-- [ ] **60. Os Sofrimentos do Jovem Werther** — Goethe
+## Literatura
+- [ ] O Alienista
+- [ ] Memórias Póstumas de Brás Cubas
+- [ ] Dom Casmurro
+- [ ] Vidas Secas
+- [ ] Os Sertões
+- [ ] O Estrangeiro
+- [ ] A Morte de Ivan Ilitch
+- [ ] Crime e Castigo
+- [ ] Os Irmãos Karamázov
+- [ ] Dom Quixote
+- [ ] Ilíada
+- [ ] Odisseia
+- [ ] Hamlet
+- [ ] A Divina Comédia
+- [ ] Guerra e Paz
+- [ ] Grande Sertão: Veredas
+- [ ] Cem Anos de Solidão
+- [ ] Ficções
+- [ ] Mrs. Dalloway
+- [ ] Ulisses
 
----
+## Estado, política e instituições
+- [ ] A República
+- [ ] Política
+- [ ] O Príncipe
+- [ ] O Espírito das Leis
+- [ ] Leviatã
+- [ ] Segundo Tratado sobre o Governo
+- [ ] O Contrato Social
+- [ ] O Federalista
+- [ ] Democracia na América
+- [ ] Sobre a Liberdade
 
-## 🟠 GRAU 4 — Literatura como arte
+## Economia
+- [ ] A Riqueza das Nações
+- [ ] Princípios de Economia Política e Tributação
+- [ ] O Capital
+- [ ] A Teoria Geral
+- [ ] A Teoria da Classe Ociosa
 
-- [ ] **61. Moby Dick** — Herman Melville
-- [ ] **62. No Coração das Trevas** — Joseph Conrad
-- [ ] **63. As Vinhas da Ira** — John Steinbeck
-- [ ] **64. O Sol Também se Levanta** — Ernest Hemingway
-- [ ] **65. Adeus às Armas** — Ernest Hemingway
-- [ ] **66. O Som e a Fúria** — William Faulkner
-- [ ] **67. Enquanto Agonizo** — William Faulkner
-- [ ] **68. Luz em Agosto** — William Faulkner
-- [ ] **69. Lolita** — Vladimir Nabokov
-- [ ] **70. O Homem Invisível** — Ralph Ellison
-- [ ] **71. Beloved** — Toni Morrison
-- [ ] **72. Cem Anos de Solidão** — Gabriel García Márquez
-- [ ] **73. Pedro Páramo** — Juan Rulfo
-- [ ] **74. Ficções** — Jorge Luis Borges
-- [ ] **75. O Aleph** — Jorge Luis Borges
-- [ ] **76. O Amor nos Tempos do Cólera** — Gabriel García Márquez
-- [ ] **77. Grande Sertão: Veredas** — João Guimarães Rosa
-- [ ] **78. A Hora da Estrela** — Clarice Lispector
-- [ ] **79. A Paixão Segundo G.H.** — Clarice Lispector
-- [ ] **80. Laços de Família** — Clarice Lispector
+## Sociedade
+- [ ] A Ética Protestante e o Espírito do Capitalismo
+- [ ] Economia e Sociedade
+- [ ] Da Divisão do Trabalho Social
+- [ ] O Suicídio
+- [ ] A Lógica da Ação Coletiva
+- [ ] Seeing Like a State
 
----
+## Brasil
+- [ ] Raízes do Brasil
+- [ ] Formação do Brasil Contemporâneo
+- [ ] Casa-Grande & Senzala
+- [ ] Formação Econômica do Brasil
+- [ ] Os Donos do Poder
+- [ ] Coronelismo, Enxada e Voto
+- [ ] O Povo Brasileiro
 
-## 🔴 GRAU 5 — O cérebro moderno
+## Ciência e método
+- [ ] A Origem das Espécies
+- [ ] Novum Organum
+- [ ] A Lógica da Descoberta Científica
+- [ ] A Estrutura das Revoluções Científicas
 
-- [ ] **81. Mrs. Dalloway** — Virginia Woolf
-- [ ] **82. Ao Farol** — Virginia Woolf
-- [ ] **83. Retrato do Artista Quando Jovem** — James Joyce
-- [ ] **84. O Livro do Desassossego** — Fernando Pessoa
-- [ ] **85. Mensagem** — Fernando Pessoa
-- [ ] **86. As Flores do Mal** — Charles Baudelaire
-- [ ] **87. Uma Temporada no Inferno** — Arthur Rimbaud
-- [ ] **88. Orlando** — Virginia Woolf
-- [ ] **89. Ulisses** — James Joyce
-- [ ] **90. No Caminho de Swann** — Marcel Proust
-- [ ] **91. A Montanha Mágica** — Thomas Mann
-- [ ] **92. O Homem sem Qualidades** — Robert Musil
-- [ ] **93. O Castelo** — Franz Kafka
-- [ ] **94. Finnegans Wake** — James Joyce
-- [ ] **95. Em Busca do Tempo Perdido — O Caminho de Guermantes** — Marcel Proust
-
----
-
-## 🔵 GRAU 6 — Filosofia: aprender a pensar
-
-> [!note] Observação
-> **Meditações**, de Marco Aurélio, e **A Arte de Viver**, de Epicteto/estoicismo, já foram lidos. Por isso não aparecem novamente.
-
-- [ ] **96. Apologia de Sócrates** — Platão
-- [ ] **97. O Banquete** — Platão
-- [ ] **98. A República** — Platão
-- [ ] **99. Manual de Epicteto** — Epicteto
-- [ ] **100. Ética a Nicômaco** — Aristóteles
-- [ ] **101. Confissões** — Santo Agostinho
-- [ ] **102. O Príncipe** — Nicolau Maquiavel
-- [ ] **103. Discurso do Método** — René Descartes
-- [ ] **104. Meditações Metafísicas** — René Descartes
-- [ ] **105. Leviatã** — Thomas Hobbes
-- [ ] **106. Segundo Tratado sobre o Governo** — John Locke
-- [ ] **107. O Contrato Social** — Jean-Jacques Rousseau
-- [ ] **108. Investigação sobre o Entendimento Humano** — David Hume
-- [ ] **109. Teoria dos Sentimentos Morais** — Adam Smith
-- [ ] **110. Sobre a Liberdade** — John Stuart Mill
-- [ ] **111. Além do Bem e do Mal** — Friedrich Nietzsche
-- [ ] **112. Genealogia da Moral** — Friedrich Nietzsche
-- [ ] **113. Assim Falou Zaratustra** — Friedrich Nietzsche
-- [ ] **114. O Mundo como Vontade e Representação** — Arthur Schopenhauer
-- [ ] **115. O Mito de Sísifo** — Albert Camus
-
----
-
-## 🟣 GRAU 7 — História, civilização e sociedade
-
-- [ ] **116. Histórias** — Heródoto
-- [ ] **117. História da Guerra do Peloponeso** — Tucídides
-- [ ] **118. Vidas Paralelas** — Plutarco
-- [ ] **119. A Arte da Guerra** — Sun Tzu
-- [ ] **120. Analectos** — Confúcio
-- [ ] **121. Tao Te Ching** — Laozi
-- [ ] **122. Bhagavad Gita** — tradição indiana
-- [ ] **123. O Conto de Genji** — Murasaki Shikibu
-- [ ] **124. Utopia** — Thomas More
-- [ ] **125. O Federalista** — Alexander Hamilton, James Madison e John Jay
-- [ ] **126. Manifesto Comunista** — Karl Marx e Friedrich Engels
-- [ ] **127. O Capital — Livro I** — Karl Marx
-- [ ] **128. A Riqueza das Nações** — Adam Smith
-- [ ] **129. Vigiar e Punir** — Michel Foucault
-- [ ] **130. A Condição Humana** — Hannah Arendt
-
----
-
-## 🟤 GRAU 8 — Ciência e visão de mundo
-
-- [ ] **131. A Viagem do Beagle** — Charles Darwin
-- [ ] **132. A Origem das Espécies** — Charles Darwin
-- [ ] **133. A Descendência do Homem** — Charles Darwin
-- [ ] **134. Relatividade: A Teoria Especial e Geral** — Albert Einstein
-- [ ] **135. O Gene Egoísta** — Richard Dawkins
-- [ ] **136. Cosmos** — Carl Sagan
-- [ ] **137. O Mundo Assombrado pelos Demônios** — Carl Sagan
-- [ ] **138. Uma Breve História do Tempo** — Stephen Hawking
-- [ ] **139. A Estrutura das Revoluções Científicas** — Thomas Kuhn
-- [ ] **140. O Homem e seus Símbolos** — Carl Jung
-
----
-
-## ⚫ GRAU 9 — Literatura mundial
-
-- [ ] **141. Kokoro** — Natsume Sōseki
-- [ ] **142. O Livro da Selva** — Rudyard Kipling
-- [ ] **143. Coisas que Desmoronam** — Chinua Achebe
-- [ ] **144. Temporada de Migração para o Norte** — Tayeb Salih
-- [ ] **145. O Deus das Pequenas Coisas** — Arundhati Roy
-- [ ] **146. O Tambor** — Günter Grass
-
----
-
-## 🏆 GRAU 10 — Síntese
-
-- [ ] **147. O Homem em Busca de Sentido** — Viktor Frankl
-- [ ] **148. A Peste** — Albert Camus
-- [ ] **149. O Homem Revoltado** — Albert Camus
-- [ ] **150. A Sociedade do Espetáculo** — Guy Debord
-
----
-# 📚 Livros já lidos antes da lista
-
-- [x] **1984** — George Orwell
-- [x] **A Revolução dos Bichos** — George Orwell
-- [x] **Meditações** — Marco Aurélio
-- [x] **A Arte de Viver** — Epicteto / estoicismo
+## Filosofia
+- [ ] Ética a Nicômaco
+- [ ] Confissões
+- [ ] Discurso do Método
+- [ ] Ensaios
+- [ ] Pensamentos
+- [ ] Ética — Spinoza
+- [ ] Crítica da Razão Pura
+- [ ] Além do Bem e do Mal
