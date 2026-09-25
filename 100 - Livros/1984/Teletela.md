@@ -1,0 +1,1 @@
+- Aparelho utilizado para vigiar a população
