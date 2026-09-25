@@ -62,4 +62,4 @@ Portal de navegação para conceitos transversais relevantes em concursos da ár
 - [[3 - AUD GOV/0. Conceitos Iniciais|Auditoria governamental]]
 - [[1 - AFO/0. PPA, LDO e LOA|PPA, LDO e LOA]]
 - [[1 - AFO/9. Estágios da Receita e Despesa|Estágios da receita e despesa]]
-- [[11 - CONT PUB/0. Aspectos Introdutórios|Aspectos introdutórios da contabilidade pública]]
+- [[Controle/11 - CASP/0. Aspectos Introdutórios|Aspectos introdutórios da contabilidade pública]]

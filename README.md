@@ -31,7 +31,7 @@ No Obsidian, use os wikilinks. No GitHub, use os links Markdown relativos. O par
 8. Contabilidade — [[8 - CONT/CONT|Contabilidade]] · [GitHub](<8 - CONT/CONT.md>)
 9. Língua Portuguesa — [[9 - PORT/PORT|Português]] · [GitHub](<9 - PORT/PORT.md>)
 10. Controle Externo — [[10 - CONT EXT/CONT EXT|Controle Externo]] · [GitHub](<10 - CONT EXT/CONT EXT.md>)
-11. Contabilidade Pública — [[11 - CONT PUB/Cont Pub|Contabilidade Pública]] · [GitHub](<11 - CONT PUB/Cont Pub.md>)
+11. Contabilidade Pública — [[CASP|Contabilidade Pública]] · [GitHub](<CASP.md>)
 12. Matemática Financeira — [[12 - MAT FIN/MAT FIN|Matemática Financeira]] · [GitHub](<12 - MAT FIN/MAT FIN.md>)
 13. Estatística — [[13 - ESTAT/ESTAT|Estatística]] · [GitHub](<13 - ESTAT/ESTAT.md>)
 
