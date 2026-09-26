@@ -5,4 +5,5 @@
 [[4. Modelagem Relacional]]
 [[5. Normalização de Dados]]
 [[6. SQL]]
+[[7. BI e DW]]
 [[16. Modelagem Multidimensional]]
