@@ -114,7 +114,7 @@
     - transporte.  
         - utilização de <u>meio próprio</u> de locomoção
     - alimentação;
-        - Não é deviso no caso de licença ou afastamento, férias, suspensão em virtude de caráter disciplinar ou falta injustificada.
+        - Não é devido no caso de licença ou afastamento, férias, suspensão em virtude de caráter disciplinar ou falta injustificada.
     - créditos decorrentes de demissão exoneração e aposentadoria relativos a férias ou adicional de férias;
     - assistência pré-escolar;
         - até R$ 5.500, que poderá ser atualizado em ato do Chefe do Executivo
