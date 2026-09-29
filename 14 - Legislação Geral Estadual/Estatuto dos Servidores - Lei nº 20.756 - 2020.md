@@ -43,7 +43,7 @@
 ## **Posse:**
 
 - A posse é definida como a **<span style="color:#83a598">investidura em um cargo público</span>;**
-- Prazo de **30 dias** a partir da nomeação, sendo **<span style="color:#fb4934">prorrogável por mais 15</span>****, a requerimento do interessado** _(<span style="color:#fb4934">CUIDADO! Geralmente o prazo dos estatutos é 30+30, aqui é 30+15</span>)_
+- Prazo de **30 dias** a partir da nomeação, sendo **<span style="color:#fb4934">prorrogável por mais 15</span>**, a requerimento do interessado _(<span style="color:#fb4934">CUIDADO! Geralmente o prazo dos estatutos é 30+30, aqui é 30+15</span>)_
     - _<span style="color:#fb4934">Sendo servidor público, pode ser prorrogado até o final de licenças de saúde, maternidade/paternidade, militar, por motivo de doença na família e</span> **<span style="color:#fb4934">férias</span>**_
     - Não ocorrendo no prazo, a **NOMEAÇÃO** é declarada sem efeito. 
     - Pode ter posse por procuração **<span style="color:#fb4934">ESPECÍFICA</span>.**
