@@ -160,9 +160,9 @@
         
     2. tratando-se de mandato de **<span style="color:#d3869b">Vereador</span>:**
         
-        a) havendo compatibilidade de horários, perceberá a remuneração de seu cargo, sem prejuízo da remuneração do cargo eletivo;
+        - a) havendo compatibilidade de horários, perceberá a remuneração de seu cargo, sem prejuízo da remuneração do cargo eletivo;
         
-        b) não havendo compatibilidade de horários, será afastado do cargo, sendo-lhe facultado optar pela sua remuneração.
+        - b) não havendo compatibilidade de horários, será afastado do cargo, sendo-lhe facultado optar pela sua remuneração.
         
 7. **<span style="color:#83a598">Capacitação</span>**
     - **Após cada quinquênio de efetivo exercício prestado ao Estado de Goiás na condição de titular de cargo de provimento efetivo.** 
