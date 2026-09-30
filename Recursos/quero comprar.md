@@ -16,5 +16,5 @@
 - [ ] [Suporte de mesa](https://www.mercadolivre.com.br/estrutura-de-mesa-eletrica-ergonomica-ajustavel-c-regulagem-altura-estavel-escritorio-cor-preta-luvinco/p/MLB75656386?pdp_filters=item_id%3AMLB4953509361&matt_event_ts=1789994525376&matt_d2id=54648eb6-e0f3-4d1d-a41c-faf59d62f5d3&matt_tracing_id=c10bb9eb-6244-4e22-acae-c484b0b13b33#polycard_client=recommendations_home_affiliate-profile&wid=MLB4953509361&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=94214239&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8785732e-c681-43f6-bd55-7e54d8972e89&tracking_id=ef061691-b600-41f3-98cd-0b701d44bf66&c_id=/home/card-featured/element&c_uid=3e28caaa-b9d1-49e8-bfef-b497eba61a4b)
 - [ ] [Mousepad](https://shopee.com.br/Base-de-Corte-A1-90x60cm-Lanmax-Dupla-Face-Patchwork-Artesanato-i.458755631.22792523283?extraParams=%7B%22display_model_id%22%3A169704441877%2C%22model_selection_logic%22%3A3%7D)
 - [x] Citrus Brasilis
-- [ ] [Mochila de Trilha 32L NH500 Quechua Preto](https://www.decathlon.com.br/mochila-de-trilha-32l-escape-500-escape-cinza-preto-8649351-quechua/p) 
+- [x] [Mochila de Trilha 32L NH500 Quechua Preto](https://www.decathlon.com.br/mochila-de-trilha-32l-escape-500-escape-cinza-preto-8649351-quechua/p) 
 - [ ] Escova de dentes elétrica
