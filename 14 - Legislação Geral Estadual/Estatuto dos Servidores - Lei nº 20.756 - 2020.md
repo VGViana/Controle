@@ -419,13 +419,13 @@
 
 ### **Revisão do Processo**
 
-- Pode ser requerida **a qualquer tempo**, desde que haja **novos fatos ou circunstâncias** suscetíveis de justificar a inocência.
+- Pode ser requerida **<span style="color:#b8bb26">a qualquer tempo</span>**, desde que haja **novos fatos ou circunstâncias** suscetíveis de justificar a inocência.
     
-    - **Importante!** **Não constitui fundamento** para revisão:
+    - **<span style="color:#fb4934">Importante! Não constitui fundamento</span>** para revisão:
         - **simples alegação de injustiça** da penalidade
         - **arguição de nulidade suscitada no curso do processo originário, bem como a que, nele invocada, tenha sido considerada improcedente.**
 - Deve ser dirigido à mesma autoridade que houver imposto a penalidade disciplinar. 
-- Será analisado também por uma comissão de 3 membros, mas **nenhum** deles pode ter sido da comissão do processo de origem ou da sua sindicância. 
+- Será analisado também por uma comissão de 3 membros, mas **nenhum** deles pode ter sido da <u>comissão do processo de origem ou da sua sindicância.</u> 
     - Terá prazo de 60 dias, permitida prorrogação por mais 30 dias. 
 - Prazo para julgamento: 30 dias
 - Caberá ao Chefe do Poder Executivo o julgamento, quando do processo revisto houver resultado penalidade de demissão, destituição de cargo em comissão, cassação de aposentadoria e de disponibilidade (lembrar do rito ordinário)
@@ -434,7 +434,7 @@
     - **Julgar parcialmente procedente:** desclassifica a infração para outro tipo disciplinar mais branda. 
     - **Julgar improcedente:** mantém o julgamento anterior. 
 
-**Resolução Consensual de Conflitos**
+### **Resolução Consensual de Conflitos**
 
 - Utilização do Termo de Ajustamento de Conduta (TAC) para resolução consensual de conflitos em processos que envolvam transgressões de **MENOR** potencial ofensivo. São elas: **advertência** ou **suspensão até 30 dias.** 
 - **Não possui caráter punitivo.** 
