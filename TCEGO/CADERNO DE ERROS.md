@@ -20,5 +20,5 @@
 
  ![[CADERNO DE ERROS-2.png]]
 
-
+- 25% do ICMS pertencem ao município
 
