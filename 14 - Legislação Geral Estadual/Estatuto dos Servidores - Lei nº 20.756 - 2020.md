@@ -367,11 +367,11 @@
     
 - **Órgão Central do Sistema de Correição** pode motivadamente avocar tanto a instauração quanto o julgamento. 
     
-- Será instruído por **comissão de 3 servidores** ocupantes de cargo de provimento efetivo, preferencialmente estáveis. 
+- Será instruído por **<span style="color:#b8bb26">comissão de 3 servidores</span>** ocupantes de cargo de provimento efetivo, <u>preferencialmente estáveis</u>. 
     - Para deliberar é necessário presença mínima de dois membros.
     - Sempre que necessário, se dedicarão de forma exclusiva ao processo administrativo disciplinar, dispensados das funções normais até a entrega do relatório. 
     - Designação é encargo de natureza obrigatória.
-- São **impedidos** de atuar na comissão:
+- São **<span style="color:#b8bb26">impedidos</span>** de atuar na comissão:
     - cônjuge ou companheiro e parentes até terceiro grau do acusado ou de seu defensor
     - que tenha sofrido punição disciplinar, cujo cancelamento ainda não tenha ocorrido. 
     - esteja respondendo processo administrativo disciplinar ou criminal. 
@@ -379,7 +379,7 @@
     - tenha atuado em sindicância preliminar, auditoria, investigação ou procedimento de que resultou a instauração do processo;
     - atue como defensor do acusado em qualquer processo administrativo ou judicial; 
     - tenha celebrado Termo de Ajustamento de Conduta, até o efetivo cumprimento das obrigações avençadas.
-- São **suspeitos** de atuar na comissão
+- São **<span style="color:#d3869b">suspeitos</span>** de atuar na comissão
     - amigo íntimo ou inimigo capital de qualquer das partes ou de seus defensores
     - tenha interesse no resultado do processo; 
     - tenha interesse em decisão administrativa a ser tomada pelo acusado;
@@ -407,9 +407,9 @@
     - Deve ser concluído em **45 dias** a partir da sua instauração.
         - Na impossibilidade, comissão deverá comunicar a autoridade instauradora para adotar providências cabíveis, mas não pode passar de **60 dias**
 
-**Julgamento**
+### **Julgamento**
 
-- A autoridade que determinou a instauração deve proferir sua decisão no **prazo de 30 dias**, a contar do recebimento do processo, ou remeterá, **no prazo de 5 dias**, à autoridade competente para julgamento.
+- A autoridade que determinou a instauração deve proferir sua decisão no **<span style="color:#b8bb26">prazo de 30 dias</span>**, a contar do recebimento do processo, ou remeterá, **<span style="color:#b8bb26">no prazo de 5 dias</span>**, à autoridade competente para julgamento.
     
 - Antes do julgamento, solicitará manifestação jurídica da Procuradoria-Geral do Estado sobre a legalidade do processo.
 - Deve conter:
@@ -417,7 +417,7 @@
     - Dispositivo legal infringido, bem como exposição dos fundamentos fáticos de jurídicos de sua convicção. 
     - Dosimetria da penalidade.
 
-**Revisão do Processo**
+### **Revisão do Processo**
 
 - Pode ser requerida **a qualquer tempo**, desde que haja **novos fatos ou circunstâncias** suscetíveis de justificar a inocência.
     
