@@ -318,15 +318,15 @@
 
 ### **Disposições Gerais**
 
-- **Apuração de Irregularidade:** Os responsáveis pelos órgãos e as demais autoridades do Poder Público Estadual, bem como os servidores que nele exercem suas funções, que tiverem conhecimento de prática de ato de improbidade administrativa ou qualquer outra irregularidade, imputados a servidor público estadual, ficam obrigados, **sob pena de responsabilidade funcional**, a noticiar ou representar o fato à autoridade competente para as devidas providências. 
+- **Apuração de Irregularidade:** Os responsáveis pelos órgãos e as demais autoridades do Poder Público Estadual, bem como os servidores que nele exercem suas funções, que tiverem conhecimento de prática de ato de improbidade administrativa ou qualquer outra irregularidade, imputados a servidor público estadual, ficam obrigados, **<span style="color:#83a598">sob pena de responsabilidade funcional</span>**, a noticiar ou representar o fato à autoridade competente para as devidas providências. 
     
-- **Sindicância:** é um procedimento que antecede o processo administrativo disciplinar  que visa **apurar a existência de fatos irregulares e identificar os responsáveis**.
+- **Sindicância:** é um <u>procedimento que antecede o processo administrativo disciplinar</u>  que visa **<span style="color:#83a598">apurar a existência de fatos irregulares e identificar os responsáveis</span>**.
     
     - Toda autoridade estadual tem competência para instaurar sindicância
         
-    - Será conduzida por servidor ou comissão**;**
+    - **<span style="color:#b8bb26">Será conduzida por servidor ou comissão</span>**;
         
-    - **Prazo de 90 dias, prorrogável por igual período**
+    - **<span style="color:#b8bb26">Prazo de 90 dias, prorrogável por igual período</span>**
         
 - **Resultados possíveis da Sindicância:** 
     
@@ -344,13 +344,13 @@
     
     - Aqui será necessariamente por 3 servidores. 
         
-    - **Prazo de 90 dias, prorrogável por igual período**
+    - **<span style="color:#b8bb26">Prazo de 90 dias, prorrogável por igual período</span>**
         
 - **Do Afastamento Preventivo:**
     
     - Em regra, deve ser ouvida a autoridade competente para manifestação de conveniência e oportunidade. 
         
-    - É feito **sem o prejuízo da remuneração.**
+    - É feito **<u>sem o prejuízo da remuneração.</u>**
         
     - Máximo de 180 dias consecutivos ou não. Ao final, o servidor reassumirá suas funções, concluído ou não o processo. 
         
