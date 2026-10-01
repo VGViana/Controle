@@ -187,3 +187,272 @@
     - **5 anos:**  demissão, cassação de aposentadoria ou disponibilidade e aos referentes a matéria patrimonial;
     - **120 dias:** nos demais casos, salvo quando outro prazo for fixado em lei. 
 - O pedido de **reconsideração** e o **recurso,** quando cabíveis, interrompem a prescrição _(<span style="color:#fb4934">Atenção! aqui não é caso de suspensão. Volta a correr do zero!</span>)._
+
+# **Arts. 191 a 296**
+
+## **Atividade Correicional:** 
+
+- É o conjunto de estruturas, processos, ações e sistemas informatizados objetivando a organização, coordenação e harmonização das atividades de correição no âmbito do Poder Executivo do Estado de Goiás,
+    
+- Controladoria Geral do Estado de Goiás é o órgão central do sistema de correição.
+    
+
+**Regime Disciplinar:**
+
+**Responsabilidades**
+
+- **Responsabilidade Civil**: O servidor é **responsável civilmente pelo exercício irregular de suas atribuições.**
+    
+    - Essa responsabilidade ocorre em decorrência de **atos omissivos ou comissivos, dolosos ou culposos, que causem prejuízo ao Erário** (os recursos públicos) **ou a terceiros.**
+        
+- **Dano a Terceiros**: Se o servidor causar dano a terceiros, ele **responderá perante a Fazenda Pública, que poderá acioná-lo em ação regressiva** para buscar ressarcimento.  
+      
+    
+    - A **obrigação de reparar o dano estende-se aos sucessores** e contra eles será executada **até o limite do valor da herança recebida.**
+        
+
+- **Responsabilidade Penal**: A **responsabilidade penal** abrange os **crimes e contravenções;**
+    
+- **Responsabilidade Administrativa**: Decorre de **atos omissivos ou comissivos praticados em transgressões disciplinares**.  
+      
+    
+- **Cumulação de Responsabilidades**: As responsabilidades **civil, penal e administrativa podem cumular-se**, ou seja, o servidor pode ser acionado em mais de uma dessas esferas de responsabilidade, sendo elas independentes entre si.  
+      
+    
+- **Absolvição Criminal**: A **responsabilidade civil ou administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou a sua autoria**.
+    
+
+**Penalidades** 
+
+- **Penalidades Disciplinares**:  
+      
+    
+    - Advertência
+        
+    - Suspensão
+        
+    - Multa
+        
+    - **Demissão**
+        
+    - Cassação de aposentadoria ou disponibilidade
+        
+    - **Destituição** de cargo em comissão
+        
+        - **Veja que não é exoneração!**
+            
+
+- **Advertência**: Sempre por escrito. Transgressão leve.
+    
+    - Registro é cancelado depois de 3 anos de aplicada a penalidade
+
+- **Suspensão**: Transgressão média ou aplicada em casos de reincidência de transgressão leve.  
+      
+    
+    - Não pode exceder 90 dias. Tempo suspenso não conta como tempo de serviço  
+          
+        
+    - Perde direito as vantagens e direitos decorrentes do exercício do cargo, exceto se for convertida em multa, com base em 50% do valor diário da remuneração _(aqui o servidor continua trabalhando, mas perde 50% da remuneração pelos dias que seria suspenso)_
+        
+    - Registro é cancelado depois de 5 anos de aplicada a penalidade
+
+- **Multa:** ao inativo ou em disponibilidade, que tiver praticado, **NA ATIVIDADE**, transgressão média e corresponderá ao valor diário dos proventos de aposentadoria ou da remuneração ou do subsídio da disponibilidade por dia de suspensão.  
+    
+    - Veja que é uma alternativa a suspensão nos casos que ela não poderia ser aplicada. 
+        
+    - Aqui é 100% da remuneração diária pelos dias que teria sido suspenso
+        
+    - Registro é cancelado depois de 5 anos de aplicada a penalidade
+
+- **Demissão** **Transgressão grave.** 
+    
+    - Se a transgressão grave se der no exercício de cargo em comissão, implicará a demissão **do cargo efetivo**
+        - **Veja que é diferente do caso de destituição do cargo em comissão (aplicada somente aos servidores sem vínculo estatutário)**
+    - No caso de acumulação legal de cargos, só atinge o vínculo em que houve a transgressão. 
+        
+    - Se o servidor já estiver exonerado, a exoneração será convertida em demissão. 
+        
+    - São casos que ensejam demissão _(esses vale a pena conhecer)_:
+        - praticar, **dolosamente**, ato definido em lei como crime contra a administração pública, a fé pública, a ordem tributária, o assim definido na lei de licitação, o de lavagem ou ocultação de bens, direitos e valores, bem como qualquer outro em que a Administração figure como sujeito passivo
+            
+        - lesar os cofres públicos ou dilapidar o patrimônio estadual
+            
+        - abandonar o cargo, faltando **intencionalmente** ao exercício de suas funções durante o período correspondente a **30 (trinta) dias consecutivos** ou o equivalente para os servidores submetidos ao regime de trabalho em escala ou plantão
+            
+        - incorrer em inassiduidade habitual, faltando intencionalmente ao exercício de suas funções por **45 (quarenta e cinco) dias interpolados, durante o período de 365 (trezentos e sessenta e cinco) dias** ou o equivalente para os servidores submetidos ao regime de trabalho em escala ou plantão 
+            
+        - praticar, **dolosamente,** ato definido em lei como de improbidade administrativa
+            
+        - ser condenado, por **decisão de que não caiba mais recurso** por **crime doloso contra a vida, hediondo, tortura, tráfico ilícito de entorpecentes e drogas afins, terrorismo ou qualquer outro crime cuja pena aplicada seja de reclusão superior a 4 (quatro) anos** 
+            
+- **Cassação de aposentadoria e disponibilidade:** penas que seriam de demissão por atos praticados em atividade.  
+- **Quem pode aplicar as penalidades?**
+    
+    - O **Chefe do Poder Executivo,** para demissão, destituição do cargo em comissão e cassação de aposentadoria ou disponibilidade (penas que envolvem a perda do cargo)
+        
+        - Pode ser delegada aos Secretários ou Autoridade equivalente
+    - **Secretário de Estado ou Autoridade Equivalente** para advertência, suspensão ou multa. 
+        - Pode ser delegada para subordinados em grau imediatamente inferior nos casos de **advertência** e **suspensão até 30 dias**. _(Cuidado, não cabe delegação no caso de multa)_
+
+- **Prescrição da ação disciplinar:**
+    
+    - A prescrição ocorre em **6 anos** para ações puníveis com **demissão, destituição, cassação de aposentadoria ou disponibilidade.**
+        
+    - Em **3 anos** para **suspensão,** **advertência ou multa.**
+        
+    - O prazo de prescrição começa quando o fato se torna conhecido, não de quando ele é praticado.
+        
+    - Se houver reenquadramento para outro tipo, a prescrição se dá pelo prazo do enquadramento efetivamente imputado ao servidor.
+    - A publicação do ato que instaure **processo disciplinar** **interrompe a prescrição** _(começa de novo do zero)._
+        
+        - _**Cuidado,** pois a lei não fala que a abertura da sindicância interrompe o prazo. Veja: § 6 o Interrompe a contagem do prazo prescriciona**l a publicação do ato de instauração do processo administrativo disciplinar,** na forma do inciso I do § 9 o deste artigo._ 
+            
+    - **Suspendem a prescrição** _(volta a correr de onde estava):_
+        
+        - o sobrestamento do processo administrativo disciplinar ou da sindicância pela autoridade instauradora para aguardar decisão administrativa ou judicial da qual necessariamente dependa o processo;
+        -  a manifestação expressa da Junta Médica Oficial pela impossibilidade de o servidor acompanhar o processo administrativo disciplinar, quando da concessão de licença para tratamento de saúde;
+        - a celebração do Termo de Ajustamento de Conduta - TAC.
+        
+
+**Processo Administrativo Disciplinar (PAD)**
+
+**Disposições Gerais**
+
+- **Apuração de Irregularidade:** Os responsáveis pelos órgãos e as demais autoridades do Poder Público Estadual, bem como os servidores que nele exercem suas funções, que tiverem conhecimento de prática de ato de improbidade administrativa ou qualquer outra irregularidade, imputados a servidor público estadual, ficam obrigados, **sob pena de responsabilidade funcional**, a noticiar ou representar o fato à autoridade competente para as devidas providências. 
+    
+- **Sindicância:** é um procedimento que antecede o processo administrativo disciplinar  que visa **apurar a existência de fatos irregulares e identificar os responsáveis**.
+    
+    - Toda autoridade estadual tem competência para instaurar sindicância
+        
+    - Será conduzida por servidor ou comissão**;**
+        
+    - **Prazo de 90 dias, prorrogável por igual período**
+        
+- **Resultados possíveis da Sindicância:** 
+    
+    - **Se propuser arquivamento:**  demonstrará a ausência de indícios suficientes de autoria e materialidade.
+        
+    - **Se propuser Termo de Ajuste de Conduta (TAC):** conterá a exposição da infração disciplinar, com todas as suas circunstâncias, a qualificação do acusado, a classificação do ilícito disciplinar, bem como a demonstração da presença dos requisitos exigidos. 
+        
+    - **Encaminhar cópia dos autos ao Ministério Público,** na hipótese de existirem indícios da prática de ato de improbidade administrativa ou de ilícito penal; 
+        
+    - **Instaurar o processo administrativo disciplinar;** 
+        
+    - **Determinar,** visando ao melhor esclarecimento dos fatos, que o mesmo ou outro sindicante ou comissão realize **novas diligências** que entender necessárias, devendo ser especificadas; 
+        
+- **Sindicância Patrimonial:** indícios de enriquecimento ilícito de servidor ou de evolução patrimonial incompatível com a remuneração 
+    
+    - Aqui será necessariamente por 3 servidores. 
+        
+    - **Prazo de 90 dias, prorrogável por igual período**
+        
+- **Do Afastamento Preventivo:**
+    
+    - Em regra, deve ser ouvida a autoridade competente para manifestação de conveniência e oportunidade. 
+        
+    - É feito **sem o prejuízo da remuneração.**
+        
+    - Máximo de 180 dias consecutivos ou não. Ao final, o servidor reassumirá suas funções, concluído ou não o processo. 
+        
+    - A medida cautelar só será efetivada na hipótese em que a movimentação do servidor para outro local e/ou horário de trabalho não se mostre suficiente para fazer cessar sua influência. 
+        
+
+**Processo Disciplinar**
+
+- O processo disciplinar é instaurado para apurar a responsabilidade do servidor por infrações cometidas;
+    
+- Competência: chefe do Poder Executivo e os Secretários de Estado ou autoridades equivalentes, independente da penalidade disciplinar abstratamente cominada à infração apurada.
+    - Delegável para autoridade imediatamente inferior 
+- Instaurado onde foi praticado o fato, resguardada a competência para o julgamento.
+    
+- **Órgão Central do Sistema de Correição** pode motivadamente avocar tanto a instauração quanto o julgamento. 
+    
+- Será instruído por **comissão de 3 servidores** ocupantes de cargo de provimento efetivo, preferencialmente estáveis. 
+    - Para deliberar é necessário presença mínima de dois membros.
+    - Sempre que necessário, se dedicarão de forma exclusiva ao processo administrativo disciplinar, dispensados das funções normais até a entrega do relatório. 
+    - Designação é encargo de natureza obrigatória.
+- São **impedidos** de atuar na comissão:
+    - cônjuge ou companheiro e parentes até terceiro grau do acusado ou de seu defensor
+    - que tenha sofrido punição disciplinar, cujo cancelamento ainda não tenha ocorrido. 
+    - esteja respondendo processo administrativo disciplinar ou criminal. 
+    - tenha se manifestado anteriormente na causa que constitui objeto de apuração do processo, inclusive na condição de noticiante ou autor da representação;
+    - tenha atuado em sindicância preliminar, auditoria, investigação ou procedimento de que resultou a instauração do processo;
+    - atue como defensor do acusado em qualquer processo administrativo ou judicial; 
+    - tenha celebrado Termo de Ajustamento de Conduta, até o efetivo cumprimento das obrigações avençadas.
+- São **suspeitos** de atuar na comissão
+    - amigo íntimo ou inimigo capital de qualquer das partes ou de seus defensores
+    - tenha interesse no resultado do processo; 
+    - tenha interesse em decisão administrativa a ser tomada pelo acusado;
+    - seja credor ou devedor do acusado ou de seu defensor, ou com eles mantenha relação de negócio
+
+⏩ **Etapas do processo disciplinar:**
+
+- Instauração 
+- Instrução 
+- Defesa
+- Relatório 
+- Julgamento   
+      
+    
+
+⏩ **Ritos:**
+
+- **Ordinário:** para possível demissão, destituição de cargo em comissão, cassação de aposentadoria ou disponibilidade. 
+    - Deve ser concluído em **120 dias** a partir da sua instauração. 
+        - Na impossibilidade, comissão deverá comunicar a autoridade instauradora para adotar providências cabíveis, mas não pode passar de **180 dias**
+- **Sumário:** possível penalidade de suspensão ou multa. 
+    - Deve ser concluído em **60 dias** a partir da sua instauração.
+        - Na impossibilidade, comissão deverá comunicar a autoridade instauradora para adotar providências cabíveis, mas não pode passar de **90 dias**
+- **Sumaríssimo:** possível penalidade de advertência. 
+    - Deve ser concluído em **45 dias** a partir da sua instauração.
+        - Na impossibilidade, comissão deverá comunicar a autoridade instauradora para adotar providências cabíveis, mas não pode passar de **60 dias**
+
+**Julgamento**
+
+- A autoridade que determinou a instauração deve proferir sua decisão no **prazo de 30 dias**, a contar do recebimento do processo, ou remeterá, **no prazo de 5 dias**, à autoridade competente para julgamento.
+    
+- Antes do julgamento, solicitará manifestação jurídica da Procuradoria-Geral do Estado sobre a legalidade do processo.
+- Deve conter:
+    - Histórico do processo, com resumo das principais peças. 
+    - Dispositivo legal infringido, bem como exposição dos fundamentos fáticos de jurídicos de sua convicção. 
+    - Dosimetria da penalidade.
+
+**Revisão do Processo**
+
+- Pode ser requerida **a qualquer tempo**, desde que haja **novos fatos ou circunstâncias** suscetíveis de justificar a inocência.
+    
+    - **Importante!** **Não constitui fundamento** para revisão:
+        - **simples alegação de injustiça** da penalidade
+        - **arguição de nulidade suscitada no curso do processo originário, bem como a que, nele invocada, tenha sido considerada improcedente.**
+- Deve ser dirigido à mesma autoridade que houver imposto a penalidade disciplinar. 
+- Será analisado também por uma comissão de 3 membros, mas **nenhum** deles pode ter sido da comissão do processo de origem ou da sua sindicância. 
+    - Terá prazo de 60 dias, permitida prorrogação por mais 30 dias. 
+- Prazo para julgamento: 30 dias
+- Caberá ao Chefe do Poder Executivo o julgamento, quando do processo revisto houver resultado penalidade de demissão, destituição de cargo em comissão, cassação de aposentadoria e de disponibilidade (lembrar do rito ordinário)
+- Possíveis decisões:
+    - **Julgar procedente:** torna sem efeito a penalidade anterior e reestabelece os direitos dela atingidos
+    - **Julgar parcialmente procedente:** desclassifica a infração para outro tipo disciplinar mais branda. 
+    - **Julgar improcedente:** mantém o julgamento anterior. 
+
+**Resolução Consensual de Conflitos**
+
+- Utilização do Termo de Ajustamento de Conduta (TAC) para resolução consensual de conflitos em processos que envolvam transgressões de **MENOR** potencial ofensivo. São elas: **advertência** ou **suspensão até 30 dias.** 
+- **Não possui caráter punitivo.** 
+- Pode ser proposto a **partir da ocorrência da transgressão até 5 dias após a citação** do servidor em processo já instaurado. 
+- Pode ser de **ofício ou a requerimento** do servidor. 
+- Possui eficácia de **título executivo administrativo.**
+- **O ajustamento de conduta será proposto e conduzido no órgão ou na entidade onde foi praticado o fato:** 
+    - Pelo titular da respectiva unidade correcional setorial;
+    - Pelo Presidente da Comissão Permanente de Sindicância e de Processo Administrativo Disciplinar; ou
+    - Pelo Órgão Central do Sistema de Correição, conforme o caso. 
+- **🔥 Requisitos** _(sem eles o TAC celebrado será considerado **NULO**):_
+    - I - reconhecimento pelo servidor da responsabilidade pela prática da transgressão disciplinar;
+    - II - compromisso do servidor perante a administração de ajustar sua conduta aos deveres e às proibições previstos na legislação e a **ressarcir os danos e prejuízos porventura causados ao erário;**
+    - III - penalidade aplicável, em tese, de **advertência ou de suspensão de até 30 (trinta) dias;**
+    - IV - **inexistência** de **processo administrativo disciplinar** em curso relativo a prática de **outra infração disciplinar;**
+    - V - **primariedade** do servidor;
+    - VI - **inexistência de TAC** celebrado nos últimos **12 (doze) meses,** para as transgressões disciplinares apenadas com **advertência;**
+    - VII - i**nexistência de TAC** celebrado nos últimos **2 (dois) anos,** para as transgressões disciplinares apenadas com **suspensão de até 30 (trinta) dias.**
+- **Na vigência do TAC, se nova infração for cometida:**
+    - Se a ela caberia advertência, será convertida em suspensão de 30 dias. 
+    - Se a ela caberia suspensão, será aumentada pela metade, sendo no mínimo 30 e no máximo 90 dias.
