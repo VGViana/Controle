@@ -357,7 +357,7 @@
     - A medida cautelar só será efetivada na hipótese em que a movimentação do servidor para outro local e/ou horário de trabalho não se mostre suficiente para fazer cessar sua influência. 
         
 
-**Processo Disciplinar**
+## **Processo Disciplinar**
 
 - O processo disciplinar é instaurado para apurar a responsabilidade do servidor por infrações cometidas;
     
@@ -385,7 +385,7 @@
     - tenha interesse em decisão administrativa a ser tomada pelo acusado;
     - seja credor ou devedor do acusado ou de seu defensor, ou com eles mantenha relação de negócio
 
-⏩ **Etapas do processo disciplinar:**
+### **Etapas do processo disciplinar:**
 
 - Instauração 
 - Instrução 
@@ -395,7 +395,7 @@
       
     
 
-⏩ **Ritos:**
+### **Ritos:**
 
 - **Ordinário:** para possível demissão, destituição de cargo em comissão, cassação de aposentadoria ou disponibilidade. 
     - Deve ser concluído em **120 dias** a partir da sua instauração. 
@@ -434,7 +434,7 @@
     - **Julgar parcialmente procedente:** desclassifica a infração para outro tipo disciplinar mais branda. 
     - **Julgar improcedente:** mantém o julgamento anterior. 
 
-### **Resolução Consensual de Conflitos**
+## **Resolução Consensual de Conflitos**
 
 - Utilização do Termo de Ajustamento de Conduta (TAC) para resolução consensual de conflitos em processos que envolvam transgressões de **MENOR** potencial ofensivo. São elas: **advertência** ou **suspensão até 30 dias.** 
 - **Não possui caráter punitivo.** 
