@@ -15,4 +15,7 @@
 
 - As despesas decorrentes de condenação judicial serão incluídas como **PRECATÓRIOS**
 
--  
+ ![[CADERNO DE ERROS-2.png]]
+
+
+
