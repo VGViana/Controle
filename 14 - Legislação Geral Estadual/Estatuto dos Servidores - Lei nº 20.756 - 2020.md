@@ -205,9 +205,9 @@
     
     - Essa responsabilidade ocorre em decorrência de **<span style="color:#83a598">atos omissivos ou comissivos, dolosos ou culposos, que causem prejuízo ao Erário</span>** (os recursos públicos) **<span style="color:#83a598">ou a terceiros</span>.**
         
-- **Dano a Terceiros**: Se o servidor causar dano a terceiros, ele **<span style="color:#83a598">responderá perante a Fazenda Pública, que poderá acioná-lo em ação regressiva</span>** para buscar ressarcimento.  
+	- **Dano a Terceiros**: Se o servidor causar dano a terceiros, ele **<span style="color:#83a598">responderá perante a Fazenda Pública, que poderá acioná-lo em ação regressiva</span>** para buscar ressarcimento.  
     
-    - A **<span style="color:#83a598">obrigação de reparar o dano estende-se aos sucessores</span>** e contra eles será executada **até o limite do valor da herança recebida.**
+	- A **<span style="color:#83a598">obrigação de reparar o dano estende-se aos sucessores</span>** e contra eles será executada **até o limite do valor da herança recebida.**
         
 
 - **Responsabilidade Penal**: A **<span style="color:#83a598">responsabilidade penal</span>** abrange os **<span style="color:#83a598">crimes e contravenções</span>;**
