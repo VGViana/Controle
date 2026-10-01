@@ -190,39 +190,38 @@
 
 # **Arts. 191 a 296**
 
-## **Atividade Correicional:** 
+## **<span style="color:#fe8019"><u>Atividade Correicional:</u></span>** 
 
 - É o conjunto de estruturas, processos, ações e sistemas informatizados objetivando a organização, coordenação e harmonização das atividades de correição no âmbito do Poder Executivo do Estado de Goiás,
     
 - Controladoria Geral do Estado de Goiás é o órgão central do sistema de correição.
     
 
-**Regime Disciplinar:**
+## **<span style="color:#fe8019"><u>Regime Disciplinar:</u></span>**
 
-**Responsabilidades**
+### **<span style="color:#fe8019">Responsabilidades</span>**
 
-- **Responsabilidade Civil**: O servidor é **responsável civilmente pelo exercício irregular de suas atribuições.**
+- **Responsabilidade Civil**: O servidor é **<span style="color:#83a598">responsável civilmente pelo exercício irregular de suas atribuições.</span>**
     
-    - Essa responsabilidade ocorre em decorrência de **atos omissivos ou comissivos, dolosos ou culposos, que causem prejuízo ao Erário** (os recursos públicos) **ou a terceiros.**
+    - Essa responsabilidade ocorre em decorrência de **<span style="color:#83a598">atos omissivos ou comissivos, dolosos ou culposos, que causem prejuízo ao Erário</span>** (os recursos públicos) **<span style="color:#83a598">ou a terceiros</span>.**
         
-- **Dano a Terceiros**: Se o servidor causar dano a terceiros, ele **responderá perante a Fazenda Pública, que poderá acioná-lo em ação regressiva** para buscar ressarcimento.  
-      
+- **Dano a Terceiros**: Se o servidor causar dano a terceiros, ele **<span style="color:#83a598">responderá perante a Fazenda Pública, que poderá acioná-lo em ação regressiva</span>** para buscar ressarcimento.  
     
-    - A **obrigação de reparar o dano estende-se aos sucessores** e contra eles será executada **até o limite do valor da herança recebida.**
+    - A **<span style="color:#83a598">obrigação de reparar o dano estende-se aos sucessores</span>** e contra eles será executada **até o limite do valor da herança recebida.**
         
 
-- **Responsabilidade Penal**: A **responsabilidade penal** abrange os **crimes e contravenções;**
+- **Responsabilidade Penal**: A **<span style="color:#83a598">responsabilidade penal</span>** abrange os **<span style="color:#83a598">crimes e contravenções</span>;**
     
-- **Responsabilidade Administrativa**: Decorre de **atos omissivos ou comissivos praticados em transgressões disciplinares**.  
+- **Responsabilidade Administrativa**: Decorre de **<span style="color:#83a598">atos omissivos ou comissivos praticados em transgressões disciplinares</span>**.  
       
     
-- **Cumulação de Responsabilidades**: As responsabilidades **civil, penal e administrativa podem cumular-se**, ou seja, o servidor pode ser acionado em mais de uma dessas esferas de responsabilidade, sendo elas independentes entre si.  
+- **Cumulação de Responsabilidades**: As responsabilidades **<span style="color:#83a598">civil, penal e administrativa podem cumular-se</span>**, ou seja, o servidor pode ser acionado em mais de uma dessas esferas de responsabilidade, sendo elas independentes entre si.  
       
     
-- **Absolvição Criminal**: A **responsabilidade civil ou administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou a sua autoria**.
+- **Absolvição Criminal**: A **<span style="color:#83a598">responsabilidade civil ou administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou a sua autoria</span>**.
     
 
-**Penalidades** 
+### **Penalidades** 
 
 - **Penalidades Disciplinares**:  
       
@@ -233,13 +232,13 @@
         
     - Multa
         
-    - **Demissão**
+    - **<span style="color:#fb4934">Demissão</span>**
         
     - Cassação de aposentadoria ou disponibilidade
         
-    - **Destituição** de cargo em comissão
+    - **<span style="color:#fb4934">Destituição</span>** de cargo em comissão
         
-        - **Veja que não é exoneração!**
+        - **<span style="color:#fb4934">Veja que não é exoneração!</span>**
             
 
 - **Advertência**: Sempre por escrito. Transgressão leve.
@@ -252,11 +251,11 @@
     - Não pode exceder 90 dias. Tempo suspenso não conta como tempo de serviço  
           
         
-    - Perde direito as vantagens e direitos decorrentes do exercício do cargo, exceto se for convertida em multa, com base em 50% do valor diário da remuneração _(aqui o servidor continua trabalhando, mas perde 50% da remuneração pelos dias que seria suspenso)_
+    - Perde direito as vantagens e direitos decorrentes do exercício do cargo, exceto se for convertida em multa, com base em 50% do valor diário da remuneração _<span style="color:#fb4934">(aqui o servidor continua trabalhando, mas perde 50% da remuneração pelos dias que seria suspenso)</span>_
         
     - Registro é cancelado depois de 5 anos de aplicada a penalidade
 
-- **Multa:** ao inativo ou em disponibilidade, que tiver praticado, **NA ATIVIDADE**, transgressão média e corresponderá ao valor diário dos proventos de aposentadoria ou da remuneração ou do subsídio da disponibilidade por dia de suspensão.  
+- **<span style="color:#fb4934">Multa</span>:** ao inativo ou em disponibilidade, que tiver praticado, **NA ATIVIDADE**, transgressão média e corresponderá ao valor diário dos proventos de aposentadoria ou da remuneração ou do subsídio da disponibilidade por dia de suspensão.  
     
     - Veja que é uma alternativa a suspensão nos casos que ela não poderia ser aplicada. 
         
@@ -264,7 +263,7 @@
         
     - Registro é cancelado depois de 5 anos de aplicada a penalidade
 
-- **Demissão** **Transgressão grave.** 
+- **<span style="color:#fb4934">Demissão</span>** (**Transgressão grave)**
     
     - Se a transgressão grave se der no exercício de cargo em comissão, implicará a demissão **do cargo efetivo**
         - **Veja que é diferente do caso de destituição do cargo em comissão (aplicada somente aos servidores sem vínculo estatutário)**
@@ -272,7 +271,7 @@
         
     - Se o servidor já estiver exonerado, a exoneração será convertida em demissão. 
         
-    - São casos que ensejam demissão _(esses vale a pena conhecer)_:
+    - São casos que ensejam demissão _<span style="color:#fb4934">(esses vale a pena conhecer)</span>_:
         - praticar, **dolosamente**, ato definido em lei como crime contra a administração pública, a fé pública, a ordem tributária, o assim definido na lei de licitação, o de lavagem ou ocultação de bens, direitos e valores, bem como qualquer outro em que a Administração figure como sujeito passivo
             
         - lesar os cofres públicos ou dilapidar o patrimônio estadual
@@ -283,40 +282,41 @@
             
         - praticar, **dolosamente,** ato definido em lei como de improbidade administrativa
             
-        - ser condenado, por **decisão de que não caiba mais recurso** por **crime doloso contra a vida, hediondo, tortura, tráfico ilícito de entorpecentes e drogas afins, terrorismo ou qualquer outro crime cuja pena aplicada seja de reclusão superior a 4 (quatro) anos** 
+        - ser condenado, por **<span style="color:#fb4934">decisão de que não caiba mais recurso</span>** por **crime doloso contra a vida, hediondo, tortura, tráfico ilícito de entorpecentes e drogas afins, terrorismo ou qualquer outro crime cuja pena aplicada seja de reclusão <span style="color:#fb4934">superior a 4 (quatro) anos</span>** 
             
-- **Cassação de aposentadoria e disponibilidade:** penas que seriam de demissão por atos praticados em atividade.  
+- **<span style="color:#fb4934">Cassação</span> de aposentadoria e disponibilidade:** penas que seriam de demissão por atos praticados em atividade.  
+
 - **Quem pode aplicar as penalidades?**
     
-    - O **Chefe do Poder Executivo,** para demissão, destituição do cargo em comissão e cassação de aposentadoria ou disponibilidade (penas que envolvem a perda do cargo)
+    - O **<span style="color:#83a598">Chefe do Poder Executivo</span>,** para demissão, destituição do cargo em comissão e cassação de aposentadoria ou disponibilidade (penas que envolvem a perda do cargo)
         
         - Pode ser delegada aos Secretários ou Autoridade equivalente
-    - **Secretário de Estado ou Autoridade Equivalente** para advertência, suspensão ou multa. 
-        - Pode ser delegada para subordinados em grau imediatamente inferior nos casos de **advertência** e **suspensão até 30 dias**. _(Cuidado, não cabe delegação no caso de multa)_
+    - **<span style="color:#83a598">Secretário de Estado ou Autoridade Equivalente</span>** para advertência, suspensão ou multa. 
+        - Pode ser delegada para subordinados em grau imediatamente inferior nos casos de **advertência** e **suspensão até 30 dias**. _<span style="color:#fb4934">(Cuidado, não cabe delegação no caso de multa)</span>_
 
 - **Prescrição da ação disciplinar:**
     
-    - A prescrição ocorre em **6 anos** para ações puníveis com **demissão, destituição, cassação de aposentadoria ou disponibilidade.**
+    - A prescrição ocorre em **<span style="color:#b8bb26">6 anos</span>** para ações puníveis com **<span style="color:#83a598">demissão, destituição, cassação de aposentadoria ou disponibilidade.</span>**
         
-    - Em **3 anos** para **suspensão,** **advertência ou multa.**
+    - Em **<span style="color:#b8bb26">3 anos</span>** para **<span style="color:#83a598">suspensão, advertência ou multa</span>.**
         
     - O prazo de prescrição começa quando o fato se torna conhecido, não de quando ele é praticado.
         
     - Se houver reenquadramento para outro tipo, a prescrição se dá pelo prazo do enquadramento efetivamente imputado ao servidor.
-    - A publicação do ato que instaure **processo disciplinar** **interrompe a prescrição** _(começa de novo do zero)._
+    - A publicação do ato que instaure **<span style="color:#83a598">processo disciplinar</span>** **<span style="color:#fb4934">interrompe a prescrição</span>** _<span style="color:#fb4934">(começa de novo do zero).</span>_
         
-        - _**Cuidado,** pois a lei não fala que a abertura da sindicância interrompe o prazo. Veja: § 6 o Interrompe a contagem do prazo prescriciona**l a publicação do ato de instauração do processo administrativo disciplinar,** na forma do inciso I do § 9 o deste artigo._ 
+        - _**<span style="color:#fb4934">Cuidado</span>,** <span style="color:#fb4934">pois a lei não fala que a abertura da sindicância interrompe o prazo. Veja: § 6 o Interrompe a contagem do prazo prescricional a publicação do ato de instauração do processo administrativo disciplinar,</span>** na forma do inciso I do § 9 o deste artigo._ 
             
-    - **Suspendem a prescrição** _(volta a correr de onde estava):_
+    - **<span style="color:#fb4934">Suspendem a prescrição</span>** _(volta a correr de onde estava):_
         
         - o sobrestamento do processo administrativo disciplinar ou da sindicância pela autoridade instauradora para aguardar decisão administrativa ou judicial da qual necessariamente dependa o processo;
         -  a manifestação expressa da Junta Médica Oficial pela impossibilidade de o servidor acompanhar o processo administrativo disciplinar, quando da concessão de licença para tratamento de saúde;
         - a celebração do Termo de Ajustamento de Conduta - TAC.
         
 
-**Processo Administrativo Disciplinar (PAD)**
+## **Processo Administrativo Disciplinar (PAD)**
 
-**Disposições Gerais**
+### **Disposições Gerais**
 
 - **Apuração de Irregularidade:** Os responsáveis pelos órgãos e as demais autoridades do Poder Público Estadual, bem como os servidores que nele exercem suas funções, que tiverem conhecimento de prática de ato de improbidade administrativa ou qualquer outra irregularidade, imputados a servidor público estadual, ficam obrigados, **sob pena de responsabilidade funcional**, a noticiar ou representar o fato à autoridade competente para as devidas providências. 
     
