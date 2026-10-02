@@ -96,7 +96,7 @@ O anexo de metas fiscais conterá: - **<u><span style="color:#fb4934">VEJA COMO 
 ## **2.2. PLOA**
 
 
-## **3.1. RENÚNCIA DE RECEITA**
+# **3. RENÚNCIA DE RECEITA**
 
 **💎<u>Grave os requisitos para uma renúncia de receita:</u>**
 
@@ -125,3 +125,227 @@ O anexo de metas fiscais conterá: - **<u><span style="color:#fb4934">VEJA COMO 
 > 	- a) por **prazo igual ou inferior a 60 (sessenta) meses**, para pagamento de forma **parcelada**, contado daquele em que seria devido o tributo; ou 
 > 	- b) que, mesmo que concedido por prazo superior ao previsto na alínea “a” deste inciso, abranja a totalidade dos contribuintes de determinada região e seja destinado ao combate aos efeitos de situação de emergência ou estado de calamidade pública reconhecidos na forma da legislação; e 
 > - II - não se aplica às alterações das alíquotas dos impostos previstos nos [incisos I](https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art153i), [II](https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art153ii), [IV](https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art153iv) e [V do caput do art. 153 da Constituição Federal,](https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art153iv) na forma do § 1º do referido artigo.
+
+# **4. DA DESPESA PÚBLICA**
+
+**4.1. GERAÇÃO DE DESPESA EM GERAL (ALTA POSSIBILIDADE DE COBRANÇA PELA FCC)**
+
+O Art. 16 deve estar na ponta da língua:
+
+> Art. 16. A criação, expansão ou aperfeiçoamento de ação governamental que acarrete aumento da despesa será acompanhado de:      
+> - I - **estimativa do impacto orçamentário-financeiro** no exercício em que deva entrar em vigor e nos **<span style="color:#fb4934">dois subsequentes</span>;**
+> - II - declaração do ordenador da despesa de que o aumento tem **<span style="color:#fb4934">adequação orçamentária e financeira com a lei orçamentária anual</span>** e **<span style="color:#fb4934">compatibilidade com o plano plurianual e com a lei de diretrizes orçamentárias.</span>**
+
+**<span style="color:#fb4934">A</span>**dequada com a LO**<span style="color:#fb4934">A</span>**
+
+Com**<span style="color:#83a598">p</span>**atíve**<span style="color:#83a598">l</span>** com **<span style="color:#83a598">P</span>**PA e **<span style="color:#83a598">L</span>**DO
+
+A LRF estabelece que a criação, expansão ou aperfeiçoamento de ação governamental que acarrete aumento da despesa será acompanhado do seguinte:
+
+![[LRF-5.png]]
+
+🛑O que é sempre cobrado também:
+
+Saiba o significado de "**adequação com a LOA**" e "**compatível com o plano plurianual e a lei de diretrizes orçamentárias":**
+
+> _§ 1° Para os fins desta Lei Complementar, considera-se:_
+>  - _I - **<span style="color:#fb4934">adequada</span> com a <span style="color:#b8bb26">lei orçamentária anual,</span>** a despesa objeto de **<span style="color:#d3869b">dotação específica e suficiente</span>**, ou que esteja abrangida por crédito genérico, de forma que somadas todas as despesas da mesma espécie, realizadas e a realizar, previstas no programa de trabalho, **<span style="color:#d3869b">não sejam ultrapassados os limites estabelecidos para o exercício</span>;**_
+>  - _II - **<span style="color:#fb4934">compatível</span> com o <span style="color:#b8bb26">plano plurianual e a lei de diretrizes orçamentárias</span>,** a despesa que se conforme com as **<span style="color:#d3869b">diretrizes, objetivos, prioridades e metas</span>** previstos nesses instrumentos e **<span style="color:#d3869b">não infrinja qualquer de suas disposições.</span>**_
+
+![[LRF-6.png]]
+
+## **4.2. DOCC (ALTA POSSIBILIDADE DE COBRANÇA PELA FCC)**
+
+Um ponto que você precisa guardar é a definição da DOCC:
+
+![[LRF-7.png]]
+
+**💎Mnemônico: LeMA**
+
+- Le - Lei
+- M - Medida provisória
+- A - Ato administrativo
+
+**⚠️Saiba diferenciar a renúncia de receitas da DOCC:**
+
+- Renúncia de **Receitas**: Aumento de receita
+- DOCC: Aumento **<span style="color:#d3869b">permanente</span>** de receita ou redução **<span style="color:#d3869b">permanente</span>** de despesa
+
+Na LRF encontramos o que seria o aumento permanente de receita:
+
+> _§ 3o Para efeito do § 2o__, considera-se aumento permanente de receita o proveniente da **<span style="color:#fb4934">elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição.</span>**_  
+
+⚠️Artigo cobrado de forma literal: Considera-se aumento de despesa a prorrogação daquela criada por prazo **determinado.**
+
+❗Há despesas que não precisam seguir as regras estabelecidas, veja o quadro abaixo e memorize cada situação:
+
+| **Renúncia de receitas**                                                                     | **Aumento da despesa**              | **DOCC**                                     |
+| -------------------------------------------------------------------------------------------- | ----------------------------------- | -------------------------------------------- |
+| Alíquotas dos impostos **II, IE, IPI, IOF**                                                  | Despesa considerada **irrelevante** | Despesas destinadas ao **serviço da dívida** |
+| Cancelamento de débito cujo **montante seja inferior** ao dos respectivos custos de cobrança |                                     | Reajustamento de **remuneração de pessoal**  |
+
+## **4.3. DESPESA COM PESSOAL (ALTA POSSIBILIDADE DE COBRANÇA PELA FCC)**
+
+### **4.3.1. DEFINIÇÃO**
+
+**O art. 18 da LRF trata das despesas com pessoal, tópico muito relevante que necessita de total atenção.**
+
+Primeiro, o que está incluído nas despesas com pessoal? Vamos destrinchar o Art. 18 para ficar mais claro o que é "pessoal":
+
+- Ativos
+- Inativos
+- Pensionistas
+
+**relativos a:**
+
+- mandatos eletivos
+- cargos
+- funções ou empregos
+- civis
+- militares
+- membros de Poder
+
+**espécies remuneratórias:**
+
+- vencimentos e vantagens **<span style="color:#fb4934">fixas e variáveis</span>**
+- subsídios
+- proventos de aposentadoria
+- reformas e pensões
+- adicionais
+- gratificações
+- horas extras
+- vantagens pessoais de qualquer natureza
+- encargos sociais
+- contribuições à previdência
+
+⚠️Nem todos os contratos de terceirização de mão de obra integram o limite de despesas com pessoal, é necessário que se refiram à substituição de servidores e empregados públicos.
+
+Na despesa total com pessoal, para fins de verificação dos limites definidos na LRF, **<span style="color:#fb4934">não será(ão) computada(s)</span>** a(s) despesa(s):
+
+- Com **<span style="color:#fb4934">indenização</span>** por demissão de servidores ou empregados. 
+- Relativos a incentivos à **demissão <span style="color:#fb4934">voluntária</span>**.
+- Com **<span style="color:#fb4934">convocação extraordinária do Congresso Nacional</span>** (a Emenda Constitucional 50/2006 vedou o pagamento de parcela indenizatória em razão de convocação do Congresso Nacional).
+- Decorrentes de **<span style="color:#d3869b">decisão judicial e da competência de período anterior</span> ao da apuração a que se refere o § 2° do art. 1817.
+- Com pessoal, do **<span style="color:#d3869b">Distrito Federal e dos Estados do Amapá e Roraima</span>,** custeadas com recursos transferidos pela União na forma dos incisos XIII e XIV do art. 21 da CF/1988 e do art. 31 da Emenda Constitucional nº 19. Nesses casos, as **<span style="color:#83a598">despesas desses entes não são pagas com suas próprias receitas e sim da União.</span>**
+- Com **inativos**, ainda que por intermédio de fundo específico, custeadas por recursos provenientes:
+	1. Da arrecadação de contribuições dos **<span style="color:#83a598">segurados</span>**;  
+	2. Da **<span style="color:#83a598">compensação financeira</span>** de que trata o § 9º do art. 201 da CF/1988;  
+	3. De transferências destinadas a promover o **<span style="color:#83a598">equilíbrio atuarial</span>** do regime de previdência, na forma definida pelo órgão do Poder Executivo federal responsável pela orientação, pela supervisão e pelo acompanhamento dos regimes próprios de previdência social dos servidores públicos 
+
+Mnemônico: **indemissão voluntária por decisão judicial do Amapá e Roraima para inativos**
+
+⚠️As despesas consideradas como **indenizatórias não são consideradas espécies remuneratórias,** logo **não entram no cálculo do percentual de despesas com pessoal**.
+
+Exemplo: **<span style="color:#b8bb26">auxílio-alimentação, assistência pré-escolar, auxílio-transporte, ajuda de custo para o militar removido para outra cidade etc.</span>**
+
+### **4.3.2. LIMITES**
+
+Os limites da despesa total com pessoal são definidos em percentuais de receita corrente líquida (RCL), você precisa guardar o percentual de cada ente, perceba que **estados e municípios** possuem o **<span style="color:#fb4934">mesmo e o maior</span>** percentual (**<span style="color:#d3869b">60% da RCL</span>**).
+
+| ENTE           | Percentual da RCL |
+| -------------- | ----------------- |
+| **UNIÃO**      | 50%               |
+| **ESTADOS**    | 60%               |
+| **MUNICÍPIOS** | 60%               |
+
+Além desses percentuais, a LRF apresenta a repartição dos limites percentuais de cada ente dentre os seus diversos órgãos e Poderes.
+
+|                                |           |             |                                           |                |
+| ------------------------------ | --------- | ----------- | ----------------------------------------- | -------------- |
+|                                | **UNIÃO** | **ESTADOS** | **ESTADOS (SE HOUVER TC DOS MUNICÍPIOS)** | **MUNICÍPIOS** |
+| **EXECUTIVO**                  | 40,9%     | 49%         | 48,6%                                     | 54%            |
+| **JUDICIÁRIO**                 | 6%        | 6%          | 6%                                        |                |
+| **LEGISLATIVO, INCLUINDO TCs** | 2,5%      | 3%          | 3,4%                                      | 6%             |
+| **MINISTÉRIO PÚBLICO**         | 0,6%      | 2%          | 2%                                        |                |
+
+Perceba algumas situações:
+
+- **Não há Poder judiciário nem Ministério público nos Municípios**
+- **Poder judiciário possui 6% em todos os entes**
+
+![[LRF-8.png]]
+
+### **4.3.3. SANÇÕES**
+
+_**⚠️Não há sanções no limite de alerta.**_
+
+É essencial que você saiba as medidas preventivas que devem ser aplicadas no caso dos limites prudencial e máximo.
+
+| **LIMITE PRUDENCIAL**                                                                                                                                                                                                                                                                                                                                                    | **LIMITE MÁXIMO**                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Concessão de vantagem, aumento, reajuste ou adequação de remuneração a qualquer título, **<span style="color:#fb4934">salvo os derivados de sentença judicial ou de determinação legal ou contratual</span>**, **<span style="color:#fb4934">ressalvada a revisão geral anual</span>**.                                                                                  | Mesmas medidas do limite prudencial ao lado                                                                                                                                                       |
+| **<span style="color:#fb4934">Criação</span>** de cargo, emprego ou função                                                                                                                                                                                                                                                                                               | Percentual excedente terá de ser eliminado nos **<span style="color:#fb4934">dois quadrimestres</span>** seguintes, sendo **<span style="color:#fb4934">pelo menos um terço no primeiro</span>**. |
+| Alteração de estrutura de carreira que implique **<span style="color:#fb4934">aumento de despesa</span>.**                                                                                                                                                                                                                                                               | Redução em **<span style="color:#fb4934">pelo menos 20%</span>** das despesas com cargos em confiança em **<span style="color:#fb4934">comissão e funções de confiança.</span>**                  |
+| Provimento de cargo público, admissão ou contratação de pessoal a qualquer título, **<span style="color:#fb4934">ressalvada</span>** a reposição decorrente de **<span style="color:#fb4934">aposentadoria</span>** ou **<span style="color:#fb4934">falecimento</span>** de servidores das áreas de **<span style="color:#fb4934">educação, saúde e segurança</span>**. | Exoneração dos servidores **<span style="color:#fb4934">não estáveis.</span>**                                                                                                                    |
+| Contratação de hora extra, **<span style="color:#fb4934">salvo convocação extraordinária do CN</span>** em alguns casos e as situações previstas na **<span style="color:#fb4934">Lei de diretrizes orçamentárias</span>**                                                                                                                                               | Servidor **<span style="color:#fb4934">estável</span>** poderá perder o cargo                                                                                                                     |
+
+Sobre o limite máximo: não alcançada a redução no prazo estabelecido e enquanto perdurar o excesso , o Poder ou órgão referido no art. 20 não poderá: 
+
+- Receber transferências voluntárias ( ressalvadas as destinadas à **saúde, à educação e à assistência social, segurança não está incluída**)
+- Obter garantia, direta ou indireta, de outro ente (a proibição é para recebimento de garantia de **<span style="color:#b8bb26"><u>outro ente</u></span>**);
+- Contratar operações de crédito, ressalvadas as destinadas ao pagamento da dívida mobiliária e as que visem à redução das despesas com pessoal. 
+
+Perceba alguns pontos importantes:
+
+- 1) A exceção para **sentença judicial ou de determinação legal ou contratual, e** **<span style="color:#fe8019">revisão geral anual</span>,** **sempre na mesma data e sem distinção de índices**.
+- 2) Deve ocorrer aumento de despesa (Alterações de estrutura de carreira que **<span style="color:#fb4934">impliquem diminuição de despesas não estão proibidas</span>**)
+- 3) É para reposição somente no caso de **<span style="color:#b8bb26">aposentadoria e falecimento</span>** e somente para **<span style="color:#d3869b">educação, saúde e segurança</span>** (**<span style="color:#fb4934">Assistência social não é exceção</span>**). ❌Além disso não confunda com as exceções para recebimento de transferências voluntárias.
+- 4) **<span style="color:#fb4934">Pode hora extra para convocação extraordinária</span>** pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal ou a requerimento da maioria dos membros de ambas as Casas, em caso de **<span style="color:#d3869b">urgência ou interesse público relevante</span>**, em todas as hipóteses com a aprovação da **<span style="color:#b8bb26">maioria absoluta</span>** de cada uma das Casas do Congresso Nacional. 
+
+| **EXCEÇÕES PARA CONTRATAÇÃO DE PESSOAL QUANDO DESPESA TOTAL COM PESSOAL EXCEDER O LIMITE PRUDENCIAL (95%)** | **EXCEÇÕES PARA RECEBIMENTO DE TRANSFERÊNCIAS VOLUNTÁRIAS** |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Educação                                                                                                    | Educação                                                    |
+| Saúde                                                                                                       | Saúde                                                       |
+| Segurança                                                                                                   | Assistência Social                                          |
+
+⚠️A redução das despesas com cargos em comissão e funções de confiança **<span style="color:#b8bb26">somente poderá ser alcançada pela extinção de cargos e funções!</span>**
+
+⚠️Não é possível reduzir a jornada de trabalho com adequação dos vencimentos à nova carga horária para fins de recondução da despesa total com pessoal ao limite.
+
+⚠️Vamos comparar os prazos com a divida consolidada, cuidado para não fazer confusão:
+
+#### **ELIMINAÇÃO DO EXCEDENTE**
+
+- DESPESA COM PESSOAL:  **<span style="color:#fb4934">2</span>** QUADRIMESTRES seguintes
+- DIVIDA CONSOLIDADA: **<span style="color:#fb4934">3</span>** QUADRIMESTRES seguintes
+
+#### **REDUÇÃO MÍNIMA NO PRIMEIRO QUADRIMESTRE**
+
+- DESPESA COM PESSOAL: **<span style="color:#fb4934">1/3</span>**
+- DIVIDA CONSOLIDADA: **<span style="color:#fb4934">25%</span>**
+
+## **4.4. DESPESA COM SEGURIDADE SOCIAL**
+
+❗Nenhum benefício será criado ou majorado sem a indicação da respectiva fonte de custeio.
+
+Serão dispensadas medidas de compensação nos seguintes casos:
+
+- Concessão de benefício a quem satisfaça as condições de habilitação prevista na legislação pertinente;
+- Expansão **<span style="color:#fb4934">quantitativa</span>** do atendimento e dos serviços prestados;
+- Reajustamento de valor do benefício ou serviço, **<span style="color:#fb4934">a fim de preservar o seu valor real.</span>**
+
+# **5.** **DAS TRANSFERÊNCIAS VOLUNTÁRIAS** 
+
+É **vedada** a realização de transferências voluntárias para o ente que não observe o disposto no que se refere aos **impostos**, ou seja, o ente que não instituir, prever e arrecadar todos os impostos de sua competência, ficará proibido de receber transferências voluntárias.
+
+![[LRF-9.png]]
+
+⚠️Em suspensão de transferências voluntárias constantes excetuam-se aquelas relativas a ações de educação, saúde e **<span style="color:#fb4934">assistência social</span>**. ==(não tem segurança na exceção)==
+
+⚠️Transferências voluntárias são somente para outro ente da Federação.
+
+![[LRF-10.png]]
+
+# **6.** **DA DESTINAÇÃO DE RECURSOS PÚBLICOS PARA O SETOR PRIVADO** 
+
+A destinação de recursos é para cobrir necessidades de pessoas físicas ou déficits de pessoas jurídicas.
+
+A destinação deverá:
+
+- ser autorizada por lei **<span style="color:#b8bb26">específica</span>**;
+- atender às condições estabelecidas na **<span style="color:#b8bb26">Lei de Diretrizes Orçamentárias (LDO)</span>;** e
+- estar prevista no orçamento ou em seus créditos adicionais. 
+
+**Salvo mediante lei específica**, **<span style="color:#fb4934">não</span>** poderão ser utilizados recursos públicos, inclusive de operações de crédito, para socorrer instituições do **<span style="color:#fb4934">Sistema Financeiro Nacional</span>**, **<span style="color:#b8bb26">ainda que</span>** mediante a concessão de empréstimos de recuperação ou financiamentos para mudança de controle acionário.
+
+Na concessão de crédito por ente da Federação a pessoa física, ou jurídica que **<span style="color:#b8bb26">não esteja sob seu controle direto ou indireto</span>**, os **<span style="color:#83a598">encargos financeiros, comissões e despesas congêneres</span> <span style="color:#fb4934">não serão inferiores aos definidos em lei ou ao custo de captação</span>**.
