@@ -256,8 +256,6 @@ Na LRF encontramos o que seria o aumento permanente de receita:
 
 ### **4.3.1. DEFINIÇÃO**
 
-**O art. 18 da LRF trata das despesas com pessoal, tópico muito relevante que necessita de total atenção.**
-
 Primeiro, o que está incluído nas despesas com pessoal? Vamos destrinchar o Art. 18 para ficar mais claro o que é "pessoal":
 
 - Ativos
