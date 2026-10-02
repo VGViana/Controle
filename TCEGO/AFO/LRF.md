@@ -173,7 +173,7 @@ Um ponto que você precisa guardar é a definição da DOCC:
 
 Na LRF encontramos o que seria o aumento permanente de receita:
 
-> _§ 3o Para efeito do § 2o__, considera-se aumento permanente de receita o proveniente da **<span style="color:#fb4934">elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição.</span>**_  
+> _§ 3o Para efeito do § 2o_, _considera-se aumento permanente de receita o proveniente da **<span style="color:#fb4934">elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição.</span>**_  
 
 ⚠️Artigo cobrado de forma literal: Considera-se aumento de despesa a prorrogação daquela criada por prazo **determinado.**
 
