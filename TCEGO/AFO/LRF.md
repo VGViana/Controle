@@ -316,9 +316,8 @@ Os limites da despesa total com pessoal são definidos em percentuais de receita
 
 Além desses percentuais, a LRF apresenta a repartição dos limites percentuais de cada ente dentre os seus diversos órgãos e Poderes.
 
-|                                |           |             |                                           |                |
-| ------------------------------ | --------- | ----------- | ----------------------------------------- | -------------- |
 |                                | **UNIÃO** | **ESTADOS** | **ESTADOS (SE HOUVER TC DOS MUNICÍPIOS)** | **MUNICÍPIOS** |
+| ------------------------------ | --------- | ----------- | ----------------------------------------- | -------------- |
 | **EXECUTIVO**                  | 40,9%     | 49%         | 48,6%                                     | 54%            |
 | **JUDICIÁRIO**                 | 6%        | 6%          | 6%                                        |                |
 | **LEGISLATIVO, INCLUINDO TCs** | 2,5%      | 3%          | 3,4%                                      | 6%             |
