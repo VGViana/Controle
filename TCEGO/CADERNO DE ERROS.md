@@ -22,3 +22,9 @@
 
 - 25% do ICMS pertence ao município
 
+---
+# AUD GOV
+
+- Independência, objetividade e imparcialidade são a base da credibilidade de auditoria no setor público
+
+- 
