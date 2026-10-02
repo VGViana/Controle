@@ -23,14 +23,14 @@ Os quatro pilares da LRF são:
 
 ## **1.2. CONCEITOS**
 
-O Art. 2 da LRF aborda conceitos essenciais:
+O Art. 2° da LRF aborda conceitos essenciais:
 
 - **Empresa controlada:** sociedade cuja **<span style="color:#d3869b">maioria do capital social com direito a voto</span>** pertença, direta ou indiretamente, a ente da Federação;
 - **Empresa estatal dependente**: empresa controlada que receba do ente controlador recursos financeiros para pagamento de **<span style="color:#d3869b">despesas com pessoal ou de custeio em geral</span> <span style="color:#fb4934">ou de capital</span>**, **excluídos, no último caso, aqueles provenientes de <span style="color:#d3869b">aumento de participação acionária</span>**; 
 
 ### **1.2.1. RECEITA CORRENTE LÍQUIDA**
 
-💎Outro conceito **importante** presente na LRF e **muito usado** em vários artigos é o da **<span style="color:#d3869b">Receita corrente líquida (RCL)</span>**, pois quase todos os limites da LRF usam a receita corrente líquida como parâmetro, entendeu a importância?
+💎Outro conceito **importante** presente na LRF e **muito usado** em vários artigos é o da **<span style="color:#d3869b">Receita corrente líquida (RCL)</span>**, pois quase todos os limites da LRF usam a receita corrente líquida como parâmetro.
 
 Receita corrente líquida é o **somatório das receitas correntes** (**<span style="color:#fb4934">não as de capital</span>**), com algumas **deduções**.
 
