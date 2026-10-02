@@ -22,7 +22,7 @@
 
 ## Regime Jurídico, Princípios, Poderes e Deveres
 
-- Decretos autônomos não são utilizados para suprir lacunas da lei, mas sim para inovação no ordenamento jurídico em casos específicos previstos![[CADERNO DE ERROS-3.png]]
+- Decretos autônomos não são utilizados para suprir nas da lei, mas sim para inovação no ordenamento jurídico em casos específicos previstos![[CADERNO DE ERROS-3.png]]lacu
 
 - Vícios
 	- **<span style="color:#fb4934">C</span>**ompetência = <span style="color:#fb4934">E</span>xcesso de <span style="color:#fb4934">P</span>oder (<span style="color:#fb4934">CEP</span>)
