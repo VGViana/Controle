@@ -83,7 +83,7 @@ O anexo de metas fiscais conterá: - **<u><span style="color:#fb4934">VEJA COMO 
 ### **<span style="color:#fb4934">Novidade 2023:</span>**
 
 > _§ 5º No caso da **<span style="color:#fb4934"><u>União</u></span>**, o Anexo de Metas Fiscais do projeto de lei de diretrizes orçamentárias conterá também:_  
-
+>
 > - _I - as metas **<span style="color:#d3869b">anuais</span>** para o exercício a que se referir e para os **<span style="color:#d3869b">3 (três) seguintes</span>**, com o objetivo de **<span style="color:#d3869b">garantir sustentabilidade</span>** à trajetória da dívida pública;_  
 > - _II – o marco fiscal de **<span style="color:#b8bb26">médio</span>** prazo, com projeções para os principais agregados fiscais que compõem os cenários de referência, **<span style="color:#b8bb26">distinguindo-se as despesas primárias das financeiras</span>** e as **<span style="color:#b8bb26">obrigatórias</span>** daquelas **<span style="color:#b8bb26">discricionárias</span>**;_   
 > - _III - o efeito esperado e a compatibilidade, no período de **<span style="color:#b8bb26">10 (dez) anos</span>**, do cumprimento das metas de resultado primário sobre a trajetória de convergência da dívida pública, evidenciando o nível de resultados fiscais consistentes com a estabilização da Dívida Bruta do Governo Geral (DBGG) em relação ao Produto Interno Bruto (PIB);_   
@@ -95,8 +95,75 @@ O anexo de metas fiscais conterá: - **<u><span style="color:#fb4934">VEJA COMO 
 
 ## **2.2. PLOA**
 
+Art. 5° O **projeto** da **==Lei Orçamentária Anual (LOA)==:**
 
-# **3. RENÚNCIA DE RECEITA**
+- conterá, em anexo, **demonstrativo da compatibilidade da programação dos orçamentos** com os objetivos e metas constantes do documento de que trata o § 1o do art. 4o;
+- será acompanhado do documento a que se refere o § 6o do art. 165 da Constituição (_<span style="color:#83a598">§ 6º O projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia.</span>_ ), bem como das **==medidas de compensação==** a **<span style="color:#b8bb26"><u>renúncias de receita</u></span>** e ao **<span style="color:#b8bb26"><u>aumento de despesas obrigatórias de caráter continuado</u></span>;**
+
+### **NOVIDADE 2026:**
+
+- Conterá a estimativa global de incentivos e benefícios de natureza **<span style="color:#b8bb26">tributária, financeira e creditícia</span>** e para pessoas físicas e jurídicas; e (<u>As estimativas serão organizadas em anexos específicos com estimativa das renúncias no exercício de referência e nos</u> **<span style="color:#fb4934"><u>2 (dois) exercícios subsequentes</u></span>**. )
+- Conterá, em anexo, a estimativa das despesas **<span style="color:#b8bb26">financeiras e das despesas primárias</span> <span style="color:#fb4934">obrigatórias e discricionárias</span>**, no exercício de sua elaboração e para os **<span style="color:#fb4934">2 (dois) exercícios subsequentes.</span>**  
+- **==conterá reserva de contingência==**, cuja **<span style="color:#fe8019">forma de utilização e montante</span>**, definido com base na receita corrente líquida, **<span style="color:#fe8019">serão estabelecidos na lei de diretrizes orçamentárias</span>**, destinada ao: atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos.
+    - ⚡ As **<span style="color:#83a598">Reservas de Contingências estarão na</span>** **<span style="color:#83a598">LOA</span>**, a **<span style="color:#fb4934">forma de utilização dessas reservas</span>** **<span style="color:#fb4934">estarão na LDO.</span>**
+
+![[LRF-11.png]]
+
+⚠️ **<span style="color:#fb4934">Não confunda</span>** os anexos da LDO (Anexo de Metas Fiscais) e da LOA que dizem respeito à **<span style="color:#fb4934">renúncia de receitas</span>**:
+
+- **<span style="color:#d3869b">LDO (Art. 4°, § 2°):</span>** V - **demonstrativo** da estimativa e compensação da **renúncia de receita** e da margem de expansão das despesas obrigatórias de caráter continuado.
+        
+- **<span style="color:#83a598">LOA (Art. 5°):</span>** II - será acompanhado do documento a que se refere <u>o § 6o do art. 165 da Constituição (§ 6º O projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia. )</u>, bem como das **medidas de compensação** a **renúncias de receita** e ao aumento de despesas obrigatórias de caráter continuado;
+        
+
+## **2.3. LIMITAÇÃO DE EMPENHO E MOVIMENTAÇÃO FINANCEIRA**
+
+O Art. 9 da LRF que aborda a limitação de empenho e movimentação financeira é muito relevante devido à alta cobrança nas provas.
+
+> _Art. 9° Se verificado, ao final de um_ **_<span style="color:#b8bb26">bimestre</span>_**_,_ _que a realização da RECEITA poderá_ **_<span style="color:#fb4934">não</span>_** _comportar o cumprimento das metas de resultado_ **_<span style="color:#b8bb26">primário ou nominal</span>_** _estabelecidas no Anexo de Metas Fiscais, os Poderes e o Ministério Público promoverão, por ato próprio e nos montantes necessários, nos_ **_<span style="color:#b8bb26">trinta dias</span>_** _subsequentes,_ **<span style="color:#d3869b"><u>LIMITAÇÃO DE EMPENHO e MOVIMENTAÇÃO FINANCEIRA</u></span>**_, segundo os critérios_ fixados pela **_<span style="color:#d3869b">lei de diretrizes orçamentárias</span>_**_._
+
+🛑Esse artigo tem várias informações importantes que são cobradas em provas de concursos públicos, vamos analisar os pontos essenciais:
+
+- A verificação ocorre no final de cada **BIMESTRE**;
+- As metas são referentes ao resultado **PRIMÁRIO** ou **NOMINAL**;
+- É sobre a realização **DA RECEITA;**
+- As metas de resultado primário e nominal constam no ANEXO DE METAS FISCAIS, o qual INTEGRA A LDO;
+- A limitação de empenho e movimentação financeira ocorre nos **TRINTA DIAS** subsequentes à verificação.
+- Os CRITÉRIO e FORMAS DE LIMITAÇÃO DE EMPENHO são estabelecidos na **<span style="color:#fb4934">LDO, não é na LOA e nem no PPA</span>**
+
+Todavia, há **<span style="color:#fb4934">despesas que não serão objeto de limitação de empenho</span>** e você precisa saber quais são:
+
+- Despesas que constituam obrigações **<span style="color:#b8bb26">constitucionais e legais</span>** do ente, **<span style="color:#fb4934">inclusive</span>** aquelas destinadas ao **<span style="color:#83a598">pagamento do serviço da dívida</span>**
+- Despesas relativas à **<span style="color:#83a598">inovação e ao desenvolvimento científico e tecnológico</span>** custeadas por **<span style="color:#d3869b">fundo criado para tal finalidade</span>**
+- Despesas ressalvadas pela **<span style="color:#d3869b">lei de diretrizes orçamentárias</span>.** 
+
+### **Novidade de 2023:**
+
+> _§ 4º Até o final dos meses de **<span style="color:#fb4934">maio, setembro e fevereiro</span>,** o Ministro ou Secretário de Estado da Fazenda demonstrará e avaliará o **<span style="color:#fb4934">cumprimento das metas fiscais</span>** de cada **<span style="color:#fb4934">quadrimestre</span>** e a trajetória da dívida, em **<span style="color:#d3869b">audiência pública</span>** na comissão referida no § 1º do art. 166 da Constituição Federal ou conjunta com as comissões temáticas do Congresso Nacional ou equivalente nas Casas Legislativas estaduais e municipais._
+
+# **3.** **DA RECEITA PÚBLICA**
+
+A **IPA de todos os tributos** é requisito essencial da responsabilidade na gestão fiscal, mas o que é IPA?
+
+- IPA é **instituição, previsão** e **arrecadação.**
+
+Perceba que a lei estabelece todos os tributos, **<span style="color:#fb4934">não são somente os impostos ou taxas</span>,** por exemplo.
+
+**⚠️São todos os tributos!**
+
+Além disso, há um parágrafo interessante relacionada aos impostos.
+
+- É **vedada** a realização de transferências voluntárias para o ente que não observe o disposto no que se refere aos **impostos**, ou seja, o ente que não instituir, prever e arrecadar todos os impostos de sua competência, ficará proibido de receber transferências voluntárias.
+
+Mas o que são transferências voluntárias?
+
+![[LRF-12.png]]
+
+⚠️Em suspensão de transferências voluntárias constantes excetuam-se aquelas relativas a ações de **<span style="color:#d3869b">educação, saúde e assistência social.</span>**  
+  
+
+**_⚠️_<span style="color:#fb4934">Só erro ou omissão de ordem técnica ou legal</span>** que podem ensejar a **reestimativa** de receita por parte do **Poder Legislativo.**
+## **3.1. RENÚNCIA DE RECEITA**
 
 **💎<u>Grave os requisitos para uma renúncia de receita:</u>**
 
