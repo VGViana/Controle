@@ -6,15 +6,8 @@
 
 ## LRF
 
-- A LOA conterá a estimativa global de incentivos e benefícios de natureza tributária, financeira e creditiícia para pessoas físicas e jurídicas![[CADERNO DE ERROS.png]]
-![[CADERNO DE ERROS-1.png]]
+### Capítulo 1 ao 3
 
-
-- As despesas decorrentes de condenação judicial serão incluídas como **PRECATÓRIOS**
-
- ![[CADERNO DE ERROS-2.png]]
-
-- 25% do ICMS pertence ao município
 
 ---
 # AUD GOV
@@ -31,7 +24,9 @@
 
 - Decretos autônomos não são utilizados para suprir lacunas da lei, mas sim para inovação no ordenamento jurídico em casos específicos previstos![[CADERNO DE ERROS-3.png]]
 
-
+- Vícios
+	- **<span style="color:#fb4934">C</span>**ompetência = <span style="color:#fb4934">E</span>xcesso de <span style="color:#fb4934">P</span>oder (<span style="color:#fb4934">CEP</span>)
+	- **<span style="color:#83a598">F</span>**inalidade = <span style="color:#83a598">D</span>esvio de <span style="color:#83a598">P</span>oder (<span style="color:#83a598">FDP</span>)
 ## Atos Administrativos
 
 - Embora o desvio de finalidade também invalide o ato, a **<span style="color:#fe8019">Teoria dos Motivos Determinantes é específica para a falsidade dos motivos declarados</span>**, não do objetivo real.
