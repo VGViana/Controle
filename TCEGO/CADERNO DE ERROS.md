@@ -2,11 +2,6 @@
 
 ## Teoria da Administração 
 
-- **prisões psíquicas**: está relacionada com a ideia de que as organizações são produto de processos conscientes e inconscientes que as criam e as mantém e que influenciam as pessoas, tornando-as prisioneiras de interesses específicos.
-- **Processos de apoio**: Existem para prover os processos primários e dar suporte para os processos de gerenciamento 
-- **processos de gerenciamento**: Coordenam os processos primários e os processos de apoio
-
-- Holocracia é um **sistema que abre mão de hierarquia e dos chefes**, propõe que as pessoas sejam escolhidas para determinadas funções aliando suas aptidões com as necessidades da empresa
 ---
 # AFO
 
@@ -38,5 +33,5 @@
 
 - A **<span style="color:#fe8019">locação</span>** é ato de direito **<span style="color:#fe8019">privado</span>**
 
-- 
+- Se um ato **<span style="color:#fb4934">já exauriu seus efeitos</span>**, **<span style="color:#fb4934">não será possível a revogação</span>** 
 
