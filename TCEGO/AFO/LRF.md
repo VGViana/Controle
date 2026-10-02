@@ -153,7 +153,7 @@ Perceba que a lei estabelece todos os tributos, **<span style="color:#fb4934">n�
 
 Além disso, há um parágrafo interessante relacionada aos impostos.
 
-- É **vedada** a realização de transferências voluntárias para o ente que não observe o disposto no que se refere aos **impostos**, ou seja, o ente que não instituir, prever e arrecadar todos os impostos de sua competência, ficará proibido de receber transferências voluntárias.
+> É **vedada** a realização de transferências voluntárias para o ente que não observe o disposto no que se refere aos **impostos**, ou seja, o ente que não instituir, prever e arrecadar todos os impostos de sua competência, ficará proibido de receber transferências voluntárias.
 
 Mas o que são transferências voluntárias?
 
