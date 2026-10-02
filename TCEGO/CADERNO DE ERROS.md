@@ -1,6 +1,5 @@
 # APU
 
-## Teoria da Administração 
 
 ---
 # AFO
