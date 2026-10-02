@@ -27,4 +27,5 @@
 
 - Independência, objetividade e imparcialidade são a base da credibilidade de auditoria no setor público
 
-- 
+- ISSAI 100
+> Item 9. Uma EFS pode declarar que as normas por ela desenvolvidas ou adotadas são baseadas ou são consistentes com os Princípios Fundamentais de Auditoria somente se essas normas **==cumprirem integralmente todos os princípios relevantes.==**
