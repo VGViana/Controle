@@ -27,7 +27,7 @@
 
 - Independência, objetividade e imparcialidade são a base da credibilidade de auditoria no setor público
 
-- ISSAI 100
+> ISSAI 100
 > Item 9. Uma EFS pode declarar que as normas por ela desenvolvidas ou adotadas são baseadas ou são consistentes com os Princípios Fundamentais de Auditoria somente se essas normas **==cumprirem integralmente todos os princípios relevantes.==**
 
 ---
@@ -36,4 +36,7 @@
 
 - Embora o desvio de finalidade também invalide o ato, a **<span style="color:#fe8019">Teoria dos Motivos Determinantes é específica para a falsidade dos motivos declarados</span>**, não do objetivo real.
 
+- A **<span style="color:#fe8019">locação</span>** é ato de direito **<span style="color:#fe8019">privado</span>**
+
 - 
+
