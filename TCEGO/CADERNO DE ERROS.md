@@ -26,6 +26,12 @@
 
 ---
 # D ADM
+
+## Regime Jurídico, Princípios, Poderes e Deveres
+
+- Decretos autônomos não são utilizados para suprir lacunas da lei, mas sim para inovação no ordenamento jurídico em casos específicos previstos![[CADERNO DE ERROS-3.png]]
+
+
 ## Atos Administrativos
 
 - Embora o desvio de finalidade também invalide o ato, a **<span style="color:#fe8019">Teoria dos Motivos Determinantes é específica para a falsidade dos motivos declarados</span>**, não do objetivo real.
