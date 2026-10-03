@@ -11,11 +11,13 @@
 
 - As despesas decorrentes da **<span style="color:#83a598">condenação</span>** serão incluídas como **<span style="color:#83a598">PRECATÓRIOS</span>**, pois são decorrentes de **<span style="color:#83a598">DECISÃO JUDICIAL</span>**.
 - **As Subvenções Sociais e Auxílio Alimentação** **<span style="color:#fb4934">não são computadas para o cálculo da Despesa Total com Pessoal</span>**
-- "Outras Despesas de Pessoal", será considerada no somatório da **Despesa Total com Pessoal**, tendo em vista tratar-se de SUBSTITUIÇÃO de servidor público.
-	- prestação de serviços cuja ocupação não conste dos quadros do ente público (como auxiliar de serviços gerais, ascensorista, copeiro), a despesa será classificada como Despesa Corrente – Locação de Mão de Obra.
-- limite é evidenciado no Relatório De Gestão Fiscal (RGF) e não no RREO,
+- Valores dos **<span style="color:#83a598">contratos de terceirização de mão-de-obra</span>** que se referem à **<span style="color:#83a598">substituição de servidores e empregados públicos</span>** serão contabilizados como "**<span style="color: #d79921">Outras Despesas de Pessoal</span>**" e será considerada no somatório da <span style="color:#b8bb26">Despesa Total com Pessoal</span>, tendo em vista tratar-se de SUBSTITUIÇÃO de servidor público.
+	- Prestação de serviços cuja **<span style="color:#fb4934">ocupação não conste dos quadros</span>** do ente público (como auxiliar de serviços gerais, ascensorista, copeiro), a despesa será classificada como **<span style="color:#fb4934">Despesa Corrente – Locação de Mão de Obra.</span>**
+
+- Gastos feitos com os **<span style="color:#fe8019">inativos</span>**, a título de proventos da **<span style="color:#fe8019">aposentadoria, reformas e pensões</span>** são classificados como **<span style="color:#fe8019">despesa de pessoal.</span>**
+- Limite é evidenciado no Relatório De Gestão Fiscal (RGF) e não no RREO,
 - Regime de **<span style="color:#b8bb26">competência</span>** para despesas é a **<span style="color:#b8bb26"><u>liquidação</u></span>**
-- 
+- **<span style="color:#fb4934">Diárias – Civil - Despesa de custeio</span>**, **<span style="color:#fb4934">não é computada</span>** para o limite de despesas com pessoal.
 
 
 
