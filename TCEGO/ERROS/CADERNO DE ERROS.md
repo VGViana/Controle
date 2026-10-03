@@ -9,8 +9,8 @@
 ### Art. 1° ao 3
 ### Art. 3° a 10
 
-- As despesas decorrentes da condenação serão incluídas como PRECATÓRIOS, pois são decorrentes de DECISÃO JUDICIAL.
-
+- As despesas decorrentes da **<span style="color:#83a598">condenação</span>** serão incluídas como **<span style="color:#83a598">PRECATÓRIOS</span>**, pois são decorrentes de **<span style="color:#83a598">DECISÃO JUDICIAL</span>**.
+- **As Subvenções Sociais e Auxílio Alimentação** **<span style="color:#fb4934">não são computadas para o cálculo da Despesa Total com Pessoal</span>**
 
 
 ---
