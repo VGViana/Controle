@@ -24,17 +24,27 @@
 ---
 # AUD GOV
 
+## Conceitos Iniciais. Evolução. Auditoria Interna e externa. Normas da INTOSAI (ISSAI 100 e ISSAI 130). Instrumentos de Fiscalização.
+
 - Independência, objetividade e imparcialidade são a base da credibilidade de auditoria no setor público
 
 > ISSAI 100
 > Item 9. Uma EFS pode declarar que as normas por ela desenvolvidas ou adotadas são baseadas ou são consistentes com os Princípios Fundamentais de Auditoria somente se essas normas **==cumprirem integralmente todos os princípios relevantes.==**
 
 ---
+# CASP
+
+## NBC TSP Estrutura Conceitual; Variação patrimonial, regime orçamentário, NBC TSP 34; NBC TSP 27
+
+
+
+
+---
 # D ADM
 
 ## Regime Jurídico, Princípios, Poderes e Deveres
 
-- Decretos autônomos não são utilizados para suprir nas da lei, mas sim para inovação no ordenamento jurídico em casos específicos previstos![[CADERNO DE ERROS-3.png]]lacu
+- Decretos autônomos não são utilizados para suprir nas da lei, mas sim para inovação no ordenamento jurídico em casos específicos previstos![[CADERNO DE ERROS-3.png]]
 
 - Vícios
 	- **<span style="color:#fb4934">C</span>**ompetência = <span style="color:#fb4934">E</span>xcesso de <span style="color:#fb4934">P</span>oder (<span style="color:#fb4934">CEP</span>)
