@@ -11,6 +11,9 @@
 
 - As despesas decorrentes da **<span style="color:#83a598">condenação</span>** serão incluídas como **<span style="color:#83a598">PRECATÓRIOS</span>**, pois são decorrentes de **<span style="color:#83a598">DECISÃO JUDICIAL</span>**.
 - **As Subvenções Sociais e Auxílio Alimentação** **<span style="color:#fb4934">não são computadas para o cálculo da Despesa Total com Pessoal</span>**
+- "Outras Despesas de Pessoal", será considerada no somatório da **Despesa Total com Pessoal**, tendo em vista tratar-se de SUBSTITUIÇÃO de servidor público.
+	- prestação de serviços cuja ocupação não conste dos quadros do ente público (como auxiliar de serviços gerais, ascensorista, copeiro), a despesa será classificada como Despesa Corrente – Locação de Mão de Obra.
+- 
 
 
 ---
