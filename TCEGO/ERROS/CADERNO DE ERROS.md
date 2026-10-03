@@ -6,7 +6,10 @@
 
 ## LRF
 
-### Capítulo 1 ao 3
+### Art. 1° ao 3
+### Art. 3° a 10
+
+- As despesas decorrentes da condenação serão incluídas como PRECATÓRIOS, pois são decorrentes de DECISÃO JUDICIAL.
 
 
 
