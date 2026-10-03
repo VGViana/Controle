@@ -14,6 +14,9 @@
 - "Outras Despesas de Pessoal", será considerada no somatório da **Despesa Total com Pessoal**, tendo em vista tratar-se de SUBSTITUIÇÃO de servidor público.
 	- prestação de serviços cuja ocupação não conste dos quadros do ente público (como auxiliar de serviços gerais, ascensorista, copeiro), a despesa será classificada como Despesa Corrente – Locação de Mão de Obra.
 - limite é evidenciado no Relatório De Gestão Fiscal (RGF) e não no RREO,
+- Regime de **<span style="color:#b8bb26">competência</span>** para despesas é a **<span style="color:#b8bb26"><u>liquidação</u></span>**
+- 
+
 
 
 ---
