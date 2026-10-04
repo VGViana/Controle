@@ -46,7 +46,7 @@
 ---
 # AUD GOV
 
-## Conceitos Iniciais. Evolução. Auditoria Interna e externa. Normas da INTOSAI (ISSAI 100 e ISSAI 130). Instrumentos de Fiscalização.
+## ISSAI 100
 
 - Independência, objetividade e imparcialidade são a base da credibilidade de auditoria no setor público
 
@@ -60,6 +60,9 @@
 
 ![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS-2.png]]
 
+## Variações Patrimoniais
+
+- A apropriação mensal de despesa reduz o patrimônio líquido (passa a reconhecer despesa), portanto é **variação quantitativa**, não qualitativa.
 
 ---
 # D ADM
@@ -78,4 +81,3 @@
 - A **<span style="color:#fe8019">locação</span>** é ato de direito **<span style="color:#fe8019">privado</span>**
 
 - Se um ato **<span style="color:#fb4934">já exauriu seus efeitos</span>**, **<span style="color:#fb4934">não será possível a revogação</span>** 
-
