@@ -91,3 +91,4 @@
 	- _**efeitos atípicos prodrômicos**: são efeitos preliminares ou iniciais distintos da eficácia principal do ato._
 - o afastamento para mandato classista, observadas as diretrizes legais, **<span style="color:#fb4934">não é um ato discricionário</span>**
 - não tenho como "revogar" uma certidão
+- O ato cumpriu o ciclo de formação? Sim, é perfeito. Produzindo efeitos? Sim, eficaz. E é válido? Não, houve contagem incorreta do tempo de serviço.
