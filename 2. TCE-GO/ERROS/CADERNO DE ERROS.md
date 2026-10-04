@@ -25,9 +25,10 @@
 ### Disposições Preliminares (Art. 1° ao 3)
 
 - **A responsabilidade na gestão fiscal pressupõe a ação planejada e transparente, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas**
-### Art. 3° a 10
+### Planejamento e Orçamento Público (Art. 3° a 10)
 
 ![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS-1.png]]
+
 ### Da Receita Pública (arts. 11 a 14)
 
 - A simples **alteração de alíquotas de impostos federais** reguladores do mercado interno ou externo, **<span style="color:#fb4934">sem que implique uma redução discriminada ou benefício fiscal</span>**, **<span style="color:#83a598">não é automaticamente considerada renúncia de receita</span>** no sentido da LRF.
