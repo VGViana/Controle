@@ -22,18 +22,18 @@ No Obsidian, use os wikilinks. No GitHub, use os links Markdown relativos. O par
 ## Disciplinas de estudo
 
 1. Administração Financeira e Orçamentária — [[AFO|AFO]] · [GitHub](<AFO.md>)
-2. Direito Constitucional — [[2 - D CONST/D CONST|Direito Constitucional]] · [GitHub](<2 - D CONST/D CONST.md>)
-3. Auditoria Governamental — [[3 - AUD GOV/AUD GOV|Auditoria Governamental]] · [GitHub](<3 - AUD GOV/AUD GOV.md>)
-4. Direito Administrativo — [[4 - D ADM/D ADM|Direito Administrativo]] · [GitHub](<4 - D ADM/D ADM.md>)
-5. Administração Pública — [[5 - APU/APU|Administração Pública]] · [GitHub](<5 - APU/APU.md>)
-6. Tecnologia da Informação — [[6 -  TI/TI|Tecnologia da Informação]] · [GitHub](<6 -  TI/TI.md>)
-7. Raciocínio Lógico-Matemático — [[7 - RLM/RLM|RLM]] · [GitHub](<7 - RLM/RLM.md>)
-8. Contabilidade — [[8 - CONT/CONT|Contabilidade]] · [GitHub](<8 - CONT/CONT.md>)
-9. Língua Portuguesa — [[9 - PORT/PORT|Português]] · [GitHub](<9 - PORT/PORT.md>)
-10. Controle Externo — [[10 - CONT EXT/CONT EXT|Controle Externo]] · [GitHub](<10 - CONT EXT/CONT EXT.md>)
+2. Direito Constitucional — [[D CONST|Direito Constitucional]] · [GitHub](<D CONST.md>)
+3. Auditoria Governamental — [[AUD GOV|Auditoria Governamental]] · [GitHub](<AUD GOV.md>)
+4. Direito Administrativo — [[D ADM|Direito Administrativo]] · [GitHub](<D ADM.md>)
+5. Administração Pública — [[APU|Administração Pública]] · [GitHub](<APU.md>)
+6. Tecnologia da Informação — [[TI|Tecnologia da Informação]] · [GitHub](<TI.md>)
+7. Raciocínio Lógico-Matemático — [[RLM|RLM]] · [GitHub](<RLM.md>)
+8. Contabilidade — [[CONT|Contabilidade]] · [GitHub](<CONT.md>)
+9. Língua Portuguesa — [[PORT|Português]] · [GitHub](<PORT.md>)
+10. Controle Externo — [[CONT EXT|Controle Externo]] · [GitHub](<CONT EXT.md>)
 11. Contabilidade Pública — [[Controle/11 - CASP/CASP|Contabilidade Pública]] · [GitHub](<Controle/11 - CASP/CASP.md>)
-12. Matemática Financeira — [[12 - MAT FIN/MAT FIN|Matemática Financeira]] · [GitHub](<12 - MAT FIN/MAT FIN.md>)
-13. Estatística — [[13 - ESTAT/ESTAT|Estatística]] · [GitHub](<13 - ESTAT/ESTAT.md>)
+12. Matemática Financeira — [[MAT FIN|Matemática Financeira]] · [GitHub](<MAT FIN.md>)
+13. Estatística — [[ESTAT|Estatística]] · [GitHub](<ESTAT.md>)
 
 ### Conteúdo das trilhas
 

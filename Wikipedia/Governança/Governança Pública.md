@@ -18,4 +18,4 @@ Conjunto de mecanismos de liderança, estratégia e controle postos em prática 
 - [[Gestão de Riscos]] · [GitHub](<Gest%C3%A3o%20de%20Riscos.md>)
 - [[Compliance Público]] · [GitHub](<Compliance%20P%C3%BAblico.md>)
 - [[Accountability]] · [GitHub](<Accountability.md>)
-- [[5 - APU/16. Gestão por Resultados|Gestão por Resultados]] · [GitHub](<../../5%20-%20APU/16.%20Gest%C3%A3o%20por%20Resultados.md>)
+- [[16. Gestão por Resultados|Gestão por Resultados]] · [GitHub](<../../5%20-%20APU/16.%20Gest%C3%A3o%20por%20Resultados.md>)
