@@ -56,9 +56,9 @@
 ---
 # CASP
 
-## NBC TSP Estrutura Conceitual; Variação patrimonial, regime orçamentário, NBC TSP 34; NBC TSP 27
+## Regimes Orçamentário e Patrimonial e Exercício Financeiro
 
-
+![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS-2.png]]
 
 
 ---
