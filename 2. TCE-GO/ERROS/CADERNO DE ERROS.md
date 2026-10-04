@@ -90,4 +90,4 @@
 	- _**efeitos típicos**: são aqueles próprios do ato._
 	- _**efeitos atípicos prodrômicos**: são efeitos preliminares ou iniciais distintos da eficácia principal do ato._
 - o afastamento para mandato classista, observadas as diretrizes legais, **<span style="color:#fb4934">não é um ato discricionário</span>**
-- 
+- não tenho como "revogar" uma certidão
