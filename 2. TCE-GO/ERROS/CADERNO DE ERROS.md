@@ -22,7 +22,9 @@
 
 ## LRF
 
-### Art. 1° ao 3
+### Disposições Preliminares (Art. 1° ao 3)
+
+- **A responsabilidade na gestão fiscal pressupõe a ação planejada e transparente, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas**
 ### Art. 3° a 10
 
 ![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS-1.png]]
