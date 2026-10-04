@@ -84,3 +84,9 @@
 - A **<span style="color:#fe8019">locação</span>** é ato de direito **<span style="color:#fe8019">privado</span>**
 
 - Se um ato **<span style="color:#fb4934">já exauriu seus efeitos</span>**, **<span style="color:#fb4934">não será possível a revogação</span>** 
+
+- Efeitos:
+	- _**efeitos atípicos reflexos**: são aqueles que atingem terceiros estranhos à relação jurídica principal._
+	- _**efeitos típicos**: são aqueles próprios do ato._
+	- _**efeitos atípicos prodrômicos**: são efeitos preliminares ou iniciais distintos da eficácia principal do ato._
+- 
