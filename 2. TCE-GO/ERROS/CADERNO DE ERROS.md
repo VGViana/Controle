@@ -35,7 +35,9 @@
 - Regime de **<span style="color:#b8bb26">competência</span>** para despesas é a **<span style="color:#b8bb26"><u>liquidação</u></span>**
 - **<span style="color:#fb4934">Diárias – Civil - Despesa de custeio</span>**, **<span style="color:#fb4934">não é computada</span>** para o limite de despesas com pessoal.
 
+## Da Receita Pública (arts. 11 a 14)
 
+- A simples **alteração de alíquotas de impostos federais** reguladores do mercado interno ou externo, **<span style="color:#fb4934">sem que implique uma redução discriminada ou benefício fiscal</span>**, **<span style="color:#83a598">não é automaticamente considerada renúncia de receita</span>** no sentido da LRF.
 
 ---
 # AUD GOV
