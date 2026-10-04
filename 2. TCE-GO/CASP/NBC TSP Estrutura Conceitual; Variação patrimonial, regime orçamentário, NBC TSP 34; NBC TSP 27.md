@@ -59,7 +59,10 @@ Os direitos disponíveis a todas as partes sem custos significativos – por exe
 
 ✔Inclusão do item 5.14A:
 
-> 5.14A Para que exista um passivo, três critérios devem ser satisfeitos: (a) a entidade tem uma obrigação (itens 5.15 a 5.15F); (b) a obrigação é para transferir recursos (itens 5.16A–5.16F); e (c) a obrigação é uma obrigação presente decorrente de um ou mais eventos passados (itens 5.17 a 5.17D).
+> 5.14A Para que exista um passivo, três critérios devem ser satisfeitos: 
+> - (a) a entidade tem uma obrigação (itens 5.15 a 5.15F); 
+> - (b) a obrigação é para transferir recursos (itens 5.16A–5.16F); e 
+> - (c) a obrigação é uma obrigação presente decorrente de um ou mais eventos passados (itens 5.17 a 5.17D).
 
 ✔Inclusão dos Itens 5.15A e 5.15B
 
