@@ -13,6 +13,10 @@
 
 - **<u>Racionalismo</u>** é **<span style="color:#fb4934"><u>tornar padrão</u></span>** para a organização os **<span style="color:#fb4934">procedimentos mais importantes</span>** para atingir os objetivos da empresa de forma a **<span style="color:#b8bb26">minimizar os esforços (menor custo)</span>** e a **<span style="color:#83a598">maximizar os rendimentos (maior lucro)</span>** mantendo um **certo padrão de qualidade**.
 
+## Processo Organizacional e Funções Administrativas
+
+![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS.png]]
+
 ---
 # AFO
 
