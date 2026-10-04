@@ -458,7 +458,7 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
     - Ativa (do ativo) - **<span style="color:#b8bb26">Surgimentos</span>** aleatórios que acarretam **<span style="color:#fb4934">aumentos no Patrimônio Líquido.</span>**
     - Passiva (do passivo) - **<span style="color:#b8bb26">Surgimentos</span>** aleatórios que acarretam **<span style="color:#fb4934">diminuições no Patrimônio Líquido.</span>**
 
- # **11. ASPECTOS DE CASP**
+# **11. ASPECTOS DE CASP**
 
 ![[NBC TSP Estrutura Conceitual; Variação patrimonial, regime orçamentário, NBC TSP 34; NBC TSP 27-5.png]]
 
