@@ -1,6 +1,15 @@
 # APU
+## Introdução à Administração
 
+Os stakeholders são classificados como: primários e secundários. 
+- Os **<span style="color:#83a598">primários</span>** são: proprietários, clientes, fornecedores empregados e a concorrência; 
+- Os **<span style="color:#fb4934">secundários</span>** são: governos internos, governos externos, mídia, comunidade, organizações sem fins lucrativos, analistas financeiros, instituições financeiras.
 
+Hitt, Ireland e Hoskisson em seu livro ‘Administração Estratégica’ classificam os **stakeholders em 3 grupos:**
+
+- **Mercado de capitais:** Composto pelos acionistas e financiadores das instituições.
+- **Mercado de produtos:** Nesse grupo estão inclusos os clientes, fornecedores, sindicatos e comunidades anfitriãs.
+- **Stakeholders organizacionais:** São todos os colaboradores, administradores, e proprietários das instituições.
 ---
 # AFO
 
