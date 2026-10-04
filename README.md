@@ -21,7 +21,7 @@ No Obsidian, use os wikilinks. No GitHub, use os links Markdown relativos. O par
 
 ## Disciplinas de estudo
 
-1. Administração Financeira e Orçamentária — [[1 - AFO/AFO|AFO]] · [GitHub](<1 - AFO/AFO.md>)
+1. Administração Financeira e Orçamentária — [[AFO|AFO]] · [GitHub](<AFO.md>)
 2. Direito Constitucional — [[2 - D CONST/D CONST|Direito Constitucional]] · [GitHub](<2 - D CONST/D CONST.md>)
 3. Auditoria Governamental — [[3 - AUD GOV/AUD GOV|Auditoria Governamental]] · [GitHub](<3 - AUD GOV/AUD GOV.md>)
 4. Direito Administrativo — [[4 - D ADM/D ADM|Direito Administrativo]] · [GitHub](<4 - D ADM/D ADM.md>)
@@ -91,9 +91,9 @@ Conteúdos de ciclos anteriores, preservados para consulta:
 
 ### Recursos pessoais
 
-- [[Recursos/trabalho/Material a ser levado|Material de trabalho]] · [GitHub](<Recursos/trabalho/Material a ser levado.md>)
-- [[Recursos/Viagens/Foz-Paraguai-Argentina/Roteiro|Roteiro: Foz do Iguaçu, Paraguai e Argentina]] · [GitHub](<Recursos/Viagens/Foz-Paraguai-Argentina/Roteiro.md>)
-- [[Recursos/Viagens/Foz-Paraguai-Argentina/roteiro de compras|Roteiro de compras]] · [GitHub](<Recursos/Viagens/Foz-Paraguai-Argentina/roteiro de compras.md>)
+- [[Material a ser levado|Material de trabalho]] · [GitHub](<Material a ser levado.md>)
+- [[Roteiro|Roteiro: Foz do Iguaçu, Paraguai e Argentina]] · [GitHub](<Roteiro.md>)
+- [[roteiro de compras|Roteiro de compras]] · [GitHub](<roteiro de compras.md>)
 
 ## Estrutura do repositório
 
