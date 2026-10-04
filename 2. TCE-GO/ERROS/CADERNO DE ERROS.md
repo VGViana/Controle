@@ -63,6 +63,9 @@
 ## Variações Patrimoniais
 
 - A apropriação mensal de despesa reduz o patrimônio líquido (passa a reconhecer despesa), portanto é **variação quantitativa**, não qualitativa.
+- **VPA <span style="color:#83a598"><u>dependente</u></span>** de execução orçamentária decorre diretamente de uma **<span style="color:#83a598">receita orçamentária arrecadada</span>** (recolhimento de **tributos**, transferências recebidas).
+
+- **VPA <span style="color:#fb4934"><u>independente</u></span>** de execução orçamentária altera o patrimônio, mas **<span style="color:#fb4934">não passa pelo orçamento.</span>** Ocorre em **<span style="color:#fb4934">fatos meramente patrimoniais</span>**, como doações recebidas de bens, reversões de provisões, desincorporação de passivos.
 
 ---
 # D ADM
