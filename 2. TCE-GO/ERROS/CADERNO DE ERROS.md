@@ -25,6 +25,12 @@
 ### Art. 1° ao 3
 ### Art. 3° a 10
 
+![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS-1.png]]
+### Da Receita Pública (arts. 11 a 14)
+
+- A simples **alteração de alíquotas de impostos federais** reguladores do mercado interno ou externo, **<span style="color:#fb4934">sem que implique uma redução discriminada ou benefício fiscal</span>**, **<span style="color:#83a598">não é automaticamente considerada renúncia de receita</span>** no sentido da LRF.
+
+### 
 - **As Subvenções Sociais e Auxílio Alimentação** **<span style="color:#fb4934">não são computadas para o cálculo da Despesa Total com Pessoal</span>**
 - Valores dos **<span style="color:#83a598">contratos de terceirização de mão-de-obra</span>** que se referem à **<span style="color:#83a598">substituição de servidores e empregados públicos</span>** serão contabilizados como "**<span style="color: #d79921">Outras Despesas de Pessoal</span>**" e será considerada no somatório da <span style="color:#b8bb26">Despesa Total com Pessoal</span>, tendo em vista tratar-se de SUBSTITUIÇÃO de servidor público.
 	- Prestação de serviços cuja **<span style="color:#fb4934">ocupação não conste dos quadros</span>** do ente público (como auxiliar de serviços gerais, ascensorista, copeiro), a despesa será classificada como **<span style="color:#fb4934">Despesa Corrente – Locação de Mão de Obra.</span>**
@@ -33,10 +39,6 @@
 - Limite é evidenciado no Relatório De Gestão Fiscal (RGF) e não no RREO,
 - Regime de **<span style="color:#b8bb26">competência</span>** para despesas é a **<span style="color:#b8bb26"><u>liquidação</u></span>**
 - **<span style="color:#fb4934">Diárias – Civil - Despesa de custeio</span>**, **<span style="color:#fb4934">não é computada</span>** para o limite de despesas com pessoal.
-
-### Da Receita Pública (arts. 11 a 14)
-
-- A simples **alteração de alíquotas de impostos federais** reguladores do mercado interno ou externo, **<span style="color:#fb4934">sem que implique uma redução discriminada ou benefício fiscal</span>**, **<span style="color:#83a598">não é automaticamente considerada renúncia de receita</span>** no sentido da LRF.
 
 ---
 # AUD GOV
