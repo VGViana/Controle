@@ -72,7 +72,7 @@
 
 ## Regime Jurídico, Princípios, Poderes e Deveres
 
-- Decretos autônomos não são utilizados para suprir nas da lei, mas sim para inovação no ordenamento jurídico em casos específicos previstos![[CADERNO DE ERROS-3.png]]
+- Decretos autônomos não são utilizados para suprir nas da lei, mas sim para inovação no ordenamento jurídico em casos específicos previstos![[Controle/2. TCE-GO/ERROS/Imagens/CADERNO DE ERROS-3.png]]
 
 - Vícios
 	- **<span style="color:#fb4934">C</span>**ompetência = <span style="color:#fb4934">E</span>xcesso de <span style="color:#fb4934">P</span>oder (<span style="color:#fb4934">CEP</span>)
@@ -111,6 +111,10 @@
 		- PCD
 		- Reabilitado da previdência social
 		- Aprendiz
+
+![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS-3.png]]
+
+
 # Legislação Estadual
 
 ## Estatuto do Servidor
