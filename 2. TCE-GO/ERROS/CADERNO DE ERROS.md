@@ -141,3 +141,4 @@
 	- **NÃO são tributáveis** pelo Imposto de Renda 
 	- Têm caráter **temporário** (só enquanto existir a situação que as gera) 
 	- **NÃO são incorporáveis** ao patrimônio do servidor
+
