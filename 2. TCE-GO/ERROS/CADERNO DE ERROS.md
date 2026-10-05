@@ -114,6 +114,7 @@
 
 ![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS-3.png]]
 
+- _**<span style="color:#83a598">sistema de registro de preços</span>**: conjunto de procedimentos para realização, **mediante <span style="color:#83a598">contratação direta</span>** ou **<span style="color:#83a598">licitação nas modalidades pregão ou concorrência</span>,** de registro formal de preços relativos a prestação de **<span style="color:#b8bb26">serviços, a obras e a aquisição e locação de bens</span>** para contratações futuras_
 
 # Legislação Estadual
 
