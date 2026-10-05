@@ -95,6 +95,13 @@
 
 ## Lei nº 14.133/2021
 
+### Art. 1° ao 10
+
+- Na licitação, você **<span style="color:#83a598"><u>CONTRATA o PROJETO.</u></span>**
+
+	- **<u><span style="color:#83a598">CONTRATAÇÃO</span></u>** integrada  -> **<span style="color:#83a598"><u>PROJETO</u></span>** básico e executivo.
+	- **<span style="color:#b8bb26"><u>Empreitada integral</u></span>** -> o contratado também faz tudo, mas a lei **<span style="color:#b8bb26"><u>não fala em projeto básico e executivo.</u></span>**
+
 ### Art. 11° ao 39
 
 - Fase de **<u><span style="color:#fe8019">julgamento</span></u>**: análise e avaliação do conteúdo da proposta, mediante homologação de amostras, exame de conformidade e prova de conceito, entre outros testes de aderência das especificações, com vistas a verificar se foram atendidas as especificações definidas no termo de referência ou no projeto básico.
