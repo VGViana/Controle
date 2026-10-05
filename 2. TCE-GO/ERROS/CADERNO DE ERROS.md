@@ -93,6 +93,24 @@
 - não tenho como "revogar" uma certidão
 - O ato cumpriu o ciclo de formação? Sim, é perfeito. Produzindo efeitos? Sim, eficaz. E é válido? Não, houve contagem incorreta do tempo de serviço.
 
+## Lei nº 14.133/2021
+
+### Art. 11° ao 39
+
+- Fase de **<u><span style="color:#fe8019">julgamento</span></u>**: análise e avaliação do conteúdo da proposta, mediante homologação de amostras, exame de conformidade e prova de conceito, entre outros testes de aderência das especificações, com vistas a verificar se foram atendidas as especificações definidas no termo de referência ou no projeto básico.
+
+- O edital de licitação **_poderá_**, na forma disposta em regulamento, **_exigir que percentual mínimo da mão de obra_** responsável pela **_execução do objeto_** da contratação seja constituído por **_mulheres vítimas de violência doméstica e por oriundos do sistema prisional._**  
+
+	- **Facultativo (**Art. 25. § 9º) - Quem apanhou e quem bateu
+		
+		- Mulheres vítimas de violência doméstica
+		- Oriundos ou egressos do sistema prisional
+	
+	- **Obrigatórios** ( Art 92, XVII)
+	
+		- PCD
+		- Reabilitado da previdência social
+		- Aprendiz
 # Legislação Estadual
 
 ## Estatuto do Servidor
