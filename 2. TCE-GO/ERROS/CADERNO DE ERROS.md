@@ -130,6 +130,29 @@
 # Legislação Estadual
 
 ## Estatuto do Servidor
+
+### Do Provimento (arts. 5° a 57)
+
+| **Instituto**      | **Definição**                                                    | **Requisitos/Casos de Aplicação**                                                                 | **Efeitos**                                                               | **Base Legal**          |
+| ------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------- |
+| **Nomeação**       | Ato de investidura em cargo público efetivo                      | - Aprovação em concurso público  <br>- Vagância do cargo                                          | - Início do estágio probatório (3 anos)  <br>- Não gera direito adquirido | CF, art. 37, II         |
+| **Promoção**       | Ascensão funcional dentro da mesma carreira                      | - Existência de vaga em classe superior  <br>- Preenchimento dos requisitos legais                | - Vacância do cargo anterior  <br>- Progressão na carreira                | Lei 8.112/90            |
+| **Reintegração**   | Retorno ao cargo após anulação de demissão                       | - Demissão invalidada por decisão judicial/administrativa                                         | - Restabelecimento com pagamento dos vencimentos atrasados                | Art. 52 da Lei Estadual |
+| **Recondução**     | Retorno ao cargo anterior após reprovação em estágio probatório  | 1) Reprovação em estágio probatório  <br>2) Reintegração do anterior ocupante  <br>3) Desistência | - Volta ao cargo de origem (se estável)  <br>- Exoneração (se em estágio) | Art. 53 da Lei Estadual |
+| **Reversão**       | Retorno do aposentado por invalidez quando cessada a causa       | - Cessação dos motivos da invalidez  <br>- Vaga no cargo original ou similar                      | - Retorno ao serviço ativo  <br>- Pode ficar como excedente               | Lei 8.112/90            |
+| **Readaptação**    | Redistribuição para cargo compatível com limitação física/mental | - Comprovação de deficiência  <br>- Existência de cargo compatível                                | - Mudança para nova função  <br>- Manutenção da remuneração               | CF, art. 37, VIII       |
+| **Aproveitamento** | Retorno do servidor em disponibilidade                           | - Existência de cargo similar vago  <br>- Prioridade sobre novos concursados                      | - Retorno ao serviço ativo  <br>- Remuneração equivalente                 | Lei 8.112/90            |
+
+- **REIntegração** = Retorno Estável após demissão Ilegal
+    
+- **REcondução** = Retorno Estável após Reprovação no Estágio
+    
+- **REversão** = Volta do aposentado por invalidez (Vovô Voltou)
+    
+- **REadaptação** = Redistribuição por Adaptação necessária
+
+
+
 ### Do Sistema Remuneratório (arts. 88 a 100)
 
 - Indenizações são **<span style="color:#b8bb26">compensações em dinheiro</span>** que o Estado paga ao servidor. Não são salário! São **<span style="color:#b8bb26">ressarcimentos</span>** por gastos que o servidor teve ou **<span style="color:#b8bb26">compensações</span>** por situações especiais do trabalho.
@@ -142,3 +165,17 @@
 	- Têm caráter **temporário** (só enquanto existir a situação que as gera) 
 	- **NÃO são incorporáveis** ao patrimônio do servidor
 
+### Das Férias (arts 128 a 132)
+
+> **Para o primeiro período aquisitivo de férias serão exigidos 12 (doze) meses de exercício, computado o tempo de serviço prestado anteriormente à Administração estadual direta, autárquica e fundacional, desde que entre os períodos não haja interrupção de exercício por prazo superior a 30 (trinta) dias.**
+
+### Das Licenças (art 133 a 167)
+
+> Art. 155. Ao servidor será concedida **<span style="color:#b8bb26">licença remunerada de 180</span>** (cento e oitenta) dias, em razão de **<span style="color:#b8bb26">adoção uniparental ou obtenção de guarda judicial para fins de adoção</span>**, quando ele for o **<span style="color:#fe8019">único responsável</span>** pela criança ou adolescente, mediante **<span style="color:#83a598">apresentação de documento oficial comprobatório</span>** da adoção ou guarda, **<span style="color:#83a598">expedido pela autoridade judiciária competente</span>**.
+
+
+### Das Proibições (arts 202 a 204)
+
+- A _configuração das transgressões disciplinares dos incisos LXXI (abandono de cargo) e LXXII (inassiduidade habitual) do art. 202 da Lei estadual nº 20.756/2020 exigem a **<span style="color:#fb4934">comprovação da intenção do agente em abandonar o cargo ou de faltar</span>** ao exercício de suas funções._
+
+> Constitui transgressão disciplinar e ao servidor é proibido **<span style="color:#fb4934">aconselhar ou concorrer</span>** para não ser cumprida qualquer ordem legítima, ou para ser retardada a sua execução, conduta passível de **<span style="color:#b8bb26">suspensão de até 30</span>** (trinta) dias, se a conduta foi praticada **<span style="color:#b8bb26">culposamente</span>**, ou suspensão de **<span style="color:#83a598">31 (trinta e um) a 60 (sessenta) dias</span>**, se a conduta foi praticada **<span style="color:#83a598">dolosamente</span>**.
