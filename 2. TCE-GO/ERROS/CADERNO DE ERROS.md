@@ -123,6 +123,8 @@
 
 ![[Controle/2. TCE-GO/ERROS/CADERNO DE ERROS-3.png]]
 
+- **O <span style="color:#fb4934">pregão não se aplica</span> às contratações de <span style="color:#fb4934">serviços técnicos especializados de natureza predominantemente intelectual</span> e de <span style="color:#fb4934">obras e serviços de engenharia</span>, **exceto os serviços comuns de engenharia
+
 - _**<span style="color:#83a598">sistema de registro de preços</span>**: conjunto de procedimentos para realização, **mediante <span style="color:#83a598">contratação direta</span>** ou **<span style="color:#83a598">licitação nas modalidades pregão ou concorrência</span>,** de registro formal de preços relativos a prestação de **<span style="color:#b8bb26">serviços, a obras e a aquisição e locação de bens</span>** para contratações futuras_
 
 # Legislação Estadual
