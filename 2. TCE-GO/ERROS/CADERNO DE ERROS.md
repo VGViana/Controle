@@ -92,3 +92,18 @@
 - o afastamento para mandato classista, observadas as diretrizes legais, **<span style="color:#fb4934">não é um ato discricionário</span>**
 - não tenho como "revogar" uma certidão
 - O ato cumpriu o ciclo de formação? Sim, é perfeito. Produzindo efeitos? Sim, eficaz. E é válido? Não, houve contagem incorreta do tempo de serviço.
+
+# Legislação Estadual
+
+## Estatuto do Servidor
+### Do Sistema Remuneratório (arts. 88 a 100)
+
+- Indenizações são **<span style="color:#b8bb26">compensações em dinheiro</span>** que o Estado paga ao servidor. Não são salário! São **<span style="color:#b8bb26">ressarcimentos</span>** por gastos que o servidor teve ou **<span style="color:#b8bb26">compensações</span>** por situações especiais do trabalho.
+	- Diárias
+	- Transporte
+	- Assistência Pré-Escolar
+- As Indenizações:
+	- **NÃO integram a remuneração** para cálculos previdenciários 
+	- **NÃO são tributáveis** pelo Imposto de Renda 
+	- Têm caráter **temporário** (só enquanto existir a situação que as gera) 
+	- **NÃO são incorporáveis** ao patrimônio do servidor
