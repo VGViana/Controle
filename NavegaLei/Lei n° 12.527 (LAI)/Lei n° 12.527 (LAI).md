@@ -236,13 +236,13 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* § 2° Verificada a procedência das razões do recurso, a Controladoria-Geral da União determinará ao órgão ou entidade que adote as providências necessárias para dar cumprimento ao disposto nesta Lei. ^5a8d268
 
-	* § 3° Negado o acesso à informação pela Controladoria-Geral da União, poderá ser interposto recurso à Comissão Mista de Reavaliação de Informações, a que se refere o art. [[#^f241f78|35]]. ^2f40eab
+	* § 3° **<span style="color:#fb4934">Negado o acesso à informação pela Controladoria-Geral da União</span>**, poderá ser interposto **<span style="color:#fe8019">recurso à Comissão Mista de Reavaliação de Informações</span>**, a que se refere o art. [[#^f241f78|35]]. ^2f40eab
 
-* Art. 17. No caso de indeferimento de pedido de desclassificação de informação protocolado em órgão da administração pública federal, poderá o requerente recorrer ao Ministro de Estado da área, sem prejuízo das competências da Comissão Mista de Reavaliação de Informações, previstas no art. [[#^f241f78|35]], e do disposto no art. [[#^29136e8|16]]. ^10f159f
+* Art. 17. No caso de **<span style="color:#fb4934">indeferimento</span>** de pedido de desclassificação de informação protocolado em órgão da administração pública federal, poderá o requerente recorrer ao **==Ministro de Estado==** da área, sem prejuízo das competências da **<span style="color:#83a598">Comissão Mista de Reavaliação de Informações</span>**, previstas no art. [[#^f241f78|35]], e do disposto no art. [[#^29136e8|16]]. ^10f159f
 
-	* § 1° O recurso previsto neste artigo somente poderá ser dirigido às autoridades mencionadas depois de submetido à apreciação de pelo menos uma autoridade hierarquicamente superior à autoridade que exarou a decisão impugnada e, no caso das Forças Armadas, ao respectivo Comando. ^bc6ea2d
+	* § 1° O recurso previsto neste artigo somente poderá ser dirigido às autoridades mencionadas depois de submetido à apreciação de pelo menos uma autoridade hierarquicamente superior à autoridade que exarou a decisão impugnada e, **no caso das Forças Armadas, ao respectivo Comando.** ^bc6ea2d
 
-	* § 2° Indeferido o recurso previsto no caput que tenha como objeto a desclassificação de informação secreta ou ultrassecreta, caberá recurso à Comissão Mista de Reavaliação de Informações prevista no art. [[#^f241f78|35]]. ^fa608d3
+	* § 2° **<span style="color:#fb4934">Indeferido</span>** o recurso previsto no caput que tenha como objeto a desclassificação de informação secreta ou ultrassecreta, **<span style="color:#83a598">caberá recurso à Comissão Mista de Reavaliação de Informações</span>** prevista no art. [[#^f241f78|35]]. ^fa608d3
 
 * Art. 18. Os procedimentos de revisão de decisões denegatórias proferidas no recurso previsto no art. [[#^483bc20|15]] e de revisão de classificação de documentos sigilosos serão objeto de regulamentação própria dos Poderes Legislativo e Judiciário e do Ministério Público, em seus respectivos âmbitos, assegurado ao solicitante, em qualquer caso, o direito de ser informado sobre o andamento de seu pedido. ^c251e03
 
