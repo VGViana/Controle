@@ -95,7 +95,7 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* VIII - (VETADO). (Incluído pela Lei n° 14.345, de 2022) ^b7430d7
 
-	* § 1° O acesso à informação previsto no caput não compreende as informações referentes a projetos de pesquisa e desenvolvimento científicos ou tecnológicos cujo sigilo seja imprescindível à segurança da sociedade e do Estado. ^470709d
+	* § 1° O acesso à informação previsto no caput **<span style="color:#fb4934">não</span>** compreende as informações referentes a projetos de pesquisa e desenvolvimento científicos ou tecnológicos cujo **<span style="color:#fb4934">sigilo seja imprescindível à segurança da sociedade e do Estado.</span>** ^470709d
 
 	* § 2° Quando não for autorizado acesso integral à informação por ser ela parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo. ^5bdaa83
 
