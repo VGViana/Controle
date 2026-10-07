@@ -345,7 +345,7 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* III - no grau de reservado, das autoridades referidas nos incisos [[#^9cb24af|I]] e [[#^060813e|II]] e das que exerçam funções de **<span style="color:#b8bb26">direção, comando ou chefia, nível DAS 101.5, ou superior, do Grupo-Direção e Assessoramento Superiores, ou de hierarquia equivalente</span>**, de acordo com regulamentação específica de cada órgão ou entidade, observado o disposto nesta Lei. ^2a54721
 
-	* § 1° A competência prevista nos incisos [[#^9cb24af|I]] e [[#^060813e|II]], no que se refere à classificação como ultrassecreta e secreta, poderá ser delegada pela autoridade responsável a agente público, inclusive em missão no exterior, **<span style="color:#fb4934">vedada a subdelegação.</span>** ^321c719
+	* § 1° A competência prevista nos incisos [[#^9cb24af|I]] e [[#^060813e|II]], no que se refere à classificação como ultrassecreta e secreta, **poderá ser delegada pela autoridade responsável** a agente público, inclusive em missão no exterior, **<span style="color:#fb4934">vedada a subdelegação.</span>** ^321c719
 
 	* § 2° A classificação de informação no grau de sigilo ultrassecreto pelas autoridades previstas nas alíneas "[[#^81687bd|d]]" e "[[#^d165b68|e]]" do inciso [[#^9cb24af|I]] deverá ser ratificada pelos respectivos Ministros de Estado, no prazo previsto em regulamento. ^c4fc2cc
 
@@ -402,13 +402,13 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 		* II - à realização de **estatísticas e pesquisas científicas** de evidente interesse público ou geral, **previstos em lei**, sendo **<span style="color:#fb4934">vedada a identificação da pessoa a que as informações se referirem</span>**; ^1833817
 
-		* III - ao cumprimento de ordem judicial; ^06153af
+		* III - ao cumprimento de **ordem judicial**; ^06153af
 
-		* IV - à defesa de direitos humanos; ou ^c3cc2a0
+		* IV - à defesa de **direitos humanos**; ou ^c3cc2a0
 
-		* V - à proteção do interesse público e geral preponderante. ^40f454a
+		* V - à proteção do **interesse público e geral preponderante.** ^40f454a
 
-	* § 4° A restrição de acesso à informação relativa à vida privada, honra e imagem de pessoa não poderá ser invocada com o intuito de prejudicar processo de apuração de irregularidades em que o titular das informações estiver envolvido, bem como em ações voltadas para a recuperação de fatos históricos de maior relevância. ^4512cfc
+	* § 4° A restrição de acesso à informação relativa à vida privada, honra e imagem de pessoa **<span style="color:#fb4934">não</span>** poderá ser invocada com o intuito de prejudicar processo de apuração de irregularidades em que o titular das informações estiver envolvido, bem como em ações voltadas para a recuperação de fatos históricos de maior relevância. ^4512cfc
 
 	* § 5° Regulamento disporá sobre os procedimentos para tratamento de informação pessoal. ^ea8cec5
 
