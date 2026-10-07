@@ -329,21 +329,21 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 * Art. 27. A classificação do sigilo de informações no âmbito da administração pública federal é de competência: (Regulamento) ^f316d70
 
-	* I - no grau de ultrassecreto, das seguintes autoridades: ^9cb24af
+	* I - no grau de **<span style="color:#fb4934">ultrassecreto</span>**, das seguintes autoridades: ^9cb24af
 
-		* a) Presidente da República; ^f3b3728
+		* a) **<span style="color:#fb4934">Presidente</span>** da República; ^f3b3728
 
-		* b) Vice-Presidente da República; ^462c4cb
+		* b) **<span style="color:#fb4934">Vice-Presidente</span>** da República; ^462c4cb
 
-		* c) Ministros de Estado e autoridades com as mesmas prerrogativas; ^a9aa1eb
+		* c) **<span style="color:#fb4934">Ministros de Estado e autoridades com as mesmas prerrogativas</span>**; ^a9aa1eb
 
-		* d) Comandantes da Marinha, do Exército e da Aeronáutica; e ^81687bd
+		* d) **<span style="color:#fb4934">Comandantes</span>** da Marinha, do Exército e da Aeronáutica; e ^81687bd
 
-		* e) Chefes de Missões Diplomáticas e Consulares permanentes no exterior; ^d165b68
+		* e) **<span style="color:#fb4934">Chefes de Missões Diplomáticas e Consulares</span>** permanentes no exterior; ^d165b68
 
-	* II - no grau de secreto, das autoridades referidas no inciso [[#^9cb24af|I]], dos titulares de autarquias, fundações ou empresas públicas e sociedades de economia mista; e ^060813e
+	* II - no grau de **<span style="color: #d79921">secreto</span>**, das autoridades referidas no inciso [[#^9cb24af|I]], dos **<span style="color: #d79921">titulares de autarquias, fundações ou empresas públicas e sociedades de economia mista</span>**; e ^060813e
 
-	* III - no grau de reservado, das autoridades referidas nos incisos [[#^9cb24af|I]] e [[#^060813e|II]] e das que exerçam funções de direção, comando ou chefia, nível DAS 101.5, ou superior, do Grupo-Direção e Assessoramento Superiores, ou de hierarquia equivalente, de acordo com regulamentação específica de cada órgão ou entidade, observado o disposto nesta Lei. ^2a54721
+	* III - no grau de reservado, das autoridades referidas nos incisos [[#^9cb24af|I]] e [[#^060813e|II]] e das que exerçam funções de **<span style="color:#b8bb26">direção, comando ou chefia, nível DAS 101.5, ou superior, do Grupo-Direção e Assessoramento Superiores, ou de hierarquia equivalente</span>**, de acordo com regulamentação específica de cada órgão ou entidade, observado o disposto nesta Lei. ^2a54721
 
 	* § 1° A competência prevista nos incisos [[#^9cb24af|I]] e [[#^060813e|II]], no que se refere à classificação como ultrassecreta e secreta, poderá ser delegada pela autoridade responsável a agente público, inclusive em missão no exterior, vedada a subdelegação. ^321c719
 
