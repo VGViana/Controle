@@ -213,24 +213,24 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* Parágrafo único. Na impossibilidade de obtenção de cópias, o interessado poderá solicitar que, a suas expensas e sob supervisão de servidor público, a reprodução seja feita por outro meio que não ponha em risco a conservação do documento original. ^c4fed99
 
-* Art. 14. É direito do requerente obter o inteiro teor de decisão de negativa de acesso, por certidão ou cópia. ^90c0025
+* Art. 14. É **<span style="color:#83a598">direito do requerente obter o inteiro teor de decisão de negativa de acesso, por certidão ou cópia.</span>** ^90c0025
 
 ## 3.2. SEÇÃO II - DOS RECURSOS (ARTS. 15 A 20)
 [[NavegaLei/Lei n° 12.527 (LAI)/MOC/3.2. SEÇÃO II - DOS RECURSOS (ARTS. 15 A 20)|Resumo]]
 
-* Art. 15. No caso de indeferimento de acesso a informações ou às razões da negativa do acesso, poderá o interessado interpor recurso contra a decisão no prazo de 10 (dez) dias a contar da sua ciência. ^483bc20
+* Art. 15. No caso de **<span style="color:#fb4934">indeferimento de acesso a informações ou às razões da negativa</span>** do acesso, poderá o interessado **interpor recurso** contra a decisão no prazo de **<span style="color:#b8bb26">10 (dez) dias</span>** a <u>contar da sua ciência.</u> ^483bc20
 
-	* Parágrafo único. O recurso será dirigido à autoridade hierarquicamente superior à que exarou a decisão impugnada, que deverá se manifestar no prazo de 5 (cinco) dias. ^5187a0f
+	* Parágrafo único. O recurso será dirigido à **<span style="color:#fe8019">autoridade hierarquicamente superior</span>** à que exarou a decisão impugnada, que deverá se manifestar no **<span style="color:#b8bb26">prazo de 5 (cinco) dias.</span>** ^5187a0f
 
-* Art. 16. Negado o acesso a informação pelos órgãos ou entidades do Poder Executivo Federal, o requerente poderá recorrer à Controladoria-Geral da União, que deliberará no prazo de 5 (cinco) dias se: ^29136e8
+* Art. 16. **<span style="color:#fb4934">Negado o acesso</span>** a informação pelos órgãos ou entidades do Poder Executivo Federal, **<span style="color:#83a598">o requerente poderá recorrer à</span>** **<span style="color:#fe8019">Controladoria-Geral da União</span>**, que deliberará no prazo de **<span style="color:#b8bb26">5 (cinco) dias</span>** se: ^29136e8
 
-	* I - o acesso à informação não classificada como sigilosa for negado; ^d452c08
+	* I - o acesso à informação **não classificada como sigilosa for negado**; ^d452c08
 
-	* II - a decisão de negativa de acesso à informação total ou parcialmente classificada como sigilosa não indicar a autoridade classificadora ou a hierarquicamente superior a quem possa ser dirigido pedido de acesso ou desclassificação; ^b90fc18
+	* II - a **decisão de negativa de acesso à informação** total ou parcialmente classificada como sigilosa **não indicar a autoridade classificadora ou a hierarquicamente superior** a quem possa ser dirigido pedido de acesso ou desclassificação; ^b90fc18
 
-	* III - os procedimentos de classificação de informação sigilosa estabelecidos nesta Lei não tiverem sido observados; e ^7ee2afa
+	* III - os **procedimentos de classificação** de informação sigilosa estabelecidos nesta Lei **não tiverem sido observados**; e ^7ee2afa
 
-	* IV - estiverem sendo descumpridos prazos ou outros procedimentos previstos nesta Lei. ^102735f
+	* IV - estiverem sendo **descumpridos prazos** ou outros procedimentos previstos nesta Lei. ^102735f
 
 	* § 1° O recurso previsto neste artigo somente poderá ser dirigido à Controladoria-Geral da União depois de submetido à apreciação de pelo menos uma autoridade hierarquicamente superior àquela que exarou a decisão impugnada, que deliberará no prazo de 5 (cinco) dias. ^1b0b9c9
 
