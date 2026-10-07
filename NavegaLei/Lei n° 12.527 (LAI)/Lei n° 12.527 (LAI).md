@@ -345,11 +345,11 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* III - no grau de reservado, das autoridades referidas nos incisos [[#^9cb24af|I]] e [[#^060813e|II]] e das que exerçam funções de **<span style="color:#b8bb26">direção, comando ou chefia, nível DAS 101.5, ou superior, do Grupo-Direção e Assessoramento Superiores, ou de hierarquia equivalente</span>**, de acordo com regulamentação específica de cada órgão ou entidade, observado o disposto nesta Lei. ^2a54721
 
-	* § 1° A competência prevista nos incisos [[#^9cb24af|I]] e [[#^060813e|II]], no que se refere à classificação como ultrassecreta e secreta, poderá ser delegada pela autoridade responsável a agente público, inclusive em missão no exterior, vedada a subdelegação. ^321c719
+	* § 1° A competência prevista nos incisos [[#^9cb24af|I]] e [[#^060813e|II]], no que se refere à classificação como ultrassecreta e secreta, poderá ser delegada pela autoridade responsável a agente público, inclusive em missão no exterior, **<span style="color:#fb4934">vedada a subdelegação.</span>** ^321c719
 
 	* § 2° A classificação de informação no grau de sigilo ultrassecreto pelas autoridades previstas nas alíneas "[[#^81687bd|d]]" e "[[#^d165b68|e]]" do inciso [[#^9cb24af|I]] deverá ser ratificada pelos respectivos Ministros de Estado, no prazo previsto em regulamento. ^c4fc2cc
 
-	* § 3° A autoridade ou outro agente público que classificar informação como ultrassecreta deverá encaminhar a decisão de que trata o art. [[#^a3a0ad1|28]] à Comissão Mista de Reavaliação de Informações, a que se refere o art. [[#^f241f78|35]], no prazo previsto em regulamento. ^3f6c3cf
+	* § 3° A autoridade ou outro agente público que classificar informação como **<span style="color:#83a598"><u>ultrassecreta</u></span>** deverá encaminhar a decisão de que trata o art. [[#^a3a0ad1|28]] à **<span style="color:#fe8019">Comissão Mista de Reavaliação de Informações</span>**, a que se refere o art. [[#^f241f78|35]], no prazo de **<span style="color:#b8bb26">30 dias</span>**. ^3f6c3cf
 
 * Art. 28. A classificação de informação em qualquer grau de sigilo deverá ser formalizada em decisão que conterá, no mínimo, os seguintes elementos: ^a3a0ad1
 
