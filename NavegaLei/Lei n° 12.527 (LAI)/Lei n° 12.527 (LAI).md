@@ -24,13 +24,13 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 		* II - as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia mista e demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios. ^361c5e0
 
-* Art. 2° Aplicam-se as disposições desta Lei, no que couber, às entidades privadas sem fins lucrativos que recebam, para realização de ações de interesse público, recursos públicos diretamente do orçamento ou mediante subvenções sociais, contrato de gestão, termo de parceria, convênios, acordo, ajustes ou outros instrumentos congêneres. ^bd4f65c
+* Art. 2° Aplicam-se as disposições desta Lei, no que couber, às **<span style="color:#fe8019">entidades privadas sem fins lucrativos</span>** que recebam, para realização de ações de interesse público**<span style="color:#b8bb26">, recursos públicos diretamente do orçamento ou mediante subvenções sociais, contrato de gestão, termo de parceria, convênios, acordo, ajustes ou outros instrumentos congêneres.</span>** ^bd4f65c
 
-	* Parágrafo único. A publicidade a que estão submetidas as entidades citadas no caput refere-se à parcela dos recursos públicos recebidos e à sua destinação, sem prejuízo das prestações de contas a que estejam legalmente obrigadas. ^6aab367
+	* Parágrafo único. A publicidade a que estão submetidas as entidades citadas no caput **<span style="color:#83a598">refere-se à parcela dos recursos públicos recebidos e à sua destinação</span>**, **<span style="color:#83a598">sem prejuízo das prestações de contas</span>** a que estejam legalmente obrigadas. ^6aab367
 
 * Art. 3° Os procedimentos previstos nesta Lei destinam-se a assegurar o direito fundamental de acesso à informação e devem ser executados em conformidade com os princípios básicos da administração pública e com as seguintes diretrizes: ^197f612
 
-	* I - observância da publicidade como preceito geral e do sigilo como exceção; ^270a970
+	* I - observância da **<span style="color:#83a598">publicidade como preceito geral</span>** e do **<span style="color:#fb4934">sigilo como exceção</span>**; ^270a970
 
 	* II - divulgação de informações de interesse público, independentemente de solicitações; ^8d986fd
 
@@ -42,13 +42,13 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 * Art. 4° Para os efeitos desta Lei, considera-se: ^1955485
 
-	* I - informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato; ^3abf368
+	* I - <u>informação</u>: dados, **processados ou não**, que podem ser utilizados para produção e transmissão de conhecimento, **contidos em qualquer meio, suporte ou formato**; ^3abf368
 
-	* II - documento: unidade de registro de informações, qualquer que seja o suporte ou formato; ^669d580
+	* II - <u>documento</u>: unidade de registro de informações, qualquer que seja o suporte ou formato; ^669d580
 
 	* III - informação sigilosa: aquela submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado; ^9162d0e
 
-	* IV - informação pessoal: aquela relacionada à pessoa natural identificada ou identificável; ^9f29ee0
+	* IV - <u>informação pessoal</u>: aquela relacionada à **pessoa natural identificada ou identificável**; ^9f29ee0
 
 	* V - tratamento da informação: conjunto de ações referentes à produção, recepção, classificação, utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da informação; ^9adac20
 
