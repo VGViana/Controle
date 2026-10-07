@@ -97,3 +97,27 @@ Evite também as redundâncias "e, também" e "como, por exemplo", substituindo 
 
 # Tipos Textuais: Descrição x narração x dissertação
 
+## Descrição 
+
+É como se o autor elaborasse um retrato verbal de algo
+
+- Descrição subjetiva: evidencia as impressões pessoais do emissor (locutor) do texto
+- Descrição objetiva: texto tenta descrever de forma exata e realista as características concretas e físicas de algo
+
+## Narração
+
+Relato de uma história (verdadeira ou não)
+
+- Discurso direto: quando a fala do próprio personagem está transcrita no texto
+- Discurso indireto: quando o narrador escreve o que foi dito pelo personagem em terceira pessoa
+- Indireto livre: quando não se sabe ao certo de quem é a fala, se é do narrador ou do personagem
+
+## Dissertação 
+
+Consiste na defesa de ideias gerais por meio de argumentos consistentes
+
+- expositiva: autor expõe os fatos e os explica, sem defender um ponto de vista específico. **<span style="color:#fb4934"><u>O autor não opina</u></span>**, apesa de deixar implícita a sua opinião 
+- Argumentativa: **<span style="color:#83a598"><u>Autor expõe seu julgamento e sua opinião</u></span>**, a fim de convencer o leitor sobre seu ponto de vista
+- Expositiva-argumentativa: Pareceres ou peças técnicas, o autor expõe os fatos e depois emite a sua opinião sobre eles
+
+
