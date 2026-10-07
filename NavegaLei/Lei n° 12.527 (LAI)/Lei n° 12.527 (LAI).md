@@ -386,21 +386,21 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 ## 4.5. SEÇÃO V - DAS INFORMAÇÕES PESSOAIS (ART. 31)
 [[NavegaLei/Lei n° 12.527 (LAI)/MOC/4.5. SEÇÃO V - DAS INFORMAÇÕES PESSOAIS (ART. 31)|Resumo]]
 
-* Art. 31. O tratamento das informações pessoais deve ser feito de forma transparente e com respeito à intimidade, vida privada, honra e imagem das pessoas, bem como às liberdades e garantias individuais. ^0c12866
+* Art. 31. O tratamento das **informações pessoais** deve ser feito de forma transparente e com respeito à **intimidade, vida privada, honra e imagem** das pessoas, bem como às liberdades e garantias individuais. ^0c12866
 
 	* § 1° As informações pessoais, a que se refere este artigo, relativas à intimidade, vida privada, honra e imagem: ^c243e91
 
-		* I - terão seu acesso restrito, independentemente de classificação de sigilo e pelo prazo máximo de 100 (cem) anos a contar da sua data de produção, a agentes públicos legalmente autorizados e à pessoa a que elas se referirem; e ^31d8597
+		* I - **terão seu acesso restrito**, <u>independentemente</u> de classificação de sigilo e pelo **<span style="color:#b8bb26">prazo máximo de 100 (cem) anos a contar da sua data de produção</span>**, a **<span style="color:#fe8019">agentes públicos legalmente autorizados e à pessoa a que elas se referirem</span>**; e ^31d8597
 
-		* II - poderão ter autorizada sua divulgação ou acesso por terceiros diante de previsão legal ou consentimento expresso da pessoa a que elas se referirem. ^8224c40
+		* II - poderão ter autorizada sua divulgação ou acesso por terceiros diante de **previsão legal** ou **consentimento expresso da pessoa a que elas se referirem.** ^8224c40
 
 	* § 2° Aquele que obtiver acesso às informações de que trata este artigo será responsabilizado por seu uso indevido. ^4340607
 
 	* § 3° O consentimento referido no inciso [[#^8224c40|II]] do § [[#^c243e91|1°]] não será exigido quando as informações forem necessárias: ^3445e2f
 
-		* I - à prevenção e diagnóstico médico, quando a pessoa estiver física ou legalmente incapaz, e para utilização única e exclusivamente para o tratamento médico; ^bfa49e9
+		* I - à **prevenção e diagnóstico médico**, quando a pessoa estiver física ou legalmente incapaz, e para utilização única e **<span style="color:#fb4934">exclusivamente</span>** para o tratamento médico; ^bfa49e9
 
-		* II - à realização de estatísticas e pesquisas científicas de evidente interesse público ou geral, previstos em lei, sendo vedada a identificação da pessoa a que as informações se referirem; ^1833817
+		* II - à realização de **estatísticas e pesquisas científicas** de evidente interesse público ou geral, **previstos em lei**, sendo **<span style="color:#fb4934">vedada a identificação da pessoa a que as informações se referirem</span>**; ^1833817
 
 		* III - ao cumprimento de ordem judicial; ^06153af
 
