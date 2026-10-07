@@ -120,4 +120,10 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 - Argumentativa: **<span style="color:#83a598"><u>Autor expõe seu julgamento e sua opinião</u></span>**, a fim de convencer o leitor sobre seu ponto de vista
 - Expositiva-argumentativa: Pareceres ou peças técnicas, o autor expõe os fatos e depois emite a sua opinião sobre eles
 
+# Estrutura textual 
+
+## Estrutura argumentativa
+
+![[Redação TCE-GO.png]]
+
 
