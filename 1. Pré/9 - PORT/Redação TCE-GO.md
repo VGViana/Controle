@@ -55,7 +55,26 @@ Os 70,00 de tema e os 30,00 de forma não são blocos estanques: o item 10.4.3 d
 As próximas três atividades são de técnica, e percorrem os módulos 03 a 06 do curso: regras de apresentação, conceitos, estrutura textual e montagem de parágrafo. Só depois disso você escreve o primeiro texto. A ordem é essa de propósito: escrever antes de ter a técnica ensina pouco e cansa muito.
 
 ---
-# Termos responsáveis pela coesão sequencial nos textos
+# Coesão
+## Coesão referencia
+
+- Anáfora: é um recurso coesivo que retoma algo **<span style="color:#b8bb26"><u>que já foi citado</u></span>**
+- Catáfora: Apresenta algo que ainda **<span style="color:#fb4934"><u>não foi dito</u></span>**
+- Elipese: Supressão de um **<span style="color:#83a598"><u>termo já citado</u></span>** 
+- "onde" só pode ser utilizado para retomar ideia de lugar físico 
+
+## Coesão por processos lexicais
+
+Função de retormar um termo anterior, utilizando um substantivo ou adjetivo que possua significado semelhante
+- sinonímia: relação entre paalvras de significado semelhante
+- antonímia: relação entre palavras de significado oposto
+- Hiperonímia: confere uma ideia de todo
+- Hiponímia: representada por cada parte
+
+### Uso de "o mesmo"
+
+**<span style="color:#fb4934"><u>Evite o uso da palvra "mesmo" para retormar termos</u></span>** referidos, pois é penalizada por alguns examinadores
+## Termos responsáveis pela coesão sequencial nos textos
 
 - Adição/inclusão - Além disso; também; ademais; outrossim; vale lembrar;  inclusive; até; por iguais razões; além desse fator...  
 - Oposição - Embora; não obstante; entretanto; mas; no entanto; porém; ao  contrário; diferentemente; por outro lado...  
@@ -65,3 +84,16 @@ As próximas três atividades são de técnica, e percorrem os módulos 03 a 06 
 - Explicação - Como se nota; com efeito; como vimos; pois; é óbvio que; isto é;  em outras palavras; por exemplo; a saber; de fato; aliás...  
 - Conclusão - Em suma; por conseguinte; em última análise; por fim;  concluindo; finalmente; por tudo isso; em síntese; posto isso; assim;  consequentemente...  
 - Continuação - Em seguida; depois; no geral; em termos gerais; de modo geral;  por sua vez...
+
+### Uso de "primeiramente", "e, também" e "como, por exemplo"
+
+Evite o uso da palavra "primeiramente", substituindo-o por:
+- preliminarmente
+- inicialmente
+- em primeiro lugar
+Evite também as redundâncias "e, também" e "como, por exemplo", substituindo por
+ - e
+ - como 
+
+# Coerência
+
