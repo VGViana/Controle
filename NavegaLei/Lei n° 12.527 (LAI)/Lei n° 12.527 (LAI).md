@@ -415,45 +415,45 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 # 5. CAPÍTULO V - DAS RESPONSABILIDADES (ARTS. 32 A 34)
 [[NavegaLei/Lei n° 12.527 (LAI)/MOC/5. CAPÍTULO V - DAS RESPONSABILIDADES (ARTS. 32 A 34)|Resumo]]
 
-* Art. 32. Constituem condutas ilícitas que ensejam responsabilidade do agente público ou militar: ^dc8db5e
+* Art. 32. Constituem **<span style="color:#fb4934">condutas ilícitas</span>** que ensejam <u>responsabilidade do agente público ou militar</u>: ^dc8db5e
 
-	* I - recusar-se a fornecer informação requerida nos termos desta Lei, retardar deliberadamente o seu fornecimento ou fornecê-la intencionalmente de forma incorreta, incompleta ou imprecisa; ^58f047c
+	* I - **<span style="color:#83a598">recusar-se a fornecer informação</span>** requerida nos termos desta Lei, **retardar** deliberadamente o seu fornecimento ou fornecê-la intencionalmente de forma **incorreta, incompleta ou imprecisa**; ^58f047c
 
-	* II - utilizar indevidamente, bem como subtrair, destruir, inutilizar, desfigurar, alterar ou ocultar, total ou parcialmente, informação que se encontre sob sua guarda ou a que tenha acesso ou conhecimento em razão do exercício das atribuições de cargo, emprego ou função pública; ^b51b19c
+	* II - **utilizar indevidamente**, bem como **<span style="color:#83a598">subtrair, destruir, inutilizar, desfigurar, alterar ou ocultar</span>**, total ou parcialmente, <u>informação que se encontre sob sua guarda ou a que tenha acesso ou conhecimento em razão do exercício</u> das atribuições de cargo, emprego ou função pública; ^b51b19c
 
-	* III - agir com dolo ou má-fé na análise das solicitações de acesso à informação; ^dbdf2e9
+	* III - **<span style="color:#83a598">agir com dolo ou má-fé</span>** na **análise** das solicitações de acesso à informação; ^dbdf2e9
 
-	* IV - divulgar ou permitir a divulgação ou acessar ou permitir acesso indevido à informação sigilosa ou informação pessoal; ^fb41e4a
+	* IV - divulgar ou permitir a divulgação ou acessar ou permitir **<span style="color:#83a598">acesso indevido à informação sigilosa ou informação pessoal</span>**; ^fb41e4a
 
-	* V - impor sigilo à informação para obter proveito pessoal ou de terceiro, ou para fins de ocultação de ato ilegal cometido por si ou por outrem; ^366d69c
+	* V - **<span style="color:#83a598">impor sigilo</span>** à informação para obter proveito pessoal ou de terceiro, ou para fins de ocultação de ato ilegal cometido por si ou por outrem; ^366d69c
 
-	* VI - ocultar da revisão de autoridade superior competente informação sigilosa para beneficiar a si ou a outrem, ou em prejuízo de terceiros; e ^fa72f3c
+	* VI - **<span style="color:#83a598">ocultar da revisão</span>** de autoridade superior competente **informação sigilosa para beneficiar a si ou a outrem, ou em prejuízo de terceiros;** e ^fa72f3c
 
-	* VII - destruir ou subtrair, por qualquer meio, documentos concernentes a possíveis violações de direitos humanos por parte de agentes do Estado. ^3386051
+	* VII - **<span style="color:#83a598">destruir ou subtrair</span>**, por qualquer meio, **documentos** concernentes a possíveis **violações de direitos humanos** por parte de agentes do Estado. ^3386051
 
 	* § 1° Atendido o princípio do contraditório, da ampla defesa e do devido processo legal, as condutas descritas no caput serão consideradas: ^2137d3f
 
-		* I - para fins dos regulamentos disciplinares das Forças Armadas, transgressões militares médias ou graves, segundo os critérios neles estabelecidos, desde que não tipificadas em lei como crime ou contravenção penal; ou ^8f35e02
+		* I - para fins dos regulamentos disciplinares das Forças Armadas, **transgressões militares médias ou graves**, segundo os critérios neles estabelecidos, desde que não tipificadas em lei como crime ou contravenção penal; ou ^8f35e02
 
-		* II - para fins do disposto na Lei n° 8.112, de 11 de dezembro de 1990, e suas alterações, infrações administrativas, que deverão ser apenadas, no mínimo, com suspensão, segundo os critérios nela estabelecidos. ^eb2f89e
+		* II - para fins do disposto na Lei n° 8.112, de 11 de dezembro de 1990, e suas alterações, infrações administrativas, que deverão ser apenadas, **no mínimo, com suspensão**, segundo os critérios nela estabelecidos. ^eb2f89e
 
 	* § 2° Pelas condutas descritas no caput, poderá o militar ou agente público responder, também, por improbidade administrativa, conforme o disposto nas Leis n°s 1.079, de 10 de abril de 1950, e 8.429, de 2 de junho de 1992. ^f99eade
 
-* Art. 33. A pessoa física ou entidade privada que detiver informações em virtude de vínculo de qualquer natureza com o poder público e deixar de observar o disposto nesta Lei estará sujeita às seguintes sanções: ^5cc976c
+* Art. 33. A pessoa física ou entidade privada que detiver informações em virtude de vínculo de qualquer natureza com o poder público e deixar de observar o disposto nesta Lei estará sujeita às seguintes **<span style="color:#fb4934">sanções</span>**: ^5cc976c
 
-	* I - advertência; ^ae8ed2c
+	* I - **<span style="color:#83a598">advertência</span>**; ^ae8ed2c
 
-	* II - multa; ^9705b23
+	* II - **<span style="color:#83a598">multa</span>**; ^9705b23
 
-	* III - rescisão do vínculo com o poder público; ^4632a13
+	* III - **<span style="color:#83a598">rescisão do vínculo</span>** com o poder público; ^4632a13
 
-	* IV - suspensão temporária de participar em licitação e impedimento de contratar com a administração pública por prazo não superior a 2 (dois) anos; e ^a021703
+	* IV - **<span style="color:#83a598">suspensão</span>** temporária de participar em **licitação e impedimento de contratar** com a administração pública por **<span style="color:#b8bb26">prazo não superior a 2 (dois) anos</span>**; e ^a021703
 
-	* V - declaração de inidoneidade para licitar ou contratar com a administração pública, até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade. ^7e2f6da
+	* V - **<span style="color:#83a598">declaração de inidoneidade</span>** para **licitar ou contratar** com a administração pública, até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade. ^7e2f6da
 
 	* § 1° As sanções previstas nos incisos [[#^ae8ed2c|I]], [[#^4632a13|III]] e [[#^a021703|IV]] poderão ser aplicadas juntamente com a do inciso [[#^9705b23|II]], assegurado o direito de defesa do interessado, no respectivo processo, no prazo de 10 (dez) dias. ^7622ec3
 
-	* § 2° A reabilitação referida no inciso [[#^7e2f6da|V]] será autorizada somente quando o interessado efetivar o ressarcimento ao órgão ou entidade dos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso [[#^a021703|IV]]. ^3779d40
+	* § 2° A <u>**reabilitação**</u> referida no inciso [[#^7e2f6da|V]] será autorizada **somente quando o interessado efetivar o ressarcimento ao órgão ou entidade dos prejuízos** resultantes e **após decorrido o prazo da sanção aplicada com base no inciso** [[#^a021703|IV]]. ^3779d40
 
 	* § 3° A aplicação da sanção prevista no inciso [[#^7e2f6da|V]] é de competência exclusiva da autoridade máxima do órgão ou entidade pública, facultada a defesa do interessado, no respectivo processo, no prazo de 10 (dez) dias da abertura de vista. ^08c9aaf
 
