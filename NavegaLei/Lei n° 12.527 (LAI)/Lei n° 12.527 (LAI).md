@@ -52,13 +52,13 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* V - tratamento da informação: conjunto de ações referentes à produção, recepção, classificação, utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da informação; ^9adac20
 
-	* VI - disponibilidade: qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados; ^2905bc0
+	* VI - <u>disponibilidade</u>: qualidade da informação que pode ser **conhecida e utilizada** por indivíduos, equipamentos ou sistemas autorizados; ^2905bc0
 
-	* VII - autenticidade: qualidade da informação que tenha sido produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema; ^a12cdc4
+	* VII - <u>autenticidade</u>: qualidade da informação que tenha sido **produzida, expedida, recebida ou modificada** por determinado **indivíduo, equipamento ou sistema**; ^a12cdc4
 
-	* VIII - integridade: qualidade da informação não modificada, inclusive quanto à origem, trânsito e destino; ^d59e862
+	* VIII - <u>integridade</u>: qualidade da informação **não modificada**, inclusive quanto à **origem, trânsito e destino**; ^d59e862
 
-	* IX - primariedade: qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações. ^aa5b2f1
+	* IX - <u>primariedade</u>: qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações. ^aa5b2f1
 
 * Art. 5° É dever do Estado garantir o direito de acesso à informação, que será franqueada, mediante procedimentos objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão. ^30f4637
 
