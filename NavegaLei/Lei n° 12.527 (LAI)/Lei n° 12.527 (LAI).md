@@ -97,17 +97,17 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* § 1° O acesso à informação previsto no caput **<span style="color:#fb4934">não</span>** compreende as informações referentes a projetos de pesquisa e desenvolvimento científicos ou tecnológicos cujo **<span style="color:#fb4934">sigilo seja imprescindível à segurança da sociedade e do Estado.</span>** ^470709d
 
-	* § 2° Quando não for autorizado acesso integral à informação por ser ela parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo. ^5bdaa83
+	* § 2° Quando <span style="color:#fb4934">não for autorizado</span> <u>acesso integral</u> à informação por ser ela <u>parcialmente sigilosa</u>, é **assegurado o acesso à parte não sigilosa** por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo. ^5bdaa83
 
 	* § 3° O direito de acesso aos documentos ou às informações neles contidas utilizados como fundamento da tomada de decisão e do ato administrativo será assegurado com a edição do ato decisório respectivo. ^aeb1f88
 
 	* § 4° A negativa de acesso às informações objeto de pedido formulado aos órgãos e entidades referidas no art. [[#^77575b2|1°]], quando não fundamentada, sujeitará o responsável a medidas disciplinares, nos termos do art. [[#^dc8db5e|32]] desta Lei. ^d60111a
 
-	* § 5° Informado do extravio da informação solicitada, poderá o interessado requerer à autoridade competente a imediata abertura de sindicância para apurar o desaparecimento da respectiva documentação. ^bea5761
+	* § 5° Informado do extravio da informação solicitada, poderá o interessado requerer à autoridade competente a **imediata** abertura de **sindicância** para apurar o desaparecimento da respectiva documentação. ^bea5761
 
-	* § 6° Verificada a hipótese prevista no § [[#^bea5761|5°]] deste artigo, o responsável pela guarda da informação extraviada deverá, no prazo de 10 (dez) dias, justificar o fato e indicar testemunhas que comprovem sua alegação. ^ae488a2
+	* § 6° Verificada a hipótese prevista no § [[#^bea5761|5°]] deste artigo, o responsável pela guarda da informação extraviada deverá, no **<span style="color:#b8bb26">prazo de 10 (dez) dias,</span>** justificar o fato e indicar testemunhas que comprovem sua alegação. ^ae488a2
 
-* Art. 8° É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas. ^4778042
+* Art. 8° É **==dever==** dos órgãos e entidades públicas promover, **==independentemente de requerimentos==**, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas. ^4778042
 
 	* § 1° Na divulgação das informações a que se refere o caput, deverão constar, no mínimo: ^289bdd5
 
@@ -143,9 +143,9 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 		* VIII - adotar as medidas necessárias para garantir a acessibilidade de conteúdo para pessoas com deficiência, nos termos do art. 17 da Lei n° 10.098, de 19 de dezembro de 2000, e do art. 9° da Convenção sobre os Direitos das Pessoas com Deficiência, aprovada pelo Decreto Legislativo n° 186, de 9 de julho de 2008. ^2b44c67
 
-	* § 4° Os Municípios com população de até 10.000 (dez mil) habitantes ficam dispensados da divulgação obrigatória na internet a que se refere o § [[#^1615357|2°]], mantida a obrigatoriedade de divulgação, em tempo real, de informações relativas à execução orçamentária e financeira, nos critérios e prazos previstos no art. 73-B da Lei Complementar n° 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal). ^1c7a800
+	* § 4° **<span style="color:#fe8019">Os Municípios</span>** com população de até **<span style="color:#b8bb26">10.000 (dez mil) habitantes</span>** ficam **<span style="color:#83a598">dispensados da divulgação obrigatória na internet</span>** a que se refere o § [[#^1615357|2°]], mantida a obrigatoriedade de divulgação, em tempo real, de informações relativas à execução orçamentária e financeira, nos critérios e prazos previstos no art. 73-B da Lei Complementar n° 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal). ^1c7a800
 
-* Art. 8°-A. As entidades com personalidade jurídica de direito privado, constituídas sob a forma de serviço social autônomo, que sejam destinatárias de contribuições ou de recursos públicos federais decorrentes de contrato de gestão deverão divulgar as seguintes informações relativas aos respectivos empregados: (Incluído pela Lei n° 15.141, de 2025) ^72fd044
+* Art. 8°-A. As entidades com personalidade jurídica de direito privado, constituídas sob a forma de **<span style="color:#fe8019">serviço social autônomo</span>**, que sejam **<span style="color:#b8bb26">destinatárias de contribuições ou de recursos públicos federais decorrentes de contrato de gestão</span>** deverão **<span style="color:#83a598">divulgar</span>** as seguintes informações relativas aos respectivos empregados: (Incluído pela Lei n° 15.141, de 2025) ^72fd044
 
 	* I - o plano de cargos e salários, inclusive com a divulgação dos critérios para a evolução na carreira e para a fixação da política salarial; (Incluído pela Lei n° 15.141, de 2025) ^7f782dc
 
@@ -175,25 +175,25 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 ## 3.1. SEÇÃO I - DO PEDIDO DE ACESSO (ARTS. 10 A 14)
 [[NavegaLei/Lei n° 12.527 (LAI)/MOC/3.1. SEÇÃO I - DO PEDIDO DE ACESSO (ARTS. 10 A 14)|Resumo]]
 
-* Art. 10. Qualquer interessado poderá apresentar pedido de acesso a informações aos órgãos e entidades referidos no art. [[#^77575b2|1°]] desta Lei, por qualquer meio legítimo, devendo o pedido conter a identificação do requerente e a especificação da informação requerida. ^68b4123
+* Art. 10. **==Qualquer interessado==** poderá apresentar pedido de acesso a informações aos órgãos e entidades referidos no art. [[#^77575b2|1°]] desta Lei, por qualquer meio legítimo, devendo o pedido conter a **<span style="color:#83a598">identificação do requerente e a especificação da informação requerida.</span>** ^68b4123
 
-	* § 1° Para o acesso a informações de interesse público, a identificação do requerente não pode conter exigências que inviabilizem a solicitação. ^a80943e
+	* § 1° Para o acesso a informações de interesse público, a identificação do **<span style="color:#fb4934">requerente não pode conter exigências que inviabilizem a solicitação.</span>** ^a80943e
 
 	* § 2° Os órgãos e entidades do poder público devem viabilizar alternativa de encaminhamento de pedidos de acesso por meio de seus sítios oficiais na internet. ^cb55b78
 
-	* § 3° São vedadas quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público. ^357c59e
+	* § 3° São **<span style="color:#fb4934">vedadas quaisquer exigências relativas aos motivos determinantes</span>** da solicitação de informações de interesse público. ^357c59e
 
-* Art. 11. O órgão ou entidade pública deverá autorizar ou conceder o acesso imediato à informação disponível. ^04140f2
+* Art. 11. O **<span style="color:#fe8019">órgão ou entidade pública</span>** deverá **<span style="color:#83a598">autorizar ou conceder</span>** o acesso imediato à informação disponível. ^04140f2
 
-	* § 1° Não sendo possível conceder o acesso imediato, na forma disposta no caput, o órgão ou entidade que receber o pedido deverá, em prazo não superior a 20 (vinte) dias: ^ec72aa0
+	* § 1° **<span style="color:#fb4934">Não sendo possível conceder o acesso imediato</span>**, na forma disposta no caput, o órgão ou entidade que receber o pedido deverá, em **<span style="color:#b8bb26">prazo não superior a 20 (vinte) dias:</span>** ^ec72aa0
 
-		* I - comunicar a data, local e modo para se realizar a consulta, efetuar a reprodução ou obter a certidão; ^4a7f283
+		* I - **<span style="color:#83a598">comunicar a data, local e modo</span>** para se realizar a consulta, efetuar a reprodução ou obter a certidão; ^4a7f283
 
-		* II - indicar as razões de fato ou de direito da recusa, total ou parcial, do acesso pretendido; ou ^56b140d
+		* II - **<span style="color:#83a598">indicar as razões de fato ou de direito</span>** da recusa, total ou parcial, do acesso pretendido; ou ^56b140d
 
-		* III - comunicar que não possui a informação, indicar, se for do seu conhecimento, o órgão ou a entidade que a detém, ou, ainda, remeter o requerimento a esse órgão ou entidade, cientificando o interessado da remessa de seu pedido de informação. ^e2c85ca
+		* III - **<span style="color:#83a598">comunicar que não possui a informação</span>**, indicar, se for do seu conhecimento, o órgão ou a entidade que a detém, ou, ainda, remeter o requerimento a esse órgão ou entidade, cientificando o interessado da remessa de seu pedido de informação. ^e2c85ca
 
-	* § 2° O prazo referido no § [[#^ec72aa0|1°]] poderá ser prorrogado por mais 10 (dez) dias, mediante justificativa expressa, da qual será cientificado o requerente. ^a8e1d61
+	* § 2° O prazo referido no § [[#^ec72aa0|1°]] **<span style="color:#b8bb26">poderá ser prorrogado por mais 10 (dez) dias, mediante justificativa expressa</span>**, da qual será cientificado o requerente. ^a8e1d61
 
 	* § 3° Sem prejuízo da segurança e da proteção das informações e do cumprimento da legislação aplicável, o órgão ou entidade poderá oferecer meios para que o próprio requerente possa pesquisar a informação de que necessitar. ^94729b1
 
