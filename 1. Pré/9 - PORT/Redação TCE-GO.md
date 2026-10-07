@@ -95,5 +95,5 @@ Evite também as redundâncias "e, também" e "como, por exemplo", substituindo 
  - e
  - como 
 
-# Coerência
+# Tipos Textuais: Descrição x narração x dissertação
 
