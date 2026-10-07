@@ -126,4 +126,18 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 
 ![[Redação TCE-GO.png]]
 
+## Estrutura Formal
+
+![[Redação TCE-GO-1.png]]
+
+## Relação entre estrutura formal e argumentativa
+
+- Introdução: deve conter a **<span style="color:#fb4934">tese</span>** e pode conter o **<span style="color:#b8bb26">assunto</span>**, o **<span style="color:#83a598">tema</span>** e a relação dos **<span style="color:#fe8019">tópicos</span>**
+- Desenvolvimento: deve conter os **<span style="color:#fe8019">tópicos</span>**
+- Conclusão: deve conter a **<span style="color:#fb4934">tese</span>** e pode conter o resumo dos **<span style="color:#fe8019">tópicos</span>**
+
+![[Redação TCE-GO-2.png]]
+
+
+
 
