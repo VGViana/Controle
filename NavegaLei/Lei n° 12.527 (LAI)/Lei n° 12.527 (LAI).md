@@ -250,7 +250,7 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* § 1° (VETADO). ^49d13f4
 
-	* § 2° Os órgãos do Poder Judiciário e do Ministério Público informarão ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, respectivamente, as decisões que, em grau de recurso, negarem acesso a informações de interesse público. ^8d08a18
+	* § 2° <span style="color:#fe8019">Os órgãos do Poder Judiciário e do Ministério Público informarão ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, respectivamente, as decisões que, em grau de recurso, negarem acesso a informações de interesse público.</span> ^8d08a18
 
 * Art. 20. Aplica-se subsidiariamente, no que couber, a Lei n° 9.784, de 29 de janeiro de 1999, ao procedimento de que trata este Capítulo. ^7798582
 
@@ -260,16 +260,16 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 ## 4.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 21 A 22)
 [[NavegaLei/Lei n° 12.527 (LAI)/MOC/4.1. SEÇÃO I - DISPOSIÇÕES GERAIS (ARTS. 21 A 22)|Resumo]]
 
-* Art. 21. Não poderá ser negado acesso à informação necessária à tutela judicial ou administrativa de direitos fundamentais. ^41903be
+* Art. 21. **<span style="color:#fb4934">Não poderá ser negado acesso</span>** à informação necessária à **<span style="color:#83a598">tutela judicial ou administrativa de direitos fundamentais</span>**. ^41903be
 
-	* Parágrafo único. As informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos ou a mando de autoridades públicas não poderão ser objeto de restrição de acesso. ^f4c6dc1
+	* Parágrafo único. As informações ou documentos que versem sobre **<span style="color:#83a598">condutas que impliquem violação dos direitos humanos</span>** praticada por agentes públicos ou a mando de autoridades públicas **<span style="color:#fb4934">não poderão ser objeto de restrição</span>** de acesso. ^f4c6dc1
 
 * Art. 22. O disposto nesta Lei não exclui as demais hipóteses legais de sigilo e de segredo de justiça nem as hipóteses de segredo industrial decorrentes da exploração direta de atividade econômica pelo Estado ou por pessoa física ou entidade privada que tenha qualquer vínculo com o poder público. ^1687197
 
 ## 4.2. SEÇÃO II - DA CLASSIFICAÇÃO DA INFORMAÇÃO QUANTO AO GRAU E PRAZOS DE SIGILO (ARTS. 23 A 24)
 [[NavegaLei/Lei n° 12.527 (LAI)/MOC/4.2. SEÇÃO II - DA CLASSIFICAÇÃO DA INFORMAÇÃO QUANTO AO GRAU E PRAZOS DE SIGILO (ARTS. 23 A 24)|Resumo]]
 
-* Art. 23. São consideradas imprescindíveis à segurança da sociedade ou do Estado e, portanto, passíveis de classificação as informações cuja divulgação ou acesso irrestrito possam: ^382bb16
+* Art. 23. São consideradas **<span style="color:#83a598">imprescindíveis à segurança da sociedade ou do Estado</span>** e, portanto, passíveis de classificação as informações cuja divulgação ou acesso irrestrito possam: ^382bb16
 
 	* I - pôr em risco a defesa e a soberania nacionais ou a integridade do território nacional; ^57b7961
 
@@ -291,17 +291,17 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* § 1° Os prazos máximos de restrição de acesso à informação, conforme a classificação prevista no caput, vigoram a partir da data de sua produção e são os seguintes: ^62828bf
 
-		* I - ultrassecreta: 25 (vinte e cinco) anos; ^501ddc1
+		* I - **<span style="color:#fb4934">ultrassecreta: 25</span>** (vinte e cinco) anos; ^501ddc1
 
-		* II - secreta: 15 (quinze) anos; e ^541b393
+		* II - **<span style="color: #d79921">secreta: 15</span>** (quinze) anos; e ^541b393
 
-		* III - reservada: 5 (cinco) anos. ^9cb4220
+		* III - **<span style="color:#b8bb26">reservada: 5</span>** (cinco) anos. ^9cb4220
 
-	* § 2° As informações que puderem colocar em risco a segurança do Presidente e Vice-Presidente da República e respectivos cônjuges e filhos(as) serão classificadas como reservadas e ficarão sob sigilo até o término do mandato em exercício ou do último mandato, em caso de reeleição. ^f32ea15
+	* § 2° As informações que puderem colocar em risco a segurança do **==Presidente e Vice-Presidente da República==** e respectivos **==cônjuges e filhos(as)==** serão classificadas como **<span style="color:#b8bb26"><u>reservadas</u></span>** e ficarão **<span style="color:#b8bb26">sob sigilo até o término do mandato em exercício ou do último mandato, em caso de reeleição</span>**. ^f32ea15
 
 	* § 3° Alternativamente aos prazos previstos no § [[#^62828bf|1°]], poderá ser estabelecida como termo final de restrição de acesso a ocorrência de determinado evento, desde que este ocorra antes do transcurso do prazo máximo de classificação. ^44c7b8a
 
-	* § 4° Transcorrido o prazo de classificação ou consumado o evento que defina o seu termo final, a informação tornar-se-á, automaticamente, de acesso público. ^e1f5c3e
+	* § 4° **<span style="color:#b8bb26">Transcorrido o prazo de classificação</span>** ou consumado o evento que defina o seu termo final, a **<span style="color:#83a598">informação tornar-se-á, automaticamente, de acesso público</span>**. ^e1f5c3e
 
 	* § 5° Para a classificação da informação em determinado grau de sigilo, deverá ser observado o interesse público da informação e utilizado o critério menos restritivo possível, considerados: ^47cf4a5
 
