@@ -58,7 +58,7 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 	* VIII - <u>integridade</u>: qualidade da informação **não modificada**, inclusive quanto à **origem, trânsito e destino**; ^d59e862
 
-	* IX - <u>primariedade</u>: qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações. ^aa5b2f1
+	* IX - <u>primariedade</u>: qualidade da informação **coletada na fonte**, com o máximo de detalhamento possível, sem modificações. ^aa5b2f1
 
 * Art. 5° É dever do Estado garantir o direito de acesso à informação, que será franqueada, mediante procedimentos objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão. ^30f4637
 
