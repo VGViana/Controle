@@ -239,7 +239,7 @@ Atividades agrupadas e funções especializadas semelhantes (produção, vendas,
 
 **‼️️ FCC cobra as diferenças entre a estrutura funcional e matricial**, veja: [#3154907](https://www.tecconcursos.com.br/questoes/3154907)
 
-**7. TIPOS DE ESTRUTURA ORGANIZACIONAL**
+# **7. TIPOS DE ESTRUTURA ORGANIZACIONAL**
 
 - **Burocrática**
     - Características
@@ -258,15 +258,15 @@ Atividades agrupadas e funções especializadas semelhantes (produção, vendas,
     - Necessidade de firmar parcerias para buscar a excelência;
     - Partes são conectadas de maneira interdependente;
     - Exercício das atividades é autônomo e coordenado;
-    - **Vantagens**: baixo custo, adaptabilidade e flexibilidade, possibilidade de proliferação das unidades de negócio, permite virtualização do negócio (terceirização);
-    - **Problemas**: aumenta a dependência em relação a outras organizações, menor controle sobre componentes-chave do negócio (lembre-se do Covid-19, um país entrava em quarentena e prejudicava toda uma cadeia de produção).
+    - **<span style="color:#b8bb26">Vantagens</span>**: baixo custo, adaptabilidade e flexibilidade, possibilidade de proliferação das unidades de negócio, permite virtualização do negócio (terceirização);
+    - **<span style="color:#fb4934">Problemas</span>**: aumenta a dependência em relação a outras organizações, menor controle sobre componentes-chave do negócio (lembre-se do Covid-19, um país entrava em quarentena e prejudicava toda uma cadeia de produção).
 - **Virtual:**
-    - **Terceirização**;
+    - **<u>Terceirização</u>**;
     - Utiliza-se das tecnologias de informação e comunicação;
     - Flexíveis e baixos custos operacionais;
-    - **Problemas**: menor controle sobre componentes-chave do negócio (lembre-se do Covid-19, um país entrava em quarentena e prejudicava toda uma cadeia de produção).
+    - **<span style="color:#fb4934">Problemas</span>**: menor controle sobre componentes-chave do negócio (lembre-se do Covid-19, um país entrava em quarentena e prejudicava toda uma cadeia de produção).
 
-**8. METÁFORAS ORGANIZACIONAIS**
+# **8. METÁFORAS ORGANIZACIONAIS**
 
 | Metáfora                  | Associação                                                                                          |
 | ------------------------- | --------------------------------------------------------------------------------------------------- |
