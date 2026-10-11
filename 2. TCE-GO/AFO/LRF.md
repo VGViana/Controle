@@ -682,7 +682,7 @@ Com efeito, **<span style="color:#fb4934">é vedada</span>** **a aplicação das
 
 ## 12.2. Da Preservação do Patrimônio Público (**Art. 44)**
 
-**<span style="color:#fb4934">É vedada</span> a aplicação da receita de capital derivada da alienação de <span style="color:#fe8019">bens e direitos</span> para o financiamento de despesa corrente, <span style="color:#fb4934">salvo</span> se destinada por lei aos <span style="color:#b8bb26">regimes de previdência social</span>, <span style="color:#b8bb26">geral e próprio</span> dos servidores públicos.**
+> **<span style="color:#fb4934">É vedada</span> a aplicação da receita de capital derivada da alienação de <span style="color:#fe8019">bens e direitos</span> para o financiamento de despesa corrente, <span style="color:#fb4934">salvo</span> se destinada por lei aos <span style="color:#b8bb26">regimes de previdência social</span>, <span style="color:#b8bb26">geral e próprio</span> dos servidores públicos.**
 
 Portanto, **<span style="color:#fb4934">pode usar receita derivada da alienação</span>** **de bens e direitos para:**
 
