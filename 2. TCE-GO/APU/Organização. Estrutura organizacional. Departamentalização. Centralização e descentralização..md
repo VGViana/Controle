@@ -166,7 +166,7 @@ Atividades agrupadas e funções especializadas semelhantes (produção, vendas,
 
 - Quando a estrutura organizacional é composta por mais de um tipo de departamentalização;
 
-**4.8. Matriz/ Grade**
+## **4.8. Matriz/ Grade**
 
 - Tipo de departamentalização híbrida;
 - Há sobreposição de **dois ou mais tipos de departamentalização sobre a mesma pessoa**;
@@ -176,9 +176,9 @@ Atividades agrupadas e funções especializadas semelhantes (produção, vendas,
 - Facilita a comunicação e aumenta a flexibilidade;
 - Indicada para ambientes mais dinâmicos e instáveis;
 - Ex.: departamentalização funcional com departamentalização por projetos;
-- **Desvantagens**:
-	- **Dupla subordinação;**
-	- **Diluição da responsabilidade;**
+- **<span style="color:#fb4934">Desvantagens</span>**:
+	- **<span style="color:#fb4934">Dupla subordinação</span>;**
+	- **<span style="color:#fb4934">Diluição da responsabilidade;</span>**
 
 # **5. ORGANIZAÇÃO MECANICISTA X ORGÂNICA**
 
