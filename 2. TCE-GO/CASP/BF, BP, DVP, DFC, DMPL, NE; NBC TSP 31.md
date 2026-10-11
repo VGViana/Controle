@@ -504,27 +504,27 @@ A informação evidenciada nas notas explicativas às demonstrações contábeis
 
 **Custos de transação** são custos **<span style="color:#b8bb26">incrementais</span>** diretamente atribuíveis à aquisição, emissão ou alienação de ativo financeiro ou passivo financeiro.
 
-**Custo incremental** é aquele que **não teria sido incorrido se a entidade não tivesse adquirido,** emitido ou alienado o instrumento financeiro.
+**Custo incremental** é aquele que **<span style="color:#b8bb26">não teria sido incorrido se a entidade não tivesse adquirido</span>,** emitido ou alienado o instrumento financeiro.
 
-**Derivativo embutido** é um componente de contrato híbrido que inclui também um **componente principal não derivativo** – com o efeito de que parte dos fluxos de caixa do instrumento combinado varia de forma similar ao derivativo individual.
+**Derivativo embutido** é um componente de contrato híbrido que inclui também um **<span style="color:#b8bb26">componente principal não derivativo</span>** – com o efeito de que parte dos fluxos de caixa do instrumento combinado varia de forma similar ao derivativo individual.
 
-**7.2. Reconhecimento e desreconhecimento** 
+## **7.2. Reconhecimento e desreconhecimento** 
 
-**7.2.1. RECONHECIMENTO INICIAL**
+### **7.2.1. RECONHECIMENTO INICIAL**
 
-A entidade deve reconhecer um ativo ou passivo financeiro em seu balanço **patrimonial** quando, e apenas quando, a entidade se **tornar parte das disposições contratuais do instrumento.**
+A entidade deve reconhecer um ativo ou passivo financeiro em seu balanço **<span style="color:#b8bb26">patrimonial</span>** quando, e apenas quando, a entidade se **<span style="color:#d3869b">tornar parte das disposições contratuais do instrumento</span>.**
 
-**7.2.2. DESRECONHECIMENTO** 
+### **7.2.2. DESRECONHECIMENTO** 
 
 A entidade deve desreconhecer o ativo financeiro quando, e apenas quando:
 
-(a) os direitos contratuais aos fluxos de caixa do ativo financeiro **expirarem ou forem renunciados**; ou
+(a) os direitos contratuais aos fluxos de caixa do ativo financeiro **<span style="color:#d3869b">expirarem ou forem renunciados</span>**; ou
 
 (b) ela transferir o ativo financeiro e a transferência se qualificar para o desreconhecimento
 
-A entidade deve **baixar o passivo financeiro** (ou parte do passivo financeiro) de seu balanço patrimonial quando, e apenas quando, ele for **extinto** – ou seja, quando a obrigação especificada no contrato for liberada, dispensada, cancelada ou vencer.
+A entidade deve **<span style="color:#d3869b">baixar o passivo financeiro</span>** (ou parte do passivo financeiro) de seu balanço patrimonial quando, e apenas quando, ele for **<span style="color:#d3869b">extinto</span>** – ou seja, quando a obrigação especificada no contrato for liberada, dispensada, cancelada ou vencer.
 
-**7.2.3. TRANSFERÊNCIA**
+### **7.2.3. TRANSFERÊNCIA**
 
 A entidade deve transferir o ativo financeiro se, e apenas se:
 
@@ -546,8 +546,8 @@ O ativo financeiro deve ser mensurado ao valor justo reconhecido diretamente no 
 
 (b) os termos contratuais do ativo financeiro derem origem, em datas especificadas, a fluxos de caixa que constituam exclusivamente pagamentos de principal e juros sobre o valor do principal em aberto.
 
-**7.4. RECLASSIFICAÇÃO**
+## **7.4. RECLASSIFICAÇÃO**
 
-Quando, e somente quando, a entidade mudar seu modelo de negócios para os ativos financeiros, ela deve reclassificar todos os ativos financeiros afetados
+Quando, e somente quando, a entidade mudar seu modelo de negócios para os ativos financeiros, ela deve reclassificar <span style="color:#d3869b">todos</span> os ativos financeiros afetados
 
-A entidade **não** deve reclassificar qualquer **passivo** financeiro
+A entidade **<span style="color:#fb4934">não</span>** deve reclassificar qualquer **<span style="color:#fb4934">passivo</span>** financeiro
