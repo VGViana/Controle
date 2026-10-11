@@ -352,10 +352,10 @@ Sobre o limite máximo: não alcançada a redução no prazo estabelecido e enqu
 
 Perceba alguns pontos importantes:
 
-- 1) A exceção para **sentença judicial ou de determinação legal ou contratual, e** **<span style="color:#fe8019">revisão geral anual</span>,** **sempre na mesma data e sem distinção de índices**.
-- 2) Deve ocorrer aumento de despesa (Alterações de estrutura de carreira que **<span style="color:#fb4934">impliquem diminuição de despesas não estão proibidas</span>**)
-- 3) É para reposição somente no caso de **<span style="color:#b8bb26">aposentadoria e falecimento</span>** e somente para **<span style="color:#d3869b">educação, saúde e segurança</span>** (**<span style="color:#fb4934">Assistência social não é exceção</span>**). ❌Além disso não confunda com as exceções para recebimento de transferências voluntárias.
-- 4) **<span style="color:#fb4934">Pode hora extra para convocação extraordinária</span>** pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal ou a requerimento da maioria dos membros de ambas as Casas, em caso de **<span style="color:#d3869b">urgência ou interesse público relevante</span>**, em todas as hipóteses com a aprovação da **<span style="color:#b8bb26">maioria absoluta</span>** de cada uma das Casas do Congresso Nacional. 
+1) A exceção para **sentença judicial ou de determinação legal ou contratual, e** **<span style="color:#fe8019">revisão geral anual</span>,** **sempre na mesma data e sem distinção de índices**.
+2) Deve ocorrer aumento de despesa (Alterações de estrutura de carreira que **<span style="color:#fb4934">impliquem diminuição de despesas não estão proibidas</span>**)
+3) É para reposição somente no caso de **<span style="color:#b8bb26">aposentadoria e falecimento</span>** e somente para **<span style="color:#d3869b">educação, saúde e segurança</span>** (**<span style="color:#fb4934">Assistência social não é exceção</span>**). ❌Além disso não confunda com as exceções para recebimento de transferências voluntárias.
+4) **<span style="color:#fb4934">Pode hora extra para convocação extraordinária</span>** pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal ou a requerimento da maioria dos membros de ambas as Casas, em caso de **<span style="color:#d3869b">urgência ou interesse público relevante</span>**, em todas as hipóteses com a aprovação da **<span style="color:#b8bb26">maioria absoluta</span>** de cada uma das Casas do Congresso Nacional. 
 
 | **EXCEÇÕES PARA CONTRATAÇÃO DE PESSOAL QUANDO DESPESA TOTAL COM PESSOAL EXCEDER O LIMITE PRUDENCIAL (95%)** | **EXCEÇÕES PARA RECEBIMENTO DE TRANSFERÊNCIAS VOLUNTÁRIAS** |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
