@@ -49,7 +49,7 @@ Receita corrente líquida é o **somatório das receitas correntes** (**<span st
 
 Como estamos tratando da receita corrente líquida, há receitas que devem ser deduzidas do cálculo e você <span style="color:#fb4934">obrigatoriamente</span> deve saber quais são.
 
-![[LRF.png]]
+![[Controle/2. TCE-GO/AFO/imagens/LRF.png]]
 
 E também computam-se:
 
@@ -65,7 +65,7 @@ A receita corrente líquida será apurada somando-se as receitas arrecadadas no 
 
 É essencial que você saiba que a LDO contêm dois anexos, o de metas fiscais e o de riscos fiscais, não confunda os dois.
 
-![[LRF-1.png]]
+![[Controle/2. TCE-GO/AFO/imagens/LRF-1.png]]
 
 Há mais detalhes na LRF sobre o anexo de metas fiscais, fique atento às palavras destacadas para memorizar os principais pontos desse anexo:
 
@@ -414,3 +414,289 @@ A destinação deverá:
 **Salvo mediante lei específica**, **<span style="color:#fb4934">não</span>** poderão ser utilizados recursos públicos, inclusive de operações de crédito, para socorrer instituições do **<span style="color:#fb4934">Sistema Financeiro Nacional</span>**, **<span style="color:#b8bb26">ainda que</span>** mediante a concessão de empréstimos de recuperação ou financiamentos para mudança de controle acionário.
 
 Na concessão de crédito por ente da Federação a pessoa física, ou jurídica que **<span style="color:#b8bb26">não esteja sob seu controle direto ou indireto</span>**, os **<span style="color:#83a598">encargos financeiros, comissões e despesas congêneres</span> <span style="color:#fb4934">não serão inferiores aos definidos em lei ou ao custo de captação</span>**.
+
+# **7.DA DÍVIDA E DO ENDIVIDAMENTO**
+
+## **7.1. DEFINIÇÕES (ALTA POSSIBILIDADE DE COBRANÇA PELA FCC)**
+
+❗Os seguintes conceitos são cobrados nas provas, memorize-os:
+
+> -  _I - dívida pública **consolidada ou fundada:** montante total, apurado **<span style="color:#fb4934">sem duplicidade</span>**, das obrigações financeiras do ente da Federação, assumidas em virtude de **<span style="color:#fb4934">leis, contratos, convênios ou tratados e da realização de operações de crédito</span>**, para amortização em prazo **<span style="color:#d3869b">superior a doze meses</span>;**_ 
+> - _II - dívida pública **mobiliária**: dívida pública representada por títulos emitidos pela **<span style="color:#d3869b">União, inclusive os do Banco Central</span>** do Brasil, Estados e Municípios;_ 
+> - _III - **operação de crédito**: compromisso financeiro assumido em razão de **<span style="color:#d3869b">mútuo, abertura de crédito, emissão e aceite de título, aquisição financiada de bens</span>**, recebimento antecipado de valores provenientes da venda a termo de bens e serviços, arrendamento mercantil e outras operações assemelhadas, <span style="color:#b8bb26">inclusive com o uso de derivativos financeiros</span>;_ 
+> - _IV - **concessão de garantia**: compromisso de **<span style="color:#b8bb26">adimplência</span>** de obrigação financeira ou contratual assumida por ente da Federação ou entidade a ele vinculada;_ 
+> - _V - **refinanciamento da dívida mobiliária:** emissão de títulos para pagamento do **<span style="color:#b8bb26">principal</span>** acrescido da **<span style="color:#b8bb26">atualização monetária.</span>**_
+
+| Operação de Crédito                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _Compromisso financeiro assumido em razão de **<span style="color:#d3869b">mútuo</span>**_                                                                              |
+| _Compromisso financeiro assumido em razão de **<span style="color:#d3869b">abertura de crédito</span>**_                                                                |
+| _Compromisso financeiro assumido em razão de **<span style="color:#d3869b">emissão e aceite de título</span>**_                                                         |
+| _Compromisso financeiro assumido em razão de **<span style="color:#d3869b">aquisição financiada de bens</span>**_                                                       |
+| _Compromisso financeiro assumido em razão de **<span style="color:#d3869b">recebimento antecipado de valores provenientes da venda a termo de bens e serviços</span>**_ |
+| _Compromisso financeiro assumido em razão de **<span style="color:#d3869b">arrendamento mercantil e outras operações assemelhadas</span>**_                             |
+| _Compromisso financeiro assumido em razão de **<span style="color:#d3869b">uso de derivativos financeiros;</span>**_                                                    |
+| _Assunção, o reconhecimento ou a **<span style="color:#d3869b">confissão de dívidas</span>** pelo ente da Federação_                                                    |
+
+### **7.1.1. DÍVIDA PÚBLICA CONSOLIDADA E FLUTUANTE**
+
+Sobre a dívida pública consolidada:
+
+ 🛑Será incluída na dívida pública **<span style="color:#d3869b">consolidada da União</span>** a relativa à emissão de **<span style="color:#d3869b">títulos de responsabilidade do Banco Central do Brasil.</span>**
+
+ 🛑Também integram a dívida pública **<span style="color:#d3869b">consolidada</span>** as operações de crédito de prazo **<span style="color:#83a598">inferior a doze meses cujas receitas tenham constado do orçamento.</span>**
+
+  🛑Os precatórios judiciais **<span style="color:#fb4934">não pagos</span>** durante a execução do orçamento em que houverem sido incluídos integram a dívida **<span style="color:#83a598">consolidada</span>**, **<span style="color:#fb4934">para fins de aplicação dos limites.</span>**
+
+A dívida **consolidada ou fundada** são aquelas com exigibilidade **inferior a doze meses**, MAS SOMENTE SE ESTIVER CONSTANDO NO ORÇAMENTO, e também com exigibilidade **<span style="color:#d3869b">superior a doze meses</span>**, mesmo que **<span style="color:#d3869b"><u>não conste no orçamento</u></span>.**
+
+ATENÇÃO!!! **<span style="color:#fb4934">Não confunda dívida consolidada ou fundada com a flutuante</span>**, que tem sua definição no Art. 92 da Lei 4.320/64:
+
+>  _Art. 92. A dívida ==flutuante== compreende:_ 
+>  - _I - os restos a pagar,_ **_<span style="color:#fb4934">excluídos</span> os serviços da dívida_**_;_ 
+>  - _II - os serviços da dívida_ **_a pagar;_** 
+>  - _III - os depósitos;_ 
+>  - _IV - os_ **_<span style="color:#fb4934">débitos</span>_** _de tesouraria._
+
+Atenção!
+
+a) Dos restos a pagar, **EXCLUEM-SE os serviços da dívida**
+
+b) Os serviços da divida **A PAGAR não são excluídos**
+
+c) os **DÉBITOS** de tesouraria estão incluídos no conceito, **CRÉDITOS de tesouraria não estão.**
+
+### **7.1.2. REFINANCIAMENTO**
+
+🛑O **<span style="color:#83a598">refinanciamento</span>** do principal da dívida mobiliária **<span style="color:#fb4934">não excederá</span>**, ao **<span style="color:#83a598">término de cada exercício financeiro</span>**, o **<span style="color:#fb4934">montante do final do exercício anterior</span>**, <span style="color:#b8bb26">somado</span> ao das **<span style="color:#b8bb26">operações de crédito autorizadas no orçamento</span>** para este efeito e efetivamente realizadas, <span style="color:#b8bb26"><u>acrescido de atualização monetária.</u></span>
+
+## **7.2. PERIODICIDADE**
+
+**💎**Fique atento às periodicidades presentes na LRF:
+
+Verificação da porcentagem de RCL utilizada na **despesa com pessoal**: Ao final de cada **<span style="color:#fb4934">quadrimestre</span>**
+
+Verificação do limite de **dívida <span style="color:#fb4934">consolidada</span>**: Ao final de cada **<span style="color:#fb4934">quadrimestre</span>**
+
+Verificação da realização de **receita**: Ao final de cada **<span style="color:#d3869b">bimestre</span>**
+
+## **7.3. LIMITES**
+
+❗Os limites da dívida pública **<span style="color:#fb4934">não</span>** estão na LRF!
+
+Sobre as competências dos limites, memorize o quadro abaixo (Prazo de **<span style="color:#83a598">noventa dias</span>** após a publicação da LRF): 
+
+| Limites                                                                                                                  | Competências                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Dívida **<span style="color:#fb4934">consolidada</span>** (de **qualquer ente**)                                         | Resolução do Senado Federal                                                  |
+| Dívida **<span style="color:#fb4934">mobiliária</span>** dos **<span style="color:#b8bb26">Estados e Municípios</span>** | Resolução do Senado Federal                                                  |
+| Dívida **<span style="color:#fb4934">mobiliária</span>** federal (da **<span style="color:#b8bb26">União</span>**)       | **<span style="color:#fb4934">Lei</span>** que passa pelo Congresso Nacional |
+
+A seguir constam os limites relacionados aos tipos de dívida e endividamento.
+
+| **Esfera**     | **Dívida consolidada desde 2016**                             | **Dívida mobiliária**  | **Operação de crédito** | **Concessão de garantia** | **ARO**                |
+| -------------- | ------------------------------------------------------------- | ---------------------- | ----------------------- | ------------------------- | ---------------------- |
+| **União**      | **<span style="color:#fb4934">Ainda não foi definido</span>** | Ainda não foi definido | 60%                     | 60%                       | Ainda não foi definido |
+| **Estados**    | **<span style="color:#fb4934">200%</span>**                   | Ainda não foi definido | 16%                     | 22%                       | 7%                     |
+| **Municípios** | **<span style="color:#fb4934">120%</span>**                   | Ainda não foi definido | 16%                     | 22%                       | 7%                     |
+
+### **7.3.1. Da Recondução da Dívida aos Limites** 
+
+Não confunda a recondução do excedente das despesas de pessoal com a dívida consolidada:
+
+- **Despesa de pessoal:** O percentual excedente (somente o excedente) terá de ser **<span style="color:#b8bb26">eliminado nos 2 quadrimestres seguintes</span>**, sendo **<span style="color:#fb4934">pelo menos 1/3</span>** desse excedente eliminado logo no **<span style="color:#fb4934">1º quadrimestre!</span>**
+- **Dívida consolidada:** O excedente deverá ser reconduzido até o **<span style="color:#fb4934">término dos três subsequentes quadrimestres</span>**, reduzindo o excedente em pelo **<span style="color:#fb4934">menos 25%</span>** (vinte e cinco por cento) no **<span style="color:#fb4934">primeiro</span>.**
+
+️Vamos comparar os prazos com a divida consolidada, cuidado para não fazer confusão:
+
+#### **ELIMINAÇÃO DO EXCEDENTE**
+
+DESPESA COM PESSOAL:  **<span style="color:#fb4934">2</span>** QUADRIMESTRES seguintes
+
+DIVIDA CONSOLIDADA: **<span style="color:#fb4934">3</span>** QUADRIMESTRES seguintes
+
+#### **REDUÇÃO MÍNIMA NO PRIMEIRO QUADRIMESTRE**
+
+DESPESA COM PESSOAL: **<span style="color:#fb4934">1/3</span>**
+
+DIVIDA CONSOLIDADA: **<span style="color:#fb4934">25%</span>**
+
+#### **Restrições para quem se mantém em excesso:**
+
+> Art. 31, § 1º **<span style="color:#b8bb26">Enquanto perdurar o excesso</span>**, o ente que nele houver incorrido: 
+> - I - estará proibido de realizar **<span style="color:#b8bb26">operação de crédito</span>** **<span style="color:#d3869b">interna ou externa</span>, <span style="color:#fb4934">inclusive</span>** por **<span style="color:#fb4934">antecipação de receita</span>**, **<span style="color:#83a598">ressalvadas as para pagamento de dívidas mobiliárias;</span>** 
+> - II - obterá **<span style="color:#83a598">resultado primário</span>** necessário à recondução da dívida ao limite, promovendo, entre outras medidas, **<span style="color:#83a598">limitação de empenho</span>**, na forma do art. 9º.
+
+❗O ente está proibido de realizar operação de crédito, **<span style="color:#83a598">mas se essa operação de crédito for para pagar a dívida mobiliária, então ela é permitida!</span>**
+
+**<span style="color:#83a598">Mnemônico:</span> ORE**
+
+- O: Operação de crédito
+- Re: Resultado primário 
+
+Além disso: Vencido o prazo para retorno da dívida ao limite, e **<span style="color:#fb4934">enquanto perdurar o excesso</span>**, o ente ficará também **<span style="color:#b8bb26">impedido de receber transferências voluntárias</span>** da União ou do Estado 
+
+### **7.3.2. EXCEÇÕES AOS PRAZOS**
+
+**❗Preste atenção para as exceções aos prazos p/ redução da dívida pública**
+
+- Aplicação **<span style="color:#fb4934">imediata</span>**: Se estivermos no primeiro quadrimestre do último ano do mandato.
+
+- **Suspensão**: Calamidade pública
+
+- **Duplicação**: Crescimento real baixo ou negativo do PIB
+
+‼️Entende-se por baixo crescimento a taxa de variação real acumulada do PIB inferior a 1%, no período correspondente aos quatro últimos trimestres.
+
+- **Ampliados em até 4 quadrimestres:** Mudanças drásticas na condução das políticas monetária e cambial
+
+# **8.** **DAS OPERAÇÕES DE CRÉDITO (ALTA POSSIBILIDADE DE COBRANÇA PELA FCC)**
+
+## **8.1. DEFINIÇÕES**
+
+A definição de operação de crédito é muito cobrada nas provas, então leia com atenção:
+
+- **Operação de crédito** é compromisso financeiro assumido em razão de **<span style="color:#fb4934">mútuo, abertura de crédito, emissão e aceite de título, aquisição financiada de bens, recebimento antecipado</span>** de valores provenientes da venda a termo de bens e serviços, arrendamento mercantil e outras operações assemelhadas, **<span style="color:#b8bb26"><u>inclusive com o uso de derivativos financeiros;</u></span>**
+
+O **<u>Ministério da Fazenda</u>** verificará o cumprimento dos limites e condições relativos à realização de operações de crédito de cada ente da Federação, **<span style="color:#d3869b">inclusive</span>** das **<span style="color:#d3869b">empresas por eles controladas</span>**, direta ou indiretamente. **<span style="color:#b8bb26">Poderá</span>** haver alteração da finalidade de operação de crédito de Estados, do Distrito Federal e de Municípios **<span style="color:#fb4934">sem a necessidade de nova verificação pelo Ministério da Economia</span>**, desde que haja **<span style="color:#b8bb26">prévia e expressa autorização para tanto</span>,** no texto da lei orçamentária, em créditos adicionais ou em lei específica, que se **<span style="color:#b8bb26">demonstre a relação custo-benefício e o interesse econômico e social</span>** da operação e que **<span style="color:#b8bb26">não configure infração</span>** a dispositivo da LRF.   
+
+## **8.2. CONDIÇÕES PARA CONTRATAÇÃO**
+
+É essencial que você saiba as condições para contratação de operação de crédito:
+
+- **<span style="color:#fb4934">Prévia e expressa</span>** autorização para contratação (na LOA, crédito adicional ou lei específica)
+- Inclusão no orçamento dos recursos provenientes da operação (**<span style="color:#d3869b">exceto ARO</span>)**
+- Limites e condições (**<span style="color:#d3869b">fixados pelo Senado Federal</span>)**
+- Autorização específica do Senado Federal (operação de crédito **<span style="color:#b8bb26">externo</span>**)🎯
+- Regra de ouro (**<span style="color:#fb4934">Vedado</span>** a realização de operações de créditos que **<span style="color:#b8bb26">excedam o montante das despesas de capital</span>**, ressalvadas as autorizadas mediante créditos **<span style="color:#fb4934">suplementares ou especiais</span>** com **<span style="color:#83a598">finalidade precisa</span>**, aprovados pelo Poder Legislativo por **<span style="color:#83a598">maioria absoluta</span>**):
+    - **<span style="color:#fb4934">Não</span>** serão computadas nas despesas de capital as realizadas sob a forma de **<span style="color:#fb4934">empréstimo ou financiamento</span>** a contribuinte, com o intuito de **<span style="color:#fb4934">promover incentivo fiscal</span>**, tendo por base tributo de competência do ente da Federação, se **<span style="color:#d3869b">resultar a diminuição, direta ou indireta</span>**, do ônus deste;
+        - Se o empréstimo ou financiamento a que se refere o item acima for concedido por instituição financeira **<span style="color:#d3869b">controlada pelo ente da Federação</span>**, o **<span style="color:#fb4934">valor da operação será deduzido das despesas de capital</span>**;
+
+## **8.3. VEDAÇÕES DAS OPERAÇÕES DE CRÉDITO**
+
+O Art. 37 da LRF é muito cobrado pelas bancas:
+
+> _Art. 37. Equiparam-se a operações de crédito e estão_ **_<span style="color:#fb4934">vedados</span>_**_:_ 
+> - _I - captação de recursos a título de_ **_antecipação de receita de tributo ou_ contribuição** _cujo_ **_fato gerador ainda_** **_<span style="color:#fb4934">não tenha ocorrido</span>_**_, sem prejuízo do disposto no § 7° do art. 150 da Constituição;_ 
+> - _II -_ **_recebimento antecipado_** _de valores de empresa em que o Poder Público detenha, direta ou indiretamente, a_ **_<span style="color:#b8bb26">maioria do capital social</span>_ <span style="color:#b8bb26">com direito a voto</span>**_,_ **_<span style="color:#fb4934">SALVO</span>_ _<span style="color:#fb4934"><u>lucros e dividendos</u></span>_,** _na forma da legislação;_ (❗Atenção para a ressalva ela é bastante cobrada) 
+> - _III - assunção direta de compromisso, confissão de dívida ou operação assemelhada, com fornecedor de bens, mercadorias ou serviços, mediante emissão, aceite ou aval de título de crédito,_ **_<span style="color:#fb4934">não se aplicando esta vedação a empresas</span>_** **<span style="color:#fb4934"><u>estatais dependentes</u></span>;** 
+> - _IV - assunção de obrigação,_ **_<span style="color:#fb4934">sem autorização orçamentária</span> <span style="color:#d3869b">(é sem mesmo)</span>_**_, com fornecedores para_ **_<span style="color:#fb4934">pagamento a posteriori de bens e serviços.</span>_** 
+
+🚫**<span style="color:#fb4934"><u>Não se equipara</u></span>** a operações de crédito a assunção de obrigação entre pessoas jurídicas (administração direta, fundos, autarquias, fundações e empresas estatais dependentes) **<span style="color:#fb4934">integrantes do mesmo ente</span>** (estado, Distrito Federal ou município) **<span style="color:#fb4934">nem o parcelamento de débitos preexistentes</span>** junto a instituições **não-financeiras**, desde que **<span style="color:#fb4934">não impliquem elevação do montante da dívida consolidada</span>** líquida.
+
+⚠️O inciso I **veda a antecipações de receitas antes da ocorrência do fato gerador** do **<u>TRIBUTO ou CONTRIBUIÇÃO</u>**. Ainda, faz referência ao § 7° do art. 150 da CF/1988, o qual dispõe que a lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido.
+
+🚫Em regra, a realização de operação de crédito **<span style="color:#fb4934">entre um ente da Federação e outro</span>** ente é **<span style="color:#fb4934">vedada (NOVIDADE 2025).</span>**
+
+**<span style="color:#fb4934">Exceções</span>:**
+
+- **<span style="color:#b8bb26">Operação permitida</span>:  Operação de crédito entre <span style="color:#fb4934">instituição financeira estatal e outro ente</span> da Federação e ela <span style="color:#fb4934">não se destinar a</span>** financiar, direta ou indiretamente, despesas **<span style="color:#fb4934">correntes</span>**, **<span style="color:#fb4934">ressalvadas as operações destinadas a financiar a estruturação de projetos ou a garantir contraprestações em contratos de parceria público-privada ou de concessão</span>**; 
+- **<span style="color:#b8bb26">Operação permitida</span>:  Operação de crédito entre <span style="color:#fb4934">instituição financeira estatal e outro ente</span> da Federação e ela <span style="color:#fb4934">não se destinar a</span>** refinanciar dívidas não contraídas junto à própria instituição concedente.
+
+❌Os contratos de operação de crédito **<span style="color:#fb4934">externo não</span>** conterão cláusula que importe na **<span style="color:#d3869b">compensação automática de débitos e créditos.</span>**
+
+❌É proibida a operação de crédito entre uma instituição financeira estatal e o ente da Federação **<span style="color:#b8bb26">que a controle, na qualidade de beneficiário do empréstimo.</span>**
+
+- A proibição acima **<span style="color:#fb4934">não proíbe</span>** instituição financeira controlada de adquirir, no mercado, títulos da **<span style="color:#fb4934">dívida pública para atender investimento de seus clientes</span>**, ou **<span style="color:#d3869b">títulos da dívida de emissão da União</span>** para aplicação de recursos próprios.
+
+## **8.4. DAS OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DA RECEITA (ARO) (ALTA POSSIBILIDADE DE COBRANÇA PELA FCC)**
+
+Condições das ARO:
+
+- Existência de **<span style="color:#b8bb26">prévia e expressa autorização</span>** para a contratação, no texto da lei orçamentária, em **<span style="color:#b8bb26">créditos adicionais ou lei específica</span>**; (os **<span style="color:#83a598">recursos</span>** provenientes dessa operação (por serem extraorçamentários) **<span style="color:#83a598">não precisam e não serão incluídos no orçamento</span>** ou em créditos adicionais. )
+- Observância dos **<span style="color:#83a598">limites e condições</span>** fixados pelo **<span style="color:#b8bb26">Senado Federal</span>;**
+- Inclusão no orçamento ou em créditos adicionais dos recursos provenientes da operação, **<span style="color:#fb4934">exceto</span>** no caso de **<span style="color:#fb4934">operações por antecipação de receita.</span>**
+- Realizar-se-á somente **<span style="color:#fb4934">a partir do décimo dia do início</span>** do exercício;
+- Deverá ser liquidada, **<span style="color:#d3869b">com juros e outros encargos</span>** incidentes, **<span style="color:#fb4934">até o dia dez de dezembro</span>** de cada ano;
+- **<span style="color:#fb4934">Não</span>** será autorizada se forem cobrados **<span style="color:#fb4934">outros encargos que não a taxa de juros da operação</span>, <span style="color:#d3869b">obrigatoriamente</span> <span style="color:#83a598">prefixada ou indexada</span>** à taxa básica financeira, ou à que vier a esta substituir;
+- Estará **<span style="color:#fb4934">proibida</span>**:
+    - a) enquanto existir **<span style="color:#fb4934">operação anterior da mesma natureza</span> <span style="color:#d3869b">não integralmente resgatada</span>;**
+    - b) no **<span style="color:#d3869b">último ano</span>** de mandato do **<span style="color:#d3869b">Presidente,Governador ou Prefeito</span>** Municipal. 
+
+❗Não é a operação de crédito por ARO em si que pode estar prevista na LOA. É a **<span style="color:#d3869b">autorização para contratação</span>** da operação de crédito por ARO.
+
+As **<span style="color:#d3869b">operações</span>** de crédito por ARO são consideradas **<span style="color:#d3869b">receitas extraorçamentárias</span>**
+
+O **<span style="color:#d3869b">pagamento</span>** das operações de crédito por ARO é considerado **<span style="color:#d3869b">despesa extraorçamentária</span>**
+
+# **9. BANCO CENTRAL**
+
+Nas suas relações com ente da Federação, o Banco Central do Brasil está sujeito às seguintes vedações:
+
+- É vedada a realização de operação de crédito **<span style="color:#fb4934">entre um ente da Federação</span>**, diretamente ou por intermédio de fundo, autarquia, fundação ou empresa estatal dependente, **<span style="color:#fb4934">e outro,</span>** inclusive suas entidades da administração indireta, **<span style="color:#b8bb26">ainda que sob a forma de novação, refinanciamento ou postergação de dívida</span>** contraída anteriormente.
+- Compra de título da dívida, na **<span style="color:#b8bb26">data de sua colocação no mercado</span>**, ressalvado o seguinte: _O Banco Central do Brasil só poderá comprar diretamente títulos emitidos pela **<span style="color:#b8bb26">União para refinanciar a dívida mobiliária federal que estiver vencendo na sua carteira</span>**._ 
+- Permuta, **<span style="color:#b8bb26">ainda que temporária</span>,** por intermédio de instituição financeira ou não, de título da dívida de ente da Federação por título da dívida pública federal, bem como a operação de compra e venda, a termo, daquele título, cujo efeito final seja semelhante à permuta;
+- Concessão de garantia.
+
+# **10.** **GARANTIA E CONTRAGARANTIA**
+
+## **10.1. DEFINIÇÕES**
+
+Relembrando os conceitos de garantia e contragarantia:
+
+- **Garantia**: é um compromisso de adimplência de obrigação financeira ou contratual assumida por ente da Federação ou entidade a ele vinculada.
+- **Contragarantia:** é a contrapartida oferecida pelo ente federativo que irá receber uma garantia
+
+⚠️O ente que quiser receber uma garantia, terá que:
+
+- Oferecer uma contragarantia, em valor igual ou superior ao da garantia; e
+- Estar em dia com suas obrigações junto ao ente garantidos (o ente que irá conceder a garantia).
+
+**⚠️Não será exigida contragarantia aos órgãos e entidades do próprio ente**!
+
+Entidades da administração indireta **<span style="color:#d3869b">não poderão conceder garantia</span>,** com **<span style="color:#fb4934">exceções</span>**:
+
+- Empresa controlada à própria subsidiária
+- Instituição financeira e empresa nacional
+
+# 11. RESTOS A PAGAR
+
+A partir de **<span style="color:#b8bb26">1º de janeiro de 2027</span>,** se verificado, ao final de um exercício, que a **<span style="color:#b8bb26">disponibilidade de caixa não é suficiente para honrar os compromissos</span>** com Restos a Pagar processados e não processados inscritos e com as demais obrigações financeiras, aplica-se **<span style="color:#b8bb26">imediatamente</span>** ao respectivo Poder ou órgão, até a próxima apuração anual, a **<span style="color:#fb4934">vedação à concessão ou à ampliação de incentivo ou benefício de natureza tributária</span>.** 
+
+❌É vedado ao titular de Poder ou órgão, nos últimos **<span style="color:#fb4934">dois quadrimestres</span>** do seu mandato, contrair obrigação de despesa que **<span style="color:#fb4934">não possa ser cumprida integralmente</span>** dentro dele, ou que tenha parcelas a serem pagas no exercício seguinte sem que haja suficiente disponibilidade de caixa para este efeito 
+
+# 12. DA GESTÃO PATRIMONIAL
+
+## 12.1. Das Disponibilidades de Caixa (Art. 43)
+
+As **<span style="color:#fb4934">disponibilidades de caixa</span>** dos entes da Federação **<span style="color:#fb4934">serão depositadas da seguinte forma</span>**:
+
+- As da **<span style="color:#83a598">União</span>** – no **<span style="color:#83a598">BACEN</span>;**
+- As do **<span style="color:#fe8019">E/DF/M/ órgão/Empresas Controladas</span>** – nas **<span style="color:#fe8019">Instituições Financeiras Oficiais</span>;**
+- As dos **<span style="color:#b8bb26">regimes de previdência social</span>** - em **<span style="color:#b8bb26">conta separada</span>.**
+
+**==Esquematizando==:**
+
+![[Controle/2. TCE-GO/AFO/LRF.png]]
+
+Com efeito, **<span style="color:#fb4934">é vedada</span>** **a aplicação das disponibilidades de <span style="color:#fb4934">caixa dos regimes de previdência social</span>, geral e próprio dos servidores públicos em**:
+
+- **<span style="color:#83a598">Títulos da dívida pública estadual e municipal</span>**, bem como em **<span style="color:#83a598">ações e outros papéis</span>** relativos às empresas controladas pelo respectivo ente da Federação;
+- **<span style="color:#fe8019">Empréstimos</span>**, de qualquer natureza, **<span style="color:#fe8019">aos segurados e ao Poder Público</span>**, inclusive a suas empresas controladas.
+
+⚠️ Perceba que nada impede que **<span style="color:#fb4934">o Ente da Federação</span>** utilize as disponibilidades de caixa dos regimes de previdência social, geral e próprio dos servidores para adquirir **<span style="color:#fb4934">títulos da dívida da União.</span>**
+
+**==Esquematizando==:**
+
+![[Controle/2. TCE-GO/AFO/LRF-1.png]]
+
+## 12.2. Da Preservação do Patrimônio Público (**Art. 44)**
+
+**<span style="color:#fb4934">É vedada</span> a aplicação da receita de capital derivada da alienação de <span style="color:#fe8019">bens e direitos</span> para o financiamento de despesa corrente, <span style="color:#fb4934">salvo</span> se destinada por lei aos <span style="color:#b8bb26">regimes de previdência social</span>, <span style="color:#b8bb26">geral e próprio</span> dos servidores públicos.**
+
+Portanto, **<span style="color:#fb4934">pode usar receita derivada da alienação</span>** **de bens e direitos para:**
+
+1. **<span style="color:#83a598">Despesas de Capital</span>**
+2. **<span style="color:#fe8019">Regimes de Previdência</span>** **<span style="color:#fe8019">Social</span>**, <span style="color:#fe8019">geral e próprio</span>
+
+**==Esquematizando==:**
+
+![[Controle/2. TCE-GO/AFO/LRF-2.png]]
+
+## 12.3. Das Empresas Controladas pelo Setor Público (art.47)
+
+  A **empresa controlada** incluirá em seus **balanços trimestrais** nota explicativa em que informará:
+
+- **Fornecimento de bens e serviços ao controlador**, com respectivos preços e condições, comparando-os com os praticados no mercado;
+- **Recursos recebidos do controlador**, a qualquer título, especificando valor, fonte e destinação;
+- **Venda** de bens, **prestação** de serviços ou concessão de **empréstimos** e **financiamentos** com preços, taxas, prazos ou condições **diferentes dos vigentes no mercado.**
