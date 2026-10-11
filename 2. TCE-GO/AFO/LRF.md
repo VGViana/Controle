@@ -667,7 +667,7 @@ As **<span style="color:#fb4934">disponibilidades de caixa</span>** dos entes da
 
 **==Esquematizando==:**
 
-![[Controle/2. TCE-GO/AFO/LRF.png]]
+![[LRF 1.png]]
 
 Com efeito, **<span style="color:#fb4934">é vedada</span>** **a aplicação das disponibilidades de <span style="color:#fb4934">caixa dos regimes de previdência social</span>, geral e próprio dos servidores públicos em**:
 
@@ -678,7 +678,7 @@ Com efeito, **<span style="color:#fb4934">é vedada</span>** **a aplicação das
 
 **==Esquematizando==:**
 
-![[Controle/2. TCE-GO/AFO/LRF-1.png]]
+![[LRF-1 1.png]]
 
 ## 12.2. Da Preservação do Patrimônio Público (**Art. 44)**
 
@@ -691,7 +691,7 @@ Portanto, **<span style="color:#fb4934">pode usar receita derivada da alienaçã
 
 **==Esquematizando==:**
 
-![[Controle/2. TCE-GO/AFO/LRF-2.png]]
+![[LRF-2 1.png]]
 
 ## 12.3. Das Empresas Controladas pelo Setor Público (art.47)
 
