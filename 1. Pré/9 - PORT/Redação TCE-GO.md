@@ -170,7 +170,16 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 ### Tipos de tópicos frasais
 #### declaração impactante
 
+- algo forte, se posicionar. Contudo, argumentos fracos irão descontar nota
 
 #### declaração objetiva
+
+- responder se pode ou não pode
+
 #### parágrafo de conceito
+
+- Trazer o conceito acerca do tópico
+
 #### parágrafo de enumeração 
+
+- 
