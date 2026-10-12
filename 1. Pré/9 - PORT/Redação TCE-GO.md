@@ -167,6 +167,8 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 - <span style="color:#d3869b">elemento coesivo</span>
 - argumento secundário + fechamento 
 
+Tópico frasal e argumento principal são obrigatórios
+
 ### Tipos de tópicos frasais
 #### declaração impactante
 
