@@ -161,13 +161,15 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 
 ### Estrutura do parágrafo 
 
-- **<span style="color:#83a598">tópico frasal: tópico 1 e 2</span>**
+- **<span style="color:#83a598">tópico frasal</span>**
 - <span style="color:#d3869b">elemento coesivo</span>
 - argumento principal 
 - <span style="color:#d3869b">elemento coesivo</span>
 - argumento secundário + fechamento 
 
 Tópico frasal e argumento principal são obrigatórios
+
+- Tópico frasal é 1 período somente
 
 ### Tipos de tópicos frasais
 #### declaração impactante
@@ -199,3 +201,27 @@ Banca não confia no aluno. Algumas estratégias:
 - Institucional
 - Geral 
 
+## Conclusão 
+
+### reforço da tese
+
+<span style="color:#d3869b">(Conjunção conclusiva), percebe-se que</span> **<span style="color:#fb4934">reforço da tese</span>**
+
+- Poucas linhas
+
+### Reforço da tese e resumo dos tópicos 
+
+<span style="color:#d3869b">(Conjunção conclusiva), percebe-se que</span> **<span style="color:#fb4934">reforço da tese</span>** <span style="color:#d3869b">Afinal, conforme foi exposto</span> <span style="color:#83a598">resumo dos tópicos</span>
+
+### Reforço da tese e outros
+
+<span style="color:#d3869b">(Conjunção conclusiva), percebe-se que</span> **<span style="color:#fb4934">reforço da tese</span>**. <span style="color:#d3869b">Nesse contexto</span>, <span style="color:#fe8019">(outro)</span>
+
+#### Tese + proposta de intervenção
+
+- Modelo ENEM
+- Modelo sugerido quando tiver espaço disponível
+
+#### Tese + projeção do futuro
+
+Se continuar assim as coisas vão seguir à este ponto 
