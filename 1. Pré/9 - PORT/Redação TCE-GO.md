@@ -159,5 +159,9 @@ Ao refletir sobre **tema**, é possível perceber que **tese**. Para aprofundar 
 
 ## Desenvolvimento 
 
-### Organização dos Parágrafos
+### Estrutura do parágrafo 
+
+- tópico frasal: tópico 1 e 2
+- argumento principal 
+- argumento secundário + fechamento 
 
