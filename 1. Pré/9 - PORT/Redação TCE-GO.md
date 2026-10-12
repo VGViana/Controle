@@ -145,17 +145,17 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 - **<span style="color:#fb4934"><u>Tese</u></span>** é o coração da redação 
 ### Completo 
 
-Ao refletir sobre **assunto**, é preciso analisar **tema**. Nesse contexto, defende-se que **tese**. Para aprofundar nessa discussão, é importante entender **tópicos**.
+<span style="color:#d3869b">Ao refletir sobre</span> **<span style="color: #d79921">assunto</span>**, <span style="color:#d3869b">é preciso analisar</span> **<span style="color:#b8bb26">tema</span>**. <span style="color:#d3869b">Nesse contexto, defende-se que</span> **<span style="color:#fb4934">tese</span>**. <span style="color:#d3869b">Para aprofundar nessa discussão, é importante entender</span> **<span style="color:#83a598">tópicos</span>**.
 
 ### Resumido
 
-Ao refletir sobre **assunto**, é preciso analisar **tema**. Nesse contexto, defende-se que **tese**. 
+Ao refletir sobre **<span style="color: #d79921">assunto</span>**, é preciso analisar **<span style="color:#b8bb26">tema</span>**. Nesse contexto, defende-se que **<span style="color:#fb4934">tese</span>**. 
 
 - No resumido, não tem os tópicos
 
 ### Estratégico
 
-Ao refletir sobre **tema**, é possível perceber que **tese**. Para aprofundar essa discussão, é importante enteder **tópicos**.
+Ao refletir sobre **<span style="color:#b8bb26">tema</span>**, é possível perceber que **<span style="color:#fb4934">tese</span>**. Para aprofundar essa discussão, é importante enteder **<span style="color:#83a598">tópicos</span>**.
 
 ## Desenvolvimento 
 
