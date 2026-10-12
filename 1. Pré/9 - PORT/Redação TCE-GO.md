@@ -149,22 +149,22 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 
 ### Resumido
 
-Ao refletir sobre **<span style="color: #d79921">assunto</span>**, é preciso analisar **<span style="color:#b8bb26">tema</span>**. Nesse contexto, defende-se que **<span style="color:#fb4934">tese</span>**. 
+<span style="color:#d3869b">Ao refletir sobre</span> **<span style="color: #d79921">assunto</span>**, <span style="color:#d3869b">é preciso analisar</span> **<span style="color:#b8bb26">tema</span>**. <span style="color:#d3869b">Nesse contexto, defende-se que</span> **<span style="color:#fb4934">tese</span>**. 
 
 - No resumido, não tem os tópicos
 
 ### Estratégico
 
-Ao refletir sobre **<span style="color:#b8bb26">tema</span>**, é possível perceber que **<span style="color:#fb4934">tese</span>**. Para aprofundar essa discussão, é importante enteder **<span style="color:#83a598">tópicos</span>**.
+<span style="color:#d3869b">Ao refletir sobre</span> **<span style="color:#b8bb26">tema</span>**, <span style="color:#d3869b">é possível perceber que</span> **<span style="color:#fb4934">tese</span>**. <span style="color:#d3869b">Para aprofundar essa discussão, é importante enteder</span> **<span style="color:#83a598">tópicos</span>**.
 
 ## Desenvolvimento 
 
 ### Estrutura do parágrafo 
 
-- tópico frasal: tópico 1 e 2
-- elemento coesivo
+- **<span style="color:#83a598">tópico frasal: tópico 1 e 2</span>**
+- <span style="color:#d3869b">elemento coesivo</span>
 - argumento principal 
-- elemento coesivo
+- <span style="color:#d3869b">elemento coesivo</span>
 - argumento secundário + fechamento 
 
 ### Tipos de tópicos frasais
