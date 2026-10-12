@@ -138,6 +138,20 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 
 ![[Redação TCE-GO-2.png]]
 
+# Parágrafo de Introdução 
 
+- **<span style="color:#fb4934"><u>Tese</u></span>** é o coração da redação 
+## Completo 
 
+Ao refletir sobre **assunto**, é preciso analisar **tema**. Nesse contexto, defende-se que **tese**. Para aprofundar nessa discussão, é importante entender **tópicos**.
+
+## Resumido
+
+Ao refletir sobre **assunto**, é preciso analisar **tema**. Nesse contexto, defende-se que **tese**. 
+
+- No resumido, não tem os tópicos
+
+## Estratégico
+
+Ao refletir sobre **tema**, é possível perceber que **tese**. Para aprofundar essa discussão, é importante enteder **tópicos**.
 
