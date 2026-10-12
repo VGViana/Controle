@@ -162,6 +162,15 @@ Ao refletir sobre **tema**, é possível perceber que **tese**. Para aprofundar 
 ### Estrutura do parágrafo 
 
 - tópico frasal: tópico 1 e 2
+- elemento coesivo
 - argumento principal 
+- elemento coesivo
 - argumento secundário + fechamento 
 
+### Tipos de tópicos frasais
+#### declaração impactante
+
+
+#### declaração objetiva
+#### parágrafo de conceito
+#### parágrafo de enumeração 
