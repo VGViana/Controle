@@ -182,4 +182,5 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 
 #### parágrafo de enumeração 
 
-- 
+- Vários exemplos
+
