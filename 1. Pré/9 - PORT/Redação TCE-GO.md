@@ -184,3 +184,16 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 
 - Vários exemplos
 
+### Argumento principal
+
+Explicar o porque do seu tópico e citar alguns exemplos
+
+#### Recurso de autoridade
+
+Banca não confia no aluno. Algumas estratégias:
+
+- Força normativa
+- Disciplinas
+- Institucional
+- Geral 
+
