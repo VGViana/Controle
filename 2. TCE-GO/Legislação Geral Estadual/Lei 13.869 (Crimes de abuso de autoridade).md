@@ -95,8 +95,8 @@
 
 #### **Art. 10 - Condução coercitiva manifestamente ilegal** 
 
-- Decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
-	- **<span style="color:#fb4934">IMPORTANTE</span>**: não apenas o magistrado pode determinar a condução coercitiva, mas também, **a autoridade policial, membro do Ministério Público ou Comissão Parlamentar de Inquérito.**
+- Decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
+- **<span style="color:#fb4934">IMPORTANTE</span>**: não apenas o magistrado pode determinar a condução coercitiva, mas também, **a autoridade policial, membro do Ministério Público ou Comissão Parlamentar de Inquérito.**
         
 
 #### **Art. 12 - Ilegalidades relacionadas à prisão** 
