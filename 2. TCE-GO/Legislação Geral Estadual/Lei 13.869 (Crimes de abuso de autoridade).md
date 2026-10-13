@@ -155,7 +155,7 @@
 
 #### **Art. 22 - Violação de domicílio**
 
-- **Invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas****condições, sem determinação judicial ou fora das condições estabelecidas em lei.**
+- **Invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas** **condições, sem determinação judicial ou fora das condições estabelecidas em lei.**
     - Este crime é praticado por **quem entra em imóvel sem ordem judicial ou fora das condições que são permitidas;**
         
     - Temos ainda **condutas equiparadas,** praticadas por quem **coage alguém a dar acesso ao imóvel, e por quem cumpre mandado de busca e apreensão** **==<span style="color:#fb4934">após às 21h e antes das 5h da manhã.</span>==**
@@ -163,7 +163,7 @@
         - **_<span style="color:#fe8019"><u>mesmo quando houver decisão judicial</u></span>,_** _**<span style="color:#fe8019">a Constituição limita e entrada na residência ao horário do dia.</span>**_
             
 
-#### **Art. 27 - nstauração de procedimento investigatório sem indícios** 
+#### **Art. 27 - Instauração de procedimento investigatório sem indícios** 
 
 - **Requisitar instauração ou instaurar procedimento investigatório de infração penal ou administrativa, **em desfavor de alguém, à falta de qualquer indício da prática de crime, de ilícito funcional ou de infração administrativa**.** 
 - **<span style="color:#fb4934">EXCEÇÃO</span>**
