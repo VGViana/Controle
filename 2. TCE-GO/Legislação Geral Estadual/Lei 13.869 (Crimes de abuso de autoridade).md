@@ -1,3 +1,4 @@
+# Lei 13869/19 (Crimes de abuso de autoridade)
 ## **1.1 - Aspectos inciais:**
 
 ⇒ Ela define os **crimes de abuso de autoridade,** que possuem as seguintes características:
