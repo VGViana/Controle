@@ -60,6 +60,8 @@
 > - II - **suspensão** do exercício do cargo, da função ou do mandato, pelo prazo de 1 (um) a 6 (seis) meses, **<span style="color:#fb4934">com a perda dos vencimentos e das vantagens</span>;** 
 > - Parágrafo único. As penas restritivas de direitos **podem ser aplicadas autônoma ou cumulativamente.**
 
+![[Lei 13.869 (Crimes de abuso de autoridade).png]]
+
 ### **NÃO CONFUNDA!**
 
 - **<span style="color:#fb4934">A perda do cargo/função/mandato é um efeito extra penal, que depende de reincidência do agente em crime de abuso de autoridade, e deve ser motivada na sentença;</span>**
