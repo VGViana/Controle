@@ -173,7 +173,7 @@
 
 - **Dar início ou proceder à persecução penal, civil ou administrativa **sem justa causa fundamentada ou contra quem sabe inocente**.** 
 
-**🎯 **NÃO CONFUNDA:**** 
+**<span style="color:#fb4934"><u>NÃO CONFUNDA:</u></span>**
 
 | Art. 27                                                                   | Art. 30                                                             |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
