@@ -41,6 +41,7 @@
     
 	    - **Apesar disso, o MP continua com seus amplos poderes sobre a ação, podendo aditar a queixa, repudiar, oferecer substitutiva etc.**
 
+> **§ 2º**  A ação privada subsidiária **será exercida no prazo de <span style="color:#b8bb26"><u>6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia.</u></span>**
 ### **Dos Efeitos da Condenação:**
 
 - Além da aplicação da própria pena cominada, o agente poderá:
