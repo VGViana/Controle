@@ -182,3 +182,6 @@
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Instaurar/requisitar **procedimento investigatório** sem qualquer indício | Dar início/proceder à **persecução penal, civil ou administrativa** |
 | **6 meses a 2 anos + multa**                                              | **1 a 4 anos + multa**                                              |
+
+![[Lei 13.869 (Crimes de abuso de autoridade)-2.png]]
+
