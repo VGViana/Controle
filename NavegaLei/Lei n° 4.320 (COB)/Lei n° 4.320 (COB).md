@@ -585,13 +585,13 @@ LEI N° 4.320, DE 17 DE MARÇO DE 1964
 ## 1.7. TÍTULO VII - DOS FUNDOS ESPECIAIS (ARTS. 71 A 74)
 [[1.7. TÍTULO VII - DOS FUNDOS ESPECIAIS (ARTS. 71 A 74)|Resumo]]
 
-* Artigo 71. Constitui fundo especial o produto de receitas especificadas que, por lei, se vinculam à realização de determinados objetivos ou serviços, facultada a adoção de normas peculiares de aplicação. ^9da4f0f
+* Artigo 71. Constitui fundo especial o produto de receitas especificadas que, **<span style="color:#83a598">por lei</span>**, se vinculam à realização de determinados objetivos ou serviços, **<span style="color:#fb4934">facultada a adoção de normas peculiares de aplicação.</span>** ^9da4f0f
 
-* Artigo 72. A aplicação das receitas orçamentárias vinculadas a fundos especiais far-se-á através de dotação consignada na Lei de Orçamento ou em créditos adicionais. ^8f4e52d
+* Artigo 72. A aplicação das receitas orçamentárias vinculadas a fundos especiais far-se-á através de **<span style="color:#83a598">dotação consignada na Lei de Orçamento ou em créditos adicionais.</span>** ^8f4e52d
 
 * Artigo 73. **<span style="color:#fb4934">Salvo determinação em contrário da lei que o instituiu</span>**, o **<span style="color:#83a598">saldo positivo do fundo especial apurado em balanço será transferido para o exercício seguinte</span>**, a crédito do mesmo fundo. ^c31e89c
 
-* Artigo 74. A lei que instituir fundo especial poderá determinar normas peculiares de contrôle, prestação e tomada de contas, sem, de qualquer modo, elidir a competência específica do Tribunal de Contas ou órgão equivalente. ^b4fee68
+* Artigo 74. A lei que instituir fundo especial **<span style="color:#b8bb26">poderá determinar normas peculiares de contrôle</span>**, prestação e tomada de contas, sem, de qualquer modo, elidir a competência específica do Tribunal de Contas ou órgão equivalente. ^b4fee68
 
 ## 1.8. TÍTULO VIII - DO CONTRÔLE DA EXECUÇÃO ORÇAMENTÁRIA (ARTS. 75 A 82)
 [[1.8. TÍTULO VIII - DO CONTRÔLE DA EXECUÇÃO ORÇAMENTÁRIA (ARTS. 75 A 82)|Resumo]]
