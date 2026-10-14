@@ -6551,45 +6551,45 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 	* § 1° (Revogado). (Redação dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-	* § 2° Excetua-se da desvinculação de que trata o caput a arrecadação da contribuição social do salário-educação a que se refere o § 5° do art. 212 da Constituição Federal. (Redação dada pela Emenda Constitucional n° 68, de 2011).
+	* § 2° **<span style="color:#fb4934">Excetua-se da desvinculação</span>** de que trata o caput a arrecadação da contribuição social do **<span style="color:#d3869b">salário-educação</span>** a que se refere o § 5° do art. 212 da Constituição Federal. (Redação dada pela Emenda Constitucional n° 68, de 2011).
 
 	* § 3° (Revogado). (Redação dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-	* § 4° A desvinculação de que trata o caput não se aplica às receitas das contribuições sociais destinadas ao custeio da seguridade social. (Incluído pela Emenda Constitucional n° 103, de 2019)
+	* § 4° A desvinculação de que trata o caput **<span style="color:#fb4934">não se aplica às receitas das contribuições sociais destinadas ao custeio da</span>** **<span style="color:#d3869b">seguridade social.</span>** (Incluído pela Emenda Constitucional n° 103, de 2019)
 
-	* § 5° A desvinculação de que trata o caput deste artigo não opera efeitos sobre recursos que, por expressa disposição em norma constitucional ou legal, devam ser transferidos a Estados, ao Distrito Federal e a Municípios. (Incluído pela Emenda Constitucional n° 135, de 2024)
+	* § 5° A desvinculação de que trata o caput deste artigo **<span style="color:#fb4934">não opera efeitos sobre recursos</span>** que, por expressa disposição em norma **<span style="color:#fb4934">constitucional ou legal</span>**, devam ser transferidos a **<span style="color:#d3869b">Estados, ao Distrito Federal e a Municípios.</span>** (Incluído pela Emenda Constitucional n° 135, de 2024)
 
-	* § 6° A desvinculação de que trata o caput deste artigo não se aplica às receitas destinadas ao fundo criado pelo art. 47 da Lei n° 12.351, de 22 de dezembro de 2010, e aos recursos a que se refere o art. 2° da Lei n° 12.858, de 9 de setembro de 2013. (Incluído pela Emenda Constitucional n° 135, de 2024)
+	* § 6° A desvinculação de que trata o caput deste artigo **<span style="color:#fb4934">não se aplica às receitas destinadas</span>** ao **<span style="color:#d3869b">fundo criado pelo art. 47 da Lei n° 12.351 (Fundo Social - FS)</span>**, de 22 de dezembro de 2010, e aos recursos a que se refere o art. 2° da Lei n° 12.858, de 9 de setembro de 2013. (Incluído pela Emenda Constitucional n° 135, de 2024)
 
-* Art. 76-A. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) das receitas dos Estados e do Distrito Federal relativas a impostos, taxas e multas já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes. (Redação dada pela Emenda Constitucional n° 132, de 2023)
+* Art. 76-A. São desvinculados de órgão, fundo ou despesa, **até 31 de dezembro de 2032**, **<span style="color:#fb4934">30%</span>** (trinta por cento) das receitas dos **Estados e do Distrito Federal** relativas a **<span style="color:#b8bb26">impostos, taxas e multas</span>** já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e **<span style="color:#b8bb26">outras receitas correntes.</span>** (Redação dada pela Emenda Constitucional n° 132, de 2023)
 
-	* Parágrafo único. Excetuam-se da desvinculação de que trata o caput: (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
+	* Parágrafo único. **<span style="color:#fb4934">Excetuam-se</span>** da desvinculação de que trata o caput: (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* I - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, os incisos II e III do § 2° do art. 198 e o art. 212 da Constituição Federal; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
+		* I - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do **<span style="color:#d3869b">ensino</span>** de que tratam, respectivamente, os incisos II e III do § 2° do art. 198 e o art. 212 da Constituição Federal; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
 		* II - receitas que pertencem aos Municípios decorrentes de transferências previstas na Constituição Federal; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* III - receitas de contribuições previdenciárias e de assistência à saúde dos servidores; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
+		* III - receitas de contribuições previdenciárias e de **<span style="color:#d3869b">assistência à saúde dos servidores</span>**; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* IV - demais transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
+		* IV - demais **<span style="color:#d3869b">transferências obrigatórias e voluntárias</span>** entre entes da Federação com destinação especificada em lei; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* V - fundos instituídos pelo Poder Judiciário, pelos Tribunais de Contas, pelo Ministério Público, pelas Defensorias Públicas e pelas Procuradorias-Gerais dos Estados e do Distrito Federal. (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
+		* V - **<span style="color:#d3869b">fundos instituídos pelo Poder Judiciário, pelos Tribunais de Contas, pelo Ministério Público, pelas Defensorias Públicas e pelas Procuradorias-Gerais</span>** dos Estados e do Distrito Federal. (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-* Art. 76-B. São desvinculadas de órgão, fundo ou despesa, até 31 de dezembro de 2032, as receitas dos Municípios relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, de acordo com os seguintes percentuais: (Redação dada pela Emenda Constitucional n° 136, de 2025)
+* Art. 76-B. São desvinculadas de órgão, fundo ou despesa, até **31 de dezembro de 2032**, as receitas dos Municípios relativas a **impostos, contribuições, taxas e multas**, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e **<span style="color:#b8bb26">outras receitas correntes</span>**, de acordo com os seguintes percentuais: (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-	* I - 50% (cinquenta por cento), até 31 de dezembro de 2026; e (Incluído pela Emenda Constitucional n° 136, de 2025)
+	* **<span style="color:#fb4934">I - 50% (cinquenta por cento), até 31 de dezembro de 2026; e (Incluído pela Emenda Constitucional n° 136, de 2025)</span>**
 
-	* II - 30% (trinta por cento), de 1° de janeiro de 2027 a 31 de dezembro de 2032. (Incluído pela Emenda Constitucional n° 136, de 2025)
+	* **<span style="color:#fb4934">II - 30% (trinta por cento), de 1° de janeiro de 2027 a 31 de dezembro de 2032. (Incluído pela Emenda Constitucional n° 136, de 2025)</span>**
 
-	* § 1° Excetuam-se das desvinculações de que trata o caput deste artigo: (Incluído pela Emenda Constitucional n° 136, de 2025)
+	* § 1° **<span style="color:#fb4934">Excetuam-se das desvinculações</span>** de que trata o caput deste artigo: (Incluído pela Emenda Constitucional n° 136, de 2025)
 
-		* I - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, o inciso III do § 2° do art. 198 e o art. 212 da Constituição Federal; (Redação dada pela Emenda Constitucional n° 136, de 2025)
+		* I - recursos destinados ao financiamento das ações e serviços públicos de **<span style="color:#d3869b">saúde</span>** e à manutenção e desenvolvimento do **<span style="color:#d3869b">ensino</span>** de que tratam, respectivamente, o inciso III do § 2° do art. 198 e o art. 212 da Constituição Federal; (Redação dada pela Emenda Constitucional n° 136, de 2025)
 
-		* II - receitas de contribuições previdenciárias e de assistência à saúde dos servidores; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
+		* II - receitas de **<span style="color:#d3869b">contribuições previdenciárias e de assistência à saúde</span>** dos servidores; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* III - transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
+		* III - **<span style="color:#d3869b">transferências obrigatórias e voluntárias</span>** entre entes da Federação com destinação especificada em lei; (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
-		* IV - fundos instituídos pelo Tribunal de Contas do Município. (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
+		* IV - **<span style="color:#d3869b">fundos instituídos pelo Tribunal de Contas do Município.</span>** (Incluído dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
 	* § 2° A cada exercício financeiro, até a data de que trata o caput deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os superávits financeiros, verificados no exercício financeiro imediatamente anterior, dos fundos públicos instituídos pelo [[12. Poder Executivo]] municipal. (Incluído pela Emenda Constitucional n° 136, de 2025)
 
