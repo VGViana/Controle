@@ -6547,7 +6547,7 @@ Definição do **tempo máximo de espera** de clientes em filas de **instituiç�
 
 	* § 3° É a União autorizada a emitir títulos da dívida pública interna, cujos recursos serão destinados ao custeio da saúde e da previdência social, em montante equivalente ao produto da arrecadação da contribuição, prevista e não realizada em 1999. (Incluído pela Emenda Constitucional n° 21, de 1999) (Vide ADIN n° 2.031-5)
 
-* Art. 76. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) da arrecadação da União relativa às contribuições sociais, sem prejuízo do pagamento das despesas do Regime Geral de Previdência Social, às contribuições de intervenção no domínio econômico, às taxas e às receitas patrimoniais, já instituídas ou que vierem a ser criadas até a referida data. (Redação dada pela Emenda Constitucional n° 135, de 2024)
+* Art. 76. São desvinculados de órgão, fundo ou despesa, **até 31 de dezembro de 2032**, **<span style="color:#fb4934">30%</span>** (trinta por cento) da arrecadação da **União** relativa às **<span style="color:#fb4934">contribuições sociais, sem prejuízo do pagamento das despesas do Regime Geral de Previdência Social, às contribuições de intervenção no domínio econômico, às taxas e às</span>** **<span style="color:#b8bb26">receitas patrimoniais</span>**, já instituídas ou que vierem a ser criadas até a referida data. (Redação dada pela Emenda Constitucional n° 135, de 2024)
 
 	* § 1° (Revogado). (Redação dada pela Emenda constitucional n° 93, de 2016) Produção de efeitos
 
