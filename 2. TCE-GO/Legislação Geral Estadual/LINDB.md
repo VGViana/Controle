@@ -89,9 +89,7 @@ Há certo consenso de que o **<span style="color:#b8bb26">critério cronológic
 Então, esquematizando:
 
 1) Norma **<span style="color:#83a598">Hierarquicamente Superior</span>** **<span style="color:#fb4934">Anterior</span>** x **<span style="color:#83a598">Norma Hierarquicamente Inferior</span>** **<span style="color:#fb4934">Posterior</span>** -> A Hierarquicamente superior prevalece, mesmo sendo mais antiga.
-
-2) **<span style="color:#b8bb26">Norma Especial</span>** **<span style="color:#fb4934">Anterior</span>** x **<span style="color:#b8bb26">Norma Geral</span>** **<span style="color:#fb4934">Posterior</span>** -> A **<span style="color:#b8bb26">Norma especial</span>** (+específica) prevalece sobre a Geral mesmo sendo mais antiga.
-
+2) **<span style="color:#b8bb26">Norma Especial</span>** **<span style="color:#fb4934">Anterior</span>** x **<span style="color:#b8bb26">Norma Geral</span>** **<span style="color:#fb4934">Posterior</span>** -> A **<span style="color:#b8bb26">Norma especial</span>** (+específica) prevalece sobre a Geral mesmo sendo mais antiga.
 3) Norma **<span style="color:#83a598">Hierarquicamente Superior</span>** **<span style="color:#b8bb26">Geral</span>** x **<span style="color:#b8bb26">Norma especial</span>** **<span style="color:#83a598">Hierarquicamente Inferior</span>** -> Não há consenso na doutrina.
 
 **=> Antinomia Real** -> Não há norma que solucione um eventual conflito, a solução, nesse caso, passa pela edição de uma nova norma.
@@ -100,41 +98,27 @@ Então, esquematizando:
 
 # **4. INTERPRETAÇÃO DA NORMA**
 
-- **Principais técnicas de interpretação:**
+**Principais técnicas de interpretação:**
 
-**1) Quanto às fontes:** 
+- **1. Quanto às fontes:** 
+	- a) autêntica (feita pelo próprio Legislador);  
+	- b) doutrinária;  
+	- c) jurisprudencial.
 
-a) autêntica (feita pelo próprio Legislador); 
+- **2. Quanto aos resultados:** 
+	- a) declarativa ("tal e qual" sem "mais nem menos", "sem tirar nem pôr");  
+	- b) extensiva (amplia o sentido e alcance da norma);  
+	- c) restritiva (diminui o sentido e alcance da norma).
 
-b) doutrinária; 
-
-c) jurisprudencial.
-
-**2) Quanto aos resultados:** 
-
-a) declarativa ("tal e qual" sem "mais nem menos", "sem tirar nem pôr"); 
-
-b) extensiva (amplia o sentido e alcance da norma); 
-
-c) restritiva (diminui o sentido e alcance da norma).
-
-**De 👀na prova!**
+- **3. Quanto ao método ou meio utilizado temos as seguintes espécies**: 
+	- a) gramatical;  
+	- b) lógica;  
+	- c) sistemática;  
+	- d) ontológica;  
+	- e) histórica; 
+	- f) sociológica ou teleológica* (finalística) (é a que melhor se adapta ao estabelecido no art. 5°, LINDB): “_Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum_."
 
 Apesar de ser mais comum a cobrança da letra de lei, vez ou outra o Cebraspe também traz uma cobrança com viés mais doutrinário. como na questão [#3048767](https://www.tecconcursos.com.br/questoes/3048767), cobrada na questão para o cargo Auditor de Controle Externo do TCE/PR. A questão abordou a interpretação quanto método ou meio utilizado:
-
-**3) Quanto ao método ou meio utilizado temos as seguintes espécies**: 
-
-a) gramatical; 
-
-b) lógica; 
-
-c) sistemática; 
-
-d) ontológica; 
-
-e) histórica; 
-
-f) sociológica ou teleológica* (finalística) (é a que melhor se adapta ao estabelecido no art. 5°, LINDB): “_Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum_."
 
 # **5. INTEGRAÇÃO DA NORMA**
 
@@ -157,9 +141,8 @@ Na lacuna ele deve aplicar o art. <span style="color:#83a598">4°, LINDB</span> 
 
 **<span style="color:#83a598">1. Analogia</span>**: aplicação de dispositivos legais relativos a outros casos distintos, porém semelhantes, ante a ausência de normas que regulem o caso concreto apresentado à apreciação jurisdicional. Espécies:
 
-<span style="color:#83a598">a) legis:</span> aplicação de uma norma jurídica existente semelhante ao caso concreto que não foi normatizado;
-
-<span style="color:#83a598">b) juris</span>: aplicação de um conjunto de normas existentes sobre o caso omisso.
+- <span style="color:#83a598">a) legis:</span> aplicação de uma norma jurídica existente semelhante ao caso concreto que não foi normatizado; 
+- <span style="color:#83a598">b) juris</span>: aplicação de um conjunto de normas existentes sobre o caso omisso.
 
 **<span style="color:#83a598">2. Costumes</span>:** prática reiterada (ao longo do tempo), constante (não fica mudando), pública e geral (“todo mundo faz assim”) o costume é “coletivo”.
 
@@ -167,11 +150,9 @@ Elementos: **uso continuado**; **certeza de obrigatoriedade**.
 
 podem ser:
 
-<span style="color:#83a598">a) “secundum legem”</span> - conforme a lei
-
-<span style="color:#83a598">b) “praeter legem”</span> - “para além da lei”
-
-<span style="color:#83a598">c) “Contra legem”</span> - contrário a lei - alguns doutrinadores não admitem seu uso.
+- <span style="color:#83a598">a) “secundum legem”</span> - conforme a lei 
+- <span style="color:#83a598">b) “praeter legem”</span> - “para além da lei” 
+- <span style="color:#83a598">c) “Contra legem”</span> - contrário a lei - alguns doutrinadores não admitem seu uso.
 
 trata-se de fonte de direito e forma de integração da norma.
 
