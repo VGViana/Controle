@@ -3,9 +3,32 @@
 
 - O racionalismo consiste na produção com eficiência, a partir da divisão de tarefas entre seus membros
 
+## Diagnóstico de Ambiente Organizacional - Matriz SWOT
+
+![[Caderno de erros-1.png]]
 ## Introdução ao Processo de Planejamento 
 
 - Existem autores que chamam os _**<span style="color:#fe8019">gerentes do nivel operacional</span>**_ de **<span style="color:#fe8019">gerentes de primeira linha</span>**
+
+| Ferramentas        | Descrição                                                                                                                                     |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Questionários      | Série de perguntas formatadas de modo sequencial                                                                                              |
+| Análise documental | Análise dos documentos que compõem o planejamento estratégico da instituição, como a visão e  a missão                                        |
+| Entrevista         | Técnica muito utilizada. São entrevistados pessoas-chave na organização em busca de identificar as competências individuais e organizacionais |
+| Grupo focal        | Uma espécie de entrevista coletiva, em que diversas pessoas participam de uma dinâmica na qual o entrevistador funciona como moderador        |
+| Observação visual  | Observação dos funcionários em seu ambiente de trabalho, buscando identificar as competências                                                 |
+
+## Planejamento Estratégico
+
+![[Caderno de erros.png]]
+
+Macroambiente = ambiente contextual
+
+- É o ambiente mais **amplo**, **genérico** e **abrangente** que influencia de maneira semelhante todas as organizações.
+
+Ambiente de tarefa = ambiente relacional ou transacional
+
+- É o ambiente **mais** **próximo** e **imediato** da organização.
 
 ## Estratégia e Vantagem Competitiva
 
