@@ -1,4 +1,7 @@
 # ADGE 
+## Teoria Estruturalista 
+
+O conceito de Organização preconizado pela Teoria Estruturalista a considera como um sistema social intencionalmente construído e reconstruído
 ## Organização 
 
 - O racionalismo consiste na produção com eficiência, a partir da divisão de tarefas entre seus membros
@@ -6,7 +9,9 @@
 ## Diagnóstico de Ambiente Organizacional - Matriz SWOT
 
 ![[Caderno de erros-1.png]]
-## Introdução ao Processo de Planejamento 
+## Planejamento
+
+### Introdução ao Processo de Planejamento 
 
 - Existem autores que chamam os _**<span style="color:#fe8019">gerentes do nivel operacional</span>**_ de **<span style="color:#fe8019">gerentes de primeira linha</span>**
 
@@ -18,7 +23,7 @@
 | Grupo focal        | Uma espécie de entrevista coletiva, em que diversas pessoas participam de uma dinâmica na qual o entrevistador funciona como moderador        |
 | Observação visual  | Observação dos funcionários em seu ambiente de trabalho, buscando identificar as competências                                                 |
 
-## Planejamento Estratégico
+### Planejamento Estratégico
 
 ![[Caderno de erros.png]]
 
@@ -92,7 +97,4 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 - Funcional = Centralizado
 - Divisional = Descentralizado
-## Teoria Estruturalista 
-
-O conceito de Organização preconizado pela Teoria Estruturalista a considera como um sistema social intencionalmente construído e reconstruído
 
