@@ -1,4 +1,8 @@
 # ADGE 
+## Organização 
+
+- O racionalismo consiste na produção com eficiência, a partir da divisão de tarefas entre seus membros
+
 ## Introdução ao Processo de Planejamento 
 
 - Existem autores que chamam os _**<span style="color:#fe8019">gerentes do nivel operacional</span>**_ de **<span style="color:#fe8019">gerentes de primeira linha</span>**
