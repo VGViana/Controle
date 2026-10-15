@@ -22,6 +22,15 @@
 | **9. Ambiental**      | Processo reativo          | _Adaptação externa_ | A organização responde ao ambiente; pouca autonomia interna. |
 | **10. Configuração**  | Processo de transformação | _Ciclo e mudança_   | Estabilidade com rupturas periódicas e mudanças estruturais. |
 
+### VRIO
+
+|Letra|Significado|Pergunta-chave|
+|---|---|---|
+|**V**|**Valor**|O recurso gera valor ou vantagem para a empresa?|
+|**R**|**Raridade**|Poucas empresas têm esse recurso?|
+|**I**|**Imitabilidade**|É difícil para os concorrentes imitarem esse recurso?|
+|**O**|**Organização**|A empresa está organizada para explorar esse recurso?|
+
 ### Departamentalização 
 
 - Funcional
