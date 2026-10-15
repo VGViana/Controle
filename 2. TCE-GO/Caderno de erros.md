@@ -34,6 +34,21 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 - No planejamento estratégico, a análise do ambiente setorial a cinco forças competitivas que Impactam no posicionamento de uma empresa. Os custos de mudanças são analisados pela força qualificada como entrantes potenciais.
 
+### Matriz de Ansoff
+
+![[Caderno de erros-2.png]]
+
+### Cinco forças competitivas de Porter
+
+
+| Forças                                   | Conceitos                                                                                                                                                                                                        |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rivalidade entre concorrentes existentes | Mede o nível de competição entre as empresas que já estão no mercado. Quanto maior a rivalidade, menor tende a ser a lucratividade                                                                               |
+| Ameaça de novos entrantes                | Refere-se à facilidade com que novas empresas podem entrar no setor. Se for fácil entrar, os lucros caem, pois há mais competição                                                                                |
+| Poder de barganha dos fornecedores       | Avalia quanto poder os fornecedores têm sobre as empresas do setor. Se há poucos fornecedores ou produtos insubstituíveis, eles podem aumentar preços ou reduzir qualidade, pressionando as margens das empresas |
+| Poder de barganha dos clientes           | Mede quanto poder os consumidores têm para pressionar preços e exigir mais qualidade. Clientes fortes reduzem a rentabilidade das empresas                                                                       |
+| Ameaça de produtos substitutos           | São bens ou serviços diferentes ,mas que atende à mesma necessidade do cliente. Quanto mais substitutos existirem, menor o poder de precificação das empresas                                                    |
+
 ### Escolas do Pensamento Estratégico de Mintzberg
 
 | **Escola**            | **Visão da Estratégia**   | **Palavra-chave**   | **Características Principais**                               |
