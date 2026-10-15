@@ -1,7 +1,11 @@
 # ADGE 
+## Introdução ao Processo de Planejamento 
+
+- Existem autores que chamam os _**<span style="color:#fe8019">gerentes do nivel operacional</span>**_ de **<span style="color:#fe8019">gerentes de primeira linha</span>**
+
 ## Estratégia e Vantagem Competitiva
 
-- No planejamento estratégico, a análise do ambiente setorial a cinco forças competitivas que Impactam no posicionamento de uma empresa. Os custos de mudanças são analisados pela força qualificada como entrantes potenciais
+- No planejamento estratégico, a análise do ambiente setorial a cinco forças competitivas que Impactam no posicionamento de uma empresa. Os custos de mudanças são analisados pela força qualificada como entrantes potenciais.
 
 ### Escolas do Pensamento Estratégico de Mintzberg
 
