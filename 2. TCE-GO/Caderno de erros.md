@@ -21,3 +21,20 @@
 | **8. Cultural**       | Processo coletivo         | _Valores_           | Baseada em normas e cultura organizacional compartilhada.    |
 | **9. Ambiental**      | Processo reativo          | _Adaptação externa_ | A organização responde ao ambiente; pouca autonomia interna. |
 | **10. Configuração**  | Processo de transformação | _Ciclo e mudança_   | Estabilidade com rupturas periódicas e mudanças estruturais. |
+
+### Departamentalização 
+
+- Funcional
+
+| **<span style="color:#83a598">Vantagens</span>**                                                                                                                                            | **<span style="color:#fb4934">Desvantagens</span>**                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **<span style="color:#83a598">Melhor coordenação intradepartamental</span>** por causa do compartilhamento de um mesmo conhecimento técnico                                                 | Incentiva o **<span style="color:#fb4934">isolamento</span>** de cada unidade e **<span style="color:#fb4934">reduz a comunicação</span>** e **<span style="color:#fb4934">coordenação</span>** interdepartamental |
+| Incentiva a **<span style="color:#83a598">especialização técnica</span>** , garantindo a **<span style="color:#83a598">utilização máxima das habilidades</span>** técnicas dos funcionários | **<span style="color:#fb4934">Dificulta a adaptação e flexibilidade a mudanças externas</span>**, pois o foco é interno, não considerando os objetivos gerais da organização                                       |
+| Promove a **<span style="color:#83a598">redução de custos</span>** porque **<span style="color:#83a598">elimina possíveis redundâncias</span>**                                             | Promove uma **<span style="color:#fb4934">maior burocratização</span>** com **<span style="color:#fb4934">maior número de níveis hierárquicos</span>**                                                             |
+
+-  Processos
+
+| Vantagens                                                                                                                                                           | Desvantagens                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Possibilidade de **<span style="color:#83a598">ocorrência de conflitos interdepatamentais</span>** por causa da interdependência entre os processos organizacionais | **<span style="color:#fb4934">Menor flexibilidade e capacidade de adaptação a mudanças</span>** tecnológicas e ambientais                            |
+| **<span style="color:#83a598">Garantia plena utilização e vantagens econômicas da tecnologia</span>** utilizada no processo                                         | **<span style="color:#fb4934">Maior custo operacional</span>**, uma vez que uma falha em um processo pode levar a uma falha sistêmica da organização |
