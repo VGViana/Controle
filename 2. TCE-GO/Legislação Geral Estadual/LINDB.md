@@ -238,7 +238,9 @@ _A motivação deverá demonstrar a **necessidade e a adequação** da medida im
 
 > - Art. 20.  Nas esferas administrativa, controladora e judicial, <u>não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão.</u>  
 
-### **⇒** **Art. 21 – Invalidação**:️ **ATENÇÃO:** a decisão **não poderá impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos**.
+### **⇒** **Art. 21 – Invalidação**:️ 
+
+**ATENÇÃO:** a decisão **não poderá impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos**.
 
 > - Art. 21.  A decisão que, nas esferas administrativa, controladora ou judicial, decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar de modo expresso suas consequências jurídicas e administrativas.
 
