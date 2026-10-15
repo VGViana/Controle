@@ -51,3 +51,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Possibilidade de **<span style="color:#83a598">ocorrência de conflitos interdepatamentais</span>** por causa da interdependência entre os processos organizacionais | **<span style="color:#fb4934">Menor flexibilidade e capacidade de adaptação a mudanças</span>** tecnológicas e ambientais                            |
 | **<span style="color:#83a598">Garantia plena utilização e vantagens econômicas da tecnologia</span>** utilizada no processo                                         | **<span style="color:#fb4934">Maior custo operacional</span>**, uma vez que uma falha em um processo pode levar a uma falha sistêmica da organização |
+
+## Teoria Estruturalista 
+
+O conceito de Organização preconizado pela Teoria Estruturalista a considera como um sistema social intencionalmente construído e reconstruído
+
