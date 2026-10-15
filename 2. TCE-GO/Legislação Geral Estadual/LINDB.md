@@ -213,11 +213,11 @@ Obs.: A <span style="color:#83a598">equidade</span> (uso do bom senso; “**just
     - Art. 515, VIII, CPC - Sentença Estrangeira **<span style="color:#83a598">homologada pelo STJ</span>** => título executivo judicial
     - <mark style="background:rgba(240, 200, 0, 0.2)">Obs.: **<span style="color:#fb4934">Cai em prova</span>** => no Brasil, a dívida de jogo, "nascida e criada" no Brasil, é tida como uma obrigação natural, isto é, você, juridicamente, não é obrigado a pagar uma dívida de jogo, embora seja irrepetível (você não é obrigado a pagar, mas se pagou também não pode pedir de volta).</mark>
         
-        - Art. 814 do Código Civil: “As dívidas de jogo ou de aposta não obrigam a pagamento; mas não se pode recobrar a quantia, que voluntariamente se pagou, salvo se foi ganha por dolo, ou se o pendente é menor ou interdito”.
+        > - Art. 814 do Código Civil: “As dívidas de jogo ou de aposta não obrigam a pagamento; mas não se pode recobrar a quantia, que voluntariamente se pagou, salvo se foi ganha por dolo, ou se o pendente é menor ou interdito”.
         
-        >> Até aí blz, agora se o camarada vai em Las Vegas e deixa uma dívida aberta por lá e volta pro Brasil, aí a história é outra. **Nesse caso há sim o dever de pagar, porque lá, onde a obrigação se constituiu, a regra é a obrigatoriedade de pagamento. Aplica-se, então o art. 9° da LINDB:**
+		Até aí blz, agora se o camarada vai em Las Vegas e deixa uma dívida aberta por lá e volta pro Brasil, aí a história é outra. **Nesse caso há sim o dever de pagar, porque lá, onde a obrigação se constituiu, a regra é a obrigatoriedade de pagamento. Aplica-se, então o art. 9° da LINDB:**
         
-        - Art. 9º, da LINDB: “Para qualificar e reger as obrigações, aplicar-se-á a **lei do país em que se constituírem**”
+        > - Art. 9º, da LINDB: “Para qualificar e reger as obrigações, aplicar-se-á a **lei do país em que se constituírem**”
         
         - **Informativo 610, STJ,** **consignou:** “A cobrança de dívida de jogo contraída por brasileiro em cassino que funciona legalmente no exterior é juridicamente possível e não ofende a ordem pública, os bons costumes e a soberania nacional”.
         - **STJ** - o código civil consagra o respeito à boa fé e veda expressamente o enriquecimento sem causa. Aquele que visita país estrangeiro e contrai livremente obrigações lícitas, não pode retornar a seu país de origem buscando impunidade civil.
