@@ -32,7 +32,7 @@ No silêncio da lei, é de 45 dias a Vacatio Legis, **mas nada impede que a lei 
 
 > _ **Art. 2º:** Não se destinando à vigência temporária, a Lei terá vigor até que outra a modifique ou revogue._
 
-*<span style="color:#fb4934">*exceções</span>:** **_lei temporária_**: prazo determinado; objetivo específico; **_lei circunstancial_**
+**<span style="color:#fb4934">exceções</span>:** **_lei temporária_**: prazo determinado; objetivo específico; **_lei circunstancial_**
 
 > **Art. 2º. §1° LINDB** - A lei posterior revoga a anterior quando **expressamente o declare**, **<span style="color:#83a598">quando seja com ela incompatível</span>** **<span style="color: #d79921">ou quando regule inteiramente a matéria de que tratava a lei anterior</span>.**
 
@@ -49,7 +49,7 @@ No silêncio da lei, é de 45 dias a Vacatio Legis, **mas nada impede que a lei 
     - **Ultratividade** – quando, embora tendo sido revogada, ainda regula situações que ocorreram quando de sua vigência. (ex: obrigação tributária é regida pela legislação em vigor à época do fato gerador).
         - **🔔Atenção ao conceito de Ultratividade, que cai em prova!** **Ultratividade -** é a capacidade da lei de produzir efeitos **mesmo após sua revogação.**
 
-**🔥🔥🔥REPRISTINAÇÃO** _(<span style="color: #d79921">outro conceito bastante cobrado!</span>)_
+## **REPRISTINAÇÃO** _(<span style="color: #d79921">outro conceito bastante cobrado!</span>)_
 
 - Conceito: **restauração** de **lei revogada,** pela **revogação da lei revogadora.**
 
@@ -59,7 +59,7 @@ No silêncio da lei, é de 45 dias a Vacatio Legis, **mas nada impede que a lei 
     - **A repristinação tem que ser expressa**.
     - Isto é, a **<span style="color:#83a598">Lei C</span>** teria que dizer que a **Lei A** seria Restaurada.
 
-## **Repristinação x** **Efeito Repristinatório**
+### **Repristinação x** **Efeito Repristinatório**
 
 - Na repristinação há **03 leis**: <span style="color:#b8bb26">a **Lei A**</span> é revogada pela **<span style="color:#fb4934">Lei B</span>**, daí a **<span style="color:#83a598">Lei C</span>** revoga a **<span style="color:#fb4934">Lei B</span>** e, expressamente, restaura a **<span style="color:#b8bb26">Lei A</span>**.
 - No efeito repristinatório há **02 leis** e **01 decisão judicial**: Imagine novamente a **<span style="color:#b8bb26">Lei A</span>**, em seguida vem a **<span style="color:#fb4934">Lei B</span>** e a revoga. No entanto, imagine que o STF decida que a **<span style="color:#fb4934">Lei B</span>** é Inconstitucional (é como se nunca tivesse sido elaborada), nesse caso a **<span style="color:#b8bb26">Lei A</span>** é restaurada, porque é como se nunca tivesse sido revogada.
