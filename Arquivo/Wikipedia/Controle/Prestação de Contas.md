@@ -21,4 +21,4 @@ Dever de demonstrar, justificar e sujeitar a exame a gestão de recursos públic
 
 - [[Tomada de Contas Especial]] · [GitHub](<Tomada%20de%20Contas%20Especial.md>)
 - [[Controle Externo]] · [GitHub](<Controle%20Externo.md>)
-- [[Accountability]] · [GitHub](<../Governan%C3%A7a/Accountability.md>)
+- [[Accountability]] · [GitHub](<Accountability.md>)

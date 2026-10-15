@@ -26,4 +26,4 @@ Procedimento administrativo destinado a selecionar a proposta apta a gerar o res
 
 - [[Planejamento da Contratação]] · [GitHub](<Planejamento%20da%20Contrata%C3%A7%C3%A3o.md>)
 - [[Contrato Administrativo]] · [GitHub](<Contrato%20Administrativo.md>)
-- [[Princípios da Administração Pública]] · [GitHub](<../Administra%C3%A7%C3%A3o/Princ%C3%ADpios%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica.md>)
+- [[Princípios da Administração Pública]] · [GitHub](<Princípios da Administração Pública.md>)

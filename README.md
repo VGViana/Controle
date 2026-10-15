@@ -60,16 +60,16 @@ As fontes normativas ficam em `99 - Legislação`, incluindo mapas de conteúdo 
 
 A pasta `Wikipedia` reúne notas de consulta rápida, conectadas às disciplinas e organizadas por assunto.
 
-- Administração — [[Wikipedia/Administração/Controle da Administração Pública|Controle da Administração Pública]] · [GitHub](<Wikipedia/Administração/>)
-- Auditoria — [[Wikipedia/Auditoria/Auditoria Operacional|Auditoria Operacional]] · [GitHub](<Wikipedia/Auditoria/>)
-- Controle — [[Wikipedia/Índice de Controle|Índice de Controle]] · [GitHub](<Wikipedia/Controle/>)
-- Finanças Públicas — [[Wikipedia/Finanças Públicas/Lei de Responsabilidade Fiscal|Lei de Responsabilidade Fiscal]] · [GitHub](<Wikipedia/Finanças Públicas/>)
-- Governança — [[Wikipedia/Governança/Governança Pública|Governança Pública]] · [GitHub](<Wikipedia/Governança/>)
-- Licitações e Contratos — [[Wikipedia/Licitações e Contratos/Processo Licitatório|Processo Licitatório]] · [GitHub](<Wikipedia/Licitações e Contratos/>)
-- Orçamento e Contabilidade — [[Wikipedia/Orçamento e Contabilidade/Orçamento Público|Orçamento Público]] · [GitHub](<Wikipedia/Orçamento e Contabilidade/>)
-- Políticas Públicas — [[Wikipedia/Políticas Públicas/Avaliação de Políticas Públicas|Avaliação de Políticas Públicas]] · [GitHub](<Wikipedia/Políticas Públicas/>)
+- Administração — [[Controle da Administração Pública|Controle da Administração Pública]] · [GitHub](<Wikipedia/Administração/>)
+- Auditoria — [[Auditoria Operacional|Auditoria Operacional]] · [GitHub](<Wikipedia/Auditoria/>)
+- Controle — [[Índice de Controle|Índice de Controle]] · [GitHub](<Wikipedia/Controle/>)
+- Finanças Públicas — [[Lei de Responsabilidade Fiscal|Lei de Responsabilidade Fiscal]] · [GitHub](<Wikipedia/Finanças Públicas/>)
+- Governança — [[Governança Pública|Governança Pública]] · [GitHub](<Wikipedia/Governança/>)
+- Licitações e Contratos — [[Processo Licitatório|Processo Licitatório]] · [GitHub](<Wikipedia/Licitações e Contratos/>)
+- Orçamento e Contabilidade — [[Orçamento Público|Orçamento Público]] · [GitHub](<Wikipedia/Orçamento e Contabilidade/>)
+- Políticas Públicas — [[Avaliação de Políticas Públicas|Avaliação de Políticas Públicas]] · [GitHub](<Wikipedia/Políticas Públicas/>)
 
-Notas transversais: [[Wikipedia/Dano ao Erário|dano ao erário]], [[Wikipedia/Parecer Prévio|parecer prévio]], [[Wikipedia/Responsabilização perante Tribunal de Contas|responsabilização perante tribunais de contas]] e [[Wikipedia/Ressarcimento ao Erário|ressarcimento ao erário]].
+Notas transversais: [[Dano ao Erário|dano ao erário]], [[Parecer Prévio|parecer prévio]], [[Responsabilização perante Tribunal de Contas|responsabilização perante tribunais de contas]] e [[Ressarcimento ao Erário|ressarcimento ao erário]].
 
 ## Acervo complementar
 

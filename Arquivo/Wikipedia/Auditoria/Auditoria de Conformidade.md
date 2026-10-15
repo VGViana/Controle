@@ -16,4 +16,4 @@ O ato, procedimento ou situação examinada observou os critérios que lhe são 
 
 - [[Achado de Auditoria]] · [GitHub](<Achado%20de%20Auditoria.md>)
 - [[Evidência de Auditoria]] · [GitHub](<Evid%C3%AAncia%20de%20Auditoria.md>)
-- [[Princípios da Administração Pública]] · [GitHub](<../Administra%C3%A7%C3%A3o/Princ%C3%ADpios%20da%20Administra%C3%A7%C3%A3o%20P%C3%BAblica.md>)
+- [[Princípios da Administração Pública]] · [GitHub](<Princípios da Administração Pública.md>)
