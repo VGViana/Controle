@@ -656,7 +656,7 @@ Elementos principais:
 	- ao patrimônio histórico e cultural.
 
 -  **Legitimados ativos** **(quem impetra - entra com a ação)**: todos os cidadãos brasileiros possuem legitimidade para ingressar com uma ação desse tipo;
-- **Legitimados passiva****:** administração pública, beneficiários do ato lesivo, e pessoas jurídicas cujo nome o ato lesivo foi praticado;
+- **Legitimados passiva:** administração pública, beneficiários do ato lesivo, e pessoas jurídicas cujo nome o ato lesivo foi praticado;
 - A competência de julgamento da Ação Popular é do **juízo de primeiro grau da Justiça Federal ou Estadual**, dependendo da esfera administrativa que realizou o ato contrário ao direito ou sua omissão. Em ambos os casos a ação é acompanhada pelo Ministério Público;
 - O Ministério Público possui importante papel na ação popular, mas antes vamos gravar que ele não poderá impetrar uma ação popular, apenas os cidadãos poderão fazê-lo. Mas o MP poderá agir como substituto processual, no caso de omissão do autor, ou como sucessor do autor, no caso de desistência desse da ação.
 
@@ -712,7 +712,7 @@ Compreende: **União, Estados e Municípios (UnEM)**
 
 ## **Organização dos Estados**
 
-- - Organizam-se pela **Constituição** e **Leis que adotarem**, **<span style="color:#d3869b">Observando a CF</span>**
+- Organizam-se pela **Constituição** e **Leis que adotarem**, **<span style="color:#d3869b">Observando a CF</span>**
     - Explorar **diretamente** ou através de **<span style="color:#fe8019">CONCESSÃO</span>**: **<span style="color:#fe8019">Gás canalizado</span>**
         - **<span style="color:#fb4934">Proibida</span>** **<span style="color:#fb4934">MP</span>** <span style="color:#fb4934">para regulamentar</span>
     - Lei **<span style="color:#83a598">Complementar</span>**: **<span style="color:#83a598">Instituir</span>** regiões **<span style="color:#83a598">metropolitanas</span>**/semelhantes
