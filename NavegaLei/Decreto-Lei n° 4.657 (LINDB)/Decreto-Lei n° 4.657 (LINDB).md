@@ -14,7 +14,7 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 * Art. 1° Salvo disposição contrária, a <span style="color:#b8bb26">**lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada**</span>. ^77575b2
 
-	* § 1° Nos <span style="color:#fb4934">**Estados estrangeiros**</span>, a obrigatoriedade da lei brasileira, quando admitida, se inicia <span style="color:#fb4934">**três meses depois de oficialmente publicada**</span>. (Vide Lei n° 1.991, de 1953) (Vide Lei n° 2.145, de 1953) (Vide Lei n° 2.598, de 1955) (Vide Lei n° 2.410, de 1955) (Vide Lei n° 2.770, de 1956) (Vide Lei n° 3.244, de 1957) (Vide Lei n° 4.966, de 1966) (Vide Decreto-Lei n° 333, de 1967) (Vide Lei n° 2.807, de 1956) (Vide Lei n° 4.820, de 1965) ^e18a0e8
+	* § 1° Nos <span style="color:#fb4934">**Estados estrangeiros**</span>, a obrigatoriedade da lei brasileira, quando admitida, se inicia <span style="color:#fb4934">**três meses depois de oficialmente publicada**</span>.  ^e18a0e8
 	* § 3° Se, <span style="color:#b8bb26">antes de entrar a lei em vigor,</span> ocorrer <span style="color:#b8bb26">nova publicação</span> de seu texto, destinada a <span style="color:#b8bb26">correção</span>, o prazo deste artigo e dos parágrafos anteriores <span style="color:#b8bb26">começará a correr da nova publicação</span>. ^0eea03b
 
 	* § 4° As <span style="color: #d79921">correções a texto de lei já em vigor consideram-se lei nova</span>. ^472c1ce
@@ -33,11 +33,11 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 180 
 
 * Art. 5° Na aplicação da lei, o <span style="color: #d79921">juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum</span>. ^30f4637
 
-* Art. 6° A Lei em vigor terá efeito imediato e geral, <span style="color:#83a598">respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada</span>. (Redação dada pela Lei n° 3.238, de 1957) ^251d44c
+* Art. 6° A Lei em vigor terá efeito imediato e geral, <span style="color:#83a598">respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada</span>.  ^251d44c
 
-	* § 1° Reputa-se ato jurídico perfeito o já consumado segundo a lei vigente ao tempo em que se efetuou. (Incluído pela Lei n° 3.238, de 1957) ^507bff4
+	* § 1° Reputa-se ato jurídico perfeito o já consumado segundo a lei vigente ao tempo em que se efetuou.  ^507bff4
 
-	* § 2° Consideram-se adquiridos assim os direitos que o seu titular, ou alguém por êle, possa exercer, como aquêles cujo comêço do exercício tenha têrmo pré-fixo, ou condição pré-estabelecida inalterável, a arbítrio de outrem. (Incluído pela Lei n° 3.238, de 1957) ^1b67a8a
+	* § 2° Consideram-se adquiridos assim os direitos que o seu titular, ou alguém por êle, possa exercer, como aquêles cujo comêço do exercício tenha têrmo pré-fixo, ou condição pré-estabelecida inalterável, a arbítrio de outrem.  ^1b67a8a
 
 	* § 3° Chama-se coisa julgada ou caso julgado a decisão judicial de que já não caiba recurso. (Incluído pela Lei n° 3.238, de 1957) ^1e3949e
 
