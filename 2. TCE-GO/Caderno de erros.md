@@ -71,12 +71,12 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ### VRIO
 
-|Letra|Significado|Pergunta-chave|
-|---|---|---|
-|**V**|**Valor**|O recurso gera valor ou vantagem para a empresa?|
-|**R**|**Raridade**|Poucas empresas têm esse recurso?|
-|**I**|**Imitabilidade**|É difícil para os concorrentes imitarem esse recurso?|
-|**O**|**Organização**|A empresa está organizada para explorar esse recurso?|
+| Letra | Significado       | Pergunta-chave                                        |
+| ----- | ----------------- | ----------------------------------------------------- |
+| **V** | **Valor**         | O recurso gera valor ou vantagem para a empresa?      |
+| **R** | **Raridade**      | Poucas empresas têm esse recurso?                     |
+| **I** | **Imitabilidade** | É difícil para os concorrentes imitarem esse recurso? |
+| **O** | **Organização**   | A empresa está organizada para explorar esse recurso? |
 
 ### Departamentalização 
 
