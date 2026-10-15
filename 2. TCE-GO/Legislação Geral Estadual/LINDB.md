@@ -234,6 +234,7 @@ Obs.: A <span style="color:#83a598">equidade</span> (uso do bom senso; “**just
  **Arts. 20 e seguintes, LINDB** 
 
 ### **⇒ Art. 20 – Consequências práticas da decisão**: 
+
 _A motivação deverá demonstrar a **necessidade e a adequação** da medida imposta ou da invalidação de ato, contrato, ajuste, processo ou norma administrativa, **inclusive em face das possíveis alternativas**._
 
 > - Art. 20.  Nas esferas administrativa, controladora e judicial, <u>não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão.</u>  
