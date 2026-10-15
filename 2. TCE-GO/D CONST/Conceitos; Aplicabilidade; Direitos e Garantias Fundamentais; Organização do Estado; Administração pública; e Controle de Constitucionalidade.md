@@ -813,265 +813,271 @@ Conforme o art. 18, §4º, da Constituição da República Federativa do Brasil
 - Compete aos **Estados** a definição de **prazo de validade** de bilhetes de **transporte rodoviário intermunicipal de passageiros**
 	- A CF diz que a <u>competência</u> **<u>intramunicipal</u>** <u>é dos municípios</u>, **<span style="color:#fb4934">mas não disse nada sobre a intermunicipal</span>**. Logo, <span style="color:#b8bb26"><u>fica para os Estados, que possuem competência residual</u></span>
 - **Constitucional** lei **estadual** que conceda **meia-entrada** para os **professores** de redes **públicas estaduais e municipais**
-	- Não há ofensa à isonomia, pois professores da rede particular possuem outro sistema de incentivos, e professores da rede federal são quase que apenas para cursos superiores e educação profissional
-- **Inconstitucional** lei federal que conceda anistia a PM/bombeiros **estaduais** por causa de greve
-	- Primeiro que anistia é só sobre crimes e não infrações administrativas
+	- <span style="color:#fb4934"><u>Não há ofensa à isonomia</u></span>, pois professores da rede particular possuem outro sistema de incentivos, e professores da rede federal são quase que apenas para cursos superiores e educação profissional
+- **<span style="color:#fb4934">Inconstitucional</span>** lei federal que conceda <span style="color:#fb4934">anistia</span> a PM/bombeiros **<span style="color:#fb4934">estaduais</span>** por causa de greve
+	- Primeiro que <u>anistia é só sobre crimes e não infrações administrativas</u>
 	- Segundo que só a respectiva esfera de Poder pode dar anistia aos seus servidores
-- **Inconstitucional** lei **Estadual** que obrigue prestadores de serviços a estenderem benefícios de novas promoções aos clientes preexistentes
-	- Invade a competência da União sobre direito civil
+- **<span style="color:#fb4934">Inconstitucional</span>** lei **Estadual** que obrigue prestadores de serviços a <u>estenderem benefícios</u> de novas promoções aos <u>clientes preexistentes</u>
+	- Invade a competência da União sobre <u>direito civil</u>
 - **Constitucional** lei federal que prevê transferência de recursos da União p/ Estados para garantir acesso à internet, com fins educacionais, por alunos e professores em virtude da Covid-19
 	- Houve veto presidencial; o veto foi derrubado. O assunto chegou ao STF, sob alegação de que aumentaria despesa e, por isso, deveria ser iniciativa do chefe do executivo
 	- **Não fere a iniciativa não! N**ão se trata sobre criação de órgãos ou reestruturação da administração, logo a iniciativa não é privativa do Executivo.
-	- **Além disso**, a lei foi precedida da demonstração de viabilidade financeira e orçamentária
-- **Inconstitucional** lei estadual que fixe obrigatoriedade diária de divulgação de foto de crianças desaparecidas em TV e jornais no Estado; formal e materialmente
+	- **Além disso**, a lei <u>foi precedida da demonstração de viabilidade financeira e orçamentária</u>
+- **<span style="color:#fb4934">Inconstitucional</span>** lei <u>estadual</u> que fixe obrigatoriedade diária de divulgação de foto de crianças desaparecidas em TV e jornais no Estado; <u>formal e materialmente</u>
 	- Invadiu competência da União para legislar sobre radiodifusão (inconstitucionalidade formal)
 	- Viola o princípio da livre iniciativa e a liberdade de informação (inconstitucionalidade material)
 	- E ainda disciplina de modo diferente do que prevê a Lei Federal 🤦‍♂️
-- **Inconstitucional** lei **estadual** que estabeleça obrigações sobre serviço médico-hospitalar que interferem nas relações contratuais entre operadoras de planos de saúde e seus usuários
-	- **Formalmente**, pois invade competência da União para dispor sobre direito civil e sobre seguros (“seguros” abrange plano de saúde)
+- **Inconstitucional** lei **estadual** que estabeleça obrigações sobre serviço médico-hospitalar que interferem nas <span style="color:#fb4934"><u>relações contratuais</u></span> entre operadoras de planos de saúde e seus usuários
+	- **Formalmente**, pois invade competência da União para dispor sobre <u>direito civil e sobre seguros</u> (“seguros” abrange plano de saúde)
 - **Constitucional** lei estadual que obrigue a colocar nas contas de água/luz msg de incentivo à doação de sangue
 	- Diz respeito à proteção à saúde, logo é competência concorrente
-- **Inconstitucional** lei municipal que verse sobre a instalação de estação de rádio quanto ao uso e ocupação do solo urbano
+- **<span style="color:#fb4934">Inconstitucional</span>** lei municipal que verse sobre a instalação de estação de rádio quanto ao uso e ocupação do solo urbano
 	- Invade competência da União sobre radiodifusão
-- **Inconstitucional** Constituição Estadual atribuir foro privilegiado para diretores da adm indireta e reitores de universidades
-	- A questão de foro privilegiado é de observância obrigatória, os Estados não podem alterar
-- **Inconstitucional** lei estadual que preveja que vigilante de empresa de segurança privada e atirador desportivo possuem direito ao porte de arma de fogo por serem atividades de risco.
-	- Invade competência da União para legislar sobre material bélico
-- **Inconstitucional** lei estadual mandar a Fazenda Pública antecipar pgto de despesas com diligências aos Oficiais de Justiça
-	- No caso, estão em **sede de execução fiscal,** então o dispositivo entra no bojo do direito processual, de competência da União
-- **Lei Estadual pode** mandar reservar 2 assentos em transporte público e 3% das cadeiras de cinemas para pessoas com **obesidade**.
-	- Não ofende a livre iniciativa, ao contrário, pondera-a com valores da dignidade da vida humana
-- **Inconstitucional** lei de iniciativa **parlamentar** que **proíba** o Poder Executivo e as Empresas Públicas/SEM de assinarem contratos que viabilizem a transferência do controle técnico, administrativo ou de gestão compartilhada
+- **<span style="color:#fb4934">Inconstitucional</span>** Constituição Estadual atribuir <span style="color:#fb4934">foro privilegiado</span> para diretores da <span style="color:#fb4934">adm indireta e reitores de universidades</span>
+	- A questão de foro privilegiado é de observância obrigatória, <span style="color:#fb4934">os Estados não podem alterar</span>
+- **<span style="color:#fb4934">Inconstitucional</span>** lei estadual que preveja que <u>vigilante de empresa de segurança privada e atirador desportivo possuem direito ao porte de arma de fogo</u> por serem atividades de risco.
+	- <u>Invade competência da União para legislar sobre material bélico</u>
+- **<span style="color:#fb4934">Inconstitucional</span>** lei estadual mandar a Fazenda Pública <u>antecipar pgto de despesas com diligências aos Oficiais de Justiça</u>
+	- No caso, estão em **sede de execução fiscal,** então o dispositivo entra no bojo do <u>direito processual</u>, de competência da União
+- **<span style="color:#b8bb26">Lei Estadual pode</span>** mandar reservar 2 assentos em transporte público e 3% das cadeiras de cinemas para pessoas com **obesidade**.
+	- <span style="color:#fb4934">Não ofende a livre iniciativa</span>, ao contrário, pondera-a com valores da dignidade da vida humana
+- **<span style="color:#fb4934">Inconstitucional</span>** lei de iniciativa **parlamentar** que **proíba** o Poder Executivo e as Empresas Públicas/SEM de assinarem contratos que viabilizem a <u>transferência do controle técnico, administrativo ou de gestão compartilhada</u>
 - **PODE** lei Municipal mandar substituir sacolas comuns por sacolas biodegradáveis
-- **Inconstitucional** Constituição Estadual disciplinar **intervenção estadual de forma diferente das previstas na CF⚠️**
-- **Inconstitucional** lei de iniciativa **parlamentar** que obrigue Governador a escolher o chefe da Policia Civil a partir de lista tríplice 
+- **<span style="color:#fb4934">Inconstitucional</span>** Constituição Estadual disciplinar **<span style="color:#fb4934"><u>intervenção estadual de forma diferente das previstas na CF</u></span>⚠️**
+- **<span style="color:#fb4934">Inconstitucional</span>** lei de iniciativa **parlamentar** que <u>obrigue Governador a escolher o chefe da Policia Civil a partir de lista tríplice</u> 
 	- Matéria de iniciativa do governador. (vício formal)
 	- Ainda tem vício material também, porque a Policia Civil não tem independência, ou seja, se subordina ao governador
-- Lei Estadual **não pode** instituir RPPS para servidor que não seja efetivo
-- É privativa da **União** a competência para legislar sobre condições para o exercício da profissão de despachante
+- Lei Estadual **<span style="color:#fb4934">não pode</span>** instituir <span style="color:#fb4934">RPPS</span> para servidor que <span style="color:#fb4934">não seja efetivo</span>
+- <span style="color:#83a598">É privativa da</span> **<span style="color:#83a598">União</span>** a competência para <span style="color:#83a598">legislar</span> sobre condições para o <span style="color:#83a598">exercício da profissão de despachante</span>
 	- Organização do sistema nacional de emprego e condições para exercício das profissões
-- **Inconstitucional** decisão judicial que determine penhora/bloqueio de receitas públicas destinadas à execução de contratos de gestão para o pagamento de despesas diferentes
-- **Inconstitucional** lei **municipal** que dá gratuidade a idosos nos cinemas de segunda à sexta 
-	- Invade a competência da União para legislar sobre direito econômico
-- Lei de iniciativa **parlamentar** **não pode** instituir reserva de vagas de estacionamento aos órgãos públicos 
+- **<span style="color:#fb4934">Inconstitucional</span>** decisão judicial que determine penhora/bloqueio de receitas públicas destinadas à execução de contratos de gestão para o pagamento de despesas diferentes
+- **<span style="color:#fb4934">Inconstitucional</span>** lei **municipal** que dá <u>gratuidade a idosos</u> nos cinemas de segunda à sexta 
+	- Invade a competência da União para legislar sobre <u>direito econômico</u>
+- Lei de iniciativa **<span style="color:#fb4934">parlamentar</span>** **<span style="color:#fb4934">não pode</span>** instituir reserva de vagas de estacionamento aos <u>órgãos públicos</u> 
 	- Iniciativa do governador (no caso, a lei era para dar reserva de vaga p/ advogado)
-- **Inconstitucional** norma da **Constituição Estadual** que preveja que, em caso de dupla vacância do cargo de Governador/Vice no último biênio **não haverá eleições**
-	- Embora o art 81 da CF (dupla vacância da Presidência no último biênio = eleição em 30 dias pelo Congresso Nacional) não seja de reprodução obrigatória, os Estados **não podem** suprimir as eleições para os cargos, sejam diretas ou indiretas (suprime o princípio democrático)
+- **<span style="color:#fb4934">Inconstitucional</span>** norma da **Constituição Estadual** que preveja que, em caso de <u>dupla vacância do cargo de Governador/Vice</u> no último biênio **<span style="color:#fb4934">não haverá eleições</span>**
+	- Embora o art 81 da CF (dupla vacância da Presidência no último biênio = eleição em 30 dias pelo Congresso Nacional) <span style="color:#fb4934"><u>não seja de reprodução obrigatória,</u></span> os <span style="color:#fb4934">Estados</span> **<span style="color:#fb4934">não podem</span>** <span style="color:#fb4934">suprimir as eleições</span> para os cargos, sejam diretas ou indiretas (suprime o princípio democrático)
 
-⚠️ **Aprofundando**: Existem 2 possibilidades para essa vacância >> **causas eleitorais** e causas não eleitorais
+⚠️ **Aprofundando**: Existem 2 possibilidades para essa vacância >> **<span style="color:#b8bb26">causas eleitorais</span>** e <span style="color:#d3869b">causas não eleitorais</span>
 
-Causa **não eleitoral**, por exemplo, **morte** do governador/vice, os **Estados podem disciplinar** como se dará a sucessão, que é o caso do art 81 da CF, de **reprodução não obrigatória** e também o caso do contexto desse julgado.
+- Causa **<span style="color:#d3869b">não eleitoral</span>**, por exemplo, **<span style="color:#d3869b">morte</span>** do governador/vice, os **<span style="color:#d3869b">Estados podem disciplinar</span>** como se dará a sucessão, que é o caso do art 81 da CF, de **<span style="color:#d3869b">reprodução não obrigatória</span>** e também o caso do contexto desse julgado.
 
-**Causa eleitoral** (por exemplo, **cassação** do governador e do vice), aí é competência da União legislar sobre Direito Eleitoral (existe regra expressa no Código Eleitoral)
+**<span style="color:#b8bb26">Causa eleitoral</span>** (por exemplo, **<span style="color:#b8bb26">cassação</span>** do governador e do vice), aí é <span style="color:#b8bb26"><u>competência da União legislar sobre Direito Eleitoral</u></span> (existe regra expressa no Código Eleitoral)
 
- **Intervenção nos Estados e Municípios:**
+## **Intervenção nos Estados e Municípios:**
 
-- - Medida excepcional que restringe temporariamente a autonomia de uma unidade da federação para restaurar o funcionamento regular do poder público ou proteger interesses coletivos essenciais.
+- Medida excepcional que restringe temporariamente a autonomia de uma unidade da federação para restaurar o funcionamento regular do poder público ou proteger interesses coletivos essenciais.
         
-    - **Quem intervém**: instância superior da federação atua sobre a inferior (União sobre Estado/DF; Estado sobre Município) quando necessário.
+- **<span style="color:#83a598">Quem intervém</span>**: instância superior da federação atua sobre a inferior (União sobre Estado/DF; Estado sobre Município) quando necessário.
+	
+- **<span style="color:#83a598">Motivos comuns</span>**: defesa da integridade territorial; invasão; grave comprometimento da ordem pública; impedimento do funcionamento dos poderes locais; quebra grave das finanças públicas; omissão no cumprimento de obrigações essenciais; execução de decisões judiciais ou leis.
+	
+- **<span style="color:#83a598">Como se executa</span>**: intervenção é decretada formalmente; deve indicar objetivo, alcance e prazo; pode nomear interventor e prever medidas específicas para restabelecer a normalidade.
+	
+- **<span style="color:#83a598">Controles e limites</span>**: hipóteses são taxativas (não se admite ampliação), a medida deve ser proporcional e temporária, e está sujeita a controle político e judicial por órgãos competentes.
+	
+- **<span style="color:#83a598">Efeitos práticos</span>**: suspensão parcial de competências locais, substituição temporária de gestores por interventor e ações de reorganização administrativa/financeira visando retornar a unidade à normalidade.
+	
+- **<span style="color:#83a598">Princípios norteadores</span>**: preservação do pacto federativo, proporcionalidade, temporariedade, legalidade e controle constitucional.
+	
+- **<span style="color:#d3869b">Jurisprudência</span>**: tribunais tendem a interpretar as hipóteses restritivamente; decisões enfatizam necessidade de motivação concreta e respeito aos limites constitucionais.
+	
+
+# **6. Administração Pública**
+
+## **6.1. Princípios da Administração Pública**
+
+### **Função Administrativa**
+
+- **<span style="color:#fe8019">Típica</span>** - Poder **<span style="color:#fe8019">Executivo</span>**
+- Atípica - Demais Poderes
+
+ ### **Princípios**
+
+- **<span style="color:#d3869b">LIMPE</span>**: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência.
+	
+- Possibilidade de inclusão de outros princípios (ex: proporcionalidade, razoabilidade).
+	
+- Publicidade x sigilo: casos de restrição (segurança do Estado, intimidade).
         
-    - **Motivos comuns**: defesa da integridade territorial; invasão; grave comprometimento da ordem pública; impedimento do funcionamento dos poderes locais; quebra grave das finanças públicas; omissão no cumprimento de obrigações essenciais; execução de decisões judiciais ou leis.
-        
-    - **Como se executa**: intervenção é decretada formalmente; deve indicar objetivo, alcance e prazo; pode nomear interventor e prever medidas específicas para restabelecer a normalidade.
-        
-    - **Controles e limites**: hipóteses são taxativas (não se admite ampliação), a medida deve ser proporcional e temporária, e está sujeita a controle político e judicial por órgãos competentes.
-        
-    - **Efeitos práticos**: suspensão parcial de competências locais, substituição temporária de gestores por interventor e ações de reorganização administrativa/financeira visando retornar a unidade à normalidade.
-        
-    - **Princípios norteadores**: preservação do pacto federativo, proporcionalidade, temporariedade, legalidade e controle constitucional.
-        
-    - **Jurisprudência**: tribunais tendem a interpretar as hipóteses restritivamente; decisões enfatizam necessidade de motivação concreta e respeito aos limites constitucionais.
-        
 
-**6. Administração Pública**
+### Sentidos
 
-**6.1. Princípios da Administração Pública**
+#### Amplo x Estrito
 
-**Função Administrativa**
+- **<u>Administração Pública em sentido amplo</u>** - **<span style="color:#83a598"><u>todos</u></span>** os órgãos e entidades que exercem a função administrativa, e os órgãos políticos, que exercem a função política.
+- **<u>Administração Pública em sentido estrito</u>** - **<span style="color:#fe8019"><u>somente</u></span>** os órgãos e entidades que <u>exercem a função </u>**<span style="color:#fe8019"><u>administrativa</u></span>**.
 
-- - **Típica** - Poder **Executivo**
-    - Atípica - Demais Poderes
+#### Função Política x Administrativa
 
- **Princípios**
+- **Função <span style="color:#d3869b">Política</span>** - **<span style="color:#d3869b"><u>criação</u></span>** de políticas públicas
+- **Função <span style="color:#b8bb26">administrativa</span>** - **<span style="color:#b8bb26"><u>execução</u></span>** das políticas públicas
 
-- - **LIMPE**: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência.
-        
-    - Possibilidade de inclusão de outros princípios (ex: proporcionalidade, razoabilidade).
-        
-    - Publicidade x sigilo: casos de restrição (segurança do Estado, intimidade).
-        
+#### Subjetivo (formal ou orgânico) x Objetivo (material ou funcional)
 
-- - **Administração Pública em sentido amplo** - **todos** os órgãos e entidades que exercem a função administrativa, e os órgãos políticos, que exercem a função política.
-    - **Administração Pública em sentido estrito** - **somente** os órgãos e entidades que exercem a função **administrativa**.
+- ⚠️**<u>Administração Pública em sentido</u>** **<span style="color:#b8bb26"><u>subjetivo (formal ou orgânico)</u></span>** - **<span style="color:#b8bb26">SUJEITOS</span>** - aqueles que exercem atividades administrativas e fazem parte da Administração Pública: entidades administrativas (administração indireta) e órgãos públicos (administração direta)
 
-- - **Função Política** - **criação** de políticas públicas
-    - **Função administrativa** - **execução** das políticas públicas
+- **⚠️<u>Administração Pública em sentido</u>** **<span style="color:#83a598"><u>objetivo (material ou funcional)</u></span>** - **<span style="color:#83a598">ATIVIDADES</span>** - fomento, polícia administrativa, serviço público e intervenção.
 
-⚠️**Administração Pública em sentido** **subjetivo (formal ou orgânico)** - **SUJEITOS** - aqueles que exercem atividades administrativas e fazem parte da Administração Pública: entidades administrativas (administração indireta) e órgãos públicos (administração direta)
+## **6.2. Organização da Administração Pública**
 
-**⚠️Administração Pública em sentido** **objetivo (material ou funcional)** - **ATIVIDADES** - fomento, polícia administrativa, serviço público e intervenção.
+### **Administração Direta x Administração Indireta**
 
-**6.2. Organização da Administração Pública**
+| **Administração DIRETA** | **Administração INDIRETA**                                                                                                          |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Órgãos públicos          | Entidades administrativas:<br><br>Autarquias<br><br>Fundações Públicas<br><br>Empresas Públicas<br><br>Sociedades de Economia Mista |
+| **Centralização**        | **Descentralização**                                                                                                                |
 
-**Administração Direta x Administração Indireta**
+<u>Órgãos Públicos</u> - entidades **<span style="color:#fb4934">sem personalidade jurídica</span>** que atuam junto aos entes políticos.
 
-|   |   |
-|---|---|
-|**Administração DIRETA**|**Administração INDIRETA**|
-|Órgãos públicos|Entidades administrativas:<br><br>Autarquias<br><br>Fundações Públicas<br><br>Empresas Públicas<br><br>Sociedades de Economia Mista|
-|**Centralização**|**Descentralização**|
+<u>Entidades Administrativas</u> - **<span style="color:#83a598">possuem personalidade jurídica</span>**
 
-Órgãos Públicos - entidades **sem personalidade jurídica** que atuam junto aos entes políticos.
-
-Entidades Administrativas - **possuem personalidade jurídica**
-
-- - **Autarquias** - pessoas jurídicas de direito públicos **criadas** por lei que exercem atividade administrativas;
-    - **Fundações Públicas** - podem ter personalidade jurídica de direito público (consideradas autarquias) que são **criadas** por lei. Ou podem ter personalidade jurídica de direito privado, no caso são **autorizadas** por lei;
-    - **Empresas Públicas** - pessoas jurídicas de direito privado que são **autorizadas** por lei e exercem atividade econômica (há empresas públicas que exercem serviços públicos). O capital social deve ser 100% público;
-    - **Sociedade de economia mista** - pessoas jurídicas de direito privado que são **autorizadas** por lei e exercem atividade econômica. O capital social deve ser majoritariamente público.  
-        
+- **Autarquias** - pessoas jurídicas de direito públicos **criadas** por lei que exercem atividade administrativas;
+- **Fundações Públicas** - podem ter personalidade jurídica de direito público (consideradas autarquias) que são **criadas** por lei. Ou podem ter personalidade jurídica de direito privado, no caso são **autorizadas** por lei;
+- **Empresas Públicas** - pessoas jurídicas de direito privado que são **autorizadas** por lei e exercem atividade econômica (há empresas públicas que exercem serviços públicos). O capital social deve ser 100% público;
+- **Sociedade de economia mista** - pessoas jurídicas de direito privado que são **autorizadas** por lei e exercem atividade econômica. O capital social deve ser majoritariamente público.  
+	
 
 ⚠️A criação de subsidiárias depende de autorização legislativa.
 
-**6.3. Agentes Públicos**
+## **6.3. Agentes Públicos**
 
-_Art. 37, I, CF/88 - os cargos, empregos e funções públicas são acessíveis aos_ **_brasileiros_** _que preencham os requisitos estabelecidos em lei, assim como aos **estrangeiros, na forma da lei;**_ 
+> _Art. 37, I, CF/88 - os cargos, empregos e funções públicas são acessíveis aos_ **_<span style="color:#b8bb26">brasileiros</span>_** _que preencham os requisitos estabelecidos em lei, assim como aos **<span style="color:#fe8019">estrangeiros, na forma da lei;</span>**_ 
 
-- - **Súmula Vinculante nº 44 (STF)**: "Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
-    - S**úmula nº 14 (STF)**: “**Não é admissível**, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo público."
+- **Súmula Vinculante nº 44 (STF)**: "<u>Só por lei</u> se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
+- S**úmula nº 14 (STF)**: “**<span style="color:#fb4934">Não é admissível</span>**, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo público."
 
 **Atenção:**
 
-- - Requisitos para cargos públicos - data da posse
-    - Limite de idade - data da inscrição
-    -  Brasileiros (natos ou naturalizados) - podem ocupar cargos públicos na forma da lei; **devem atender os requisitos em lei**
-    - Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve haver lei autorizando.**
+- Requisitos para cargos públicos - data da posse
+- Limite de idade - data da inscrição
+-  Brasileiros (<u>natos ou naturalizados</u>) - podem ocupar cargos públicos na forma da lei; **devem atender os requisitos em lei**
+- Estrangeiros - podem ocupar cargos públicos, **quando autorizados em lei; deve haver lei autorizando.**
 
 **STF:**
 
-- - aprovação dentro no número de vagas - direito **SUBJETIVO** à nomeação.
-    - Em situação **excepcional** (deve ser comprovado a **superveniência**, **imprevisibilidade** e **gravidade**) pode a Administração **deixar de nomear** os candidatos dentro das vagas. 
-    - “é constitucional a remarcação do teste de aptidão física de candidata que esteja grávida à época de sua realização, independentemente da previsão expressa em edital do concurso público”.
-    - Pode haver provas em horários diferentes - escusa de consciência por motivo de crença religiosa.
-    - O edital do concurso poderá ser alterado **APENAS** para corrigir erro material ou por ordem legal.
-    - Apenas haverá controle judicial em questões do certame para retificar conteúdo não previsto no edital, mas **NÃO** para analisar critérios de correção ou avaliação da banca examinadora.
-    - deve haver primeiro um concurso de remoção dos servidores públicos, para então, nomear novos candidatos.
-    - a cláusula de barreira e as cláusulas eliminatórias são constitucionais.
+- aprovação dentro no número de vagas - direito **SUBJETIVO** à nomeação.
+- Em situação **<span style="color:#fb4934">excepcional</span>** (deve ser comprovado a **<span style="color:#fb4934">superveniência</span>**, **<span style="color:#fb4934">imprevisibilidade</span>** e **<span style="color:#fb4934">gravidade</span>**) pode a Administração **<span style="color:#fb4934">deixar de nomear</span>** os candidatos dentro das vagas. 
+- “é constitucional a remarcação do teste de aptidão física de candidata que esteja grávida à época de sua realização, independentemente da previsão expressa em edital do concurso público”.
+- Pode haver provas em horários diferentes - escusa de consciência por motivo de crença religiosa.
+- O edital do concurso poderá ser alterado **APENAS** para corrigir erro material ou por ordem legal.
+- Apenas haverá controle judicial em questões do certame para retificar conteúdo não previsto no edital, mas **<span style="color:#fb4934">NÃO</span>** para analisar critérios de correção ou avaliação da banca examinadora.
+- deve haver primeiro um concurso de remoção dos servidores públicos, para então, nomear novos candidatos.
+- a cláusula de barreira e as cláusulas eliminatórias são constitucionais.
 
-**Súmula Vinculante nº 43,** que diz: “é **inconstitucional** toda modalidade de provimento que propicie ao servidor investir-se, **sem prévia aprovação em concurso público** destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido”.
+> **Súmula Vinculante nº 43,** que diz: “é **<span style="color:#fb4934">inconstitucional</span>** toda modalidade de provimento que propicie ao servidor investir-se, **<span style="color:#fb4934">sem prévia aprovação em concurso</span> público** destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido”.
 
-**Súmula 15 do STF**: “dentro do prazo de validade do concurso, o candidato aprovado tem direito à nomeação, quando o cargo for preenchido sem observância da classificação”.
+> **Súmula 15 do STF**: “dentro do prazo de validade do concurso, o candidato aprovado tem direito à nomeação, quando o cargo for preenchido sem observância da classificação”.
 
 **STJ -** candidato nomeados após um longo período de tempo, **NÃO** têm direito à indenização pelo prazo em que não trabalhou.
 
-**6.4. Acumulação remunerada de cargos, empregos e funções públicas**
+## **6.4. Acumulação remunerada de cargos, empregos e funções públicas**
 
 Saiba que a proibição de acumulação de cargos públicos é estendida a **toda Administração Pública**, Direta e Indireta, não importado se a entidade é pessoa jurídica de direito público ou privado!
 
-**Grave**: a **vedação** constitucional de **acumulação remunerada** de cargo público aplica-se a empregos e funções, abrangendo as **autarquias, fundações, empresas públicas e sociedades de economia mista.**
+**<span style="color:#d3869b">Grave</span>**: a **<span style="color:#d3869b">vedação</span>** constitucional de **<span style="color:#d3869b">acumulação remunerada</span>** de cargo público aplica-se a empregos e funções, abrangendo as **<span style="color:#d3869b"><u>autarquias, fundações, empresas públicas e sociedades de economia mista.</u></span>**
 
-**Regra Geral:** Proibição de acumulação de cargos públicos
+**<span style="color:#83a598">Regra Geral</span>:** Proibição de acumulação de cargos públicos
 
-Acumulação de cargos remunerados na ativa é **VEDADA**, **exceto**:
+Acumulação de cargos remunerados na ativa é **<span style="color:#83a598">VEDADA</span>**, **<span style="color:#fb4934"><u>exceto</u></span>**:
 
-- - **2 cargos de professor**
-    - **1 cargo de professor com outro de qualquer natureza**   **(Novidade! Inserido pela EC 138/2025)**
-    - **2 cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas**
+- **2 cargos de <span style="color:#fe8019">professor</span>**
+- **1 cargo de <span style="color:#fe8019">professor com outro de qualquer natureza</span>**   **(Novidade! Inserido pela EC 138/2025)**
+- **2 cargos ou empregos <span style="color:#fe8019">privativos de profissionais de saúde</span>, com profissões regulamentadas**
 
-**🚨 Deve haver: compatibilidade de horários + Respeito ao teto remuneratório (PARA CADA CARGO, separadamente)**
+**🚨 <span style="color:#b8bb26">Deve haver: compatibilidade de horários + Respeito ao teto remuneratório (PARA CADA CARGO, separadamente)</span>**
 
-💡**Atenção: Acumulação de cargos remunerados na aposentadoria - RGPS é** **VEDADA:** A **regra geral** é que **é vedada a acumulação de aposentadorias custeadas pelo RGPS** (Regime Geral de Previdência Social) mas isso não impede que alguém que se aposentou pelo regime geral de previdência social venha a ocupar um cargo público “qualquer”
+💡**<span style="color:#83a598">Atenção</span>: Acumulação de cargos remunerados na aposentadoria - RGPS é** **<span style="color:#83a598">VEDADA</span>:** A **regra geral** é que **é vedada a acumulação de aposentadorias custeadas pelo RGPS** (Regime Geral de Previdência Social) mas isso <span style="color:#fb4934">não impede que alguém que se aposentou pelo regime geral de previdência social venha a ocupar um cargo público “qualquer”</span>
 
 👉 Isso significa que uma mesma pessoa **não pode receber duas ou mais aposentadorias do INSS** ao mesmo tempo. Essa vedação é para o **RGPS**. Já nos **Regimes Próprios de Previdência Social (RPPS)** (servidores públicos), pode haver acumulação de proventos de aposentadoria **quando houver a possibilidade de acumulação dos cargos na ativa** (ex.: dois cargos de professor, ou dois cargos privativos de profissionais da saúde).
 
-**Explicando melhor:** 
+**<span style="color:#83a598">Explicando melhor:</span>** 
 
-A vedação constitucional à acumulação de cargos públicos, prevista no art. 37, inciso XVI da Constituição Federal, aplica-se ao exercício simultâneo de cargos, empregos ou funções públicas **ATIVAS**, não impedindo que uma pessoa aposentada pelo Regime Geral de Previdência Social (RGPS) venha a ocupar um cargo público, desde que observados os requisitos legais e as restrições quanto à acumulação de cargos.
+A vedação constitucional à acumulação de cargos públicos, prevista no art. 37, inciso XVI da Constituição Federal, aplica-se ao exercício simultâneo de cargos, empregos ou funções públicas **<span style="color:#83a598">ATIVAS</span>**, não impedindo que uma pessoa aposentada pelo Regime Geral de Previdência Social (RGPS) venha a ocupar um cargo público, desde que observados os requisitos legais e as restrições quanto à acumulação de cargos.
 
 📌 **Resumindo:**
 
-- - **RGPS (INSS):** proibido acumular duas aposentadorias.
+- **RGPS (INSS):** proibido acumular duas aposentadorias.
         
-    - **RPPS:** possível acumular, desde que os cargos sejam constitucionalmente acumuláveis.
-        
-    - Pode haver **acumulação de aposentadoria do RGPS com aposentadoria do RPPS**.
+- **RPPS:** possível acumular, desde que os cargos sejam constitucionalmente acumuláveis.
+	
+- Pode haver **acumulação de aposentadoria do RGPS com aposentadoria do RPPS**.
         
 
 Assim, podemos citar outras hipóteses de acumulação, quais sejam:
 
-a) vereador poderá exercer também o seu cargo, emprego ou função, quando houver compatibilidade de horários (CF, art. 38, III);
+a) <span style="color:#fe8019">vereador</span> poderá exercer também o seu cargo, emprego ou função, quando houver compatibilidade de horários (CF, art. 38, III);
 
-b) juízes podem exercer um cargo ou função no magistério (professor) (CF, art. 95, parágrafo único, I);
+b) <span style="color:#fe8019">juízes</span> podem exercer um cargo ou função no magistério (professor) (CF, art. 95, parágrafo único, I);
 
-c) membros do Ministério Público (promotores e procuradores de Justiça) podem exercer uma função de magistério (CF, art. 125, § 5º, II, “d”);
+c) <span style="color:#fe8019">membros do Ministério Público</span> (promotores e procuradores de Justiça) podem exercer uma função de magistério (CF, art. 125, § 5º, II, “d”);
 
-d) profissionais de saúde das Forças Armadas podem outro cargo ou emprego privativo de profissionais de saúde, com profissões regulamentadas. Essa acumulação ocorrerá “na forma da lei e com prevalência da atividade militar” (CF, art. 142, VIII);
+d) <span style="color:#fe8019">profissionais de saúde das Forças Armadas</span> podem outro cargo ou emprego privativo de profissionais de saúde, com profissões regulamentadas. Essa acumulação ocorrerá “na forma da lei e com prevalência da atividade militar” (CF, art. 142, VIII);
 
-e) militares dos estados e do Distrito Federal se submetem as regras principais de acumulação dos servidores públicos (que listamos acima), com prevalência da atividade militar (Art. 42, § 3º).
+e) <span style="color:#fe8019">militares dos estados e do Distrito Federal</span> se submetem as regras principais de acumulação dos servidores públicos (que listamos acima), com prevalência da atividade militar (Art. 42, § 3º).
 
-- - **Cargo comissionado** _não possui estabilidade_, porquanto é de livre nomeação e exoneração.
+- **Cargo comissionado** _==<span style="color:#fb4934">não possui estabilidade</span>==_, porquanto é de livre nomeação e exoneração.
 
- 📍 **Perda do cargo** (servidor publico estável)**:**
+### **Perda do cargo** (servidor publico estável)**:**
 
-1. 1. Sentença judicial **transitada em julgado**;       
-    2. Processo administrativo, assegurada **ampla defesa**;       
-    3. Procedimento de **avaliação periódica de desempenho**, **na forma de lei complementar**, assegurada **ampla defesa;**  
+1. Sentença judicial **<span style="color:#d3869b">transitada em julgado</span>**;       
+2. <span style="color:#d3869b">Processo administrativo</span>, assegurada **<u>ampla defesa</u>**;       
+3. Procedimento de **<span style="color:#d3869b">avaliação periódica de desempenho</span>**, **==na forma de lei complementar==**, assegurada **<u>ampla defesa</u>;**  
+4. **<span style="color:#d3869b"><u>Redução de despesa com pessoal</u></span>,** respeitada a ordem:
+	1. **redução** em **==pelo menos 20%==** das **despesas** com **==cargos em comissão e funções de confiança==**;
+5. **exoneração** dos servidores **<u>==<span style="color:#b8bb26">não estáveis</span>==</u>**.
+6. **exoneração** de servidor **estável**, desde que **==motivado em ato normativo==**
+
+## **6.5. Servidores Públicos e Mandato Eletivo**
+
+- **<span style="color:#83a598">Mandato eletivo federal, distrital ou estadual</span>** - o servidor eleito será afastado do cargo e receberá a remuneração do mandato eletivo;
+- **<span style="color:#b8bb26">Mandato eletivo municipal</span>:**
+- **<span style="color:#b8bb26">Prefeito</span>** - **será afastado do cargo** e <span style="color:#fe8019">poderá optar pela remuneração que irá receber</span> (do cargo ou do mandato);
+- **<span style="color:#b8bb26">Vereador</span>** - **caso haja compatibilidade de horários**, <span style="color:#fe8019">poderá acumular os cargos e receberá as duas remunerações.</span> **Se não houver compatibilidade**, optará por uma remuneração e será afastado so cargo.
+
+**==Atenção==**: Nos casos de afastamento para exercício de mandato eletivo, o tempo de serviço no mandato será contado como tempo de serviço, **<span style="color:#fe8019">exceto para promoção por merecimento.</span>**
+
+## **6.6. Responsabilidade Civil do Estado** 
+
+- **Responsabilidade objetiva**: baseada na **Teoria do Risco Administrativo** – basta comprovar conduta, dano e nexo causal.
         
-    4. **Redução de despesa com pessoal,** respeitada a ordem:
-        1. **redução** em **pelo menos 20%** das **despesas** com **cargos em comissão e funções de confiança**;
-    5. **exoneração** dos servidores **não estáveis**.
-    6. **exoneração** de servidor **estável**, desde que **motivado em ato normativo**
-
-**6.5. Servidores Públicos e Mandato Eletivo**
-
-- - **Mandato eletivo federal, distrital ou estadual** - o servidor eleito será afastado do cargo e receberá a remuneração do mandato eletivo;
-    - **Mandato eletivo municipal:**
-    - **Prefeito** - **será afastado do cargo** e poderá optar pela remuneração que irá receber (do cargo ou do mandato);
-    - **Vereador** - **caso haja compatibilidade de horários**, poderá acumular os cargos e receberá as duas remunerações. **Se não houver compatibilidade**, optará por uma remuneração e será afastado so cargo.
-
-**Atenção**: Nos casos de afastamento para exercício de mandato eletivo, o tempo de serviço no mandato será contado como tempo de serviço, **exceto para promoção por merecimento.**
-
-### **6.6. Responsabilidade Civil do Estado** 
-
-- - **Responsabilidade objetiva**: baseada na **Teoria do Risco Administrativo** – basta comprovar conduta, dano e nexo causal.
-        
-    - **Direito de regresso** contra o agente público nos casos de dolo ou culpa.
-        
-    - **Abrange**: pessoas jurídicas de direito público e as de direito privado que prestam serviços públicos.
-        
-    - **Excludentes**: culpa exclusiva da vítima, fato de terceiro, caso fortuito ou força maior.
-        
-    - **Risco integral (exceção)**: não admite excludentes (ex: danos nucleares e ambientais).
-        
-    - **Omissão estatal**: em regra, a responsabilidade é subjetiva (necessita provar culpa do Estado).
+- **Direito de regresso** contra o agente público nos casos de dolo ou culpa.
+	
+- **Abrange**: pessoas jurídicas de direito público e as de direito privado que prestam serviços públicos.
+	
+- **Excludentes**: culpa exclusiva da vítima, fato de terceiro, caso fortuito ou força maior.
+	
+- **Risco integral (exceção)**: não admite excludentes (ex: danos nucleares e ambientais).
+	
+- **Omissão estatal**: em regra, a responsabilidade é subjetiva (necessita provar culpa do Estado).
         
 
-**6.7. Regime Previdenciário dos Servidores Públicos - RPPS**
+## **6.7. Regime Previdenciário dos Servidores Públicos - RPPS**
 
-- - Aplica-se aos **SERVIDORES TITULARES DE CARGOS EFETIVOS.**
-    -  **Não se aplica aos cargos seguintes:**
-        - celetistas
-        - empregados públicos
-        - temporários
-        - cargos em comissão não exercidos por servidores públicos
-        - mandatos eletivos
+- Aplica-se aos **<span style="color:#83a598">SERVIDORES TITULARES DE CARGOS EFETIVOS.</span>**
+-  **<span style="color:#fb4934">Não se aplica aos cargos seguintes:</span>**
+	- celetistas
+	- empregados públicos
+	- temporários
+	- cargos em comissão não exercidos por servidores públicos
+	- mandatos eletivos
 
-⚠️Deve haver **regime jurídico único** para um mesmo ente político.
+⚠️Deve haver **<span style="color:#b8bb26">regime jurídico único</span>** para um mesmo ente político.
 
-⚠️É **vedada** a criação de novos Regimes Próprios de Previdência Social.
+⚠️É **<span style="color:#fb4934">vedada</span>** a criação de novos Regimes Próprios de Previdência Social.
 
-**📌 Acumulação de aposentadoria pública:**
+### **Acumulação de aposentadoria pública:**
 
-- - **Vedada:**
-        -  percepção simultânea de proventos de aposentadoria decorrentes do:
-            - regime geral de previdência social;
-            - regime próprio de previdência social;
-            - regime próprio dos militares.
-        -  **com a remuneração de cargo, emprego ou função pública;**
-    - **Exceções:**
-        - cargos acumuláveis permitidos pela Constituição;
-        - cargos eletivos;
-        - cargos em comissão declarados em lei de livre nomeação e exoneração.
+- **Vedada:**
+	-  <span style="color:#d3869b">percepção simultânea de proventos de aposentadoria</span> decorrentes do:
+		- regime geral de previdência social;
+		- regime próprio de previdência social;
+		- regime próprio dos militares.
+	-  **<span style="color:#d3869b">com a remuneração de cargo, emprego ou função pública</span>;**
+- **<span style="color:#fb4934">Exceções</span>:**
+	- <span style="color:#83a598">cargos acumuláveis</span> permitidos pela Constituição;
+	- <span style="color:#fe8019">cargos eletivos</span>;
+	- <span style="color:#d3869b">cargos em comissão</span> declarados em lei de livre nomeação e exoneração.
 
 **👀 VEJA COMO O TEMA SERVIDORES PÚBLICOS FOI COBRADO PELA FCC ESSE ANO, NA QUESTÃO** [#3822943](https://www.tecconcursos.com.br/questoes/3822943)
 
@@ -1083,8 +1089,8 @@ O regime constitucional sobre estabilidade e reintegração prevê que, se for i
 
 ## Supremo Tribunal Federal
 
-|Processo / Tema|Ano|Resumo|Impacto / Observações|
-|---|---|---|---|
-|**Tema 656 ⭐**|2025|O Plenário do STF firmou que **as guardas municipais podem exercer ações de segurança urbana, inclusive policiamento ostensivo e comunitário**, desde que não desempenhem atribuições típicas de polícia judiciária.|Amplia a margem normativa municipal para organização das guardas; exige observância dos limites constitucionais (art.144, §8º). **Tese com repercussão geral.**|
-|**ADI 7.230/MG**|2024|O STF declarou inconstitucional norma inserida por emenda parlamentar que vedava ao Tribunal de Contas do Estado dispor sobre condições de escolha de seus conselheiros (vício de pertinência temática / iniciativa legislativa).|Reforça controle sobre iniciativa legislativa e protege autonomia administrativa/organizacional de tribunais de contas.|
-|**Informativo / Acórdãos relacionados (ex.: Informativo STF 1180)**|2024–2025|Diversas decisões do STF (reunidas em informativos) trataram de normas municipais/estaduais que afetam estrutura e regime jurídico de órgãos públicos (competência normativa, limites da legislação local, efeitos de emendas parlamentares).<br><br>**Informativo STF nº 1180/2025**: <br><br>- **Parlamentares estaduais:** Norma de Constituição estadual que permitia vantagem pecuniária por convocação extraordinária violou o **princípio da simetria federativa**, sendo declarada inconstitucional.<br>    <br>- **Suspensão de serviços públicos:** Discussão sobre **suspensão de fornecimento de energia elétrica e água por falta de pagamento** no âmbito estadual e sua compatibilidade com direitos básicos (essas ADIs também constam no informativo).|Usadas para balizar validade de atos e leis locais que tocam organização administrativo-institucional; útil para jurisprudência aplicada em recursos constitucionais.|
+| Processo / Tema                                                     | Ano       | Resumo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Impacto / Observações                                                                                                                                                 |
+| ------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tema 656 ⭐**                                                      | 2025      | O Plenário do STF firmou que **as guardas municipais podem exercer ações de segurança urbana, inclusive policiamento ostensivo e comunitário**, desde que não desempenhem atribuições típicas de polícia judiciária.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Amplia a margem normativa municipal para organização das guardas; exige observância dos limites constitucionais (art.144, §8º). **Tese com repercussão geral.**       |
+| **ADI 7.230/MG**                                                    | 2024      | O STF declarou inconstitucional norma inserida por emenda parlamentar que vedava ao Tribunal de Contas do Estado dispor sobre condições de escolha de seus conselheiros (vício de pertinência temática / iniciativa legislativa).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Reforça controle sobre iniciativa legislativa e protege autonomia administrativa/organizacional de tribunais de contas.                                               |
+| **Informativo / Acórdãos relacionados (ex.: Informativo STF 1180)** | 2024–2025 | Diversas decisões do STF (reunidas em informativos) trataram de normas municipais/estaduais que afetam estrutura e regime jurídico de órgãos públicos (competência normativa, limites da legislação local, efeitos de emendas parlamentares).<br><br>**Informativo STF nº 1180/2025**: <br><br>- **Parlamentares estaduais:** Norma de Constituição estadual que permitia vantagem pecuniária por convocação extraordinária violou o **princípio da simetria federativa**, sendo declarada inconstitucional.<br>    <br>- **Suspensão de serviços públicos:** Discussão sobre **suspensão de fornecimento de energia elétrica e água por falta de pagamento** no âmbito estadual e sua compatibilidade com direitos básicos (essas ADIs também constam no informativo). | Usadas para balizar validade de atos e leis locais que tocam organização administrativo-institucional; útil para jurisprudência aplicada em recursos constitucionais. |
