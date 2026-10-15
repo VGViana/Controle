@@ -1226,3 +1226,110 @@ o edital deve definir o **valor da contratação**.
 
 Já em **mercados fluidos**, não há preço previamente fixado, pois os preços são dinâmicos; a Administração deve registrar as cotações vigentes no **<span style="color:#b8bb26">momento da contratação</span>**.
 
+# **Contratos - Lei 14.133/2021**
+
+## **1. Conceito**
+
+- Ajuste firmado entre a Administração Pública e um particular, regulado basicamente pelo direito público, e tendo por objeto uma atividade que, de alguma forma, traduza interesse público.
+
+## **2. Considerações importantes**
+
+- Regime predominante de **Direito Público**;
+- **Supletivamente** serão observados:
+    - Princípios da Teoria Geral dos Contratos; e
+    - Preceitos de Direito Privado.
+- **Verticalidade** (supremacia da Administração);
+- Submete-se a **restrições**, como as formalidades e procedimentos; e
+- Possui **cláusulas exorbitantes.**
+
+**️<span style="color:#fb4934"><u>Atenção!</u></span>** _<span style="color:#83a598">A Administração também pode firmar contratos privados</span>_, em que prevalecerá as _<span style="color:#83a598">normas de direito privado, relação de igualdade (horizontalidade),</span>_ _<span style="color:#fb4934"><u>podendo inclusive existir cláusulas exorbitantes (Art.104, I, Lei nº 14.133/2021).</u></span>_
+
+### 🧾 Classificação dos Contratos da Administração
+
+#### **🔷 Contratos Privados da Administração (ou Semipúblicos)**
+
+- Regidos majoritariamente pelo **direito privado** (ex.: Código Civil).
+    
+- **Administração se posiciona em igualdade com o contratado.**
+    
+- Exemplos: contratos de compra e venda, locação, doação, permuta.
+    
+- Também chamados de **contratos atípicos**.
+    
+
+#### **🔷 Contratos Administrativos**
+
+- Regidos principalmente pelo **direito público**.
+    
+- Caracterizam-se pela **verticalidade**: a Administração está em posição superior.
+    
+- São **marcados por prerrogativas públicas**.
+    
+- Ex: contratos de **concessão de serviços públicos**, **obras públicas**, **uso privativo de bens públicos**.
+    
+
+## **3. Âmbito de aplicação da Lei nº 14.133/2021**
+
+- Administração direta, autárquica e fundacional (U, E, DF e M) dos três poderes (Executivo, Legislativo e Judiciário), no que se refere às funções administrativas.
+
+**<span style="color:#fb4934">Exceção</span>** (Art.3º, Lei nº 14.133/2021):
+
+- Contratos que tenham por **objeto operação de crédito, interno ou externo, e gestão de dívida pública, incluídas as contratações de agente financeiro e a concessão de garantia** relacionadas a esses contratos;
+- contratações sujeitas a normas previstas em **legislação própria**.
+
+## **4. Convênios x Contratos**
+
+- **Ambos representam ajustes bilaterais, em que as partes definem obrigações.**
+    - Nos contratos administrativos, os interesses das partes são “opostos” ou “diversos”. Diz-se “opostos” porque os interesses não são exatamente os mesmos. Exemplo: a administração de um município contratou uma empresa para a construção de um hospital. Nesta relação, o município deseja a construção do hospital, enquanto a empresa deseja obter o valor pelo cumprimento do objeto do contrato. Logo, os interesses são diversos.
+    - Nos convênios, os interesses são recíprocos. Assim, podemos definir convênios administrativos como os acordos firmados entre pessoas administrativas entre si, ou entre estas e entidades particulares, com vistas a ser alcançado determinado objetivo de interesse público e recíproco. 
+- **Características dos contratos administrativos:**
+    - a) presença da administração como poder público;
+    - b) finalidade pública;
+    - c) obediência à forma prescrita em lei (em regra, são formais);
+    - d) seguem procedimento legal, como a prévia licitação (em regra); 
+    - e) mutabilidade;
+    - f) natureza de contrato de adesão;
+    - g) natureza intuitu personae;
+    - h) a presença das cláusulas exorbitantes. 
+
+## **5. Características**
+
+- _<u>Administração como parte</u>;_
+- _<u>Finalidade pública</u>;_
+- _<u>Obediência à forma prescrita em lei</u>;_
+- _<u>Em regra</u>,_ os contratos administrativos celebrados pela Administração **são formais** _(<u>Art.91, caput, Lei nº14.133/2021;</u>_
+    - **_Caso especial:_** **_Direitos Reais Sobre Imóveis_** _serão lavrados em <u>ESCRITURA PÚBLICA</u> em notas de tabelião._
+- _<u>Podem ter forma eletrônica</u>;_
+- _<u>Procedimento Legal;</u>_
+- Como _<u>regra</u>_, submetem-se à _<u>licitação previamente;</u>_
+- _<u>Mutabilidade</u>;_
+- _<u>Natureza de</u>_ **_<u>Contrato de Adesão</u>;_**
+    - Administração estabelece previamente todas as cláusulas do contrato, de forma unilateral.
+- _<u>Natureza</u>_ **_<u>intuitu personae</u>:_**
+    - Os contratados são escolhidos mediante procedimento formal (licitação ou dispensa de licitação), ou seja, são firmados com pessoa específica cuja escolha foi justificada. Logo, **os contratos devem ser executados por esta pessoa, escolhida por meio de licitação ou de contratação direta.**
+    - **Admite-se**, no entanto, **a subcontratação de partes da obra, do serviço ou do fornecimento** até o limite **autorizado, em cada caso, pela administração**, **sem prejuízo das responsabilidades contratuais e legais** (Art.122, caput, Lei nº 14.133/2021).
+    - Se liga na exceção do _Art.102, III, Lei nº 14.133/2021_ (**subcontratação da totalidade**).
+- _<u>Presença das cláusulas exorbitantes</u>_
+- Cláusulas de _<u>Direito Público</u>_ que _<u>colocam a administração em posição de verticalidade</u>_ perante o particular.
+
+## **6. Da Formalização dos Contratos**
+
+1. Disposições sobre os contratos:
+    1. **Aplicação <span style="color:#83a598">Primária</span>:** cláusulas da Lei nº 14.133/21 e preceitos de direito público;
+    2. **Aplicação <span style="color:#b8bb26">Supletiva</span>:** Princípios da teoria geral dos contratos e preceitos de direito privado.
+    3. Convocação para assinatura:
+        - A administração convoca o vencedor. **==<span style="color:#fb4934">Não havendo o comparecimento</span>==**:
+            1. A administração **<span style="color:#83a598">convoca os demais, na ordem de classificação</span>,** para assinarem pela mesma proposta do vencedor;
+            2. Se acontecer de **==<span style="color:#d3869b">nenhum licitante aceitar</span>==,** a Administração **<u>convoca os licitantes, na ordem de classificação</u>**, para que haja a **<span style="color:#83a598">negociação de melhores condições</span>;**
+            3. Se **<span style="color:#fb4934">não for realizado nenhum acordo</span>**, a Administração **<u>convoca os licitantes, na ordem de classificação</u>**, para **<span style="color:#83a598">cumprir as propostas nas condições de cada um.</span>**  
+                  
+                
+2.  
+	1. A divulgação no **Portal Nacional de Contratações Públicas (PNCP)** é **<u>condição indispensável para a</u> <span style="color:#fb4934"><u>eficácia</u></span> <u>do contrato e de seus aditamentos</u>** e deverá ocorrer nos seguintes prazos, contados da data de sua assinatura:
+        1. **20 dias <span style="color:#fb4934">úteis</span>,** no caso de **<span style="color:#d3869b">licitação</span>;**
+        2. **10 dias <span style="color:#fb4934">uteis</span>,** no caso de **<span style="color:#fe8019">contratação direta</span>**.
+    2. **<span style="color:#fb4934">É nulo e de nenhum efeito o contrato verbal com a administração</span>,** **==salvo==** o de **<span style="color:#83a598">pequenas compras ou o de prestação de serviços de pronto pagamento</span>**, assim entendidos aqueles de valor **<span style="color:#fb4934">não</span> superior a R$ <span style="color:#b8bb26">10.000,00.</span>**
+
+**💡Veja como a FCC cobrou esse assunto:** [#3177248](https://www.tecconcursos.com.br/questoes/3177248)
+
+**💥**As bancas costumam cobrar o valor que está na lei, mas saiba que esse valor é **atualizado anualmente**, conforme disposto no artigo 182 da Lei: _"O Poder Executivo federal **atualizará, a cada dia 1º de janeiro**, pelo Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E) ou por índice que venha a substituí-lo, os valores fixados por esta Lei, os quais serão divulgados no PNCP."_
