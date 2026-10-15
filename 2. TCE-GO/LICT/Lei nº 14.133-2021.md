@@ -827,15 +827,11 @@ Para efeito de julgamento da proposta, o retorno econômico será o resultado da
     - **<span style="color:#b8bb26">Modo de disputa</span>**
 - Análise de riscos.
 
-![[Controle/4 - D ADM/8. 14.133 - Licitações 2-2.png]]
-
 - **<u>Itens de consumo</u>:** 
     - Qualidade comum;
     - Não superior à necessidade para cumprir as finalidades às quais se destinam;
     - **<span style="color:#fb4934">Vedação</span>**: <span style="color:#fb4934">artigos de luxo</span>;
     - Regulamento de cada Poder: definição categorias comum e de luxo.
-
-![[Controle/4 - D ADM/8. 14.133 - Licitações 2-3.png]]
 
 ### **<u>3.1.1. Participação social</u>:**
 
@@ -847,8 +843,6 @@ Para efeito de julgamento da proposta, o retorno econômico será o resultado da
 - **<span style="color: #d79921">Consulta pública</span>:**
 	- Disponibilização das informações;
 	- Sugestões no prazo fixado.
-
-![[Controle/4 - D ADM/8. 14.133 - Licitações 2-4.png]]
 
  ### **3.1.2. Orçamento:**
 
@@ -871,8 +865,6 @@ Para efeito de julgamento da proposta, o retorno econômico será o resultado da
 - **poderá** ter caráter **<span style="color:#b8bb26">sigiloso</span>**; 
 - **divulgação** do **<span style="color:#b8bb26">detalhamento dos quantitativos</span>** e das demais **<span style="color:#b8bb26">informações necessárias para a elaboração das propostas</span>**;
 - **<span style="color:#b8bb26">sigilo</span>** do orçamento **<span style="color:#fb4934">não prevalecerá para os órgãos de controle interno e externo</span>**.
-
-![[Controle/4 - D ADM/8. 14.133 - Licitações 2-5.png]]
 
 **==Atenção (cuidado para não confundir Margem de Preferência com Critérios de Desempate==):**
 
@@ -1233,3 +1225,4 @@ Nas hipóteses:
 o edital deve definir o **valor da contratação**.
 
 Já em **mercados fluidos**, não há preço previamente fixado, pois os preços são dinâmicos; a Administração deve registrar as cotações vigentes no **<span style="color:#b8bb26">momento da contratação</span>**.
+
