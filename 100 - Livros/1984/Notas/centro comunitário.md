@@ -1,1 +1,0 @@
-Local onde ocorrem as reuniões em prol do [[Partido]]

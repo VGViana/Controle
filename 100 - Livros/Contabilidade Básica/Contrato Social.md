@@ -1,1 +1,0 @@
-contrato que estabalece as regras para uma sociedade por quotas de responsabilidade limitada

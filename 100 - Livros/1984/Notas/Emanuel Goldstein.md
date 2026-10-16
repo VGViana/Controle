@@ -1,3 +1,0 @@
-- Inimigo do povo
-- Revolucionário
-- Fraternidade

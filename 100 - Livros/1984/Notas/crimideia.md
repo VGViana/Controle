@@ -1,1 +1,0 @@
-- palavra da [[Novalíngua]] utilizada como repressão intelectual

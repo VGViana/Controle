@@ -1,1 +1,0 @@
-mísseis, na linguagem dos [[proletas]]

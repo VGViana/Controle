@@ -77,7 +77,7 @@ Notas transversais: [[Dano ao Erário|dano ao erário]], [[Parecer Prévio|parec
 
 O diretório `100 - Livros` concentra anotações de leitura, especialmente sobre contabilidade básica.
 
-- [[100 - Livros/Contabilidade Básica/Contabilidade Básica - Marion|Contabilidade Básica — Marion]] · [GitHub](<100 - Livros/Contabilidade Básica/Contabilidade Básica - Marion.md>)
+- [[Contabilidade Básica - Marion|Contabilidade Básica — Marion]] · [GitHub](<Contabilidade Básica - Marion.md>)
 - [Abrir o acervo de livros no GitHub](<100 - Livros/>)
 
 ### Material arquivado

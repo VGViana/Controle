@@ -1,1 +1,0 @@
-Ministério do [[Partido]] responsável pelos jogos de azar para os [[proletas]]

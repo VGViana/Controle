@@ -1,1 +1,0 @@
-[[Winston Smith]] é analisado escrevendo em seu diário, pensando em várias coisas, como o desejo sexual (o qual é considerado como pensamento-crime), [[Katharine]] e o sexo com uma velha, perante o seu desejo.

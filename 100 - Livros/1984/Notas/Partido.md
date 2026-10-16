@@ -1,1 +1,0 @@
-Único partido político presente na história

@@ -1,1 +1,0 @@
-palavra da [[Novalíngua]] que descreve o gosto pela "solidão"

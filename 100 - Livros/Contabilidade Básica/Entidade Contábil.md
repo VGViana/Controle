@@ -1,1 +1,0 @@
-pessoa para quem é mantida a Contabilidade, podendo ser pessoa jurídica ou física

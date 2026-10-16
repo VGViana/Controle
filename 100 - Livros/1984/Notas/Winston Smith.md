@@ -1,2 +1,0 @@
-- Personagem principal da trama
-- Cria repulsa ao longo da jornada contra o [[Grande Irmão]]
