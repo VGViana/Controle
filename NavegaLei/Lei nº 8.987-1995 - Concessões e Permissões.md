@@ -28,163 +28,242 @@ Data:: 17/10/2026
 ## Capítulo I — Das Disposições Preliminares ^capitulo-preliminares
 
  Art. 1º As concessões de serviços públicos e de obras públicas e as permissões de serviços públicos reger-se-ão pelos termos do art. 175 da Constituição Federal, por esta Lei, pelas normas legais pertinentes e pelas cláusulas dos indispensáveis contratos. ^art-1
+ 
 Parágrafo único. A União, os Estados, o Distrito Federal e os Municípios promoverão a revisão e as adaptações necessárias de sua legislação às prescrições desta Lei, buscando atender as peculiaridades das diversas modalidades dos seus serviços.
+
  Art. 2º Para os fins do disposto nesta Lei, considera-se: ^art-2
-I - poder concedente: a União, o Estado, o Distrito Federal ou o Município, em cuja competência se encontre o serviço público, precedido ou não da execução de obra pública, objeto de concessão ou permissão;
-II - concessão de serviço público: a delegação de sua prestação, feita pelo poder concedente, mediante licitação, na modalidade de concorrência, à pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu desempenho, por sua conta e risco e por prazo determinado;
-II - concessão de serviço público: a delegação de sua prestação, feita pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu desempenho, por sua conta e risco e por prazo determinado; (Redação dada pela Lei nº 14.133, de 2021)
-III - concessão de serviço público precedida da execução de obra pública: a construção, total ou parcial, conservação, reforma, ampliação ou melhoramento de quaisquer obras de interesse público, delegada pelo poder concedente, mediante licitação, na modalidade de concorrência, à pessoa jurídica ou consórcio de empresas que demonstre capacidade para a sua realização, por sua conta e risco, de forma que o investimento da concessionária seja remunerado e amortizado mediante a exploração do serviço ou da obra por prazo determinado;
-III - concessão de serviço público precedida da execução de obra pública: a construção, total ou parcial, conservação, reforma, ampliação ou melhoramento de quaisquer obras de interesse público, delegados pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para a sua realização, por sua conta e risco, de forma que o investimento da concessionária seja remunerado e amortizado mediante a exploração do serviço ou da obra por prazo determinado; (Redação dada pela Lei nº 14.133, de 2021)
-IV - permissão de serviço público: a delegação, a título precário, mediante licitação, da prestação de serviços públicos, feita pelo poder concedente à pessoa física ou jurídica que demonstre capacidade para seu desempenho, por sua conta e risco.
+ 
+- I - poder concedente: a União, o Estado, o Distrito Federal ou o Município, em cuja competência se encontre o serviço público, precedido ou não da execução de obra pública, objeto de concessão ou permissão; 
+- II - concessão de serviço público: a delegação de sua prestação, feita pelo poder concedente, mediante licitação, na modalidade de concorrência, à pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu desempenho, por sua conta e risco e por prazo determinado; 
+- II - concessão de serviço público: a delegação de sua prestação, feita pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu desempenho, por sua conta e risco e por prazo determinado; (Redação dada pela Lei nº 14.133, de 2021) 
+- III - concessão de serviço público precedida da execução de obra pública: a construção, total ou parcial, conservação, reforma, ampliação ou melhoramento de quaisquer obras de interesse público, delegada pelo poder concedente, mediante licitação, na modalidade de concorrência, à pessoa jurídica ou consórcio de empresas que demonstre capacidade para a sua realização, por sua conta e risco, de forma que o investimento da concessionária seja remunerado e amortizado mediante a exploração do serviço ou da obra por prazo determinado; 
+- III - concessão de serviço público precedida da execução de obra pública: a construção, total ou parcial, conservação, reforma, ampliação ou melhoramento de quaisquer obras de interesse público, delegados pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade para a sua realização, por sua conta e risco, de forma que o investimento da concessionária seja remunerado e amortizado mediante a exploração do serviço ou da obra por prazo determinado; (Redação dada pela Lei nº 14.133, de 2021) 
+- IV - permissão de serviço público: a delegação, a título precário, mediante licitação, da prestação de serviços públicos, feita pelo poder concedente à pessoa física ou jurídica que demonstre capacidade para seu desempenho, por sua conta e risco.
+
 Art. 3º As concessões e permissões sujeitar-se-ão à fiscalização pelo poder concedente responsável pela delegação, com a cooperação dos usuários. ^art-3
+
 Art. 4º A concessão de serviço público, precedida ou não da execução de obra pública, será formalizada mediante contrato, que deverá observar os termos desta Lei, das normas pertinentes e do edital de licitação. ^art-4
+
 Art. 5º O poder concedente publicará, previamente ao edital de licitação, ato justificando a conveniência da outorga de concessão ou permissão, caracterizando seu objeto, área e prazo. ^art-5
 
 ## Capítulo II — Do Serviço Adequado ^capitulo-servico-adequado
 
 Art. 6º Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, conforme estabelecido nesta Lei, nas normas pertinentes e no respectivo contrato. ^art-6
+
 § 1o Serviço adequado é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas.
+
 § 2o A atualidade compreende a modernidade das técnicas, do equipamento e das instalações e a sua conservação, bem como a melhoria e expansão do serviço.
+
 § 3o Não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando:
-I - motivada por razões de ordem técnica ou de segurança das instalações; e,
-II - por inadimplemento do usuário, considerado o interesse da coletividade.
+
+- I - motivada por razões de ordem técnica ou de segurança das instalações; e, 
+- II - por inadimplemento do usuário, considerado o interesse da coletividade.
+
 § 4º A interrupção do serviço na hipótese prevista no inciso II do § 3º deste artigo não poderá iniciar-se na sexta-feira, no sábado ou no domingo, nem em feriado ou no dia anterior a feriado. (Incluído pela Lei nº 14.015, de 2020)
 
 ## Capítulo III — Dos Direitos E Obrigações Dos Usuários ^capitulo-direitos-usuarios
 
 Art. 7º. Sem prejuízo do disposto na Lei no 8.078, de 11 de setembro de 1990, são direitos e obrigações dos usuários: ^art-7
-I - receber serviço adequado;
-II - receber do poder concedente e da concessionária informações para a defesa de interesses individuais ou coletivos;
-III - obter e utilizar o serviço, com liberdade de escolha, observadas as normas do poder concedente;
-III - obter e utilizar o serviço, com liberdade de escolha entre vários prestadores de serviços, quando for o caso, observadas as normas do poder concedente. (Redação dada pela Lei nº 9.648, de 1998)
-IV - levar ao conhecimento do poder público e da concessionária as irregularidades de que tenham conhecimento, referentes ao serviço prestado;
-V - comunicar às autoridades competentes os atos ilícitos praticados pela concessionária na prestação do serviço;
-VI - contribuir para a permanência das boas condições dos bens públicos através dos quais lhes são prestados os serviços.
+
+- I - receber serviço adequado;
+- II - receber do poder concedente e da concessionária informações para a defesa de interesses individuais ou coletivos;  
+- III - obter e utilizar o serviço, com liberdade de escolha, observadas as normas do poder concedente; 
+- III - obter e utilizar o serviço, com liberdade de escolha entre vários prestadores de serviços, quando for o caso, observadas as normas do poder concedente. (Redação dada pela Lei nº 9.648, de 1998) 
+- IV - levar ao conhecimento do poder público e da concessionária as irregularidades de que tenham conhecimento, referentes ao serviço prestado; 
+- V - comunicar às autoridades competentes os atos ilícitos praticados pela concessionária na prestação do serviço; 
+- VI - contribuir para a permanência das boas condições dos bens públicos através dos quais lhes são prestados os serviços.
+
 Art. 7º-A. As concessionárias de serviços públicos, de direito público e privado, nos Estados e no Distrito Federal, são obrigadas a oferecer ao consumidor e ao usuário, dentro do mês de vencimento, o mínimo de seis datas opcionais para escolherem os dias de vencimento de seus débitos. (Incluído pela Lei nº 9.791, de 1999) ^art-7-a
+
 Parágrafo único. (VETADO) (Incluído pela Lei nº 9.791, de 1999)
 
 ## Capítulo IV — Da Política Tarifária ^capitulo-politica-tarifaria
 
 Art. 8º (VETADO) ^art-8
+
 Art. 9º A tarifa do serviço público concedido será fixada pelo preço da proposta vencedora da licitação e preservada pelas regras de revisão previstas nesta Lei, no edital e no contrato. ^art-9
+
 § 1º A tarifa não será subordinada à legislação específica anterior.
+
 § 1o A tarifa não será subordinada à legislação específica anterior e somente nos casos expressamente previstos em lei, sua cobrança poderá ser condicionada à existência de serviço público alternativo e gratuito para o usuário. (Redação dada pela Lei nº 9.648, de 1998)
+
 § 2o Os contratos poderão prever mecanismos de revisão das tarifas, a fim de manter-se o equilíbrio econômico-financeiro.
+
 § 3o Ressalvados os impostos sobre a renda, a criação, alteração ou extinção de quaisquer tributos ou encargos legais, após a apresentação da proposta, quando comprovado seu impacto, implicará a revisão da tarifa, para mais ou para menos, conforme o caso.
+
 § 4o Em havendo alteração unilateral do contrato que afete o seu inicial equilíbrio econômico-financeiro, o poder concedente deverá restabelecê-lo, concomitantemente à alteração.
+
 § 5º A concessionária deverá divulgar em seu sítio eletrônico, de forma clara e de fácil compreensão pelos usuários, tabela com o valor das tarifas praticadas e a evolução das revisões ou reajustes realizados nos últimos cinco anos. (Incluído pela Lei nº 13.673, de 2018)
+
 Art. 10. Sempre que forem atendidas as condições do contrato, considera-se mantido seu equilíbrio econômico-financeiro. ^art-10
+
 Art. 11. No atendimento às peculiaridades de cada serviço público, poderá o poder concedente prever, em favor da concessionária, no edital de licitação, a possibilidade de outras fontes provenientes de receitas alternativas, complementares, acessórias ou de projetos associados, com ou sem exclusividade, com vistas a favorecer a modicidade das tarifas, observado o disposto no art. 17 desta Lei. ^art-11
+
 Parágrafo único. As fontes de receita previstas neste artigo serão obrigatoriamente consideradas para a aferição do inicial equilíbrio econômico-financeiro do contrato.
+
 Art. 12. (VETADO) ^art-12
+
 Art. 13. As tarifas poderão ser diferenciadas em função das características técnicas e dos custos específicos provenientes do atendimento aos distintos segmentos de usuários. ^art-13
 
 ## Capítulo V — Da Licitação ^capitulo-licitacao
 
 Art. 14. Toda concessão de serviço público, precedida ou não da execução de obra pública, será objeto de prévia licitação, nos termos da legislação própria e com observância dos princípios da legalidade, moralidade, publicidade, igualdade, do julgamento por critérios objetivos e da vinculação ao instrumento convocatório. ^art-14
+
 Art. 15. No julgamento da licitação será considerado um dos seguintes critérios: ^art-15
-I - o menor valor da tarifa do serviço público a ser prestado;
-II - a maior oferta, nos casos de pagamento ao poder concedente pela outorga de concessão;
-III - a combinação dos critérios referidos nos incisos I e II deste artigo.
+
+- I - o menor valor da tarifa do serviço público a ser prestado; 
+- II - a maior oferta, nos casos de pagamento ao poder concedente pela outorga de concessão; 
+- III - a combinação dos critérios referidos nos incisos I e II deste artigo.
+
 § 1º A aplicação do critério previsto no inciso III só será admitida quando previamente estabelecida no edital de licitação, inclusive com regras e fórmulas precisas para avaliação econômico-financeira.
+
 § 2º O poder concedente recusará propostas manifestamente inexeqüíveis ou financeiramente incompatíveis como objetivos da licitação.
+
 § 3º Em igualdade de condições, será dada preferência à proposta apresentada por empresa brasileira.
+
 Art. 15. No julgamento da licitação será considerado um dos seguintes critérios: (Redação dada pela Lei nº 9.648, de 1998) ^art-15
-I - o menor valor da tarifa do serviço público a ser prestado; (Redação dada pela Lei nº 9.648, de 1998)
-II - a maior oferta, nos casos de pagamento ao poder concedente pela outorga da concessão; (Redação dada pela Lei nº 9.648, de 1998)
-III - a combinação, dois a dois, dos critérios referidos nos incisos I, II e VII; (Redação dada pela Lei nº 9.648, de 1998)
-IV - melhor proposta técnica, com preço fixado no edital; (Incluído pela Lei nº 9.648, de 1998)
-V - melhor proposta em razão da combinação dos critérios de menor valor da tarifa do serviço público a ser prestado com o de melhor técnica; (Incluído pela Lei nº 9.648, de 1998)
-VI - melhor proposta em razão da combinação dos critérios de maior oferta pela outorga da concessão com o de melhor técnica; ou (Incluído pela Lei nº 9.648, de 1998)
-VII - melhor oferta de pagamento pela outorga após qualificação de propostas técnicas. (Incluído pela Lei nº 9.648, de 1998)
+
+-  I - o menor valor da tarifa do serviço público a ser prestado; (Redação dada pela Lei nº 9.648, de 1998) 
+- II - a maior oferta, nos casos de pagamento ao poder concedente pela outorga da concessão; (Redação dada pela Lei nº 9.648, de 1998) 
+- III - a combinação, dois a dois, dos critérios referidos nos incisos I, II e VII; (Redação dada pela Lei nº 9.648, de 1998) 
+- IV - melhor proposta técnica, com preço fixado no edital; (Incluído pela Lei nº 9.648, de 1998) 
+- V - melhor proposta em razão da combinação dos critérios de menor valor da tarifa do serviço público a ser prestado com o de melhor técnica; (Incluído pela Lei nº 9.648, de 1998) 
+- VI - melhor proposta em razão da combinação dos critérios de maior oferta pela outorga da concessão com o de melhor técnica; ou (Incluído pela Lei nº 9.648, de 1998) 
+- VII - melhor oferta de pagamento pela outorga após qualificação de propostas técnicas. (Incluído pela Lei nº 9.648, de 1998)
+
 § 1o A aplicação do critério previsto no inciso III só será admitida quando previamente estabelecida no edital de licitação, inclusive com regras e fórmulas precisas para avaliação econômico-financeira. (Redação dada pela Lei nº 9.648, de 1998)
+
 § 2o Para fins de aplicação do disposto nos incisos IV, V, VI e VII, o edital de licitação conterá parâmetros e exigências para formulação de propostas técnicas. (Redação dada pela Lei nº 9.648, de 1998)
+
 § 3o O poder concedente recusará propostas manifestamente inexequíveis ou financeiramente incompatíveis com os objetivos da licitação (Redação dada pela Lei nº 9.648, de 1998)
+
 § 4o Em igualdade de condições, será dada preferência à proposta apresentada por empresa brasileira. (Redação dada pela Lei nº 9.648, de 1998)
+
 Art. 16. A outorga de concessão ou permissão não terá caráter de exclusividade, salvo no caso de inviabilidade técnica ou econômica justificada no ato a que se refere o art. 5o desta Lei. ^art-16
+
 Art. 17. Considerar-se-á desclassificada a proposta que, para sua viabilização, necessite de vantagens ou subsídios que não estejam previamente autorizados em lei e à disposição de todos os concorrentes. ^art-17
+
 Parágrafo único. Considerar-se-á, também, desclassificada a proposta de entidade estatal alheia à esfera político-administrativa do poder concedente que, para sua viabilização, necessite de vantagens ou subsídios do poder público controlador da referida entidade.
+
 § 1o Considerar-se-á, também, desclassificada a proposta de entidade estatal alheia à esfera político-administrativa do poder concedente que, para sua viabilização, necessite de vantagens ou subsídios do poder público controlador da referida entidade. (Renumerado do parágrafo único pela Lei nº 9.648, de 1998)
+
 § 2o Inclui-se nas vantagens ou subsídios de que trata este artigo, qualquer tipo de tratamento tributário diferenciado, ainda que em conseqüência da natureza jurídica do licitante, que comprometa a isonomia fiscal que deve prevalecer entre todos os concorrentes. (Incluído pela Lei nº 9.648, de 1998)
+
 Art. 18. O edital de licitação será elaborado pelo poder concedente, observados, no que couber, os critérios e as normas gerais da legislação própria sobre licitações e contratos e conterá, especialmente: ^art-18
-I - o objeto, metas e prazo da concessão;
-II - a descrição das condições necessárias à prestação adequada do serviço;
-III - os prazos para recebimento das propostas, julgamento da licitação e assinatura do contrato;
-IV - prazo, local e horário em que serão fornecidos, aos interessados, os dados, estudos e projetos necessários à elaboração dos orçamentos e apresentação das propostas;
-V - os critérios e a relação dos documentos exigidos para a aferição da capacidade técnica, da idoneidade financeira e da regularidade jurídica e fiscal;
-VI - as possíveis fontes de receitas alternativas, complementares ou acessórias, bem como as provenientes de projetos associados;
-VII - os direitos e obrigações do poder concedente e da concessionária em relação a alterações e expansões a serem realizadas no futuro, para garantir a continuidade da prestação do serviço;
-VIII - os critérios de reajuste e revisão da tarifa;
-IX - os critérios, indicadores, fórmulas e parâmetros a serem utilizados no julgamento técnico e econômico-financeiro da proposta;
-X - a indicação dos bens reversíveis;
-XI - as características dos bens reversíveis e as condições em que estes serão postos à disposição, nos casos em que houver sido extinta a concessão anterior;
-XII - a expressa indicação do responsável pelo ônus das desapropriações necessárias à execução do serviço ou da obra pública, ou para a instituição de servidão administrativa;
-XIII - as condições de liderança da empresa responsável, na hipótese em que for permitida a participação de empresas em consórcio;
-XIV - nos casos de concessão, a minuta do respectivo contrato, que conterá as cláusulas essenciais referidas no art. 23 desta Lei, quando aplicáveis;
-XV - nos casos de concessão de serviços públicos precedida da execução de obra pública, os dados relativos à obra, dentre os quais os elementos do projeto básico que permitam sua plena caracterização; e
-XV - nos casos de concessão de serviços públicos precedida da execução de obra pública, os dados relativos à obra, dentre os quais os elementos do projeto básico que permitam sua plena caracterização, bem assim as garantias exigidas para essa parte específica do contrato, adequadas a cada caso e limitadas ao valor da obra; (Redação dada pela Lei nº 9.648, de 1998)
-XVI - nos casos de permissão, os termos do contrato de adesão a ser firmado.
+
+- I - o objeto, metas e prazo da concessão; 
+- II - a descrição das condições necessárias à prestação adequada do serviço; 
+- III - os prazos para recebimento das propostas, julgamento da licitação e assinatura do contrato; 
+- IV - prazo, local e horário em que serão fornecidos, aos interessados, os dados, estudos e projetos necessários à elaboração dos orçamentos e apresentação das propostas; 
+- V - os critérios e a relação dos documentos exigidos para a aferição da capacidade técnica, da idoneidade financeira e da regularidade jurídica e fiscal; 
+- VI - as possíveis fontes de receitas alternativas, complementares ou acessórias, bem como as provenientes de projetos associados; 
+- VII - os direitos e obrigações do poder concedente e da concessionária em relação a alterações e expansões a serem realizadas no futuro, para garantir a continuidade da prestação do serviço; 
+- VIII - os critérios de reajuste e revisão da tarifa; 
+- IX - os critérios, indicadores, fórmulas e parâmetros a serem utilizados no julgamento técnico e econômico-financeiro da proposta; 
+- X - a indicação dos bens reversíveis; 
+- XI - as características dos bens reversíveis e as condições em que estes serão postos à disposição, nos casos em que houver sido extinta a concessão anterior; 
+- XII - a expressa indicação do responsável pelo ônus das desapropriações necessárias à execução do serviço ou da obra pública, ou para a instituição de servidão administrativa; 
+- XIII - as condições de liderança da empresa responsável, na hipótese em que for permitida a participação de empresas em consórcio; 
+- XIV - nos casos de concessão, a minuta do respectivo contrato, que conterá as cláusulas essenciais referidas no art. 23 desta Lei, quando aplicáveis; 
+- XV - nos casos de concessão de serviços públicos precedida da execução de obra pública, os dados relativos à obra, dentre os quais os elementos do projeto básico que permitam sua plena caracterização; e 
+- XV - nos casos de concessão de serviços públicos precedida da execução de obra pública, os dados relativos à obra, dentre os quais os elementos do projeto básico que permitam sua plena caracterização, bem assim as garantias exigidas para essa parte específica do contrato, adequadas a cada caso e limitadas ao valor da obra; (Redação dada pela Lei nº 9.648, de 1998) 
+- XVI - nos casos de permissão, os termos do contrato de adesão a ser firmado.
+
 Art. 18-A. O edital poderá prever a inversão da ordem das fases de habilitação e julgamento, hipótese em que: (Incluído pela Lei nº 11.196, de 2005) ^art-18-a
-I - encerrada a fase de classificação das propostas ou o oferecimento de lances, será aberto o invólucro com os documentos de habilitação do licitante mais bem classificado, para verificação do atendimento das condições fixadas no edital; (Incluído pela Lei nº 11.196, de 2005)
-II - verificado o atendimento das exigências do edital, o licitante será declarado vencedor; (Incluído pela Lei nº 11.196, de 2005)
-III - inabilitado o licitante melhor classificado, serão analisados os documentos habilitatórios do licitante com a proposta classificada em segundo lugar, e assim sucessivamente, até que um licitante classificado atenda às condições fixadas no edital; (Incluído pela Lei nº 11.196, de 2005)
-IV - proclamado o resultado final do certame, o objeto será adjudicado ao vencedor nas condições técnicas e econômicas por ele ofertadas. (Incluído pela Lei nº 11.196, de 2005)
+
+- I - encerrada a fase de classificação das propostas ou o oferecimento de lances, será aberto o invólucro com os documentos de habilitação do licitante mais bem classificado, para verificação do atendimento das condições fixadas no edital; (Incluído pela Lei nº 11.196, de 2005) 
+- II - verificado o atendimento das exigências do edital, o licitante será declarado vencedor; (Incluído pela Lei nº 11.196, de 2005) 
+- III - inabilitado o licitante melhor classificado, serão analisados os documentos habilitatórios do licitante com a proposta classificada em segundo lugar, e assim sucessivamente, até que um licitante classificado atenda às condições fixadas no edital; (Incluído pela Lei nº 11.196, de 2005) 
+- IV - proclamado o resultado final do certame, o objeto será adjudicado ao vencedor nas condições técnicas e econômicas por ele ofertadas. (Incluído pela Lei nº 11.196, de 2005)
+
 Art. 19. Quando permitida, na licitação, a participação de empresas em consórcio, observar-se-ão as seguintes normas: ^art-19
-I - comprovação de compromisso, público ou particular, de constituição de consórcio, subscrito pelas consorciadas;
-II - indicação da empresa responsável pelo consórcio;
-III - apresentação dos documentos exigidos nos incisos V e XIII do artigo anterior, por parte de cada consorciada;
-IV - impedimento de participação de empresas consorciadas na mesma licitação, por intermédio de mais de um consórcio ou isoladamente.
+
+- I - comprovação de compromisso, público ou particular, de constituição de consórcio, subscrito pelas consorciadas; 
+- II - indicação da empresa responsável pelo consórcio; 
+- III - apresentação dos documentos exigidos nos incisos V e XIII do artigo anterior, por parte de cada consorciada; 
+- IV - impedimento de participação de empresas consorciadas na mesma licitação, por intermédio de mais de um consórcio ou isoladamente. 
+
 § 1o O licitante vencedor fica obrigado a promover, antes da celebração do contrato, a constituição e registro do consórcio, nos termos do compromisso referido no inciso I deste artigo.
+
 § 2o A empresa líder do consórcio é a responsável perante o poder concedente pelo cumprimento do contrato de concessão, sem prejuízo da responsabilidade solidária das demais consorciadas.
+
 Art. 20. É facultado ao poder concedente, desde que previsto no edital, no interesse do serviço a ser concedido, determinar que o licitante vencedor, no caso de consórcio, se constitua em empresa antes da celebração do contrato. ^art-20
+
 Art. 21. Os estudos, investigações, levantamentos, projetos, obras e despesas ou investimentos já efetuados, vinculados à concessão, de utilidade para a licitação, realizados pelo poder concedente ou com a sua autorização, estarão à disposição dos interessados, devendo o vencedor da licitação ressarcir os dispêndios correspondentes, especificados no edital. ^art-21
+
 Art. 22. É assegurada a qualquer pessoa a obtenção de certidão sobre atos, contratos, decisões ou pareceres relativos à licitação ou às próprias concessões. ^art-22
 
 ## Capítulo VI — Do Contrato De Concessão ^capitulo-contrato-concessao
 
 Art. 23. São cláusulas essenciais do contrato de concessão as relativas: ^art-23
-I - ao objeto, à área e ao prazo da concessão;
-II - ao modo, forma e condições de prestação do serviço;
-III - aos critérios, indicadores, fórmulas e parâmetros definidores da qualidade do serviço;
-IV - ao preço do serviço e aos critérios e procedimentos para o reajuste e a revisão das tarifas;
-V - aos direitos, garantias e obrigações do poder concedente e da concessionária, inclusive os relacionados às previsíveis necessidades de futura alteração e expansão do serviço e conseqüente modernização, aperfeiçoamento e ampliação dos equipamentos e das instalações;
-VI - aos direitos e deveres dos usuários para obtenção e utilização do serviço;
-VII - à forma de fiscalização das instalações, dos equipamentos, dos métodos e práticas de execução do serviço, bem como a indicação dos órgãos competentes para exercê-la;
-VIII - às penalidades contratuais e administrativas a que se sujeita a concessionária e sua forma de aplicação;
-IX - aos casos de extinção da concessão;
-X - aos bens reversíveis;
-XI - aos critérios para o cálculo e a forma de pagamento das indenizações devidas à concessionária, quando for o caso;
-XII - às condições para prorrogação do contrato;
-XIII - à obrigatoriedade, forma e periodicidade da prestação de contas da concessionária ao poder concedente;
-XIV - à exigência da publicação de demonstrações financeiras periódicas da concessionária; e
-XV - ao foro e ao modo amigável de solução das divergências contratuais.
+
+- I - ao objeto, à área e ao prazo da concessão; 
+- II - ao modo, forma e condições de prestação do serviço; 
+- III - aos critérios, indicadores, fórmulas e parâmetros definidores da qualidade do serviço; 
+- IV - ao preço do serviço e aos critérios e procedimentos para o reajuste e a revisão das tarifas; 
+- V - aos direitos, garantias e obrigações do poder concedente e da concessionária, inclusive os relacionados às previsíveis necessidades de futura alteração e expansão do serviço e conseqüente modernização, aperfeiçoamento e ampliação dos equipamentos e das instalações; 
+- VI - aos direitos e deveres dos usuários para obtenção e utilização do serviço; 
+- VII - à forma de fiscalização das instalações, dos equipamentos, dos métodos e práticas de execução do serviço, bem como a indicação dos órgãos competentes para exercê-la; 
+- VIII - às penalidades contratuais e administrativas a que se sujeita a concessionária e sua forma de aplicação; 
+- IX - aos casos de extinção da concessão; 
+- X - aos bens reversíveis; 
+- XI - aos critérios para o cálculo e a forma de pagamento das indenizações devidas à concessionária, quando for o caso; 
+- XII - às condições para prorrogação do contrato; 
+- XIII - à obrigatoriedade, forma e periodicidade da prestação de contas da concessionária ao poder concedente; 
+- XIV - à exigência da publicação de demonstrações financeiras periódicas da concessionária; e 
+- XV - ao foro e ao modo amigável de solução das divergências contratuais. 
+
 Parágrafo único. Os contratos relativos à concessão de serviço público precedido da execução de obra pública deverão, adicionalmente:
-I - estipular os cronogramas físico-financeiros de execução das obras vinculadas à concessão; e
-II - exigir garantia do fiel cumprimento, pela concessionária, das obrigações relativas às obras vinculadas à concessão.
+
+- I - estipular os cronogramas físico-financeiros de execução das obras vinculadas à concessão; e 
+- II - exigir garantia do fiel cumprimento, pela concessionária, das obrigações relativas às obras vinculadas à concessão.
+
 Art. 23-A. O contrato de concessão poderá prever o emprego de mecanismos privados para resolução de disputas decorrentes ou relacionadas ao contrato, inclusive a arbitragem, a ser realizada no Brasil e em língua portuguesa, nos termos da Lei no 9.307, de 23 de setembro de 1996. (Incluído pela Lei nº 11.196, de 2005) ^art-23-a
+
 Art. 24. (VETADO) ^art-24
+
 Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade. ^art-25
+
 § 1o Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados. (Vide ADC 57)
+
 § 2o Os contratos celebrados entre a concessionária e os terceiros a que se refere o parágrafo anterior reger-se-ão pelo direito privado, não se estabelecendo qualquer relação jurídica entre os terceiros e o poder concedente.
+
 § 3o A execução das atividades contratadas com terceiros pressupõe o cumprimento das normas regulamentares da modalidade do serviço concedido.
+
 Art. 26. É admitida a subconcessão, nos termos previstos no contrato de concessão, desde que expressamente autorizada pelo poder concedente. ^art-26
+
 § 1o A outorga de subconcessão será sempre precedida de concorrência.
+
 § 2o O subconcessionário se sub-rogará todos os direitos e obrigações da subconcedente dentro dos limites da subconcessão.
+
 Art. 27. A transferência de concessão ou do controle societário da concessionária sem prévia anuência do poder concedente implicará a caducidade da concessão. ^art-27
+
 Parágrafo único. Para fins de obtenção da anuência de que trata o caput deste artigo o pretendente deverá:
-I - atender às exigências de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal necessárias à assunção do serviço; e
-II - comprometer-se a cumprir todas as cláusulas do contrato em vigor.
+
+- I - atender às exigências de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal necessárias à assunção do serviço; e 
+- II - comprometer-se a cumprir todas as cláusulas do contrato em vigor.
+
 § 1o Para fins de obtenção da anuência de que trata o caput deste artigo, o pretendente deverá: (Renumerado do parágrafo único pela Lei nº 11.196, de 2005)
-I - atender às exigências de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal necessárias à assunção do serviço; e
-II - comprometer-se a cumprir todas as cláusulas do contrato em vigor.
+
+- I - atender às exigências de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal necessárias à assunção do serviço; e 
+- II - comprometer-se a cumprir todas as cláusulas do contrato em vigor.
+
 § 2o Nas condições estabelecidas no contrato de concessão, o poder concedente autorizará a assunção do controle da concessionária por seus financiadores para promover sua reestruturação financeira e assegurar a continuidade da prestação dos serviços. (Incluído pela Lei nº 11.196, de 2005)
+
 § 3o Na hipótese prevista no § 2o deste artigo, o poder concedente exigirá dos financiadores que atendam às exigências de regularidade jurídica e fiscal, podendo alterar ou dispensar os demais requisitos previstos no § 1o, inciso I deste artigo. (Incluído pela Lei nº 11.196, de 2005)
+
 § 4o A assunção do controle autorizada na forma do § 2o deste artigo não alterará as obrigações da concessionária e de seus controladores ante ao poder concedente. (Incluído pela Lei nº 11.196, de 2005)
+
 § 2o (Revogado). (Redação dada pela Lei nº 13.097, de 2015)
+
 § 3o (Revogado). (Redação dada pela Lei nº 13.097, de 2015)
+
 § 4o (Revogado). (Redação dada pela Lei nº 13.097, de 2015)
+
 Art. 27-A. Nas condições estabelecidas no contrato de concessão, o poder concedente autorizará a assunção do controle ou da administração temporária da concessionária por seus financiadores e garantidores com quem não mantenha vínculo societário direto, para promover sua reestruturação financeira e assegurar a continuidade da prestação dos serviços. (Incluído pela Lei nº 13.097, de 2015) ^art-27-a
+
 § 1o Na hipótese prevista no caput, o poder concedente exigirá dos financiadores e dos garantidores que atendam às exigências de regularidade jurídica e fiscal, podendo alterar ou dispensar os demais requisitos previstos no inciso I do parágrafo único do art. 27. (Incluído pela Lei nº 13.097, de 2015)
+
 § 2o A assunção do controle ou da administração temporária autorizadas na forma do caput deste artigo não alterará as obrigações da concessionária e de seus controladores para com terceiros, poder concedente e usuários dos serviços públicos. (Incluído pela Lei nº 13.097, de 2015)
 § 3o Configura-se o controle da concessionária, para os fins dispostos no caput deste artigo, a propriedade resolúvel de ações ou quotas por seus financiadores e garantidores que atendam os requisitos do art. 116 da Lei no 6.404, de 15 de dezembro de 1976. (Incluído pela Lei nº 13.097, de 2015)
 § 4o Configura-se a administração temporária da concessionária por seus financiadores e garantidores quando, sem a transferência da propriedade de ações ou quotas, forem outorgados os seguintes poderes: (Incluído pela Lei nº 13.097, de 2015)
