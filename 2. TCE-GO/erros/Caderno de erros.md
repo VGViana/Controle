@@ -25,7 +25,7 @@ O conceito de Organização preconizado pela Teoria Estruturalista a considera c
 
 ### Planejamento Estratégico
 
-![[Caderno de erros.png]]
+![[Controle/2. TCE-GO/erros/img/Caderno de erros.png]]
 
 Macroambiente = ambiente contextual
 
@@ -97,4 +97,9 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 - Funcional = Centralizado
 - Divisional = Descentralizado
+
+# AFO
+## Planejamento e Orçamento Público (arts. 3º a 10 da LRF)
+
+![[Controle/2. TCE-GO/erros/Caderno de erros.png]]
 
