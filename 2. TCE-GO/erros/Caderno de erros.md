@@ -103,3 +103,8 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ![[Controle/2. TCE-GO/erros/Caderno de erros.png]]
 
+
+# D ADM
+## Fases da Licitação (arts. 55 a 71 da 14.133)
+
+- O valor mínimo para que uma proposta não seja considerada inexequível é de 75% do valor orçado pela Administração
