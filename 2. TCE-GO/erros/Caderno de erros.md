@@ -112,14 +112,18 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 # CASP
 
-## Balanço Patrimonial
-
+## Demonstrações
+### Balanço Patrimonial
 
 |                          | Ativo Financeiro                                                                                         | Ativo Permanente                                                                             | Passivo Financeiro                                                          | Passivo Permanente                                                                              |
 | ------------------------ | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Autorização Orçamentária | Não                                                                                                      | Sim                                                                                          | Não                                                                         | Sim                                                                                             |
 | Abrange                  | - Créditos e valores realizáveis, independentemente de autorização orçamentária<br>- Valores numeráriios | - Bens, créditos e valores, cuja mobilização ou alienação DEPENDA de autorização legislativa | - Dívidas fundadas e outras pagamento INDEPENDA de autorização orçamentária | - Dívidas fundadas e outras que DEPENDAM de autorização legislativa para amortização ou resgate |
 
+### Demonstrações das Variações Patrimoniais (DVP)
+
+- Analogia à DRE
+- ARO e OC são permutativos
 
 # D ADM
 ## Fases da Licitação (arts. 55 a 71 da 14.133)
