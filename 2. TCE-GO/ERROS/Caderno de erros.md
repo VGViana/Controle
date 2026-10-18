@@ -8,7 +8,7 @@ O conceito de Organização preconizado pela Teoria Estruturalista a considera c
 
 ## Diagnóstico de Ambiente Organizacional - Matriz SWOT
 
-![[Caderno de erros-1.png]]
+![[Controle/2. TCE-GO/erros/img/Caderno de erros-1.png]]
 ## Planejamento
 
 ### Introdução ao Processo de Planejamento 

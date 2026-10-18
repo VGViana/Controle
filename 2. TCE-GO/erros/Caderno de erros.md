@@ -8,7 +8,7 @@ O conceito de Organização preconizado pela Teoria Estruturalista a considera c
 
 ## Diagnóstico de Ambiente Organizacional - Matriz SWOT
 
-![[Caderno de erros-1.png]]
+![[Controle/2. TCE-GO/erros/img/Caderno de erros-1.png]]
 ## Planejamento
 
 ### Introdução ao Processo de Planejamento 
@@ -108,3 +108,8 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ## Fases da Licitação (arts. 55 a 71 da 14.133)
 
 - O valor mínimo para que uma proposta não seja considerada inexequível é de 75% do valor orçado pela Administração
+
+## Contratação Direta, Inexibilidade e Dispensa (arts. 72 a 75 da 14.133)
+
+![[Controle/2. TCE-GO/erros/Caderno de erros-1.png]]
+
