@@ -113,6 +113,10 @@ Ambiente de tarefa = ambiente relacional ou transacional
 # CASP
 
 ## Demonstrações
+### Balanço Financeiro
+
+[Questão exemplo](https://www.tecconcursos.com.br/questoes/3567198)
+![[Caderno de erros-4.png]]
 ### Balanço Patrimonial
 
 |                          | Ativo Financeiro                                                                                         | Ativo Permanente                                                                             | Passivo Financeiro                                                          | Passivo Permanente                                                                              |
