@@ -108,7 +108,7 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ## Fases da Licitação (arts. 55 a 71 da 14.133)
 
 - O valor mínimo para que uma proposta não seja considerada inexequível é de 75% do valor orçado pela Administração
-
+- _será exigida **garantia adicional do licitante** vencedor cuja **proposta for inferior a 85% (oitenta e cinco por cento)** do **valor orçado pela Administração**, equivalente à **diferença entre este último e o valor da proposta**,_
 ## Contratação Direta, Inexibilidade e Dispensa (arts. 72 a 75 da 14.133)
 
 ![[Controle/2. TCE-GO/erros/Caderno de erros-1.png]]
