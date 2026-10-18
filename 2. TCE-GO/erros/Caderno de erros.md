@@ -41,7 +41,7 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ### Matriz de Ansoff
 
-![[Caderno de erros-2.png]]
+![[Controle/2. TCE-GO/erros/img/Caderno de erros-2.png]]
 
 ### Cinco forças competitivas de Porter
 
@@ -102,6 +102,14 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
 
 ![[Controle/2. TCE-GO/erros/Caderno de erros.png]]
+
+
+## Definições, Limites e Recondução da Dívida (arts. 29 a 31 da LRF)
+
+![[Controle/2. TCE-GO/erros/Caderno de erros-2.png]]
+
+![[Caderno de erros-3.png]]
+
 
 
 # D ADM

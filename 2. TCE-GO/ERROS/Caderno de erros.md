@@ -41,7 +41,7 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ### Matriz de Ansoff
 
-![[Caderno de erros-2.png]]
+![[Controle/2. TCE-GO/erros/img/Caderno de erros-2.png]]
 
 ### Cinco forças competitivas de Porter
 
