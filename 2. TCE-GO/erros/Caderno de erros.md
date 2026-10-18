@@ -99,7 +99,7 @@ Ambiente de tarefa = ambiente relacional ou transacional
 - Divisional = Descentralizado
 
 # AFO
-## Planejamento e Orçamento Público (arts. 3º a 10 da LRF)
+## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
 
 ![[Controle/2. TCE-GO/erros/Caderno de erros.png]]
 
