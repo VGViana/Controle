@@ -82,10 +82,7 @@
 - _Logo, 1/3 de 9, seriam 3 Ministros elegidos pelo Presidente da República da seguinte forma: 1 livremente, 1 dentre Auditores (Conselheiros-Substitutos/Ministros-Substitutos e 1 dentre procuradores do Ministério Público de Contas MPC/ Os outros 2/3, 6 Ministros, serão escolhidos pelo Congresso Nacional, e não pelo Senado. Cuidado com essas inversões)_ 
                 
 > - § 3° Os Ministros do Tribunal de Contas da União terão as mesmas **garantias, prerrogativas, impedimentos, vencimentos e vantagens** **<span style="color:#83a598">(GPIVV)</span>** dos **<span style="color:#b8bb26">Ministros do Superior Tribunal de Justiça</span>**, aplicando-se-lhes, quanto à aposentadoria e pensão, as normas constantes do art. 40.
-    
 > - § 4º O auditor **<span style="color:#83a598">(=Ministro-Substituto/Conselheiro-Substituto)</span>**, **<span style="color:#fe8019">quando em substituição</span>** a Ministro, terá as mesmas **garantias e impedimentos do titular** e, quando no exercício das demais atribuições da judicatura, as de **<span style="color:#d3869b">juiz de Tribunal Regional Federal</span>**.
-    
-
 > - Art. 74. Os **<span style="color:#fb4934">Poderes Legislativo, Executivo e Judiciário</span>** **<span style="color:#83a598">manterão, de forma integrada</span>**, **<span style="color: #d79921">sistema de controle interno</span>** com a finalidade de: 
 > 	- I - avaliar o cumprimento das **metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União**; 
 > 	- II - comprovar a legalidade e avaliar os resultados, **quanto à eficácia e eficiência**, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem como da **aplicação de recursos públicos por entidades** **<span style="color:#fb4934">de direito privado</span>**; _(atenção: eficácia e eficiência)_ 
