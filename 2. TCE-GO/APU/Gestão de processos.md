@@ -323,7 +323,7 @@ A avaliação de maturidade identifica o estágio de desenvolvimento e controle 
 
 - **[🔥 BIZU FCC 2026] Na passagem de Check para Act: resultado positivo → PADRONIZAR; resultado negativo → CORRIGIR. Essa dicotomia foi cobrada literalmente pela FCC.**
 
-- **SEIS SIGMA** **💥(ATENÇÃO MÁXIMA FCC)**
+## **SEIS SIGMA** **💥(ATENÇÃO MÁXIMA FCC)**
 
 - **O _Six Sigma_ baseia-se em um modelo de melhoria de desempenho simples conhecido como <span style="color:#fb4934">DMAIC</span>**, **que engloba as seguintes etapas**:
         
@@ -339,26 +339,26 @@ A avaliação de maturidade identifica o estágio de desenvolvimento e controle 
 
 - **[🔥 BIZU FCC 2026] Seis Sigma tem como foco reduzir/restringir a VARIAÇÃO do desempenho, trabalhando com desvios-padrão e limites definidos pelas expectativas dos clientes.**
 
-- **Método de Análise e Melhoria de Processos (MAMP)**
-    - 08 passos que podem ser associados ao ciclo PDCA:
-        - Plan
-            - 1- Identificação do Problema;
-            - 2 -Observação;
-            - 3 - Análise de causas;
-            - 4 -  Plano de Ação;
-        - DO
-            - 5 - Execução do Plano de Ação;
-        - Check
-            - 6 - Verificação e Controle:
-        - Act
-            - 7 - Padronização / Normatização
-            - 8 - Encerramento / Conclusão 
-    - Segundo Scartezini:
-        - Mapeamento dos processos.
-        - Monitoramento dos processos e de seus resultados. 
-        -  Identificação e priorização de problemas e suas causas.
-        - Ações corretivas, preventivas e de melhoria. 
-        - Sistema de documentação e procedimentos operacionais. 
+## **Método de Análise e Melhoria de Processos (MAMP)**
+- 08 passos que podem ser associados ao ciclo PDCA:
+	- Plan
+		- 1- Identificação do Problema;
+		- 2 -Observação;
+		- 3 - Análise de causas;
+		- 4 -  Plano de Ação;
+	- DO
+		- 5 - Execução do Plano de Ação;
+	- Check
+		- 6 - Verificação e Controle:
+	- Act
+		- 7 - Padronização / Normatização
+		- 8 - Encerramento / Conclusão 
+- Segundo Scartezini:
+	- Mapeamento dos processos.
+	- Monitoramento dos processos e de seus resultados. 
+	-  Identificação e priorização de problemas e suas causas.
+	- Ações corretivas, preventivas e de melhoria. 
+	- Sistema de documentação e procedimentos operacionais. 
 
 # 13. Redesenho de Processos x Reengenharia de processos
 
