@@ -207,10 +207,10 @@ As **principais ferramentas utilizadas** para esse mapeamento são:
 	- visão clara das etapas principais do processo.
 	- O SIPOC pode ser utilizado em algumas situações, tais como:
             
-> - Em iniciativas de melhoria de processos
-> - O exercício de nomear entidades em cada coluna pode acelerar a modelagem detalhada em outra ferramenta
-> - Para obtenção de consenso inicial sobre o escopo do projeto de modelagem de processo
-> - Quando é preciso analisar o volume de entradas no processo e os produtos que ele entrega, permitindo identificar gargalos e valor agregado ao próximo processo
+		 >-  Em iniciativas de melhoria de processos
+		 > - O exercício de nomear entidades em cada coluna pode acelerar a modelagem detalhada em outra ferramenta
+		 > - Para obtenção de consenso inicial sobre o escopo do projeto de modelagem de processo
+		 > - Quando é preciso analisar o volume de entradas no processo e os produtos que ele entrega, permitindo identificar gargalos e valor agregado ao próximo processo
             
 - **Mapofluxograma**:
 	-  fluxograma desenhado sobre o layout de uma linha de produção
