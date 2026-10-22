@@ -323,6 +323,12 @@ A avaliação de maturidade identifica o estágio de desenvolvimento e controle 
 
 - **[🔥 BIZU FCC 2026] Na passagem de Check para Act: resultado positivo → PADRONIZAR; resultado negativo → CORRIGIR. Essa dicotomia foi cobrada literalmente pela FCC.**
 
+|Sigla|Fase|Ações Típicas|
+|---|---|---|
+|P|Plan|Definição de metas; Análise de causas; Plano de Ação.|
+|D|Do|Execução do plano; Coleta de dados; Treinamento/Piloto.|
+|C|Check|Comparação do resultado com a meta; Identificação de desvios.|
+|A|Act|Padronização (se deu certo); Ação corretiva (se deu errado).|
 ## **SEIS SIGMA** **💥(ATENÇÃO MÁXIMA FCC)**
 
 - **O _Six Sigma_ baseia-se em um modelo de melhoria de desempenho simples conhecido como <span style="color:#fb4934">DMAIC</span>**, **que engloba as seguintes etapas**:
