@@ -145,6 +145,8 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 - **<span style="color:#fb4934"><u>Tese</u></span>** é o coração da redação 
 ### Completo 
 
+![[Redação TCE-GO-6.png]]
+
 <span style="color:#d3869b">Ao refletir sobre</span> **<span style="color: #d79921">assunto</span>**, <span style="color:#d3869b">é preciso analisar</span> **<span style="color:#b8bb26">tema</span>**. <span style="color:#d3869b">Nesse contexto, defende-se que</span> **<span style="color:#fb4934">tese</span>**. <span style="color:#d3869b">Para aprofundar nessa discussão, é importante entender</span> **<span style="color:#83a598">tópicos</span>**.
 
 ### Resumido
@@ -158,6 +160,8 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 <span style="color:#d3869b">Ao refletir sobre</span> **<span style="color:#b8bb26">tema</span>**, <span style="color:#d3869b">é possível perceber que</span> **<span style="color:#fb4934">tese</span>**. <span style="color:#d3869b">Para aprofundar essa discussão, é importante enteder</span> **<span style="color:#83a598">tópicos</span>**.
 
 ## Desenvolvimento 
+
+![[Redação TCE-GO-7.png]]
 
 ![[Redação TCE-GO-3.png]]
 
@@ -199,6 +203,8 @@ Banca não confia no aluno. Algumas estratégias:
 
 ## Conclusão 
 
+![[Redação TCE-GO-4.png]]
+![[Redação TCE-GO-5.png]]
 ### reforço da tese
 
 <span style="color:#d3869b">(Conjunção conclusiva), percebe-se que</span> **<span style="color:#fb4934">reforço da tese</span>**
@@ -221,3 +227,8 @@ Banca não confia no aluno. Algumas estratégias:
 #### Tese + projeção do futuro
 
 Se continuar assim as coisas vão seguir à este ponto 
+
+---
+# Resumo
+
+![[Redação TCE-GO-8.png]]
