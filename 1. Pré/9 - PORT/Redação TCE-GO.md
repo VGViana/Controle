@@ -159,6 +159,9 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 
 ## Desenvolvimento 
 
+![[Redação TCE-GO-3.png]]
+
+
 ### Estrutura do parágrafo 
 
 - **<span style="color:#83a598">tópico frasal</span>**
