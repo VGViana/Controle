@@ -172,21 +172,14 @@ Tópico frasal e argumento principal são obrigatórios
 - Tópico frasal é 1 período somente
 
 ### Tipos de tópicos frasais
-#### declaração impactante
 
-- algo forte, se posicionar. Contudo, argumentos fracos irão descontar nota
 
-#### declaração objetiva
-
-- responder se pode ou não pode
-
-#### parágrafo de conceito
-
-- Trazer o conceito acerca do tópico
-
-#### parágrafo de enumeração 
-
-- Vários exemplos
+| Tipos de Tópicos frasais | Situações                                                                 |
+| ------------------------ | ------------------------------------------------------------------------- |
+| declaração impactante    | algo forte, se posicionar. Contudo, argumentos fracos irão descontar nota |
+| Declaração objetiva      | Responder se pode ou não                                                  |
+| Parágrafo de conceito    | Trazer o conceito acerca do tópico                                        |
+| Parágrafo de enumeração  | Exemplos                                                                  |
 
 ### Argumento principal
 
