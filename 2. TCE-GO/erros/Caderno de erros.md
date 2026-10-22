@@ -143,3 +143,8 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ## Lei nº 13.869/2019 - Lei de Abuso de Autoridade
 
 ![[Caderno de erros-5.png]]
+
+
+| Inabilitação | Suspensão   |
+| ------------ | ----------- |
+| 1 - 5 anos   | 1 - 6 meses |
