@@ -104,16 +104,18 @@
 
 ## **8.1. Classificação SDPS** 
 
-- **Nível 1: Processos <span style="color:#83a598">MODELADOS</span>:**
-	- Processos são **<span style="color:#83a598">identificados</span>** a partir de seus valores, impactos, características, papéis, efeitos, etc.
+"**um amorzinho emo em cena internacional**" **<span style="color:#d3869b">Mo</span><span style="color:#83a598">Sim</span> <span style="color:#b8bb26">Emu</span> <span style="color:#fe8019">Encena</span> <span style="color:#fb4934">Internacional</span>**
+
+- **Nível 1: Processos <span style="color:#d3869b">MODELADOS</span>:**
+	- Processos são **<span style="color:#de869b">identificados</span>** a partir de seus valores, impactos, características, papéis, efeitos, etc.
 - **Nível 2: Processos <span style="color:#83a598">SIMULADOS</span>**
 	- Introdução de dados estimados para criar cenários distintos;
-- **Nível 3: Processos <span style="color:#83a598">EMULADOS</span>**
-	- coexistência de dados **<span style="color:#83a598">reais com estimados</span>**, aumentando o refinamento.
-- **Nível 4: Processos <span style="color:#b8bb26">ENCENADOS</span>**
-	- Processos são **<span style="color:#b8bb26">realizados conforme os modelos desenhados, simulados e emulados</span>**;
+- **Nível 3: Processos <span style="color:#b8bb26">EMULADOS</span>**
+	- coexistência de dados **<span style="color:#b8bb26">reais com estimados</span>**, aumentando o refinamento.
+- **Nível 4: Processos <span style="color:#fe8019">ENCENADOS</span>**
+	- Processos são **<span style="color:#fe8019">realizados conforme os modelos desenhados, simulados e emulados</span>**;
 	- Observação das novas condições induz a **<u>permanentes adequações</u>** dos requisitos de processo.
-- **Nível 5: Processos INTEROPERADOS**
+- **Nível 5: Processos <span style="color:#fb4934">INTEROPERADOS</span>**
 	- Processos executados e geridos além das fronteiras organizacionais;
 	- Cadeias de valor entre instituições.
 
@@ -323,12 +325,12 @@ A avaliação de maturidade identifica o estágio de desenvolvimento e controle 
 
 - **[🔥 BIZU FCC 2026] Na passagem de Check para Act: resultado positivo → PADRONIZAR; resultado negativo → CORRIGIR. Essa dicotomia foi cobrada literalmente pela FCC.**
 
-|Sigla|Fase|Ações Típicas|
-|---|---|---|
-|P|Plan|Definição de metas; Análise de causas; Plano de Ação.|
-|D|Do|Execução do plano; Coleta de dados; Treinamento/Piloto.|
-|C|Check|Comparação do resultado com a meta; Identificação de desvios.|
-|A|Act|Padronização (se deu certo); Ação corretiva (se deu errado).|
+| Sigla | Fase  | Ações Típicas                                                 |
+| ----- | ----- | ------------------------------------------------------------- |
+| P     | Plan  | Definição de metas; Análise de causas; Plano de Ação.         |
+| D     | Do    | Execução do plano; Coleta de dados; Treinamento/Piloto.       |
+| C     | Check | Comparação do resultado com a meta; Identificação de desvios. |
+| A     | Act   | Padronização (se deu certo); Ação corretiva (se deu errado).  |
 ## **SEIS SIGMA** **💥(ATENÇÃO MÁXIMA FCC)**
 
 - **O _Six Sigma_ baseia-se em um modelo de melhoria de desempenho simples conhecido como <span style="color:#fb4934">DMAIC</span>**, **que engloba as seguintes etapas**:
