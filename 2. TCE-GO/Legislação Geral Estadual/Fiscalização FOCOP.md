@@ -52,18 +52,13 @@
 - _CONTRATO - quem susta, em regra, é o CN. O TC só poderá fazê-lo ante a inércia do CN, nos termos do §2° abaixo. Já no casto de ATO, o TC poderá sustá-lo imediatamente, bastando a comunicação ao CN. Tome muito cuidado com essa diferença. No caso de sustação de contrato pelo CN, a solicitação ao Poder Executivo das medidas cabíveis é IMEDIATA, não há prazo aqui._
             
 > - § 2º Se o Congresso Nacional ou o Poder Executivo, **==no prazo de noventa dias==**, não efetivar as medidas previstas no parágrafo anterior, **<span style="color:#fe8019">o Tribunal decidirá a respeito</span>**.
-        
 > - § 3º As decisões do Tribunal de que resulte imputação de débito ou multa **<span style="color:#fb4934">terão eficácia de título executivo</span>**.
         
 - _Título executivo EXTRAJUDICIAL, e não judicial, cuidado! Não há a necessidade do judiciário para surtir efeitos_
             
 > - § 4º O Tribunal encaminhará ao Congresso Nacional, **==trimestral e anualmente==**, relatório de suas atividades.
-        
-
 > - Art. 72. A **<span style="color:#fe8019">Comissão mista permanente</span>** a que se refere o art. 166, §1º, diante de indícios de **despesas não autorizadas, ainda que sob a forma de investimentos não programados ou de subsídios não aprovados**, **poderá** solicitar à autoridade governamental responsável que, **==no prazo de cinco dias==**, preste os esclarecimentos necessários.
-    
 > - § 1º **<span style="color: #d79921">Não prestados os esclarecimentos, ou considerados estes insuficientes</span>**, **<span style="color:#b8bb26">a Comissão solicitará ao Tribunal pronunciamento conclusivo</span>** sobre a matéria, **==no prazo de trinta dias==**.
-        
 > - § 2º **Entendendo o Tribunal irregular** a despesa, **<span style="color:#fb4934">a Comissão, se julgar que o gasto possa causar dano irreparável ou grave lesão</span>** à economia pública, **<span style="color:#d3869b">proporá ao Congresso Nacional sua sustação</span>**.
         
 - _Sustação de DNA - despesas não autorizadas. Veja que, mesmo que o TC entenda irregular a despesa, a Comissão ainda pode não fazer nada, vale dizer, a decisão da Corte de Contas não vincula a decisão da Comissão do CN. Nada mais é que uma brecha para o poder legislativo barganhar, caso constatada a irregularidade da despesa._
