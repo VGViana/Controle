@@ -138,3 +138,8 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ![[Controle/2. TCE-GO/erros/Caderno de erros-1.png]]
 
+
+# LEG
+## Lei nº 13.869/2019 - Lei de Abuso de Autoridade
+
+![[Caderno de erros-5.png]]
