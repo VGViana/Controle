@@ -12,9 +12,9 @@
 
 # **2. Portfólio X Programa X Projeto e subprojeto** 
 
-- **Portfólio** é um conjunto de **programas, projetos, portfólios subsidiários** (“portfólios menores” ou “subportfólios”) e **operações** **gerenciados para alcançar objetivos estratégicos****.**
+- **Portfólio** é um conjunto de **programas, projetos, portfólios subsidiários** (“portfólios menores” ou “subportfólios”) e **operações** **gerenciados para alcançar objetivos estratégicos.
     
-- **⚠️Programa** é um “**grupo** **relacionado** de projetos, subprogramas e atividades de programa **relacionados****,** gerenciados de forma **coordenada** para a **obtenção de benefícios que não estariam disponíveis se eles fossem gerenciados individualmente.**
+- **⚠️Programa** é um “**grupo** **relacionado** de projetos, subprogramas e atividades de programa **relacionados, gerenciados de forma **coordenada** para a **obtenção de benefícios que não estariam disponíveis se eles fossem gerenciados individualmente.
     
 - **Subprojeto** “é uma **parte menor do projeto total**, criada quando um projeto é subdividido em componentes ou partes mais facilmente gerenciáveis.”
     
