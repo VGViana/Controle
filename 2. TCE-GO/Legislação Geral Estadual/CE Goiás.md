@@ -15,6 +15,7 @@ Por simetria, as disposições da CEGO são muito semelhantes às da CF/88. Trar
 > **Art. 27 A** Comissão permanente a que se refere o art. 111, § 1º, diante de indícios de despesas não autorizadas, ainda que sob a forma de investimentos não programados, de subsídios não aprovados, ou de irregularidades de qualquer natureza, poderá solicitar à autoridade responsável que, **==no prazo de cinco dias úteis==**, preste os esclarecimentos necessários.
 
 - _⚠️ Cuidado! Note que o caput do art. 27, da CEGO, traz 5 (cinco) dias ÚTEIS! Esse mesmo dispositivo, na CF/88 (art. 72), traz 5 (cinco) dias, não mencionando úteis._
+
 > § 1º - Não prestados os esclarecimentos ou considerados estes insuficientes, a comissão solicitará ao Tribunal de Contas do Estado pronunciamento conclusivo sobre a matéria, no prazo de **==quinze dias úteis==**.
     
 - _Prazo diferente do da CF/88, em! Cuidado aqui também! Destaque isso no seu material_
