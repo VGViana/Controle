@@ -131,9 +131,9 @@ simplesmente pela passagem do tempo ou porque o evento de risco não ocorre.
         
 		- Mais Provável (tM): baseada na duração da atividade, dados os recursos prováveis de serem designados, sua produtividade, expectativas realistas de disponibilidade para executar a atividade, dependências de outros participantes e interrupções.
             
-        - Otimista (tO): a duração da atividade é baseada na análise do melhor cenário para a atividade.
-            
-        - Pessimista (tP): a duração da atividade é baseada na análise do pior cenário para a atividade.
+		- Otimista (tO): a duração da atividade é baseada na análise do melhor cenário para a atividade.
+			
+		- Pessimista (tP): a duração da atividade é baseada na análise do pior cenário para a atividade.
             
 
 # **9. PMBOK 7° edição** **(💥ATENÇÃO MÁXIMA FCC)**
