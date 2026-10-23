@@ -1087,10 +1087,524 @@ O regime constitucional sobre estabilidade e reintegração prevê que, se for i
 
 # 🔥 DESTAQUES DA JURISPRUDÊNCIA RECENTE:
 
-## Supremo Tribunal Federal
+Supremo Tribunal Federal
 
 | Processo / Tema                                                     | Ano       | Resumo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Impacto / Observações                                                                                                                                                 |
 | ------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Tema 656 ⭐**                                                      | 2025      | O Plenário do STF firmou que **as guardas municipais podem exercer ações de segurança urbana, inclusive policiamento ostensivo e comunitário**, desde que não desempenhem atribuições típicas de polícia judiciária.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Amplia a margem normativa municipal para organização das guardas; exige observância dos limites constitucionais (art.144, §8º). **Tese com repercussão geral.**       |
 | **ADI 7.230/MG**                                                    | 2024      | O STF declarou inconstitucional norma inserida por emenda parlamentar que vedava ao Tribunal de Contas do Estado dispor sobre condições de escolha de seus conselheiros (vício de pertinência temática / iniciativa legislativa).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Reforça controle sobre iniciativa legislativa e protege autonomia administrativa/organizacional de tribunais de contas.                                               |
 | **Informativo / Acórdãos relacionados (ex.: Informativo STF 1180)** | 2024–2025 | Diversas decisões do STF (reunidas em informativos) trataram de normas municipais/estaduais que afetam estrutura e regime jurídico de órgãos públicos (competência normativa, limites da legislação local, efeitos de emendas parlamentares).<br><br>**Informativo STF nº 1180/2025**: <br><br>- **Parlamentares estaduais:** Norma de Constituição estadual que permitia vantagem pecuniária por convocação extraordinária violou o **princípio da simetria federativa**, sendo declarada inconstitucional.<br>    <br>- **Suspensão de serviços públicos:** Discussão sobre **suspensão de fornecimento de energia elétrica e água por falta de pagamento** no âmbito estadual e sua compatibilidade com direitos básicos (essas ADIs também constam no informativo). | Usadas para balizar validade de atos e leis locais que tocam organização administrativo-institucional; útil para jurisprudência aplicada em recursos constitucionais. |
+
+# **7. Poder Legislativo**
+
+## **7.1. Visão Geral**
+
+- <u>Número de Deputados</u>: entre **<span style="color:#fe8019">8 e 70</span>**
+	- Definido em Lei **<span style="color:#fe8019">Complementar</span>**, com ajustes **<span style="color:#fe8019">até o ano anterior</span>** da eleição
+	- Sistema **<span style="color:#fe8019">PROPORCIONAL</span>**
+- Em regra regra: Votação de cada casa/comissão = **maioria dos votos, <span style="color:#fe8019">desde que presentes a maioria absoluta</span> (50%+1)**
+- **Casas (Câmara e Senado) e Comissões**: Podem convocar ministros para esclarecimentos sobre assunto **previamente determinado**, sob pena de **<span style="color:#d3869b">crime de responsabilidade</span>**
+- Os Ministros **podem** ir às Casas/Comissões por <u>sua iniciativa + ok da Mesa</u> para expor assuntos de relevância do **seu Ministério**
+- As **MESAS** podem pedir informações **por escrito** para responderem em até **30 dias**
+
+**⚠️ Controle Externo -** **PODER LEGISLATIVO = titular >> <span style="color:#fe8019">TRIBUNAL DE CONTAS = auxilia</span>**
+
+> **CF/88 Art. 48,:**
+> - **X - fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do Poder Executivo, incluídos os da administração indireta;**
+> _Art. 70. A **fiscalização contábil, financeira, orçamentária, operacional e patrimonial** da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, **será exercida pelo Congresso Nacional, mediante controle externo**,_ _e pelo sistema de controle interno de cada Poder._
+
+- BIZU: Fiscalização COFOOP (COntábil, Financeira, Orçamentária, Operacional e Patrimonial): Externo (CN) + Interno (cada Poder tem o seu) 
+
+### **▶️Funções Típicas:**
+
+- **Legislar: elaborar leis**
+- **Fiscalizar/investigar - CPIs**
+
+### **▶️Funções Atípicas:**
+
+- **Administrativa - ex: realizar concursos públicos para provimento de vagas**
+
+> **CF/88 **
+> - _Art. 51, IV  (**câmara dos deputados**)- dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na LDO;_
+> - Art. 52:**XIII (senado federal) - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na LDO;**
+
+
+**▶️** **Julgamento: PR por crime de responsabilidade**
+
+> **CF/88:** 
+> - _I - **<u>processar e julgar o Presidente</u>** e o Vice-Presidente da República nos crimes de responsabilidade, bem como os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica **nos crimes da mesma natureza conexos** com aqueles._  
+> - **_II - <u>processar e julgar_</u>** _os Ministros do STF, os membros do Conselho Nacional de Justiça e do Conselho Nacional do MP, o Procurador-Geral da República e o Advogado Geral da União nos **crimes de responsabilidade**._
+
+## **7.2. Estrutura do Poder Legislativo - Congresso Nacional**
+
+**O congresso Nacional é formado pela Câmara dos deputados e o Senado federal**
+
+### **▶️Câmara dos Deputados:** **Representantes dos Povo - Sistema Proporcional** 
+
+- Número total de Deputados - **<span style="color:#83a598">513</span>**
+- Representação proporcional à **<span style="color:#83a598">POPULAÇÃO</span>**
+- **Território Federal** somente haverá representante no CD, SF não! É uma autarquia da união, e não um estado.
+- Voto pertence ao partido - fidelidade partidária
+- Mandato de 4 anos
+
+### **▶️Senado Federal:** **Representantes dos Estados - Sistema Majoritário** 
+
+- Cada Estado irá eleger **3 senadores** 
+- Mandato de 8 anos
+- 2 suplentes 
+- representação será renovada de **4 em 4 anos** 
+- **alternadamente** por **1/3 e 2/3**.
+- Número total de Senadores - **<span style="color:#83a598">81</span>**
+
+### **▶️ Sessão CONJUNTA:**
+
+- - **Congresso Nacional = Senado Federal + Câmara dos Deputados: contagem é feita <span style="color:#83a598">SEPARADAEMENTE</span>**
+
+#### ⚠️**Hipóteses de sessão conjunta**
+
+- inaugurar a **sessão legislativa;**
+- elaborar o **regimento comum** e regular a criação de **serviços comuns às duas Casas;**
+- receber o **compromisso do Presidente e do Vice-Presidente da República;**
+- conhecer do **veto e sobre ele deliberar.**
+- discutir e votar a **lei orçamentária**
+- **delegar ao Presidente da República** competência para legislar
+
+### **Sessão <span style="color:#d3869b">UNICAMERAL</span>**
+
+- **ADCT REVISÃO CF (5 anos após CF88) - Congresso Nacional: contagem é feita <span style="color:#d3869b">CONJUNTAMENTE</span>**
+- Apenas há essa hipótese na CF/88
+
+### **<span style="color:#b8bb26">Reuniões</span>**
+
+- **Sessões Legislativas <span style="color:#b8bb26">Ordinárias</span>** - 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro.
+- **<span style="color:#fe8019">Não poderá ser interrompida sem que seja aprovada a LDO</span>**
+- **Sessões Legislativas <span style="color:#b8bb26">Extraordinárias, convocada pelo</span>:**
+	- **Presidente do SF** - decretação de estado de defesa ou de intervenção federal, de pedido de autorização de estado de sítio e posse do PR e do Vice-PR.
+	- **Presidente da República; Presidente da Câmara dos Deputados e do Senado Federal, ou requerimento da maioria dos membros de ambas as casas** - casos de urgência ou interesse público relevante **<span style="color:#d3869b">(deve haver aprovação da maioria absoluta de cada Casa)</span>**⚠️
+- **Apenas** haverá a deliberação do **assunto para o qual foi convocado** e sobre as **medidas provisórias** que <u>estiverem vigorando</u>
+- **<span style="color:#fe8019">Não haverá parcela indenizatória</span>**
+
+**⚠️SAIBA QUE:**
+ - Legislatura - 4 anos - 4 sessões legislativas ordinárias
+ - Sessão Legislativa - 2 Períodos Legislativos - (02/02 a 17/07 e 01/08 a 22/12)
+
+### **7.2.1. Congresso Nacional + Sanção Presidencial**
+
+- Fixar subsídio dos Ministros do **STF**
+- **Dispor** sobre radiodifusão e telecomunicações
+
+### **7.2.2. Congresso Nacional, quando Não precisa de Sanção Presidencial:**
+
+- Fixar **<span style="color:#fb4934">subsídio</span>** do **<span style="color:#fb4934">presidente e dos ministros</span>**
+- **<span style="color:#fb4934">Equiparar</span>** **<span style="color:#fb4934">subsídio</span>** de deputados e senadores
+- Apreciar **Atos de Concessão/renovação** para emissoras de TV/Rádio
+- Decretar estado de **calamidade pública**
+- Aprovar exploração em **terra indígena**
+
+## **7.3. Câmara dos Deputados**
+
+- **<span style="color:#b8bb26">Autorizar</span>** por **<span style="color:#b8bb26">2/3</span>** abertura de processos contra **Presidente e Ministros** (seja crime de responsabilidade ou comum).
+	- Se for responsabilidade, Senado julga.
+	- Senão, STF
+- Tomar contas do Presidente se não forem apresentadas ao CN em **60 dias após abertura da sessão legislativa**
+- Eleger **2 membros** do **Conselho da Republica**
+
+| Dívida Mobiliária              | Quem                                     |
+| ------------------------------ | ---------------------------------------- |
+| **Dívida Mobiliária Federal**  | Congresso Nacional + Sanção Presidencial |
+| **Dívida Mobiliária Estadual** | Senado                                   |
+
+## **7.4. Senado Federal**
+
+- Processar e julgar por **responsabilidade** (aí o presidente da sessão será o presidente do STF, e  o quórum será de 2/3, + inabilitação por 8 anos para função pública)
+	- Presidente
+	- Ministros e Comandantes por crimes **conexos** com o Presidente
+	- STF, CNJ, CNMP, PGR e AGU
+- Aprovar por **voto secreto e arguição pública**
+	- Magistrados, TCU indicados pelo Presidente
+	- Governador de Território
+	- Presidente e Diretores do BACEN
+	- PGR e outros que a lei mandar
+- **ÚNICO QUE APROVA POR VOTO SECRETO + ARGUIÇÃO SECRETA**
+	- Chefe de missão diplomática **permanente**
+- **Maioria absoluta + voto secreto**
+	- Exoneração de ofício do PGR
+	- Eleger membros do conselho da república
+- Avaliar periodicamente o Sistema Tributário Nacional
+
+## **7.5. Deputados e Senadores**
+
+- A partir da **Expedição do Diploma**:
+	- Julga pelo STF
+	- Só vai **preso** se **flagrante inafiançável** à Aí envia os autos em 24hs para a **Casa decidir pela MAIORIA**
+		- Por **iniciativa de qlq partido** político nela representado **+ maioria dos membros**, **pode sustar** a ação até a decisão final
+		- Essa **<span style="color:#fe8019">votação</span>** será no **<span style="color:#fe8019">máximo em 45 dias do recebimento</span>** pela **<span style="color:#fe8019">Mesa</span>**
+	- **<span style="color:#fb4934">Não pode</span>** **<span style="color:#d3869b">firmar contrato</span>** com PJ Pública (**<span style="color:#fb4934">salvo se cláusulas uniformes</span>**)
+	- **<span style="color:#fb4934">Não pode</span> <span style="color:#d3869b">aceitar/exercer cargo</span>** (inclusive comissionado – “ad nutum”)
+- A partir da **POSSE**
+	- <span style="color:#fb4934">Não pode</span> **ser dono/ter cargo** em empresa que **goze de favor por contrato público**
+	- <span style="color:#fb4934">Não pode</span> **ocupar cargo** em **PJ pública**
+	- <span style="color:#fb4934">Não pode</span> **patrocinar** causa de interesse de PJ **Pública**
+	- <span style="color:#fb4934">Não pode</span> ser titular de + de 1 cargo **eletivo**
+- Imunidades só **suspendem** em **<span style="color:#b8bb26">Estado de Sítio + voto de 2/3 da casa</span>**
+	- Somente para atos fora do CN incompatíveis com a medida
+- Perde o cargo se:
+	- Faltar à **<span style="color:#fb4934">terça parte</span>** das sessões (salvo licença/missão) **->** (**<span style="color:#83a598">mesa declara</span>** + ampla defesa)
+	- Houver **<span style="color:#fb4934">perda/suspensão</span>** dos direitos **<span style="color:#fb4934">políticos</span>** (**<span style="color:#83a598">mesa declara</span>** + ampla defesa)
+	- Decretar a **<span style="color:#fb4934">Justiça Eleitoral</span>** (**<span style="color:#83a598">mesa declara</span>** + ampla defesa)
+	- Condenação **<span style="color:#fb4934">criminal</span>** **<span style="color:#fb4934">transitada</span>** em julgado (**<span style="color:#d3869b">maioria absoluta decide</span>** + ampla defesa)
+	- Fez as proibições acima ou **faltou com decoro** (**<span style="color:#d3869b">maioria absoluta decide</span>** + ampla defesa)
+- Não perde o cargo se:
+	- Licença p/ interesse próprio **não remunerada - máximo de 120 dias** 
+	- Doença (**sem prazo**)
+- **Passou de 120 dias, ou perdeu o cargo** à Suplente
+- "E se não há suplente?"
+	- Faltando mais de 15 meses pro fim do mandato, faz eleição; menos de 15 meses, vai assim mesmo, sem suplente 😂
+
+## **7.6. Comissões Parlamentares de Inquérito**
+
+- **Requerimento** de **1/3** da Casa
+	- De qualquer Casa ou das 2 juntas (CPMI)
+- Poder próprio de autoridade **judicial** + **<span style="color:#83a598">fato certo</span>** + **<span style="color:#d3869b">tempo certo</span>**
+- Conclusões à Envia ao Ministério Público
+- Fatos novos **conexos diretamente** **<span style="color:#b8bb26">podem</span>** ser apurados, pois **<span style="color:#fb4934">NÃO CONFIGURAM ALARGAMENTO DO ÂMBITO DA CPI</span>** (esse alargamento é proibido)
+
+### **<span style="color:#83a598">À CPI É PERMITIDO:</span>**  
+
+- Determinar **<span style="color:#83a598">quebra de sigilo bancário</span>**, fiscal e telefônico (telefônico = dados e registros, **<span style="color:#fb4934">não a interceptação</span>**). A decisão de quebra deve ser tomada pela **maioria** da CPI e ser fundamentada, <span style="color:#fb4934">não podendo se apoiar em fatos genéricos</span>;
+- **Convocar ministro** de Estado para depor (qualquer comissão pode);
+- Determinar a **condução coercitiva** de **testemunha** que se recuse a comparecer.
+
+### **<span style="color:#fb4934">À CPI NÃO É PERMITIDO:</span>**
+
+- Apreciar acerto ou desacerto de **<span style="color:#fb4934">atos jurisdicionais</span>** ou **<span style="color:#fb4934">intimar magistrado</span>** para depor;
+- Determinar **<span style="color:#fb4934">indisponibilidade de bens</span>** do investigado;
+- Decretar a prisão preventiva (pode decretar prisão só em flagrante);
+- **<span style="color:#b8bb26">Determinar interceptação/escuta telefônica</span>**;
+- Decretar **<span style="color:#fb4934">busca domiciliar</span>** de pessoas ou documentos (inviolabilidade domiciliar é reserva de jurisdição).
+
+## **7.7. Plebiscito e Referendo**
+
+- Convoca por Decreto Legislativo
+- Iniciativa de 1/3 dos membros de qualquer das Casas
+
+## **7.8. Emendas à CF/88**
+
+**Importante:**
+
+- **==As cláusulas pétreas são disposições constitucionais que não podem ser abolidas.==** Dividem-se em limitações materiais expressas e implícitas. As limitações materiais **expressas** estão no art. 60, § 4º, da Constituição:
+
+> Art. 60....
+> 
+> _§ 4º: Não será objeto de deliberação a proposta de emenda tendente a abolir:_ 
+> 
+> - _I - a forma federativa de Estado;_
+> - _II - o voto direto, secreto, universal e periódico;_
+> - _III - a separação dos Poderes;_
+> - _IV - os direitos e garantias individuais._
+
+Quanto às limitações materiais **implícitas** podemos elencar, dentre outras:
+
+- I - Titular do poder constituinte ( **povo**) (art. 1º, parágrafo único, CF)
+- II - voto com valor igual para todos; (art. 14, caput, CF)
+- III - dignidade da pessoa humana (art. 1º, III, CF)
+- IV - a proibição de supressão do próprio art. 60, § 4º (cláusulas pétreas expressas), que é, como afirma o enunciado, a **norma constitucional que impede a deliberação de propostas tendentes a abolir cláusulas pétreas.**
+
+- **==O Supremo admite a existência das limitações materiais implícitas na Constituição:==**
+
+> "Com relação a emendas constitucionais, o parâmetro de aferição de sua constitucionalidade é estreitíssimo, adstrito às limitações materiais, explícitas ou implícitas, que a Constituição imponha induvidosamente ao mais eminente dos poderes instituídos, qual seja o órgão de sua própria reforma. Nem da interpretação mais generosa das chamadas "cláusulas pétreas" poderia resultar que um juízo de eventuais inconveniências se convertesse em declaração de inconstitucionalidade da emenda constitucional que submeta certa vantagem funcional ao teto constitucional de vencimentos" (MS 24.875, rel. min. Sepúlveda Pertence, julgamento 11/5/2006, Plenário)
+
+👀**VEJA COMO ESSE TEMA FOI COBRADO NA SEFAZ/PI, PELA FCC, NA QUESTÃO** [#3555994](https://www.tecconcursos.com.br/questoes/3555994)
+
+**De acordo com a Constituição Federal de 1988, como se dá o processo de aprovação de uma Proposta de Emenda à Constituição (PEC) no Congresso Nacional, quanto ao número de turnos de votação, ao quórum exigido para aprovação e à possibilidade de reapresentação de matéria rejeitada na mesma sessão legislativa?**
+
+A Constituição Federal de 1988 prevê que a emenda pode ser proposta **pelo Presidente da República** e que a proposta deve ser **discutida e votada em cada Casa do Congresso Nacional em dois turnos**, sendo aprovada somente se obtiver, **em ambos os turnos, três quintos dos votos dos respectivos membros**. Além disso, dispõe que **a matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa**.
+
+# **8. Processo Legislativo** 
+
+- **<span style="color:#d3869b">Esse é o queridinho das provas! Foque aqui sem receio, porque dominar esse ponto faz toda a diferença.</span>**
+- Relembre o **processo legislativo**:
+
+## **Fase Constitutiva**
+
+**Casa Iniciadora - projetos de iniciativa de:**
+
+- **Câmara dos Deputados**: Deputado Federal, Comissão de Deputados, Presidente da República, STF, Tribunais Superiores, PGR e dos cidadãos, ainda, Comissão Mista do Congresso Nacional.
+- **Senado Federal:** Senadores ou Comissão do Senado, Comissão Mista do Congresso Nacional
+
+**Votação:**
+
+- Quórum de **<span style="color:#fe8019">PRESENÇA</span>**: **MAIORIA ABSOLUTA** DOS MEMBROS DA RESPECTIVA CASA LEGISLATIVA
+- Quórum de **<span style="color:#b8bb26">APROVAÇÃO</span>**: **MAIORIA** DOS VOTOS PRESENTES
+
+**⚠️Atenção**:
+
+- **<span style="color:#b8bb26">Casa Iniciadora</span>** - projeto poderá ser:
+
+	- **aprovado** - será encaminhado para a Casa Revisora
+	- **rejeitado** - **arquivado.** Apenas poderá ser objeto de novo projeto, na mesma sessão legislativa, se tiver a proposta da **maioria absoluta** dos representantes de quaisquer Casas.
+
+- **<span style="color:#83a598">Casa Revisora</span>**: projeto poderá ser:
+
+	- aprovado sem emendas - encaminhado para o Presidente da República para a sanção/veto
+	- aprovado **<span style="color:#fb4934">com</span>** emendas - a parte que sofreu as alterações voltará à Casa Iniciadora para que sejam examinadas as emendas. Saiba que o projeto não pode ser emendado novamente. E apenas há apreciação das emendas do jeito que foram feitas na Casa Revisora (não pode ser modificado).
+	- Caso aprove - encaminha para o PR para sanção/veto;
+	- Caso rejeite - encaminha para o PR **SEM AS EMENDAS.**
+
+Ainda, grave que, a parte do projeto que não sofreu emendas, seguirá o rito ordinário, não havendo a necessidade de retornar à Casa Iniciadora, para que seja feita a revisão.
+
+> **STF** - caso as emendas da Casa Revisora não alterem substancialmente o texto legal, não precisa ser encaminhada para a Casa Iniciadora, ou seja, já envia para o PR.
+
+- rejeitado - arquivado
+
+## **Fase complementar** - promulgação/publicação 
+
+### **Emendas Parlamentares**
+
+As **emendas parlamentares** podem ser:
+
+- Supressivas → eliminam parte da proposição inicial
+- Aditivas → Acrescentam algo
+- Aglutinativas → Fusão de outras emendas, ou destas com o texto original
+- Modificativas → Alterar a proposição, **sem modifica-la substancialmente**
+- **<span style="color:#fe8019">Substitutivas</span>** → Sucedâneo **a parte** de **outra proposição** que, **após a alteração**, passará a se chamar "**substitutivo**". Essa modificação pode ser **substancial ou formal**
+- De redação → Só para sanar erros de linguagem, incorreção técnica ou lapso manifesto
+
+⚠️Como a **<span style="color:#fe8019">emenda substitutiva altera a matéria em si</span>**, ela passa a ser um **outro projeto.**
+
+- Logo, **se rejeitar ela, pode apreciar** na mesma sessão legislativa a **PEC original**
+
+<span style="color:#fe8019">Apenas</span> podem ser propostas por **<span style="color:#fb4934">PARLAMENTARES</span>**.
+
+⚠️**Atenção:**
+
+- pode o Presidente da República propor alterações às **<span style="color:#83a598">leis orçamentárias</span>** - ele propõe ao Congresso Nacional.
+- **pode** haver emendas parlamentares em projetos de **<span style="color:#b8bb26">lei de iniciativa reservada.</span>**
+
+⚠️**Atenção, as emendas parlamentares:**
+
+- devem ter <span style="color:#83a598">pertinência temática</span> com a matéria do projeto de lei;
+- em casos de projetos com iniciativa privativa, <span style="color:#fe8019">não pode haver emendas que causem o aumento de despesas</span>
+- em casos de projetos referentes aos **serviços administrativos** (SF, CD, Tribunais Federais, MP) <span style="color:#fe8019">não pode haver emendas que causem aumento de despesas.</span>
+
+> **STF** - pode haver emendas que resultem em aumento de despesas nos casos de **<span style="color:#83a598">organização judiciária</span>.**
+
+-  Sanção presidencial <span style="color:#fb4934">não ratifica</span> o vício da emenda parlamentar.
+
+## **Sanção e Veto**
+
+#### **SANÇÃO:**
+
+- Projeto de lei torna-se Lei.
+- Matéria atribuída ao Presidente da República - ato unilateral
+- Não há sanção:
+    - Emendas Constitucionais
+    - Leis Delegadas
+    - Medidas Provisórias
+- Tipos
+    - Sanção **<span style="color:#b8bb26">Expressa</span>** - formaliza-se por escrito o ato de sanção.
+    - Sanção **<span style="color:#d3869b">Tácita</span>** - silêncio no prazo de 15 dias úteis (iniciados do recebimento do projeto)
+
+⚠️**Atenção (<span style="color:#fb4934">sanção tácita</span>): Haverá o prazo de** **<span style="color:#83a598">48 horas</span>** **para que seja promulgada a lei. Caso o Presidente da República não o faça, deverá o <u>Presidente do Senado</u> (em 48 horas) fazê-lo, se não o fizer, caberá ao <u>Vice-Presidente do Senado</u> (sem prazo).**
+
+#### **VETO:**
+
+- Matéria atribuída ao Presidente da República - ato unilateral
+- Discorda do projeto de lei:
+- **contrário ao <span style="color:#d3869b">interesse público</span>** - **<span style="color:#d3869b">VETO POLÍTICO</span>**
+
+⚠️**Atenção**
+
+- **Veto <span style="color:#d3869b">Político</span> - juízo político de <span style="color:#d3869b">conveniência</span>**  
+    
+- **VETO <span style="color:#b8bb26">JURÍDICO</span> - juízo de <span style="color:#b8bb26">inconstitucionalidade</span>**
+
+⚠️**Atenção - <span style="color:#b8bb26">Veto Jurídico</span> - controle de constitucionalidade <span style="color:#b8bb26">PREVENTIVO</span>**
+
+- Deve ser **<span style="color:#83a598">EXPRESSO</span>** - comunicar ao Presidente do Senado em <u>15 dias úteis</u> (48 horas para comunicar os **MOTIVOS** ao Presidente do Senado), caso contrário, será considerada <u>sanção tácita.</u>
+- Sempre será **<span style="color:#83a598">MOTIVADO</span>**!
+- <span style="color:#fb4934">Não há retratação do veto</span>
+- Tipos:
+    - **Total** - incidir sobre **TODO** o projeto de lei
+    - **Parcial** - incidir sobre artigo, parágrafo, inciso ou alínea (não pode haver veto de palavras ou expressões, o veto deve abranger o texto completo referente)
+- **Possui efeito RELATIVO**
+- Poderá ser superado:
+    - Votação em **sessão conjunta do Congresso Nacional** - Prazo de 30 dias (contados do recebimento do veto)
+- Superado o veto - o projeto volta para o Presidente da República promulgá-lo.
+- <span style="color:#fb4934">Não há retratação da derrubada do veto</span>
+
+⚠️**Atenção: Haverá o prazo de** **<span style="color:#83a598">48 horas</span>** **para que seja promulgada a lei. Caso o Presidente da República não o faça, deverá o <u>Presidente do Senado</u> (48 horas) fazê-lo, se não o fizer, caberá ao <u>Vice-Presidente do Senado</u> (sem prazo).**
+
+Saiba que a **<span style="color:#b8bb26">parte do projeto que não foi vetada será encaminhada para promulgação.</span>** Apenas a parte vetada que "voltará" para o Congresso Nacional, para que seja apreciado o veto.
+
+**<span style="color:#fe8019">Não há controle judicial sobre o mérito do veto</span>** pelo Poder **Judiciário!** No entanto, **<span style="color:#b8bb26">caberá controle judiciário caso o veto ocorra <u>após os 15 dias úteis</u></span>**<u> da sanção</u>
+
+
+👀**VEJA COMO A FCC COBROU O TEMA ESSE ANO** [#3826819](https://www.tecconcursos.com.br/questoes/3826819) 
+
+**Quando o Presidente da República veta parcialmente um projeto de lei por inconstitucionalidade,** **como deve ocorrer a apreciação desse veto pelo Congresso Nacional** **quanto à forma de deliberação e ao prazo para análise?**
+
+Conforme a CF de 1988, o Presidente da Presidente da República pode vetar total ou parcialmente projeto de lei quando o considerar **inconstitucional** (ou contrário ao interesse público). No caso descrito houve alegação de violação de princípios constitucionais (isonomia; segurança jurídica), o que caracteriza **fundamento de inconstitucionalidade**, e o veto abrangeu apenas dispositivos — logo, trata-se de **veto parcial por inconstitucionalidade**.
+
+Além disso, a Constituição determina que o **veto será apreciado em sessão conjunta do Congresso Nacional** **dentro de 30 dias** contados do seu recebimento, e que, esgotado esse prazo sem deliberação, o veto será colocado na ordem do dia da sessão imediata, com sobrestamento das demais proposições até sua votação final. A rejeição do veto só pode ocorrer pelo **voto da maioria absoluta dos Deputados e Senadores**.
+
+
+# **9.Fiscalização contábil, financeira e orçamentária**
+
+## **9.1. Controle interno** **x** **Controle externo**
+
+<span style="color:#83a598">- **Controle Interno - realizado por cada um dos Poderes.</span>**
+
+>️ Art. 74, CF/88. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, **sistema de** **<span style="color:#83a598">controle interno</span>** **com a finalidade de:** 
+> - I - avaliar o **cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União**; 
+> - II - **comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal**, bem como da aplicação de recursos públicos por entidades de direito privado; 
+> - III - exercer o **controle das operações de crédito, avais e garantias**, bem como dos direitos e haveres da União; 
+> - IV - **apoiar o controle externo** no exercício de sua missão institucional.
+
+- **<span style="color:#d3869b">Controle Externo - realizado pelo CN com auxílio do TCU</span>**
+
+	- Legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas;
+	- Realizado sobre qualquer pessoa (física ou jurídica) que esteja envolvida (utilize, arrecade, gerencie, administre) com recursos públicos.
+
+👀 **VEJA COMO A FCC COBROU SISTEMA DE CONTROLE INTERNO NA QUESTÃO** [#3565479](https://www.tecconcursos.com.br/questoes/3565479)
+
+**Quais aspectos dos atos da administração pública devem ser fiscalizados pelo sistema de controle interno e qual é o seu papel na avaliação da execução dos programas governamentais e do cumprimento das metas previstas na Lei de Diretrizes Orçamentárias?** 
+
+Conforme os arts. 70 e 74 da Constituição Federal, o sistema de controle (controle externo — via Congresso e tribunais de contas — e o controle interno de cada Poder) tem por finalidade a fiscalização contábil, financeira, orçamentária, operacional e patrimonial, inclusive para verificar **legalidade, legitimidade e economicidade** dos atos e **avaliar a execução dos programas e o cumprimento das metas previstas no plano plurianual e na Lei de Diretrizes Orçamentárias**. Assim, o papel institucional do controle interno inclui exatamente essa verificação e avaliação da execução orçamentária e programática, bem como o controle da legalidade, legitimidade e economicidade.
+
+## **9.2. Tribunais de Contas**
+
+- Órgãos **independentes e autônomos** - não há subordinação hierárquica;
+- Sua ação abrange **TODA** a Administração Pública e **TODOS** os Poderes;
+- Não apreciam a constitucionalidade das leis com efeito geral e vinculante.
+
+⚠️**<span style="color:#fb4934">Atenção:</span>**
+
+STF tem entendido que a competência dos TC's para declarar a inconstitucionalidade de leis ou atos normativos não é mais válida. O posicionamento recente do STF considera que o Tribunal de Contas não exerce controle de constitucionalidade
+
+> _<span style="color:#83a598">Súmula 347/STF</span>: O Tribunal de Contas, no exercício de suas atribuições, pode apreciar a constitucionalidade das leis e dos atos do poder público._  _<span style="color:#fb4934">(ainda não foi revogada).</span>_
+
+**Em provas:**
+
+- se for adotado a literalidade da Súmula 347 - analise as alternativas, a questão poderá está correta, afinal, a súmula referida não foi revogada;
+- se for indagado o posicionamento do STF, observe as outras alternativas, mas saiba que não pode o Tribunal de Contas declarar lei inconstitucional e estabelecer efeitos gerais e vinculantes.
+
+## **9.3. Tribunal de Contas da União 🔥**
+
+- Apreciar contas do Presidente + emitir parecer em **<span style="color:#83a598">60 dias</span>** e **julgar** os **outros administradores de <span style="color:#b8bb26">dinheiro público</span>**
+- Apreciar p/ registro a legalidade dos atos de admissão e aposentadoria
+	- **<span style="color:#fb4934">Exceto se for cargo comissionado</span>**
+- Auditoria em qualquer Poder; iniciativa **própria ou** das **Casas**
+- **Fixar prazo para adoção de medidas necessárias ao exato cumprimento da lei**, quando verificada ilegalidade.
+- **Sustar, se não atendido, a execução do ato impugnado** e comunicar a decisão à **Câmara dos Deputados e ao Senado Federal <span style="color:#fb4934">SEPARADAMENTE</span>** <span style="color:#fb4934">(se disser “Congresso Nacional” estará errado).</span>
+- **No caso de contrato**, a sustação será adotada pelo **Congresso Nacional**. Contudo, se o CN não se pronunciar em **<span style="color:#83a598">90 dias</span>**, o **TCU decidirá a respeito**.
+- Multas e decisões = título executivo
+- Encaminha ao CN **trimestral e anualmente** suas atividades
+- Indícios de irregularidade: A **comissão mista** pede esclarecimentos em **5 dias**
+	- **<span style="color:#fb4934">Se Não forem</span>** prestados **-> TCU conclui** sobre isso em **30 dias**
+- **9 ministros**, entre 35 e **==70==** **==anos==**  → **==Atenção, mudou em 2022==**
+	
+	- Notório conhecimento jurídico, contábil, econômico, financeiro ou de adm. pública.
+	- Mais de **10 anos** em função que exija os conhecimentos acima
+	- **1/3 pelo Presidente** (dois **alternarão** entre **auditores e Ministério Público Junto ao Tribunal** em lista tríplice)
+	- **<span style="color:#b8bb26">2/3</span>** pelo **<span style="color:#b8bb26">CN</span>** (**<span style="color:#b8bb26">livre</span>**)
+	- Mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens que ministros do **STJ**
+	- Substituto: Se em função de ministro = STJ; senão = juiz do TRF
+	- **<span style="color:#83a598">Compete ainda ao TCU:</span>**
+		- **prestar as informações solicitadas** pelo Congresso Nacional, por qualquer de suas Casas, ou por qualquer das respectivas Comissões, sobre a fiscalização contábil, financeira, orçamentária, operacional e patrimonial e sobre resultados de auditorias e inspeções realizadas;
+		- **aplicar aos responsáveis**, em caso de ilegalidade de despesa ou irregularidade de contas, as **sanções previstas em lei,** que estabelecerá, entre outras cominações, multa proporcional ao dano causado ao erário;
+
+⚠️A CF **<span style="color:#fb4934">não</span>** dá <span style="color:#fb4934">independência institucional/funcional ao TCU.</span> Quem fez isso foi o **STF**
+
+**<span style="color:#fe8019">ATENÇÃO</span>**:
+
+- O **Tribunal de Contas** possui o prazo de 5 anos para apreciar a legalidade do ato de concessão inicial da aposentadoria, reforma ou pensão. Após esse período, há a **concessão tácita de aposentadoria.**
+
+Antes, havia o entendimento que após 5 anos e não havendo a concessão do ato de aposentadoria, o TC deveria conceder contraditório e ampla defesa ao requerente, posição que foi **superada**! O que vale agora é que após o prazo de 5 anos não pode mais haver a negação de registro, portanto, não há mais o que se falar em contraditório e ampla defesa após 5 anos, o registro já será concedido!
+
+- STF - entende que o TCU **não pode extinguir vantagem pecuniária** presente nos provimentos do servidor por **decisão judicial já transitada em julgado.**
+- O poder de investigação do TCU **restringe-se** aos recursos públicos, não alcançando os recursos que não têm conexão com a Administração Pública.
+- **A competência do TCU** **<span style="color:#fb4934"><u>não alcança as transferências compulsórias</u></span>**, ou seja, aquelas transferências** realizadas por **determinação constitucional ou legal,** pois **==esses recursos pertencem aos== **==estados e municípios==** **e apenas transitam na conta da União em virtude da** sistemática da arrecadação. Ex: FPE, FPM, royalties sobre a exploração de petróleo, xisto betuminoso e gás natural. Os recursos são de origem estadual, distrital ou municipal.  **<span style="color:#fe8019">Logo, a competência</span>** **<span style="color:#fe8019">para a fiscalização da aplicação desses recursos não pertence ao TCU,</span>** **<span style="color:#fb4934">mas aos Tribunais de Contas locais.</span>**
+- **Os atos administrativos podem ser sustados, diretamente, pelo TCU. Porém, os contratos devem ser sustados, diretamente, pelo CN. Apenas em caso de inação do CN é que o TCU poderá agir.**
+
+**<span style="color:#fe8019">Atos administrativos - TCU</span>**
+**<span style="color:#fe8019">Contratos - CN</span>**
+
+- **TCU** **<span style="color:#83a598">pode</span>**: <u>requisitar informações relativas a operações de crédito originárias de recursos públicos (apesar de não ser permitida a quebra de sigilo bancário)</u>, **expedir** **medidas cautelares**.
+- **TCU** **<span style="color:#fb4934">não pode</span>**: **==<span style="color:#fb4934">determinar a quebra de sigilo bancário</span>==**. 
+
+**<span style="color:#83a598">Constitucional</span>**: TCU ter acesso a dados de operações financeiras que envolvam recursos públicos, dados esses que estão de posse das instituições de fomento da União – CEF, Banco do Brasil, BNDES.
+
+**<span style="color:#fb4934">Inconstitucional</span>**: TCU ter acesso outros sigilos bancários previstos em lei ou em norma regulatória editada pela autoridade competente, em especial o **Banco Central do Brasil** ou a CVM – Comissão de Valores Mobiliários, cuja incidência sobre documentos apresentados à instituição financeira ou por ela produzidos deve ser verificada caso a caso.
+
+- **TCU não tem função jurisdicional.** As decisões do Tribunal de que resulte imputação de débito ou multa terão **eficácia de título executivo** **extrajudicial.**
+- As decisões do TCU podem fundamentar os processos de execução, mas isso não significa que o próprio TCU poderá executá-las. Poderá, entretanto, enviá-las ao órgão competente para execução.
+- CN realiza a fiscalização do TCU
+
+## **9.4. Tribunais de Contas dos Estados e Municípios**
+
+###  Tribunais de Contas dos Estados (TCEs)
+
+- Criados por **Constituições Estaduais**.
+        
+- Exercem o **controle externo estadual**.
+	
+- Auxiliam a Assembleia Legislativa no controle da administração pública.
+	
+- Competências semelhantes às do TCU: fiscalizar contas, legalidade de atos, auditorias, apreciação de contratos etc.
+	
+- Composição: **<span style="color:#d3869b">7 conselheiros</span>**, nomeados pelo Governador e Assembleia Legislativa (regras semelhantes às do TCU).
+	
+
+### Tribunal de Contas do Distrito Federal (TCDF)
+
+- Exercem funções idênticas às dos TCEs.
+        
+- Auxiliam a Câmara Legislativa do DF.
+	
+- **Competência mista**: analisa tanto matérias de natureza **estadual** quanto **municipal**, já que o DF acumula as duas competências.
+	
+
+### Tribunais de Contas Municipais
+
+- **Somente São Paulo (TCM-SP) e Rio de Janeiro (TCM-RJ)** possuem tribunais de contas próprios.
+	
+- O art. 31, § 4º, CF/88 **proibiu a criação de novos Tribunais, Conselhos ou órgãos de Contas Municipais**.
+	
+
+No entanto, <span style="color:#83a598">pode haver a criação de Tribunais de Contas </span>**<span style="color:#83a598">dos</span>** <span style="color:#83a598">Municípios</span> - estes são **<span style="color:#83a598">órgãos estaduais</span>**
+
+**Não confunda:**
+
+- Tribunais de Contas **<span style="color:#fb4934">Municipais</span>** - órgãos **<span style="color:#fb4934">municipais</span>** - criação **<span style="color:#fb4934">proibida</span>** pela CF/88
+- Tribunais de Contas **<span style="color:#83a598">dos Municípios</span>** - órgãos **<span style="color:#83a598">estaduais</span>** - <span style="color:#83a598">pode haver a criação</span>.
+
+**ATENÇÃO -   EC 139/2026** 
+
+**A EC 139/2026 mudou a Constituição para dar status expresso de órgãos permanentes e essenciais aos Tribunais de Contas e, com isso, proibir sua extinção, criação ou instalação. Ela alterou o § 1º do art. 31 e o art. 75 da Constituição Federal.**
+
+Na prática, o efeito principal é este: os Tribunais de Contas dos Estados, do Distrito Federal e dos Municípios passam a ter proteção constitucional reforçada, e o texto constitucional veda tanto acabar com tribunais já existentes quanto criar ou instalar novos.
+
+> **Art 31, §1º** _"O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver, vedada sua extinção, criação ou instalação"._
+
+ IMPORTANTE — ADI 5.705/SC - Princípio da separação de Poderes e normas sobre fiscalização contábil, financeira e orçamentária :
+
+- O STF declarou **parcialmente inconstitucional** o trecho da Lei Orgânica do TCE-SC que permitia ao Tribunal de Contas determinar auditorias pelos órgãos de controle interno de outros Poderes.
+    
+- Resultado jurídico: foi suprimida a expressão **“por determinação do Tribunal de Contas do Estado”** do art. 61, I da Lei Complementar nº 202/2000.
+    
+- Fundamentação: violação ao princípio da **separação dos Poderes** (art. 2º CF) e ao modelo constitucional dos sistemas de fiscalização (arts. 70 e 74, IV, CF).
+    
+- Efeito prático: o **TCE não pode impor** auditorias aos controles internos de outros Poderes; a relação deve ser **colaborativa, não hierárquica**.
+    
+- Permanece lícito: cooperação técnica, recomendações, pedidos formais de informação e atuação coordenada — desde que **não haja imposição** de subordinação.
+    
+- Consequência administrativa: Estados/órgãos afetados deverão **adequar normas e procedimentos internos** para respeitar o entendimento.
+    
+
+# **DESTAQUES DA JURISPRUDÊNCIA RECENTE** 🔥
+
+- **⭐ADPF 854- decisão monocráticas do Min. Flávio Dino- Emendas Parlamentares:** Suspensão temporária de pagamentos até atendimento de critérios de transparência; depois liberação condicionada com regras (pertinência temática, rastreabilidade, contas específicas). Orientação sobre emendas de comissão/bancada/individuais;
+- **Informativos STF n.1013 e 1023:** Instauração de CPI: não cabe juízo discricionário da mesa/plenário para obstar criação; limitações sobre convocação de governadores por CPI federal;
+- **Regras estaduais para escolha de conselheiros do TCE:** STF reconheceu constitucionalidade de voto secreto para escolha de conselheiros em alguns casos, mas também anulou dispositivos estaduais quando violavam princípios;
+- **Matérias administrativas/recursos repetitivos:** STJ segue julgando recursos repetitivos e temas ligados à atuação dos entes/atos administrativos e sua relação com normas do Legislativo estadual/federal (menos “case law” unificado sobre emendas, mas importante para conflitos processuais)
