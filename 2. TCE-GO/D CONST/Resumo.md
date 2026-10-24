@@ -1454,7 +1454,7 @@ Além disso, a Constituição determina que o **veto será apreciado em sessão
 
 ## **9.1. Controle interno** **x** **Controle externo**
 
-<span style="color:#83a598">- **Controle Interno - realizado por cada um dos Poderes.</span>**
+- **<span style="color:#83a598">Controle Interno - realizado por cada um dos Poderes.</span>**
 
 >️ Art. 74, CF/88. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, **sistema de** **<span style="color:#83a598">controle interno</span>** **com a finalidade de:** 
 > - I - avaliar o **cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União**; 
