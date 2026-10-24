@@ -263,6 +263,8 @@ A VPA decorrente da venda de bens deve ser reconhecida quando as seguintes condi
 		- (i) é um ativo **<span style="color:#d3869b">preexistente</span>** da concedente; ou 
 		- (ii) corresponde a uma **<span style="color:#d3869b">melhoria</span>** em ativo preexistente da concedente
 
+> NBCT SP 05 , **Modelo bifurcado** 
+> 27. Se a concedente paga pela construção, desenvolvimento, aquisição, ou melhoria de um ativo da concessão de serviço, em **<span style="color:#b8bb26">parte por meio da assunção de passivo financeiro e em parte pela concessão de direito</span>** à concessionária, deve ser contabilizada **<span style="color:#b8bb26">separadamente cada parte do passivo</span>.**
 ## **5.2. RECONHECIMENTO**
 
 A entidade concedente deve reconhecer um ativo fornecido pela concessionária e/ou uma melhoria em seus ativos preexistentes como ativo da concessão de serviços se:
