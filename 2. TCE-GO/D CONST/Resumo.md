@@ -1412,7 +1412,7 @@ As **emendas parlamentares** podem ser:
 
 - Matéria atribuída ao Presidente da República - ato unilateral
 - Discorda do projeto de lei:
-- **contrário ao <span style="color:#d3869b">interesse público</span>** - **<span style="color:#d3869b">VETO POLÍTICO</span>**
+	- **contrário ao <span style="color:#d3869b">interesse público</span>** - **<span style="color:#d3869b">VETO POLÍTICO</span>**
 
 ⚠️**Atenção**
 
