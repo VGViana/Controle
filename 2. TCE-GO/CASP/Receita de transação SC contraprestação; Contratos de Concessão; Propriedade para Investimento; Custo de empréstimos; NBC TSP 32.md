@@ -263,9 +263,8 @@ A VPA decorrente da venda de bens deve ser reconhecida quando as seguintes condi
 
 A entidade concedente deve reconhecer um ativo fornecido pela concessionária e/ou uma melhoria em seus ativos preexistentes como ativo da concessão de serviços se:
 
-(a) a concedente **<span style="color:#d3869b">controla ou regula</span>** os serviços que a concessionária deve fornecer com o ativo, a quem ela deve entregar os serviços e por qual preço; e 
-
-(b) a concedente controla – por **<span style="color:#d3869b">meio da propriedade, usufruto ou de alguma outra forma</span>** – qualquer participação residual significativa no ativo ao final do prazo da concessão. 
+- (a) a concedente **<span style="color:#d3869b">controla ou regula</span>** os serviços que a concessionária deve fornecer com o ativo, a quem ela deve entregar os serviços e por qual preço; e  
+- (b) a concedente controla – por **<span style="color:#d3869b">meio da propriedade, usufruto ou de alguma outra forma</span>** – qualquer participação residual significativa no ativo ao final do prazo da concessão. 
 
 ## **5.3. MENSURAÇÃO**
 
