@@ -1162,7 +1162,7 @@ Supremo Tribunal Federal
 
 ### **▶️ Sessão CONJUNTA:**
 
-- - **Congresso Nacional = Senado Federal + Câmara dos Deputados: contagem é feita <span style="color:#83a598">SEPARADAEMENTE</span>**
+- **Congresso Nacional = Senado Federal + Câmara dos Deputados: contagem é feita <span style="color:#83a598">SEPARADAEMENTE</span>**
 
 #### ⚠️**Hipóteses de sessão conjunta**
 
