@@ -67,6 +67,10 @@ As reclassificações para ou de propriedade para investimento devem ser feitas 
 
 # **2. CUSTO DE EMPRÉSTIMOS**
 
+> NBC TSP 14, 6. Os custos de empréstimos podem incluir:  
+> - (a) **<span style="color:#fe8019">Despesa com juros</span>** calculada ==usando o "<span style="color:#fb4934">método de juros efetivos</span>"==, conforme descrito na NBC TSP 31, Instrumentos Financeiros;  
+> - (d) **<span style="color:#fe8019">encargos financeiros</span>** relativos ==<span style="color:#fb4934">a arrendamentos mercantis financeirosE contratos de concessão de serviços públicos</span>==; e   
+> - (e) **<span style="color:#fe8019">variações cambiais</span>** ==<span style="color:#fb4934">decorrentes de empréstimos em moeda estrangeira</span>==, na extensão em que elas sejam consideradas como ajuste do custo dos juros. 
 ## **2.1. DEFINIÇÕES**
 
 **Custos de empréstimos** são os **<span style="color:#fb4934">juros e outros custos</span>** que a entidade incorre relacionados com o empréstimo de recursos.
