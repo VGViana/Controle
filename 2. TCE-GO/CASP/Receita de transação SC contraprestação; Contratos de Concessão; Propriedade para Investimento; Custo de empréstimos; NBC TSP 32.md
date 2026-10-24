@@ -2,10 +2,6 @@
 
 ## **1.1. DEFINIÇÃO**
 
-A definição da propriedade para investimento pode ser explorada em prova! Fique atento
-
-**Definição**:
-
 É a propriedade (terreno ou edificação – ou parte da edificação – ou ambos) mantida para **<span style="color:#d3869b">auferir receitas de aluguel ou para valorização do capital,</span>** ou para ambas, e, **<span style="color:#fb4934">não</span>**, para:
 
 1. uso na produção ou fornecimento de **<span style="color:#fb4934">bens ou serviços</span>**, ou para **<span style="color:#d3869b">finalidades administrativas</span>**; ou 
