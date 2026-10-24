@@ -1326,17 +1326,14 @@ A Constituição Federal de 1988 prevê que a emenda pode ser proposta **pelo 
 
 # **8. Processo Legislativo** 
 
-- **<span style="color:#d3869b">Esse é o queridinho das provas! Foque aqui sem receio, porque dominar esse ponto faz toda a diferença.</span>**
-- Relembre o **processo legislativo**:
-
 ## **Fase Constitutiva**
 
-**Casa Iniciadora - projetos de iniciativa de:**
+### **Casa Iniciadora - projetos de iniciativa de:**
 
 - **Câmara dos Deputados**: Deputado Federal, Comissão de Deputados, Presidente da República, STF, Tribunais Superiores, PGR e dos cidadãos, ainda, Comissão Mista do Congresso Nacional.
 - **Senado Federal:** Senadores ou Comissão do Senado, Comissão Mista do Congresso Nacional
 
-**Votação:**
+### **Votação:**
 
 - Quórum de **<span style="color:#fe8019">PRESENÇA</span>**: **MAIORIA ABSOLUTA** DOS MEMBROS DA RESPECTIVA CASA LEGISLATIVA
 - Quórum de **<span style="color:#b8bb26">APROVAÇÃO</span>**: **MAIORIA** DOS VOTOS PRESENTES
