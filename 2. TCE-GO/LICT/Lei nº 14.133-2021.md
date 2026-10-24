@@ -1333,3 +1333,180 @@ Já em **mercados fluidos**, não há preço previamente fixado, pois os preços
 **💡Veja como a FCC cobrou esse assunto:** [#3177248](https://www.tecconcursos.com.br/questoes/3177248)
 
 **💥**As bancas costumam cobrar o valor que está na lei, mas saiba que esse valor é **atualizado anualmente**, conforme disposto no artigo 182 da Lei: _"O Poder Executivo federal **atualizará, a cada dia 1º de janeiro**, pelo Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E) ou por índice que venha a substituí-lo, os valores fixados por esta Lei, os quais serão divulgados no PNCP."_
+
+# **7. Cláusulas Exorbitantes**
+
+- São consideradas cláusulas exorbitantes, nos contratos administrativos, as prerrogativas de, nas hipóteses e nos limites da lei:
+    - a) modificá-los, unilateralmente;
+    - b) extingui-los, unilateralmente;
+    - c) fiscalizar sua execução;
+    - d) aplicar sanções;
+    - e) ocupar provisoriamente bens móveis e imóveis e utilizar pessoal e serviços vinculados ao objeto do contrato;
+    - f) exigir garantia contratual (arts. 96 a 103);
+    - g) restringir a oposição da exceção do contrato não cumprido (art. 137, IV); e
+    - h) exigir medidas de compensação (art. 26, § 6º).
+
+## **7.1 Alteração Unilateral**
+
+> _"Art. 125. Nas alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei, o contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato que se fizerem nas obras, nos serviços ou nas compras, e, no caso de reforma de edifício ou de equipamento, o limite para os acréscimos será de 50% (cinquenta por cento). "_
+
+- **SUPRE<span style="color:#83a598">25</span>OES = Sempre <span style="color:#83a598">25</span>%**
+- **Acréscimos regra = 25%**
+- **Acréscimos** **<span style="color:#fb4934">O</span>BRA =  5<span style="color:#fb4934">O</span>%**
+
+Consoante dispõe a nova Lei de Licitações (Lei nº 14.133/2021), por se tratar de alteração unilateral quantitativa, a sociedade empresária Alfa:
+
+- **<span style="color:#83a598">A - será obrigada a aceitar, nas mesmas condições contratuais, supressões de até 25% do valor inicial atualizado do contrato;</span>**
+    
+- B  - será obrigada a aceitar, nas mesmas condições contratuais, a supressão pretendida na ordem de 50% do valor inicial atualizado do contrato, por se tratar de reforma de edifício;
+    
+- C - não será obrigada a aceitar, nas mesmas condições contratuais, qualquer supressão quantitativa do valor do contrato, em razão do equilíbrio econômico e financeiro que deve ser respeitado nos contratos administrativos;
+    
+- D - não será obrigada a aceitar qualquer supressão quantitativa do valor do contrato, mas pode voluntariamente fazê-lo, desde que haja redução proporcional do valor do contrato, respeitando-se, a um só tempo, a margem de lucro do contratado e a economicidade para o contratante;
+    
+- E - será obrigada a aceitar, nas mesmas condições contratuais, a supressão pretendida, em qualquer percentual incidente sobre o valor do contrato, em razão da cláusula exorbitante que decorre de lei e está implícita em todos os contratos administrativos.
+    
+
+## **7.2 Extinção Unilateral**
+
+- **A extinção <span style="color:#fb4934">unilateral</span> é uma cláusula exorbitante,** na medida em que o contratado não tem o poder de fazer uma extinção unilateral (por conta dele), mas a Administração Pública tem esse poder, claro que será mediante um processo administrativo prévio. 
+
+**️Fiscalização:**
+
+- **<span style="color:#83a598">PRE-SOL</span> é um <span style="color:#83a598">SUB-TRABA</span>lho**
+	- **Encargos <span style="color:#83a598">PRE</span>videnciários => responsabilidade <span style="color:#83a598">SOL</span>idária**
+	- **Encagos <span style="color:#83a598">TRABA</span>lhistas => responsabilidade <span style="color:#83a598">SUB</span>sidiária**
+
+OBS:  **BIZU válido apenas para <span style="color:#83a598">CON-SEX</span> ( <span style="color:#83a598">CON</span>tratações <span style="color:#83a598">Ser</span>viços contínuos com mão de obra <span style="color:#83a598">EX</span>clusica)**
+
+A Lei n. 14.133/2021, trouxe redação acolhendo o entendimento que já era aplicado pelo STF: Exclusivamente nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, a Administração responderá **solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos trabalhistas** se comprovada falha na fiscalização do cumprimento das obrigações do contratado.
+
+Fique atento a estas regras:
+
+• o **contratado é responsável pelos encargos decorrentes da execução do contrato;**  
+• a Administração responde de forma **solidária por débitos previdenciários;**  
+• se houver falha na fiscalização dos pagamentos trabalhistas **a Administração pode ser acionada, desde que prove a omissão/falha na fiscalização.**
+
+## **7.3 Ocupação Provisória**
+
+- **A rescisão unilateral pela Administração acarreta a assunção imediata do objeto do contrato**
+- **A referida cláusula exorbitante tem por objetivo assegurar a continuidade da execução do contrato,** sempre que sua paralisação possa ocasionar prejuízo ao interesse público e, principalmente, ao andamento do serviço público essencial; trata-se, neste último caso, **de aplicação do princípio da continuidade do serviço público**
+
+## **7.4** Serviços Contínuos
+
+A Administração poderá celebrar contratos com prazo de até cinco anos nas hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes:
+
+  
+• a autoridade competente do órgão ou entidade contratante deverá **atestar a maior vantagem econômica vislumbrada em razão da contratação plurianual;**  
+• a Administração deverá atestar**, no início da contratação e de cada exercício, a existência de créditos orçamentários vinculados à contratação e a vantagem em sua manutenção;**  
+• a Administração **terá a opção de extinguir o contrato, sem ônus, quando não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato** não mais lhe oferece vantagem.
+
+Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, **respeitada a vigência máxima DECENAL,** desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços **permanecem vantajosos para a Administração,** permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes (art. 106).
+
+## 7.5 🤝 Exceção do contrato não cumprido (entre particulares)
+
+- É a possibilidade de **suspender imediatamente o cumprimento da obrigação**, caso a outra parte não cumpra a dela.
+    
+- Exemplo: Ana não pagou, Paulo não pinta mais.
+    
+- Chamada também de **exceptio non adimpleti contractus**.
+    
+
+### ️ Aplicabilidade limitada nos contratos administrativos
+
+- Na administração pública, essa exceção **não pode ser aplicada de forma imediata**.
+    
+- O contratado **não pode parar a execução** do contrato mesmo com atraso da Administração.
+    
+
+## **7.6** ️ Proteção ao interesse público
+
+- Essa restrição existe porque a **continuidade do serviço público** deve prevalecer.
+    
+- Interrupções abruptas causariam **grave prejuízo à coletividade**.
+    
+
+# **8. Garantia**
+
+1. **Modalidades** que poderão ser ==optadas pelo contratado:==
+    1. Caução em dinheiro ou em títulos da dívida pública;
+    2. Seguro-garantia;
+    3. Fiança bancária.
+2. Nas contratações de **<span style="color:#83a598">obras, serviços e fornecimentos,</span>** a garantia poderá ser de **<span style="color:#b8bb26">até 5%</span>** do ==valor inicial do contrato==, **<u>autorizada a majoração</u>** desse percentual para **<span style="color:#b8bb26">até 10%</span>**, **<u>desde que</u>** justificada mediante **<span style="color:#83a598">análise da complexidade técnica e dos riscos envolvidos.</span>**
+3. Nas contratações de **<span style="color:#b8bb26">obras e serviços de engenharia</span> de ==grande vulto==, <u>poderá ser exigida</u>** a prestação de **<span style="color:#83a598">garantia, na modalidade seguro-garantia</span>** em percentual equivalente a **<span style="color:#b8bb26">até 30%</span>** do ==valor inicial do contrato.==
+4. Na contratação de **<span style="color:#b8bb26">obras e serviços de engenharia</span>**, o edital **<u>poderá exigir</u>** a **<span style="color:#83a598">prestação da garantia na modalidade seguro-garantia</span>** e prever a **obrigação de a seguradora, <span style="color:#fb4934">em caso de inadimplemento</span>** pelo contratado, **<span style="color:#83a598">assumir a execução e concluir o objeto do contrato</span>**. A **<span style="color:#fe8019">seguradora poderá subcontratar a conclusão do contrato, total ou parcialmente.</span>**
+
+**⚡GARANTIA é <span style="color:#83a598">FI-S-CAU</span>.**
+
+- **<span style="color:#83a598">FI</span>ança**
+- **<span style="color:#83a598">S</span>eguro - garantia**
+- **<span style="color:#83a598">CAU</span>ção**
+
+**==Novidade: <span style="color:#b8bb26">TI</span>tulo de <span style="color:#b8bb26">CA</span>pitalização==** ==é modalidade de garantia “recente”, pois foi inserida pela Lei 14.770/2023.==
+
+Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83a598">FI-S-CAU TI-CA</span>==**
+
+- Nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até cinco por cento do valor inicial do contrato, autorizada a majoração desse percentual para até dez por cento, desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos. Logo, podemos dizer que, em regra, ==a garantia será de até 5%, mas poderá ser de até 10%, conforme os riscos e a complexidade.==  
+
+⚠️<u>ATENÇÃO!</u> 
+
+- **Fiança e <span style="color:#83a598">CAU</span>ção são <span style="color:#83a598">FACU</span>ltativas**
+-  **<span style="color:#83a598">SEG</span>URO <span style="color:#83a598">G</span>ARANTIA:** poderá ser exigência no caso de obras e **<span style="color:#83a598">SE</span>rviços de en<span style="color:#83a598">G</span>enharia de <span style="color:#83a598">G</span>rande Vulto <span style="color:#83a598">(SEGG).</span>**
+
+# **9. Duração dos Contratos**
+
+- A duração será definida no edital e depende da existência de **crédito orçamentário**.
+    - Tem que observar a **disponibilidade de créditos** no ato da contratação e em cada ano financeiro.
+- Prazo: serviços contínuos com tempo determinado.
+    
+- Escopo: finaliza com a entrega do objeto (ex: obra).
+    
+- Pode ser os dois: escopo + prazo (ex: manutenção por tempo determinado).
+    
+
+## **9.1 Prazos de Vigência**
+
+- **Serviços e fornecimento contínuos** 
+    - Celebração: até 5 anos; 
+    - Total: até 10 anos .
+- Aluguel de equipamentos e utilização de programas de informática ▪ Até 5 anos.
+- **Casos especiais de dispensa de licitação (tecnologia, inovação, SUS, segurança nacional, entre outros)**
+    - Até 10 anos.
+- **Contratos que gerem receita ou contratos de eficiência**
+    - ==<span style="color:#b8bb26">Sem investimento: Até 10 anos</span>== 
+    - <span style="color:#b8bb26">Com investimento: Até 35 anos</span> 
+- **Administração como usuária de serviço público em monopólio**
+    - Pode ser indeterminado, <u>quando prestado em regime de monopólio.</u>
+    - ⚠️ Atenção aqui! Não havia previsão de contrato por prazo indeterminado na 8.666.
+- **Por escopo**
+    - Prorrogado automaticamente.
+- **Regime de fornecimento e prestação de serviço associado**
+    - Somatório: Fornecimento (geralmente por escopo) + Serviço (até 5 anos inicialmente, prorrogável até 10 anos) 
+- **Operação continuada de sistemas estruturantes de tecnologia da informação**
+    - Até 15 anos.
+
+# **10. Alocação de Riscos**
+
+> § 5º Sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro, **renunciando as partes aos pedidos de restabelecimento** do equilíbrio relacionados aos riscos assumidos, exceto no que se refere: 
+> - I - às alterações **unilaterais** determinadas pela Administração, nas hipóteses do [inciso I do **caput** do art. 124 desta Lei](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art124i); 
+> - II - ao **aumento ou à redução,** por legislação superveniente, dos tributos diretamente pagos pelo contratado em decorrência do contrato. 
+>
+> Art. 124. Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos: 
+> - I - unilateralmente pela Administração: 
+> 	- a) quando houver modificação do projeto ou das especificações, para melhor adequação técnica a seus objetivos; 
+> 	- b) quando for necessária a modificação do valor contratual em decorrência de acréscimo ou diminuição quantitativa de seu objeto, nos limites permitidos por esta Lei; 
+> - II - por acordo entre as partes: 
+> 	- a) quando conveniente a substituição da garantia de execução; 
+> 	- b) quando necessária a modificação do regime de execução da obra ou do serviço, bem como do modo de fornecimento, em face de verificação técnica da inaplicabilidade dos termos contratuais originários; 
+> 	- c) quando necessária a modificação da forma de pagamento por imposição de circunstâncias supervenientes, mantido o valor inicial atualizado e vedada a antecipação do pagamento em relação ao cronograma financeiro fixado sem a correspondente contraprestação de fornecimento de bens ou execução de obra ou serviço; 
+> 	- d) para restabelecer o equilíbrio econômico-financeiro inicial do contrato em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilizem a execução do contrato tal como pactuado, respeitada, em qualquer caso, a repartição objetiva de risco estabelecida no contrato.
+
+⚠️ <u>Matriz de riscos é uma novidade da Lei n. 14.133/2021.</u>
+
+**💡Veja questão recente (2026) da banca sobre o tema: [#3860482](https://www.tecconcursos.com.br/questoes/3860482)** 
+
+Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** **de possíveis riscos durante a execução contratual já estabelecendo as responsabilidades** **das partes em razão dos possíveis riscos na execução do contrato**. Com os riscos previstos na matriz de riscos e alocados (distribuídos) entre as partes, a lei prevê que haverá renúncia das partes aos pedidos de restabelecimento do equilíbrio relacionados aos riscos assumidos, salvo em casos excepcionais (alteração unilateral e fato do príncipe – alteração tributária)
+
+### **Matriz de Risco**
+
+> XXVII - matriz de riscos: **==cláusula contratual==** **<u>definidora de riscos e de responsabilidades entre as partes</u>** e **<span style="color:#b8bb26">caracterizadora do equilíbrio econômico-financeiro inicial</span>** do contrato, em termos de ônus financeiro decorrente de eventos supervenientes à contratação.
