@@ -98,6 +98,11 @@ Ambiente de tarefa = ambiente relacional ou transacional
 - Funcional = Centralizado
 - Divisional = Descentralizado
 
+## Processo Decisório 
+
+![[Caderno de erros-6.png]]
+
+
 # AFO
 ## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
 
