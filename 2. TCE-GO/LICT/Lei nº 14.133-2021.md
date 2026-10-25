@@ -1486,6 +1486,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 - **Operação continuada de sistemas estruturantes de tecnologia da informação**
     - Até 15 anos.
 
+![[Lei nº 14.133-2021.png]]
 # **10. Alocação de Riscos**
 
 > § 5º Sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro, **renunciando as partes aos pedidos de restabelecimento** do equilíbrio relacionados aos riscos assumidos, exceto no que se refere: 
