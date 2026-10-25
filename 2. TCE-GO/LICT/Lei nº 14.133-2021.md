@@ -1469,7 +1469,8 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 - **Serviços e fornecimento contínuos** 
     - Celebração: até 5 anos; 
     - Total: até 10 anos .
-- Aluguel de equipamentos e utilização de programas de informática ▪ Até 5 anos.
+- Aluguel de equipamentos e utilização de programas de informática 
+	- Até 5 anos.
 - **Casos especiais de dispensa de licitação (tecnologia, inovação, SUS, segurança nacional, entre outros)**
     - Até 10 anos.
 - **Contratos que gerem receita ou contratos de eficiência**
