@@ -1394,12 +1394,12 @@ Fique atento a estas regras:
 
 ## **7.4** Serviços Contínuos
 
-A Administração poderá celebrar contratos com prazo de até cinco anos nas hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes:
+A Administração poderá celebrar contratos com prazo de **<span style="color:#b8bb26">até cinco anos</span>** nas hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes:
 
   
-• a autoridade competente do órgão ou entidade contratante deverá **atestar a maior vantagem econômica vislumbrada em razão da contratação plurianual;**  
-• a Administração deverá atestar**, no início da contratação e de cada exercício, a existência de créditos orçamentários vinculados à contratação e a vantagem em sua manutenção;**  
-• a Administração **terá a opção de extinguir o contrato, sem ônus, quando não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato** não mais lhe oferece vantagem.
+• a autoridade competente do órgão ou entidade contratante deverá **<span style="color:#83a598">atestar a maior vantagem econômica vislumbrada em razão da contratação plurianual</span>;**  
+• a Administração deverá atestar**, no <span style="color:#b8bb26">início da contratação</span> e <span style="color:#b8bb26">de cada exercício</span>, a <span style="color:#83a598">existência de créditos orçamentários vinculados</span> à contratação e a <span style="color:#83a598">vantagem</span> em sua manutenção;**  
+• a Administração **terá a <span style="color:#83a598">opção de extinguir o contrato</span>, sem ônus, quando <span style="color:#fb4934">não dispuser de créditos orçamentários para sua continuidade</span> ou quando entender que o contrato** **<span style="color:#fb4934">não mais lhe oferece vantagem.</span>**
 
 Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, **respeitada a vigência máxima DECENAL,** desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços **permanecem vantajosos para a Administração,** permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes (art. 106).
 
