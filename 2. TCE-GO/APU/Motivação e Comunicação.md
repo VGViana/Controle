@@ -168,21 +168,21 @@
 		
 		- Esforço -> resultado -> avaliação de desempenho = **recompensas capazes de** **<span style="color:#fe8019">satisfazer</span>** **seus objetivos** **<span style="color:#fe8019">pessoais</span>**;
 			
-	- Depende do esforço para atingir um resultado e o valor atribuído a esse resultado.
+		- Depende do esforço para atingir um resultado e o valor atribuído a esse resultado.
 		
 		- **<span style="color:#fe8019">Defende benefícios flexíveis.</span>** **como agentes de motivação.**
 			
 	- **Valência**: atribuir valor a algo
 		
-	- Três relações:
-		
-		- **esforço-desempenho**: nível de desempenho que **PAREÇA** ter a máxima probabilidade de se obter um resultado;
+		- Três relações:
 			
-			- Se acredita que não tem capacidade para desempenhar com sucesso, expectativa será baixa e motivação também.
+			- **esforço-desempenho**: nível de desempenho que **PAREÇA** ter a máxima probabilidade de se obter um resultado;
 				
-		- **desempenho-recompensa:** grau em que o indivíduo acredita que determinado nível de desempenho levará a um resultado desejado;
-			
-		- **recompensa-metas pessoais:** grau em que as recompensas organizacionais satisfazem as metas pessoais.
+				- Se acredita que não tem capacidade para desempenhar com sucesso, expectativa será baixa e motivação também.
+					
+			- **desempenho-recompensa:** grau em que o indivíduo acredita que determinado nível de desempenho levará a um resultado desejado;
+				
+			- **recompensa-metas pessoais:** grau em que as recompensas organizacionais satisfazem as metas pessoais.
 			
 	- Desvantagem:
 		
