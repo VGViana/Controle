@@ -10,6 +10,12 @@
 
 **[🎯 BIZU FCC] Para caracterizar projeto, grave: esforço temporário + resultado único. A temporalidade foi cobrada expressamente pela banca.** 
 
+A **gestão por projetos** (baseada em boas práticas como as do Project Management Institute) tem como foco principal:
+
+- **Gerenciar riscos** → identificar, analisar e responder a incertezas que podem impactar o projeto.
+- **Facilitar a comunicação** → garantir fluxo claro de informações entre stakeholders.
+- **Entregar resultados mensuráveis** → projetos existem para gerar entregas com objetivos claros, prazo, custo e qualidade definidos.
+
 # **2. Portfólio X Programa X Projeto e subprojeto** 
 
 - **Portfólio** é um conjunto de **programas, projetos, portfólios subsidiários** (“portfólios menores” ou “subportfólios”) e **operações** **gerenciados para alcançar objetivos estratégicos.
@@ -32,6 +38,7 @@
 3. Execução
 4. Encerramento
 
+![[screenshot_2026-10-30_19-02-49.png]]
 # _**CICLO DE VIDA DOS PROJETOS PMBOK – 7ª Edição**_
 
 1. Viabilidade - fase que determina se o business case (ou seja, a proposta de valor de um projeto apresentado, que pode incluir benefícios financeiros e não financeiros) é válido e se a organização tem capacidade de entregar o resultado pretendido.
