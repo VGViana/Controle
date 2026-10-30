@@ -131,6 +131,7 @@ simplesmente pela passagem do tempo ou porque o evento de risco não ocorre.
     - **<span style="color:#fb4934">Caráter determinístico</span>**;
         
 
+![[screenshot_2026-10-30_19-08-12.png]]
 ## **8.2 PERT**
 
 - A **PERT** (Técnica de Revisão e Avaliação de Programa ou Program Evaluation and Review Technique):
