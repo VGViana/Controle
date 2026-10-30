@@ -1,4 +1,4 @@
-# **LICITAÇÕES PÚBLICAS**
+# **LICITAÇÕES**
 
 - **Procedimento administrativo** (conjunto de atos);
 - **Função administrativa**;
@@ -1512,3 +1512,37 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 ### **Matriz de Risco**
 
 > XXVII - matriz de riscos: **==cláusula contratual==** **<u>definidora de riscos e de responsabilidades entre as partes</u>** e **<span style="color:#b8bb26">caracterizadora do equilíbrio econômico-financeiro inicial</span>** do contrato, em termos de ônus financeiro decorrente de eventos supervenientes à contratação.
+
+# **11. Execução dos contratos**
+
+- A ==execução do contrato== deverá ser **<u>acompanhada e fiscalizada por 1 (um) ou mais fiscais do contrato</u>,** representantes da Administração especialmente designados, ou pelos respectivos substitutos, **<span style="color:#83a598">permitida a contratação de terceiros</span>** para assisti-los e subsidiá-los com informações pertinentes a essa atribuição.
+- <u>Somente o contratado</u> será **responsável** pelos encargos **<span style="color:#83a598">trabalhistas, previdenciários, fiscais e comerciais</span>** resultantes da execução do contrato.
+- ⚠️**<span style="color:#fb4934">Exclusivamente</span>** nas contratações de **==serviços contínuos com regime de dedicação exclusiva de mão de obra==**, a Administração responderá **<span style="color:#fb4934"><u>solidariamente</u></span> pelos encargos ==<span style="color:#fb4934">previdenciários</span>== e <u>subsidiariamente</u> pelos encargos ==trabalhistas==** se comprovada **falha na fiscalização** do cumprimento das obrigações do contratado.
+-  O fiscal do contrato será auxiliado pelos **órgãos de assessoramento jurídico e de controle interno da Administração**, que deverão dirimir dúvidas e subsidiá-lo com informações relevantes para prevenir riscos na execução contratual.
+- O contratado **<span style="color:#83a598">deverá manter preposto aceito pela Administração</span>** no local da obra ou do serviço para representá-lo na execução do contrato.
+- Na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o **contratado poderá subcontratar partes da obra**, **do serviço ou do fornecimento** até o limite autorizado, em cada caso, pela Administração.
+    - O contratado apresentará à Administração documentação que comprove a capacidade técnica do subcontratado, que será avaliada e juntada aos autos do processo correspondente.
+
+- Nas contratações de **serviços ==contínuos== com regime de dedicação ==exclusiva== de mão de obra**, a Administração poderá:
+
+1. **<span style="color:#83a598">exigir caução, fiança bancária ou contratação de seguro-garantia</span>** com cobertura para verbas rescisórias inadimplidas;
+        
+2. condicionar o pagamento à **<span style="color:#d3869b">comprovação de quitação das obrigações trabalhistas</span>** vencidas relativas ao contrato;
+	
+3. efetuar o depósito de valores em **<span style="color:#fb4934">conta vinculada</span>**;
+	
+4. em caso de inadimplemento, <u>efetuar diretamente</u> o pagamento das **verbas trabalhistas**, que serão deduzidas do pagamento devido ao contratado;
+	
+5. estabelecer que os valores destinados a férias, a décimo terceiro salário, a ausências legais e a verbas rescisórias dos empregados do contratado que participarem da execução dos serviços contratados serão pagos pelo contratante ao contratado somente na ocorrência do fato gerador.
+        
+
+**💡Veja como a FCC cobrou recentemente (2025) esse tema: [#3379577](https://www.tecconcursos.com.br/questoes/3379577)**
+
+- **Responsabilidade pela execução**:
+    - Contratado será obrigado a reparar e corrigir, às suas expensas, os vícios, defeitos ou incorreções do objeto do contrato, resultantes de: 
+        - sua execução; ou 
+        - materiais nele empregados.
+    - A NLLC não exige “dolo ou culpa” e, no caso de obras, afirma expressamente que a responsabilidade será objetiva.
+    - Garantia mínima 5 anos (no caso de obras). 
+    - O contratado responde pelos danos causados à administração ou a terceiros. 
+    - A fiscalização não excluirá nem reduzirá essa responsabilidade.
