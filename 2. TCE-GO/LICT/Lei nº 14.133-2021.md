@@ -1525,15 +1525,15 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 
 - Nas contratações de **serviços ==contínuos== com regime de dedicação ==exclusiva== de mão de obra**, a Administração poderá:
 
-1. **<span style="color:#83a598">exigir caução, fiança bancária ou contratação de seguro-garantia</span>** com cobertura para verbas rescisórias inadimplidas;
-        
-2. condicionar o pagamento à **<span style="color:#d3869b">comprovação de quitação das obrigações trabalhistas</span>** vencidas relativas ao contrato;
-	
-3. efetuar o depósito de valores em **<span style="color:#fb4934">conta vinculada</span>**;
-	
-4. em caso de inadimplemento, <u>efetuar diretamente</u> o pagamento das **verbas trabalhistas**, que serão deduzidas do pagamento devido ao contratado;
-	
-5. estabelecer que os valores destinados a férias, a décimo terceiro salário, a ausências legais e a verbas rescisórias dos empregados do contratado que participarem da execução dos serviços contratados serão pagos pelo contratante ao contratado somente na ocorrência do fato gerador.
+	1. **<span style="color:#83a598">exigir caução, fiança bancária ou contratação de seguro-garantia</span>** com cobertura para verbas rescisórias inadimplidas;
+	        
+	2. condicionar o pagamento à **<span style="color:#d3869b">comprovação de quitação das obrigações trabalhistas</span>** vencidas relativas ao contrato;
+		
+	3. efetuar o depósito de valores em **<span style="color:#fb4934">conta vinculada</span>**;
+		
+	4. em caso de inadimplemento, <u>efetuar diretamente</u> o pagamento das **verbas trabalhistas**, que serão deduzidas do pagamento devido ao contratado;
+		
+	5. estabelecer que os valores destinados a férias, a décimo terceiro salário, a ausências legais e a verbas rescisórias dos empregados do contratado que participarem da execução dos serviços contratados serão pagos pelo contratante ao contratado somente na ocorrência do fato gerador.
         
 
 **💡Veja como a FCC cobrou recentemente (2025) esse tema: [#3379577](https://www.tecconcursos.com.br/questoes/3379577)**
