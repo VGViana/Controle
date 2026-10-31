@@ -118,6 +118,12 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 # CASP
 
+## Variações Patrimoniais
+
+- O **<span style="color:#83a598">recebimento de dinheiro em doação</span>**, sem condições atreladas a ela, gera o **<span style="color:#83a598">reconhecimento de uma receita orçamentária</span>** - transferências correntes e de uma **<span style="color:#83a598">VPA resultante da execução orçamentária</span>**.
+- **<span style="color:#b8bb26">Reversão de provisão e apropriação mensal do 13°</span>** são variações patrimoniais **<span style="color:#b8bb26">quantitativas</span>**
+- 
+
 ## Demonstrações
 ### Balanço Financeiro
 
