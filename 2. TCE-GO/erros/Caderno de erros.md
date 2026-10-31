@@ -138,8 +138,15 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ## Escrituração Contábil Pública
 
 - Apropriação mensal (regime de competência), de 13° salário, constitui um passivo permanente
+- liquidação de despesa corrente com Pessoal e Encargos Sociais deve debitar e creditar contas contábeis pertencentes à classe 6. (Execução da despesa)
 
 ## Demonstrações
+## Balanço Orçamentário
+
+- Os livros e demais materiais bibliográficos apresentam características de material permanente. Porém, o art. 18 da Lei nº 10.753/2003, considera os **livros adquiridos para bibliotecas públicas como material de consumo**.
+	- **As demais bibliotecas devem classificar a despesa com aquisição de material bibliográfico como material permanente**, classificadas em Investimentos
+
+- 
 ### Balanço Financeiro
 
 [Questão exemplo](https://www.tecconcursos.com.br/questoes/3567198)
