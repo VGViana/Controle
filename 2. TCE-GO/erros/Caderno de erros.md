@@ -150,11 +150,13 @@ Ambiente de tarefa = ambiente relacional ou transacional
 - Os livros e demais materiais bibliográficos apresentam características de material permanente. Porém, o art. 18 da Lei nº 10.753/2003, considera os **livros adquiridos para bibliotecas públicas como material de consumo**.
 	- **As demais bibliotecas devem classificar a despesa com aquisição de material bibliográfico como material permanente**, classificadas em Investimentos
 
-- 
+- VPA's independentes da execução orçamentária não impactam no resultado orçamentário.
 ### Balanço Financeiro
 
 [Questão exemplo](https://www.tecconcursos.com.br/questoes/3567198)
 ![[Caderno de erros-4.png]]
+
+
 ### Balanço Patrimonial
 
 |                          | Ativo Financeiro                                                                                         | Ativo Permanente                                                                             | Passivo Financeiro                                                          | Passivo Permanente                                                                              |
