@@ -122,7 +122,15 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 - O **<span style="color:#83a598">recebimento de dinheiro em doação</span>**, sem condições atreladas a ela, gera o **<span style="color:#83a598">reconhecimento de uma receita orçamentária</span>** - transferências correntes e de uma **<span style="color:#83a598">VPA resultante da execução orçamentária</span>**.
 - **<span style="color:#b8bb26">Reversão de provisão e apropriação mensal do 13°</span>** são variações patrimoniais **<span style="color:#b8bb26">quantitativas</span>**
-- 
+
+## Plano de Contas (PCASP)
+
+- A perda por recuperabilidade gera lançamento nas classes 3 e 1
+- valorização de ativo imobilizado por reavaliação deve ser efetuado em contas contábeis das classes 1 e 2
+- **<u>Execução</u>** de atos potenciais = Classe 8 do PCASP
+-  O reconhecimento de um **<span style="color:#fb4934">depósito em caução em dinheiro</span>** **<span style="color:#fb4934">recebido</span>** = classes 1 e 2 e o passivo reconhecido é **<span style="color:#fb4934">financeiro</span>**. 
+	- **<span style="color:#fb4934"><u>Caução pode ser tudo, menos 5 e 6</u></span>**
+- 	
 
 ## Demonstrações
 ### Balanço Financeiro
