@@ -143,6 +143,10 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ## Demonstrações
 ## Balanço Orçamentário
 
+> **Art. 35. Pertencem ao exercício financeiro:** 
+> - **I - as receitas nele arrecadadas;** 
+> - **II - as despesas nele legalmente empenhadas**
+
 - Os livros e demais materiais bibliográficos apresentam características de material permanente. Porém, o art. 18 da Lei nº 10.753/2003, considera os **livros adquiridos para bibliotecas públicas como material de consumo**.
 	- **As demais bibliotecas devem classificar a despesa com aquisição de material bibliográfico como material permanente**, classificadas em Investimentos
 
