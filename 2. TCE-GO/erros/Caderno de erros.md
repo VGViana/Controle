@@ -135,7 +135,9 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ![[5° Nível (Subtítulo) - Consolidação.png]]
 
+## Escrituração Contábil Pública
 
+- Apropriação mensal (regime de competência), de 13° salário, constitui um passivo permanente
 
 ## Demonstrações
 ### Balanço Financeiro
