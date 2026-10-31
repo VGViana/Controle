@@ -156,7 +156,17 @@ Ambiente de tarefa = ambiente relacional ou transacional
 [Questão exemplo](https://www.tecconcursos.com.br/questoes/3567198)
 ![[Caderno de erros-4.png]]
 
+![[screenshot_2026-10-31_16-12-43.png]]
 
+- Pagamentos Extraorçamentários: Pagamentos que não precisa se submeter ao processo de exec. orç.
+	- Ingressos extraorçamentários
+	- restos a pagar inscritos em ex. anteriores e pagos no ex. corrente
+	- Dispêndios referentes a depósitos restituíveis e valores vinculados
+- Recebimentos Extraorçamentários: Ingressos não previstos no orçamento
+	- Consignações em folha de pagamento, cauções etc
+	- Inscrições de restos a pagar 
+	- Ingressos referentes a depósitos restituíveis e valores vinculados
+	
 ### Balanço Patrimonial
 
 |                          | Ativo Financeiro                                                                                         | Ativo Permanente                                                                             | Passivo Financeiro                                                          | Passivo Permanente                                                                              |
