@@ -18,5 +18,5 @@ Sequência contínua de etapas pelas quais passa o orçamento público: elabora�
 ## Veja também
 
 - [[Orçamento Público]]
-- [[Controle Externo]]
+- [[Controle/Arquivo/Wikipedia/Controle/Controle Externo]]
 - [[Controle Interno]]

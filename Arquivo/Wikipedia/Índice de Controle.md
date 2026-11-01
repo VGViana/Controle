@@ -4,7 +4,7 @@ Portal de navegação para conceitos transversais relevantes em concursos da ár
 
 ## Controle e fiscalização
 
-- [[Controle Externo]]
+- [[Controle/Arquivo/Wikipedia/Controle/Controle Externo]]
 - [[Controle Interno]]
 - [[Fiscalização da Administração Pública]]
 - [[Prestação de Contas]]

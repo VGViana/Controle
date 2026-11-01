@@ -18,6 +18,6 @@ No âmbito federal, o TCU aprecia as contas do Presidente da República e emite 
 
 ## Veja também
 
-- [[Controle Externo]]
+- [[Controle/Arquivo/Wikipedia/Controle/Controle Externo]]
 - [[Prestação de Contas]]
 - [[Responsabilização perante Tribunal de Contas]]

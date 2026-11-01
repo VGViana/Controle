@@ -17,6 +17,6 @@ Conjunto de mecanismos de fiscalização e correção da atuação administrativ
 ## Veja também
 
 - [[Controle Interno]]
-- [[Controle Externo]]
+- [[Controle/Arquivo/Wikipedia/Controle/Controle Externo]]
 - [[Controle Social]]
 - [[Princípios da Administração Pública]]
