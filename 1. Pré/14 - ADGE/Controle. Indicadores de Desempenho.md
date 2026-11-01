@@ -246,3 +246,9 @@
     - **Estratégicos**
     - **Táticos**: relacionados às áreas/ departamentos
     - **Operacionais**
+
+## Turnover
+
+A **rotatividade de pessoal** (**_turnover_**) nada mais é que o **resultado** da **saída (demissões)** de alguns colaboradores e a **entrada (admissões)** de outros para substituí-los no trabalho.
+
+![[screenshot_2026-11-01_09-58-52.png]]
