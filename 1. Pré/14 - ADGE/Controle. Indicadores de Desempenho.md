@@ -247,9 +247,17 @@
     - **Táticos**: relacionados às áreas/ departamentos
     - **Operacionais**
 
-## Turnover
+# Turnover
 
 A **rotatividade de pessoal** (**_turnover_**) nada mais é que o **resultado** da **saída (demissões)** de alguns colaboradores e a **entrada (admissões)** de outros para substituí-los no trabalho.
+
+## Custos Primários e Secundários
+
+|Categoria|Definição Prática|Exemplos na Prova|
+|---|---|---|
+|Primários|Papelada e Processo ADM|Recrutamento, Seleção, Rescisão.|
+|Secundários|Impacto na Produção|Horas extras, queda de produtividade.|
+|Terciários|Efeitos "Invisíveis"|Perda de imagem, clima ruim, perda de know-how.|
 
 ![[screenshot_2026-11-01_09-58-52.png]]
 
