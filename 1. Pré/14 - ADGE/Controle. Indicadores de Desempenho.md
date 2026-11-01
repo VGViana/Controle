@@ -18,7 +18,7 @@
 - Prevenção de desvios;
 - Produzir informações para retroalimentar o processo administrativo;
 
-**<u>Características Gerais de um Sistema de Controle / Sistema de controle eficaz</u>** (**⚠️****Cuidado!** Algumas bancas trocam o significado da caraterística).
+## **<u>Características Gerais de um Sistema de Controle / Sistema de controle eficaz</u>** 
 
 - **Formalização de regras, procedimentos e políticas;**
 - Precisão;
