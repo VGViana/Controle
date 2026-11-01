@@ -49,7 +49,7 @@ Receita corrente líquida é o **somatório das receitas correntes** (**<span st
 
 Como estamos tratando da receita corrente líquida, há receitas que devem ser deduzidas do cálculo e você <span style="color:#fb4934">obrigatoriamente</span> deve saber quais são.
 
-![[Controle/2. TCE-GO/AFO/imagens/LRF.png]]
+![[LRF.png]]
 
 E também computam-se:
 
@@ -65,7 +65,7 @@ A receita corrente líquida será apurada somando-se as receitas arrecadadas no 
 
 É essencial que você saiba que a LDO contêm dois anexos, o de metas fiscais e o de riscos fiscais, não confunda os dois.
 
-![[Controle/2. TCE-GO/AFO/imagens/LRF-1.png]]
+![[LRF-1.png]]
 
 Há mais detalhes na LRF sobre o anexo de metas fiscais, fique atento às palavras destacadas para memorizar os principais pontos desse anexo:
 
