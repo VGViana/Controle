@@ -253,6 +253,8 @@ A **rotatividade de pessoal** (**_turnover_**) nada mais é que o **resultado** 
 
 ![[screenshot_2026-11-01_09-58-52.png]]
 
+# Conceitos Gerais
+
 | Conceito      | Definição                                                                                      | Exemplo                                                                                                     |
 | ------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Tendência** | Variação do resultado de um indicador em períodos consecutivos.                                | O faturamento da empresa vem crescendo 5% ao mês nos últimos seis meses.                                    |
