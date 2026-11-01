@@ -65,42 +65,42 @@
 	- Voltado para o **<span style="color:#fb4934">curto prazo</span>;**
 	- Ex.: controle de estoque; controle de qualidade
 ### **️Quanto ao Momento**️  Atente-se para as divergências entre autores
-- Controle **Preventivo** (_ex ante,_ pré-controle, feedward);
-	- **Antes** da ocorrência do evento (**antecipa**);
+- Controle **<span style="color:#b8bb26">Preventivo</span>** (_ex ante,_ pré-controle, feedward);
+	- **<span style="color:#b8bb26">Antes</span>** da ocorrência do evento (**antecipa**);
 	- Evita variações indesejadas (**proativo**);
 	- Minimiza a probabilidade do surgimento de problemas; 
-	- **Foco nos insumos**
+	- **<span style="color:#b8bb26">Foco nos insumos</span>**
 	- Ex.: **inspeção** de matéria prima, **definição** de limites de gastos, **limites** de alçada, cronograma, orçamento, definição de regras;
-- Controle **Concomitante** (_pari passu,_ simultâneo, concorrente);
+- Controle **<span style="color:#fb4934">Concomitante</span>** (_pari passu,_ simultâneo, concorrente);
 	- Ao mesmo tempo da ocorrência do evento;
-	- Corrige o desempenho durante a execução (**reativo**);
-	- **Foco nos processos;**
+	- Corrige o desempenho durante a execução (**<span style="color:#fb4934">reativo</span>**);
+	- **<span style="color:#fb4934">Foco nos processos</span>;**
 	- Ex.: **supervisão direta**, controles estatísticos do processo produtivo;
-- Controle **Posterior** (_ex post,_ por retroação, feedback);
+- Controle **<span style="color:#fe8019">Posterior</span>** (_ex post,_ por retroação, feedback);
 	- Focado em rever ou corrigir = nos **resultados**; 
-	- Ex.: Avaliação de desempenho; auditoria de processos; **demonstrativos financeiros** (reflete situação passada).
-    2. **Sobre o Comportamento Humano**
-        - Controle **Formal**:
-            - Exercido com base no poder **racional-legal;**
-            - **Chefe utiliza seu cargo** para induzir ou coibir algum tipo de comportamento.
-        - Controle **Social**:
-            - Conjunto de pessoas exerce sobre algum de seus membros;
-            - Ajuste às crenças e valores;
-        - Controle **Técnico**:
-            - Exercido por **sistemas** que determinam a direção, intensidade e frequência do comportamento.
-                - Ex.: relógios, faixas de rodagem, etc
-    3. **Segundo Perrow**
-        - Controle de 1ª Ordem (supervisão direta);
-        - Controle de 2ª Ordem (padronização dos processos);
-        - Controle de 3ª Ordem (controle por premissas/cultura)
+	- Ex.: Avaliação de desempenho; auditoria de processos; **<span style="color:#fe8019">demonstrativos financeiros</span>** (reflete situação passada).
+### **Sobre o Comportamento Humano**
+- Controle **<span style="color:#d3869b">Formal</span>**:
+	- Exercido com base no poder **<span style="color:#d3869b">racional-legal</span>;**
+	- **<span style="color:#d3869b">Chefe utiliza seu cargo</span>** para induzir ou coibir algum tipo de comportamento.
+- Controle **<span style="color:#83a598">Social</span>**:
+	- Conjunto de pessoas exerce sobre algum de seus membros;
+	- Ajuste às crenças e valores;
+- Controle **Técnico**:
+	- Exercido por **sistemas** que determinam a direção, intensidade e frequência do comportamento.
+		- Ex.: relógios, faixas de rodagem, etc
+### **Segundo Perrow**
+- Controle de 1ª Ordem (supervisão direta);
+- Controle de 2ª Ordem (padronização dos processos);
+- Controle de 3ª Ordem (controle por premissas/cultura)
 
-**INDICADORES**
+# **INDICADORES**
 
-- É uma métrica ou medida **quantitativa ou qualitativa** usada para **avaliar o desempenho** em relação a metas, objetivos ou padrões predefinidos;
-- ⚠️**Não confunda** com a **meta**: **é um alvo específico e mensurável** que uma organização, equipe ou indivíduo estabelece para atingir em um período de tempo definido
+- É uma métrica ou medida **<span style="color:#83a598">quantitativa ou qualitativa</span>** usada para **<span style="color:#83a598">avaliar o desempenho</span>** em relação a metas, objetivos ou padrões predefinidos;
+- ⚠️**Não confunda** com a **<span style="color:#fe8019">meta</span>**: **<span style="color:#fe8019">é um alvo específico e mensurável</span>** que uma organização, equipe ou indivíduo estabelece para atingir em um período de tempo definido
     - Um valor quantitativo de onde se deseja chegar.
 
-**Finalidades**
+## **Finalidades**
 
 - Mensurar:
     -  **resultados (concretos/ finais)** e
@@ -111,7 +111,7 @@
 - Facilitar o planejamento e o controle do desempenho;
 - Viabilizar a análise comparativa entre o desempenho da própria organização com o desempenho das demais que atuam em áreas ou ambientes semelhantes;
 
-**Componentes**
+## **Componentes**
 
 - **Medida** - grandeza qualitativa ou quantitativa que permite classificar as características, resultados e consequências dos produtos, processos ou sistemas;
 - **Fórmula** - padrão matemático que expressa a forma de realização do cálculo;
@@ -119,7 +119,7 @@
 - **Padrão de comparação** - índice arbitrário e aceitável para uma avaliação comparativa;
 - **⚠️Meta** - um número orientado por um indicador em relação a um padrão a ser alcançado;
 
-**Critérios (Atributos):**
+## **Critérios (Atributos):**
 
 - Básicos
     - Seletividade ou importância;
@@ -129,15 +129,15 @@
     - Comparabilidade;
     - **Estabilidade**: devem ter procedimentos gerados de forma sistemática e constante ;
     - Custo-efetividade;
-- ⚠️Atributos para serem **viáveis e práticos**
+- ⚠️Atributos para serem **<span style="color:#83a598">viáveis e práticos</span>**
     - **Adaptabilidade**: capacidade de resposta às mudanças de comportamento e exigências;
     - **Rastreabilidade**: facilidade para identificação da origem dos dados, seu registro e manutenção ;
     - **Disponibilidade**: facilidade de acesso para coleta, estando disponível a tempo, para as pessoas certas e sem distorções, servindo de base para que decisões sejam tomadas. ; 
     - Economia;
     - Praticidade.
 
-- **Propriedades fundamentais** dos indicadores de um sistema de formulação e avaliação de programas
-    - **Relevância para a agenda política**: **determina se os indicadores respondem à demanda de monitoramento**
+- <span style="color:#83a598">**Propriedades fundamentais</span>** dos indicadores de um sistema de formulação e avaliação de programas
+    - **<span style="color:#fb4934">Relevância para a agenda política</span>**: **determina se os indicadores respondem à demanda de monitoramento**
         
     - **Confiabilidade**: fontes confiáveis; 
         
@@ -161,10 +161,10 @@
         
     - **Validade**: medidas tão próximas quanto possível da demanda política que lhe deram origem.
         
-- **Propriedades Essenciais:** são aquelas que **qualquer indicador deve apresentar** e sempre devem ser consideradas como critérios de escolha, independente da fase do ciclo de gestão em que se encontra a política sob análise
+- **<span style="color:#fe8019">Propriedades Essenciais</span>:** são aquelas que **qualquer indicador deve apresentar** e sempre devem ser consideradas como critérios de escolha, independente da fase do ciclo de gestão em que se encontra a política sob análise
     - **utilidade, validade, confiabilidade e disponibilidade**.
 
-**Qualidade dos indicadores:**
+## **Qualidade dos indicadores:**
 
 - Validade/ Representatividade;
 - Comparabilidade;
@@ -181,64 +181,64 @@
 - Tempestividade;
 - Objetividade
 
-**Mitos da medição de desempenho**
+## **Mitos da medição de desempenho**
 
 - Mito da medição **absoluta**
 - Mito da necessidade de gerar **todas** as informações
 - Mito do vamos primeiro medir e depois ver o que fazemos;
 - Mito da necessidade do sistema informático **perfeito**;
 
-**🚨Modelo para mensuração do desempenho**
+## **🚨Modelo para mensuração do desempenho**
 
-- - **Dimensões de esforço:**
-        - **Economicidade:** uso de recursos com o menor ônus possível;
-            - É diferente da eficiência, pois é exclusivamente de recursos **financeiros**.
-        - **Execução**: realização de processos conforme o que foi estabelecido;
-        - **Excelência**: conformidade com padrões de **qualidade;**
-            - **Opinião do cliente é levada em consideração;**
-    - **⚠️Dimensões de resultado:**
-        - -  Compara resultados previstos e realizados.
-        - **Eficiência**:
-            - Utilização de recursos
-                - Uso racional e econômico dos insumos;
-                - Relação entre insumos utilizados **(inputs)** e produtos gerados **(outputs)**
-            - ênfase nos meios (métodos e procedimentos);
-                - fazer de forma correta;
-            - **Eficiência administrativa:** seguimento de prescrições, ou seja, do nível de conformidade (compliance) da implementação a regras preestabelecidas
-        - **Eficácia**:
-            - Alcance de **resultados** (atingimento das metas e objetivos);
-                -  fazer a **coisa certa**
-                -  relacionada aos **fins**
-            - Quantidade e qualidade do que foi entregue (**FIM**).
-        - **Efetividade**
-            - **Impactos** gerados/ consequências;
-            - gerar benefícios e transformar
-            - Agregar valor, modificar a situação.
+- **Dimensões de <span style="color:#fe8019">esforço</span>:**
+	- **<span style="color:#83a598">Economicidade:</span>** uso de recursos com o menor ônus possível;
+		- É diferente da eficiência, pois é exclusivamente de recursos **financeiros**.
+	- **<span style="color:#83a598">Execução</span>**: realização de processos conforme o que foi estabelecido;
+	- **<span style="color:#83a598">Excelência</span>**: conformidade com padrões de **qualidade;**
+		- **Opinião do cliente é levada em consideração;**
+- **⚠️Dimensões de <span style="color:#fb4934">resultado</span>:**
+	  Compara resultados previstos e realizados.
+	- **<span style="color:#d3869b">Eficiência</span>**:
+		- Utilização de recursos
+			- Uso racional e econômico dos insumos;
+			- Relação entre insumos utilizados **(inputs)** e produtos gerados **(outputs)**
+		- ênfase nos meios (métodos e procedimentos);
+			- fazer de forma correta;
+		- **Eficiência administrativa:** seguimento de prescrições, ou seja, do nível de conformidade (compliance) da implementação a regras preestabelecidas
+	- **<span style="color:#d3869b">Eficácia</span>**:
+		- Alcance de **resultados** (atingimento das metas e objetivos);
+			-  fazer a **coisa certa**
+			-  relacionada aos **fins**
+		- Quantidade e qualidade do que foi entregue (**<span style="color:#d3869b">FIM</span>**).
+	- **<span style="color:#d3869b">Efetividade</span>**
+		- **<u>Impactos</u>** gerados/ consequências;
+		- gerar benefícios e transformar
+		- Agregar valor, modificar a situação.
 
-**Essencial - EFICIÊNCIA, EFICÁCIA, EFETIVIDADE e ECONOMICIDADE**
+## **EFICIÊNCIA, EFICÁCIA, EFETIVIDADE e ECONOMICIDADE**
 
-- **Eficiência** - relacionado aos **MEIOS** e **MÉTODOS** empregados (fazer as coisas da maneira certa);
+- **<span style="color:#b8bb26">Eficiência</span>** - relacionado aos **<span style="color:#b8bb26">MEIOS</span>** e **<span style="color:#b8bb26">MÉTODOS</span>** empregados (fazer as coisas da maneira certa);
     - Medida quantitativa.
     - Uso de recursos;
         - Fazer mais com menos.
-- **Eficácia** - relacionado aos **FINS.**
+- **<span style="color:#fe8019">Eficácia</span>** - relacionado aos **<span style="color:#fe8019">FINS</span>.**
     - Capacidade de atingir os **RESULTADOS** (fazer **a coisa certa**);
-- **Efetividade** - relacionado ao **IMPACTO** (benefícios gerados);
+- **<span style="color:#d3869b">Efetividade</span>** - relacionado ao **<span style="color:#d3869b">IMPACTO</span>** (benefícios gerados);
     - Fazer corretamente as coisas;
     - Transformar a situação existente;
     - Satisfação dos clientes ou do valor social que deve ser atribuído ao produto ou serviço;
     - Eficácia + eficiência
 - **Economicidade** - relacionado ao uso de **RECURSOS** com o **MENOR ÔNUS** possível sem comprometer a qualidade (**minimizar CUSTOS**).
 
-**Tipos/ Classificações de Indicadores**
+## **Tipos/ Classificações de Indicadores**
 
 - Segundo Maria das Graças Rua:
     - Indicadores Estratégicos
     - Indicadores de Projetos
     - Indicadores de **Processos**:
-        - de **produtividade**: **eficiência;**
-        - de **qualidade**: **eficácia;**
-        - de **efetividade**: **impactos;**
+        - de **<span style="color:#b8bb26">produtividade</span>**: **<span style="color:#b8bb26">eficiência</span>;**
+        - de **<span style="color:#fe8019">qualidade</span>**: **<span style="color:#fe8019">eficácia</span>;**
+        - de **<span style="color:#d3869b">efetividade</span>**: **<span style="color:#d3869b">impactos</span>;**
         - de **capacidade**: **quanto** o processo produz
 - ️Quantitativos (objetivos)x Qualitativos (Subjetivos);
 - Simples x Compostos;
