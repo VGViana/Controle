@@ -66,7 +66,7 @@
 	- Ex.: controle de estoque; controle de qualidade
 ### **️Quanto ao Momento**️  Atente-se para as divergências entre autores
 - Controle **<span style="color:#b8bb26">Preventivo</span>** (_ex ante,_ pré-controle, feedward);
-	- **<span style="color:#b8bb26">Antes</span>** da ocorrência do evento (**antecipa**);
+	- **<span style="color:#b8bb26">Antes</span>** da ocorrência do evento (**antecipa**)G;
 	- Evita variações indesejadas (**proativo**);
 	- Minimiza a probabilidade do surgimento de problemas; 
 	- **<span style="color:#b8bb26">Foco nos insumos</span>**
@@ -252,3 +252,11 @@
 A **rotatividade de pessoal** (**_turnover_**) nada mais é que o **resultado** da **saída (demissões)** de alguns colaboradores e a **entrada (admissões)** de outros para substituí-los no trabalho.
 
 ![[screenshot_2026-11-01_09-58-52.png]]
+
+| Conceito      | Definição                                                                                      | Exemplo                                                                                                     |
+| ------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Tendência** | Variação do resultado de um indicador em períodos consecutivos.                                | O faturamento da empresa vem crescendo 5% ao mês nos últimos seis meses.                                    |
+| Benchmark     | Comparação do resultado de um indicador com uma referência de excelência (externa ou interna). | A satisfação de nossos clientes é de 85%, enquanto a do líder de mercado é de 92%.                          |
+| Meta/Padrão   | Nível de desempenho predefinido que se deseja alcançar em um período.                          | A meta para este trimestre é reduzir as reclamações em 10%.                                                 |
+| Correlação    | Relação de interdependência entre dois ou mais indicadores (causa e efeito).                   | Observamos que, quando investimos mais em treinamento (indicador 1), a produtividade (indicador 2) aumenta. |
+
