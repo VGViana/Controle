@@ -1489,7 +1489,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 ![[Lei nº 14.133-2021.png]]
 # **10. Alocação de Riscos**
 
-> § 5º Sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro, **renunciando as partes aos pedidos de restabelecimento** do equilíbrio relacionados aos riscos assumidos, exceto no que se refere: 
+> § 5º Sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro, **<span style="color:#fe8019">renunciando as partes aos pedidos de restabelecimento</span>** do equilíbrio relacionados aos riscos assumidos, **<span style="color:#fb4934">exceto</span>** no que se refere: 
 > - I - às alterações **unilaterais** determinadas pela Administração, nas hipóteses do [inciso I do **caput** do art. 124 desta Lei](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art124i); 
 > - II - ao **aumento ou à redução,** por legislação superveniente, dos tributos diretamente pagos pelo contratado em decorrência do contrato. 
 >
