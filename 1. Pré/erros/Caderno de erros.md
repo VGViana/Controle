@@ -112,6 +112,9 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ![[screenshot_2026-11-02_11-12-17.png]]
 
+## Liderança 
+
+![[screenshot_2026-11-02_11-27-21.png]]
 ## PMO - Escritório de Projetos
 
 **modelos de EGP são propostos**
