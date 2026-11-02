@@ -111,6 +111,18 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ![[Caderno de erros-8.png]]
 
 ![[screenshot_2026-11-02_11-12-17.png]]
+
+## PMO - Escritório de Projetos
+
+**modelos de EGP são propostos**
+
+| Modelo de EGP                                   | Descrição                                                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Project Support Office (PSO)                    | Fornece apoio técnico e adm; Auxilia no planejamento; Responsabilidade reside no gerente    |
+| Project Management Center of Excellence (PMCOE) | Núcleo (hub) de experiência; Não assume responsabilidade; Despesa geral;                    |
+| Program Management Office (PrgMO)               | Gerencia os gerentes de projetos, sendo em última instância, o responsável;                 |
+| Chief Project Officer (CPO)                     | Cuida e alimenta o portfólio de projetos da org.; Planejamento estratégco; Responsabilidade |
+
 # AFO
 ## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
 
