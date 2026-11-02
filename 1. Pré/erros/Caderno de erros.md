@@ -86,7 +86,7 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ### Departamentalização 
 
-- Funcional
+- Funcional: agrupa por **funções administrativas ou áreas especializadas internas** (produção, marketing, finanças, RH).
 
 | **<span style="color:#83a598">Vantagens</span>**                                                                                                                                            | **<span style="color:#fb4934">Desvantagens</span>**                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -94,7 +94,7 @@ Ambiente de tarefa = ambiente relacional ou transacional
 | Incentiva a **<span style="color:#83a598">especialização técnica</span>** , garantindo a **<span style="color:#83a598">utilização máxima das habilidades</span>** técnicas dos funcionários | **<span style="color:#fb4934">Dificulta a adaptação e flexibilidade a mudanças externas</span>**, pois o foco é interno, não considerando os objetivos gerais da organização                                       |
 | Promove a **<span style="color:#83a598">redução de custos</span>** porque **<span style="color:#83a598">elimina possíveis redundâncias</span>**                                             | Promove uma **<span style="color:#fb4934">maior burocratização</span>** com **<span style="color:#fb4934">maior número de níveis hierárquicos</span>**                                                             |
 
--  Processos
+-  Processos: agrupa atividades conforme as **etapas ou tipo de transformação** pelo qual o produto passa (corte, usinagem, pintura, montagem, acabamento).
 
 | Vantagens                                                                                                                                                           | Desvantagens                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
