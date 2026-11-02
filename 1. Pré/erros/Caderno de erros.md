@@ -115,6 +115,12 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ## Liderança 
 
 ![[screenshot_2026-11-02_11-27-21.png]]
+
+![[screenshot_2026-11-02_11-29-03.png]]
+
+![[screenshot_2026-11-02_11-29-27.png]]
+
+- **Iteração**: capacidade de desenvolver políticas, serviços e produtos de forma incremental e experimental.
 ## PMO - Escritório de Projetos
 
 **modelos de EGP são propostos**
