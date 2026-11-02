@@ -24,7 +24,7 @@ O conceito de Organização preconizado pela Teoria Estruturalista a considera c
 
 ### Planejamento Estratégico
 
-![[Controle/2. TCE-GO/erros/img/Caderno de erros.png]]
+![[screenshot_2026-11-02_11-00-35.png]]
 
 Macroambiente = ambiente contextual
 
