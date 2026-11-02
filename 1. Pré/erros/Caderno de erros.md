@@ -110,6 +110,7 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ![[Caderno de erros-8.png]]
 
+![[screenshot_2026-11-02_11-12-17.png]]
 # AFO
 ## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
 
