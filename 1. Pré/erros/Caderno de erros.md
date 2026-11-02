@@ -8,7 +8,6 @@ O conceito de Organização preconizado pela Teoria Estruturalista a considera c
 
 ## Diagnóstico de Ambiente Organizacional - Matriz SWOT
 
-![[Controle/2. TCE-GO/erros/img/Caderno de erros-1.png]]
 ## Planejamento
 
 ### Introdução ao Processo de Planejamento 
@@ -190,7 +189,6 @@ Ambiente de tarefa = ambiente relacional ou transacional
 - _será exigida **garantia adicional do licitante** vencedor cuja **proposta for inferior a 85% (oitenta e cinco por cento)** do **valor orçado pela Administração**, equivalente à **diferença entre este último e o valor da proposta**,_
 ## Contratação Direta, Inexibilidade e Dispensa (arts. 72 a 75 da 14.133)
 
-![[Controle/2. TCE-GO/erros/Caderno de erros-1.png]]
 
 
 # LEG
