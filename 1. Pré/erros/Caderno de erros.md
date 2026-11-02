@@ -123,6 +123,9 @@ Ambiente de tarefa = ambiente relacional ou transacional
 | Program Management Office (PrgMO)               | Gerencia os gerentes de projetos, sendo em última instância, o responsável;                 |
 | Chief Project Officer (CPO)                     | Cuida e alimenta o portfólio de projetos da org.; Planejamento estratégco; Responsabilidade |
 
+## PMBOK
+
+![[screenshot_2026-11-02_11-21-15.png]]
 # AFO
 ## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
 
