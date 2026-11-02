@@ -22,8 +22,12 @@ O conceito de Organização preconizado pela Teoria Estruturalista a considera c
 | Grupo focal        | Uma espécie de entrevista coletiva, em que diversas pessoas participam de uma dinâmica na qual o entrevistador funciona como moderador        |
 | Observação visual  | Observação dos funcionários em seu ambiente de trabalho, buscando identificar as competências                                                 |
 
+[Abordagens](https://www.tecconcursos.com.br/questoes/3928282)
+
+![[screenshot_2026-11-02_11-06-13.png]]
 ### Planejamento Estratégico
 
+[Ambientes](https://www.tecconcursos.com.br/questoes/3860833)
 ![[screenshot_2026-11-02_11-00-35.png]]
 
 Macroambiente = ambiente contextual
@@ -34,13 +38,16 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 - É o ambiente **mais** **próximo** e **imediato** da organização.
 
+[Dupla Materialidade](https://www.tecconcursos.com.br/questoes/2395538)
+
+- Dupla materialidade em ESG: avaliação de como a sustentabilidade pode criar riscos para a continuidade dos negócios da empresa e simultaneamente a exposição de quais os impactos da empresa sobre as pessoas e o meio ambiente.
+
 ## Estratégia e Vantagem Competitiva
 
 - No planejamento estratégico, a análise do ambiente setorial a cinco forças competitivas que Impactam no posicionamento de uma empresa. Os custos de mudanças são analisados pela força qualificada como entrantes potenciais.
 
 ### Matriz de Ansoff
 
-![[Controle/2. TCE-GO/erros/img/Caderno de erros-2.png]]
 
 ### Cinco forças competitivas de Porter
 
