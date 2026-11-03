@@ -114,17 +114,23 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ## Liderança 
 
+### Teoria do Caminho-Meta de House
 ![[screenshot_2026-11-02_11-27-21.png]]
+
+### Dimensões de Fiedler
 
 ![[screenshot_2026-11-02_11-29-03.png]]
 
 ![[screenshot_2026-11-02_11-29-27.png]]
 
+### Estrutura de Iniciação vs. Consideração
 - **Iteração**: capacidade de desenvolver políticas, serviços e produtos de forma incremental e experimental.
 
 ![[screenshot_2026-11-02_11-31-31.png]]
 
+### **Teoria Grid Gerencial de Blake e Mouton**
 
+![[screenshot_2026-11-03_16-32-30.png]]
 ## PMO - Escritório de Projetos
 
 **modelos de EGP são propostos**
