@@ -1582,6 +1582,12 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
     - <span style="color:#d3869b">Alteração unilateral das cláusulas de execução</span>, que venham a afetar a equação econômico- financeira inicial;
     - <span style="color:#d3869b">Eventos imprevisíveis e extraordinários</span>, que causem impacto na relação econômico-financeira inicial.
 
+### 12.1.3 Termo Aditivo
+
+> _A formalização do termo aditivo é condição para a execução, pelo contratado, das prestações determinadas pela Administração no curso da execução do contrato, **salvo nos casos de justificada necessidade de antecipação de seus efeitos, hipótese em que a formalização deverá ocorrer no prazo máximo de 1 (um) mês**._
+
+![[screenshot_2026-11-03_10-40-03.png]]
+
 ## **12.2 Inexecução sem Culpa e a Teoria da Imprevisão**
 
 - A parte não cumpre com as suas obrigações em virtude de **fatos supervenientes** à celebração do contrato, que impedem ou dificultam a execução do contrato.
