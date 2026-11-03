@@ -131,6 +131,12 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ### **Teoria Grid Gerencial de Blake e Mouton**
 
 ![[screenshot_2026-11-03_16-32-30.png]]
+
+### Teoria 3-D
+
+![[screenshot_2026-11-03_16-39-32.png]]
+
+
 ## PMO - Escritório de Projetos
 
 **modelos de EGP são propostos**
