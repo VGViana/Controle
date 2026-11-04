@@ -170,6 +170,10 @@ Essa incongruência caracteriza a **dissonância cognitiva**, conceito amplamen
     - Orientada para o indivíduo e a valorização dos funcionários.
     - Regras e procedimentos **<span style="color:#83a598">individualizados</span>**.
 
+### 14.3 Tipologia de Quinn
+
+![[screenshot_2026-11-04_09-25-03.png]]
+
 ## **15. Classificações**
 
 - **Dominante x Subculturas x Contracultura**
