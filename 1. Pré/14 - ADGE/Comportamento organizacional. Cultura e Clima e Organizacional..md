@@ -112,6 +112,7 @@ Essa incongruência caracteriza a **dissonância cognitiva**, conceito amplamen
     - Regras do Jogo;
     - Clima Organizacional;
 
+![[screenshot_2026-11-04_09-18-23.png]]
 ## **10. Tipos de artefatos**
 
 - **<span style="color:#fe8019">Verbais</span>**: histórias, mitos, tabus, **<span style="color:#fe8019">heróis</span>**, etc;
