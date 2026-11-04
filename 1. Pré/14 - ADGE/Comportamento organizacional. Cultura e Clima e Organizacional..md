@@ -93,6 +93,36 @@ Essa incongruência caracteriza a **dissonância cognitiva**, conceito amplamen
 - Rituais;
 - Valores.
 
+### 7.1. Dimensões de Hofstede
+
+**DISTÂNCIA DE PODER (PDI)**
+
+|**Característica**|**Alta Distância de Poder**|**Baixa Distância de Poder**|
+|---|---|---|
+|**Visão da hierarquia**|Natural, inquestionável|Funcional, deve ser justificada|
+|**Centralização**|Decisões no topo (autocracia)|Estruturas horizontais, liderança consultiva|
+|**Relação chefe-subordinado**|Dependência; subordinados esperam ordens|Interdependência; subordinados esperam ser consultados|
+|**Desigualdade**|Aceita, esperada, até valorizada|Busca-se igualdade; privilégios são mal vistos|
+|**Mudanças e conflitos**|Conflitos podem levar a revoluções; agressões são “verticalizadas”|Conflitos resolvidos por negociação, processos democráticos|
+|**Exemplos de países**|Brasil (69), México, China, países árabes|Dinamarca, Nova Zelândia, Suécia|
+
+AS 6 DIMENSÕES DE HOFSTEDE EM UMA FRASE
+
+|**Dimensão**|**O que mede**|
+|---|---|
+|**1. Distância de Poder**|Aceitação da hierarquia e desigualdade de poder|
+|**2. Individualismo vs. Coletivismo**|Foco no "eu" (realização pessoal) ou no "nós" (harmonia do grupo)|
+|**3. Masculinidade vs. Feminilidade**|Competição e sucesso material vs. cooperação e qualidade de vida|
+|**4. Aversão à Incerteza**|Conforto com a ambiguidade; necessidade de regras e controle|
+|**5. Orientação de Longo Prazo**|Foco em tradição e passado vs. planejamento futuro e persistência|
+|**6. Indulgência vs. Restrição**|Liberdade para satisfazer desejos vs. controle rígido dos impulsos|
+
+**Associação Rápida:**
+
+- "Respeito à autoridade", "aceitação da desigualdade", "centralização de decisões" -> **Distância de Poder.**
+- "Necessidade de normas formais", "medo do desconhecido", "busca por estabilidade no emprego" -> **Aversão à Incerteza**.
+- "Conquistas individuais", "autonomia no trabalho" -> **Individualismo**.
+
 ## **8. Componentes (Maximiano)**
 
 - **<span style="color:#d3869b">Artefatos - elementos mais visíveis</span>**
