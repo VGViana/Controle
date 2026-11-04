@@ -323,6 +323,8 @@ O conjunto completo das demonstrações contábeis inclui:
 
 (g) informação comparativa com o período anterior.
 
+![[screenshot_2026-11-04_17-33-57.png]]
+
 ## **3.2. CAPITAL**
 
 A entidade deve divulgar informação que possibilite aos usuários das demonstrações contábeis avaliar os objetivos, as políticas e os processos de gestão do capital dessa entidade
