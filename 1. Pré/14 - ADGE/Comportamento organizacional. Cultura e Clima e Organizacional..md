@@ -172,7 +172,19 @@ Essa incongruência caracteriza a **dissonância cognitiva**, conceito amplamen
 
 ### 14.3 Tipologia de Quinn
 
-![[screenshot_2026-11-04_09-25-03.png]]
+![[screenshot_2026-11-04_09-27-03.png]]
+
+O modelo de Quinn trabalha com dois grandes eixos:
+
+- Flexibilidade x Controle  
+- Foco interno x Foco externo
+
+**Da combinação deles, surgem quatro culturas:**
+
+- Grupal (Clã) → flexibilidade + foco interno.   
+- Inovativa (Adhocracia) → flexibilidade + foco externo.   
+- Hierárquica (Burocracia) → controle + foco interno. 
+- Racional (Mercado) → controle + foco externo.
 
 ## **15. Classificações**
 
