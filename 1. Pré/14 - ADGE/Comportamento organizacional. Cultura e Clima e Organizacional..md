@@ -158,6 +158,22 @@ AS 6 DIMENSÕES DE HOFSTEDE EM UMA FRASE
 - Redução de Conflitos;
 - **<span style="color:#83a598">Integração</span>**.
 
+### 11.2. Ritos, Rituais e Cerimônias
+
+**Ritos, Rituais e Cerimônias:** São atividades "planejadas" pela organização, as quais são executadas através de interações sociais. Eles expressam a cultura organizacional, tornando-a coesa. Alguns autores dividem esses conceitos da seguinte forma:
+
+  
+
+- **Ritos:** Atividades realizadas com o objetivo de comunicar algum propósito específico. Trata-se de um conjunto de atividades elaboradas e dramáticas, que consolidam várias formas de expressões culturais em um só evento.
+
+  
+
+- **Rituais:** São ações repetidamente realizadas, utilizadas para reforçar os valores fundamentais da organização.
+
+  
+
+- **Cerimônias:** Trata-se de um sistema de vários ritos ligados a uma ocasião ou evento específico. São utilizados para celebração.
+
 ## **12. Transmissão/ Aprendizagem da Cultura Organizacional:**
 
 - Histórias;
