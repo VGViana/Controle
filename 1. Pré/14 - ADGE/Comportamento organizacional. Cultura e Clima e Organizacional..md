@@ -174,6 +174,7 @@ AS 6 DIMENSÕES DE HOFSTEDE EM UMA FRASE
 
 - **Cerimônias:** Trata-se de um sistema de vários ritos ligados a uma ocasião ou evento específico. São utilizados para celebração.
 
+![[screenshot_2026-11-04_09-37-08.png]]
 ## **12. Transmissão/ Aprendizagem da Cultura Organizacional:**
 
 - Histórias;
