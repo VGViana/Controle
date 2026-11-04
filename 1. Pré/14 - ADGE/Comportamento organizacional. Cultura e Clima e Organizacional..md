@@ -202,7 +202,7 @@ AS 6 DIMENSÕES DE HOFSTEDE EM UMA FRASE
 
 ### 14.3 Tipologia de Quinn
 
-![[screenshot_2026-11-04_09-27-03.png]]
+![[screenshot_2026-11-04_09-31-47.png]]
 
 O modelo de Quinn trabalha com dois grandes eixos:
 
