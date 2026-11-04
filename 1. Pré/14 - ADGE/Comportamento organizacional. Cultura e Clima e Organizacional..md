@@ -263,6 +263,19 @@ O modelo de Quinn trabalha com dois grandes eixos:
     - **Conservadora**:
         - Valores, crenças e práticas enfatizam a **<span style="color:#fb4934">estabilidade, tradição e resistência</span>** à mudança.
 
+### 15.1. Conceitos 
+
+**==Identidade Social==** refere-se à forma como os indivíduos se identificam com grupos específicos dentro da organização, baseando-se em características compartilhadas, como tarefas, posições e experiências de trabalho. Esse conceito explica como pessoas que ocupam posições semelhantes e realizam tarefas parecidas desenvolvem um conjunto comum de valores, comportamentos e linguagem, criando uma espécie de **"<u>microcultura</u>"** dentro da organização maior.
+
+Essas microculturas coexistem com a cultura organizacional geral e ajudam a formar a identidade social dos membros em relação aos seus papéis e grupos de trabalho específicos. Essa identificação ajuda os indivíduos a entenderem melhor sua função dentro do contexto organizacional e a fortalecerem o senso de pertencimento a determinado grupo.
+
+Outros Conceitos: 
+- **Pressupostos Básicos:** Referem-se a crenças e valores profundamente enraizados que guiam o comportamento organizacional, mas não tratam diretamente da identificação com grupos específicos.
+- **Transgressão Cultural:** Está relacionada à quebra de normas ou valores culturais.
+- **Adaptabilidade Harmônica:** Refere-se à capacidade de adaptação dos indivíduos em ambientes de mudança.
+- **Afiliação Carismática:** Envolve a identificação com líderes carismáticos ou grupos.
+
+
 ## **16. Vantagens e Desvantagens da Cultura Organizacional**
 
 - **<span style="color:#83a598">Vantagens</span>**:
