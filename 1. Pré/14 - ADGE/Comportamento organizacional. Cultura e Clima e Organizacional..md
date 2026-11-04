@@ -6,6 +6,18 @@
 - Prega que o comportamento pode ser observado e modificado
 - Aborda as relações entre os estímulos e as consequências
 
+## Dissonância Cognitiva
+
+A **dissonância cognitiva** é um conceito da psicologia que descreve o **<span style="color:#fb4934">desconforto mental gerado quando há inconsistência entre crenças, atitudes e comportamentos</span>** de um indivíduo. Esse conflito interno leva a uma tensão psicológica que a pessoa tende a reduzir, seja mudando suas atitudes, ajustando suas crenças ou justificando suas ações.
+
+O indivíduo percebe um desalinhamento entre:
+
+- _o que ele **acredita** (crenças),_
+- _o que ele **sente** (emoções/atitudes),_
+- _e o que ele **faz** (comportamento)._
+
+Essa incongruência caracteriza a **dissonância cognitiva**, conceito amplamente estudado por **_Leon Festinger._**
+
 # **CULTURA ORGANIZACIONAL**
 
 ## **1.CONCEITOS**
