@@ -1,5 +1,11 @@
 # **COMPORTAMENTO ORGANIZACIONAL**
 
+Segundo Robbins _et al_. (2010), o Comportamento Organizacional (CO) é o campo de estudos que investiga o impacto que indivíduos, grupos e a estrutura têm sobre o comportamento das pessoas dentro das organizações, com o propósito de utilizar esse conhecimento para melhorar a eficácia organizacional. Nesse contexto, **a teoria sobre as variáveis ​​do CO envolve três níveis**:
+
+- **NÍVEL INDIVIDUAL:** apresenta certas crenças ou princípios, como: as pessoas têm diferentes necessidades e procuram sempre atendê-las; o ser humano tem capacidade de resposta limitada; o ser humano percebe e avalia; e as pessoas pensam no futuro e escolhem como se comportar.
+- **NÍVEL GRUPAL**: é segmentado em grupos formais, integrados por equipes de comando, de tarefas e temporárias, e grupos informais, compostos por grupos de interesse e amizade.
+- **NÍVEL ORGANIZACIONAL:** avalia as organizações como um todo, que integra diferentes atividades e esforços com objetivos comuns.
+
 ## **MODELO BEHAVORISTA** 
 
 - Foco no comportamento humano - É individual, e não padronizado
