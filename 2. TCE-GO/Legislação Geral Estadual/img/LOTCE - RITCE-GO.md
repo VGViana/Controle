@@ -85,7 +85,7 @@ _**💥 Atenção à distinção:**_ 
 - **Julgar os recursos** interpostos frente a suas decisões (XXX).
     
 
-# ART. 1º - PARÁGRAFOS
+## ART. 1º - PARÁGRAFOS
 
 | Dispositivo                      | Regra                                                                                                                                                                                                            |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,7 +96,7 @@ _**💥 Atenção à distinção:**_ 
 
 **Atenção (§ 4º):** não poderá ser sonegado **processo, documento ou informação, a qualquer pretexto, sob pena de responsabilidade**.
 
-# ART. 2º - PODER REGULAMENTAR
+## ART. 2º - PODER REGULAMENTAR
 
 Ao TCE-GO, no âmbito de sua **competência e jurisdição**, assiste o **poder regulamentar**, podendo expedir atos normativos sobre:
 
@@ -106,3 +106,42 @@ Ao TCE-GO, no âmbito de sua **competência e jurisdição**, assiste o **poder 
     
 
 Os atos normativos **obrigam os jurisdicionados ao seu cumprimento, sob pena de responsabilidade**.
+
+# JURISDIÇÃO TCE-GO (Art. 3° a 5°)
+
+**DA JURISDIÇÃO (Art. 3° ao 5°) [LOTCE GO](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86708/lei-16168)**
+
+- Leitura completa;
+
+## **ART. 3º  JURISDIÇÃO PRÓPRIA E PRIVATIVA**
+
+- O Tribunal de Contas do Estado de Goiás tem **<span style="color:#b8bb26">jurisdição própria e privativa</span>** em **<span style="color:#b8bb26">todo o território estadual</span>**, sobre as pessoas e matérias sujeitas à sua competência.
+
+- Os órgãos e as entidades jurisdicionados devem disponibilizar espaço físico adequado, em sua sede administrativa, para viabilizar o trabalho das equipes de fiscalização. (Parágrafo único)
+
+## **ART. 4º  A JURISDIÇÃO DO TRIBUNAL ABRANGE**
+
+1. **<span style="color:#d3869b">Pessoas e recursos públicos</span>**
+
+	- **I**  Qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais o Estado responda, ou que, em nome deste, assuma obrigações de natureza pecuniária.
+	- **II**  Aqueles que derem causa a perda, extravio ou outra irregularidade de que resulte dano ao erário. 
+
+2. **<span style="color:#d3869b">Dirigentes e liquidantes</span>**
+
+	- **III**  Os dirigentes ou liquidantes de empresas públicas e sociedades de economia mista constituídas com recursos do Estado. 
+	- **IV** Os dirigentes ou liquidantes das empresas encampadas ou sob intervenção, ou que venham a integrar, provisória ou permanentemente, o patrimônio do Estado ou de outra entidade pública estadual.
+
+3. **<span style="color:#d3869b">Consórcios, prestação de contas e repasses</span>**
+
+	- **V -** Os responsáveis pelas contas dos consórcios públicos, de cujo capital social o Estado participe, de forma direta ou indireta, nos termos do ato constitutivo. 
+	- **VI -** Todos os que lhe devam prestar contas ou cujos atos estejam sujeitos à sua fiscalização por expressa disposição de lei ou pela natureza dos recursos, bens e valores públicos envolvidos. 
+	- **VII -** Os responsáveis pela aplicação de quaisquer recursos repassados pelo Estado, mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a Municípios ou a entidades dotadas de personalidade jurídica de direito privado que prestem serviços de interesse público ou social.
+
+4. **<span style="color:#d3869b">Sucessores e representantes do Estado</span>**
+
+	- **VIII -** Os sucessores dos administradores e responsáveis, **<span style="color:#fb4934">até o limite do valor do patrimônio transferido</span>**. 
+	- **IX -** Os representantes do Estado ou do poder público estadual na assembleia geral das empresas estatais e sociedades anônimas de cujo capital o Estado ou o poder público participe, **<span style="color:#fb4934">solidariamente com os membros dos conselhos fiscal e de administração</span>**, pela prática de atos de gestão ruinosa ou liberalidade à custa das respectivas sociedades.
+
+## **ART. 5º  RESPONSABILIDADE PELA PRESTAÇÃO DE CONTAS**
+
+Todo aquele que deva prestar contas ao Tribunal de Contas do Estado de Goiás é **<span style="color:#b8bb26">pessoalmente responsável</span>** pela exatidão das contas e apresentação dos relatórios, balanços e demonstrativos contábeis dos atos relativos à administração financeira e patrimonial da unidade administrativa sob a sua gestão.
