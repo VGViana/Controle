@@ -159,7 +159,7 @@ Por essa teoria, temos 3 tipos de necessidades:
 | **Instrumentalidade** | Crença de que o desempenho produzirá recompensa | Se eu tiver bom desempenho, serei recompensado? |
 | **Valência**          | Valor atribuído à recompensa                    | Essa recompensa é importante para mim?          |
 
-### Teoria do Reforço
+### Teoria do Reforço de Skinner
 
 Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determinadas experiências positivas ou negativas; o papel do gestor é incentivar condutas desejáveis e desestimular as não desejáveis. Os estímulos positivos se inclinariam a fortalecer o comportamento. Já os estímulos negativos tenderiam a desestimular o comportamento indesejado. Essa teoria divide-se em quatro posturas: reforços positivos, reforços negativos, punição e extinção.
 
