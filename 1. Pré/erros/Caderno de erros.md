@@ -138,6 +138,9 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ## Motivação 
 
+### Teoria das Necessidadades de Maslow
+
+![[screenshot_2026-11-05_11-44-41.png]]
 ### Teoria da Expectativa de Victor Vroom
 
 | **Conceito**          | **Significado**                                 | **Pergunta que representa**                     |
