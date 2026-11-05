@@ -1,8 +1,5 @@
 # **DA COMPETÊNCIA (Art. 1° ao 2°) [LOTCE GO](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86708/lei-16168)**
 
-- art. 1°: leitura completa de todos os incisos e parágrafos;
-- art. 2°: destaque a competência do TCE-GO para expedir atos normativos vincula os jurisdicionados;
-
 ## ART. 1º - COMPETÊNCIAS 
 
 O Tribunal de Contas do Estado de Goiás é **órgão de controle externo**, com competências estabelecidas nas Constituições Federal e Estadual e na Lei Orgânica.
