@@ -193,6 +193,17 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 
 ![[screenshot_2026-11-04_09-31-47.png]]
 
+### Culturas organizacionais apresentados por Goffee e Jones
+
+- **Fragmentado**: Interações sociais mínimas e pouco compromisso mútuo.
+
+- **Mercenário**: Forte compromisso com os objetivos organizacionais, interações sociais limitadas.
+
+- **Comunal**: Forte ênfase nas relações sociais e pessoais, compromisso menor com os objetivos organizacionais.
+
+- **Em rede**: Fortes relações sociais e alto grau de compromisso mútuo.
+
+![[screenshot_2026-11-05_12-01-23.png]]
 # AFO
 ## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
 
