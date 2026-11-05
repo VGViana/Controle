@@ -284,11 +284,18 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 - ARO e OC são permutativos
 
 # D ADM
-## Fases da Licitação (arts. 55 a 71 da 14.133)
+
+## Organização Administrativa
+### Terceiro Setor
+
+![[screenshot_2026-11-05_19-02-53.png]]
+
+## Licitações
+### Fases da Licitação (arts. 55 a 71 da 14.133)
 
 - O valor mínimo para que uma proposta não seja considerada inexequível é de 75% do valor orçado pela Administração
 - _será exigida **garantia adicional do licitante** vencedor cuja **proposta for inferior a 85% (oitenta e cinco por cento)** do **valor orçado pela Administração**, equivalente à **diferença entre este último e o valor da proposta**,_
-## Contratação Direta, Inexibilidade e Dispensa (arts. 72 a 75 da 14.133)
+### Contratação Direta, Inexibilidade e Dispensa (arts. 72 a 75 da 14.133)
 
 
 
