@@ -184,6 +184,15 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 ## PMBOK
 
 ![[screenshot_2026-11-02_11-21-15.png]]
+
+## Cultura Organizacional 
+
+### Tipologia de Quinn
+
+![[screenshot_2026-11-05_11-53-05.png]]
+
+![[screenshot_2026-11-04_09-31-47.png]]
+
 # AFO
 ## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
 
