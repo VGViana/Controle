@@ -141,6 +141,16 @@ Ambiente de tarefa = ambiente relacional ou transacional
 ### Teoria das Necessidadades de Maslow
 
 ![[screenshot_2026-11-05_11-44-41.png]]
+
+#### Teoria ERC de Aldefer
+
+**teoria ERC, de Aldefer, é mais dinâmica**, as pessoas sobem e descem dentro da hierarquia das necessidades, ou seja, por essa teoria, uma necessidade inferior pode ser ativada quando uma necessidade mais elevada não puder ser satisfeita e também salienta que mais de uma necessidade pode ser focalizada de uma única vez.
+
+Por essa teoria, temos 3 tipos de necessidades:
+
+1. **Necessidades de Existência**: são todas as formas de desejos fisiológicos fundamentais à sobrevivência (como fome e sede) e desejos materiais (como remuneração financeira, bonificação e segurança física).
+2. **Necessidades de Relacionamento**: dizem respeito ao desejo humano por relações interpessoais que se caracterizem pelo compartilhamento de pensamentos e sentimentos.
+3. **Necessidades de Crescimento**: são os desejos que a pessoa tem de causar efeitos criativos e produtivos sobre si próprio e sobre seu ambiente.
 ### Teoria da Expectativa de Victor Vroom
 
 | **Conceito**          | **Significado**                                 | **Pergunta que representa**                     |
