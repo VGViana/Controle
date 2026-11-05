@@ -136,6 +136,18 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ![[screenshot_2026-11-03_16-39-32.png]]
 
+## Motivação 
+
+### Teoria do Reforço
+
+Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determinadas experiências positivas ou negativas; o papel do gestor é incentivar condutas desejáveis e desestimular as não desejáveis. Os estímulos positivos se inclinariam a fortalecer o comportamento. Já os estímulos negativos tenderiam a desestimular o comportamento indesejado. Essa teoria divide-se em quatro posturas: reforços positivos, reforços negativos, punição e extinção.
+
+1. **Reforço positivo:** oferecer recompensa no momento em que se alcança um objetivo. por exemplo: prêmio por assiduidade ou produtividade. 
+2. **Reforço negativo:** remover uma consequência negativa na ocorrência de um ação desejada. Um exemplo seria um funcionário que se esforça para cumprir a meta e fugir de trabalhar no sábado. 
+3. **Punição**: praticar uma medida negativa na ocorrência de uma ação indesejada. Exemplo: desconto no salário devido ao atraso ou falta.  
+4. **Extinção:** retirada de uma recompensa positiva no momento em que ocorre uma ação indesejada. Exemplo: retirar o prêmio por assiduidade pelas faltas cometidas
+
+![[screenshot_2026-11-05_11-35-46.png]]
 
 ## PMO - Escritório de Projetos
 
