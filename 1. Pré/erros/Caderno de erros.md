@@ -290,6 +290,10 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 
 ![[screenshot_2026-11-05_19-02-53.png]]
 
+![[screenshot_2026-11-05_19-08-30.png]]
+
+
+
 ## Licitações
 ### Fases da Licitação (arts. 55 a 71 da 14.133)
 
