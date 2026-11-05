@@ -292,7 +292,12 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 
 ![[screenshot_2026-11-05_19-08-30.png]]
 
-
+> **CC-Art. 41**. São pessoas jurídicas de **direito público** interno: 
+> - I - a União; 
+> - II - os Estados, o Distrito Federal e os Territórios; 
+> - III - os Municípios; 
+> - IV - as **autarquias, inclusive as associações públicas;** (Redação dada pela Lei nº 11.107, de 2005) 
+> - V - as demais entidades de caráter público criadas por lei.
 
 ## Licitações
 ### Fases da Licitação (arts. 55 a 71 da 14.133)
