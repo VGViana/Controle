@@ -256,6 +256,14 @@ Existem dois tipos de trabalho:
 
 # CASP
 
+## NBC TSP 34 - Custos no Setor Público 
+
+|Método|O que faz|Quando usar|
+|---|---|---|
+|**Custeio por absorção integral** ✅|Inclui todos os custos (fixos + variáveis)|Para comparar **objetos de custo finais** entre **entidades**|
+|**Custeio variável**|Considera apenas custos variáveis|Análises gerenciais e decisões internas|
+|**Custeio baseado em atividades (ABC)**|Aloca custos conforme as **atividades** que consomem recursos|Entidades com **maior maturidade**, foco em **custos indiretos**|
+
 ## Variações Patrimoniais
 
 - O **<span style="color:#83a598">recebimento de dinheiro em doação</span>**, sem condições atreladas a ela, gera o **<span style="color:#83a598">reconhecimento de uma receita orçamentária</span>** - transferências correntes e de uma **<span style="color:#83a598">VPA resultante da execução orçamentária</span>**.
