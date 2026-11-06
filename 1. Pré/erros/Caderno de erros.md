@@ -228,6 +228,28 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 | **Conclusão**           | corresponde ao desfecho do relatório, quando os profissionais de auditoria governamental emitirão suas opiniões finais, de forma resumida, sobre o objeto auditado, com base no conteúdo exposto ao longo do relatório.                                    |
 | **Recomendação**        | sugestão proposta pelo profissional de auditoria governamental para a regularização da situação encontrada, se aplicável.                                                                                                                                  |
 
+## Classificação dos Tipos de Auditoria
+
+- **<span style="color:#83a598">Testes substantivos</span>** são usados principalmente em **<span style="color:#83a598">trabalhos de certificação</span>** e **sempre** devem ser **incluídos como uma técnica de auditoria em tais trabalhos**
+
+### **Tipos de trabalho**
+
+Existem dois tipos de trabalho:
+
+- **<span style="color:#fb4934">Nos trabalhos de certificação</span>**
+
+	- A **<span style="color:#fb4934">parte responsável</span>** **mensura o objeto** de acordo com os **critérios e apresenta** a informação do objeto, sobre a qual o auditor então obtém evidência de auditoria suficiente e apropriada para proporcionar uma base razoável para expressar uma conclusão.
+
+- **Nos trabalhos de <span style="color:#83a598">relatório direto</span>**
+
+	- É o **<span style="color:#83a598">auditor quem</span>** **mensura ou avalia o objeto** de acordo com os critérios. O auditor seleciona o objeto e os critérios, **<span style="color:#83a598">levando em consideração risco e materialidade</span>**. O resultado da mensuração do objeto, de acordo com os critérios, é apresentado no relatório de auditoria na **forma de achados, conclusões, recomendações ou de uma opinião**. A auditoria do objeto pode também **proporcionar novas informações, análises ou novas perspectivas**.
+
+- As **==auditorias financeiras==** são **<span style="color:#fb4934">sempre trabalhos de certificação</span>**, uma vez que são baseadas em **informações financeiras** apresentadas pela **parte responsável.** 
+
+- As **==auditorias operacionais==** são, **normalmente**, **<span style="color:#fb4934">trabalhos de relatório direto</span>.**
+
+- As **==auditorias de conformidade==** **podem** ser **<span style="color:#fb4934">trabalhos de certificação, de relatório direto</span>** ou **ambos ao mesmo tempo.**
+
 
 # CASP
 
