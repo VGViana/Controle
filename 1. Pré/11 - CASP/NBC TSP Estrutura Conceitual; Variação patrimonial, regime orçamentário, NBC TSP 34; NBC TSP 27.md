@@ -494,6 +494,28 @@ Os **principais usuários da informação de custos são os <span style="color:
 
 ❗Se a frequência ou a tempestividade (ter informação disponível para os usuários antes que ela perca a sua capacidade de ser útil) da informação impuser **<span style="color:#fb4934">custo superior ao seu benefício</span>** (a informação contábil impõe custos, e seus benefícios devem justificá-lo), **<span style="color:#fb4934">não deve ser gerada</span>**. 
 
+## 12.3. SISTEMAS PARA ACUMULAÇÃO DE CUSTOS
+
+_A NBC TSP 34, assim como a teoria de custos em geral, apresenta dois principais sistemas para acumular os custos:_
+
+
+| Sistema                                                         | Ideal para                                                                                                                        | Como funciona                                                                                                                                                                                             | Exemplos                                                                                                                                               |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Acumulação por Ordem de Serviço ou Produção (Job Order Costing) | Produtos, serviços ou projetos que são **únicos, distintos e facilmente identificáveis**. Pense em algo que não é feito em massa. | Os custos (material, mão de obra, etc.) são coletados e acumulados para cada "ordem" ou "trabalho" específico. Cada projeto tem sua própria "conta" de custos.                                            | Construir um prédio, fabricar um iate sob medida, realizar uma auditoria específica, consertar um veículo.                                             |
+| Acumulação por Processo (Process Costing)                       | Produção **contínua e em massa** de produtos ou serviços **homogêneos (idênticos)**.                                              | Os custos são acumulados para um departamento ou processo durante um período (ex: um mês). Depois, esse custo total é dividido pela quantidade total produzida para encontrar um custo médio por unidade. | Refinar petróleo, fabricar refrigerantes, prestar serviço de coleta de lixo (uma tonelada é igual a outra para fins de custo), gerar energia elétrica. |
+
+_Agora, vamos analisar as opções com base nesses conceitos:_
+
+- _**A) Construção de uma escola:** Este é um **projeto único e específico**. Tem um início e um fim claros. Todos os custos com materiais, mão de obra e equipamentos podem ser diretamente rastreados e acumulados para _essa obra específica_. **É o exemplo perfeito de acumulação por ordem de serviço.**_
+    
+- _**B) Coleta diária de lixo:** É um serviço **contínuo, repetitivo e homogêneo**. Não se calcula o custo para coletar o lixo de uma casa específica, mas sim o custo médio por tonelada ou por região ao longo de um mês. Isso é acumulação por processo._
+    
+- _**C) e D) Transporte escolar:** É um serviço **contínuo e permanente** durante o ano letivo. Os custos são acumulados para o período e depois divididos pelo número de alunos ou escolas para achar um custo médio. Isso é acumulação por processo._
+    
+- _**E) Fabricação ininterrupta de medicamentos padronizados:** A própria descrição ("ininterrupta", "padronizados") entrega que se trata de uma **produção em massa e contínua**. Isso é acumulação por processo._
+    
+
+_Portanto, a única situação que se encaixa no sistema de acumulação por ordem de serviço é a **construção da escola**._
 # **13. DECRETO 10.540/2020**
 
 ## **13.1.CONCEITO**
