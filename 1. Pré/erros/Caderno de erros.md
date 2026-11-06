@@ -379,6 +379,7 @@ Traduzindo:
 Os direitos e garantias fundamentais consagrados pela Constituição Federal não são ilimitados, encontrando seus limites nos demais direitos igualmente consagrados pelo texto constitucional. Tal afirmação corresponde ao princípio da convivência das liberdades públicas.
 
 - Direito constitucional de **<span style="color:#fb4934">resistência</span>** ---> princípio do **<span style="color:#fb4934">não retrocesso</span>** social
+- **<span style="color:#fb4934">Proibição de proteção insuficiente</span>** é considerado pela doutrina como **<span style="color:#fb4934">(sub)princípio</span>** derivado do princípio da **<span style="color:#fb4934">proporcionalidade</span>**
 ## Dos Servidores Públicos (arts. 39 a 41 da CF)
 
 [Questão de referência](https://www.tecconcursos.com.br/questoes/3362859)
