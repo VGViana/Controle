@@ -231,6 +231,9 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 ## Classificação dos Tipos de Auditoria
 
 - **<span style="color:#83a598">Testes substantivos</span>** são usados principalmente em **<span style="color:#83a598">trabalhos de certificação</span>** e **sempre** devem ser **incluídos como uma técnica de auditoria em tais trabalhos**
+## Auditoria de Regularidade 
+
+- **<span style="color:#b8bb26">Materialidade</span>:** fator utilizado na priorização dos trabalhos da auditoria embasada em riscos que está relacionado ao **<span style="color:#b8bb26">montante de recursos financeiros envolvidos</span>**
 
 ### **Tipos de trabalho**
 
