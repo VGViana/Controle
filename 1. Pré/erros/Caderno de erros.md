@@ -205,16 +205,16 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 
 ![[screenshot_2026-11-05_12-01-23.png]]
 # AFO
-## Planejamento e Orçamento Público(arts. 3º a 10 da LRF)
-
-![[Controle/2. TCE-GO/erros/Caderno de erros.png]]
-
-
 ## Definições, Limites e Recondução da Dívida (arts. 29 a 31 da LRF)
 
-![[Controle/2. TCE-GO/erros/Caderno de erros-2.png]]
-
 ![[Caderno de erros-3.png]]
+
+# AUD GOV
+
+## Metodologia de Auditoria (ISSAI 1, seção 13; NAGs 4100)
+
+- A ISSAI 100 é clara: **<span style="color:#83a598">só pode haver declaração de conformidade</span>** com os Princípios Fundamentais de Auditoria (ISSAIs 100-999) se a norma adotada cumprir todos os **<span style="color:#83a598">princípios relevantes</span>** para aquele trabalho.
+
 
 # CASP
 
