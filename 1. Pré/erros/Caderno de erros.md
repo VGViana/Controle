@@ -256,6 +256,11 @@ Existem dois tipos de trabalho:
 
 # CASP
 
+## Patrimônio Público 
+
+- São elementos das DC's: 
+
+![[screenshot_2026-11-06_16-09-47.png]]
 ## NBC TSP 34 - Custos no Setor Público 
 
 |Método|O que faz|Quando usar|
