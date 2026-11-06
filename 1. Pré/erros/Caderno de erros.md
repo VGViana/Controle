@@ -359,8 +359,14 @@ Existem dois tipos de trabalho:
 - _será exigida **garantia adicional do licitante** vencedor cuja **proposta for inferior a 85% (oitenta e cinco por cento)** do **valor orçado pela Administração**, equivalente à **diferença entre este último e o valor da proposta**,_
 ### Contratação Direta, Inexibilidade e Dispensa (arts. 72 a 75 da 14.133)
 
+### Execução dos Contratos (arts. 115 a 123)
 
+> _§ 5º Em caso de **impedimento**, **ordem de paralisação** ou **suspensão** do contrato, o cronograma de execução **será prorrogado automaticamente** pelo tempo correspondente, anotadas tais circunstâncias **mediante simples apostila**._
 
+Traduzindo:  
+- Parou por 2 meses: o contrato ganha +2 meses no final
+- Parou por 10 dias: ganha +10 dias
+- **Apostila** é uma forma simples de registrar alterações no contrato **sem precisar fazer um termo aditivo**.
 # LEG
 ## Lei nº 13.869/2019 - Lei de Abuso de Autoridade
 
