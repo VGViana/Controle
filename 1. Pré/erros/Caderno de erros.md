@@ -357,8 +357,10 @@ Existem dois tipos de trabalho:
 
 - O valor mínimo para que uma proposta não seja considerada inexequível é de 75% do valor orçado pela Administração
 - _será exigida **garantia adicional do licitante** vencedor cuja **proposta for inferior a 85% (oitenta e cinco por cento)** do **valor orçado pela Administração**, equivalente à **diferença entre este último e o valor da proposta**,_
-### Contratação Direta, Inexibilidade e Dispensa (arts. 72 a 75 da 14.133)
 
+### Conceitos e Características dos Contratos Administrativos, Formalização dos Contratos (arts. 89 a 95)
+
+A doutrina jusadministrativa contemporânea, **<span style="color:#83a598">contratos complexos e de duração prolongada</span>**, como os de **<span style="color:#83a598">parceria público-privada e concessão de serviços</span>** públicos, passaram a ser estudados como exemplos de contratos **<span style="color:#83a598">incompletos</span>**, pois precisam ser complementados conforme as circunstâncias que se apresentarem no decorrer da relação contratual.
 ### Execução dos Contratos (arts. 115 a 123)
 
 > _§ 5º Em caso de **impedimento**, **ordem de paralisação** ou **suspensão** do contrato, o cronograma de execução **será prorrogado automaticamente** pelo tempo correspondente, anotadas tais circunstâncias **mediante simples apostila**._
