@@ -371,6 +371,14 @@ Traduzindo:
 - **Apostila** é uma forma simples de registrar alterações no contrato **sem precisar fazer um termo aditivo**.
 # D CONST
 
+## Características dos Direitos Fundamentais
+
+-  dimensão subjetiva -> Sujeito
+- dimensão objetiva -> Irradia por todo ordenamento
+
+Os direitos e garantias fundamentais consagrados pela Constituição Federal não são ilimitados, encontrando seus limites nos demais direitos igualmente consagrados pelo texto constitucional. Tal afirmação corresponde ao princípio da convivência das liberdades públicas.
+
+- Direito constitucional de **<span style="color:#fb4934">resistência</span>** ---> princípio do **<span style="color:#fb4934">não retrocesso</span>** social
 ## Dos Servidores Públicos (arts. 39 a 41 da CF)
 
 [Questão de referência](https://www.tecconcursos.com.br/questoes/3362859)
