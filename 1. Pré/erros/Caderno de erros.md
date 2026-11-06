@@ -268,7 +268,9 @@ Existem dois tipos de trabalho:
 - **<u>Execução</u>** de atos potenciais = Classe 8 do PCASP
 -  O reconhecimento de um **<span style="color:#fb4934">depósito em caução em dinheiro</span>** **<span style="color:#fb4934">recebido</span>** = classes 1 e 2 e o passivo reconhecido é **<span style="color:#fb4934">financeiro</span>**. 
 	- **<span style="color:#fb4934"><u>Caução pode ser tudo, menos 5 e 6</u></span>**
-- Custos é natureza da informação de controle, Desc.Fin. obtidos é patrimonial e Previsão da receita é orçamentária	
+- Custos é natureza da informação de controle, 
+- Desc.Fin. obtidos é patrimonial 
+- Previsão da receita é orçamentária	
 - **<span style="color:#83a598">Inscrição de Restos a Pagar</span>** pertence à classe Controles da ~~Execução~~ **<span style="color:#83a598">Aprovação do Planejamento e Orçamento</span>**
 
 ![[5° Nível (Subtítulo) - Consolidação.png]]
