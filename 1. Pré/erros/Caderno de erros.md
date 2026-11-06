@@ -215,6 +215,19 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 
 - A ISSAI 100 é clara: **<span style="color:#83a598">só pode haver declaração de conformidade</span>** com os Princípios Fundamentais de Auditoria (ISSAIs 100-999) se a norma adotada cumprir todos os **<span style="color:#83a598">princípios relevantes</span>** para aquele trabalho.
 
+- A metodologia, ao estabelecer o fluxo de informações para orientar as etapas da auditoria governamental, deve fazê-lo de acordo com a definição dos seguintes elementos:
+
+
+| Elementos               | Descrição                                                                                                                                                                                                                                                  |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Condição                | é o que o auditor encontrou na prática, ou seja, o que realmente está acontecendo.                                                                                                                                                                         |
+| Critério                | é a regra, norma ou padrão que deveria estar sendo seguido.                                                                                                                                                                                                |
+| Causa                   | é o motivo ou razão do problema ter acontecido.                                                                                                                                                                                                            |
+| Efeito                  | é a consequência do problema — o prejuízo ou impacto causado.                                                                                                                                                                                              |
+| **Opinião do auditado** | profissional de auditoria governamental deve considerar, também, na análise das informações obtidas, a opinião do auditado acerca dos achados constatados e das recomendações propostas pela auditoria, para, então, proceder à conclusão sobre o assunto. |
+| **Conclusão**           | corresponde ao desfecho do relatório, quando os profissionais de auditoria governamental emitirão suas opiniões finais, de forma resumida, sobre o objeto auditado, com base no conteúdo exposto ao longo do relatório.                                    |
+| **Recomendação**        | sugestão proposta pelo profissional de auditoria governamental para a regularização da situação encontrada, se aplicável.                                                                                                                                  |
+
 
 # CASP
 
