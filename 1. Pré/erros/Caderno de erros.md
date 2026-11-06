@@ -369,6 +369,20 @@ Traduzindo:
 - Parou por 2 meses: o contrato ganha +2 meses no final
 - Parou por 10 dias: ganha +10 dias
 - **Apostila** é uma forma simples de registrar alterações no contrato **sem precisar fazer um termo aditivo**.
+# D CONST
+
+## Dos Servidores Públicos (arts. 39 a 41 da CF)
+
+[Questão de referência](https://www.tecconcursos.com.br/questoes/3362859)
+> art. 40
+§ 4º-C. Poderão ser estabelecidos por **lei complementar do respectivo ente federativo** **idade e tempo de contribuição diferenciados** para aposentadoria de servidores cujas **atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde**, ou associação desses agentes, **vedada a caracterização por categoria profissional ou ocupação**.
+>
+§ 19. Observados **critérios a serem estabelecidos em lei** do respectivo ente federativo, o servidor titular de cargo efetivo que tenha completado as exigências para a aposentadoria voluntária e que opte por permanecer em atividade poderá fazer jus a um abono de permanência equivalente, no máximo, ao valor da sua contribuição previdenciária, até completar a idade para aposentadoria compulsória.
+
+- **Aposentadoria Especial** (PCD, Policial, Risco à Saúde): Exige **Lei Complementar** do ente (Município/Estado/União).
+- **Abono de Permanência:** Exige apenas **Lei** (Ordinária) do ente.
+- **Regras Gerais de Organização:** Essas sim são por **Lei Complementar Federal** (Art. 40, § 22).
+
 # LEG
 ## Lei nº 13.869/2019 - Lei de Abuso de Autoridade
 
