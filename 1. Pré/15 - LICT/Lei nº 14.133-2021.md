@@ -1636,13 +1636,13 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 
 - **Unilateral** (Própria administração pública); **<span style="color:#fb4934">(Cláusula Exorbitante)</span>**
 - **Consensual** (Tanto Administração quanto o contratado):
-
+- **Determinação arbitral ou judicial**
 	1. acordo entre as partes;
 	2. conciliação;
 	3. mediação; ou
 	4. comitê de resolução de disputas;
 
-- **Determinação arbitral ou judicial**
+![[screenshot_2026-11-07_11-32-37.png]]
 
 **🚨<u>Quando a culpa é da administração</u>,** o contratado tem direito a ressarcimento de prejuízos, devolução de garantia e pagamentos pela execução até o momento da extinção.
 
@@ -1659,11 +1659,7 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 
 Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.cegesp.com/copia-contratos-adm-aula-01-1)
 
-## 14.1. Meios Alternativos de Resolução de Controvérsias 
 
-> _Art. 151. Nas contratações regidas por esta Lei, **poderão ser utilizados meios alternativos de prevenção e resolução de controvérsias, notadamente a conciliação, a mediação, o comitê de resolução de disputas e a arbitragem**._
-
-![[screenshot_2026-11-07_11-32-37.png]]
 
 # **15. Recebimento do Objeto**
 
