@@ -1655,6 +1655,8 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 > - **atraso superior a <span style="color:#fb4934">2 (dois) meses,</span>** contado da emissão da nota fiscal, dos pagamentos ou de parcelas de pagamentos devidos pela Administração por despesas de obras, serviços ou fornecimentos; 
 > - **<span style="color:#fb4934">não</span>** liberação pela Administração, nos prazos contratuais, de área, local ou objeto, para execução de obra, serviço ou fornecimento, e de fontes de materiais naturais especificadas no projeto, **inclusive** devido a atraso ou descumprimento das obrigações atribuídas pelo contrato à Administração relacionadas a desapropriação, a desocupação de áreas públicas ou a licenciamento ambiental.
 
+![[screenshot_2026-11-07_11-41-51.png]]
+
 ![Contratos-Adm.-Aula](https://static.wixstatic.com/media/9949ab_8e7ea422d2464923a16b7af053dc29bc~mv2.gif)
 
 Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.cegesp.com/copia-contratos-adm-aula-01-1)
