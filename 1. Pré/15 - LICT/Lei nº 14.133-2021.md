@@ -1694,3 +1694,5 @@ Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.ceges
 	9. fechamento de postos de trabalho diretos e indiretos em razão da paralisação;
 	10. custo para realização de **<span style="color:#b8bb26">nova licitação ou celebração de novo contrato</span>**;
 	11. custo de **<span style="color:#b8bb26">oportunidade</span>** do capital durante o período de paralisação.
+
+![[screenshot_2026-11-07_11-35-53.png]]
