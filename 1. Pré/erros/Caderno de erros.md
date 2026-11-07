@@ -401,3 +401,6 @@ Os direitos e garantias fundamentais consagrados pela Constituição Federal nã
 | Inabilitação | Suspensão   |
 | ------------ | ----------- |
 | 1 - 5 anos   | 1 - 6 meses |
+
+
+
