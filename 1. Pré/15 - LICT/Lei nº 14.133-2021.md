@@ -1659,6 +1659,12 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 
 Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.cegesp.com/copia-contratos-adm-aula-01-1)
 
+## 14.1. Meios Alternativos de Resolução de Controvérsias 
+
+> _Art. 151. Nas contratações regidas por esta Lei, **poderão ser utilizados meios alternativos de prevenção e resolução de controvérsias, notadamente a conciliação, a mediação, o comitê de resolução de disputas e a arbitragem**._
+
+![[screenshot_2026-11-07_11-32-37.png]]
+
 # **15. Recebimento do Objeto**
 
 - Obras e Serviços:
