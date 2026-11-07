@@ -1,3 +1,5 @@
+![[mermaid-diagram.png]]
+
 # ADGE 
 ## Teoria Estruturalista 
 
