@@ -1637,10 +1637,10 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 - **Unilateral** (Própria administração pública); **<span style="color:#fb4934">(Cláusula Exorbitante)</span>**
 - **Consensual** (Tanto Administração quanto o contratado):
 
-1. acordo entre as partes;
-2. conciliação;
-3. mediação; ou
-4. comitê de resolução de disputas;
+	1. acordo entre as partes;
+	2. conciliação;
+	3. mediação; ou
+	4. comitê de resolução de disputas;
 
 - **Determinação arbitral ou judicial**
 
