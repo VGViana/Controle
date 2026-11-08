@@ -62,12 +62,14 @@ A estrutura argumentativa tem quatro elementos:
 3. **Tese** — opinião/posição que o candidato assume sobre o tema; é o objetivo central do texto.
 4. **Tópicos** — linhas de argumentação que serão desenvolvidas para sustentar a tese.
 
+![[Redação TCE-GO.png]]
 A estrutura formal, por sua vez, contém:
 
 - **Introdução** — apresenta o assunto/tema e, obrigatoriamente, a tese.
 - **Desenvolvimento** — sustenta a tese por meio dos tópicos e argumentos.
 - **Conclusão** — retoma e reforça a tese, sem abrir uma nova discussão.
 
+![[Redação TCE-GO-1.png]]
 > [!note] Distinção fundamental
 > **Assunto não é tema; tema não é tese.** O assunto é amplo, o tema delimita o debate e a tese é a resposta/posição que você formulará.
 

@@ -124,11 +124,10 @@ Consiste na defesa de ideias gerais por meio de argumentos consistentes
 
 ## Estrutura argumentativa
 
-![[Redação TCE-GO.png]]
 
 ## Estrutura Formal
 
-![[Redação TCE-GO-1.png]]
+
 
 ## Relação entre estrutura formal e argumentativa
 
