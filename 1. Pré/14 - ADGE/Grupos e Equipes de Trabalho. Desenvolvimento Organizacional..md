@@ -101,7 +101,7 @@ Esse tipo de comportamento pode ser muito prejudicial porque, na superfície, pa
 
 - **Conformidade Imperfeita**: Tentativa de aderir às normas, mas de maneira incompleta ou inconsistente, sem intenção de desafiar.
 - **Disfunção Normativa**: Normas contraditórias ou ineficazes, levando a comportamentos confusos e prejudiciais.
-- **Revolução Explícita**: Rejeição aberta e confrontacional das normas centrais.
+- **Revolução Explícita ou Total**: Rejeição aberta e confrontacional das normas centrais.
 - **Rebelião Subversiva**: Aceitação superficial das normas periféricas, mas rejeição disfarçada das normas centrais, minando a autoridade.
 - **Individualismo Criativo**: Desafio a normas periféricas em busca de inovação, sem prejudicar as normas centrais
 
