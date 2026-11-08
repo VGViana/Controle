@@ -161,6 +161,7 @@ Segundo Edgar Schein, um especialista em cultura organizacional, esse comportame
 | **Reativa × Proativa**         | Resposta ao ambiente × antecipação às mudanças.              |
 | **Top-down × Bottom-up**       | Cima para baixo × baixo para cima.                           |
 
+![[screenshot_2026-11-08_13-02-39.png]]
 ### **3. Processo de mudança**
 
 - **Kurt Lewin — 3 fases:**
