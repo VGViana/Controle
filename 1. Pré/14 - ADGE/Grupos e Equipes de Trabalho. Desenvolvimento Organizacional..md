@@ -93,7 +93,9 @@
 
 ### 5. Aceitação das normas de Edgar Schein
 
-Segundo Edgar Schein, um especialista em cultura organizacional, esse comportamento surge quando os indivíduos discordam dos valores centrais, mas optam por não expressar abertamente suas discordâncias. Em vez disso, eles agem de forma passiva, sabotando discretamente ou enfraquecendo a estrutura organizacional. Esse tipo de comportamento pode ser muito prejudicial porque, na superfície, parece que tudo está em ordem, mas, na prática, há uma resistência silenciosa às normas mais importantes.
+Segundo Edgar Schein, um especialista em cultura organizacional, esse comportamento surge quando os indivíduos discordam dos valores centrais, mas optam por não expressar abertamente suas discordâncias. Em vez disso, eles agem de forma passiva, sabotando discretamente ou enfraquecendo a estrutura organizacional. 
+
+Esse tipo de comportamento pode ser muito prejudicial porque, na superfície, parece que tudo está em ordem, mas, na prática, há uma resistência silenciosa às normas mais importantes.
 
 #### Resultados da aceitação 
 
