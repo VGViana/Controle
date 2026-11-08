@@ -15,20 +15,6 @@ status: material-base
 ---
 # Redação FCC — Guia completo de discursiva
 
-
-> [!info] Como usar as cores e marcações
-> - <span style="color:#d97706"><strong>Laranja</strong></span>: assunto e contextualização.
-> - <span style="color:#0ea5e9"><strong>Azul</strong></span>: tema/recorte.
-> - <span style="color:#dc2626"><strong>Vermelho</strong></span>: tese (posição defendida).
-> - <span style="color:#16a34a"><strong>Verde</strong></span>: tópicos/argumentos.
-> - <span style="color:#9333ea"><strong>Roxo</strong></span>: conectivos e articulação.
-> - **Negrito**: regra, conceito ou alerta central.
-> - `[[...]]`: sugestão de ligação com outras notas do Obsidian.
->
-> As cores em HTML podem variar conforme o tema e o plugin de renderização. As marcações `[!...]` são callouts nativos do Obsidian.
-
----
-
 ## 1. Visão geral: o que a FCC quer avaliar
 
 A redação da FCC é um **texto dissertativo-argumentativo autoral**, construído a partir de argumentos relevantes e coerentes para defender um ponto de vista. Os temas normalmente se relacionam à atualidade e à sociedade; não necessariamente exigem conhecimento específico do cargo.
@@ -1054,41 +1040,3 @@ O material enfatiza que a leitura dos módulos, sozinha, não consolida a técni
 - A conclusão fecha a discussão e não inaugura outra.
 - Clareza e precisão valem mais que palavras difíceis.
 - Treino escrito é indispensável.
-
----
-
-## 16. Fontes utilizadas e limites desta nota
-
-Material-base: nove PDFs enviados nesta conversa, todos do curso de discursiva do professor **Bruno Pinheiro Marques / Você Concursado**:
-
-1. `Modulo_1_-_FCC_-_Redacao_revisado.pdf` — Discursiva: visão da banca / FCC — Redação.
-2. `Modulo-Rascunho-Eficiente-Contextualizacao-revisado.pdf` — Rascunho eficiente: contextualização e método.
-3. `Rascunho-Eficiente-na-Pratica-Textos-COM-introducao-e-conclusao.pdf` — Aplicação prática do rascunho eficiente.
-4. `Como montar um parágrafo de introdução?.pdf` — Introdução.
-5. `Como-montar-o-paragrafo-de-desenvolvimento-PDF.pdf` — Desenvolvimento.
-6. `Como-montar-um-paragrafo-de-conclusao-PDF.pdf` — Conclusão.
-7. `Modulo-Argumentos-curingas-FCC.pdf` — Argumentos curingas para redação.
-8. `Modulo-Extra-Modelo-Curinga-PDF.pdf` — Modelo curinga.
-9. `Modulo_-_Principais_erros_gramaticais-revisado.pdf` — Principais erros gramaticais.
-
-> [!info] Delimitação e fidelidade
-> Esta nota sintetiza e reorganiza as orientações identificadas nos materiais. Não é uma reprodução literal dos PDFs. Onde há inconsistência de transcrição ou de cálculo no texto extraído, isso foi sinalizado em vez de corrigido silenciosamente. A seção de História do Brasil foi resumida em nível de eixos porque a extração consultada não apresentou integralmente todos os exemplos dessa parte. Para temas de atualidades, legislação ou dados concretos, atualize e confira a fonte antes de usar na prova.
-
----
-
-## 17. Integração com seu estudo
-
-Para a preparação do **TCE/GO — Técnico Administrativo**, o planejamento ativo no Guruja está vinculado à FCC e a disciplina de discursiva aparece como redação. A redação tem peso próprio na prova do concurso, conforme o edital disponibilizado no planejamento; por isso, vale tratar a preparação discursiva como uma frente contínua, separada do estudo de conteúdo objetivo.
-
-Use esta nota como base teórica e crie notas-filhas para:
-
-- [[Temas de redação FCC]]
-- [[Banco de teses e argumentos]]
-- [[Repertório constitucional para discursivas]]
-- [[Pensadores para redação]]
-- [[Conectivos e coesão]]
-- [[Erros recorrentes nas minhas redações]]
-- [[Redações corrigidas — TCE GO]]
-
-> [!tip] Método de revisão
-> Após cada redação, registre no Obsidian: tema, tese defendida, tópicos, argumentos usados, erros apontados e uma ação concreta de melhoria. Assim, esta nota deixa de ser apenas um resumo e passa a funcionar como manual de execução e histórico de evolução.
