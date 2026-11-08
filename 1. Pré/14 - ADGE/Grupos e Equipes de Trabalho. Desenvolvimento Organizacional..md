@@ -126,6 +126,16 @@ Segundo Edgar Schein, um especialista em cultura organizacional, esse comportame
 | Habilidades Aleatórias e Variadas                                                                                                               | Habilidades **<span style="color:#b8bb26">COMPLEMENTARES</span>** |
 | Liderança verticalizada                                                                                                                         | Liderança compartilhada                                           |
 
+### 1. Papéis Básicos em equipes
+
+| Papel                                          | Definição                                                                         |
+| ---------------------------------------------- | --------------------------------------------------------------------------------- |
+| <span style="color:#83a598">Produtor</span>    | mostra a **<span style="color:#83a598">direção</span>** e os caminhos às ações    |
+| <span style="color:#fe8019">Promotor</span>    | **<span style="color:#fe8019">defende as ideias</span>** depois de introduzidas   |
+| <span style="color:#b8bb26">Conselheiro</span> | estimula a **<span style="color:#b8bb26">busca de informações</span>** adicionais |
+| <span style="color:#fb4934">Mantenedor</span>  | <span style="color:#fb4934">luta em batalhas externas</span>                      |
+
+
 # **MUDANÇA ORGANIZACIONAL**
 
 ### **1. Tipos de mudança organizacional**
