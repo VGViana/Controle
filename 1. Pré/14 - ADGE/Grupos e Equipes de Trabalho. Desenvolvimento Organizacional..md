@@ -104,6 +104,10 @@ Segundo Edgar Schein, um especialista em cultura organizacional, esse comportame
 - **Individualismo Criativo**: Desafio a normas periféricas em busca de inovação, sem prejudicar as normas centrais
 
 ![[screenshot_2026-11-08_12-46-22.png]]
+
+### 6. **Tipologia de desvios de comportamento no ambiente de trabalho**
+
+![[screenshot_2026-11-08_12-55-43.png]]
 ## **EQUIPES DE TRABALHO**
 
 - Conjunto de dois ou mais indivíduos com habilidades complementares, e que trabalham em conjunto para alcançar um **<span style="color:#b8bb26">objetivo COMUM</span>**.
