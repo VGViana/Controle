@@ -17,12 +17,7 @@ status: material-base
 
 ## 1. Visão geral: o que a FCC quer avaliar
 
-A redação da FCC é um **texto dissertativo-argumentativo autoral**, construído a partir de argumentos relevantes e coerentes para defender um ponto de vista. Os temas normalmente se relacionam à atualidade e à sociedade; não necessariamente exigem conhecimento específico do cargo.
-
 A nota alta não depende de escrever de modo rebuscado. Depende de **compreender o recorte, assumir uma tese, desenvolver argumentos pertinentes, construir progressão lógica e escrever com correção**.
-
-> [!warning] Atenção à modalidade
-> A FCC trabalha com modalidades distintas: **Discursiva-Redação**, **Estudo de Caso** e **Discursiva**. Os critérios e os espelhos podem ser diferentes. Este guia trata da **Discursiva-Redação**, não deve ser aplicado automaticamente a estudo de caso ou a questões técnicas.
 
 ### 1.1. Espelho de correção apresentado no módulo
 
