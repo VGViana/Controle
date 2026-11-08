@@ -91,6 +91,19 @@
     - Pode haver domínio de um único indivíduo ou subgrupo
     - Geram ambiguidade da responsabilidade
 
+### 5. Aceitação das normas de Edgar Schein
+
+Segundo Edgar Schein, um especialista em cultura organizacional, esse comportamento surge quando os indivíduos discordam dos valores centrais, mas optam por não expressar abertamente suas discordâncias. Em vez disso, eles agem de forma passiva, sabotando discretamente ou enfraquecendo a estrutura organizacional. Esse tipo de comportamento pode ser muito prejudicial porque, na superfície, parece que tudo está em ordem, mas, na prática, há uma resistência silenciosa às normas mais importantes.
+
+#### Resultados da aceitação 
+
+- **Conformidade Imperfeita**: Tentativa de aderir às normas, mas de maneira incompleta ou inconsistente, sem intenção de desafiar.
+- **Disfunção Normativa**: Normas contraditórias ou ineficazes, levando a comportamentos confusos e prejudiciais.
+- **Revolução Explícita**: Rejeição aberta e confrontacional das normas centrais.
+- **Rebelião Subversiva**: Aceitação superficial das normas periféricas, mas rejeição disfarçada das normas centrais, minando a autoridade.
+- **Individualismo Criativo**: Desafio a normas periféricas em busca de inovação, sem prejudicar as normas centrais
+
+![[screenshot_2026-11-08_12-46-22.png]]
 ## **EQUIPES DE TRABALHO**
 
 - Conjunto de dois ou mais indivíduos com habilidades complementares, e que trabalham em conjunto para alcançar um **<span style="color:#b8bb26">objetivo COMUM</span>**.
