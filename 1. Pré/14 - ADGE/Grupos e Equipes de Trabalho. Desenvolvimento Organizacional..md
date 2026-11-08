@@ -203,6 +203,7 @@ Segundo Edgar Schein, um especialista em cultura organizacional, esse comportame
 |Mudança **planejada**, com valorização das pessoas e dos grupos.|Mudança **radical**, com foco nos processos.|
 |Busca aumentar a eficácia organizacional.|Reconstrução total dos processos; **parte do zero**.|
 
+- T - Groups: encontros estruturados em que os participantes são encorajados a compartilhar abertamente suas percepções, sentimentos e experiências". Grosseiramente, **T**- Groups = Grupos de **T**erapia Coletiva
 ### **6. Mudança × Criatividade × Inovação**
 
 - **Mudança:** passagem de um estado para outro.
