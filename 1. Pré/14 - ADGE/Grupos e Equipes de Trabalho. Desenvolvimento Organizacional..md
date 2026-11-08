@@ -182,6 +182,7 @@
 - **Organizacionais:** inércia estrutural, foco limitado, inércia de grupo e ameaças à especialização, ao poder e aos recursos.
     
 
+![[screenshot_2026-11-08_12-29-39.png]]
 ### **5. Desenvolvimento Organizacional × Reengenharia**
 
 |Desenvolvimento Organizacional (DO)|Reengenharia|

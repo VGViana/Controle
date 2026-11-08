@@ -137,7 +137,7 @@ d) Deve adotar um sistema democrático formal. 
 
 **🚨Vale reforçar que uma Norma Constitucional pode ter <u>mais de uma</u> aplicabilidade:**
 
-- - **Ex: art. 5˚, XLII, da CF/88 -** "a prática do racismo constitui crime inafiançável e imprescritível **<u>(eficácia plena)</u>** sujeito à pena de reclusão, nos termos da lei **<u>(eficácia limitada de. princípio programático)</u>**
+- **Ex: art. 5˚, XLII, da CF/88 -** "a prática do racismo constitui crime inafiançável e imprescritível **<u>(eficácia plena)</u>** sujeito à pena de reclusão, nos termos da lei **<u>(eficácia limitada de. princípio programático)</u>**
 
 # **4. Direitos Fundamentais**
 
