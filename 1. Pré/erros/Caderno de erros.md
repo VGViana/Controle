@@ -373,6 +373,8 @@ Existem dois tipos de trabalho:
 
 ![[screenshot_2026-11-09_17-37-40.png]]
 
+### Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)
+
 
 ## Licitações
 ### Fases da Licitação (arts. 55 a 71 da 14.133)
