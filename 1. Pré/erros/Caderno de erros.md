@@ -341,6 +341,10 @@ Existem dois tipos de trabalho:
 # D ADM
 
 ## Organização Administrativa
+
+### Administração Direta
+
+
 ### Terceiro Setor
 
 ![[screenshot_2026-11-05_19-02-53.png]]
