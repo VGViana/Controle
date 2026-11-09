@@ -344,6 +344,16 @@ Existem dois tipos de trabalho:
 
 ### Administração Direta
 
+**NÃO CONFUNDIR:**
+
+
+| Função                                                                                                                       | Competência                      |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **<span style="color:#83a598">Criação</span>** e **<span style="color:#fb4934">extinção</span>** de **MINISTÉRIOS E ÓRGÃOS** | Lei privativa do Ch. do Exec.    |
+| **<span style="color:#83a598">Criação</span>** de CARGOS, FUNÇÕES E EMPREGOS                                                 | Lei privativa do Ch. do Exec.    |
+| **<span style="color:#fb4934">Extinção</span>** de FUNÇÕES ou CARGOS QUE NÃO ESTEJAM VAGOS                                   | Lei privativa do Ch. do Exec.    |
+| **<span style="color:#fb4934">Extinção</span>** de FUNÇÕES ou CARGOS VAGOS                                                   | Decreto privativo do Ch. do Exec |
+
 
 ### Terceiro Setor
 
