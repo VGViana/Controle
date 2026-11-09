@@ -368,6 +368,11 @@ Existem dois tipos de trabalho:
 > - IV - as **autarquias, inclusive as associações públicas;** (Redação dada pela Lei nº 11.107, de 2005) 
 > - V - as demais entidades de caráter público criadas por lei.
 
+### Formas de Extinção dos Serviços Públicos
+
+![[screenshot_2026-11-09_17-37-40.png]]
+
+
 ## Licitações
 ### Fases da Licitação (arts. 55 a 71 da 14.133)
 
