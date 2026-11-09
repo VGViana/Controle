@@ -373,7 +373,8 @@ Existem dois tipos de trabalho:
 
 ![[screenshot_2026-11-09_17-37-40.png]]
 
-### Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)
+### Lei de Improbidade Administrativa (LIA)
+#### Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)
 
 - Será **<span style="color:#fb4934">nula</span>** a decisão de mérito total ou parcial da ação de **<span style="color:#fb4934">improbidade administrativa</span>** que, dentre outra hipótese, **<span style="color:#fb4934">condenar o requerido por tipo diverso</span>** daquele definido na **<span style="color:#fb4934">petição inicial</span>**
 
@@ -384,6 +385,13 @@ Existem dois tipos de trabalho:
 > - II - no caso de prática de _novos atos ilícitos_ pelo mesmo sujeito, o juiz **somará as sanções**.       
 >
 > - Parágrafo único. As sanções de **suspensão de direitos políticos** e de **proibição de contratar** ou de receber incentivos fiscais ou creditícios do poder público observarão o **limite máximo de 20** (vinte) anos.
+
+### Processo Administrativo
+#### Do Recurso Administrativo e da Revisão (arts. 56 a 65 da Lei nº 9.784/1999)
+
+![[screenshot_2026-11-09_17-49-05.png]]
+
+
 ## Licitações
 ### Fases da Licitação (arts. 55 a 71 da 14.133)
 
