@@ -375,7 +375,9 @@ Existem dois tipos de trabalho:
 
 ### Do Procedimento Administrativo e do Processo Judicial (arts. 14 a 18-A da Lei nº 8.429/1992)
 
+- Será **<span style="color:#fb4934">nula</span>** a decisão de mérito total ou parcial da ação de **<span style="color:#fb4934">improbidade administrativa</span>** que, dentre outra hipótese, **<span style="color:#fb4934">condenar o requerido por tipo diverso</span>** daquele definido na **<span style="color:#fb4934">petição inicial</span>**
 
+> _§ 10-A. Havendo a possibilidade de solução consensual, poderão as partes requerer ao juiz a interrupção do prazo para a contestação, **<span style="color:#b8bb26">por prazo não superior a 90 (noventa) dias.</span>**_
 ## Licitações
 ### Fases da Licitação (arts. 55 a 71 da 14.133)
 
