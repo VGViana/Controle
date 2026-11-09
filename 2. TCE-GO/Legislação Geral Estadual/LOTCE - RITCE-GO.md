@@ -148,3 +148,8 @@ Todo aquele que deva prestar contas ao Tribunal de Contas do Estado de Goiás é
 ![[screenshot_2026-11-09_19-22-12.png]]
 
 ![[screenshot_2026-11-09_19-21-54.png]]
+
+![[screenshot_2026-11-09_19-26-55.png]]
+
+![[screenshot_2026-11-09_19-27-56.png]]
+
