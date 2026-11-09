@@ -142,3 +142,9 @@ Os atos normativos **obrigam os jurisdicionados ao seu cumprimento, sob pena de 
 ## **ART. 5º  RESPONSABILIDADE PELA PRESTAÇÃO DE CONTAS**
 
 Todo aquele que deva prestar contas ao Tribunal de Contas do Estado de Goiás é **<span style="color:#b8bb26">pessoalmente responsável</span>** pela exatidão das contas e apresentação dos relatórios, balanços e demonstrativos contábeis dos atos relativos à administração financeira e patrimonial da unidade administrativa sob a sua gestão.
+
+# **DA ORGANIZAÇÃO (Art. 6° ao 40°)**
+
+![[screenshot_2026-11-09_19-22-12.png]]
+
+![[screenshot_2026-11-09_19-21-54.png]]
