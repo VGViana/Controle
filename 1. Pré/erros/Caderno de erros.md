@@ -357,6 +357,7 @@ Existem dois tipos de trabalho:
 
 ### Terceiro Setor
 
+![[screenshot_2026-11-09_17-40-59.png]]
 ![[screenshot_2026-11-05_19-02-53.png]]
 
 ![[screenshot_2026-11-05_19-08-30.png]]
