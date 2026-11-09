@@ -378,6 +378,12 @@ Existem dois tipos de trabalho:
 - Será **<span style="color:#fb4934">nula</span>** a decisão de mérito total ou parcial da ação de **<span style="color:#fb4934">improbidade administrativa</span>** que, dentre outra hipótese, **<span style="color:#fb4934">condenar o requerido por tipo diverso</span>** daquele definido na **<span style="color:#fb4934">petição inicial</span>**
 
 > _§ 10-A. Havendo a possibilidade de solução consensual, poderão as partes requerer ao juiz a interrupção do prazo para a contestação, **<span style="color:#b8bb26">por prazo não superior a 90 (noventa) dias.</span>**_
+
+> Art. 18-A. A **requerimento do réu**, na fase de cumprimento da sentença, o juiz **unificará** eventuais sanções aplicadas com outras já impostas em outros processos, tendo em vista a eventual continuidade de ilícito ou a prática de diversas ilicitudes, observado o seguinte:   
+> - I - no caso de _continuidade de ilícito_, o juiz promoverá a **maior sanção** aplicada, **aumentada de 1/3** (um terço), **ou a soma das penas**, o que for **mais benéfico** ao réu;  
+> - II - no caso de prática de _novos atos ilícitos_ pelo mesmo sujeito, o juiz **somará as sanções**.       
+>
+> - Parágrafo único. As sanções de **suspensão de direitos políticos** e de **proibição de contratar** ou de receber incentivos fiscais ou creditícios do poder público observarão o **limite máximo de 20** (vinte) anos.
 ## Licitações
 ### Fases da Licitação (arts. 55 a 71 da 14.133)
 
