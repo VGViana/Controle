@@ -304,6 +304,8 @@ Existem dois tipos de trabalho:
 
 - Os livros e demais materiais bibliográficos apresentam características de material permanente. Porém, o art. 18 da Lei nº 10.753/2003, considera os **livros adquiridos para bibliotecas públicas como material de consumo**.
 	- **As demais bibliotecas devem classificar a despesa com aquisição de material bibliográfico como material permanente**, classificadas em Investimentos
+	- Livro para **<span style="color:#83a598">biblioteca pública</span>** → Material de Consumo → **<span style="color:#83a598">Despesa Corrente</span>** 
+	- Livro para **<span style="color:#fb4934">biblioteca interna do órgão</span>** → Material Permanente → Investimentos → **<span style="color:#fb4934">Despesa de Capital</span>**
 
 - VPA's independentes da execução orçamentária não impactam no resultado orçamentário.
 ### Balanço Financeiro
