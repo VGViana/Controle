@@ -98,6 +98,10 @@
 - **<span style="color:#83a598">Avaliação 360° (Avaliação Circular / Avaliação em rede)</span>**:
     - Avaliação realizada por todos que mantêm algum tipo de contato com o indivíduo avaliado.
 
+### 5.6. **Interferência entre variáveis**
+
+A **interferência entre variáveis** ocorre quando **duas ou mais variáveis são de tal forma inter-relacionadas que não é possível tirar conclusões sobre nenhuma delas**.
+
 ## **6. Métodos de avaliação de Desempenho** 
 
 | **<span style="color:#83a598">Métodos tradicionais</span>**                                                                                                        | **<span style="color:#fe8019">Métodos Modernos</span>** | **Outros Métodos**                                                      |
@@ -291,6 +295,18 @@
 - Erro de Distribuição
 - Projeção (Subjetividade)
 - Contaminação de Critério.
+
+### 6.5. **Métodos de avaliação de desempenho** conforme o **foco**, de Rothmann
+
+![[screenshot_2026-11-10_17-14-45.png]]
+
+Em relação ao método de **Índice Direto**, Rothmann assim o descreve:
+
+![[screenshot_2026-11-10_17-14-58.png]]
+
+Já em relação ao método **Administração por Objetivos**, segundo Rothmann:
+
+![[screenshot_2026-11-10_17-15-08.png]]
 
 # **GESTÃO POR COMPETÊNCIAS**
 
