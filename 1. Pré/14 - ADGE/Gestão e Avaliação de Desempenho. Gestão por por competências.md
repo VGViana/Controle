@@ -110,6 +110,7 @@
 | Método dos Incidentes Críticos                                                                                                                                     |                                                         | Balanced Scorecard (BSC)                                                |
 | Métodos de Comparativos (Métodos das Comparações Forçadas):<br><br>- Método Distribuição Forçada<br>- Método Comparação aos Pares<br>- Método da Ordenação Simples |                                                         |                                                                         |
 
+![[screenshot_2026-11-10_16-53-43.png]]
 ### **6.1. Métodos Tradicionais de Avaliação de Desempenho**
 
 - São burocratizados e repetitivos;
