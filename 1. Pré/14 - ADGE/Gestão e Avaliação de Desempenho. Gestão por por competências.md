@@ -1,23 +1,23 @@
 # **GESTÃO DO DESEMPENHO**
 
-## **1.CONCEITO**
+## **1. Conceito**
 
-**Desempenho** é
+- **Desempenho** é
 
-- resultado da **motivação + capacidade + oportunidade;**
-- Também pode ser entendido como os **<span style="color:#d3869b">esforços na direção de resultados</span>;**
-- Uma outra visão que entende o desempenho como resultado realizado da **soma de comportamento, produtividade e contexto** de trabalho.
+	- resultado da **motivação + capacidade + oportunidade;**
+	- Também pode ser entendido como os **<span style="color:#d3869b">esforços na direção de resultados</span>;**
+	- Uma outra visão que entende o desempenho como resultado realizado da **soma de comportamento, produtividade e contexto** de trabalho.
 
 🚨 **Cuidado com a pegadinha!** **<span style="color:#fb4934">A motivação <u>NÃO</u> é suficiente para o bom desempenho.</span>**
 
-A **Gestão do Desempenho**
+- A **Gestão do Desempenho**
 
-- é um **ciclo** que envolve o planejamento, o monitoramento, a **<span style="color:#83a598">avaliação de desempenho</span>** e a retroação.
-    - Logo, a avaliação do desempenho **está dentro da gestão do desempenho** e não o contrário.
-- Busca **<span style="color:#83a598">aprimorar o trabalho</span>** com o objetivo de que as metas e os objetivos organizacionais sejam atingidos.
-- Está preocupada com o processo, visando o aperfeiçoamento da gestão organizacional.
+	- é um **ciclo** que envolve o planejamento, o monitoramento, a **<span style="color:#83a598">avaliação de desempenho</span>** e a retroação.
+		- Logo, a avaliação do desempenho **está dentro da gestão do desempenho** e não o contrário.
+	- Busca **<span style="color:#83a598">aprimorar o trabalho</span>** com o objetivo de que as metas e os objetivos organizacionais sejam atingidos.
+	- Está preocupada com o processo, visando o aperfeiçoamento da gestão organizacional.
  
- ## **2. Ciclo do Desempenho**
+## **2. Ciclo do Desempenho**
 
 1. Planejamento;
 2. Acompanhamento;
