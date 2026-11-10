@@ -144,7 +144,8 @@ Dê uma olhada no que tem em cada quadro nas pág. 575 a 578 do [MCASP](https://
 
 **Sabe o que são atos potenciais? Respondemos!**
 
-Atos Potenciais: Compreende os atos a executar que **podem vir a afetar o patrimônio,** imediata ou indiretamente, por exemplo: direitos e obrigações conveniadas ou contratadas; responsabilidade por valores, títulos e bens de terceiros; garantias e contragarantias recebidas e concedidas. A definição é **orientada pelo fluxo de caixa** a ser envolvido na execução futura do ato potencial.
+- Atos Potenciais: Compreende os atos a executar que **podem vir a afetar o patrimônio,** imediata ou indiretamente, por exemplo: direitos e obrigações conveniadas ou contratadas; responsabilidade por valores, títulos e bens de terceiros; garantias e contragarantias recebidas e concedidas. 
+- A definição é **orientada pelo fluxo de caixa** a ser envolvido na execução futura do ato potencial.
 
   
 A NBC TSP 11 prevê a adoção das seguintes formas de apresentação dos ativos e passivos:
