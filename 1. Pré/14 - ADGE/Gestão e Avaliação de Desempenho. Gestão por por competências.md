@@ -232,12 +232,12 @@
         - Desempenho;
         - Constante monitoramento dos resultados e comparação com os objetivos formulados;
         - Retroação intensiva e continua avaliação conjunta e interativa.
-- - **Avaliação de Competências**:
-        - Avaliar e identificar Conhecimentos, Habilidades e Atitudes (CHA)
+- **Avaliação de Competências**:
+	- Avaliar e identificar Conhecimentos, Habilidades e Atitudes (CHA)
     
-    - **Avaliação de Competências e Resultados:**
-        - Se o indivíduo avaliado possui as competências necessárias com base nos resultados alcançados;
-        - Resultados previstos x alcançados.
+	- **Avaliação de Competências e Resultados:**
+		- Se o indivíduo avaliado possui as competências necessárias com base nos resultados alcançados;
+		- Resultados previstos x alcançados.
     
  ### **6.3. Outros métodos**
     
