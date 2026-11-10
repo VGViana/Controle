@@ -15,9 +15,8 @@ Exemplos de despesas extraorçamentários: depósitos em **<span style="color:#f
 > _Art. 103. O Balanço_ **_Financeiro_** _demonstrará a receita e a despesa_ **_orçamentárias_** _bem como os recebimentos e os pagamentos de natureza_ **_extra-orçamentária,_** _conjugados com os saldos em espécie provenientes do_ **_exercício anterior,_** _e os que se transferem para o_ **_exercício seguinte._** 
 > - **_Parágrafo único. Os Restos a Pagar do exercício serão computados na receita extra-orçamentária para compensar sua inclusão na despesa orçamentária._**
 
-Restos a pagar **<span style="color:#d3869b">inscritos</span>** = **<span style="color:#d3869b">ingressos</span> extraorçamentários** 
-
-Restos a pagar **<span style="color:#d3869b">pagos</span>** = **<span style="color:#d3869b">dispêndios</span> extraorçamentários** 
+- Restos a pagar **<span style="color:#d3869b">inscritos</span>** = **<span style="color:#d3869b">ingressos</span> extraorçamentários**  
+- Restos a pagar **<span style="color:#d3869b">pagos</span>** = **<span style="color:#d3869b">dispêndios</span> extraorçamentários** 
 
 **Os valores correspondentes aos Restos a Pagar são registrados dos dois lados do balanço (ingressos e dispêndios).**
 
