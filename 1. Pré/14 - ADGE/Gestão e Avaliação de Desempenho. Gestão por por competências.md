@@ -422,12 +422,6 @@ Sobre a corrente francesa:
 	- Objetiva realizar o diagnóstico das competências, isto é, as competências necessárias ao alcance dos objetivos e as competências atuais (que já possui).
 	
 		- Uma das suas consequências é identificar **<span style="color:#83a598">o</span>** **_<span style="color:#83a598">gap</span>_** **<span style="color:#83a598">ou a lacuna de competências</span>**, isto é, a **<span style="color:#83a598">diferença</span>** entre as **<span style="color:#fb4934">competências necessárias</span>** para concretizar a estratégia formulada e as **<span style="color:#83a598">competências internas</span>** já disponíveis na organização.
-	- A etapa de mapeamento de competências em 03 fases:
-		
-		1. Definição das Competências **Necessárias**;
-		2. Definição das Competências **Reais (atuais);** e
-		3. Identificação do GAP de Competências (**Diferença** entre as “competências necessárias” e as “competências reais”)
-
 ## **5. Mapeamento de Competências**
     
 - Objetiva realizar o diagnóstico das competências, isto é, as competências necessárias ao alcance dos objetivos e as competências atuais (que já possui).
@@ -450,7 +444,7 @@ Há técnicas que podem ser utilizadas na coleta de dados para a fase da defini�
 - **<span style="color:#83a598">Questionários</span>** são instrumento de coleta de dados com questões que são lidas e preenchidas pelos próprios respondentes, ==sem a intervenção de terceiros (mapeadores).==
 	- Vantagem: é mais rápido e eficiente para coletar informações de um grande número de funcionários;
 	- **<span style="color:#b8bb26">Menor custo operacional.</span>**
-	- Desvantagens: demanda tempo e e testes preliminares.
+	- **<span style="color:#fb4934">Desvantagens</span>**: demanda tempo e e testes preliminares.
 - ⚠️Essas técnicas **<span style="color:#fb4934">não são excludentes</span>**. Ou seja, elas podem (e devem) ser utilizadas de forma complementar.
 - ⚠️É quase consensual entre os autores que o mapeamento é o “disparo inicial” do modelo de gestão por competências. Sugiro levar esse raciocínio para a prova!
 
