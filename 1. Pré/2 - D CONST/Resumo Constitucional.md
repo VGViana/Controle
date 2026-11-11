@@ -870,7 +870,14 @@ Conforme o art. 18, §4º, da Constituição da República Federativa do Brasil
         
 - **<span style="color:#83a598">Quem intervém</span>**: instância superior da federação atua sobre a inferior (União sobre Estado/DF; Estado sobre Município) quando necessário.
 	
-- **<span style="color:#83a598">Motivos comuns</span>**: defesa da integridade territorial; invasão; grave comprometimento da ordem pública; impedimento do funcionamento dos poderes locais; quebra grave das finanças públicas; omissão no cumprimento de obrigações essenciais; execução de decisões judiciais ou leis.
+- **<span style="color:#83a598">Motivos comuns</span>**: 
+	- defesa da integridade territorial; 
+	- invasão; 
+	- grave comprometimento da ordem pública; 
+	- impedimento do funcionamento dos poderes locais; 
+	- quebra grave das finanças públicas; 
+	- omissão no cumprimento de obrigações essenciais; 
+	- execução de decisões judiciais ou leis.
 	
 - **<span style="color:#83a598">Como se executa</span>**: intervenção é decretada formalmente; deve indicar objetivo, alcance e prazo; pode nomear interventor e prever medidas específicas para restabelecer a normalidade.
 	
