@@ -177,6 +177,7 @@ Continuando a indicação de leitura:
 - arts. 41-44: traz disposições acerca do **Controle Interno**. _Perceba que o teor do caput_  _do art. 41 é um pouco diferente do visto na CF/88 e na CEGO. Veja que inclui MPE-GO, TCE-GO e TCM-GO. Não se espante com essa redação se ela aparecer na sua prova! Por isso é fundamental a leitura de toda a lei orgânica!_
 - Faça a leitura completa dos artigos 41-44.
 
+![[screenshot_2026-11-11_15-58-36.png]]
 ![[screenshot_2026-11-11_15-55-45.png]]
 
 ![[screenshot_2026-11-09_19-22-12.png]]
