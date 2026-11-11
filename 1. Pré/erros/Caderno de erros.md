@@ -114,6 +114,80 @@ Ambiente de tarefa = ambiente relacional ou transacional
 
 ![[screenshot_2026-11-02_11-12-17.png]]
 
+### Modelo de Choo
+
+| Ambiguidade dos objetivos | Incerteza técnica | Modelo                       |
+| ------------------------- | ----------------- | ---------------------------- |
+| Baixa                     | Baixa             | **Racional**                 |
+| Baixa                     | Alta              | **Processual**               |
+| Alta                      | Baixa             | **Político**                 |
+| Alta                      | Alta              | **Anárquico (Lata de Lixo)** |
+
+1. **Modelo Racional:** **Baixa ambiguidade + Baixa incerteza**
+
+Sabe-se **o que fazer** e **como fazer**.
+
+- Objetivos claros.
+- Métodos conhecidos.
+- Busca da solução ótima.
+- Decisão lógica e analítica.
+
+**Palavra-chave:** **otimização**. "Sei onde quero chegar e sei o caminho."
+
+2. **Modelo Processual** (Gabarito): **Baixa ambiguidade + Alta incerteza**
+
+Sabe-se **o que fazer**, mas não se sabe exatamente **como fazer**.
+
+- Objetivos claros e consensuais.
+- Dúvida sobre métodos, tecnologias ou procedimentos.
+- Busca gradual de informações.
+- Testes, tentativas e ajustes sucessivos.
+- Processo decisório em etapas.
+
+**Palavra-chave:** **aprendizado**. "**Sei onde quero chegar, mas preciso descobrir o caminho.**"
+
+3. **Modelo Político**: **Alta ambiguidade + Baixa incerteza**
+
+Sabe-se **como fazer**, mas não há consenso sobre **o que priorizar**.
+
+- Conflito de interesses.
+- Disputa de poder.
+- Barganhas e coalizões.
+- A informação é usada como recurso político.
+
+**Palavra-chave:** **negociação**. "**Sabemos o caminho, mas brigamos sobre o destino**."
+
+4. **Modelo Anárquico (Lata de Lixo)**: **Alta ambiguidade + Alta incerteza**
+
+Não se sabe claramente **nem o que fazer nem como fazer**.
+
+- Objetivos confusos.
+- Métodos incertos.
+- Decisões casuais e oportunistas.
+- Soluções, problemas e participantes se encontram aleatoriamente.
+
+**Palavra-chave:** **caos**. "**Nem o destino nem o caminho estão claros.**"
+
+Ordem crescente de ambiguidade/incerteza:  **Racional → Processual → Político → Anárquico**
+
+Ou: **Lógica → Busca → Negociação → Caos**
+
+Quadro Mental CESPE/FCC/FGV
+
+|Situação|Modelo|
+|---|---|
+|Sei o objetivo e sei o método|**Racional**|
+|Sei o objetivo, mas não sei o método|**Processual**|
+|Sei o método, mas há conflito sobre o objetivo|**Político**|
+|Não sei o objetivo nem o método|**Anárquico**|
+
+Resumindo:
+
+- **BAIXA + BAIXA = Racional**
+- **BAIXA + ALTA = Processual** ✅
+- **ALTA + BAIXA = Político**
+- **ALTA + ALTA = Anárquico (Lata de Lixo)**
+
 ## Liderança 
 
 ### Teoria do Caminho-Meta de House
