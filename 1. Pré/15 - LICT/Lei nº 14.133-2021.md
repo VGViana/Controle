@@ -1697,7 +1697,7 @@ Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.ceges
 
 # **17. Das Infrações e Sanções Administrativas**
 
-> **Art. 155:** 
+> **Art. 155: O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações:** 
 > - I - dar causa à **inexecução** parcial do contrato; 
 > - II - dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo; 
 > - III - dar causa à inexecução total do contrato; 
