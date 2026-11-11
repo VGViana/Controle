@@ -1794,3 +1794,82 @@ Art. 165. Dos atos da Administração decorrentes da aplicação desta Lei cabem
 >3. **<span style="color:#b8bb26">terceira linha de defesa</span>,** integrada pelo **<span style="color:#b8bb26">órgão central de controle interno da Administração e pelo tribunal de contas.</span>**     
 
 **💡==Esse assunto é cobrado com frequência, inclusive recentemente (2026), fique atento:== [#3952156](https://www.tecconcursos.com.br/questoes/3952156)**
+
+# **20. Dos Crimes em Licitações e Contratos**
+
+- Antes de mais nada, importante que você tenha entendido a diferença entre **infrações e sanções ADMINISTRATIVAS (art. 155) e CRIMES (art. 178).**
+- As sanções **<span style="color:#fe8019">administrativas</span>** operam na **<span style="color:#fe8019">esfera civil</span>,** não têm nada a ver com crimes e muito menos podem causar a prisão de quem as cometer. Quem comete infrações administrativas poderá sofrer advertência, ser multado, ou ser impedido de licitar no futuro.
+- **<span style="color:#fe8019">Já quem comete um crime em licitações e contratos administrativos será processado e julgado na esfera penal</span>,** podendo, aí sim, sofrer penas restritivas de sua liberdade. A Nova Lei de Licitações trouxe, em seu art. 178, alterações a serem colocadas no Código Penal, prevendo esses crimes. 
+
+## **20.1 Crimes**
+
+1. **Contratação direta ilegal:** Admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei:  
+    **Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 4 (quatro) a 8 (oito) anos</span>**, e multa.  
+      
+    
+2. **Frustração do caráter competitivo de licitação:** Frustrar ou fraudar, com o intuito de obter para si ou para outrem vantagem decorrente da adjudicação do objeto da licitação, o caráter competitivo do processo licitatório:  
+    **Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 4 (quatro) anos a 8 (oito) anos</span>,** e multa.  
+      
+    
+3. **Patrocínio de contratação indevida:** Patrocinar, direta ou indiretamente, interesse privado perante a Administração Pública, dando causa à instauração de licitação ou à celebração de contrato cuja invalidação vier a ser decretada pelo Poder Judiciário:  
+    **Pena** - **<span style="color:#fb4934">reclusão</span>**, de **<span style="color:#b8bb26">6 (seis) meses a 3 (três) anos</span>,** e multa.  
+      
+    
+4. **Modificação ou pagamento irregular em contrato administrativo:** Admitir, possibilitar ou dar causa a qualquer modificação ou vantagem, inclusive prorrogação contratual, em favor do contratado, durante a execução dos contratos celebrados com a Administração Pública, sem autorização em lei, no edital da licitação ou nos respectivos instrumentos contratuais, ou, ainda, pagar fatura com preterição da ordem cronológica de sua exigibilidade:  
+    **Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 4 (quatro) anos a 8 (oito) anos,</span>** e multa.  
+      
+    
+5. **Perturbação de processo licitatório:** Impedir, perturbar ou fraudar a realização de qualquer ato de processo licitatório:  
+    **Pena** - **<span style="color:#83a598">detenção</span>**, **<span style="color:#b8bb26">de 6 (seis) meses a 3 (três) anos</span>,** e multa.  
+      
+    
+6. **Violação de sigilo em licitação:** Devassar o sigilo de proposta apresentada em processo licitatório ou proporcionar a terceiro o ensejo de devassá-lo:  
+    **Pena** - **<span style="color:#83a598">detenção</span>**, **<span style="color:#b8bb26">de 2 (dois) anos a 3 (três) anos</span>,** e multa.  
+      
+    
+7. **Afastamento de licitante:** Afastar ou tentar afastar licitante por meio de violência, grave ameaça, fraude ou oferecimento de vantagem de qualquer tipo:  
+    **Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 3 (três) anos a 5 (cinco) anos</span>,** e multa, além da **pena correspondente à violência.**  
+    Incorre na mesma pena quem se **abstém ou desiste de licitarem razão de vantagem oferecida.**  
+      
+    
+8. **Fraude em licitação ou contrato:** Fraudar, em prejuízo da Administração Pública, licitação ou contrato dela decorrente, mediante:   
+	- I - entrega de mercadoria ou prestação de serviços com **qualidade ou em quantidade diversas das previstas no edital** ou nos instrumentos contratuais;   
+	- II - **fornecimento**, como verdadeira ou perfeita, de **mercadoria falsificada, deteriorada, inservível** para consumo ou com prazo de validade vencido;   
+	- III - entrega de uma mercadoria por outra;   
+	- IV - **alteração da substância, qualidade ou quantidade da mercadoria ou do serviço** fornecido;   
+	- V - qualquer meio fraudulento que torne injustamente mais onerosa para a Administração Pública a proposta ou a execução do contrato:  
+**Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 4 (quatro) anos a 8 (oito) anos</span>**, e multa.  
+      
+    
+9. **Contratação inidônea: **
+    - **Admitir à licitação empresa ou profissional declarado inidôneo:   **Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 1 (um) ano a 3 (três) anos, e multa.</span>   
+    - Celebrar contrato com empresa ou profissional declarado inidôneo:    **Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 3 (três) anos a 6 (seis) anos</span>**, e multa.  
+      
+    
+10. **Impedimento indevido:** Obstar, impedir ou dificultar injustamente a inscrição de qualquer interessado nos registros cadastrais ou promover indevidamente a alteração, a suspensão ou o cancelamento de registro do inscrito:  
+    **Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 6 (seis) meses a 2 (dois) anos</span>,** e multa.  
+      
+    
+11. **Omissão grave de dado ou de informação por projetista**: Omitir, modificar ou entregar à Administração Pública levantamento cadastral ou condição de contorno em relevante dissonância com a realidade, em frustração ao caráter competitivo da licitação ou em detrimento da seleção da proposta mais vantajosa para a Administração Pública, em contratação para a elaboração de projeto básico, projeto executivo ou anteprojeto, em diálogo competitivo ou em procedimento de manifestação de interesse:  
+    **Pena** - **<span style="color:#fb4934">reclusão</span>**, **<span style="color:#b8bb26">de 6 (seis) meses a 3 (três) anos</span>**, e multa.
+
+# **21. Do Portal Nacional de Contratações Públicas (PNCP)**    
+
+- sítio eletrônico oficial destinado à:
+	- I - divulgação centralizada e obrigatória dos atos exigidos pela Lei;   
+	- II - realização facultativa das contratações pelos órgãos e entidades dos Poderes Executivo, Legislativo e Judiciário de todos os entes federativos.  
+      
+    
+- O PNCP será **gerido pelo Comitê Gestor da Rede Nacional de Contratações Públicas**, a ser presidido por representante indicado pelo Presidente da República e composto de:
+	- I - 3 representantes da União indicados pelo Presidente da República;   
+	- II - 2 representantes dos Estados e do Distrito Federal indicados pelo Conselho Nacional de Secretários de Estado da Administração;   
+	- III - 2 representantes dos Municípios indicados pela Confederação Nacional de Municípios.  
+      
+    
+- O PNCP conterá, entre outras, as seguintes informações acerca das contratações:   
+	- I - planos de contratação anuais;   
+	- II - catálogos eletrônicos de padronização;   
+	- III - **editais de credenciamento e de pré-qualificação, avisos de contratação direta e editais de licitação e respectivos anexos;**   
+	- IV - **atas de registro de preços;**  
+	- V - **contratos e termos aditivos;**   
+	- VI - notas fiscais eletrônicas, quando for o caso.
