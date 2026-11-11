@@ -1763,6 +1763,8 @@ Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.ceges
 > - III – transcurso do prazo mínimo de **1 (um) ano da aplicação da penalidade,** no caso de impedimento de licitar e contratar, **ou de 3 (três) anos** da aplicação da penalidade, no caso de declaração de inidoneidade;   
 > - IV – **cumprimento das condições de reabilitação** definidas no ato punitivo;   
 > - V – **análise jurídica prévia, com posicionamento conclusivo** quanto ao cumprimento dos requisitos definidos neste artigo.
+>
+> _Parágrafo único. **A sanção pelas infrações previstas nos incisos VIII e XII do caput do art. 155 desta Lei exigirá, como condição de reabilitação do licitante ou contratado, a implantação ou aperfeiçoamento de programa de integridade pelo responsável**._
 
 # **18. Impugnações, Pedidos de Esclarecimento e Recursos**
 
