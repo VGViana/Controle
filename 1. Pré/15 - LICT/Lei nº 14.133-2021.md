@@ -1768,6 +1768,7 @@ Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.ceges
 >
 > _Parágrafo único. **A sanção pelas infrações previstas nos incisos VIII e XII do caput do art. 155 desta Lei exigirá, como condição de reabilitação do licitante ou contratado, a implantação ou aperfeiçoamento de programa de integridade pelo responsável**._
 
+![[screenshot_2026-11-11_15-28-42.png]]
 # **18. Impugnações, Pedidos de Esclarecimento e Recursos**
 
 > _"Art. 164. **Qualquer pessoa é parte legítima** para impugnar edital de licitação por irregularidade na aplicação desta Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3 (três) dias úteis antes da data de abertura do certame._   
@@ -1791,6 +1792,9 @@ Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.ceges
 
 **💡Veja como a FCC cobrou: [#3409524](https://www.tecconcursos.com.br/questoes/3409524)**
 
+![[screenshot_2026-11-11_15-29-40.png]]
+
+![[screenshot_2026-11-11_15-29-51.png]]
 # **19. Controle das Contratações**
 
 > **Art. 169**. As contratações públicas deverão submeter-se a **práticas contínuas e permanentes de gestão de riscos e de controle preventivo**, <u>inclusive</u> mediante **adoção de recursos de tecnologia da informação**, e, além de estar **subordinadas ao controle social,** sujeitar-se-ão às <u>seguintes linhas de defesa</u>: 
@@ -1799,6 +1803,8 @@ Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.ceges
 >3. **<span style="color:#b8bb26">terceira linha de defesa</span>,** integrada pelo **<span style="color:#b8bb26">órgão central de controle interno da Administração e pelo tribunal de contas.</span>**     
 
 **💡==Esse assunto é cobrado com frequência, inclusive recentemente (2026), fique atento:== [#3952156](https://www.tecconcursos.com.br/questoes/3952156)**
+
+![[screenshot_2026-11-11_15-29-58.png]]
 
 # **20. Dos Crimes em Licitações e Contratos**
 
