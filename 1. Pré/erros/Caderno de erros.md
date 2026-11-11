@@ -189,6 +189,13 @@ Segundo a TEORIA DO REFORÇO, o comportamento humano é condicionado por determi
 
 ## Cultura Organizacional 
 
+### Introdução ao comportamento Organizacional
+
+-  **IGOR** tem um comportamento organizado:  
+	- **I** → **I**ndividual
+	- **G** → **G**rupal
+	- **OR** → **OR**ganizacional
+
 ### Tipologia de Quinn
 
 ![[screenshot_2026-11-05_11-53-05.png]]
