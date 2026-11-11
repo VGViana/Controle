@@ -899,7 +899,7 @@ Conforme o art. 18, §4º, da Constituição da República Federativa do Brasil
 - **<span style="color:#fe8019">Típica</span>** - Poder **<span style="color:#fe8019">Executivo</span>**
 - Atípica - Demais Poderes
 
- ### **Princípios**
+### **Princípios**
 
 - **<span style="color:#d3869b">LIMPE</span>**: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência.
 	
@@ -951,8 +951,9 @@ Conforme o art. 18, §4º, da Constituição da República Federativa do Brasil
 
 > _Art. 37, I, CF/88 - os cargos, empregos e funções públicas são acessíveis aos_ **_<span style="color:#b8bb26">brasileiros</span>_** _que preencham os requisitos estabelecidos em lei, assim como aos **<span style="color:#fe8019">estrangeiros, na forma da lei;</span>**_ 
 
-- **Súmula Vinculante nº 44 (STF)**: "<u>Só por lei</u> se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
-- S**úmula nº 14 (STF)**: “**<span style="color:#fb4934">Não é admissível</span>**, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo público."
+> **Súmula Vinculante nº 44 (STF)**: "<u>Só por lei</u> se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público."
+
+> S**úmula nº 14 (STF)**: “**<span style="color:#fb4934">Não é admissível</span>**, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo público."
 
 **Atenção:**
 
