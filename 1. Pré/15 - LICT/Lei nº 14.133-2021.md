@@ -1766,11 +1766,12 @@ Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.ceges
 
 # **18. Impugnações, Pedidos de Esclarecimento e Recursos**
 
-> _"Art. 164. **Qualquer pessoa é parte legítima** para impugnar edital de licitação por irregularidade na aplicação desta Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3 (três) dias úteis antes da data de abertura do certame.   
-Parágrafo único. A resposta à impugnação ou ao pedido de esclarecimento será divulgada em sítio eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame.  
-Art. 165. Dos atos da Administração decorrentes da aplicação desta Lei cabem:
-> - I – **RECURSO, no prazo de 3 (três) dias úteis,** contado da data de intimação ou de lavratura da ata, em face de:_ 
-> 	- _a) ato que defira ou indefira pedido de pré-qualificação de interessado ou de inscrição em registro cadastral, sua alteração ou cancelamento;   
+> _"Art. 164. **Qualquer pessoa é parte legítima** para impugnar edital de licitação por irregularidade na aplicação desta Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3 (três) dias úteis antes da data de abertura do certame._   
+> - Parágrafo único. A resposta à impugnação ou ao pedido de esclarecimento será divulgada em sítio eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame.  
+>
+> Art. 165. Dos atos da Administração decorrentes da aplicação desta Lei cabem:
+> - _I – **RECURSO, no prazo de 3 (três) dias úteis,** contado da data de intimação ou de lavratura da ata, em face de:_ 
+> 	- _a) ato que defira ou indefira pedido de pré-qualificação de interessado ou de inscrição em registro cadastral, sua alteração ou cancelamento;_
 > 	- b) julgamento das propostas;   
 > 	- c) ato de habilitação ou inabilitação de licitante;  
 > 	- d) anulação ou revogação da licitação;   
