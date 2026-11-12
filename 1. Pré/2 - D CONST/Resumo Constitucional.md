@@ -1912,7 +1912,7 @@ Além disso, o parágrafo único do art. 84 delimita que apenas as atribuições
 - Membros do MP -> + de 10 anos de carreira
 - Advogados
 - Indicados em lista sêxtupla pelos órgãos de representação das respectivas classes - Notório saber jurídico e reputação ilibada
-- + de 10 anos de carreira
+-  Mais de 10 anos de carreira
 
 <span style="color:#fb4934"> Não seguem a regra do quinto Constitucional:</span>
 
