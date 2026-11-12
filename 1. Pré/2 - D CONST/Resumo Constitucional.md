@@ -1649,7 +1649,7 @@ Na prática, o efeito principal é este: os Tribunais de Contas dos Estados, do 
 > - _XVII - nomear membros do_ **_Conselho da República,_** _nos termos do art. 89, VII;_ 
 > - _XVIII - convocar e presidir o_ **_Conselho da República e o Conselho de Defesa Nacional;_** 
 > - _XXIII - enviar ao Congresso Nacional o_ **_<span style="color:#83a598">plano plurianual, o projeto de lei de diretrizes orçamentárias e as propostas de orçamento</span>_** _previstos nesta Constituição;_ 
-> - _XXIV -_ **_prestar,_** **_<span style="color:#83a598">anualmente</span>_****_, ao Congresso Nacional, dentro de_** **_<span style="color:#83a598"><u>sessenta dias</u> após a abertura da sessão legislativa</span>,_** **_as_** **_<span style="color:#b8bb26">contas referentes ao exercício <u>anterior</u></span>;_** 
+> - _XXIV -_ **_prestar,_** **_<span style="color:#83a598">anualmente</span>_**_, ao Congresso Nacional, dentro de_ **_<span style="color:#83a598"><u>sessenta dias</u> após a abertura da sessão legislativa</span>,_** **_as_** **_<span style="color:#b8bb26">contas referentes ao exercício <u>anterior</u></span>;_** 
 > 	- ⚠️ Quando <span style="color:#fb4934">não apresentadas</span> (NO PRAZO DOS 60 DIAS), poderá a **Câmara dos Deputados "tomar" as conta do PR.**
 - _XXV -_ **_prover e extinguir_** _os_ **_<span style="color:#b8bb26">cargos públicos federais</span>_**_, na forma da lei;_
 
