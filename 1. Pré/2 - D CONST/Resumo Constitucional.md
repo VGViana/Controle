@@ -1806,7 +1806,7 @@ Além disso, o parágrafo único do art. 84 delimita que apenas as atribuições
 - O que não pode reduzir é o valor **Nominal**, e <span style="color:#fb4934"><u>não o valor real</u></span>
 	- <u>Ou seja</u>, a irredutibilidade não obriga a recomposição salarial frente à inflação. 
 
- > **STF -** É **<span style="color:#fb4934">inconstitucional</span>** que normas estaduais <u>limitem a idade dos magistrados para ingresso na carreira.</u>
+> **STF -** É **<span style="color:#fb4934">inconstitucional</span>** que normas estaduais <u>limitem a idade dos magistrados para ingresso na carreira.</u>
 
 ## **2.3. Vedações aos Magistrados**
 
