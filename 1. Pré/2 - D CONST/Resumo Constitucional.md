@@ -1659,9 +1659,12 @@ Na prática, o efeito principal é este: os Tribunais de Contas dos Estados, do 
 
 >[!important] **<span style="color:#b8bb26"><u>Extinguir</u> cargos públicos</span>** 
 >  - **Vagos** - decreto autônomo 
->  - Podem ser delegados: 
-> 	 - <span style="color:#b8bb26">Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União</span> 
+> 	 - Podem ser delegados: 
+> 		 - <span style="color:#b8bb26">Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União</span> 
 >  - **Ocupados** - lei formal
+>
+>  **<span style="color:#fb4934">Extinção</span>** **de cargos ocupados depende sempre de lei e** **<span style="color:#fb4934">não pode ser delegado</span>**.
+
 
 > - _XXVI - editar_ **_medidas provisórias_** _com força de lei_ 
 > - _XXVII - exercer outras atribuições previstas nesta Constituição._ 
@@ -1695,9 +1698,9 @@ Além disso, o parágrafo único do art. 84 delimita que apenas as atribuições
 ### **1.2.1. Imunidades Formais**
 
 - **<span style="color:#83a598">Irresponsabilidade penal relativa</span>**:
-        - O PR não será responsabilizado por <span style="color:#fb4934">atos estranhos</span> à sua função.
-            - **Não significa que o Presidente ficará impune** por atos estranhos à sua função, mas responderá após o fim do seu mandato.
-            - Há suspensão da ação penal, assim como do prazo de prescrição;
+	- O PR não será responsabilizado por <span style="color:#fb4934">atos estranhos</span> à sua função.
+		- **Não significa que o Presidente ficará impune** por atos estranhos à sua função, mas responderá após o fim do seu mandato.
+		- Há suspensão da ação penal, assim como do prazo de prescrição;
 
 ⚠️Crimes praticados **<span style="color:#fb4934">ANTES DO INÍCIO DO MANDATO</span>** são considerados <span style="color:#fb4934">atos estranhos</span> à função presidencial.
 
