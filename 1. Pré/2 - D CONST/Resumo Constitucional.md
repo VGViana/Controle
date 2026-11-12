@@ -1655,7 +1655,7 @@ Na prática, o efeito principal é este: os Tribunais de Contas dos Estados, do 
 
 > [!IMPORTANT] **_<span style="color:#b8bb26"><u>Prover e desprover</u> cargos públicos</span>:_** 
 > - Podem ser **delegados**: 
-> - <span style="color:#b8bb26">Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União</span>
+> 	- <span style="color:#b8bb26">Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União</span>
 
 >[!important] **<span style="color:#b8bb26"><u>Extinguir</u> cargos públicos</span>** 
 >  - **Vagos** - decreto autônomo 
