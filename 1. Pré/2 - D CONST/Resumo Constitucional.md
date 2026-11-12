@@ -1854,7 +1854,7 @@ Além disso, o parágrafo único do art. 84 delimita que apenas as atribuições
 
 **⚠️ Muito importante!!**
 
- > **STF** julgou ser **<span style="color:#fb4934">inconstitucional</span>** o **limite estabelecido aos membros da magistratura estadual** - <span style="color:#fb4934">não pode o teto da magistratura estadual ser inferior ao da federal</span>** - **não há o limite de 90,25% do subsídio do STF à magistratura estadual**.
+ > **STF** julgou ser **<span style="color:#fb4934">inconstitucional</span>** o **limite estabelecido aos membros da magistratura estadual** - <span style="color:#fb4934">não pode o teto da magistratura estadual ser inferior ao da federal</span>** - **não há o limite de 90,25% do subsídio do STF à magistratura estadual.
 
  **▶️ Sanções disciplinares (maioria absoluta)**
 
