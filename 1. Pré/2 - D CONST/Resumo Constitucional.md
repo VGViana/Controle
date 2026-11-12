@@ -2098,7 +2098,7 @@ Os precatórios podem ser usados para comprar imóveis públicos
 
 - nomeado pelo Presidente da República
 - integrantes da carreira
-- > 35 anos
+- mais de 35 anos
 - aprovação **<u>maioria absoluta</u>** do Senado Federal
 - Chefe do MPU
 - 2 anos de mandato - pode haver **reconduções sucessivas**
