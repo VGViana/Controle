@@ -1617,3 +1617,524 @@ Na prática, o efeito principal é este: os Tribunais de Contas dos Estados, do 
 - **Informativos STF n.1013 e 1023:** Instauração de CPI: não cabe juízo discricionário da mesa/plenário para obstar criação; limitações sobre convocação de governadores por CPI federal;
 - **Regras estaduais para escolha de conselheiros do TCE:** STF reconheceu constitucionalidade de voto secreto para escolha de conselheiros em alguns casos, mas também anulou dispositivos estaduais quando violavam princípios;
 - **Matérias administrativas/recursos repetitivos:** STJ segue julgando recursos repetitivos e temas ligados à atuação dos entes/atos administrativos e sua relação com normas do Legislativo estadual/federal (menos “case law” unificado sobre emendas, mas importante para conflitos processuais)
+
+# **1. Poder Executivo**
+
+## **1.1. Atribuições do Presidente da República**  🔥 🔥
+
+> _Art. 84, CF/88. Compete **privativamente** ao Presidente da República:_ 
+> - _I - nomear e exonerar os_ **_Ministros de Estado;_**
+> 	- **_<span style="color:#fb4934">Não há a necessidade de aprovação pelo Senado Federal.</span>_** 
+> - _II - exercer, com o auxílio dos Ministros de Estado,_ **_a direção superior da administração federal;_** 
+> - _III -_ **_iniciar o processo legislativo_**_, na forma e nos casos previstos nesta Constituição;_ 
+> - _IV - sancionar, promulgar e fazer publicar as_ **_leis_**_, bem como expedir_ **_decretos e regulamentos para sua fiel execução;_** 
+> - _V - vetar projetos de lei,_ **_<u>total ou parcialmente</u>;_** 
+> - _⚠️_ _VI – <span style="color:#d3869b">dispor</span>,_ **_<span style="color:#83a598">mediante decreto</span>_**_, <span style="color:#d3869b">sobre</span>:_  **_==<span style="color:#83a598">DECRETO AUTÔNOMO</span>==_**
+> 	- _a) <span style="color:#d3869b">organização e funcionamento da administração federal, quando</span>_ **_<span style="color:#d3869b"><u>não implicar aumento de despesa nem criação ou extinção de órgãos públicos</u></span>;_**             
+> 	- _b) <span style="color:#d3869b">extinção de funções ou cargos públicos,</span>_ **_<span style="color:#d3869b"><u>quando vagos</u></span>;_**
+
+> [!IMPORTANT] Decretos Autônomos
+> - Exercício do **Poder Regulamentar**.
+> - São atos **primários**, podendo criar direitos e deveres.
+> - A competência pode ser **delegada** a:
+>   - Ministros de Estado;
+>   - Procurador-Geral da República (PGR);
+>   - Advogado-Geral da União (AGU).
+
+> - _VII -_ **_<span style="color:#b8bb26">manter relações com Estados estrangeiros</span>_** _e acreditar seus representantes diplomáticos;_ 
+> - _VIII -_ **_<span style="color:#b8bb26">celebrar tratados, convenções e atos internacionais</span>,_** **_<u>sujeitos a referendo do Congresso Nacional</u>;_** 
+> - _XIX -_ **_<span style="color:#b8bb26">declarar guerra</span>_**_, no caso de agressão estrangeira,_ **_<u>autorizado pelo Congresso Nacional ou referendado por ele</u>,_** _quando ocorrida no intervalo das sessões legislativas, e, nas mesmas condições, decretar, total ou parcialmente, a mobilização nacional;_ 
+> - _XX -_ **_<span style="color:#b8bb26">celebrar a paz,</span>_** **_<u>autorizado ou com o referendo do Congresso Nacional</u>;_** 
+> - _XXI - conferir_ **_<span style="color:#b8bb26">condecorações e distinções honoríficas;</span>_** 
+> - _XXII - permitir,_ **_<u>nos casos previstos em lei complementar</u>_**_, que_ **_<span style="color:#b8bb26">forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente;</span>_** 
+> - _IX - decretar o_ **_<span style="color:#fe8019">estado de defesa e o estado de sítio;</span>_** 
+> - _X - decretar e executar a_ **_<span style="color:#fe8019">intervenção federal</span>;_** 
+> - _XIII - exercer o_ **_<span style="color:#fe8019">comando supremo das Forças Armadas, nomear os Comandantes da Marinha, do Exército e da Aeronáutica</span>_**_,_ _promover seus oficiais-generais e nomeá-los para os cargos que lhes são privativos;_    
+> - _XI - remeter mensagem e **plano de governo ao Congresso Nacional** por ocasião da_ **_abertura da sessão legislativa,_** _expondo a situação do País e solicitando as providências que julgar necessárias;_ 
+> - _XII - conceder **indulto** e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei;_ 
+> - _XIV - nomear,_ _**<span style="color:#d3869b">após aprovação pelo Senado Federal</span>**,_ _os Ministros do Supremo Tribunal Federal e dos Tribunais Superiores, os Governadores de Territórios, o Procurador-Geral da República, o presidente e os diretores do banco central e outros servidores, quando determinado em lei;_ 
+> - _XVI - nomear os magistrados, nos casos previstos nesta Constituição, e o Advogado-Geral da União;_ 
+> - _XV - <span style="color:#d3869b">nomear, observado o disposto no art. 73, os Ministros do Tribunal de Contas da União</span>;_ 
+> 	- **_<span style="color:#d3869b">Há a necessidade de aprovação pelo Senado Federal.</span>_** 
+> - _XVII - nomear membros do_ **_Conselho da República,_** _nos termos do art. 89, VII;_ 
+> - _XVIII - convocar e presidir o_ **_Conselho da República e o Conselho de Defesa Nacional;_** 
+> - _XXIII - enviar ao Congresso Nacional o_ **_<span style="color:#83a598">plano plurianual, o projeto de lei de diretrizes orçamentárias e as propostas de orçamento</span>_** _previstos nesta Constituição;_ 
+> - _XXIV -_ **_prestar,_** **_<span style="color:#83a598">anualmente</span>_****_, ao Congresso Nacional, dentro de_** **_<span style="color:#83a598"><u>sessenta dias</u> após a abertura da sessão legislativa</span>,_** **_as_** **_<span style="color:#b8bb26">contas referentes ao exercício <u>anterior</u></span>;_** 
+> 	- ⚠️ Quando <span style="color:#fb4934">não apresentadas</span> (NO PRAZO DOS 60 DIAS), poderá a **Câmara dos Deputados "tomar" as conta do PR.**
+- _XXV -_ **_prover e extinguir_** _os_ **_<span style="color:#b8bb26">cargos públicos federais</span>_**_, na forma da lei;_
+
+> [!IMPORTANT] **_<span style="color:#b8bb26"><u>Prover e desprover</u> cargos públicos</span>:_** 
+> - Podem ser **delegados**: 
+> - <span style="color:#b8bb26">Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União</span>
+
+>[!important] **<span style="color:#b8bb26"><u>Extinguir</u> cargos públicos</span>** 
+>  - **Vagos** - decreto autônomo 
+>  - Podem ser delegados: 
+> 	 - <span style="color:#b8bb26">Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União</span> 
+>  - **Ocupados** - lei formal
+
+> - _XXVI - editar_ **_medidas provisórias_** _com força de lei_ 
+> - _XXVII - exercer outras atribuições previstas nesta Constituição._ 
+> - _XXVIII -_ **_<span style="color:#b8bb26">propor</span>_** **_ao Congresso Nacional_** _a_ **_<span style="color:#b8bb26">decretação do estado de calamidade pública de âmbito nacional</span>_** 
+> 	- ⚠️ Quem irá **decretar** o estado de **calamidade** pública será o **Congresso Nacional**.
+
+**⚠️ Não confunda Anistia, Graça e Indulto:**
+
+![[screenshot_2026-11-12_13-40-19.png]]
+
+**Novas datas de posse (EC nº 111/2021)** 🔥
+
+- Presidente e Vice-Presidente da República: **5 de janeiro**. 
+- Governadores e Vice-Governadores de Estado e do Distrito Federal: **6 de janeiro**. 
+- Aplicação das novas datas: **a partir das eleições de 2026**. 
+- Primeira posse com as novas regras: **janeiro de 2027**.
+        
+
+> [!important] **VEJA COMO ESSE ASSUNTO FOI COBRADO ESSE ANO [#3821539](https://www.tecconcursos.com.br/questoes/3821539)**
+>  **As atribuições de convocar e presidir o Conselho da República e o Conselho de Defesa Nacional, bem como decretar o estado de defesa e o estado de sítio, podem ser delegadas pelo Presidente da República?** 
+>  
+>  Conforme o art. 84 da Constituição da República Federativa do Brasil, compete privativamente ao Presidente da República _convocar e presidir o Conselho da República e o Conselho de Defesa Nacional_ (inc. XVIII) e _decretar o estado de defesa e o estado de sítio_ (inc. IX). Essas são competências expressamente previstas no texto constitucional e não integram o rol de competências que o parágrafo único autoriza a delegar.
+>  
+Além disso, o parágrafo único do art. 84 delimita que apenas as atribuições constantes dos incisos VI, XII e da primeira parte do XXV podem ser delegadas, o que confirma que as matérias indicadas na alternativa B não são delegáveis.
+
+## **1.2. Responsabilização do Presidente da República**
+
+- O PR possui **<span style="color:#b8bb26">IMUNIDADES FORMAIS</span>.**
+- **<span style="color:#fb4934">NÃO</span>** há imunidades materiais ao PR.
+
+### **1.2.1. Imunidades Formais**
+
+- **Irresponsabilidade penal relativa**:
+        - O PR não será responsabilizado por atos estranhos à sua função.
+            - **Não significa que o Presidente ficará impune** por atos estranhos à sua função, mas responderá após o fim do seu mandato.
+            - Há suspensão da ação penal, assim como do prazo de prescrição;
+
+⚠️Crimes praticados **ANTES DO INÍCIO DO MANDATO** são considerados atos estranhos à função presidencial.
+
+⚠️Direcionado apenas às infrações de **natureza penal.**
+
+- - **Não** pode haver **prisão cautelar.** O Presidente da República somente estará sujeito à prisão após sentença condenatória**.**
+    - **STF** - tal imunidade não pode ser direcionada aos Governadores.
+    - Deve haver autorização da **Câmara dos Deputados** para que o PR seja processado e julgado (crimes de responsabilidade e comuns) - **JUÍZO DE ADMISSIBILIDADE.**
+    - ⚠️O juízo de admissibilidade é estendido ao Vice-PR e aos Ministros de Estado.
+    - 🚨 **STF** - Os Estados não têm competência para legislar sobre normas que atrelem a instauração da ação penal em desfavor do Governador (crime comum) à autorização prévia da Assembleia Legislativa.
+
+**1.2.2. Julgamento**
+
+- - **Crimes Comuns** - **STF**
+
+- - - Apenas poderá haver o recebimento da denúncia ou queixa-crime **APÓS** a admissibilidade da Câmara dos Deputados.**(2/3 dos membros da CD);**
+        - STF não é obrigado a aceitar a denúncia;
+        - Quando a **denúncia for recebida pelo STF** ->>> PR será afastado de suas funções pelo prazo de 180 dias (caso ultrapasse 180 dias, o PR voltará a ocupar suas funções);
+        - Caso haja **condenação por crime comum**, o PR perderá o mandato.
+
+- - **Crimes de Responsabilidade** - Julgado pelo **Senado** **Federal**, após admissibilidade da **Câmara dos Deputados**.
+
+⚠️ No Senado Federal, haverá outro **juízo de admissibilidade - o SF decidirá por maioria simples se aceita a acusação.**
+
+- - Quando o **processo for instaurado pelo SF**->>> PR será afastado de suas funções pelo prazo de 180 dias (caso ultrapasse 180 dias, o PR voltará a ocupar suas funções);
+    - Condenação - Voto aberto de 2/3 do SF;
+    - Não há recurso contra o mérito da decisão do SF.
+    - **Penas:**
+
+- - - Perda do cargo; será inabilitado por 8 anos para cargo de função pública;
+    - **STF** - Caso haja renúncia do cargo durante o julgamento, o processo de impeachment continuará.
+    - **STF** - réus em processo-criminal não poderão suceder o PR;
+    - **STF** - o processo-criminal não obsta que seja exercido o cargo de presidente da CD, do SF e do STF.
+
+**⚠️DECORE o art. 85 da CF/88 - Rol exemplificativo:**
+
+_**Art. 85, CF/88.** São_ **_crimes de responsabilidade_** _os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:_
+
+_I - a existência da União;_
+
+_II - o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público e dos Poderes constitucionais das unidades da Federação;_
+
+_III - o exercício dos direitos políticos, individuais e sociais;_
+
+_IV - a segurança interna do País;_
+
+_V - a probidade na administração;_
+
+_VI - a lei orçamentária;_
+
+_VII - o cumprimento das leis e das decisões judiciais._
+
+_Parágrafo único. Esses crimes serão definidos em lei especial, que estabelecerá as normas de processo e julgamento._
+
+🚨**STF** - Os Estados **NÃO** podem legislar sobre crimes de responsabilidade.
+
+**2. Poder Judiciário**
+
+### 2.1. O**rgãos do Poder Judiciário (Art. 92, CF/88)**
+
+São considerados órgãos do Poder Judiciário:
+
+- - ️ **I - Supremo Tribunal Federal (STF)**
+        
+    -  **I-A - Conselho Nacional de Justiça (CNJ)**
+        
+    - **II - Superior Tribunal de Justiça (STJ)**
+        
+    -  **II-A - Tribunal Superior do Trabalho (TST)**
+        
+    - **III - Tribunais Regionais Federais (TRFs) e Juízes Federais**
+        
+    - **IV - Tribunais e Juízes do Trabalho**
+        
+    - **V - Tribunais e Juízes Eleitorais**
+        
+    - **VI - Tribunais e Juízes Militares**
+        
+    - **VII - Tribunais e Juízes dos Estados e do Distrito Federal e Territórios**
+        
+
+### 🚨 **Pontos de atenção importantes!**
+
+- - **Juízes de Paz também fazem parte do Poder Judiciário**, apesar de **não estarem listados expressamente** no rol do art. 92.
+        
+    - A Constituição menciona tanto **Tribunais quanto Juízes** como **órgãos** do Poder Judiciário.  
+        → Isso pode parecer estranho, mas **já caiu em prova!** Grave esse detalhe!
+        
+
+**2.2. Garantias dos juízes**
+
+**1️. Vitaliciedade**
+
+- - **1º Grau** 
+        - Após **2 anos** de exercício
+        - **Durante** os 2 primeiros anos, pode perder o cargo por **deliberação** do tribunal
+            
+        - **Após** esses 2 anos: sentença judicial **transitada em julgado**
+            
+    - **Tribunais -** **QUINTO CONSTITUCIONAL**
+        - Vitaliciedade automática - **NA POSSE**
+        - Perda do cargo - **sentença transitada em julgado**
+
+ ⚠️**Atenção** - pode haver perda do cargo por decisão do **Senado Federal - casos de crime de responsabilidade** - neste caso, não haverá uma decisão judicial para determinar a perda do cargo.
+
+**2. ️Inamovibilidade**
+
+- - **Não pode** sem o consentimento do magistrado, inclusive nos casos de promoção - **RESSALVADOS OS CASOS:**
+        - **Interesse público**, e
+        - Decisão da **maioria absoluta,** respectivo Tribunal ou do CNJ - deve haver **ampla defesa**
+
+**3. ️Irredutibilidade** de Subsídio :
+
+- - Alteração por **LEI ESPECÍFICA**
+    - Remuneração por **SUBSÍDIO**
+    - O que não pode reduzir é o valor **Nominal**, e não o valor real
+        - Ou seja, a irredutibilidade não obriga a recomposição salarial frente à inflação. 
+
+ **STF -** É **inconstitucional** que normas estaduais limitem a idade dos magistrados para ingresso na carreira.
+
+**2.3. Vedações aos Magistrados**
+
+- -  **Acumular** cargo ou função, mesmo que esteja em disponibilidade
+        - SALVO - **uma** de magistério
+    - Receber **ajuda de custos** ou participação em **processo**
+    - Atividade **político-partidária**
+    - Receber **auxílios** ou contribuições **de:**
+        - Pessoa física ou entidades públicas ou privadas, Ressalvado as exceções em lei
+    - Exercer **advocacia** - "quarentena"
+        - **Antes de 3 anos** de afastamento do juízo ou tribunal que exercia suas atividades
+
+⚠️As vedações **cessam quando se aposenta**. Exceto a proibição de exercer advocacia durante **3 anos** no mesmo juízo 
+
+**2.4. Estatuto da Magistratura**
+
+ Lei **Complementar** - inciativa do STF
+
+**▶️Ingresso na carreira:**
+
+- - - Concurso público de provas e títulos, devendo haver **participação da OAB em todas as fases**
+        - No **mínimo,** 3 anos de atividade jurídica
+
+**⚠️Atenção**: o termo que inicia a contagem dos 3 anos de atividade jurídica dar-se **a partir da conclusão do curso de Direito,** portanto, atividades de estágio não servem para esta contagem de tempo.
+
+**⚠️Atenção**: a comprovação dos 3 anos de atividade jurídica ocorrerá no **momento da inscrição definitiva no concurso.**
+
+**▶️Promoção**:
+
+- - entrância para entrância
+    - antiguidade e merecimento, alternadamente
+    - **requisitos**:
+    - **Promoção obrigatória** - 3 vezes consecutivas ou 5 alternadas na lista de merecimento
+    - **Promoção por merecimento** - 2 anos de exercício na entrância + fazer parte do primeiro quinto da lista de antiguidade - no caso de não haver outro que atenda aos requisitos e aceite o cargo vago
+
+ **⚠️Atenção** - na promoção por merecimento - **apenas pode haver a recusa do tribunal** ao juiz mais antigo, caso haja **votação fundamentada com quórum de 2/3** dos membros.
+
+ **⚠️Atenção** - O juiz que **retiver os autos além do prazo legal** previsto, **não será promovido**!
+
+**▶️ Estrutura Remuneratória:**
+
+- - **Subsídio** - parcela única
+    - Tribunais **Superiores** - **95%** do subsídio mensal do **STF**
+    - **Demais magistrados** - será fixado em **lei** - não pode ultrapassar 95% do subsídio mensal dos membros dos Tribunais Superiores
+
+**⚠️ Muito importante!!**
+
+- - **STF** julgou ser **inconstitucional** o **limite estabelecido aos membros da magistratura estadual** - n**ão pode o teto da magistratura estadual ser inferior ao da federal** - **não há o limite de 90,25% do subsídio do STF à magistratura estadual**.
+
+ **▶️ Sanções disciplinares (maioria absoluta)**
+
+- - remoção de ofício
+    - disponibilidade
+
+ **▶️ Aposentadoria**
+
+- - RPPS
+
+ **▶️ Residência na Comarca**
+
+- - Deverá o juiz residir na comarca que exerce sua atividade, salvo autorização do tribunal
+
+ **▶️ Ininterruptabilidade de Jurisdição**
+
+- - XII - a **atividade jurisdicional será ininterrupta,** sendo **vedado férias coletivas** nos juízos e tribunais de segundo grau, funcionando, nos dias em que não houver expediente forense normal, **juízes em plantão permanente**.
+    - **CNJ** - Indevidas as férias coletivas dos servidores do TJ.
+
+ ⚠️ **Atenção:**
+
+- - Quantitativo de juízes será **proporcional** à demanda da população referente
+    - Atos de mero expediente **NÃO** tem caráter decisório
+    - Distribuição **IMEDIATA** dos processos
+    - **Órgão Especial - órgãos fracionários:** (de 11 a 25)
+        - Exercerá funções **administrativas** e **jurisdicionais**
+        - Metade das vagas = **antiguidade**; metade = **eleições**
+            
+        - Quem dispõe sobre esse órgão fracionário é o ****REGIMENTO INTERNO DO TRIBUNAL****
+            
+
+_Art. 93, XI, CF/88. - nos tribunais com_ **_número superior a vinte e cinco julgadores,_** _poderá ser constituído_ _órgão especial,_ _com o_ **_mínimo de onze e o máximo de vinte e cinco membros_**_, para o_ _exercício das_ **_atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno_**_, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo tribunal pleno._
+
+**VEJA COMO A FCC JÁ COBROU ESSE TEMA [#2168807](https://www.tecconcursos.com.br/questoes/2168807)**
+
+**Em quais tribunais pode ser constituído órgão especial, qual deve ser o número mínimo e máximo de seus membros e como se dá o provimento de suas vagas?**
+
+Conforme o art. 93, XI, da Constituição Federal de 1988, nos tribunais com mais de 25 julgadores pode ser constituído órgão especial para o exercício de competências delegadas do tribunal pleno, devendo esse órgão ter mínimo de 11 e máximo de 25 membros, sendo metade das vagas providas por antiguidade e a outra metade por eleição pelo tribunal pleno, exatamente como previsto na opção correta.
+
+**2.5. Quinto Constitucional**
+
+_Art. 94, CF/88. Um quinto dos lugares dos_ **_Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal_** _e Territórios será_ **_composto de membros do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes._**
+
+_Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação._
+
+**Indicações**:
+
+- - Tribunal elabora lista tríplice
+    - Envia ao Executivo
+    - Escolherá um dos integrantes da lista para nomeação
+
+ **Composição**:
+
+- - Membros do MP -> + de 10 anos de carreira
+    - Advogados
+    - Indicados em lista sêxtupla pelos órgãos de representação das respectivas classes
+    - Notório saber jurídico e reputação ilibada
+    - + de 10 anos de carreira
+
+ Não seguem a regra do quinto Constitucional:
+
+- - STF, TSE, TRE, STM
+
+**💡Bizurando a** **Regra do Quinto Constitucional:**
+
+- - Membros do **MP com Mais de 10 anos**, e
+    - **Advogados** com notório saber jurídico+ reputação ilibada e +**10 anos,**
+    - **Indicados em lista SEXTUPLA** pelos órgãos representantes de classe
+        - Aí o tribunal forma a lista **tríplice** e **envia ao executivo**
+    - O Executivo indicará em **20 dias**
+
+# 2.6. Precatórios (pagamentos de condenações contra a Fazenda)
+
+- - São requisições de pagamento de valores devidos por entes públicos em razão de sentença judicial transitada em julgado.
+        
+    - **Ordem e prioridade:** existe regime para apresentação e pagamento; critérios de prioridade (por exemplo, pessoa idosa, depósitos alimentares) costumam ser cobrados.
+        
+    - **Atualização/juros e regimes de pagamento:** regras de atualização e juros podem ser objeto de mudanças/receitamentos por resoluções e provimentos do Judiciário; atenção a reformas/novas normas que alteram índices e procedimentos.
+        
+    - Planejamento orçamentário: entes públicos precisam prever precatórios em seus orçamentos; planos de pagamento e parcelamentos surgem em debates e questões práticas.
+        
+    - **💡Para a prova:** distinção entre precatório e requisição de pequeno valor; consequências do não pagamento (inscrição em restos a pagar, bloqueios).
+        
+
+**3. Funções Essenciais à Justiça**
+
+**3.1. Ministério Público**
+
+⚠️ **SAIBA QUE:**
+
+-MP **não** compõe a estrutura de quaisquer dos **Poderes**
+
+**-Autônomo** e **Independente ✅**
+
+**⏩Organização**
+
+![[screenshot_2026-11-12_13-41-22.png]]
+
+**🚨Conflitos de competência**
+
+|   |   |
+|---|---|
+|**Situação**|**Quem decide**|
+|MP do **mesmo Estado**|**PGJ** do referido **Estado**|
+|MP de **ramos distintos**|**PGR**|
+|**Membros** do **MPF**|**Câmaras** de Coordenação e Revisão, **com recurso ao PGR**|
+|MPF e MPE ou MP de **Estados diferentes**|**Conselho Nacional** do Ministério Público|
+
+**Ingresso na carreira**
+
+- - concurso público >> provas **E** títulos
+    - bacharel em Direito
+    - 3 anos de atividade jurídica
+
+⚠️ O tempo de atividade jurídica só começa a contar **depois de concluída a graduação**
+
+**3.1.1. Garantias do MP**
+
+- - **Vitaliciedade**
+        - após 2 anos de efetivo exercício
+        - perda do cargo - sentença transitada em julgado
+    - **Inamovibilidade**
+        - **salvo por interesse público**
+        - Decisão do Conselho Superior
+        - **maioria absoluta**
+        - **ampla defesa**
+    - **Irredutibilidade de subsídios**
+        - apenas na CF/88
+    - **Autonomia funcional, administrativa e orçamentária-financeira**
+
+⚠️ **Atente-se que:**
+
+- - Aplicam-se aos membros do MP as **garantias da magistratura** - art. 90, parágrafo único, V
+    - Inerentes ao exercício das funções - **IRRENUNCIÁVEIS**
+    - Presença e palavras asseguradas - em todas as sessões dos colegiados em que atuem
+
+**Princípios Institucionais:**
+
+- - **Unidade**
+        - Qualquer membro pode exercer qualquer atribuição funcional
+    - **Órgão único** - **não há unidade entre MP de ramos diferentes e de Estados diferentes**
+        - Junto ao STF - PGR representa todos os ramos do MPU
+        - Apesar deste princípio, **NÃO CONFUNDA**, o MP é dividido em **órgãos** (MPU e MPE), devido à **repartição de competência**.
+    - **Indivisibilidade**
+        - Atuação atribuída ao órgão e não aos membros
+        - Integrantes da instituição podem ser substituídos uns pelos outros, **desde que da mesma carreira**
+    - **Independência funcional**
+        - Para o desemprenho de suas atribuições, **não estão subordinados a nenhum dos poderes**
+        - Subordinação ao Procurador-Geral respectivo é apenas **administrativa**
+        - Independência externa (orgânica)
+        - Independência interna
+    - **Princípio do promotor natural**
+    
+
+**3.1.2. Chefia do Ministério Público**
+
+**PGR**
+
+- - nomeado pelo Presidente da República
+    - integrantes da carreira
+    - > 35 anos
+    - aprovação **maioria absoluta** do Senado Federal
+    - Chefe do MPU
+    - 2 anos de mandato - pode haver **reconduções sucessivas**
+
+**PGJ**
+
+_Art. 128, § 3º, CF/88_
+
+_Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, permitida uma recondução._
+
+⚠️ **Atente-se para semelhanças e diferenças entre o PGJ e o PGR:**
+
+- O PGJ só pode ter **UMA** recondução
+
+**3.1.3. Vedações**
+
+- - Exercer advocacia no juízo ou tribunal do qual se afastou **antes de decorridos 3 anos do afastamento** do cargo por aposentadoria ou exoneração
+    - Receber auxílios ou contribuições de:
+        - Pessoa física ou entidades públicas ou privadas
+        - **Ressalvadas as exceções previstas em lei** ⚠️
+    - Exercer atividade político partidária
+    - Receber honorários ou custas processuais
+    - Exercer advocacia
+    - Participar de sociedade comercial
+    - Exercer qualquer outra função pública, ainda que em disponibilidade
+        - **Ressalvado uma de magistérios** ⚠️
+
+**3.1.4. Conselho Nacional do Ministério Público - CNMP**
+
+- - Atua em território nacional
+    - Órgão de controle interno do MP
+    - zelar pela **atuação administrativa e financeira do MP** e pelo cumprimento dos **deveres funcionais de seus membros** ⚠️
+    - tem competência para **avocar processos disciplinares** e **aplicar sanções administrativas** aos membros do MP
+
+🚨 Os processos devem ter sido julgados há **menos de um ano**
+
+**14 Membros** - Nomeados pelo PR (escolha aprovada por maioria absoluta do SF)
+
+- - Procurador Geral da República - Presidente do CNMP
+    - 4 membros do MPU
+    - 3 membros dos MPEs
+    - 2 juízes
+        - 1 indicado pelo STF
+        - 1 indicado pelo STJ
+    - 2 advogados indicados pela OAB
+    - 2 cidadãos de:
+        - notável saber jurídico
+        - reputação ilibada
+        - 1 indicado pela CD
+        - 1 indicado pelo SF
+
+⚠️ Mandato de **2 anos - admitida 1 recondução**
+
+**▶️ Corregedor nacional**
+
+- - votação secreta do próprio CNMP
+    - escolhido entre membros do MP que integram o CNMP
+    - **não** pode haver recondução
+    - compete - receber reclamações e denúncias de quaisquer interessados, relativas aos membros do MP e dos seus servidores auxiliares ⚠️
+
+STF - o CNMP pode apreciar ato de vitaliciedade dos membros do MP
+
+**VEJA COMO O TEMA JÁ FOI COBRADO PEL****A FCC** [#3556002](https://www.tecconcursos.com.br/questoes/3556002) 
+
+**Como ocorre a nomeação do Procurador-Geral da República e qual é a duração do seu mandato?** 
+
+Conforme a Constituição Federal de 1988, art. 128, §1º, o Ministério Público da União tem por chefe o Procurador-Geral da República, indicado pelo Presidente da República dentre integrantes da carreira, com idade mínima de 35 anos, submetido à aprovação pela maioria absoluta do Senado Federal, para mandato de dois anos, permitida a recondução.
+
+**3.2. Advocacia Pública**
+
+- - **Ingresso:**
+        - Concursos de Provas **E** Títulos
+    - Assessoramento jurídico ao **EXECUTIVO**
+
+**STF** - caso de execução da dívida ativa de **NATUREZA TRIBUTÁRIA** - cabe à **PGFN**
+
+**STF** - **inconstitucional** a criação de procuradorias **autárquicas**
+
+1. 1. Advocacia-Geral da União - União
+    2. Procuradorias estaduais - Estados e DF
+    3. Procuradorias municipais - Municípios
+
+⚠️ Os **Procuradores Estaduais não possuem prerrogativa de foro.**
+
+**Advocacia-Geral da União**
+
+- - **Chefe:**
+        - Advogado Geral da União
+        - Livre nomeação pelo PR (sem necessitar aprovação do SF)
+        - Idade > 35 anos
+        - Notável saber jurídico e reputação ilibada
+    - **Ingresso:**
+        - Provas **E** títulos, com a participação da **OAB**
+
+⚠️Organização e funcionamento serão regulados por Lei Complementar.
+
+⚠️Representa a União **diretamente** ou através de **órgão vinculado**
+
+- - judicial
+    - extrajudicial
+
+⚠️ A Procuradoria-Geral da Fazenda Nacional **(PGFN)** é **órgão da AGU** e representa a União em **execução de dívida ativa**.
