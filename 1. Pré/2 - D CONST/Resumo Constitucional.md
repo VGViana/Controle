@@ -1735,7 +1735,9 @@ Além disso, o parágrafo único do art. 84 delimita que apenas as atribuições
 	- Perda do cargo; será inabilitado por 8 anos para cargo de função pública;
 
 > **STF** - Caso haja renúncia do cargo durante o julgamento, o processo de impeachment continuará.
+
 > **STF** - réus em processo-criminal não poderão suceder o PR;
+
 > **STF** - o processo-criminal não obsta que seja exercido o cargo de presidente da CD, do SF e do STF.
 
 **⚠️<span style="color:#d3869b">DECORE o art. 85 da CF/88 - Rol exemplificativo:</span>**
