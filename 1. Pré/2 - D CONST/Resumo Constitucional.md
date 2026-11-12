@@ -483,21 +483,15 @@ Elementos principais:
 - **Adaptação razoável:** Quando é possível criar <u>adaptações para pessoas deficientes</u> que <u>não importem em ônus desproporcionais</u> ou indevidos
 	- Garantir igualdade de oportunidades a todos
 
-**👀 VEJA COMO A FCC COBROU DIREITOS DA NACIONALIDADE ESSE ANO NA QUESTÃO [#3822935](https://www.tecconcursos.com.br/questoes/3822935)**
-
-**Por que a pessoa nascida em território nacional, cujos pais estavam “a serviço” de país estrangeiro, não é considerada brasileira nata segundo o art. 12 da Constituição Federal?**
-
-- A Constituição Federal define quem são os **brasileiros natos** (art. 12, I): são, entre outros, os nascidos na Brasil, “ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país”.
-    
-- O próprio art. 12, §3º, reserva **certos cargos** exclusivamente a brasileiros natos — entre eles **a carreira diplomática** (inciso V) e **o cargo de oficial das Forças Armadas** (inciso VI).
-    
-- Aplicação ao caso concreto (apenas com as informações dadas):
-    
-    - **Alessandra** — nasceu na Brasil quando seus pais, **da Espanha**, estavam “a serviço” do seu país. Pela exceção do art. 12, I, alínea a, **não** é brasileira nata (filho de estrangeiros a serviço do país estrangeiro não adquire a nacionalidade nata pelo local de nascimento).
-        
-    - **Matheus** — nasceu na Inglaterra quando seus pais (brasileiros) lá estavam **a serviço do Brasil**; nessa hipótese a Constituição qualifica-o como **brasileiro nato** (art. 12, I, alínea b).
-        
-    - **Valentim** — é naturalizado brasileiro após 17 anos de residência; naturalizados **não** são brasileiros natos e, portanto, ficam fora dos cargos privativos previstos no art. 12, §3º (ex.: carreira diplomática; oficial das Forças Armadas).
+> [!important] **VEJA COMO A FCC COBROU DIREITOS DA NACIONALIDADE ESSE ANO NA QUESTÃO [#3822935](https://www.tecconcursos.com.br/questoes/3822935)** 
+> 
+> **Por que a pessoa nascida em território nacional, cujos pais estavam “a serviço” de país estrangeiro, não é considerada brasileira nata segundo o art. 12 da Constituição Federal?**  >  
+> - A Constituição Federal define quem são os **brasileiros natos** (art. 12, I): são, entre outros, os nascidos na Brasil, “ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país”.  
+> - O próprio art. 12, §3º, reserva **certos cargos** exclusivamente a brasileiros natos — entre eles **a carreira diplomática** (inciso V) e **o cargo de oficial das Forças Armadas** (inciso VI). 
+> - Aplicação ao caso concreto (apenas com as informações dadas): 
+> 	- **Alessandra** — nasceu na Brasil quando seus pais, **da Espanha**, estavam “a serviço” do seu país. Pela exceção do art. 12, I, alínea a, **não** é brasileira nata (filho de estrangeiros a serviço do país estrangeiro não adquire a nacionalidade nata pelo local de nascimento). 
+> 	- **Matheus** — nasceu na Inglaterra quando seus pais (brasileiros) lá estavam **a serviço do Brasil**; nessa hipótese a Constituição qualifica-o como **brasileiro nato** (art. 12, I, alínea b). 
+> 	- **Valentim** — é naturalizado brasileiro após 17 anos de residência; naturalizados **não** são brasileiros natos e, portanto, ficam fora dos cargos privativos previstos no art. 12, §3º (ex.: carreira diplomática; oficial das Forças Armadas).
 
 ## **Remédios constitucionais**
 
@@ -684,15 +678,15 @@ Elementos principais:
 5. **<span style="color:#fe8019">Decisão recentes sobre direito de reunião/manifestação</span>: remoção de acampamentos na Papuda ==(ordem do ministro Alexandre de Moraes, jan/2026)==**  
     _Tese/efeito:_ determinação, a pedido da PGR, para <span style="color:#fe8019">remoção/proibição de acampamentos próximos ao Complexo da Papuda</span> por risco à segurança/ordem pública; corte ressaltou que direito de reunião não é absoluto e deve compatibilizar-se com outras garantias.
 
-👀 **VEJA COMO O ASSUNTO <u>DIREITOS E DEVERES INDIVIDUAIS  E COLETIVOS</u> ACABOU SER SER COBRADO PELA FCC NA QUESTÃO** [#3822911](https://www.tecconcursos.com.br/questoes/3822911)
-
-**Como a Constituição Federal regula a  sucessão de bens de estrangeiros situados no País?**
-
-A regra constitucional estabelece que “a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira, em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus”. Essa cláusula está no artigo 5º, inciso XXXI, da Constituição Federal.
-
-A Lei de Introdução às Normas do Direito Brasileiro (LINDB) confirma a regra geral de direito internacional privado para sucessões: a sucessão obedece à lei do país em que o falecido era domiciliado; e, no §1º do art. 10, prevê expressamente que “a sucessão de bens de estrangeiros, situados no País, será regulada pela lei brasileira … sempre que não lhes seja mais favorável a lei do domicílio”. Como Hans vivia no Brasil há mais de 30 anos (logo, domiciliado no Brasil), a lei aplicável é, em princípio, a brasileira — e, mesmo no caso de regra especial para estrangeiros, aplica-se a proteção constitucional/da LINDB em favor do herdeiro brasileiro.
-
-No caso da questão, Hans era domiciliado no Brasil (viveu aqui >30 anos). Pela LINDB (art. 10, caput), a sucessão obedece à lei do domicílio do de cujus — portanto, **a sucessão será regulada pela lei brasileira em benefício de Karl**. Além disso, mesmo se houvesse discussão por ser estrangeiro, o art. 5º, XXXI, assegura aplicação da lei brasileira quando tal aplicação favoreça o herdeiro brasileiro.
+> [!important] **VEJA COMO O ASSUNTO <u>DIREITOS E DEVERES INDIVIDUAIS  E COLETIVOS</u> ACABOU SER SER COBRADO PELA FCC NA QUESTÃO** [#3822911](https://www.tecconcursos.com.br/questoes/3822911) 
+> 
+> **Como a Constituição Federal regula a  sucessão de bens de estrangeiros situados no País?** 
+> 
+> A regra constitucional estabelece que “a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira, em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus”. Essa cláusula está no artigo 5º, inciso XXXI, da Constituição Federal. 
+> 
+> A Lei de Introdução às Normas do Direito Brasileiro (LINDB) confirma a regra geral de direito internacional privado para sucessões: a sucessão obedece à lei do país em que o falecido era domiciliado; e, no §1º do art. 10, prevê expressamente que “a sucessão de bens de estrangeiros, situados no País, será regulada pela lei brasileira … sempre que não lhes seja mais favorável a lei do domicílio”. Como Hans vivia no Brasil há mais de 30 anos (logo, domiciliado no Brasil), a lei aplicável é, em princípio, a brasileira — e, mesmo no caso de regra especial para estrangeiros, aplica-se a proteção constitucional/da LINDB em favor do herdeiro brasileiro. 
+> 
+> No caso da questão, Hans era domiciliado no Brasil (viveu aqui >30 anos). Pela LINDB (art. 10, caput), a sucessão obedece à lei do domicílio do de cujus — portanto, **a sucessão será regulada pela lei brasileira em benefício de Karl**. Além disso, mesmo se houvesse discussão por ser estrangeiro, o art. 5º, XXXI, assegura aplicação da lei brasileira quando tal aplicação favoreça o herdeiro brasileiro.
 
 # **5. Organização Político - Administrativa**
 
@@ -754,11 +748,11 @@ Compreende: **União, Estados e Municípios (UnEM)**
 - Não os efetuar **até dia 20** de cada mês
 - Enviar **a menor que a Lei orçamentária** mandar
 
-👀 **VEJA COMO A FCC COBROU ESSE ASSUNTO EM 2025 NA CGM/SP NA QUESTÃO** **[#3362938](https://www.tecconcursos.com.br/questoes/3362938)**
-
-**Qual dispositivo da Constituição estabelece que criação, incorporação, fusão e desmembramento de municípios só podem ocorrer por lei estadual, no prazo fixado por lei complementar federal, e mediante plebiscito com prévia divulgação dos estudos de viabilidade municipal?** 
-
-Conforme o art. 18, §4º, da Constituição da República Federativa do Brasil, a criação, incorporação, fusão e desmembramento de municípios far-se-ão por **lei estadual**, dentro do prazo estabelecido por **lei complementar federal**, e **dependem de consulta prévia, mediante plebiscito, às populações envolvidas**, obedecidos os estudos de viabilidade municipal apresentados e publicados na forma da lei. Esse texto constitucional é a norma que disciplina exatamente o procedimento descrito na alternativa D, razão pela qual ela é correta.
+> [!important] **VEJA COMO A FCC COBROU ESSE ASSUNTO EM 2025 NA CGM/SP NA QUESTÃO** **[#3362938](https://www.tecconcursos.com.br/questoes/3362938)** 
+> 
+> **Qual dispositivo da Constituição estabelece que criação, incorporação, fusão e desmembramento de municípios só podem ocorrer por lei estadual, no prazo fixado por lei complementar federal, e mediante plebiscito com prévia divulgação dos estudos de viabilidade municipal?**  
+> 
+> Conforme o art. 18, §4º, da Constituição da República Federativa do Brasil, a criação, incorporação, fusão e desmembramento de municípios far-se-ão por **lei estadual**, dentro do prazo estabelecido por **lei complementar federal**, e **dependem de consulta prévia, mediante plebiscito, às populações envolvidas**, obedecidos os estudos de viabilidade municipal apresentados e publicados na forma da lei. Esse texto constitucional é a norma que disciplina exatamente o procedimento descrito na alternativa D, razão pela qual ela é correta.
 
 ## **Destaques da Jurisprudência**
 
@@ -1087,14 +1081,13 @@ e) <span style="color:#fe8019">militares dos estados e do Distrito Federal</spa
 	- <span style="color:#fe8019">cargos eletivos</span>;
 	- <span style="color:#d3869b">cargos em comissão</span> declarados em lei de livre nomeação e exoneração.
 
-**👀 VEJA COMO O TEMA SERVIDORES PÚBLICOS FOI COBRADO PELA FCC ESSE ANO, NA QUESTÃO** [#3822943](https://www.tecconcursos.com.br/questoes/3822943)
+> [!important] **VEJA COMO O TEMA SERVIDORES PÚBLICOS FOI COBRADO PELA FCC ESSE ANO, NA QUESTÃO** [#3822943](https://www.tecconcursos.com.br/questoes/3822943) 
+> 
+> **Qual dispositivo da Constituição Federal determina que, quando a demissão de servidor estável é invalidada por decisão judicial, ele deve ser reintegrado, com recondução do eventual ocupante da vaga sem direito a indenização?** 
+> 
+> O regime constitucional sobre estabilidade e reintegração prevê que, se for invalidada por sentença judicial a demissão do servidor estável, ele será reintegrado; o eventual ocupante da vaga será reconduzido ao cargo de origem (se estável), sem direito a indenização, ou aproveitado em outro cargo/posto em disponibilidade, com remuneração proporcional ao tempo de serviço — conforme art. 41, § 2º da **Constituição Federal**.
 
-**Qual dispositivo da Constituição Federal determina que, quando a demissão de servidor estável é invalidada por decisão judicial, ele deve ser reintegrado, com recondução do eventual ocupante da vaga sem direito a indenização?**
-
-O regime constitucional sobre estabilidade e reintegração prevê que, se for invalidada por sentença judicial a demissão do servidor estável, ele será reintegrado; o eventual ocupante da vaga será reconduzido ao cargo de origem (se estável), sem direito a indenização, ou aproveitado em outro cargo/posto em disponibilidade, com remuneração proporcional ao tempo de serviço — conforme art. 41, § 2º da **Constituição Federal**.
-
-# 🔥 DESTAQUES DA JURISPRUDÊNCIA RECENTE:
-
+ 🔥 DESTAQUES DA JURISPRUDÊNCIA RECENTE: 
 Supremo Tribunal Federal
 
 | Processo / Tema                                                     | Ano       | Resumo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Impacto / Observações                                                                                                                                                 |
@@ -1326,11 +1319,11 @@ Quanto às limitações materiais **implícitas** podemos elencar, dentre outr
 
 > "Com relação a emendas constitucionais, o parâmetro de aferição de sua constitucionalidade é estreitíssimo, adstrito às limitações materiais, explícitas ou implícitas, que a Constituição imponha induvidosamente ao mais eminente dos poderes instituídos, qual seja o órgão de sua própria reforma. Nem da interpretação mais generosa das chamadas "cláusulas pétreas" poderia resultar que um juízo de eventuais inconveniências se convertesse em declaração de inconstitucionalidade da emenda constitucional que submeta certa vantagem funcional ao teto constitucional de vencimentos" (MS 24.875, rel. min. Sepúlveda Pertence, julgamento 11/5/2006, Plenário)
 
-👀**VEJA COMO ESSE TEMA FOI COBRADO NA SEFAZ/PI, PELA FCC, NA QUESTÃO** [#3555994](https://www.tecconcursos.com.br/questoes/3555994)
-
-**De acordo com a Constituição Federal de 1988, como se dá o processo de aprovação de uma Proposta de Emenda à Constituição (PEC) no Congresso Nacional, quanto ao número de turnos de votação, ao quórum exigido para aprovação e à possibilidade de reapresentação de matéria rejeitada na mesma sessão legislativa?**
-
-A Constituição Federal de 1988 prevê que a emenda pode ser proposta **pelo Presidente da República** e que a proposta deve ser **discutida e votada em cada Casa do Congresso Nacional em dois turnos**, sendo aprovada somente se obtiver, **em ambos os turnos, três quintos dos votos dos respectivos membros**. Além disso, dispõe que **a matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa**.
+ > [!important] **VEJA COMO ESSE TEMA FOI COBRADO NA SEFAZ/PI, PELA FCC, NA QUESTÃO** [#3555994](https://www.tecconcursos.com.br/questoes/3555994) 
+ > 
+ > **De acordo com a Constituição Federal de 1988, como se dá o processo de aprovação de uma Proposta de Emenda à Constituição (PEC) no Congresso Nacional, quanto ao número de turnos de votação, ao quórum exigido para aprovação e à possibilidade de reapresentação de matéria rejeitada na mesma sessão legislativa?** 
+ > 
+ > A Constituição Federal de 1988 prevê que a emenda pode ser proposta **pelo Presidente da República** e que a proposta deve ser **discutida e votada em cada Casa do Congresso Nacional em dois turnos**, sendo aprovada somente se obtiver, **em ambos os turnos, três quintos dos votos dos respectivos membros**. Além disso, dispõe que **a matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa**.
 
 # **8. Processo Legislativo** 
 
@@ -1449,13 +1442,12 @@ Saiba que a **<span style="color:#b8bb26">parte do projeto que não foi vetada 
 **<span style="color:#fe8019">Não há controle judicial sobre o mérito do veto</span>** pelo Poder **Judiciário!** No entanto, **<span style="color:#b8bb26">caberá controle judiciário caso o veto ocorra <u>após os 15 dias úteis</u></span>**<u> da sanção</u>
 
 
-👀**VEJA COMO A FCC COBROU O TEMA ESSE ANO** [#3826819](https://www.tecconcursos.com.br/questoes/3826819) 
-
-**Quando o Presidente da República veta parcialmente um projeto de lei por inconstitucionalidade,** **como deve ocorrer a apreciação desse veto pelo Congresso Nacional** **quanto à forma de deliberação e ao prazo para análise?**
-
-Conforme a CF de 1988, o Presidente da Presidente da República pode vetar total ou parcialmente projeto de lei quando o considerar **inconstitucional** (ou contrário ao interesse público). No caso descrito houve alegação de violação de princípios constitucionais (isonomia; segurança jurídica), o que caracteriza **fundamento de inconstitucionalidade**, e o veto abrangeu apenas dispositivos — logo, trata-se de **veto parcial por inconstitucionalidade**.
-
-Além disso, a Constituição determina que o **veto será apreciado em sessão conjunta do Congresso Nacional** **dentro de 30 dias** contados do seu recebimento, e que, esgotado esse prazo sem deliberação, o veto será colocado na ordem do dia da sessão imediata, com sobrestamento das demais proposições até sua votação final. A rejeição do veto só pode ocorrer pelo **voto da maioria absoluta dos Deputados e Senadores**.
+> [!important] **VEJA COMO A FCC COBROU O TEMA ESSE ANO** [#3826819](https://www.tecconcursos.com.br/questoes/3826819)  
+> **Quando o Presidente da República veta parcialmente um projeto de lei por inconstitucionalidade,** **como deve ocorrer a apreciação desse veto pelo Congresso Nacional** **quanto à forma de deliberação e ao prazo para análise?** 
+> 
+> Conforme a CF de 1988, o Presidente da Presidente da República pode vetar total ou parcialmente projeto de lei quando o considerar **inconstitucional** (ou contrário ao interesse público). No caso descrito houve alegação de violação de princípios constitucionais (isonomia; segurança jurídica), o que caracteriza **fundamento de inconstitucionalidade**, e o veto abrangeu apenas dispositivos — logo, trata-se de **veto parcial por inconstitucionalidade**. 
+> 
+> Além disso, a Constituição determina que o **veto será apreciado em sessão conjunta do Congresso Nacional** **dentro de 30 dias** contados do seu recebimento, e que, esgotado esse prazo sem deliberação, o veto será colocado na ordem do dia da sessão imediata, com sobrestamento das demais proposições até sua votação final. A rejeição do veto só pode ocorrer pelo **voto da maioria absoluta dos Deputados e Senadores**.
 
 
 # **9.Fiscalização contábil, financeira e orçamentária**
@@ -1475,11 +1467,10 @@ Além disso, a Constituição determina que o **veto será apreciado em sessão
 	- Legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas;
 	- Realizado sobre qualquer pessoa (física ou jurídica) que esteja envolvida (utilize, arrecade, gerencie, administre) com recursos públicos.
 
-👀 **VEJA COMO A FCC COBROU SISTEMA DE CONTROLE INTERNO NA QUESTÃO** [#3565479](https://www.tecconcursos.com.br/questoes/3565479)
-
-**Quais aspectos dos atos da administração pública devem ser fiscalizados pelo sistema de controle interno e qual é o seu papel na avaliação da execução dos programas governamentais e do cumprimento das metas previstas na Lei de Diretrizes Orçamentárias?** 
-
-Conforme os arts. 70 e 74 da Constituição Federal, o sistema de controle (controle externo — via Congresso e tribunais de contas — e o controle interno de cada Poder) tem por finalidade a fiscalização contábil, financeira, orçamentária, operacional e patrimonial, inclusive para verificar **legalidade, legitimidade e economicidade** dos atos e **avaliar a execução dos programas e o cumprimento das metas previstas no plano plurianual e na Lei de Diretrizes Orçamentárias**. Assim, o papel institucional do controle interno inclui exatamente essa verificação e avaliação da execução orçamentária e programática, bem como o controle da legalidade, legitimidade e economicidade.
+> [!important] **VEJA COMO A FCC COBROU SISTEMA DE CONTROLE INTERNO NA QUESTÃO** [#3565479](https://www.tecconcursos.com.br/questoes/3565479) 
+> **Quais aspectos dos atos da administração pública devem ser fiscalizados pelo sistema de controle interno e qual é o seu papel na avaliação da execução dos programas governamentais e do cumprimento das metas previstas na Lei de Diretrizes Orçamentárias?**  
+> 
+> Conforme os arts. 70 e 74 da Constituição Federal, o sistema de controle (controle externo — via Congresso e tribunais de contas — e o controle interno de cada Poder) tem por finalidade a fiscalização contábil, financeira, orçamentária, operacional e patrimonial, inclusive para verificar **legalidade, legitimidade e economicidade** dos atos e **avaliar a execução dos programas e o cumprimento das metas previstas no plano plurianual e na Lei de Diretrizes Orçamentárias**. Assim, o papel institucional do controle interno inclui exatamente essa verificação e avaliação da execução orçamentária e programática, bem como o controle da legalidade, legitimidade e economicidade.
 
 ## **9.2. Tribunais de Contas**
 
@@ -1611,12 +1602,11 @@ Na prática, o efeito principal é este: os Tribunais de Contas dos Estados, do 
 - Consequência administrativa: Estados/órgãos afetados deverão **adequar normas e procedimentos internos** para respeitar o entendimento.
     
 
-# **DESTAQUES DA JURISPRUDÊNCIA RECENTE** 🔥
-
-- **⭐ADPF 854- decisão monocráticas do Min. Flávio Dino- Emendas Parlamentares:** Suspensão temporária de pagamentos até atendimento de critérios de transparência; depois liberação condicionada com regras (pertinência temática, rastreabilidade, contas específicas). Orientação sobre emendas de comissão/bancada/individuais;
-- **Informativos STF n.1013 e 1023:** Instauração de CPI: não cabe juízo discricionário da mesa/plenário para obstar criação; limitações sobre convocação de governadores por CPI federal;
-- **Regras estaduais para escolha de conselheiros do TCE:** STF reconheceu constitucionalidade de voto secreto para escolha de conselheiros em alguns casos, mas também anulou dispositivos estaduais quando violavam princípios;
-- **Matérias administrativas/recursos repetitivos:** STJ segue julgando recursos repetitivos e temas ligados à atuação dos entes/atos administrativos e sua relação com normas do Legislativo estadual/federal (menos “case law” unificado sobre emendas, mas importante para conflitos processuais)
+>[!important] **DESTAQUES DA JURISPRUDÊNCIA RECENTE** 🔥 
+>- **⭐ADPF 854- decisão monocráticas do Min. Flávio Dino- Emendas Parlamentares:** Suspensão temporária de pagamentos até atendimento de critérios de transparência; depois liberação condicionada com regras (pertinência temática, rastreabilidade, contas específicas). Orientação sobre emendas de comissão/bancada/individuais;  
+> - **Informativos STF n.1013 e 1023:** Instauração de CPI: não cabe juízo discricionário da mesa/plenário para obstar criação; limitações sobre convocação de governadores por CPI federal; 
+> - **Regras estaduais para escolha de conselheiros do TCE:** STF reconheceu constitucionalidade de voto secreto para escolha de conselheiros em alguns casos, mas também anulou dispositivos estaduais quando violavam princípios; 
+> - **Matérias administrativas/recursos repetitivos:** STJ segue julgando recursos repetitivos e temas ligados à atuação dos entes/atos administrativos e sua relação com normas do Legislativo estadual/federal (menos “case law” unificado sobre emendas, mas importante para conflitos processuais)
 
 # **1. Poder Executivo**
 
@@ -1704,437 +1694,419 @@ Além disso, o parágrafo único do art. 84 delimita que apenas as atribuições
 
 ### **1.2.1. Imunidades Formais**
 
-- **Irresponsabilidade penal relativa**:
-        - O PR não será responsabilizado por atos estranhos à sua função.
+- **<span style="color:#83a598">Irresponsabilidade penal relativa</span>**:
+        - O PR não será responsabilizado por <span style="color:#fb4934">atos estranhos</span> à sua função.
             - **Não significa que o Presidente ficará impune** por atos estranhos à sua função, mas responderá após o fim do seu mandato.
             - Há suspensão da ação penal, assim como do prazo de prescrição;
 
-⚠️Crimes praticados **ANTES DO INÍCIO DO MANDATO** são considerados atos estranhos à função presidencial.
+⚠️Crimes praticados **<span style="color:#fb4934">ANTES DO INÍCIO DO MANDATO</span>** são considerados <span style="color:#fb4934">atos estranhos</span> à função presidencial.
 
-⚠️Direcionado apenas às infrações de **natureza penal.**
+⚠️Direcionado apenas às infrações de **<span style="color:#fe8019">natureza penal</span>.**
 
-- - **Não** pode haver **prisão cautelar.** O Presidente da República somente estará sujeito à prisão após sentença condenatória**.**
-    - **STF** - tal imunidade não pode ser direcionada aos Governadores.
-    - Deve haver autorização da **Câmara dos Deputados** para que o PR seja processado e julgado (crimes de responsabilidade e comuns) - **JUÍZO DE ADMISSIBILIDADE.**
-    - ⚠️O juízo de admissibilidade é estendido ao Vice-PR e aos Ministros de Estado.
-    - 🚨 **STF** - Os Estados não têm competência para legislar sobre normas que atrelem a instauração da ação penal em desfavor do Governador (crime comum) à autorização prévia da Assembleia Legislativa.
+- **<span style="color:#83a598">Não</span>** <span style="color:#83a598">pode haver</span> **<span style="color:#83a598">prisão cautelar</span>.** O Presidente da República somente estará sujeito à prisão após sentença condenatória.
 
-**1.2.2. Julgamento**
+> **STF** - tal imunidade não pode ser direcionada aos Governadores.
 
-- - **Crimes Comuns** - **STF**
+- Deve haver autorização da **<span style="color:#b8bb26">Câmara dos Deputados</span>** para que o PR seja processado e julgado (crimes de responsabilidade e comuns) - **<span style="color:#d3869b">JUÍZO DE ADMISSIBILIDADE.</span>**
+- ⚠️O juízo de admissibilidade é estendido ao Vice-PR e aos Ministros de Estado.
 
-- - - Apenas poderá haver o recebimento da denúncia ou queixa-crime **APÓS** a admissibilidade da Câmara dos Deputados.**(2/3 dos membros da CD);**
-        - STF não é obrigado a aceitar a denúncia;
-        - Quando a **denúncia for recebida pelo STF** ->>> PR será afastado de suas funções pelo prazo de 180 dias (caso ultrapasse 180 dias, o PR voltará a ocupar suas funções);
-        - Caso haja **condenação por crime comum**, o PR perderá o mandato.
+> 🚨 **STF** - Os Estados não têm competência para legislar sobre normas que atrelem a instauração da ação penal em desfavor do Governador (crime comum) à autorização prévia da Assembleia Legislativa.
 
-- - **Crimes de Responsabilidade** - Julgado pelo **Senado** **Federal**, após admissibilidade da **Câmara dos Deputados**.
+### **1.2.2. Julgamento**
 
-⚠️ No Senado Federal, haverá outro **juízo de admissibilidade - o SF decidirá por maioria simples se aceita a acusação.**
+- **Crimes Comuns** - **STF**
 
-- - Quando o **processo for instaurado pelo SF**->>> PR será afastado de suas funções pelo prazo de 180 dias (caso ultrapasse 180 dias, o PR voltará a ocupar suas funções);
-    - Condenação - Voto aberto de 2/3 do SF;
-    - Não há recurso contra o mérito da decisão do SF.
-    - **Penas:**
+	- Apenas poderá haver o recebimento da denúncia ou queixa-crime **<span style="color:#fb4934">APÓS</span>** a <u>admissibilidade da Câmara dos Deputados.</u>**<span style="color:#fb4934"><u>(2/3 dos membros da CD)</u></span>;**
+		- STF <u>não é obrigado a aceitar</u> a denúncia;
+		- Quando a **==denúncia for recebida pelo STF==** ->>> PR será <span style="color:#fe8019">afastado de suas funções pelo prazo de 180 dias</span> (caso ultrapasse 180 dias, o PR voltará a ocupar suas funções);
+		- Caso haja **condenação por crime comum**, o PR perderá o mandato.
 
-- - - Perda do cargo; será inabilitado por 8 anos para cargo de função pública;
-    - **STF** - Caso haja renúncia do cargo durante o julgamento, o processo de impeachment continuará.
-    - **STF** - réus em processo-criminal não poderão suceder o PR;
-    - **STF** - o processo-criminal não obsta que seja exercido o cargo de presidente da CD, do SF e do STF.
+- **<span style="color:#83a598">Crimes de Responsabilidade</span>** - Julgado pelo **Senado** **Federal**, após admissibilidade da **Câmara dos Deputados**.
 
-**⚠️DECORE o art. 85 da CF/88 - Rol exemplificativo:**
+⚠️ No Senado Federal, haverá outro **juízo de admissibilidade - o SF decidirá por <u>maioria simples</u> se aceita a acusação.**
 
-_**Art. 85, CF/88.** São_ **_crimes de responsabilidade_** _os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:_
+- Quando o **==processo for instaurado pelo SF==**->>> PR será <span style="color:#fe8019">afastado de suas funções pelo prazo de 180 dias</span> (caso ultrapasse 180 dias, o PR voltará a ocupar suas funções);
+- Condenação - Voto aberto de 2/3 do SF;
+- Não há recurso contra o mérito da decisão do SF.
+- **<span style="color:#fe8019">Penas</span>:** 
+	- Perda do cargo; será inabilitado por 8 anos para cargo de função pública;
 
-_I - a existência da União;_
+> **STF** - Caso haja renúncia do cargo durante o julgamento, o processo de impeachment continuará.
+> **STF** - réus em processo-criminal não poderão suceder o PR;
+> **STF** - o processo-criminal não obsta que seja exercido o cargo de presidente da CD, do SF e do STF.
 
-_II - o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público e dos Poderes constitucionais das unidades da Federação;_
+**⚠️<span style="color:#d3869b">DECORE o art. 85 da CF/88 - Rol exemplificativo:</span>**
 
-_III - o exercício dos direitos políticos, individuais e sociais;_
+> _**Art. 85, CF/88.** São_ **_crimes de responsabilidade_** _os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:_ 
+> - _I - a existência da União;_ 
+> - _II - o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público e dos Poderes constitucionais das unidades da Federação;_ 
+> - _III - o exercício dos direitos políticos, individuais e sociais;_ 
+> - _IV - a segurança interna do País;_ 
+> - _V - a probidade na administração;_ 
+> - _VI - a lei orçamentária;_ 
+> - _VII - o cumprimento das leis e das decisões judiciais._ 
+> - _Parágrafo único. Esses crimes serão definidos em lei especial, que estabelecerá as normas de processo e julgamento._
 
-_IV - a segurança interna do País;_
+> 🚨**STF** - Os <span style="color:#d3869b">Estados</span> **<span style="color:#d3869b">NÃO</span>** <span style="color:#d3869b">podem legislar sobre crimes de responsabilidade.</span>
 
-_V - a probidade na administração;_
+# **2. Poder Judiciário**
 
-_VI - a lei orçamentária;_
+## 2.1. O**rgãos do Poder Judiciário (Art. 92, CF/88)**
 
-_VII - o cumprimento das leis e das decisões judiciais._
-
-_Parágrafo único. Esses crimes serão definidos em lei especial, que estabelecerá as normas de processo e julgamento._
-
-🚨**STF** - Os Estados **NÃO** podem legislar sobre crimes de responsabilidade.
-
-**2. Poder Judiciário**
-
-### 2.1. O**rgãos do Poder Judiciário (Art. 92, CF/88)**
-
-São considerados órgãos do Poder Judiciário:
-
-- - ️ **I - Supremo Tribunal Federal (STF)**
-        
-    -  **I-A - Conselho Nacional de Justiça (CNJ)**
-        
-    - **II - Superior Tribunal de Justiça (STJ)**
-        
-    -  **II-A - Tribunal Superior do Trabalho (TST)**
-        
-    - **III - Tribunais Regionais Federais (TRFs) e Juízes Federais**
-        
-    - **IV - Tribunais e Juízes do Trabalho**
-        
-    - **V - Tribunais e Juízes Eleitorais**
-        
-    - **VI - Tribunais e Juízes Militares**
-        
-    - **VII - Tribunais e Juízes dos Estados e do Distrito Federal e Territórios**
+> São considerados órgãos do Poder Judiciário: 
+> - ️ **I - Supremo Tribunal Federal (STF)** 
+> -  **I-A - Conselho Nacional de Justiça (CNJ)** 
+> - **II - Superior Tribunal de Justiça (STJ)** 
+> -  **II-A - Tribunal Superior do Trabalho (TST)** 
+> - **III - Tribunais Regionais Federais (TRFs) e Juízes Federais** 
+> - **IV - Tribunais e Juízes do Trabalho** 
+> - **V - Tribunais e Juízes Eleitorais** 
+> - **VI - Tribunais e Juízes Militares** 
+> - **VII - Tribunais e Juízes dos Estados e do Distrito Federal e Territórios**
         
 
-### 🚨 **Pontos de atenção importantes!**
+ 🚨 **<span style="color:#fb4934">Pontos de atenção importantes!</span>**
 
-- - **Juízes de Paz também fazem parte do Poder Judiciário**, apesar de **não estarem listados expressamente** no rol do art. 92.
+- **Juízes de Paz também fazem parte do Poder Judiciário**, apesar de **não estarem listados expressamente** no rol do art. 92.
         
-    - A Constituição menciona tanto **Tribunais quanto Juízes** como **órgãos** do Poder Judiciário.  
-        → Isso pode parecer estranho, mas **já caiu em prova!** Grave esse detalhe!
+- A Constituição menciona tanto **Tribunais quanto Juízes** como **órgãos** do Poder Judiciário.  
+	→ Isso pode parecer estranho, mas **já caiu em prova!** Grave esse detalhe!
         
 
-**2.2. Garantias dos juízes**
+## **2.2. Garantias dos juízes**
 
-**1️. Vitaliciedade**
+### **1. Vitaliciedade**
 
-- - **1º Grau** 
-        - Após **2 anos** de exercício
-        - **Durante** os 2 primeiros anos, pode perder o cargo por **deliberação** do tribunal
-            
-        - **Após** esses 2 anos: sentença judicial **transitada em julgado**
-            
-    - **Tribunais -** **QUINTO CONSTITUCIONAL**
-        - Vitaliciedade automática - **NA POSSE**
-        - Perda do cargo - **sentença transitada em julgado**
+- **1º Grau** 
+	- Após **<span style="color:#b8bb26"><u>2 anos</u></span>** <u>de exercício</u>
+	- **Durante** os 2 primeiros anos, pode perder o cargo por **deliberação** do tribunal
+	- **Após** esses 2 anos: sentença judicial **transitada em julgado**
+		
+- **Tribunais -** **<span style="color:#b8bb26">QUINTO CONSTITUCIONAL</span>**
+	- ==Vitaliciedade automática -== **==NA POSSE==**
+	- Perda do cargo - **sentença transitada em julgado**
 
- ⚠️**Atenção** - pode haver perda do cargo por decisão do **Senado Federal - casos de crime de responsabilidade** - neste caso, não haverá uma decisão judicial para determinar a perda do cargo.
+ ⚠️**Atenção** - pode haver perda do cargo por decisão do **Senado Federal - casos de crime de responsabilidade** - <span style="color:#fb4934"><u>neste caso, não haverá uma decisão judicial</u></span> para determinar a perda do cargo.
 
-**2. ️Inamovibilidade**
+### **2. ️Inamovibilidade**
 
-- - **Não pode** sem o consentimento do magistrado, inclusive nos casos de promoção - **RESSALVADOS OS CASOS:**
-        - **Interesse público**, e
-        - Decisão da **maioria absoluta,** respectivo Tribunal ou do CNJ - deve haver **ampla defesa**
+- **<span style="color:#fb4934">Não pode</span>** sem o consentimento do magistrado, <u>inclusive nos casos de promoção</u> - **<span style="color:#fb4934">RESSALVADOS OS CASOS:</span>**
+	- **Interesse público**, ==e==
+	- Decisão da **maioria absoluta,** respectivo Tribunal ou do CNJ - deve haver **ampla defesa**
 
-**3. ️Irredutibilidade** de Subsídio :
+### **3. ️Irredutibilidade** de Subsídio :
 
-- - Alteração por **LEI ESPECÍFICA**
-    - Remuneração por **SUBSÍDIO**
-    - O que não pode reduzir é o valor **Nominal**, e não o valor real
-        - Ou seja, a irredutibilidade não obriga a recomposição salarial frente à inflação. 
+- Alteração por **LEI ESPECÍFICA**
+- Remuneração por **SUBSÍDIO**
+- O que não pode reduzir é o valor **Nominal**, e <span style="color:#fb4934"><u>não o valor real</u></span>
+	- <u>Ou seja</u>, a irredutibilidade não obriga a recomposição salarial frente à inflação. 
 
- **STF -** É **inconstitucional** que normas estaduais limitem a idade dos magistrados para ingresso na carreira.
+ > **STF -** É **<span style="color:#fb4934">inconstitucional</span>** que normas estaduais <u>limitem a idade dos magistrados para ingresso na carreira.</u>
 
-**2.3. Vedações aos Magistrados**
+## **2.3. Vedações aos Magistrados**
 
-- -  **Acumular** cargo ou função, mesmo que esteja em disponibilidade
-        - SALVO - **uma** de magistério
-    - Receber **ajuda de custos** ou participação em **processo**
-    - Atividade **político-partidária**
-    - Receber **auxílios** ou contribuições **de:**
-        - Pessoa física ou entidades públicas ou privadas, Ressalvado as exceções em lei
-    - Exercer **advocacia** - "quarentena"
-        - **Antes de 3 anos** de afastamento do juízo ou tribunal que exercia suas atividades
+-  **Acumular** cargo ou função, <u>mesmo que esteja em disponibilidade</u>
+	- <span style="color:#fb4934">SALVO</span> - **uma** de magistério
+- Receber **ajuda de custos** ou participação em **processo**
+- Atividade **político-partidária**
+- Receber **auxílios** ou contribuições **de:**
+	- Pessoa física ou entidades públicas ou privadas, <span style="color:#fb4934">Ressalvado as exceções em lei</span>
+- Exercer **advocacia** - "quarentena"
+	- **Antes de 3 anos** de afastamento do juízo ou tribunal que exercia suas atividades
 
-⚠️As vedações **cessam quando se aposenta**. Exceto a proibição de exercer advocacia durante **3 anos** no mesmo juízo 
+⚠️As vedações **cessam quando se aposenta**. <span style="color:#fb4934"><u>Exceto a proibição de exercer advocacia</u></span> durante **<span style="color:#fb4934">3 anos</span>** no mesmo juízo 
 
-**2.4. Estatuto da Magistratura**
+## **2.4. Estatuto da Magistratura**
 
  Lei **Complementar** - inciativa do STF
 
-**▶️Ingresso na carreira:**
+**<span style="color:#83a598">Ingresso na carreira</span>:**
 
-- - - Concurso público de provas e títulos, devendo haver **participação da OAB em todas as fases**
-        - No **mínimo,** 3 anos de atividade jurídica
+- <span style="color:#d3869b">Concurso público de <u>provas e títulos</u></span>, devendo haver **participação da OAB em todas as fases**
+- No **mínimo,** <span style="color:#d3869b">3 anos de atividade jurídica</span>
 
-**⚠️Atenção**: o termo que inicia a contagem dos 3 anos de atividade jurídica dar-se **a partir da conclusão do curso de Direito,** portanto, atividades de estágio não servem para esta contagem de tempo.
+**⚠️Atenção**: o <u>termo que inicia a contagem dos 3 anos</u> de atividade jurídica dar-se **<span style="color:#b8bb26">a partir da conclusão do curso de Direito</span>,** portanto, atividades de estágio não servem para esta contagem de tempo.
 
-**⚠️Atenção**: a comprovação dos 3 anos de atividade jurídica ocorrerá no **momento da inscrição definitiva no concurso.**
+**⚠️Atenção**: a <u>comprovação dos 3 anos de atividade jurídica</u> ocorrerá no **<span style="color:#b8bb26">momento da inscrição definitiva no concurso.</span>**
 
-**▶️Promoção**:
+**Promoção**:
 
-- - entrância para entrância
-    - antiguidade e merecimento, alternadamente
-    - **requisitos**:
-    - **Promoção obrigatória** - 3 vezes consecutivas ou 5 alternadas na lista de merecimento
-    - **Promoção por merecimento** - 2 anos de exercício na entrância + fazer parte do primeiro quinto da lista de antiguidade - no caso de não haver outro que atenda aos requisitos e aceite o cargo vago
+-  entrância para entrância
+- antiguidade e merecimento, alternadamente
+- **requisitos**:
+- **<span style="color:#d3869b">Promoção obrigatória</span>** - 3 vezes consecutivas ou 5 alternadas na lista de merecimento
+- **<span style="color:#d3869b">Promoção por merecimento</span>** - 2 anos de exercício na entrância + fazer parte do <u>primeiro quinto</u> da lista de antiguidade - no caso de não haver outro que atenda aos requisitos e aceite o cargo vago
 
- **⚠️Atenção** - na promoção por merecimento - **apenas pode haver a recusa do tribunal** ao juiz mais antigo, caso haja **votação fundamentada com quórum de 2/3** dos membros.
+ **⚠️Atenção** - na promoção por merecimento - **<span style="color:#d3869b">apenas pode haver a recusa do tribunal</span>** ao juiz mais antigo, caso haja **votação fundamentada com quórum de 2/3** dos membros.
 
- **⚠️Atenção** - O juiz que **retiver os autos além do prazo legal** previsto, **não será promovido**!
+ **⚠️Atenção** - O juiz que **<span style="color:#fb4934">retiver os autos além do prazo legal</span>** previsto, **<span style="color:#fb4934">não será promovido</span>**!
 
-**▶️ Estrutura Remuneratória:**
+**Estrutura Remuneratória:**
 
-- - **Subsídio** - parcela única
-    - Tribunais **Superiores** - **95%** do subsídio mensal do **STF**
-    - **Demais magistrados** - será fixado em **lei** - não pode ultrapassar 95% do subsídio mensal dos membros dos Tribunais Superiores
+- **Subsídio** - parcela única
+- Tribunais **Superiores** - **95%** do subsídio mensal do **STF**
+- **Demais magistrados** - será fixado em **lei** - <span style="color:#fb4934"><u>não pode ultrapassar 95%</u></span> do subsídio mensal dos membros dos <span style="color:#fb4934"><u>Tribunais Superiores</u></span>
 
 **⚠️ Muito importante!!**
 
-- - **STF** julgou ser **inconstitucional** o **limite estabelecido aos membros da magistratura estadual** - n**ão pode o teto da magistratura estadual ser inferior ao da federal** - **não há o limite de 90,25% do subsídio do STF à magistratura estadual**.
+ > **STF** julgou ser **<span style="color:#fb4934">inconstitucional</span>** o **limite estabelecido aos membros da magistratura estadual** - <span style="color:#fb4934">não pode o teto da magistratura estadual ser inferior ao da federal</span>** - **não há o limite de 90,25% do subsídio do STF à magistratura estadual**.
 
  **▶️ Sanções disciplinares (maioria absoluta)**
 
-- - remoção de ofício
-    - disponibilidade
+- remoção de ofício
+- disponibilidade
 
  **▶️ Aposentadoria**
 
-- - RPPS
+- RPPS
 
  **▶️ Residência na Comarca**
 
-- - Deverá o juiz residir na comarca que exerce sua atividade, salvo autorização do tribunal
+- Deverá o juiz residir na comarca que exerce sua atividade, <span style="color:#fb4934">salvo autorização do tribunal</span>
 
  **▶️ Ininterruptabilidade de Jurisdição**
 
-- - XII - a **atividade jurisdicional será ininterrupta,** sendo **vedado férias coletivas** nos juízos e tribunais de segundo grau, funcionando, nos dias em que não houver expediente forense normal, **juízes em plantão permanente**.
-    - **CNJ** - Indevidas as férias coletivas dos servidores do TJ.
+> XII - a **atividade jurisdicional será ininterrupta,** sendo **<span style="color:#fb4934">vedado férias coletivas</span>** nos juízos e tribunais de <span style="color:#fb4934">segundo grau</span>, funcionando, nos dias em que não houver expediente forense normal, **juízes em plantão permanente**.
+	
+- **CNJ** - Indevidas as férias coletivas dos servidores do TJ.
 
  ⚠️ **Atenção:**
 
-- - Quantitativo de juízes será **proporcional** à demanda da população referente
-    - Atos de mero expediente **NÃO** tem caráter decisório
-    - Distribuição **IMEDIATA** dos processos
-    - **Órgão Especial - órgãos fracionários:** (de 11 a 25)
-        - Exercerá funções **administrativas** e **jurisdicionais**
-        - Metade das vagas = **antiguidade**; metade = **eleições**
-            
-        - Quem dispõe sobre esse órgão fracionário é o ****REGIMENTO INTERNO DO TRIBUNAL****
-            
+- Quantitativo de juízes será **<span style="color:#d3869b">proporcional</span>** à demanda da população referente
+- Atos de mero expediente **<span style="color:#fb4934">NÃO</span>** tem caráter decisório
+- Distribuição **<span style="color:#d3869b">IMEDIATA</span>** dos processos
+- **<span style="color:#b8bb26">Órgão Especial - órgãos fracionários</span>:** (de 11 a 25)
+	- Exercerá funções **administrativas** e **jurisdicionais**
+	- Metade das vagas = **antiguidade**; metade = **eleições**
+		
+	- Quem <u>dispõe</u> sobre esse <u>órgão fracionário</u> é o **REGIMENTO INTERNO DO TRIBUNAL**
+		
 
-_Art. 93, XI, CF/88. - nos tribunais com_ **_número superior a vinte e cinco julgadores,_** _poderá ser constituído_ _órgão especial,_ _com o_ **_mínimo de onze e o máximo de vinte e cinco membros_**_, para o_ _exercício das_ **_atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno_**_, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo tribunal pleno._
+> _Art. 93, XI, CF/88. - nos tribunais com_ **_<span style="color:#fb4934">número superior a vinte e cinco julgadores</span>,_** _poderá ser constituído_ _==órgão especial==,_ _com o_ **_mínimo de onze e o máximo de vinte e cinco membros_**_, para o_ _exercício das_ **_atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno_**_, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo tribunal pleno._
 
-**VEJA COMO A FCC JÁ COBROU ESSE TEMA [#2168807](https://www.tecconcursos.com.br/questoes/2168807)**
+>[!important] **VEJA COMO A FCC JÁ COBROU ESSE TEMA [#2168807](https://www.tecconcursos.com.br/questoes/2168807)** 
+>
+>**Em quais tribunais pode ser constituído órgão especial, qual deve ser o número mínimo e máximo de seus membros e como se dá o provimento de suas vagas?**
+>
+> Conforme o art. 93, XI, da Constituição Federal de 1988, nos tribunais com mais de 25 julgadores pode ser constituído órgão especial para o exercício de competências delegadas do tribunal pleno, devendo esse órgão ter mínimo de 11 e máximo de 25 membros, sendo metade das vagas providas por antiguidade e a outra metade por eleição pelo tribunal pleno, exatamente como previsto na opção correta.
 
-**Em quais tribunais pode ser constituído órgão especial, qual deve ser o número mínimo e máximo de seus membros e como se dá o provimento de suas vagas?**
+## **2.5. Quinto Constitucional**
 
-Conforme o art. 93, XI, da Constituição Federal de 1988, nos tribunais com mais de 25 julgadores pode ser constituído órgão especial para o exercício de competências delegadas do tribunal pleno, devendo esse órgão ter mínimo de 11 e máximo de 25 membros, sendo metade das vagas providas por antiguidade e a outra metade por eleição pelo tribunal pleno, exatamente como previsto na opção correta.
-
-**2.5. Quinto Constitucional**
-
-_Art. 94, CF/88. Um quinto dos lugares dos_ **_Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal_** _e Territórios será_ **_composto de membros do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes._**
-
-_Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação._
+> _Art. 94, CF/88. Um quinto dos lugares dos_ **_<span style="color:#fb4934">Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal</span>_** _e Territórios será_ **_<span style="color:#b8bb26">composto de membros do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes.</span>_** 
+> 
+> _Parágrafo único. Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação._
 
 **Indicações**:
 
-- - Tribunal elabora lista tríplice
-    - Envia ao Executivo
-    - Escolherá um dos integrantes da lista para nomeação
+- Tribunal elabora lista tríplice
+- Envia ao Executivo
+- Escolherá um dos integrantes da lista para nomeação
 
  **Composição**:
 
-- - Membros do MP -> + de 10 anos de carreira
-    - Advogados
-    - Indicados em lista sêxtupla pelos órgãos de representação das respectivas classes
-    - Notório saber jurídico e reputação ilibada
-    - + de 10 anos de carreira
+- Membros do MP -> + de 10 anos de carreira
+- Advogados
+- Indicados em lista sêxtupla pelos órgãos de representação das respectivas classes - Notório saber jurídico e reputação ilibada
+- + de 10 anos de carreira
 
- Não seguem a regra do quinto Constitucional:
+<span style="color:#fb4934"> Não seguem a regra do quinto Constitucional:</span>
 
-- - STF, TSE, TRE, STM
+- STF, TSE, TRE, STM
 
-**💡Bizurando a** **Regra do Quinto Constitucional:**
+**💡<span style="color:#83a598">Bizurando</span> a** **Regra do Quinto Constitucional:**
 
-- - Membros do **MP com Mais de 10 anos**, e
-    - **Advogados** com notório saber jurídico+ reputação ilibada e +**10 anos,**
-    - **Indicados em lista SEXTUPLA** pelos órgãos representantes de classe
-        - Aí o tribunal forma a lista **tríplice** e **envia ao executivo**
-    - O Executivo indicará em **20 dias**
+- Membros do **MP com Mais de 10 anos**, e
+- **Advogados** com notório saber jurídico+ reputação ilibada e +**10 anos,**
+- **Indicados em lista SEXTUPLA** pelos órgãos representantes de classe
+	- Aí o tribunal forma a lista **tríplice** e **envia ao executivo**
+- O Executivo indicará em **20 dias**
 
-# 2.6. Precatórios (pagamentos de condenações contra a Fazenda)
+## 2.6. Precatórios (pagamentos de condenações contra a Fazenda)
 
-- - São requisições de pagamento de valores devidos por entes públicos em razão de sentença judicial transitada em julgado.
+- São requisições de pagamento de valores devidos por entes públicos em razão de sentença judicial transitada em julgado.
         
-    - **Ordem e prioridade:** existe regime para apresentação e pagamento; critérios de prioridade (por exemplo, pessoa idosa, depósitos alimentares) costumam ser cobrados.
-        
-    - **Atualização/juros e regimes de pagamento:** regras de atualização e juros podem ser objeto de mudanças/receitamentos por resoluções e provimentos do Judiciário; atenção a reformas/novas normas que alteram índices e procedimentos.
-        
-    - Planejamento orçamentário: entes públicos precisam prever precatórios em seus orçamentos; planos de pagamento e parcelamentos surgem em debates e questões práticas.
-        
-    - **💡Para a prova:** distinção entre precatório e requisição de pequeno valor; consequências do não pagamento (inscrição em restos a pagar, bloqueios).
+- **==Ordem e prioridade:==** existe regime para apresentação e pagamento; critérios de prioridade (por exemplo, pessoa idosa, depósitos alimentares) costumam ser cobrados.
+	
+- **<span style="color:#83a598">Atualização/juros e regimes de pagamento</span>:** regras de atualização e juros podem ser objeto de mudanças/receitamentos por resoluções e provimentos do Judiciário; atenção a reformas/novas normas que alteram índices e procedimentos.
+	
+- Planejamento orçamentário: entes públicos precisam prever precatórios em seus orçamentos; planos de pagamento e parcelamentos surgem em debates e questões práticas.
+	
+- **💡<span style="color:#b8bb26">Para a prova</span>:** distinção entre precatório e requisição de pequeno valor; consequências do não pagamento (inscrição em restos a pagar, bloqueios).
         
 
-**3. Funções Essenciais à Justiça**
+# **3. Funções Essenciais à Justiça**
 
-**3.1. Ministério Público**
+## **3.1. Ministério Público**
 
 ⚠️ **SAIBA QUE:**
 
--MP **não** compõe a estrutura de quaisquer dos **Poderes**
+- MP **não** compõe a estrutura de quaisquer dos **Poderes**
 
-**-Autônomo** e **Independente ✅**
+- **Autônomo** e **Independente ✅**
 
-**⏩Organização**
+**⏩<span style="color:#83a598">Organização</span>**
 
 ![[screenshot_2026-11-12_13-41-22.png]]
 
-**🚨Conflitos de competência**
+**🚨<u>Conflitos de competência</u>**
 
-|   |   |
-|---|---|
-|**Situação**|**Quem decide**|
-|MP do **mesmo Estado**|**PGJ** do referido **Estado**|
-|MP de **ramos distintos**|**PGR**|
-|**Membros** do **MPF**|**Câmaras** de Coordenação e Revisão, **com recurso ao PGR**|
-|MPF e MPE ou MP de **Estados diferentes**|**Conselho Nacional** do Ministério Público|
+| **Situação**                              | **Quem decide**                                              |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| MP do **mesmo Estado**                    | **PGJ** do referido **Estado**                               |
+| MP de **ramos distintos**                 | **PGR**                                                      |
+| **Membros** do **MPF**                    | **Câmaras** de Coordenação e Revisão, **com recurso ao PGR** |
+| MPF e MPE ou MP de **Estados diferentes** | **Conselho Nacional** do Ministério Público                  |
 
 **Ingresso na carreira**
 
-- - concurso público >> provas **E** títulos
-    - bacharel em Direito
-    - 3 anos de atividade jurídica
+- concurso público >> provas **E** títulos
+- bacharel em Direito
+- 3 anos de atividade jurídica
 
 ⚠️ O tempo de atividade jurídica só começa a contar **depois de concluída a graduação**
 
-**3.1.1. Garantias do MP**
+### **3.1.1. Garantias do MP**
 
-- - **Vitaliciedade**
-        - após 2 anos de efetivo exercício
-        - perda do cargo - sentença transitada em julgado
-    - **Inamovibilidade**
-        - **salvo por interesse público**
-        - Decisão do Conselho Superior
-        - **maioria absoluta**
-        - **ampla defesa**
-    - **Irredutibilidade de subsídios**
-        - apenas na CF/88
-    - **Autonomia funcional, administrativa e orçamentária-financeira**
+- **<span style="color:#b8bb26">Vitaliciedade</span>**
+	- após 2 anos de <u>efetivo exercício</u>
+	- perda do cargo - <u>sentença transitada em julgado</u>
+- **<span style="color:#b8bb26">Inamovibilidade</span>**
+	- **<span style="color:#fb4934">salvo por interesse público</span>**
+	- Decisão do Conselho Superior
+	- **maioria absoluta**
+	- **ampla defesa**
+- **<span style="color:#b8bb26">Irredutibilidade de subsídios</span>**
+	- apenas na CF/88
+- **<span style="color:#b8bb26">Autonomia funcional, administrativa e orçamentária-financeira</span>**
 
 ⚠️ **Atente-se que:**
 
-- - Aplicam-se aos membros do MP as **garantias da magistratura** - art. 90, parágrafo único, V
-    - Inerentes ao exercício das funções - **IRRENUNCIÁVEIS**
-    - Presença e palavras asseguradas - em todas as sessões dos colegiados em que atuem
+- Aplicam-se aos membros do MP as **<span style="color:#b8bb26">garantias da magistratura</span>** - art. 90, parágrafo único, V
+- Inerentes ao exercício das funções - **<span style="color:#fb4934">IRRENUNCIÁVEIS</span>**
+- Presença e palavras asseguradas - em todas as sessões dos colegiados em que atuem
 
 **Princípios Institucionais:**
 
-- - **Unidade**
-        - Qualquer membro pode exercer qualquer atribuição funcional
-    - **Órgão único** - **não há unidade entre MP de ramos diferentes e de Estados diferentes**
-        - Junto ao STF - PGR representa todos os ramos do MPU
-        - Apesar deste princípio, **NÃO CONFUNDA**, o MP é dividido em **órgãos** (MPU e MPE), devido à **repartição de competência**.
-    - **Indivisibilidade**
-        - Atuação atribuída ao órgão e não aos membros
-        - Integrantes da instituição podem ser substituídos uns pelos outros, **desde que da mesma carreira**
-    - **Independência funcional**
-        - Para o desemprenho de suas atribuições, **não estão subordinados a nenhum dos poderes**
-        - Subordinação ao Procurador-Geral respectivo é apenas **administrativa**
-        - Independência externa (orgânica)
-        - Independência interna
-    - **Princípio do promotor natural**
-    
+- **<span style="color:#d3869b">Unidade</span>**
+	- Qualquer membro pode exercer qualquer atribuição funcional
+- **<span style="color:#d3869b">Órgão único</span>** - **<span style="color:#fb4934">não há unidade entre MP de ramos diferentes e de Estados diferentes</span>**
+	- Junto ao STF - PGR representa todos os ramos do MPU
+	- Apesar deste princípio, **<span style="color:#fb4934">NÃO CONFUNDA</span>**, o MP é dividido em **órgãos** (MPU e MPE), devido à **repartição de competência**.
+- **<span style="color:#d3869b">Indivisibilidade</span>**
+	- Atuação atribuída ao órgão e não aos membros
+	- Integrantes da instituição podem ser substituídos uns pelos outros, **<span style="color:#fb4934"><u>desde que da mesma carreira</u></span>**
+- **<span style="color:#d3869b">Independência funcional</span>**
+	- Para o desemprenho de suas atribuições, **<span style="color:#d3869b">não estão subordinados a nenhum dos poderes</span>**
+	- Subordinação ao Procurador-Geral respectivo é apenas **<span style="color:#fb4934"><u>administrativa</u></span>**
+	- Independência externa (orgânica)
+	- Independência interna
+- **<span style="color:#d3869b">Princípio do promotor natural</span>**
 
-**3.1.2. Chefia do Ministério Público**
+### **3.1.2. Chefia do Ministério Público**
 
-**PGR**
+#### **PGR**
 
-- - nomeado pelo Presidente da República
-    - integrantes da carreira
-    - > 35 anos
-    - aprovação **maioria absoluta** do Senado Federal
-    - Chefe do MPU
-    - 2 anos de mandato - pode haver **reconduções sucessivas**
+- nomeado pelo Presidente da República
+- integrantes da carreira
+- > 35 anos
+- aprovação **<u>maioria absoluta</u>** do Senado Federal
+- Chefe do MPU
+- 2 anos de mandato - pode haver **reconduções sucessivas**
 
-**PGJ**
+#### **PGJ**
 
-_Art. 128, § 3º, CF/88_
+> _Art. 128, § 3º, CF/88_ 
+> _Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, permitida uma recondução._
 
-_Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, permitida uma recondução._
+> [!important] ⚠️ **Atente-se para semelhanças e diferenças entre o PGJ e o PGR:** 
+> 
+> - <span style="color:#fb4934">O PGJ só pode ter </span>**<span style="color:#fb4934">UMA</span>** <span style="color:#fb4934">recondução</span>
 
-⚠️ **Atente-se para semelhanças e diferenças entre o PGJ e o PGR:**
+### **3.1.3. Vedações**
 
-- O PGJ só pode ter **UMA** recondução
+- Exercer advocacia no juízo ou tribunal do qual se afastou **<span style="color:#fb4934"><u>antes de decorridos 3 anos do afastamento</u></span>** do cargo por aposentadoria ou exoneração
+- Receber auxílios ou contribuições de:
+	- Pessoa física ou entidades públicas ou privadas
+	- **<span style="color:#83a598">Ressalvadas as exceções previstas em lei</span>** ⚠️
+- Exercer atividade político partidária
+- Receber honorários ou custas processuais
+- Exercer advocacia
+- Participar de sociedade comercial
+- Exercer qualquer outra função pública, ainda que em disponibilidade
+	- **<span style="color:#83a598">Ressalvado uma de magistérios</span>** ⚠️
 
-**3.1.3. Vedações**
+### **3.1.4. Conselho Nacional do Ministério Público - CNMP**
 
-- - Exercer advocacia no juízo ou tribunal do qual se afastou **antes de decorridos 3 anos do afastamento** do cargo por aposentadoria ou exoneração
-    - Receber auxílios ou contribuições de:
-        - Pessoa física ou entidades públicas ou privadas
-        - **Ressalvadas as exceções previstas em lei** ⚠️
-    - Exercer atividade político partidária
-    - Receber honorários ou custas processuais
-    - Exercer advocacia
-    - Participar de sociedade comercial
-    - Exercer qualquer outra função pública, ainda que em disponibilidade
-        - **Ressalvado uma de magistérios** ⚠️
+- Atua em <u>território nacional</u>
+- Órgão de controle interno do MP
+- zelar pela **atuação administrativa e financeira do MP** e pelo cumprimento dos **deveres funcionais de seus membros** ⚠️ 
+- tem competência para **avocar processos disciplinares** e **aplicar sanções administrativas** aos membros do MP
 
-**3.1.4. Conselho Nacional do Ministério Público - CNMP**
+🚨 Os processos devem ter sido julgados há **<span style="color:#fb4934">menos de um ano</span>**
 
-- - Atua em território nacional
-    - Órgão de controle interno do MP
-    - zelar pela **atuação administrativa e financeira do MP** e pelo cumprimento dos **deveres funcionais de seus membros** ⚠️
-    - tem competência para **avocar processos disciplinares** e **aplicar sanções administrativas** aos membros do MP
+**<span style="color:#b8bb26">14 Membros</span>** - Nomeados pelo PR (escolha aprovada por <span style="color:#fb4934">maioria absoluta</span> do SF)
 
-🚨 Os processos devem ter sido julgados há **menos de um ano**
+- Procurador Geral da República - <u>Presidente do CNMP</u>
+- 4 membros do MPU
+- 3 membros dos MPEs
+- 2 juízes
+	- 1 indicado pelo STF
+	- 1 indicado pelo STJ
+- 2 advogados indicados pela OAB
+- 2 cidadãos de:
+	- notável saber jurídico
+	- reputação ilibada
+	- 1 indicado pela CD
+	- 1 indicado pelo SF
 
-**14 Membros** - Nomeados pelo PR (escolha aprovada por maioria absoluta do SF)
+⚠️ Mandato de **2 anos - <u>admitida 1 recondução</u>**
 
-- - Procurador Geral da República - Presidente do CNMP
-    - 4 membros do MPU
-    - 3 membros dos MPEs
-    - 2 juízes
-        - 1 indicado pelo STF
-        - 1 indicado pelo STJ
-    - 2 advogados indicados pela OAB
-    - 2 cidadãos de:
-        - notável saber jurídico
-        - reputação ilibada
-        - 1 indicado pela CD
-        - 1 indicado pelo SF
+**▶️ <span style="color:#83a598">Corregedor nacional</span>**
 
-⚠️ Mandato de **2 anos - admitida 1 recondução**
+- votação secreta do próprio CNMP
+- escolhido entre membros do MP que integram o CNMP
+- **<span style="color:#fb4934">não</span>** pode haver recondução
+- compete - receber reclamações e denúncias de quaisquer interessados, relativas aos membros do MP e dos seus servidores auxiliares ⚠️
 
-**▶️ Corregedor nacional**
+> STF - o CNMP pode apreciar ato de vitaliciedade dos membros do MP
 
-- - votação secreta do próprio CNMP
-    - escolhido entre membros do MP que integram o CNMP
-    - **não** pode haver recondução
-    - compete - receber reclamações e denúncias de quaisquer interessados, relativas aos membros do MP e dos seus servidores auxiliares ⚠️
+>[!important] **VEJA COMO O TEMA JÁ FOI COBRADO PEL****A FCC** [#3556002](https://www.tecconcursos.com.br/questoes/3556002)  
+>
+>**Como ocorre a nomeação do Procurador-Geral da República e qual é a duração do seu mandato?**  
+>
+>Conforme a Constituição Federal de 1988, art. 128, §1º, o Ministério Público da União tem por chefe o Procurador-Geral da República, indicado pelo Presidente da República dentre integrantes da carreira, com idade mínima de 35 anos, submetido à aprovação pela maioria absoluta do Senado Federal, para mandato de dois anos, permitida a recondução.
 
-STF - o CNMP pode apreciar ato de vitaliciedade dos membros do MP
+## **3.2. Advocacia Pública**
 
-**VEJA COMO O TEMA JÁ FOI COBRADO PEL****A FCC** [#3556002](https://www.tecconcursos.com.br/questoes/3556002) 
+- **Ingresso:**
+        - Concursos de Provas **==E==** Títulos
+    - Assessoramento jurídico ao **<span style="color:#b8bb26">EXECUTIVO</span>**
 
-**Como ocorre a nomeação do Procurador-Geral da República e qual é a duração do seu mandato?** 
+> **STF** - caso de execução da dívida ativa de **NATUREZA TRIBUTÁRIA** - cabe à **PGFN**
 
-Conforme a Constituição Federal de 1988, art. 128, §1º, o Ministério Público da União tem por chefe o Procurador-Geral da República, indicado pelo Presidente da República dentre integrantes da carreira, com idade mínima de 35 anos, submetido à aprovação pela maioria absoluta do Senado Federal, para mandato de dois anos, permitida a recondução.
+> **STF** - **<span style="color:#fb4934">inconstitucional</span>** a criação de procuradorias **autárquicas**
 
-**3.2. Advocacia Pública**
+ 1. Advocacia-Geral da União - União
+2. Procuradorias estaduais - Estados e DF
+3. Procuradorias municipais - Municípios
 
-- - **Ingresso:**
-        - Concursos de Provas **E** Títulos
-    - Assessoramento jurídico ao **EXECUTIVO**
+⚠️ Os **Procuradores Estaduais <span style="color:#fb4934">não</span> possuem prerrogativa de foro.**
 
-**STF** - caso de execução da dívida ativa de **NATUREZA TRIBUTÁRIA** - cabe à **PGFN**
+### **<span style="color:#83a598">Advocacia-Geral da União</span>**
 
-**STF** - **inconstitucional** a criação de procuradorias **autárquicas**
-
-1. 1. Advocacia-Geral da União - União
-    2. Procuradorias estaduais - Estados e DF
-    3. Procuradorias municipais - Municípios
-
-⚠️ Os **Procuradores Estaduais não possuem prerrogativa de foro.**
-
-**Advocacia-Geral da União**
-
-- - **Chefe:**
-        - Advogado Geral da União
-        - Livre nomeação pelo PR (sem necessitar aprovação do SF)
-        - Idade > 35 anos
-        - Notável saber jurídico e reputação ilibada
-    - **Ingresso:**
-        - Provas **E** títulos, com a participação da **OAB**
+- **Chefe:**
+	- Advogado Geral da União
+	- Livre nomeação pelo PR (<span style="color:#fb4934">sem necessitar aprovação do SF</span>)
+	- Idade > 35 anos
+	- Notável saber jurídico e reputação ilibada
+- **Ingresso:**
+	- Provas **==E==** títulos, com a participação da **OAB**
 
 ⚠️Organização e funcionamento serão regulados por Lei Complementar.
 
 ⚠️Representa a União **diretamente** ou através de **órgão vinculado**
 
-- - judicial
-    - extrajudicial
+- judicial
+- extrajudicial
 
 ⚠️ A Procuradoria-Geral da Fazenda Nacional **(PGFN)** é **órgão da AGU** e representa a União em **execução de dívida ativa**.
