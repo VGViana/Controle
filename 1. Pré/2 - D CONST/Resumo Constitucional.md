@@ -2169,8 +2169,8 @@ Os precatórios podem ser usados para comprar imóveis públicos
 ## **3.2. Advocacia Pública**
 
 - **Ingresso:**
-        - Concursos de Provas **==E==** Títulos
-    - Assessoramento jurídico ao **<span style="color:#b8bb26">EXECUTIVO</span>**
+	- Concursos de Provas **==E==** Títulos
+- Assessoramento jurídico ao **<span style="color:#b8bb26">EXECUTIVO</span>**
 
 > **STF** - caso de execução da dívida ativa de **NATUREZA TRIBUTÁRIA** - cabe à **PGFN**
 
