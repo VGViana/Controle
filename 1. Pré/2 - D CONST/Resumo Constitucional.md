@@ -2055,6 +2055,9 @@ Os precatórios podem ser usados para comprar imóveis públicos
 
 ⚠️ O tempo de atividade jurídica só começa a contar **depois de concluída a graduação**
 
+### **Funções**: 
+
+![[screenshot_2026-11-12_15-33-58.png]]
 ### **3.1.1. Garantias do MP**
 
 - **<span style="color:#b8bb26">Vitaliciedade</span>**
