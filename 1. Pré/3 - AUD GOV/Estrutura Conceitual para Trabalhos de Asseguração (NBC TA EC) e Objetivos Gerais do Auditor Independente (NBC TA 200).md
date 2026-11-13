@@ -15,6 +15,7 @@ Trabalho de asseguração é o trabalho no qual o auditor independente visa obte
 
 - **Asseguração Razoável**: Confiança alta sobre o objeto, com o auditor expressando opinião positiva.
 - **Asseguração Limitada**: Confiança moderada, com uma opinião em termos mais restritos, como “não encontramos evidências de distorção relevante”.
+
 > _25. Tendo sido aceito, não é apropriado alterar o trabalho de asseguração para um que não seja de asseguração, ou o trabalho de asseguração razoável para um de asseguração limitada, sem a justificativa razoável. Uma alteração nas circunstâncias que afetam os requerimentos dos usuários previstos, ou um mal-entendido sobre a natureza do trabalho, pode justificar a solicitação de alteração no trabalho. (...)  **<span style="color:#fe8019">A impossibilidade de obter evidências apropriadas e suficientes para formar uma conclusão de asseguração razoável não é razão aceitável para se alterar o trabalho de asseguração razoável para um trabalho de asseguração limitada.</span>**_ 
 
 ## 4. Abrangência da Estrutura Conceitual
