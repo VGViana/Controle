@@ -1503,11 +1503,11 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 > 	- c) quando necessária a modificação da forma de pagamento por imposição de circunstâncias supervenientes, mantido o valor inicial atualizado e vedada a antecipação do pagamento em relação ao cronograma financeiro fixado sem a correspondente contraprestação de fornecimento de bens ou execução de obra ou serviço; 
 > 	- d) para restabelecer o equilíbrio econômico-financeiro inicial do contrato em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilizem a execução do contrato tal como pactuado, respeitada, em qualquer caso, a repartição objetiva de risco estabelecida no contrato.
 
-⚠️ <u>Matriz de riscos é uma novidade da Lei n. 14.133/2021.</u>
-
-**💡Veja questão recente (2026) da banca sobre o tema: [#3860482](https://www.tecconcursos.com.br/questoes/3860482)** 
-
-Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** **de possíveis riscos durante a execução contratual já estabelecendo as responsabilidades** **das partes em razão dos possíveis riscos na execução do contrato**. Com os riscos previstos na matriz de riscos e alocados (distribuídos) entre as partes, a lei prevê que haverá renúncia das partes aos pedidos de restabelecimento do equilíbrio relacionados aos riscos assumidos, salvo em casos excepcionais (alteração unilateral e fato do príncipe – alteração tributária)
+>[!️important] <u>Matriz de riscos é uma novidade da Lei n. 14.133/2021.</u> 
+> 
+> **💡Veja questão recente (2026) da banca sobre o tema: [#3860482](https://www.tecconcursos.com.br/questoes/3860482)**  
+> 
+> Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** **de possíveis riscos durante a execução contratual já estabelecendo as responsabilidades** **das partes em razão dos possíveis riscos na execução do contrato**. Com os riscos previstos na matriz de riscos e alocados (distribuídos) entre as partes, a lei prevê que haverá renúncia das partes aos pedidos de restabelecimento do equilíbrio relacionados aos riscos assumidos, salvo em casos excepcionais (alteração unilateral e fato do príncipe – alteração tributária)
 
 ### **Matriz de Risco**
 
