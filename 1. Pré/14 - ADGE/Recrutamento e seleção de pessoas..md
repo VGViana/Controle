@@ -155,9 +155,9 @@ Visão de Chiavenato:
 
 - **<span style="color:#83a598">Entrevistas</span>**: simples e permite **<span style="color:#83a598">interação direta</span>,** mas **<span style="color:#fb4934">muito subjetiva</span>** e exige treinamento do entrevistador.
     - **Tipos**:
-        - Totalmente padronizadas;
-        - Padronizadas apenas quanto às perguntas ou questões;
-        - Diretivas;
+        - Totalmente padronizadas: é a entrevista estruturada e com um roteiro preestabelecido.
+        - Padronizadas apenas quanto às perguntas ou questões: é a entrevista com perguntas previamente elaboradas, mas que permitem resposta aberta, ou seja, resposta livre por parte do candidato.
+        - Diretivas: é a entrevista que determina o tipo de resposta desejada, mas não especifica as questões, ou seja, deixa as perguntas a critério do entrevistador.
         - **<span style="color:#fe8019">Não diretivas/ não dirigidas/ exploratória (não estruturadas).</span>**
             - **Modelo flexível, entrevistador tem autonomia para realizar as perguntes que desejar;**
             - **desvantagem**: tende a gerar informações viesadas e possui baixa consistência.
