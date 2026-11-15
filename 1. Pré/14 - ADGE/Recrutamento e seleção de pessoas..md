@@ -256,16 +256,16 @@ As atividades de  **Análise** e **Descrição** de **cargos** fazem part
     - **05 dimensões essenciais:**
         - **variedade, autonomia, significado das tarefas, identidade com a tarefa, retroação (feedback)**;
             - **Variedade:** número e variedade de habilidades exigidas pelo cargo.
-            - **<span style="color:#b8bb26">Autonomia</span>**: grau de **independência** e critério pessoal que o ocupante tem para planejar e executar seu trabalho;
-                - **Percepção do significado do trabalho** 
+            - **<span style="color:#b8bb26">Autonomia</span>**: grau de **<span style="color:#b8bb26">independência</span>** e critério pessoal que o ocupante tem para planejar e executar seu trabalho;
+                - **<span style="color:#b8bb26">Percepção do significado do trabalho</span>** 
                 - Exemplo de baixa autonomia: trabalho rigidamente programado, com métodos e procedimentos preestabelecidos;
-            - **Significado das tarefas:** conhecimento do **impacto** que o cargo provoca em outras pessoas ou na atividade organizacional.
-                - **Percepção da responsabilidade pelos resultados**
+            - **<span style="color:#fb4934">Significado das tarefas</span>:** conhecimento do **<span style="color:#fb4934">impacto</span>** que o cargo provoca em outras pessoas ou na atividade organizacional.
+                - **<span style="color:#fb4934">Percepção da responsabilidade pelos resultados</span>**
             - **Identidade com a tarefa:** grau em que o cargo requer que a pessoa execute e complete uma unidade integral do trabalho.
                 - **Conhecimento dos resultados**
             - **Retroação:** grau de i**nformação de retorno que o ocupante recebe** para avaliar a eficiência de seus esforços na produção de resultados.
 
-**4.2.3. Enriquecimento do cargo:** aumentar a complexidade ou importância das tarefas;
+### **4.2.3. Enriquecimento do cargo:** aumentar a complexidade ou importância das tarefas;
 
 - Vertical: tarefas com maior nível de complexidade;
 - Horizontal: variar as tarefas de um cargo, mas com mesma complexidade;
@@ -275,9 +275,9 @@ As atividades de  **Análise** e **Descrição** de **cargos** fazem part
     - Aumento da satisfação com o trabalho.
     - Diminuição da rotatividade dos ocupantes do cargo. 
 
-**4.3.Descrição e análise de cargos**
+## **4.3.Descrição e análise de cargos**
 
-- fazem parte do processo de **aplicar pessoas;**
+- fazem parte do processo de **<u>aplicar</u> pessoas;**
 - **Objetivos:**
     - Oferecer **subsídios** ao **recrutamento e à seleção**;
     - Funcionar como material para o **treinamento**;
@@ -285,36 +285,36 @@ As atividades de  **Análise** e **Descrição** de **cargos** fazem part
     - Auxiliar a avaliação do **desempenho**;
     - Servir de base ou guia para os programas de higiene e segurança e remuneração e benefícios.
 
-**4.3.1. DESCRIÇÃO X ANÁLISE X ESPECIFICAÇÃO** 
+### **4.3.1. DESCRIÇÃO X ANÁLISE X ESPECIFICAÇÃO** 
 
-- **Descrição:** tem por objetivo definir os **aspectos intrínsecos** do cargo, ou seja, o que se faz, sob quais condições e o porquê.
-    - É a consolidação/ formalização das **atribuições e responsabilidades** do cargo.
+- **Descrição:** tem por objetivo definir os **aspectos <span style="color:#b8bb26">intrínsecos</span>** do cargo, ou seja, o que se faz, sob quais condições e o porquê.
+    - É a consolidação/ formalização das **<span style="color:#b8bb26">atribuições e responsabilidades</span>** do cargo.
     - Enumeração das **tarefas** desempenhadas pelo ocupante de um determinado cargo.
     - Descrever as atividades;
-- **Análise:** determina os **requisitos** necessários para a ocupação do cargo, ou seja, seus aspectos **extrínsecos**.
+- **<span style="color:#d3869b">Análise</span>:** determina os **<span style="color:#d3869b">requisitos</span>** necessários para a ocupação do cargo, ou seja, seus aspectos **<span style="color:#fb4934">extrínsecos</span>**.
     - **Detalhar o que o cargo exige** do seu ocupante em termos de conhecimentos, habilidades e capacidades.
     - **Comportamento esperado**.
 - **Especificação do cargo:** conteúdo de cada cargo, dos métodos de trabalho e das relações com os demais cargos.
     - Maneira como cada cargo é estruturado (individual - uma tarefa ou um cargo)
 
-**4.3.2. Método de Coleta de Dados Sobre Cargos:**
+### **4.3.2. Método de Coleta de Dados Sobre Cargos:**
 
 - Entrevistas: individuais com cada funcionário, grupais ou com o supervisor;
 - Questionários;
 - Observação direta.
 
-**4.4. Descrição de Cargos:**
+## **4.4. Descrição de Cargos:**
 
-Define as tarefas e atividades que pertencem ao cargo (**aspectos intrínsecos** ao cargo). 
+Define as tarefas e atividades que pertencem ao cargo (**<span style="color:#83a598">aspectos intrínsecos</span>** ao cargo). 
 
 - Tarefas, deveres, responsabilidades, condições de trabalho e especificações. 
 - O que faz, quando, como, onde e por que.
 
-**4.5. Análise de Cargos (ou especificação):**
+## **4.5. Análise de Cargos (ou especificação):**
 
-Detalhar os **conhecimentos, habilidades e capacidades** exigidos do ocupante de um cargo.
+Detalhar os **<span style="color:#fe8019">conhecimentos, habilidades e capacidades</span>** exigidos do ocupante de um cargo.
 
-- Características mentais e físicas o ocupante do cargo deve possuir (**aspectos extrínsecos** ao cargo) 
+- Características mentais e físicas o ocupante do cargo deve possuir (**<span style="color:#fe8019">aspectos extrínsecos</span>** ao cargo) 
 - Realizada a partir da descrição de cargos.
 - **04 fatores de especificações**:
     - Requisitos físicos:
@@ -324,21 +324,16 @@ Detalhar os **conhecimentos, habilidades e capacidades** exigidos do ocupante de
 
 Etapas:
 
-1 – Examinar a estrutura organizacional e a estrutura de cada cargo
+1. Examinar a estrutura organizacional e a estrutura de cada cargo 
+2. Definir quais informações são requeridas para a análise dos cargos 
+3. Selecionar os cargos a serem analisados 
+4. Reunir os dados necessários para as análises de cargos 
+5. Preparar as descrições de cargos 
+6. Preparar as especificações de cargos 
 
-2 – Definir quais informações são requeridas para a análise dos cargos
+## **4.6. Carreiras**:
 
-3 – Selecionar os cargos a serem analisados
-
-4 – Reunir os dados necessários para as análises de cargos
-
-5 – Preparar as descrições de cargos
-
-6 – Preparar as especificações de cargos 
-
-**4.6. Carreiras**:
-
-**Conjunto de cargos ou funções** que um indivíduo pode ocupar ao longo da sua vida profissional.
+**<span style="color:#b8bb26">Conjunto de cargos ou funções</span>** que um indivíduo pode ocupar ao longo da sua vida profissional.
 
 - **02 tipos:**
     - **Vertical:**
@@ -352,11 +347,11 @@ Etapas:
     - Cresce de forma **vertical**;
 - **Em rede (alternativas):**
     - pode crescer de forma horizontal ou vertical;
-- **Paralelas:** 
+- **<span style="color:#83a598">Paralelas</span>:** 
     - carreiras técnicas e gerenciais desenvolvem em paralelo;
-    - **analista x supervisor**
-- **Paralelas em Y:**
-    - Entra ocupando cargos mais básicos e **pode seguir por carreira técnica ou gerencial;**
+    - **<span style="color:#83a598">analista x supervisor</span>**
+- **<span style="color: #d79921">Paralelas em Y</span>:**
+    - Entra ocupando cargos mais básicos e **<span style="color:#d3869b">pode seguir por carreira técnica ou gerencial;</span>**
 - **Linha de especialização**:
     - área de atuação
 - **Linha Generalista**:
@@ -367,10 +362,10 @@ Carreiras podem ser divididas em
 - **Baseada em cargos**:
     - Ascensão vertical na 
     - **Cascata/ hierarquia de Competências** (organizacionais e individuais)
-        - Competências **Essenciais** da organização: distintivas que toda organização precisa construir e possuir para manter sua vantagem competitiva.
+        - Competências **<span style="color:#b8bb26">Essenciais</span>** da organização: distintivas que toda organização precisa construir e possuir para manter sua vantagem competitiva.
             - Ex.: imagem, reputação, vantagem competitiva.
-        - Competências **Funcionais**: aquelas que cada unidade organizacional ou departamento deve construir e possuir.
-        - Competências **Gerenciais**: necessárias para exercer a gestão.
+        - Competências **<span style="color:#d3869b">Funcionais</span>**: aquelas que cada unidade organizacional ou departamento deve construir e possuir.
+        - Competências **<span style="color:#83a598">Gerenciais</span>**: necessárias para exercer a gestão.
             - Ex.: visão sistêmica.
         - Competências Individuais (pessoais):
             - Ex.: relação interpessoal.
@@ -380,6 +375,6 @@ Carreiras podem ser divididas em
 
 - **Baseada em competências**:
     - Objetivo:
-        - **ampliar competências individuais e grupais;**
+        - **<span style="color:#83a598">ampliar competências individuais e grupais</span>;**
         - Abastecer toda a organização de competências individuais e grupais;
     - Indicador: disponibilidade de competências em todas as áreas e níveis organizacionais.
