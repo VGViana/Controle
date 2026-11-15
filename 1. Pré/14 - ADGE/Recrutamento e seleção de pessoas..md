@@ -381,3 +381,32 @@ Carreiras podem ser divididas em
         - **<span style="color:#83a598">ampliar competências individuais e grupais</span>;**
         - Abastecer toda a organização de competências individuais e grupais;
     - Indicador: disponibilidade de competências em todas as áreas e níveis organizacionais.
+
+# 5. Modelo de Personalidade de Cinco Fatores (Big Five)
+
+_Esses 5 fatores são frequentemente resumidos com **o acrônimo OCEAN**:_
+
+**_Abertura para Experiência (Openness):_** _Refere-se à disposição de uma pessoa para explorar novas **ideias**, **experiências** e **perspectivas.**_
+
+- _Pessoas com **<span style="color:#83a598">alta pontuação</span>** nesse traço tendem a ser <span style="color:#83a598">criativas, curiosas e abertas a novas experiências.</span>_
+- _Pessoas com **<span style="color:#fb4934">baixa pontuação</span>** são mais <span style="color:#fb4934">tradicionais e avessas a mudanças.</span>_
+
+**_Consciência (Conscientiousness):_** _Descreve o grau de **organização**, **disciplina** e **responsabilidade** de uma pessoa._
+- _Indivíduos com **<span style="color:#83a598">alta consciência</span>** são tipicamente <span style="color:#83a598">organizados, confiáveis e orientados para metas.</span>_
+- _Indivíduos com **<span style="color:#fb4934">baixa consciência</span>** podem ser mais <span style="color:#fb4934">descuidados e impulsivos.</span>_
+
+**_Extroversão (Extraversion):_** _Reflete o nível de **sociabilidade**, **entusiasmo** e **energia** de uma pessoa em interações sociais._
+
+- _Pessoas **<span style="color:#83a598">extrovertidas</span>** são geralmente <span style="color:#83a598">sociáveis, extrovertidas e energéticas.</span>_
+- _Pessoas **<span style="color:#fb4934">introvertidos</span>** tendem a ser mais <span style="color:#fb4934">reservados e preferem interações mais tranquilas.</span>_
+
+**_Amabilidade (Agreeableness): _**_Avalia a disposição de uma pessoa para **cooperar**, ser **amigável** e considerada em suas interações com os outros._
+    
+- _Indivíduos com **<span style="color:#83a598">alta amabilidade</span>** tendem a ser <span style="color:#83a598">compassivos, empáticos e cooperativos.</span>_
+- _Indivíduos com **<span style="color:#fb4934">baixa amabilidade</span>** podem ser mais <span style="color:#fb4934">competitivos e céticos.</span>_
+
+**_Neuroticismo (Neuroticism):_**: _Mede a **estabilidade emocional** de uma pessoa e sua capacidade de lidar com o estresse e a ansiedade._
+- _Pessoas com **<span style="color:#fb4934">alta pontuação</span>** em são mais propensas a experimentar <span style="color:#fb4934">emoções negativas, como ansiedade e tristeza.</span>_
+- _Pessoas com **<span style="color:#83a598">baixa pontuação</span>** são mais <span style="color:#83a598">emocionalmente estáveis e resilientes</span>._
+
+![[Recrutamento e seleção de pessoas.-1.png]]
