@@ -109,10 +109,12 @@ Visão de Chiavenato:
 		- a **<span style="color:#b8bb26">descrição</span>** define o **<span style="color:#b8bb26">conteúdo e as responsabilidades</span>** do cargo
 		- a **<span style="color:#fe8019">análise</span>** busca definir os **<span style="color:#fe8019">requisitos de capacidade e conhecimento</span>** que o cargo impõe ao seu ocupante.
     - **Técnica de incidentes críticos:** desempenhos excelentes e péssimos são sistematicamente analisados, permitindo a identificação de aspectos desejáveis ou indesejáveis. Objetivo é usá-los como base de comparação na busca por candidatos.
-    - Análise da requisição de empregado
-    - Análise do cargo no mercado
-    - Hipótese de trabalho
-    - **<span style="color:#83a598">Competências</span>** exigidas
+    - Análise da requisição de empregado: É uma ordem de serviço que o gerente emite para solicitar um novo ocupante de determinado cargo vago.
+    - Análise do cargo no mercado: quando a empresa não detém informações sobre o cargo pode-se fazer uma pesquisa de mercado em empresas com cargo semelhante
+    - Hipótese de trabalho: usada quando o cargo é novo ou não comum e deve-se montar uma simulação de quais seriam os requisitos que o ocupante deva ter para que consiga executar as tarefas necessárias.
+    - **<span style="color:#83a598">Competências</span>** exigidas: servem como referência básica para comparar e avaliar as competências individuais oferecidas pelos candidatos.
+
+![[Recrutamento e seleção de pessoas.-2.png]]
 
 **❌<span style="color:#fb4934">Não confunda Recrutamento com seleção:</span>**
 
