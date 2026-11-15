@@ -1486,7 +1486,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 - **Operação continuada de sistemas estruturantes de tecnologia da informação**
     - Até 15 anos.
 
-![[Lei nº 14.133-2021.png]]
+![[Controle/1. Pré/15 - LICT/img/Lei nº 14.133-2021.png]]
 # **10. Alocação de Riscos**
 
 > § 5º Sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro, **<span style="color:#fe8019">renunciando as partes aos pedidos de restabelecimento</span>** do equilíbrio relacionados aos riscos assumidos, **<span style="color:#fb4934">exceto</span>** no que se refere: 
@@ -1635,6 +1635,9 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 # **14. Extinção dos Contratos**
 
 - **Unilateral** (Própria administração pública); **<span style="color:#fb4934">(Cláusula Exorbitante)</span>**
+
+![[Lei nº 14.133-2021-3.png]]
+
 - **Consensual** (Tanto Administração quanto o contratado):
 - **Determinação arbitral ou judicial**
 	1. acordo entre as partes;
@@ -1655,13 +1658,11 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 > - **atraso superior a <span style="color:#fb4934">2 (dois) meses,</span>** contado da emissão da nota fiscal, dos pagamentos ou de parcelas de pagamentos devidos pela Administração por despesas de obras, serviços ou fornecimentos; 
 > - **<span style="color:#fb4934">não</span>** liberação pela Administração, nos prazos contratuais, de área, local ou objeto, para execução de obra, serviço ou fornecimento, e de fontes de materiais naturais especificadas no projeto, **inclusive** devido a atraso ou descumprimento das obrigações atribuídas pelo contrato à Administração relacionadas a desapropriação, a desocupação de áreas públicas ou a licenciamento ambiental.
 
-![[screenshot_2026-11-07_11-41-51.png]]
+![[Lei nº 14.133-2021-2.png]]
 
 ![Contratos-Adm.-Aula](https://static.wixstatic.com/media/9949ab_8e7ea422d2464923a16b7af053dc29bc~mv2.gif)
 
-Fonte: [https://www.cegesp.com/copia-contratos-adm-aula-01-1](https://www.cegesp.com/copia-contratos-adm-aula-01-1)
-
-
+![[Controle/1. Pré/15 - LICT/Lei nº 14.133-2021.png]]
 
 # **15. Recebimento do Objeto**
 
