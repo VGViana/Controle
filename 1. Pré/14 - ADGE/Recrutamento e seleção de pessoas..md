@@ -215,6 +215,7 @@ As atividades de  **Análise** e **Descrição** de **cargos** fazem part
 - **Análise de cargos**: aponta as **características <span style="color:#fb4934">mentais</span>** <span style="color:#fb4934">e</span> **<span style="color:#fb4934">físicas</span>** que o **indivíduo** que ocupa o cargo deve **ter** para **executar** as **funções** do **cargo**;
 - **Descrição de cargos**: realiza a **<span style="color:#fb4934">definição</span>** das **<span style="color:#b8bb26">tarefas</span>**, **<span style="color:#b8bb26">atividades</span>**, **<span style="color:#b8bb26">deveres</span>** e **<span style="color:#b8bb26">responsabilidades</span>** que são pertinentes ao **<span style="color:#b8bb26">cargo</span>**.
 
+![[Recrutamento e seleção de pessoas..png]]
 ## **4.2. Desenho de Cargos:**
 
 **<span style="color:#83a598">Desenho de cargos</span>** (job design) compreende a estruturação dos cargos de acordo com a estrutura da organização
