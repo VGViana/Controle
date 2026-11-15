@@ -1639,6 +1639,9 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 ![[Lei nº 14.133-2021-3.png]]
 
 - **Consensual** (Tanto Administração quanto o contratado):
+
+![[Lei nº 14.133-2021-4.png]]
+
 - **Determinação arbitral ou judicial**
 	1. acordo entre as partes;
 	2. conciliação;
@@ -1662,7 +1665,6 @@ Ela é uma ferramenta de gerenciamento que permite a**mpliar a visibilidade** *
 
 ![Contratos-Adm.-Aula](https://static.wixstatic.com/media/9949ab_8e7ea422d2464923a16b7af053dc29bc~mv2.gif)
 
-![[Controle/1. Pré/15 - LICT/Lei nº 14.133-2021.png]]
 
 # **15. Recebimento do Objeto**
 
