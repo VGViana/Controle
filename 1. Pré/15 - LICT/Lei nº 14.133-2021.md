@@ -1536,7 +1536,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 	5. estabelecer que os valores destinados a férias, a décimo terceiro salário, a ausências legais e a verbas rescisórias dos empregados do contratado que participarem da execução dos serviços contratados serão pagos pelo contratante ao contratado somente na ocorrência do fato gerador.
         
 
-**💡Veja como a FCC cobrou recentemente (2025) esse tema: [#3379577](https://www.tecconcursos.com.br/questoes/3379577)**
+> [!important] **💡Veja como a FCC cobrou recentemente (2025) esse tema: [#3379577](https://www.tecconcursos.com.br/questoes/3379577)**
 
 - **Responsabilidade pela execução**:
     - Contratado será obrigado a reparar e corrigir, às suas expensas, os vícios, defeitos ou incorreções do objeto do contrato, resultantes de: 
@@ -1561,7 +1561,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
     3. Modificação da **forma de pagamento;**
     4. **<span style="color:#b8bb26">Reestabelecer o equilíbrio econômico-financeiro</span>** (força maior ou caso fortuito, fato do príncipe, fatos imprevisíveis ou previsíveis com consequências incalculáveis, atraso na desapropriação, desocupação, servidão administrativa ou licenciamento ambiental sem culpa do contratado).
 
-**💡==Esse tema é cobrado com frequência pela FCC, fique atento aos comandos da banca:== [#2488240](https://www.tecconcursos.com.br/questoes/2488240)**
+> [!important] **💡==Esse tema é cobrado com frequência pela FCC, fique atento aos comandos da banca:== [#2488240](https://www.tecconcursos.com.br/questoes/2488240)**
 
 ## **12.1 Equilíbrio econômico-financeiro**
 
@@ -1598,7 +1598,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 - Segundo Maria Sylvia Di Pietro, “São medidas de ordem geral, **<span style="color:#fb4934">não relacionadas diretamente com o contrato</span>**, mas que nele repercutem, <u>provocando desequilíbrio econômico-financeiro em detrimento do contrato</u>”.
 - **São determinações estatais** que afetam todos aqueles que se encontrem na mesma situação: o contratado e os demais particulares.
 
-**💡==Veja como a FCC já cobrou:== [#3452849](https://www.tecconcursos.com.br/questoes/3452849)**
+> [!important] **💡==Veja como a FCC já cobrou:== [#3452849](https://www.tecconcursos.com.br/questoes/3452849)**
 
 ### **12.2.2 Fato da Administração**
 
