@@ -106,6 +106,8 @@ Visão de Chiavenato:
 - Requisitos do cargo x Características dos candidatos 
     - **Perfil <span style="color:#83a598">Profissiográfico</span>:** **características** a respeito do cargo.
     - **<span style="color:#83a598">Descrição e Análise do cargo</span>**
+		- a **<span style="color:#b8bb26">descrição</span>** define o **<span style="color:#b8bb26">conteúdo e as responsabilidades</span>** do cargo
+		- a **<span style="color:#fe8019">análise</span>** busca definir os **<span style="color:#fe8019">requisitos de capacidade e conhecimento</span>** que o cargo impõe ao seu ocupante.
     - **Técnica de incidentes críticos:** desempenhos excelentes e péssimos são sistematicamente analisados, permitindo a identificação de aspectos desejáveis ou indesejáveis. Objetivo é usá-los como base de comparação na busca por candidatos.
     - Análise da requisição de empregado
     - Análise do cargo no mercado
