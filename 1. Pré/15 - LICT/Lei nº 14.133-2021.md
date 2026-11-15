@@ -1640,7 +1640,6 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 
 - **Consensual** (Tanto Administração quanto o contratado):
 
-![[Lei nº 14.133-2021-4.png]]
 
 - **Determinação arbitral ou judicial**
 	1. acordo entre as partes;
@@ -1652,7 +1651,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 
 **🚨<u>Quando a culpa é da administração</u>,** o contratado tem direito a ressarcimento de prejuízos, devolução de garantia e pagamentos pela execução até o momento da extinção.
 
-**💡O art. 137, § 2º  é cobrado com frequência pela FCC, portanto saiba as hipóteses em que o contratado terá direito à extinção do contrato. Veja essa questão: [#3362826](https://www.tecconcursos.com.br/questoes/3362826)**
+> [!important] **💡O art. 137, § 2º  é cobrado com frequência pela FCC, portanto saiba as hipóteses em que o contratado terá direito à extinção do contrato. Veja essa questão: [#3362826](https://www.tecconcursos.com.br/questoes/3362826)**
 
 > **Art. 137, § 2º** O contratado terá direito à extinção do contrato nas seguintes hipóteses: 
 > - supressão, por parte da Administração, de obras, serviços ou compras que acarrete **modificação do valor inicial** do contrato **<span style="color:#fb4934">além</span>** do limite permitido no [art. 125 desta Lei](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art125); 
@@ -1663,6 +1662,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 
 ![[Lei nº 14.133-2021-2.png]]
 
+![[Lei nº 14.133-2021-4.png]]
 ![Contratos-Adm.-Aula](https://static.wixstatic.com/media/9949ab_8e7ea422d2464923a16b7af053dc29bc~mv2.gif)
 
 
