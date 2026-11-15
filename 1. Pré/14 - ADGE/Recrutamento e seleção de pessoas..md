@@ -142,9 +142,9 @@ Visão de Chiavenato:
 ## **3.2. Modelos:**
 
 -  Não há hierarquia entre eles. Cada um é mais indicado conforme uma determinada necessidade.
-    -     **de <span style="color:#fe8019">Colocação</span>:** nesse modelo não há rejeição, pois há **<span style="color:#fe8019">somente um candidato</span>** para uma vaga. **<span style="color:#fb4934">Não há rejeição do candidato.</span>**
-    -     **de Seleção:** modelo em que há **vários candidatos** e apenas **uma vaga**.
-    -      **<span style="color: #d79921">de Classificação:</span>** há **<span style="color: #d79921">vários candidatos para várias vagas</span>**; e existem várias vagas para cada candidato.
+    - **de <span style="color:#fe8019">Colocação</span>:** nesse modelo não há rejeição, pois há **<span style="color:#fe8019">somente um candidato</span>** para uma vaga. **<span style="color:#fb4934">Não há rejeição do candidato.</span>**
+    - **de Seleção:** modelo em que há **vários candidatos** e apenas **uma vaga**.
+    - **<span style="color: #d79921">de Classificação:</span>** há **<span style="color: #d79921">vários candidatos para várias vagas</span>**; e existem várias vagas para cada candidato.
     - de **<span style="color:#83a598">Agregação de Valor</span>:** foca na provisão de **competências** para a organização.
         - Candidato selecionado por suas **<span style="color:#83a598">competências individuais para incrementar as organizacionais</span>**.
         - Melhor maneira de aumentar o capital humano da organização.
