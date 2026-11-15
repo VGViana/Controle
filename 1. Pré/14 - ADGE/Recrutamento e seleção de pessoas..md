@@ -70,7 +70,7 @@ Visão de Chiavenato:
         - aproveita potencial dos funcionários,
         - aproveita investimentos em treinamento e desenvolvimento,
     - **<span style="color:#fb4934">Desvantagens</span>**:
-        - Pode tornar a culta organizacional fortemente **<span style="color:#fb4934">conservadora</span>**
+        - Pode tornar a cultura organizacional fortemente **<span style="color:#fb4934">conservadora</span>**
         - Pode gerar **frustração** nos funcionários não escolhidos;
         - Pode gerar **conflito de interesses**;
         - Tende a gerar ocorrência do princípio de Peter.
