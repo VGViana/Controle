@@ -1793,7 +1793,7 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 - **Reconsideração <span style="color:#83a598">15 dias úteis : DINI</span> (<span style="color:#83a598">D</span>eclaração de <span style="color:#83a598">INI</span>doneidade)**
 - **O que SOBROU é Recurso de 3 dias úteis.**
 
-**💡Veja como a FCC cobrou: [#3409524](https://www.tecconcursos.com.br/questoes/3409524)**
+> [!a] **💡Veja como a FCC cobrou: [#3409524](https://www.tecconcursos.com.br/questoes/3409524)**
 
 ![[screenshot_2026-11-11_15-29-40.png]]
 
