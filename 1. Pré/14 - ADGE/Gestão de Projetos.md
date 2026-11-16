@@ -50,7 +50,7 @@ A **gestão por projetos** (baseada em boas práticas como as do Project Managem
 
 # **4. Custos e Riscos associados ao ciclo de Vida dos Projetos**
 
-![[Gestão de Projetos.png]]
+![[Controle/1. Pré/14 - ADGE/img/Gestão de Projetos.png]]
 
  **[🔥 BIZU FCC 2026] Ao longo do ciclo de vida, RISCOS/INCERTEZA e influência das partes interessadas tendem a ser MAIORES no início e DIMINUEM com o avanço do projeto; o CUSTO DE MUDANÇA faz o movimento inverso, aumentando nas fases finais.**
 
@@ -131,10 +131,12 @@ simplesmente pela passagem do tempo ou porque o evento de risco não ocorre.
     - **<span style="color:#fb4934">Caráter determinístico</span>**;
 
 - **<span style="color:#b8bb26">Crashing</span>** = **<span style="color:#b8bb26">mais recursos e maior custo para reduzir o prazo</span>**
+![[Controle/1. Pré/14 - ADGE/Gestão de Projetos-1.png]]
+
 - **<span style="color:#83a598">Fast tracking</span>** = **<span style="color:#83a598">sobreposição de atividades e possível aumento dos riscos.</span>**
+![[Controle/1. Pré/14 - ADGE/Gestão de Projetos.png]]
         
 
-![[screenshot_2026-10-30_19-08-12.png]]
 ## **8.2 PERT**
 
 - A **PERT** (Técnica de Revisão e Avaliação de Programa ou Program Evaluation and Review Technique):
@@ -149,6 +151,7 @@ simplesmente pela passagem do tempo ou porque o evento de risco não ocorre.
 		- Pessimista (tP): a duração da atividade é baseada na análise do pior cenário para a atividade.
             
 
+![[screenshot_2026-10-30_19-08-12.png]]
 # **9. PMBOK 7° edição** **(💥ATENÇÃO MÁXIMA FCC)**
 
 A nova edição do guia PMBOK está sendo bastante cobrada pela FCC e passou por **significativas mudanças:**
@@ -201,7 +204,7 @@ A nova edição do guia PMBOK está sendo bastante cobrada pela FCC e passou por
 
 - Domínios Partes Interessadas e Equipe no PMBOK 7
 
-![[Gestão de Projetos-1.png]]
+![[Controle/1. Pré/14 - ADGE/img/Gestão de Projetos-1.png]]
 
 Tabela 1 – Domínios Partes Interessadas e Equipe no PMBOK 7.
 
