@@ -238,3 +238,29 @@ Continuando a indicação de leitura:
 > Art. 91. A divisão incumbida de exercer o controle interno apresentará à Coordenação de Fiscalização Estadual, **trimestralmente e ao final do exercício**, relatório contendo recomendações para o atendimento da política de qualidade de serviços adotada pelo Tribunal de Contas do Estado. 
 > - Parágrafo único. A Coordenação de Fiscalização Estadual encaminhará uma via do relatório ao **Corregedor-Geral**, para conhecimento, e outra à Presidência, que o submeterá ao Plenário.
 
+## **DA APRESENTAÇÃO DAS CONTAS (Art. 181 a 187)**
+
+> Art. 184. **<span style="color:#d3869b">Integrarão a Tomada ou Prestação de Contas</span>**, **<span style="color:#fe8019">inclusive a Tomada de Contas Especial</span>**, dentre outros elementos estabelecidos em ato normativo específico, os seguintes: 
+> - I- **<span style="color:#fe8019">rol de responsáveis</span>** da unidade ou entidade jurisdicionada; 
+> - II- **<span style="color:#fe8019">relatório de gestão</span>**, emitido pelos responsáveis; 
+> - III- **<span style="color:#fe8019">relatórios e pareceres sobre as contas e a gestão da unidade jurisdicionada</span>**, previstos em lei ou em seus atos constitutivos; 
+> - IV- **<span style="color:#fe8019">relatório e certificado de auditoria do órgão de controle interno, com o respectivo parecer de seu dirigente</span>**, sobre a eficácia e eficiência da gestão orçamentária, financeira, operacional, contábil e patrimonial, devendo ficar consignada qualquer irregularidade ou ilegalidade constatada, com indicação das medidas adotadas para correção. 
+> 
+> Art. 185. (...) §1º Nas Tomadas e Prestações de Contas **<span style="color:#d3869b">devem ser incluídos todos os recursos, orçamentários e extra-orçamentários</span>**, **<span style="color:#b8bb26">utilizados, arrecadados, guardados ou geridos pela unidade ou entidade ou pelos quais ela responda</span>**. 
+> - §2º Os processos de Tomadas e Prestações de Contas deverão conter os demonstrativos relativos **<span style="color: #d79921">a bens e valores não monetários</span>**.   
+> - §3º O ato normativo referido no caput deste artigo, considerando a racionalização e a simplificação do exame e do julgamento das Tomadas e Prestações de Contas pelo Tribunal, estabelecerá também critérios de formalização dos respectivos processos, tendo em vista a materialidade dos recursos públicos geridos, a natureza e a importância sócio-econômica dos órgãos e entidades. 
+> 
+> Art. 186. **<span style="color:#fb4934">Salvo disposição legal ou regulamentar em contrário</span>**, os processos de Prestações e Tomadas de Contas deverão ser encaminhados anualmente, **==no prazo de 150 (cento e cinquenta) dias==**, contados do encerramento do correspondente exercício financeiro. 
+> 
+> Art. 187. As prestações de contas dos administradores das empresas econômicas com personalidade jurídica de direito privado, cujo capital pertença, exclusiva ou majoritariamente, ao Estado, consistirão das **Demonstrações Financeiras e demais demonstrativos disciplinados em ato normativo específico**.   
+> - Parágrafo único. As prestações de contas referidas no caput deverão ser encaminhadas, anualmente, ao Tribunal **==até 30 de junho do ano subsequente==** ao das contas prestadas.
+    
+
+## **DA TOMADA DE CONTAS ESPECIAL (Art. 197 a 201)**
+
+> Art. 197. Diante da **<span style="color:#fe8019">omissão no dever de prestar contas, da não comprovação da aplicação dos recursos repassados pelo Estado</span>** na forma prevista no inciso VII do art. 4° da Lei Orgânica e no inciso VII do art. 7º deste Regimento, **<span style="color:#fe8019">da ocorrência de desfalque ou desvio de dinheiros, bens ou valores públicos, ou, ainda, da prática de qualquer ato ilegal, ilegítimo ou antieconômico de que resulte dano ao erário</span>**, a **<span style="color:#d3869b">autoridade administrativa competente</span>**, sob pena de **<span style="color:#fb4934">responsabilidade solidária</span>**, **<span style="color:#d3869b">deverá imediatamente adotar providências para assegurar o respectivo ressarcimento</span>** **<span style="color:#b8bb26">e, não sendo possível depois de esgotadas todas as medidas ao seu alcance, instaurar tomada de contas especial</span>** **<span style="color:#83a598">para apuração dos fatos, identificação dos responsáveis e quantificação do dano</span>**, conforme determina o art. 62 da Lei Orgânica. **(DECORE)** 
+> - §1º **Não providenciado** o disposto no caput deste artigo, **<span style="color:#fb4934">o Tribunal determinará a instauração de tomada de contas especial</span>**, fixando prazo para cumprimento dessa decisão. 
+> - §3º Na ocorrência de perda, extravio ou outra irregularidade **<span style="color: #d79921">sem que se caracterize a má-fé de quem lhe deu causa, se o dano for imediatamente ressarcido</span>**, a autoridade administrativa competente deverá, em sua tomada ou prestação de contas ordinária, comunicar o fato ao Tribunal, **<span style="color:#83a598">ficando dispensada desde logo a instauração de tomada de contas especial</span>**. 
+> 
+> Art. 199. A tomada de contas especial **<span style="color:#d3869b">será, desde logo, encaminhada ao Tribunal</span>** de Contas do Estado, para julgamento, **se o dano ao erário for de valor igual ou superior à quantia fixada em cada ano civil**, nos termos do caput do art. 63 da sua Lei Orgânica. 
+> - §4º **Se o dano for de valor inferior à quantia** a que alude o caput, a tomada de contas especial será **<span style="color:#d3869b">anexada ao processo da respectiva tomada ou prestação de contas</span>** do administrador ou ordenador de despesa, para julgamento em conjunto.
