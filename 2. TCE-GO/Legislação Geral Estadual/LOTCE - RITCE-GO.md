@@ -237,3 +237,4 @@ Continuando a indicação de leitura:
 > 
 > Art. 91. A divisão incumbida de exercer o controle interno apresentará à Coordenação de Fiscalização Estadual, **trimestralmente e ao final do exercício**, relatório contendo recomendações para o atendimento da política de qualidade de serviços adotada pelo Tribunal de Contas do Estado. 
 > - Parágrafo único. A Coordenação de Fiscalização Estadual encaminhará uma via do relatório ao **Corregedor-Geral**, para conhecimento, e outra à Presidência, que o submeterá ao Plenário.
+
