@@ -129,6 +129,9 @@ simplesmente pela passagem do tempo ou porque o evento de risco não ocorre.
             - Se houver atraso nesse caminho, irá atrasar todo o projeto.
                 
     - **<span style="color:#fb4934">Caráter determinístico</span>**;
+
+- **<span style="color:#b8bb26">Crashing</span>** = **<span style="color:#b8bb26">mais recursos e maior custo para reduzir o prazo</span>**
+- **<span style="color:#83a598">Fast tracking</span>** = **<span style="color:#83a598">sobreposição de atividades e possível aumento dos riscos.</span>**
         
 
 ![[screenshot_2026-10-30_19-08-12.png]]
