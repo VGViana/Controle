@@ -146,6 +146,7 @@ Capacitar o funcionário para o desenvolvimento de **<span style="color:#83a598
 | **Simpósio**                                                     | Trata-se de uma técnica bastante **<span style="color:#b8bb26">semelhante ao painel</span>.** Contudo, a diferença em relação ao painel, é que o **<span style="color:#b8bb26">Simpósio possui um caráter mais formal</span>**, cujo propósito é direcionar, aos participantes, trabalhos de pesquisa e reflexão |
 | **Jogo de Empresas (Jogos Administrativos / Jogos de Negócios)** | Essa técnica utiliza uma **<span style="color:#b8bb26">simulação frente às situações do trabalho.</span>**                                                                                                                                                                                                       |
 
+![[Treinamento e desenvolvimento-2.png]]
 # **3. Desenvolvimento**
 
 Conjunto de experiências e oportunidades de **aprendizagem** que a **organização proporciona ao indivíduo**, com o objetivo de **apoiar seu <span style="color:#b8bb26">crescimento profissional e pessoal</span>**. 
