@@ -161,7 +161,7 @@ Foco nas **Técnicas/Métodos, Programas e Avaliação** dos programas.
 	- ajuda a obter melhor **compreensão** da organização como um **todo**;
 - **Leitura**: adequada para disseminar informações, mas limitada na promoção de mudanças e na melhoria de atitudes ou comportamentos.
 - **<span style="color:#fb4934">Posições de assessoria</span>:**
-	- Chiavenato: Dar oortunidade para que a pessoa, com elevado potencial, trabalhe **<span style="color:#fb4934">provisoriamente sob a supervisão de um gerente bem-sucedido</span>** em **diferentes áreas da organização;**
+	- Chiavenato: Dar oportunidade para que a pessoa, com elevado potencial, trabalhe **<span style="color:#fb4934">provisoriamente sob a supervisão de um gerente bem-sucedido</span>** em **diferentes áreas da organização;**
 	- Pessoa pode desempenhar **diferentes tarefas** sob a condução apoiadora do gerente.
 - **<span style="color:#83a598">Ampliação de cargos</span>:**
 	- **acréscimo** de tarefas ou de responsabilidades de nível **<span style="color:#83a598">superior</span>** **ou algum deslocamento <span style="color:#83a598">vertical</span> do cargo**.
