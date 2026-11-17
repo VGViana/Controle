@@ -197,3 +197,15 @@ Foco nas **Técnicas/Métodos, Programas e Avaliação** dos programas.
 # 4. Tipologia de Sonnenfeld (1989)
 
 ![[Treinamento e desenvolvimento.png]]
+
+# 5. Modelo 70/20/10
+
+O modelo 70/20/10 é uma abordagem ao desenvolvimento e aprendizagem das organizações baseada nas ideias de Morgan McCall, Robert W. Eichinger e Michael M. Lombardo, nos EUA em meados da década de 1990 (LOMBARDO e EICHINGER, 1996).
+
+O modelo consiste em otimizar:
+
+- _**<span style="color:#b8bb26">70%</span>** do aprendizado com **<span style="color:#b8bb26">experiências próprias</span>** (estágios, participação em projetos, treinamentos práticos, etc);_
+
+- _<span style="color: #d79921">20%</span> do **<span style="color: #d79921">aprendizado com</span>** **<span style="color: #d79921">os outros</span>** (discussão em grupos, grupos de estudos, benchmarking, etc);_
+
+- _**<span style="color:#fb4934">10%</span>** do aprendizado através de **<span style="color:#fb4934">cursos</span>** (leituras, filmes, treinamento presencial, etc)._
