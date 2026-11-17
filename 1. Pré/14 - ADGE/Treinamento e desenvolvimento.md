@@ -92,6 +92,7 @@ Capacitar o funcionário para o desenvolvimento de **<span style="color:#83a598
     - melhor atendimento ao cliente,
     - aumento da eficiência
     - **<span style="color:#83a598">melhor relacionamento entre empresas e funcionários</span>**
+	- facilidade de mudanças e inovação
 - Nível de **<span style="color:#d3869b">recursos humanos</span>** (<span style="color:#d3869b">departamental - </span>**<span style="color:#d3869b">TÁTICO</span>**):
     - redução da **<span style="color:#d3869b">rotatividade e absenteísmo</span>**,
     - aumento da eficácia individual e dos grupos,
