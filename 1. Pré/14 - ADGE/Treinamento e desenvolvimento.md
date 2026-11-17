@@ -168,11 +168,15 @@ Foco nas **Técnicas/Métodos, Programas e Avaliação** dos programas.
 - **<span style="color:#83a598">Ampliação de cargos</span>:**
 	- **acréscimo** de tarefas ou de responsabilidades de nível **<span style="color:#83a598">superior</span>** **ou algum deslocamento <span style="color:#83a598">vertical</span> do cargo**.
 	- Não confunda com **<span style="color:#fb4934">extensão de cargos</span>**: acréscimo de tarefas do **<span style="color:#fb4934">mesmo nível</span>** de dificuldades ou de responsabilidade ou algum deslocamento **<span style="color:#fb4934">horizontal</span>**.
-- Aprendizagem prática
+- Aprendizagem prática: A Aprendizagem prática é uma técnica de treinamento através da qual o treinando se dedica a um trabalho de tempo integral para analisar e resolver problemas em certos projetos ou em outros departamentos.
+
 - **Atribuição de comissões**
 - Participação em cursos e seminários externos
-- Exercícios de simulação;
-- Estudo de casos
+
+- Exercícios de simulação: Os exercícios de simulação apresentam a vantagem de criar um ambiente similar em relação às situações reais em que a pessoa trabalha sem os altos custos envolvidos em ações reais indesejáveis.
+
+- Estudo de casos: método de desenvolvimento no qual a pessoa se defronta com uma descrição escrita de um problema organizacional para ser analisado e resolvido.
+
 - Jogos de empresas
 - Treinamento fora da empresa
 - Centros de desenvolvimentos internos
