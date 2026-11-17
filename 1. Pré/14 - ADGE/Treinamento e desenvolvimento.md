@@ -192,3 +192,7 @@ Foco nas **Técnicas/Métodos, Programas e Avaliação** dos programas.
 - **<span style="color:#d3869b">Desenvolvimento</span>**
     - Ação continuada de <span style="color:#d3869b">longo prazo</span>
     - Aprendizagem <span style="color:#d3869b">ativa</span> (protagonista do seu próprio desenvolvimento)
+
+# 4. Tipologia de Sonnenfeld (1989)
+
+![[Treinamento e desenvolvimento.png]]
