@@ -1887,3 +1887,5 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 	- IV - **atas de registro de preços;**  
 	- V - **contratos e termos aditivos;**   
 	- VI - notas fiscais eletrônicas, quando for o caso.
+
+![[Lei nº 14.133-2021-5.png]]
