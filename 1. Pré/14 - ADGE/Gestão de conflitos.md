@@ -119,7 +119,7 @@ A ==colaboração== é apresentada como o ==estilo mais eficaz== para solucionar
 - **<span style="color:#fb4934">Distributiva e competitiva</span>:** conceitos associados à lógica ganha-perde, com foco nos ganhos individuais.
 - **<span style="color:#83a598">Integrativa e cooperativa</span>:** conceitos associados à lógica ganha-ganha, com foco nos ganhos mútuos.
 
-### **💥 Negociação Distributiva**
+### ** Negociação Distributiva**
 
 - Caracterizada pela lógica de soma zero.
 - Uma parte ganha à medida que a outra perde.
@@ -127,7 +127,7 @@ A ==colaboração== é apresentada como o ==estilo mais eficaz== para solucionar
 - Busca soluções do tipo ganha-perde.
 - Prioriza a distribuição dos recursos e a maximização dos ganhos individuais.
 
- ### **💥 Negociação Competitiva**
+### **💥 Negociação Competitiva**
 
 - Busca obter vantagens sobre a outra parte.
 - Prioriza o poder e os interesses próprios.
