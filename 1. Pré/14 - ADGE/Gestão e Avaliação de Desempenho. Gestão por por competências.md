@@ -102,6 +102,7 @@
 
 A **interferência entre variáveis** ocorre quando **duas ou mais variáveis são de tal forma inter-relacionadas que não é possível tirar conclusões sobre nenhuma delas**.
 
+
 ## **6. Métodos de avaliação de Desempenho** 
 
 | **<span style="color:#83a598">Métodos tradicionais</span>**                                                                                                        | **<span style="color:#fe8019">Métodos Modernos</span>** | **Outros Métodos**                                                      |
