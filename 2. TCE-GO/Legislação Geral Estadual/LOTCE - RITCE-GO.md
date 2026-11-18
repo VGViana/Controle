@@ -368,3 +368,10 @@ Continuando a indicação de leitura:
 - Art. 179. A apreciação das Contas do Governo pelo Tribunal de Contas do Estado far-se-á em **Sessão Extraordinária** a ser realizada com antecedência **mínima** de **72 (setenta e duas) horas** do término do prazo para remessa do Relatório e Parecer à Assembleia Legislativa.
     
     - Parágrafo único. O Conselheiro Relator, **até 72 (setenta e duas) horas** antes do prazo determinado no caput deste artigo, distribuirá cópia do Relatório e Parecer Prévio ao Presidente, aos Conselheiros, aos Auditores e à Procuradoria-Geral de Contas.
+
+![[screenshot_2026-11-17_22-35-33.png]]
+
+![[screenshot_2026-11-17_22-35-50.png]]
+
+![[screenshot_2026-11-17_22-36-04.png]]
+
