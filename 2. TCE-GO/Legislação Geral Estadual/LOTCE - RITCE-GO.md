@@ -264,3 +264,107 @@ Continuando a indicação de leitura:
 > 
 > Art. 199. A tomada de contas especial **<span style="color:#d3869b">será, desde logo, encaminhada ao Tribunal</span>** de Contas do Estado, para julgamento, **se o dano ao erário for de valor igual ou superior à quantia fixada em cada ano civil**, nos termos do caput do art. 63 da sua Lei Orgânica. 
 > - §4º **Se o dano for de valor inferior à quantia** a que alude o caput, a tomada de contas especial será **<span style="color:#d3869b">anexada ao processo da respectiva tomada ou prestação de contas</span>** do administrador ou ordenador de despesa, para julgamento em conjunto.
+
+## **DAS DECISÕES EM PROCESSO DE PRESTAÇÃO OU TOMADA DE CONTAS (Art. 202 a 214)**
+
+- Art. 202. A decisão em processo de prestação ou tomada de contas, mesmo especial, pode ser **preliminar, definitiva ou terminativa**. **⚠️ MUITO IMPORTANTE!**
+    
+    - I- **Preliminar** é a decisão pela qual o Relator ou o Tribunal, antes de pronunciar-se quanto ao mérito das contas, resolve sobrestar o julgamento, ordenar a citação dos responsáveis, rejeitar as alegações de defesa e fixar novo e improrrogável prazo para recolhimento do débito ou, ainda, determinar outras diligências necessárias ao saneamento do processo.
+        
+    - II- **Definitiva** é a decisão pela qual o Tribunal julga as contas regulares, regulares com ressalva ou irregulares.
+        
+    - III- **Terminativa** é a decisão pela qual o Tribunal ordena o trancamento das contas que forem consideradas iliquidáveis, ou determina o seu arquivamento pela ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo ou por racionalização administrativa e economia processual, nos termos dos artigos 76 e 77 da sua Lei Orgânica.
+        
+    - Parágrafo único. As **contas serão consideradas iliquidáveis quando** caso fortuito ou de força maior, comprovadamente alheio à vontade do responsável, tornar materialmente impossível o julgamento de mérito da matéria.
+        
+- Art. 203. O Tribunal de Contas do Estado **determinará o arquivamento** do processo de prestação ou de tomada de contas, mesmo especial, **sem julgamento de mérito**, quando verificar a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo.
+    
+    - §1º Dentro do prazo de **5(cinco) anos**, contados da publicação da decisão, o Tribunal poderá, à vista de novos elementos que considere suficientes, autorizar o desarquivamento do processo e determinar que se ultime a tomada ou prestação de contas.
+        
+    - §2º Transcorrido o prazo referido no §1º deste artigo sem que tenha havido nova decisão, as contas **serão consideradas encerradas, com baixa nas responsabilidades.**
+        
+- Art. 204. A título de **racionalização administrativa e economia processual**, **e com o objetivo de evitar que o custo da cobrança seja superior ao valor do ressarcimento**, o Tribunal de Contas do Estado **poderá determinar, desde logo, nos termos de ato normativo específico, o arquivamento de processo, sem cancelamento de débito**, cujo **pagamento continuará obrigado o devedor**, para que lhe possa ser dada quitação.
+    
+- Art. 205. **Verificada irregularidade nas contas**, o Relator ou o Tribunal de Contas do Estado **deve**:
+    
+    - I- definir a responsabilidade **individual ou solidária** pelo ato de gestão inquinado;
+        
+    - II- **se houver débito**, **ordenar a citação** do responsável para que, **no prazo de 15 (quinze) dias**, apresente **alegações de defesa ou recolha a quantia devida, ou ainda, adote ambas as providências**;
+        
+    - III- **se não houver débito**, **determinar a citação** do responsável para que, também no prazo de **15 (quinze)**, apresente razões de justificativa;
+        
+    - IV- adotar outras medidas que julgar cabíveis e necessárias.
+        
+    - §1º O responsável cujas alegações de defesa forem rejeitadas pelo Relator ou Tribunal será intimado para, **em novo e improrrogável** prazo de **15 (quinze) dias**, recolher a importância devida.
+        
+    - §2º No caso de rejeição das razões de justificativa, a comunicação a que se refere o § 3º do art. 165 deste Regimento será efetivada na mesma oportunidade em que se fizer a intimação da aplicação das sanções previstas nos artigos 313, 320 e 321 deste Regimento.
+        
+    - §3º **Reconhecida pelo Tribunal a boa-fé, a liquidação tempestiva do débito atualizado monetariamente** **sanará o processo, se não houver sido observada outra irregularidade nas contas**, **hipótese em que as contas serão julgadas regulares com ressalva e dada quitação ao responsável**.
+        
+    - §5º O responsável que não atender à citação será considerado **revel** pelo Tribunal, para todos os efeitos, dando-se prosseguimento ao processo.
+        
+    - §6° O não atendimento de citação válida **importa revelia, mas não o reconhecimento da verdade dos fatos, nem a renúncia a direito**.
+        
+- Art. 207. O Tribunal de Contas do Estado julgará as tomadas e prestações de contas **até o término do segundo exercício seguinte àquele em que lhe tiverem sido apresentadas**.
+    
+- Art. 208. Ao julgar as contas, o Tribunal de Contas do Estado decidirá, quanto ao **mérito, se são regulares, regulares com ressalva ou irregulares**, **exceto** na hipótese de serem consideradas iliquidáveis nos termos do parágrafo único, do art. 202 deste Regimento.
+    
+- Art. 209. As contas serão julgadas:
+    
+    - I- **regulares**, quando expressarem, de forma clara e objetiva, a exatidão dos demonstrativos contábeis, a legalidade, a legitimidade e a economicidade dos atos de gestão do responsável;
+        
+    - II- **regulares com ressalva**, quando evidenciarem impropriedade ou qualquer outra falta de natureza formal de que não resulte dano ao erário;
+        
+    - III- **irregulares**, quando comprovada qualquer das seguintes ocorrências:
+        
+        - a) omissão no dever de prestar contas;
+            
+        - b) prática de ato de gestão ilegal, ilegítimo, antieconômico, ou infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional ou patrimonial;
+            
+        - c) dano ao erário decorrente de ato de gestão ilegítimo ou antieconômico;
+            
+        - d) desfalque ou desvio de dinheiros, bens ou valores públicos.
+            
+    - §1º O Tribunal **poderá** julgar irregulares as contas no caso de descumprimento de determinação de que o responsável tenha tido ciência, feita em processo de tomada de contas ou prestação de contas.
+        
+    - §2º Nas hipóteses do inciso III, alíneas b, c e d deste artigo, o Tribunal, ao julgar irregulares as contas, **fixará a responsabilidade solidária** do agente público que praticou ou atestou o ato irregular e do terceiro que, como contratante ou parte interessada na prática do mesmo ato, de qualquer modo haja concorrido para o cometimento do dano apurado.
+        
+- Art. 210. A decisão definitiva em processo de tomada ou prestação de contas anuais **constituirá fato impeditivo da imposição de multa ou débito em outros processos nos quais constem como responsáveis os mesmos gestores**.
+    
+    - Parágrafo único. Na hipótese do caput deste artigo, a apreciação das irregularidades apuradas nos outros processos, referentes ao mesmo exercício, dependerá do conhecimento de eventual pedido de revisão, apresentado pela Procuradoria-Geral de Contas, na forma dos artigos 129 da Lei Orgânica e 347 deste Regimento.
+        
+- Art. 211. Ao julgar as contas regulares o Tribunal de Contas de Estado dará **quitação plena** ao responsável.
+    
+- Art. 212. Quando julgar as contas regulares com ressalva, o Tribunal de Contas do Estado **dará quitação ao responsável e lhe determinará,** ou a quem lhe tenha sucedido, a adoção de medidas necessárias à correção das impropriedades ou faltas identificadas, de modo a prevenir a ocorrência de outras semelhantes.
+    
+    - Parágrafo único. O acórdão de julgamento **deverá** indicar, resumidamente, os motivos da ressalva das contas.
+        
+- Art. 213. Na hipótese de contas julgadas irregulares, havendo débito, o Tribunal de Contas do Estado **condenará o responsável ao pagamento da dívida atualizada monetariamente, acrescida dos juros de mora devidos**, **podendo, ainda, aplicar-lhe a multa prevista no art. 312** deste Regimento, sendo o instrumento da decisão considerado **título executivo para fundamentar a respectiva ação de execução**.
+    
+
+**DAS CONTAS ANUAIS DO GOVERNADOR (Art. 173 a 175)**
+
+- Art. 173. As Contas Anuais prestadas pelo Governador deverão ser encaminhadas à Assembleia Legislativa e ao Tribunal de Contas do Estado de Goiás, concomitantemente, **até 60 (sessenta**) dias após a abertura da sessão legislativa.
+    
+- **§1º As contas anuais prestadas pelo Governador incluirão, além das do Poder Executivo, as dos Chefes dos Poderes Legislativo, Judiciário, do Chefe do Ministério Público, do Tribunal de Contas dos Municípios e as do Tribunal, as quais receberão parecer prévio, separadamente**. (Cópia do disposto no art. 56, da LRF... incostitucional vide ADI 2324)
+    
+- Art. 174. As Contas Anuais do Governador, relativas a todas as receitas e despesas públicas, consistirão dos **Balanços Gerais do Estado**, e do **relatório do órgão central do sistema de controle interno do Poder Executivo**, sobre a execução dos orçamentos de que trata a Constituição Estadual.
+    
+    - §1º Os balanços e seus demonstrativos deverão apresentar, **minuciosamente**, a execução, no ano de referência das contas:
+        
+        - I- do o**rçamento fiscal** relativo aos três Poderes do Estado, e a seus fundos especiais, órgãos e entidades da administração indireta e fundacional;
+            
+        - II- do **orçamento de investimento** das empresas em que o Estado, direta ou indiretamente, detenha a maioria do capital votante;
+            
+        - III- do **orçamento da seguridade social**, abrangendo todas as entidades e os órgãos a elas vinculados, da administração direta ou indireta, bem como os fundos e as fundações instituídos pelo poder público.
+            
+
+**APRECIAÇÃO DAS CONTAS ANUAIS DO GOVERNADOR (Art. 176 a 180)**
+
+- Art. 176. O Tribunal de Contas do Estado **apreciará** as Contas Anuais do Governador mediante pareceres prévios a serem elaborados em **60(sessenta) dias**, a contar da data de seu recebimento.
+    
+- Art. 178. O Conselheiro Relator, além dos elementos contidos nas contas prestadas pelo Governador do Estado **poderá solicitar esclarecimentos adicionais** e efetuar, por intermédio de unidade técnica específica, pesquisas e estudos que entenda necessários à elaboração do seu Parecer.
+    
+- Art. 179. A apreciação das Contas do Governo pelo Tribunal de Contas do Estado far-se-á em **Sessão Extraordinária** a ser realizada com antecedência **mínima** de **72 (setenta e duas) horas** do término do prazo para remessa do Relatório e Parecer à Assembleia Legislativa.
+    
+    - Parágrafo único. O Conselheiro Relator, **até 72 (setenta e duas) horas** antes do prazo determinado no caput deste artigo, distribuirá cópia do Relatório e Parecer Prévio ao Presidente, aos Conselheiros, aos Auditores e à Procuradoria-Geral de Contas.
