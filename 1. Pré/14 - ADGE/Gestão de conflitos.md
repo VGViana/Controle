@@ -53,19 +53,14 @@ Chiavenato identifica quatro condições antecedentes:
 
 ## **Níveis de gravidade (Chiavenato)**
 
-Percebido
+- Percebido: identifica-se a incompatibilidade potencial. 
+- Latente 
+- Experienciado: surgem sentimentos negativos ainda não exteriorizados. 
+- Velado 
+- Manifestado: o conflito torna-se evidente no comportamento das partes.
+- Aberto
 
-Latente
-
-Experienciado
-
-Velado
-
-Manifestado
-
-Aberto
-
-No conflito percebido, identifica-se a incompatibilidade potencial. No experienciado, surgem sentimentos negativos ainda não exteriorizados. No manifestado, o conflito torna-se evidente no comportamento das partes.
+  
 
 ## **Administração de conflitos (Chiavenato)**
 
