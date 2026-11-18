@@ -89,7 +89,7 @@ _**💥 Atenção à distinção:**_ 
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **§ 1º  Parâmetros de controle** | Legalidade, legitimidade, economicidade, eficiência, eficácia, efetividade, razoabilidade e proporcionalidade dos atos de gestão e despesas decorrentes, bem como aplicação de subvenção e renúncia de receitas. |
 | **§ 2º  Título executivo**       | Decisões do Tribunal de que resulte **imputação de débito ou multa** terão eficácia de **título executivo**.                                                                                                     |
-| **§ 3º  Prestação de contas**    | O Tribunal prestará **contas anuais** à Assembléia Legislativa e encaminhará **relatórios trimestrais e anual** de suas atividades.                                                                              |
+| **§ 3º  Prestação de contas**    | O Tribunal prestará **<span style="color:#b8bb26">contas anuais</span>** à Assembléia Legislativa e encaminhará **<span style="color:#83a598">relatórios trimestrais e anual</span>** de suas atividades.        |
 | **§ 4º  Poder de investigação**  | Amplo poder de investigação, podendo requisitar e examinar, **a qualquer tempo**, todos os elementos necessários ao exercício de suas atribuições.                                                               |
 
 **Atenção (§ 4º):** não poderá ser sonegado **processo, documento ou informação, a qualquer pretexto, sob pena de responsabilidade**.
