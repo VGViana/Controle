@@ -72,7 +72,10 @@ A gestão de conflitos procura atuar sobre suas causas ou sobre o episódio já 
 | **De processo** | Atua sobre o conflito existente, mediante desativação, reunião de confrontação ou colaboração.        |
 | **Mista**       | Combina intervenções estruturais e de processo, utilizando regras de resolução e papéis integradores. |
 
-Quanto aos resultados, as soluções podem ser ganha-perde, perde-perde ou ganha-ganha. A última tende a resolver o conflito de maneira mais efetiva, pois busca atender aos interesses de ambas as partes.
+Quanto aos resultados, as soluções podem ser: 
+- ganha-perde, 
+- perde-perde ou 
+- ganha-ganha: Tende a resolver o conflito de maneira mais efetiva, pois busca atender aos interesses de ambas as partes.
 
 ## **Estilos de administração de conflitos**
 
