@@ -383,3 +383,5 @@ Continuando a indicação de leitura:
 
 ![[screenshot_2026-11-17_22-54-00.png]]
 
+![[screenshot_2026-11-17_22-58-24.png]]
+
