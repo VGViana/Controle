@@ -81,16 +81,17 @@ Quanto aos resultados, as soluções podem ser:
 
 Os cinco estilos resultam da combinação entre assertividade (defesa dos próprios interesses) e cooperação (consideração dos interesses da outra parte).
 
-| Estilo      | Assertividade | Cooperação | Característica                                        |
-| ----------- | ------------- | ---------- | ----------------------------------------------------- |
-| Evitação    | Baixa         | Baixa      | Foge ou ignora o conflito.                            |
-| Acomodação  | Baixa         | Alta       | Cede para preservar a harmonia.                       |
-| Competição  | Alta          | Baixa      | Impõe os próprios interesses; ganha-perde.            |
-| Colaboração | Alta          | Alta       | Busca atender plenamente às duas partes; ganha-ganha. |
-| Compromisso | Moderada      | Moderada   | Concessões mútuas; satisfação parcial.                |
+| Estilo                                      | Assertividade | Cooperação | Característica                                        |
+| ------------------------------------------- | ------------- | ---------- | ----------------------------------------------------- |
+| Evitação/Abstenção                          | Baixa         | Baixa      | Foge ou ignora o conflito.                            |
+| Acomodação/Abrandamento/Negociação/Barganha | Baixa         | Alta       | Cede para preservar a harmonia.                       |
+| Competição/Dominação/Imposição              | Alta          | Baixa      | Impõe os próprios interesses; ganha-perde.            |
+| Colaboração                                 | Alta          | Alta       | Busca atender plenamente às duas partes; ganha-ganha. |
+| Compromisso /Transigência/Concessão/Acordo  | Moderada      | Moderada   | Concessões mútuas; satisfação parcial.                |
 
 A ==colaboração== é apresentada como o ==estilo mais eficaz== para solucionar efetivamente o problema. Já o **<span style="color:#b8bb26">compromisso</span>** representa uma **<span style="color:#b8bb26">solução intermediária</span>**, na qual ambos cedem parte de seus interesses.
 
+![[Gestão de conflitos.png]]
 ## **Etapas do processo de negociação** 
 
 1. **<span style="color:#fe8019">Preparação e planejamento</span>**
