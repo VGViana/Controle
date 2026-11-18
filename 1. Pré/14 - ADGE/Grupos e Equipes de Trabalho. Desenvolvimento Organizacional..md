@@ -228,3 +228,9 @@ Esse tipo de comportamento pode ser muito prejudicial porque, na superfície, pa
 - **Criatividade:** habilidade de gerar novas ideias.
     
 - **Inovação:** colocar novas ideias em prática, gerando valor.
+
+# 7. Conceitos de Questões
+
+## Demografia Organizacional
+
+Consiste no grau em que **<span style="color:#83a598">membros do grupo compartilham atributos demográficos</span>**, tais como idade, sexo, raça, nível educacional ou tempo de serviço na organização, e o **<span style="color:#83a598">impacto desses atributos na rotatividade</span>**.
