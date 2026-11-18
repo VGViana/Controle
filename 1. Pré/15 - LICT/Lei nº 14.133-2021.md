@@ -1889,3 +1889,14 @@ Com isso, podemos colocar um novo bizu: **==GARANTIA do <span style="color:#83
 	- VI - notas fiscais eletrônicas, quando for o caso.
 
 ![[Lei nº 14.133-2021-5.png]]
+
+# 22. Regime Simplificado 
+
+À celebração, à execução, ao acompanhamento e à prestação de contas dos **<span style="color:#fe8019">convênios, contratos de repasse e instrumentos congêneres</span>** em que for parte a **<span style="color:#fe8019">União</span>**, com valor global de **<span style="color:#b8bb26">até R$ 1.500.000,00</span>,** aplicar-se-á o seguinte **regime simplificado**: 
+
+- o **plano de trabalho** aprovado **conterá <span style="color:#83a598">parâmetros objetivos</span>** para caracterizar o cumprimento do objeto;
+- a **minuta** **dos instrumentos** deverá ser **<span style="color:#83a598">simplificada</span>**; 
+- a liberação dos recursos dar-se-á em **<span style="color:#b8bb26">parcela única</span>**; 
+- a verificação da execução do objeto ocorrerá mediante visita de **<span style="color:#83a598">constatação da compatibilidade com o plano de trabalho</span>**. 
+
+**<span style="color:#fb4934">Não haverá análise nem aceite de termo de referência</span>**, **<span style="color:#fb4934">anteprojeto</span>**, **<span style="color:#fb4934">projeto</span>**, **<span style="color:#fb4934">orçamento</span>**, **resultado** do processo licitatório ou outro documento necessário **para o início da execução do objeto**, e **<span style="color:#fe8019">caberá à concedente ou mandatária verificar o cumprimento</span>** do objeto pactuado ao final da execução do instrumento.
