@@ -160,7 +160,7 @@ _**💥 ==Principais pontos dos modelos teóricos (FOCO NO MODELO GERENCIAL)==**
     - **Dimensão: institucional-legal**
         - Objetivo: Descentralização da estrutura organizacional
     - **Dimensão: Cultural:**
-        - Objetivo: mudança de mentalizada
+        - Objetivo: mudança de mentalidade
             - Alterar o comportamento: consciência de que a administração pública existe para atender às demandas da sociedade
     - **Dimensão: Gerencial**
         - Objetivo: Maior autonomia aos gestores
