@@ -156,6 +156,13 @@ _**💥 ==Principais pontos dos modelos teóricos (FOCO NO MODELO GERENCIAL)==**
 	- Propriedade Privada;
 	- Gestão gerencial.
 
+|Setor do Estado|Função principal|Propriedade|Diretriz|
+|---|---|---|---|
+|**Núcleo Estratégico**|Formula **políticas públicas** e define rumos do Estado|**Pública estatal**|Combina **burocracia + gestão gerencial** para maior efetividade|
+|**Atividades Exclusivas**|Exercício do **poder do Estado** (regulação, fiscalização, tributos, polícia)|**Pública estatal**|**Agências autônomas/reguladoras**|
+|**Serviços Não Exclusivos**|Serviços sociais que **podem ser prestados por outros** (saúde, educação, pesquisa)|**Público não estatal**|**Publicização** (organizações sociais / terceiro setor)|
+|**Produção para o Mercado**|**Atividades econômicas** voltadas ao lucro|**Privada**|**Privatização + regulação**|
+
 - Diagnóstico do PDRAE sobre as disfunções da administração pública gerou três dimensões do problema:
     - **Dimensão: institucional-legal**
         - Objetivo: Descentralização da estrutura organizacional
