@@ -1,16 +1,20 @@
 # **DA FISCALIZAÇÃO** 
 
-- Art. 85. O Tribunal, no exercício de suas atribuições, pode realizar, por iniciativa própria, inspeções e auditorias, ou outro procedimento de fiscalização, de natureza contábil, financeira, orçamentária, operacional e patrimonial nos órgãos e entidades sob sua jurisdição, com vistas a verificar a **l****egalidade, a legitimidade, a economicidade, a eficiência, a eficácia e a efetividade de atos, contratos e fatos administrativos**, **inclusive os de concessão de incentivos fiscais**.
+- Art. 85. O Tribunal, no exercício de suas atribuições, pode realizar, por iniciativa própria, inspeções e auditorias, ou outro procedimento de fiscalização, de natureza contábil, financeira, orçamentária, operacional e patrimonial nos órgãos e entidades sob sua jurisdição, com vistas a verificar a **legalidade, a legitimidade, a economicidade, a eficiência, a eficácia e a efetividade de atos, contratos e fatos administrativos**, **inclusive os de concessão de incentivos fiscais**.
     
 - Art. 86. Leitura completa.
 - Art. 87. Qualquer **cidadão, partido político, associação ou sindicato** é parte legítima para denunciar irregularidades ou ilegalidades perante o Tribunal de Contas.
+
+
     
     - § 1o **Em caso de urgência**, a denúncia poderá ser encaminhada ao Tribunal por telegrama, fac-símile ou outro meio eletrônico, sempre com confirmação de recebimento e **posterior remessa do original em 10 (dez) dias**, contados a partir da mencionada confirmação.
         
     - § 2o A denúncia que preencher os requisitos de admissibilidade será apurada em **caráter sigiloso, até que se comprove a sua procedência**.
         
 - Art. 88. A denúncia será formalizada por termo **escrito**, do qual constarão a **exposição da irregularidade ou ilegalidade e a qualificação do denunciante**.
-    
+
+	![[screenshot_2026-11-25_19-02-09.png]]
+	
     - Parágrafo único. O denunciante **não se sujeitará a nenhuma sanção administrativa, cível ou penal** em decorrência da denúncia, **salvo em caso de comprovada má-fé**.
         
 - Art. 89. **No resguardo dos direitos e garantias individuais**, o Tribunal **dará tratamento sigiloso às denúncias formuladas**, **até decisão definitiva sobre a matéria**.
@@ -25,9 +29,11 @@
         
 - Art. 91. Leitura completa do rol de legitimados!
 
-****🚨** INSTRUMENTOS  DE FISCALIZAÇÃO (LEITURA INTEGRAL ! IMPORTANTÍSSIMO)**
+![[screenshot_2026-11-25_19-00-30.png]]
 
-****LEITURA RITCE-GO**  (Art. 236 a 246)**
+> [!important]
+>**🚨** INSTRUMENTOS  DE FISCALIZAÇÃO (LEITURA INTEGRAL ! IMPORTANTÍSSIMO)
+>**LEITURA RITCE-GO**  (Art. 236 a 246)
 
 - Art. 92. Constituem instrumentos utilizados para execução das atividades de fiscalização, dentre outros: (Vejam que o clássico ALIAM - Auditoria, Levantamento, Inspeção, Acompanhamento e Monitoramento + RGF e RREO - **exclusividade do TCE rsrs**!)
     
