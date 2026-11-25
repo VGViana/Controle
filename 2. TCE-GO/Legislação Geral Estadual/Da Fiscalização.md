@@ -33,6 +33,9 @@
 
 ![[screenshot_2026-11-25_19-08-27.png]]
 
+![[screenshot_2026-11-25_19-10-05.png]]
+
+
 > [!important]
 >**🚨** INSTRUMENTOS  DE FISCALIZAÇÃO (LEITURA INTEGRAL ! IMPORTANTÍSSIMO)
 >**LEITURA RITCE-GO**  (Art. 236 a 246)
