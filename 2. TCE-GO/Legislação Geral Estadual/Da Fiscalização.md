@@ -45,7 +45,7 @@
     - I – levantamentos;
         
     - II – auditorias;
-        
+        ![[screenshot_2026-11-25_19-17-52.png]]
     - III – inspeções;
         
     - IV – acompanhamentos;
