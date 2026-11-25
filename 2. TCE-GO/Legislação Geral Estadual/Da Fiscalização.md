@@ -13,15 +13,14 @@
 >
 > - Parágrafo único. O denunciante **<span style="color:#b8bb26">não se sujeitará a nenhuma sanção administrativa, cível ou penal</span>** em decorrência da denúncia, **salvo em caso de comprovada má-fé**. 
 >
-> Art. 89. **No resguardo dos direitos e garantias individuais**, o Tribunal **dará tratamento sigiloso às denúncias formuladas**, **até decisão definitiva sobre a matéria**. 
-> - § 1o Ao decidir, caberá ao Tribunal **manter ou não o sigilo quanto ao objeto da denúncia (discricionário)**, **devendo mantê-lo, em qualquer caso, quanto à autoria (vinculado)**. 
+> Art. 89. **No resguardo dos direitos e garantias individuais**, o Tribunal **<span style="color:#fe8019">dará tratamento sigiloso às denúncias formuladas</span>**, **==até decisão definitiva sobre a matéria==**. 
+> - § 1o Ao decidir, caberá ao Tribunal **manter ou não o sigilo quanto ao objeto da denúncia (discricionário)**, **<span style="color:#fb4934">devendo mantê-lo, em qualquer caso, quanto à autoria (vinculado)</span>**. 
 > - § 2o Reunidas as provas que indiquem a existência de irregularidade ou ilegalidade, **serão públicos os demais atos do processo**, assegurando-se aos acusados oportunidade de ampla defesa. 
 >
->  Art. 90. O denunciante poderá requerer ao Tribunal de Contas certidão dos despachos e dos fatos apurados, a qual deverá ser fornecida no prazo máximo de **15 (quinze) dias**, a contar do recebimento do pedido, desde que o respectivo processo de apuração tenha sido concluído ou arquivado.
-    
-    - Parágrafo único. Decorrido o prazo de **90 (noventa) dias**, a contar do recebimento da denúncia, **será obrigatoriamente fornecida a certidão** de que trata este artigo, ainda que não estejam concluídas as investigações.
-        
-- Art. 91. Leitura completa do rol de legitimados!
+>  Art. 90. O denunciante poderá requerer ao Tribunal de Contas certidão dos despachos e dos fatos apurados, a qual deverá ser fornecida no prazo máximo de **==15 (quinze) dias==**, a contar do recebimento do pedido, desde que o respectivo processo de apuração tenha sido concluído ou arquivado. 
+>  - Parágrafo único. Decorrido o prazo de **==90 (noventa) dias==**, a contar do recebimento da denúncia, **<span style="color:#fb4934">será obrigatoriamente fornecida a certidão</span>** de que trata este artigo, ainda que não estejam concluídas as investigações. 
+>
+> Art. 91. Leitura completa do rol de legitimados!
 
 ![[screenshot_2026-11-25_19-00-30.png]]
 
@@ -34,28 +33,14 @@
 >**🚨** INSTRUMENTOS  DE FISCALIZAÇÃO (LEITURA INTEGRAL ! IMPORTANTÍSSIMO)
 >**LEITURA RITCE-GO**  (Art. 236 a 246)
 
-- Art. 92. Constituem instrumentos utilizados para execução das atividades de fiscalização, dentre outros: (Vejam que o clássico ALIAM - Auditoria, Levantamento, Inspeção, Acompanhamento e Monitoramento + RGF e RREO - **exclusividade do TCE rsrs**!)
-    
-    - I – levantamentos;
-    ![[screenshot_2026-11-25_19-23-28 1.png]]
-    - II – auditorias;
-	![[screenshot_2026-11-25_19-17-52.png]]
-	![[screenshot_2026-11-25_19-23-50.png]]
-    - III – inspeções;
-	![[screenshot_2026-11-25_19-24-19.png]]
+> Art. 92. Constituem instrumentos utilizados para execução das atividades de fiscalização, dentre outros: (Vejam que o clássico ALIAM - Auditoria, Levantamento, Inspeção, Acompanhamento e Monitoramento + RGF e RREO - **exclusividade do TCE rsrs**!) 
+> - I – levantamentos; ![[screenshot_2026-11-25_19-23-28 1.png]] 
+> - II – auditorias; ![[screenshot_2026-11-25_19-17-52.png]] ![[screenshot_2026-11-25_19-23-50.png]]
+> - III – inspeções; ![[screenshot_2026-11-25_19-24-19.png]] 
+> - IV – acompanhamentos; ![[screenshot_2026-11-25_19-24-37.png]]  
+> - V – monitoramentos; ![[screenshot_2026-11-25_19-24-44.png]]
+> - VI – relatório resumido da execução orçamentária; ![[screenshot_2026-11-25_19-24-54.png]] 
+> - VII – relatório de gestão fiscal. ![[screenshot_2026-11-25_19-25-05.png]] ![[screenshot_2026-11-25_19-23-07.png]]
         
-    - IV – acompanhamentos;
-	![[screenshot_2026-11-25_19-24-37.png]]
-        
-    - V – monitoramentos;
-	![[screenshot_2026-11-25_19-24-44.png]]
-        
-    - VI – relatório resumido da execução orçamentária;
-	![[screenshot_2026-11-25_19-24-54.png]]
-        
-    - VII – relatório de gestão fiscal.
-    ![[screenshot_2026-11-25_19-25-05.png]]
-	![[screenshot_2026-11-25_19-23-07.png]]
-        
-- Art. 94. As **auditorias, acompanhamentos e monitoramentos (AMA)** obedecerão ao **plano de fiscalização** elaborado pela **Presidência**, em consulta aos Relatores das unidades jurisdicionadas, e aprovado pelo Plenário.
-    - § 2º Os **levantamentos e inspeções (LI)**, **exceto os de rotina realizados pela equipe técnica do Tribunal lotada no órgão ou na entidade jurisdicionados**, ocorrerão por **determinação** do Plenário, da Câmara ou do Relator, **independentemente de programação**.
+> Art. 94. As **<span style="color:#83a598">auditorias, acompanhamentos e monitoramentos (AMA)</span>** obedecerão ao **<span style="color: #d79921">plano de fiscalização</span>** elaborado pela **Presidência**, em consulta aos Relatores das unidades jurisdicionadas, e aprovado pelo Plenário. 
+> - § 2º Os **<span style="color:#d3869b">levantamentos e inspeções (LI)</span>**, **<span style="color:#fb4934">exceto os de rotina realizados pela equipe técnica do Tribunal lotada no órgão ou na entidade jurisdicionados</span>**, ocorrerão por **determinação** do Plenário, da Câmara ou do Relator, **<span style="color:#83a598">independentemente de programação</span>**.
