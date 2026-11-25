@@ -1,4 +1,4 @@
-**DA FISCALIZAÇÃO** 
+# **DA FISCALIZAÇÃO** 
 
 - Art. 85. O Tribunal, no exercício de suas atribuições, pode realizar, por iniciativa própria, inspeções e auditorias, ou outro procedimento de fiscalização, de natureza contábil, financeira, orçamentária, operacional e patrimonial nos órgãos e entidades sob sua jurisdição, com vistas a verificar a **l****egalidade, a legitimidade, a economicidade, a eficiência, a eficácia e a efetividade de atos, contratos e fatos administrativos**, **inclusive os de concessão de incentivos fiscais**.
     
