@@ -74,6 +74,7 @@ Visão de Chiavenato:
         - Pode gerar **frustração** nos funcionários não escolhidos;
         - Pode gerar **conflito de interesses**;
         - Tende a gerar ocorrência do princípio de Peter.
+			- O **Princípio de Peter** ==afirma que, em uma estrutura hierárquica, todo funcionário tende a ser promovido até atingir seu **nível de incompetência**==
 - **Externo**
     - Adequado para **<span style="color:#83a598">contexto de crise econômica e desemprego</span>**:
         - Muitos candidatos disponíveis =
