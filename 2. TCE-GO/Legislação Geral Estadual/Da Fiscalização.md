@@ -54,7 +54,8 @@
     - §2º O Plano de Fiscalização **<span style="color:#b8bb26">poderá</span>** ser alterado, **<span style="color:#fb4934">a qualquer tempo</span>**, em decorrência de fato superveniente, mediante aprovação do Plenário.
         
     - §3º O plano mencionado no caput deste artigo deverá ser encaminhado pela Secretaria de Controle Externo à Presidência que, após consulta aos Relatores das unidades jurisdicionadas, o submeterá ao Plenário até o dia **==28 de fevereiro do primeiro ano de sua gestão==**.
-        
+
+![[screenshot_2026-11-27_14-59-02.png]]
 
 ## **DA EXECUÇÃO DAS FISCALIZAÇÕES (Art. 248-252)**
 
