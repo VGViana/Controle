@@ -115,3 +115,7 @@
     - II- **<span style="color:#b8bb26">desprovidas de amparo legal</span>**.
         
 - Art. 307. O acórdão que considerar legal o ato e determinar o seu registro **<span style="color:#fb4934">não faz coisa julgada administrativa</span>** e **<span style="color:#b8bb26">poderá ser revisto de ofício pelo Tribunal de Contas</span>** do Estado, **<span style="color:#83a598">com a oitiva da Procuradoria-Geral de Contas</span>**, **==dentro do prazo de 5 (cinco) anos==**, contados da data de apreciação, se verificado que o ato viola a ordem jurídica, ou **==a qualquer tempo==**, no caso de comprovada **<span style="color:#fe8019">má-fé</span>**.
+
+![[screenshot_2026-11-27_15-26-45.png]]
+
+![[screenshot_2026-11-27_15-27-04.png]]
