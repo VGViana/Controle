@@ -70,6 +70,7 @@
     - §1º No caso de obstrução ao livre exercício da fiscalização, ou de sonegação de processo, documento ou informação, o servidor a que se refere o art. 38 da Lei Orgânica, por meio da chefia imediata, representará o fato ao Relator ou ao Tribunal, que assinará **<span style="color:#fb4934">prazo improrrogável</span>** de **==até 15 (quinze) dias==** para apresentação de documentos, informações e esclarecimentos julgados necessários, fazendo-se a comunicação do fato ao Secretário de Estado ou autoridade de nível hierárquico equivalente, para as medidas cabíveis.
         
     - §2º Vencido o prazo e não cumprida a exigência, o Tribunal **<span style="color:#d3869b">aplicará a sanção</span>** prescrita no inciso VII do art. 112 da sua Lei Orgânica, e **<span style="color:#fe8019">representará o fato à Assembleia Legislativa, para as medidas cabíveis</span>**. **_(SANÇÃO + REPRESENTAÇÃO)_**
+![[screenshot_2026-11-27_15-01-28.png]]
         
 - Art. 249. No curso de fiscalização, se verificado **<span style="color:#d3869b">procedimento de que possa resultar dano ao erário ou irregularidade grave</span>**, **<span style="color: #d79921">a equipe representará</span>**, desde logo, com suporte em elementos concretos e convincentes, ao dirigente da unidade técnica, o qual submeterá a matéria ao respectivo Relator.
     
