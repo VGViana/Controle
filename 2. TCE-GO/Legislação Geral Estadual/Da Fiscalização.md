@@ -57,6 +57,7 @@
 
 ![[screenshot_2026-11-27_14-59-02.png]]
 
+![[screenshot_2026-11-27_15-23-05.png]]
 ## **DA EXECUÇÃO DAS FISCALIZAÇÕES (Art. 248-252)**
 
 - Art. 248. Ao servidor **<span style="color:#b8bb26">que exerce função específica de controle externo</span>**, quando **<span style="color: #d79921">credenciado pelo Presidente do Tribunal, ou por delegação deste, pelos dirigentes das unidades técnicas</span>**, para desempenhar funções de fiscalização, são asseguradas as seguintes prerrogativas:
