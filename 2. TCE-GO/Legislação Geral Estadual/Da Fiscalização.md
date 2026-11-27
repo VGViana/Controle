@@ -90,6 +90,7 @@
     - Parágrafo único. O responsável pela inserção dos dados deverá ser portador de senha para fins de assinatura eletrônica, a quem compete garantir a fidelidade dos registros, sob pena de responsabilização civil e criminal.
         
 
+![[screenshot_2026-11-27_15-14-15.png]]
 ## **DA APRECIAÇÃO DOS ATOS SUJEITOS A REGISTRO (Art. 297-307)**
 
 - Art. 297. O Tribunal de Contas do Estado, no exercício de suas competências, **<span style="color:#d3869b">apreciará, para fins de registro</span>**, na forma estabelecida neste Regimento e em ato normativo específico, a legalidade dos atos de:
