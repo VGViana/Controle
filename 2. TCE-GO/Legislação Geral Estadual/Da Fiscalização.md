@@ -58,6 +58,7 @@
 ![[screenshot_2026-11-27_14-59-02.png]]
 
 ![[screenshot_2026-11-27_15-23-05.png]]
+![[screenshot_2026-11-27_15-14-15.png]]
 ## **DA EXECUÇÃO DAS FISCALIZAÇÕES (Art. 248-252)**
 
 - Art. 248. Ao servidor **<span style="color:#b8bb26">que exerce função específica de controle externo</span>**, quando **<span style="color: #d79921">credenciado pelo Presidente do Tribunal, ou por delegação deste, pelos dirigentes das unidades técnicas</span>**, para desempenhar funções de fiscalização, são asseguradas as seguintes prerrogativas:
@@ -91,7 +92,6 @@
     - Parágrafo único. O responsável pela inserção dos dados deverá ser portador de senha para fins de assinatura eletrônica, a quem compete garantir a fidelidade dos registros, sob pena de responsabilização civil e criminal.
         
 
-![[screenshot_2026-11-27_15-14-15.png]]
 ## **DA APRECIAÇÃO DOS ATOS SUJEITOS A REGISTRO (Art. 297-307)**
 
 - Art. 297. O Tribunal de Contas do Estado, no exercício de suas competências, **<span style="color:#d3869b">apreciará, para fins de registro</span>**, na forma estabelecida neste Regimento e em ato normativo específico, a legalidade dos atos de:
