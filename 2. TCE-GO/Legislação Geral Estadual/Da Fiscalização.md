@@ -77,6 +77,7 @@
     - §1º O Relator, considerando a urgência requerida, fixará prazo de **==até 5 (cinco) dias <span style="color:#fb4934">úteis</span>==** para que o responsável se pronuncie sobre os fatos apontados.
         
     - §2º A fixação de prazo para pronunciamento **<span style="color:#fb4934">não impede</span>** que o Tribunal ou o Relator adote, desde logo, **<span style="color:#83a598">medida cautelar</span>**, de acordo com o disposto no art. 119 da Lei Orgânica, independentemente do recebimento ou da análise prévia das justificativas da parte.
+	![[screenshot_2026-11-27_15-04-09.png]]
         
 - Art. 250. Se configurada a **<span style="color:#d3869b">ocorrência de desfalque, desvio de bens ou outra irregularidade de que resulte dano ao erário</span>**, caracterizada a situação, identificado o responsável e quantificado o dano, o Tribunal de Contas do Estado ordenará, desde logo, a **<span style="color: #d79921">conversão do processo em tomada de contas especial</span>**, **<span style="color:#fb4934">salvo se o custo da cobrança for superior ao valor do ressarcimento</span>**.
     
